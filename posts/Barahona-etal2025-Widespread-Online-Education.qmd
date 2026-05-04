@@ -462,4 +462,9 @@ Esta seção segue o formato *IA Planilhando Textos v8.1*. A análise é adversa
       — A concentração de mercado (7 firmas = 73% da matrícula online) levanta a questão de poder de mercado: as elasticidades estimadas (−1,3 para online) sugerem mark-ups significativos. Uma análise de bem-estar que não decompõe excedente do produtor vs. consumidor é incompleta.<br/><br/>
       <strong>Relevância para a pesquisa sobre políticas educacionais e desigualdade no Brasil:</strong><br/>
       — O artigo fornece parâmetros estruturais (elasticidades de demanda, padrões de substituição, custos de entrada) diretamente utilizáveis em simulações de reformas de financiamento estudantil (PROUNI/FIES) e de credenciamento de novos cursos.<br/>
-      — A heterogeneidade etária documentada tem implicações diretas para o desenho de políticas de educação de adul
+      — A heterogeneidade etária documentada tem implicações diretas para o desenho de políticas de educação de adultos e formação continuada. <em>[Conteúdo truncado — fichamento incompleto]</em>
+    </td>
+  </tr>
+</table>
+</div>
+```
