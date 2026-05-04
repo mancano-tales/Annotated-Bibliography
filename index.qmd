@@ -1,0 +1,21 @@
+---
+title: "Annotated Bibliography"
+subtitle: "Fichamentos acadêmicos em ciência política, economia política e sociologia histórica"
+page-layout: full
+listing:
+  sort: "date desc"
+  type: default
+  page-size: 100
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  feed: true
+  contents:
+    - posts
+draft-mode: unlinked
+page-navigation: false
+title-block-banner: false
+---
+
+:::{#listing}
+:::

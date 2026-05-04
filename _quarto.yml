@@ -1,0 +1,64 @@
+project:
+  type: website
+  output-dir: docs
+
+execute:
+  freeze: false
+
+description-meta: "Tales Mançano — Annotated Bibliography"
+author-meta: "Tales Mançano"
+
+website:
+  title: "Annotated Bibliography"
+  description: "Fichamentos acadêmicos de Tales Mançano"
+
+  navbar:
+    background: light
+    left:
+      - text: "← Tales Mançano"
+        href: https://mancano-tales.github.io
+        target: _blank
+      - text: Bibliography
+        href: index.qmd
+
+    right:
+      - icon: github
+        href: https://github.com/mancano-tales/Mancano-Annotated-Bibliography
+        target: _blank
+      - text: "{{< fa brands bluesky >}}"
+        href: https://bsky.app
+        target: _blank
+
+  page-navigation: true
+
+  page-footer:
+    left: "[Tales Mançano](https://mancano-tales.github.io) &copy; <script>document.write(new Date().getFullYear())</script>"
+    right:
+      - icon: github
+        href: https://github.com/mancano-tales/Mancano-Annotated-Bibliography
+        target: _blank
+
+  search:
+    location: navbar
+    type: textbox
+
+  reader-mode: true
+  draft-mode: unlinked
+  open-graph: true
+
+bibliography: "references.bib"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    footnotes-hover: true
+    code-copy: true
+    code-link: true
+    code-overflow: wrap
+    fig-align: center
+    link-external-icon: false
+    link-external-newwindow: true
+    email-obfuscation: javascript
+    include-in-header: "files/includes/_academic.qmd"
