@@ -1,2 +1,2 @@
-# Mancano-Annotated-Bibliography
+Annotated-Bibliography
 
