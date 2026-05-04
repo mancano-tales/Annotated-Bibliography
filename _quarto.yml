@@ -11,6 +11,8 @@ author-meta: "Tales Mançano"
 website:
   title: "Annotated Bibliography"
   description: "Fichamentos acadêmicos de Tales Mançano"
+  site-url: "https://mancano-tales.github.io/Mancano-Annotated-Bibliography"
+  repo-url: "https://github.com/mancano-tales/Mancano-Annotated-Bibliography"
 
   navbar:
     background: light
