@@ -13,7 +13,6 @@ format:
     theme: cosmo
     highlight-style: github
     code-fold: false
-    self-contained: true
 ---
 
 > GINGRICH, Jane; GIUDICI, Anja. Education as a tool of social equality? *Social Policy & Administration*, v. 57, n. 2, p. 172–188, 2023. DOI: 10.1111/spol.12878.

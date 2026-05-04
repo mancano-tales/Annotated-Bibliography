@@ -13,7 +13,6 @@ format:
     theme: cosmo
     highlight-style: github
     code-fold: false
-    self-contained: true
 ---
 
 > Garritzmann, J. L., & Seng, K. (2026). The politics of mass higher education – what role have political parties played in the expansion of higher education enrolment? *Comparative Education*. Advance online publication. https://doi.org/10.1080/03050068.2026.2656040

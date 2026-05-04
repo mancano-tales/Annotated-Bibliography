@@ -13,7 +13,6 @@ format:
     theme: cosmo
     highlight-style: github
     code-fold: false
-    self-contained: true
 ---
 > Barahona, N., Dobbin, C., & Otero, S. (2026, April 6). *Equilibrium price responses to targeted student financial aid* [Working paper]. University of California, Berkeley; Georgetown University; Columbia University.
 

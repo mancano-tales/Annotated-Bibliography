@@ -13,7 +13,6 @@ format:
     theme: cosmo
     highlight-style: github
     code-fold: false
-    self-contained: true
     lang: pt
 ---
 

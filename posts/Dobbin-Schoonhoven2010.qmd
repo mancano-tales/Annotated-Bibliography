@@ -13,7 +13,6 @@ format:
     theme: cosmo
     highlight-style: github
     code-fold: false
-    self-contained: true
 ---
 
 > Dobbin, F., & Schoonhoven, C. B. (2010). An organizational sociology of Stanford's organization theory renaissance. In C. B. Schoonhoven & F. Dobbin (Eds.), *Stanford's organization theory renaissance, 1970–2000* (Research in the Sociology of Organizations, Vol. 28, pp. xvii–xli). Emerald Group Publishing.
