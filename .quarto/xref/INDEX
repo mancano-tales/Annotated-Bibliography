@@ -226,5 +226,122 @@
   },
   "Durham2005.qmd": {
     "Durham2005.html": "be3f451d"
+  },
+  "Andersen2024vClaudeSonnet4.6.qmd": {
+    "Andersen2024vClaudeSonnet4.6.html": "03b7c393"
+  },
+  "Andersen2024vDeepSeek.qmd": {
+    "Andersen2024vDeepSeek.html": "7b2b1535"
+  },
+  "CATEGORIES.md": {
+    "CATEGORIES.html": "3ab06af6"
+  },
+  "Old_Website_Posts/2026-01-02-EDUC-306B/index.qmd": {
+    "index.html": "b035a1fe"
+  },
+  "Old_Website_Posts/2026-01-03-Deciding-Classes-Stanford/index.qmd": {
+    "index.html": "2f5bfa28"
+  },
+  "Old_Website_Posts/2026-01-03-Mechanisms-in-SSciences/draft.qmd": {
+    "draft.html": "cae0ec00"
+  },
+  "Old_Website_Posts/2026-01-10_Institutions_Culture/2026-01-10_Institutions_Culture.qmd": {
+    "2026-01-10_Institutions_Culture.html": "10640d97"
+  },
+  "Old_Website_Posts/2026-01-12-Hall1989/Hall1989.qmd": {
+    "Hall1989.html": "7e1775be"
+  },
+  "Old_Website_Posts/2026-02-19-Huber-Stephen-vs-Lupu-Pontusson/index.qmd": {
+    "index.html": "a6923e08"
+  },
+  "Old_Website_Posts/2026_01_16_TMancano_Plans_Projects/index.qmd": {
+    "index.html": "5be615c4"
+  },
+  "Old_Website_Posts/2026_01_16_TMancano_Plans_Projects/TMancano_Plans_Projects.qmd": {
+    "TMancano_Plans_Projects.html": "ce757fd5"
+  },
+  "Old_Website_Posts/2026_01_20_Comment_on_Paglayan/Comment_on_Paglayan.qmd": {
+    "Comment_on_Paglayan.html": "47c31579"
+  },
+  "Old_Website_Posts/Albouy2012.qmd": {
+    "Albouy2012.html": "f2d4287c"
+  },
+  "Old_Website_Posts/Callaway-etal2025-Contdid.qmd": {
+    "Callaway-etal2025-Contdid.html": "f2f7f880"
+  },
+  "Old_Website_Posts/Carnoy1984/Carnoy1984.qmd": {
+    "Carnoy1984.html": "99a5b682"
+  },
+  "Old_Website_Posts/Carnoy1989/Carnoy1989.qmd": {
+    "Carnoy1989.html": "503077a1"
+  },
+  "Old_Website_Posts/Carnoy2024Ch3.qmd": {
+    "Carnoy2024Ch3.html": "211d70ae"
+  },
+  "Old_Website_Posts/Evans1995.qmd": {
+    "Evans1995.html": "6b3ece6d"
+  },
+  "Old_Website_Posts/Hall1993.qmd": {
+    "Hall1993.html": "8cd7e6d9"
+  },
+  "Old_Website_Posts/Hall2003.qmd": {
+    "Hall2003.html": "c97406e8"
+  },
+  "Old_Website_Posts/Hay2019.qmd": {
+    "Hay2019.html": "2fc92641"
+  },
+  "Old_Website_Posts/Template.qmd": {
+    "Template.html": "59b20c56"
+  },
+  "Old_Website_Posts/Text Template.qmd": {
+    "Text Template.html": "3e628d16"
+  },
+  "posts/Durham2003vPerplecity.qmd": {
+    "Durham2003vPerplecity.html": "09ccbcbc"
+  },
+  "posts/Lupu-Pontusson2023Chp-1.qmd": {
+    "Lupu-Pontusson2023Chp-1.html": "b4dcee6b"
+  },
+  "Repo-Prompts/2026-03-07-IA-Planilhando-Texto.qmd": {
+    "2026-03-07-IA-Planilhando-Texto.html": "61e3c50a"
+  },
+  "Repo-Prompts/2026-03-08-v2-Gerando-Podcasts-NotebookLM.qmd": {
+    "2026-03-08-v2-Gerando-Podcasts-NotebookLM.html": "a53a613a"
+  },
+  "Repo-Prompts/2026-03-08-v6-IA-Planilhando-Texto.qmd": {
+    "2026-03-08-v6-IA-Planilhando-Texto.html": "1faa517d"
+  },
+  "Repo-Prompts/v11 2026-04-18 From PDFs to Blog Posts.qmd": {
+    "v11 2026-04-18 From PDFs to Blog Posts.html": "22695307"
+  },
+  "Repo-Prompts/v12.0 2026-04-19 IA Blog Post JSON.qmd": {
+    "v12.0 2026-04-19 IA Blog Post JSON.html": "a89fd33f"
+  },
+  "Repo-Prompts/v13.0 2026-04-19 IA Blog Post MD.qmd": {
+    "v13.0 2026-04-19 IA Blog Post MD.html": "53993614"
+  },
+  "Repo-Prompts/v13.1 ENGRISHH  2026-04-19 IA Blog Post MD.qmd": {
+    "v13.1 ENGRISHH  2026-04-19 IA Blog Post MD.html": "a4aa5bab"
+  },
+  "Repo-Prompts/v14.qmd": {
+    "v14.html": "2a89c19a"
+  },
+  "Repo-Prompts/v15.qmd": {
+    "v15.html": "135cf98f"
+  },
+  "Repo-Prompts/v16.0 2026-04-19 IA Blog Post MD + GITHUB.qmd": {
+    "v16.0 2026-04-19 IA Blog Post MD + GITHUB.html": "72491cd4"
+  },
+  "Repo-Prompts/v7-2026-03-12-IA-Planilhando-Texto.qmd": {
+    "v7-2026-03-12-IA-Planilhando-Texto.html": "fc3b4f8c"
+  },
+  "Repo-Prompts/v8-2026-03-13-IA-Planilhando-Texto.qmd": {
+    "v8-2026-03-13-IA-Planilhando-Texto.html": "f41de43f"
+  },
+  "Repo-Prompts/v8.1-2026-03-13-IA-Planilhando-Texto.qmd": {
+    "v8.1-2026-03-13-IA-Planilhando-Texto.html": "a79e03a5"
+  },
+  "Repo-Prompts/v9 2026 04 18 Planilhando Texto com IA e transformando num Blog Post em Quarto.qmd": {
+    "v9 2026 04 18 Planilhando Texto com IA e transformando num Blog Post em Quarto.html": "928304bd"
   }
 }

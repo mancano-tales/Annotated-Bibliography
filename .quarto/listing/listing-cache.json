@@ -2,6 +2,9 @@
   "listingMap": {
     "index.qmd": [
       "posts"
+    ],
+    "Old_Website_Posts\\2026_01_16_TMancano_Plans_Projects\\TMancano_Plans_Projects.qmd": [
+      "TMancano-Projects_Planning/*.qmd"
     ]
   }
 }
