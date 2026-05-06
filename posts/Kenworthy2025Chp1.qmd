@@ -1,0 +1,139 @@
+---
+title: "Fichamento: Inequality Isn't the Problem"
+subtitle: "Kenworthy, L. (s.d. [cap. 1 de *Is Inequality the Problem?*])"
+author: "Tales Mançano"
+date: "2026-05-06"
+last-updated: "2026-05-06"
+categories: [Annotated Bibliography, Desigualdade Econômica, Economia Política, Política Social Comparada, Metodologia Quantitativa, Democracia e Bem-Estar]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+---
+
+Kenworthy, L. (2025). Inequality isn't the problem. In *Is inequality the problem?* Oxford University Press. https://doi.org/10.1093/book/9780197756317
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → Kenworthy2025Chp1
+
+```bibtex
+@incollection{Kenworthy2025Chp1,
+  author    = {Kenworthy, Lane},
+  title     = {Inequality Isn't the Problem},
+  booktitle = {Is Inequality the Problem?},
+  publisher = {Oxford University Press},
+  year      = {2025},
+  chapter   = {1},
+  pages     = {1--14},
+  doi       = {10.1093/book/9780197756317},
+}
+```
+
+:::
+
+Última atualização: 2026-05-06
+Modelo: Perplexity — Claude Sonnet 4.6
+Prompt Version: v13.0 2026-04-19 | 2026-04-24 "IA Blog Post QMD"
+Gerado em: 2026-05-06T20:10:00-03:00
+
+---
+
+## Introdução: O Consenso em Torno da Desigualdade (pp. 1–5)
+
+### O diagnóstico dominante na literatura e no debate público [§1–§14]
+
+O capítulo inaugura-se com uma extensa série de citações de intelectuais, economistas, jornalistas, organizações internacionais e líderes religiosos — cobrindo o período de 2009 a 2024 — que convergem para a ideia de que a **desigualdade econômica** é um dos principais, senão o principal, problema das sociedades ricas contemporâneas. Wilkinson e Pickett (2009) sustentam que os males das nações ricas derivam não da escassez absoluta, mas da magnitude das diferenças materiais *internas* a cada sociedade. Paul Krugman (2011) denuncia a incompatibilidade entre concentração extrema de renda e democracia real. George Packer (2011) descreve a desigualdade como o "mal subjacente" que permeia a economia, a política e a coesão social norte-americana.
+
+Joseph Stiglitz (2012, 2023), Christopher Hayes (2012), Chrystia Freeland (2012) e Robert Reich (2013) reforçam a narrativa de que a desigualdade corrói produtividade, eficiência, crescimento e a própria estrutura democrática. O Papa Francisco (2014) sintetiza o argumento moral ao afirmar que a desigualdade é "a raiz do mal social". Ezra Klein e Joe Posner (2014) invocam o conceito de um "ciclo vicioso de oligarquia" no qual riqueza compra poder e poder produz mais riqueza. Jefferson Cowie (2016) trata a saída das décadas de desigualdade como o "projeto mais urgente" de nosso tempo. Keith Payne (2017) propõe que a desigualdade extrema é o denominador comum de praticamente todos os problemas sociais contemporâneos. Carsten Jensen e Kees van Kersbergen (2017) afirmam que as consequências de grandes disparidades de renda para a saúde, satisfação de vida e mobilidade social são "clara e fortemente negativas". Samuel Moyn (2018), numa perspectiva mais filosófica, argumenta que a linguagem dos direitos humanos é insuficiente para enfrentar a "barbárie da vitória dos ricos", ao contrário de linguagens igualitárias mais robustas.
+
+O leque de vozes se amplia com Jacob Hacker e Paul Pierson (2020), que caracterizam a ascensão da plutocracia como o grande enredo da política norte-americana pós-1980. A OCDE (2021) documenta a ampliação das disparidades e registra que a maioria das populações clama por maior igualdade de resultados e oportunidades. Blanchard e Rodrik (2021) relatam que, numa grande conferência do Peterson Institute for International Economics em 2019, nenhum participante contestou a visão de que a desigualdade é um problema de primeira ordem. Thomas Piketty (2023) compara a negação da desigualdade ao negacionismo climático. David Leonhardt (2023) argumenta que a desigualdade extrema limita a liberdade efetiva dos norte-americanos em múltiplas dimensões — saúde, mobilidade, qualidade escolar, salários. Kaushik Basu (2023), Stiglitz (2023), Tom Malleson (2023), Oxfam (2023), Anthony Kamande (2024), Evelyne Huber e John Stephens (2024), e Ingrid Robeyns (2024) completam a galeria, propondo desde caps de riqueza individuais até metas de Gini para todos os países.
+
+::: {.callout-note icon=false}
+**Tese implícita do consenso citado:** A desigualdade econômica — entendida como a distância entre o topo e a base da distribuição de renda ou riqueza dentro de um país — é, ao mesmo tempo, (a) moralmente injusta, (b) economicamente prejudicial ao crescimento e ao padrão de vida médio, (c) corrosiva da democracia e (d) geradora de piores resultados de saúde, oportunidade e felicidade. Portanto, sua redução deve ser prioridade central de política pública.
+:::
+
+### Delimitação do objeto e pergunta central [§15–§16]
+
+Após as citações, o autor delimita com precisão o escopo do livro. A desigualdade em questão **não** é a desigualdade entre grupos (gênero, raça, idade, natividade), mas a **desigualdade geral de renda ou riqueza** dentro de uma sociedade — a distância entre o topo e a base. Kenworthy usará indistintamente as expressões "desigualdade de renda", "desigualdade de riqueza" e "desigualdade econômica".
+
+> Há um caso convincente para reduzir a desigualdade nas democracias ricas de longa data? Se sim, quão alta deve ser essa prioridade na agenda dos formuladores de política?
+
+Esta dupla pergunta — uma descritivo-avaliativa, outra normativa — estrutura todo o capítulo e o livro.
+
+---
+
+## Desigualdade é Injusta (pp. 6–7)
+
+### A justificativa moral clássica e sua fragilidade [§17–§18]
+
+O autor reconhece que grande parte do que determina renda e riqueza de uma pessoa — inteligência, criatividade, habilidades físicas e sociais, motivação, persistência, conexões, patrimônio herdado, discriminação — resulta de genética, ativos e traços dos pais e qualidade do bairro e das escolas da infância. Nada disso é escolhido; é uma questão de sorte. Uma parcela não trivial da desigualdade econômica é, portanto, **imerecida** (*undeserved*). Essa constatação fundamenta a acusação histórica de injustiça contra a desigualdade.
+
+Historicamente, argumenta Kenworthy, a crença na injustiça da desigualdade era o argumento principal de sua rejeição. Nas últimas décadas, entretanto, o foco se deslocou: a preocupação dominante passou a ser se a desigualdade *produz consequências prejudiciais* a uma gama de resultados valorizados — da democracia à saúde, passando pela oportunidade e pelo crescimento.
+
+---
+
+## A Desigualdade é Prejudicial? (pp. 7–8)
+
+### Mecanismos hipotéticos pelos quais a desigualdade geraria danos [§19–§24]
+
+::: {.callout-note icon=false}
+O autor identifica cinco grandes domínios pelos quais a desigualdade poderia, hipoteticamente, ser prejudicial: (1) padrão de vida e crescimento; (2) balanços domésticos; (3) democracia e influência política; (4) igualdade de oportunidades; (5) saúde, longevidade e felicidade.
+:::
+
+No domínio dos **padrões de vida**, a desigualdade de renda poderia reduzir o crescimento econômico porque os ricos tendem a poupar proporção maior da renda, gerando consumo agregado insuficiente. Ademais, a percepção de injustiça poderia reduzir o esforço no trabalho ou o compartilhamento de informações com gestores. Mesmo quando o crescimento não é afetado, a desigualdade pode deslocar seus frutos para o topo, privando a classe média e os mais pobres de ganhos reais. Adicionalmente, famílias de renda média e baixa podem acumular dívida excessiva para imitar o consumo dos mais ricos ou simplesmente por estagnação de sua própria renda.
+
+No campo da **democracia**, renda mais elevada permite a compra de influência política por meio de lobby, doações a campanhas, controle de mídias e think tanks, e acesso a cargos eletivos — minando o princípio de igualdade de oportunidade de influência.
+
+Quanto à **igualdade de oportunidades**, a renda influencia estrutura familiar, qualidade escolar, gastos dos pais, saúde e bairro de residência. Maior desigualdade de renda pode, assim, amplificar a desigualdade de oportunidades entre gerações.
+
+No plano da **saúde e longevidade**, desigualdade maior pode induzir maior estresse de status, que prejudica a saúde diretamente ou indiretamente ao estimular comportamentos nocivos (tabagismo, obesidade, abuso de drogas e álcool, violência).
+
+Por fim, no domínio da **felicidade**, a tendência humana à comparação social implica que o aumento da desigualdade pode fazer as pessoas se sentirem estacionadas mesmo quando padrões de vida objetivos melhoram.
+
+---
+
+## Foco nos Países (pp. 8)
+
+### Justificativa metodológica para a análise comparada em nível de país [§25–§29]
+
+Kenworthy anuncia sua estratégia analítica: privilegiar **evidência em nível de país**. O argumento é direto — a maioria das alavancas relevantes para influenciar a desigualdade econômica está no governo nacional. Quando se afirma que menor desigualdade melhoraria saúde ou democracia, refere-se à desigualdade do *país*, não do bairro ou da escola.
+
+Estudos sobre indivíduos também têm relevância: experimentos de laboratório que mostram maior propensão a trapacear em contextos de alta desigualdade, ou análises de surveys, são informativos. Contudo, carregam uma limitação crítica: não sabemos se os efeitos individuais observados se escalam para o nível agregado. O autor ilustra com o exemplo das alíquotas fiscais — embora estudos individuais sugiram que pessoas respondem a incentivos financeiros de forma consistente com a hipótese de que baixos impostos elevam o crescimento, a evidência agregada entre países não corrobora essa hipótese. O efeito de incentivo individual é pequeno ou é compensado por outros efeitos pró-crescimento dos impostos.
+
+::: {.callout-tip}
+A lógica de Kenworthy é: se a evidência individual aponta na direção da hipótese, isso é suporte, mas insuficiente. Se a evidência em nível de país diz algo diferente, deve-se ser muito cauteloso antes de recomendar a redução da desigualdade como estratégia de política pública.
+:::
+
+---
+
+## A Era da Desigualdade Crescente (pp. 9–11)
+
+### Tendências históricas da desigualdade no topo (top 1%) [§30–§33]
+
+O autor apresenta a **Figura 1.1**, que mostra a parcela de renda apropriada pelo 1% mais rico em cada uma das democracias ricas de longa data, com séries históricas derivadas principalmente de registros tributários — disponíveis em alguns países desde o século XIX. O padrão geral é de três fases: crescimento da desigualdade entre fins do século XIX e início do XX; queda contínua de aproximadamente 1910 até 1979; e nova alta desde o final dos anos 1970 até o presente.
+
+O crescimento pós-1979 não foi uniforme. A parcela de renda do 1% cresceu *bastante rapidamente* na Austrália, Canadá, Dinamarca, Finlândia, Itália, Nova Zelândia, Reino Unido e Estados Unidos. Cresceu *menos rapidamente* na França, Alemanha, Irlanda, Japão, Coreia do Sul, Noruega, Portugal e Suécia. Cresceu de modo *mínimo ou inexistente* na Áustria, Bélgica, Países Baixos, Espanha e Suíça. Os Estados Unidos destacam-se visivelmente na Figura 1.1, com nível de desigualdade no topo muito superior ao dos demais países.
+
+### Tendências históricas da desigualdade nos 99% inferiores (Gini) [§34–§37]
+
+A segunda métrica padrão é o **coeficiente de Gini** calculado sobre os 99% inferiores da distribuição, com base em pesquisas domiciliares. Esses dados têm cobertura histórica menor (geralmente a partir dos anos 1960–70) mas confirmam o padrão de queda pré-1979 e alta posterior. Aqui também há heterogeneidade: o Gini cresceu *acentuadamente* na Austrália, Finlândia, Alemanha, Japão, Nova Zelândia, Suécia e Estados Unidos; *menos rapidamente* na Áustria, Bélgica, Canadá, Dinamarca, Itália, Países Baixos, Noruega, Espanha e Reino Unido; e *ficou estável ou caiu levemente* na França, Irlanda, Coreia do Sul, Portugal e Suíça.
+
+### Correlação entre as duas métricas e sua imperfeiçção [§38–§40]
+
+A **Figura 1.3** cruza o nível médio de parcela de renda do 1% com o nível médio do Gini dos 99% entre 1979 e 2019. A correlação é positiva (+0,46), mas não especialmente forte. A **Figura 1.4** exibe a *mudança* nas duas métricas no mesmo período; aqui a correlação é ainda mais fraca (+0,31), e vários países que apresentaram pouca variação em uma das métricas registraram grande variação na outra. Diante disso, o autor justifica o uso de ambas as medidas separadamente ao longo do livro, em vez de uma medida unificada.
+
+---
+
+## Reduzir a Desigualdade Provavelmente Não Resolverá Outros Problemas (pp. 11–13)
+
+### Síntese antecipada dos resultados dos capítulos seguintes [§41–§47]
+
+::: {.callout-important}
+Esta seção contém a tese central do capítulo e do livro: ao examinar a evidência em nível de país sobre os efeitos da desigualdade de renda em cinco domínios — padrões de vida, democracia, igualdade de oportunidade, longevidade e felicidade —, o suporte para a ideia de que reduzir a desigualdade melhorará esses resultados é **decepcionante** (*underwhelming*).
+:::
+
+Em relação aos **padrões de vida**, as democracias ricas com maior desigualdade ou com maiores aumentos de desigualdade não tenderam a crescer menos, a ter renda domiciliar menor ou a apresentar piores balanços das famílias. Em relação à **democracia**, embora governos tendam a responder mais às preferências dos ricos do que aos de baixa renda, nos Estados Unidos — que experimentou grande alta de desigualdade desde os anos 1970 — o grau de desigualdade de influência política *não aumentou*, nem parece diferir significativamente de países com muito menor desigualdade econômica. Reduzir a desigualdade americana ao seu nível mais baixo histórico (anos 1970) muito provavelmente não reduziria a desigualdade política.
+
+Quanto à **igualdade de oportunidade**, os mecanismos teóricos existem (estrutura familiar, gastos parentais, qualidade das escolas, bairros), mas a evidência de que reduzir a desigualdade de renda produziria redução significativa da desigualdade de oportunidade é escassa. Em relação à **saúde**, o tema recebeu atenção substancial de pesquisadores e tornou-se quase um dogma que a desigualdade reduz a longevidade; mas a evidência em nível de país oferece 

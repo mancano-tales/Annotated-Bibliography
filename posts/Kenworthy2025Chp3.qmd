@@ -1,0 +1,194 @@
+---
+title: "Fichamento: Does Income Inequality Degrade Democracy?"
+subtitle: "Kenworthy, L. (s.d. [cap. 3 de *Is Inequality the Problem?*])"
+author: "Tales Mançano"
+date: "2026-05-06"
+last-updated: "2026-05-06"
+categories: [Annotated Bibliography, Desigualdade Econômica, Democracia, Influência Política, Economia Política, Metodologia Quantitativa]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+---
+
+Kenworthy, L. (2025). Does income inequality degrade democracy? In *Is inequality the problem?* Oxford University Press. [https://doi.org/10.1093/book/9780197756317](https://doi.org/10.1093/book/9780197756317)
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → Kenworthy2025Chp3
+
+```bibtex
+@incollection{Kenworthy2025Chp3,
+  author    = {Kenworthy, Lane},
+  title     = {Does Income Inequality Degrade Democracy?},
+  booktitle = {Is Inequality the Problem?},
+  publisher = {Oxford University Press},
+  year      = {2025},
+  chapter   = {3},
+  pages     = {28--36},
+  doi       = {10.1093/book/9780197756317},
+}
+```
+:::
+
+Última atualização: 2026-05-06
+Modelo: Perplexity — Claude Sonnet 4.6
+Prompt Version: v13.0 2026-04-19 | 2026-04-24 "IA Blog Post QMD"
+Gerado em: 2026-05-06T20:31:00-03:00
+
+***
+
+## Introdução e Definição do Problema (p. 28)
+
+### Democracia como igualdade de oportunidade de influência [§1–§2]
+
+O capítulo parte de uma definição operacional de democracia: sistema de tomada de decisão em que as pessoas têm **aproximadamente igual oportunidade de influenciar a política governamental**. A premissa central é que a desigualdade econômica pode tornar o sistema político menos democrático, porque quem dispõe de mais dinheiro tem maior capacidade de exercer influência desproporcional sobre os formuladores de política. O foco empírico recai principalmente — mas não exclusivamente — nos Estados Unidos, justificado pela disponibilidade de dados e pelo fato de que a desigualdade de renda americana é das maiores entre os países ricos e cresceu mais acentuadamente desde o final dos anos 1970. 
+
+***
+
+## A Hipótese "A Desigualdade É Prejudicial" (pp. 28–29)
+
+### Os cinco canais pelos quais o dinheiro compra influência política [§3–§8]
+
+O autor sistematiza cinco mecanismos principais pelos quais pessoas com maior renda — e as empresas que controlam — podem converter dinheiro em influência política: 
+
+1. **Doações a candidatos e partidos.** Os gastos eleitorais nos EUA totalizaram mais de US$ 16 bilhões em 2020 e em 2024 (ante US$ 5 bilhões em 2000); americanos no 0,01% superior de renda respondem por cerca de 40% das contribuições de campanha. 
+2. **Candidatura a cargos eletivos.** Mais da metade dos 535 membros do Congresso americano têm patrimônio líquido superior a US$ 1 milhão; bilionários como Donald Trump se elegeram presidente, e outros como Bloomberg e Steyer disputaram primárias presidenciais. 
+3. **Lobby.** As despesas com lobby nos EUA totalizam cerca de US$ 3,5 bilhões anuais, com alta acentuada nos anos 2000 antes de estabilizar nos 2010s. 
+4. **Financiamento de organizações e movimentos.** Incluindo mobilização de base, petições, campanhas de contato com parlamentares e manifestações. 
+5. **Influência sobre ideias.** Financiamento de pesquisa, criação e sustentação de *think tanks*, compra ou criação de veículos de mídia e promoção de formadores de opinião. 
+
+### O "doom loop" plutocráico e seus limites [§9–§10]
+
+A hipótese "a desigualdade é prejudicial" (*inequality-is-harmful hypothesis*) prevê que, à medida que a desigualdade econômica aumentou desde os anos 1970, a influência política dos que estão no topo também teria crescido — podendo criar um **ciclo vicioso de oligarquia**: desigualdade econômica → desigualdade política → políticas que ampliam ainda mais a desigualdade econômica. Contudo, o autor levanta a possibilidade de **retornos decrescentes**: já havia desigualdade econômica considerável nos EUA nos anos 1970, e os ricos já detinham então vantagem política apreciável sobre o restante da cidadania — de modo que mesmo o posterior aumento das suas rendas e riquezas pode não ter traduzido em maior vantagem política. 
+
+***
+
+## Os Ricos Americanos Têm Influência Política Desproporcional? (pp. 29–31)
+
+### Bartels: correspondência entre preferências de renda alta e votos legislativos [§11–§12]
+
+Larry Bartels utilizou dados de surveys de opinião pública para identificar as preferências de americanos em três faixas de renda (baixa, média e alta) e examinou o grau em que essas preferências se correlacionam com os votos de seus representantes eleitos no Congresso no início dos anos 1990 e 2010. A conclusão de Bartels é que o comportamento de voto dos parlamentares tende a corresponder muito mais estreitamente aos desejos das pessoas de alta renda do que aos de renda média ou baixa. O avanço em relação a estudos anteriores é a cobertura de um leque amplo de políticas — mas uma limitação crítica persiste: o voto legislativo pode não se traduzir em decisões de política efetiva. 
+
+### Gilens: preferências versus mudanças de política efetiva [§13–§15]
+
+Martin Gilens, em *Affluence and Influence*, avança ao verificar se mudanças efetivas de política (não apenas votos legislativos) correspondem às preferências das diferentes faixas de renda. Usando surveys de 1981 a 2002 com 1.779 resultados de política, Gilens constata que as decisões políticas tendem a conformar-se mais às preferências de americanos de alta renda do que às de média ou baixa renda. Portanto, a evidência disponível confirma que americanos com mais renda possuem, de fato, maior influência política — consistente com a *inequality-is-harmful hypothesis*. 
+
+### Três ressalvas críticas [§16–§19]
+
+O autor, porém, apresenta três qualificações importantes:
+
+- **Ressalva 1 — sobreposição de preferências:** Os ricos divergiram dos de renda média em apenas **10% das políticas** estudadas por Gilens. Assim, a vantagem de influência política dos ricos é relevante para um conjunto relativamente pequeno de escolhas políticas. 
+- **Ressalva 2 — canais sem efeito detectado:** A pesquisa encontrou **muito pouca evidência** de que doações de campanha e lobby influenciem efetivamente decisões de política  — algo surpreendente, dado que esses são os canais mais frequentemente invocados no debate público. 
+- **Ressalva 3 — limitações de dados:** Os surveys não capturam adequadamente as preferências do 1% mais rico (amostra insuficiente), de modo que "renda alta" em Gilens se refere ao percentil 90, não ao topo da distribuição. Além disso, o universo de políticas analisado restringe-se ao que os surveys perguntaram — o que exclui grande parte da agenda real. 
+
+### Burstein: amostragem aleatória de propostas legislativas [§20]
+
+Paul Burstein adota estratégia alternativa: parte do universo de propostas consideradas pelo Congresso em 1989–90, extrai amostra de 60 propostas (417 *bills*) e rastreia seu destino. O método é metodologicamente mais robusto para representatividade da agenda, mas sofre das mesmas limitações na identificação das preferências dos ricos e cobre apenas dois anos. O banco de dados ideal, segundo o autor, combinaria a amplitude de Burstein com longas séries temporais, cobertura de ações do Executivo (implementação, regulações, decretos) e identificação das preferências do topo da distribuição. 
+
+***
+
+## O Gap de Influência Aumentou com a Desigualdade? (pp. 31–32)
+
+### Ausência de tendência crescente na brecha de influência [§21–§24]
+
+A hipótese causal central exige não apenas que os ricos tenham mais influência, mas que essa vantagem **tenha crescido** junto com a desigualdade econômica desde os anos 1970. A evidência disponível não corrobora essa previsão. Jacob Hacker e Paul Pierson não encontram aumento na frequência de vitórias políticas dos ricos ao longo das últimas décadas. Os próprios dados de Gilens — que incluem anos anteriores e posteriores ao período central de 1981–2002 — mostram que o gap de influência entre ricos e não-ricos foi pequeno nos anos Johnson (1960s), maior nos governos Reagan e Clinton, e menor novamente no governo George W. Bush (2000s) — sem tendência clara de alta. Wlezien e Soroka replicam análise semelhante para 1972–2008 e também não encontram indicação de crescimento da responsividade desproporcional a americanos de renda mais alta. 
+
+***
+
+## O Gap É Maior em Países com Mais Desigualdade Econômica? (pp. 32–33)
+
+### Evidência comparada contraria a hipótese [§25–§28]
+
+Se a *inequality-is-harmful hypothesis* estiver correta, países com maior desigualdade econômica deveriam exibir maior desigualdade de influência política. A evidência de estudos individuais por país — Alemanha, Países Baixos, Noruega, Espanha, Suécia e Suíça — mostra que, com exceção da Noruega, todos apresentam o mesmo padrão dos EUA: quando ricos e pobres divergem, a política tende a refletir as preferências dos ricos. Dois estudos comparativos transversais concluem que **a magnitude da disparidade na responsividade política é semelhante entre países com níveis de desigualdade econômica muito diferentes** — o oposto do que a hipótese prevê. 
+
+Esses achados são consistentes com a literatura sobre por que os EUA têm a política social menos generosa entre as democracias ricas: os fatores explicativos mais robustos são estruturais e institucionais — eleições majoritárias e bipartidarismo, múltiplos pontos de veto no sistema político, sindicatos fracos, ausência de concertação corporatista, diversidade racial e étnica e ausência de herança feudal — e não o nível de desigualdade econômica. 
+
+***
+
+## Taxas de Imposto, Regulação Financeira e Sindicalização (pp. 33–34)
+
+### Políticas favoráveis aos ricos: coincidência, não causalidade [§29–§34]
+
+O teste adicional proposto pelo autor é verificar se os EUA — que tiveram o maior aumento de desigualdade — também apresentaram maior avanço em políticas desejadas pelos ricos: redução de impostos no topo, desregulação financeira e declínio da sindicalização. 
+
+- **Impostos:** A alíquota estatutária máxima do imposto de renda federal foi reduzida de forma mais acentuada nos EUA do que na maioria das democracias ricas — mas Japão e Noruega fizeram mudanças similares apesar de pouca variação em desigualdade. Crucialmente, a alíquota *efetiva* máxima (impostos pagos como proporção da renda pré-impostos) em 2017 era semelhante à do início do governo Reagan — e ainda mais alta do que logo após os cortes de 1981. 
+- **Regulação financeira:** A desregulação mais significativa nos EUA ocorreu *no início* da era de desigualdade crescente, por volta de 1980; e a maioria dos outros países ricos fez reformas de desregulação *maiores* do que os EUA. 
+- **Sindicalização:** O declínio dos sindicatos nos EUA começou nos anos 1950 — bem antes do aumento da desigualdade econômica — e desde os anos 1970 caiu na maioria das nações ricas, no mesmo ritmo que nos EUA. 
+
+Nenhum desses padrões é consistente com o que a *inequality-is-harmful hypothesis* prevê. 
+
+***
+
+## Republicanos Recebem Mais Dinheiro e Vencem Mais Eleições? (pp. 33–35)
+
+### Paridade financeira e ausência de dominância eleitoral republicana [§35–§38]
+
+A hipótese exige que, se os ricos preferem republicanos (como um survey de 2011 sugere para questões de impostos e gastos governamentais), o aumento da desigualdade deveria ter gerado vantagem crescente dos republicanos em financiamento e vitórias eleitorais. Desde o final dos anos 1990, quando dados abrangentes passaram a estar disponíveis, **democratas e seus apoiadores mantiveram paridade com republicanos** em gastos de campanha — inclusive após a decisão *Citizens United* de 2010. Nas últimas nove eleições presidenciais, candidatos democratas venceram o voto popular em sete. As melhoras eleitorais dos republicanos no Congresso se explicam por outros fatores estruturais: concentração geográfica dos eleitores democratas em áreas urbanas, sobrerrepresentação de estados pouco populosos e conservadores no Senado, e efeitos do Colégio Eleitoral. 
+
+O autor também rejeita a hipótese de que os ricos tenham direcionado democratas a seus interesses: enquanto top *tax rates* caíram sob Reagan, Bush II e Trump, **subiram sob Clinton e Obama** — evidência inconsistente com a noção de que os plutócratas americanos controlam ambos os partidos. 
+
+***
+
+## Tendências Históricas de Longo Prazo na Democracia Americana (pp. 34–36)
+
+### Page e Gilens: correlação histórica, mas interpretação problemática [§39–§41]
+
+Benjamin Page e Martin Gilens, em *Democracy in America?*, argumentam que ao longo de toda a história americana há correspondência entre desigualdade econômica e desigualdade política: quando cidadãos são relativamente iguais, a política tende a ser mais democrática; quando a riqueza se concentra, a democracia sofre. Contudo, o autor exorta ceticismo, especialmente para o período aparentemente mais claro — a segunda metade do século XIX (Gilded Age). Apesar do aumento de desigualdade, a escravidão foi abolida, os padrões de vida reais dobraram a cada geração, o sistema de educação pública se expandiu (média de escolaridade subiu de 4 anos em 1870 para 8 anos em 1930), e a expectativa de vida saltou de 39 anos em 1880 para 60 em 1930  — tudo contra o que a narrativa de "governo pelos afluentes" sugeriria. 
+
+### Desigualdade nos estados americanos: California como caso extremo [§42–§44]
+
+Os doze estados com maior participação de renda do 1% incluem oito — Nova York, Connecticut, Massachusetts, Califórnia, DC, Illinois, Nova Jersey e Washington — onde o voto republicano é mais baixo, os sistemas tributários estaduais são menos regressivos e os programas sociais públicos são mais generosos. A Califórnia é o caso mais contundente: a participação do 1% saltou de 10% para 24% entre 1979 e 2015, mas o estado possui o sistema tributário menos regressivo do país e aprovou, desde 1999, uma extensa agenda progressista (licença parental remunerada, expansão do Medicaid, salário mínimo de US$15, EITC estadual, energia limpa, entre outras). Esses padrões contradizem frontalmente as previsões da *inequality-is-harmful hypothesis*. 
+
+***
+
+## Conclusão do Capítulo (p. 36)
+
+### Diagnóstico matizado: influência desproporcional sem aumento proporcional [§45]
+
+A evidência disponível sugere que a desigualdade econômica tem impacto sobre a desigualdade de influência política: os ricos americanos muito provavelmente têm mais influência nas decisões de política do que os não-ricos. Todavia, há um **ponto de inflexão** além do qual esse efeito se atenua — e os afluentes americanos podem não ter hoje vantagem política maior do que tinham nos anos 1970. Se os EUA reduzissem a desigualdade de renda e/ou riqueza ao nível de 1979, haveria pouca razão para confiar que isso reduziria a desigualdade de influência política. 
+
+***
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+
+**Tese central:** A desigualdade econômica afeta a igualdade de influência política — os ricos têm mais influência do que os não-ricos nas democracias ricas, inclusive nos EUA —, mas a vantagem política dos ricos não aumentou em paralelo ao crescimento da desigualdade econômica desde os anos 1970, não é maior em países mais desiguais, e não parece ter produzido os deslocamentos de política (impostos, regulação, sindicalização) que a hipótese causal forte preveria.
+
+**Natureza do argumento:** Causal-negativo (ao testar e rejeitar a hipótese de que maior desigualdade econômica causa maior desigualdade de influência política) e descritivo (ao mapear os canais de influência e as tendências históricas).
+
+**O que o texto demonstra vs. o que permanece em aberto:** O texto demonstra ausência de correlação entre variação de desigualdade econômica e variação de desigualdade política em múltiplos testes. O que permanece em aberto é se pesquisas futuras com dados mais granulares sobre preferências do topo da distribuição (além do percentil 90) revelariam padrão diferente — possibilidade explicitamente reconhecida pelo autor.
+
+**Contribuição para o debate:** O capítulo constitui um contraponto empírico robusto à narrativa de "plutocracy doom loop" amplamente difundida por Hacker & Pierson, Bartels e Page & Gilens, sem negar que os ricos detenham vantagem política, mas contestando a relação causal entre *aumento* da desigualdade econômica e *aumento* da desigualdade de influência.
+
+:::
+
+***
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v13.0*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | A pergunta é precisa e diretamente testável: o efeito causal é formulado em termos de covariação entre desigualdade econômica e desigualdade política ao longo do tempo e entre países. A vulnerabilidade é que a pergunta é respondida predominantemente por ausência de correlação, o que é evidência fraca contra hipóteses causais quando existem múltiplas variáveis de confusão. | A desigualdade econômica crescente degrada a democracia ao aumentar a influência política desproporcional dos ricos? Natureza: causal-analítica. Explicitada pelo autor no título e na estrutura. |
+| Questões Secundárias | As subperguntas são bem estruturadas e testam a hipótese em múltiplas dimensões analíticas complementares, tornando o argumento difícil de refutar com uma única evidência contrária. | (1) Os ricos têm influência política desproporcional nos EUA? (2) Essa vantagem cresceu com o aumento da desigualdade econômica? (3) Ela é maior em países com maior desigualdade? (4) Políticas favoráveis aos ricos avançaram mais nos EUA? (5) Republicanos dominam financiamento e eleições? (6) Tendências históricas de longo prazo corroboram a hipótese? |
+| Puzzle-Type | O puzzle é de natureza empírica: o consenso teórico prevê covariação entre desigualdade econômica e política, mas a evidência agregada não corrobora. O puzzle é bem construído e mobiliza múltiplos testes convergentes. Limitação: o autor não explora por que o efeito esperado não ocorre — não há teoria alternativa sobre o mecanismo de desconexão. | Puzzle explicativo: se o dinheiro compra influência política e a desigualdade de renda cresceu acentuadamente, por que a desigualdade de influência política não cresceu no mesmo período e não é maior onde a desigualdade econômica é maior? |
+| Conclusão / Argumento Central | A conclusão é cautelosa e metodologicamente honesta: reconhece a influência desproporcional dos ricos sem extrapolar para uma relação causal de aumento. A distinção entre "os ricos têm mais influência" (verdadeiro) e "mais desigualdade causa mais influência dos ricos" (não sustentado) é analiticamente precisa e politicamente relevante. | Os ricos têm mais influência política do que os não-ricos. Porém, a vantagem política dos ricos não aumentou com o aumento da desigualdade, não é maior em países mais desiguais, e os padrões de política efetiva, financiamento eleitoral e resultados eleitorais não são consistentes com a hipótese causal forte. |
+| Métodos | A estratégia de múltiplos testes é metodologicamente sólida para inferência baseada em padrão. A ausência de modelos de regressão multivariada explícita para controlar variáveis institucionais é uma limitação relevante — o autor se baseia em análise descritiva e comparação de casos. | Análise descritiva comparativa; estudo de casos históricos (EUA, California); análise de tendências temporais; uso de dados de segunda mão de Gilens, Bartels, Hacker & Pierson, Wlezien & Soroka. Sem novo dado primário coletado pelo autor neste capítulo. |
+| Data Generation Process (DGP) | O DGP não é discutido explicitamente — o autor usa dados já processados por outros pesquisadores. Isso torna o argumento dependente da qualidade das análises originais, especialmente Gilens (1.779 resultados de política, surveys 1981–2002). A limitação mais grave: "alta renda" em Gilens = percentil 90, não o 1% ou 0,1% que são centrais ao argumento sobre plutocracias. | Fenômeno: correspondência entre preferências por faixa de renda e decisões de política → dados: surveys de opinião pública + registros de votação legislativa + bancos de dados de financiamento de campanha → análise: correlação entre preferências e resultados → inferência: descritiva e baseada em padrão. |
+| Achados e Contribuições | O achado mais importante é o resultado nulo: ausência de aumento da desigualdade de influência política apesar do aumento da desigualdade econômica. O caso California é uma contribuição analítica particularmente forte — um caso de máxima desigualdade econômica com mínima desigualdade de política pública. | (1) Ricos têm influência desproporcional nos EUA. (2) Essa influência não cresceu com a desigualdade econômica. (3) A vantagem política dos ricos não é maior em países mais desiguais. (4) Políticas favoráveis aos ricos (cortes de impostos, desregulação, declínio sindical) não se intensificaram nos EUA em comparação com países menos desiguais. (5) Democratas mantiveram paridade de financiamento com republicanos. |
+| Análise Crítica dos Achados | O ponto mais frágil é a medida de "renda alta" como percentil 90 em vez do 1% ou 0,1%. É concebível que a influência política do topo extremo da distribuição tenha crescido exatamente no grupo que as pesquisas não conseguem medir adequadamente. O autor reconhece essa limitação, mas não desenvolve uma estratégia para mitigá-la. A comparação internacional sofre de potencial confusão por diferenças institucionais (tipo de Estado de bem-estar, sistema eleitoral) não controladas sistematicamente. | Ameaças à identificação: (a) viés de medição — o percentil 90 pode não capturar a influência do 0,1%; (b) variáveis omitidas — qualidade institucional e tipo de sistema eleitoral podem mediar os efeitos; (c) heterogeneidade — o efeito da desigualdade pode variar por tipo de regime político; (d) defasagem temporal — os efeitos podem ser mais lentos do que o período analisado. Generalizabilidade: válida para democracias ricas; inaplicável a países em desenvolvimento como o Brasil. |
+| Limitações | **Reconhecidas:** Dados de surveys subestimam o verdadeiro 1% (amostras insuficientes); o banco de dados de Gilens cobre apenas políticas que surveys questionaram; os dados de Gilens terminam em 2002 (possível que os anos 2010s mostrem padrão diferente). **Não reconhecidas ou subestimadas:** Ausência de controles institucionais nas comparações internacionais; falta de teoria explícita sobre por que a hipótese falha; os canais de influência de ideias (think tanks, mídia) são mais difíceis de medir e podem ter crescido mesmo sem afetar a métrica de correspondência preferências-política; o argumento histórico é vulnerável a problemas de endogeneidade e omissão de variáveis ao longo de séculos. |
+| Perspectiva Teórica | O capítulo não adota uma moldura teórica explícita. Opera dentro da tradição da ciência política comparada e da economia política, dialogando criticamente com a literatura sobre elitismo político (Bartels, Gilens) e sobre capitalismo e democracia (Hacker & Pierson, Page & Gilens). Há implícita uma ontologia pluralista: a influência política tem múltiplos determinantes, dos quais a desigualdade econômica é apenas um, e possivelmente não o mais importante. | Institucionalismo comparado implícito. Orientação empírico-analítica. Diálogo crítico com teorias elitistas e pluralistas da política americana. Sem filiação explícita a uma teoria única de democracia ou de distribuição de poder político. |
+| Principais Referências | As referências empíricas centrais são Bartels e Gilens — cujo trabalho é tratado simultaneamente como a melhor evidência disponível e como evidência insuficiente para confirmar a hipótese causal forte. Hacker & Pierson são usados para testar a hipótese de que vitórias políticas dos ricos aumentaram; Page & Gilens para o teste histórico de longo prazo. | Bartels (preferências e votos legislativos); Gilens, *Affluence and Influence* (preferências e mudanças de política); Hacker & Pierson (vitórias políticas de ricos e empresas); Burstein (amostragem aleatória de propostas legislativas); Wlezien & Soroka (análise similar a Gilens para 1972–2008); Page & Gilens, *Democracy in America?* (tendências históricas). |
+| Observações | Para pesquisas sobre desigualdade e política no Brasil, o argumento do capítulo representa um alerta metodológico importante: a mera existência de desigualdade econômica elevada não implica que ela seja o determinante causal da captura política. Fatores institucionais — estrutura do sistema político, fragmentação partidária, federalismo, capacidade estatal — podem ser determinantes mais relevantes. O caso California é analiticamente útil como contra-exemplo para teorias que tratam a concentração de renda como variável suficiente para a captura do Estado. A limitação sobre representação inadequada do 1% nos surveys é especialmente relevante para o Brasil, onde a elite econômica é ainda mais estreita e seus mecanismos de influência política são mais opacos. | Vulnerabilidade adicional específica deste capítulo: o argumento implicitamente trata preferências políticas como fixas e independentes da desigualdade, mas a desigualdade pode *moldar* as preferências políticas dos não-ricos (via efeito de legitimação, alienação política ou dependência de patronagem), tornando a convergência de preferências uma evidência ambígua — pode refletir preferências genuínas ou preferências distorcidas pela própria desigualdade. Esse canal endógeno não é discutido. |
+
+:::

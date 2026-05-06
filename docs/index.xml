@@ -10,7 +10,511 @@
 <atom:link href="https://mancano-tales.github.io/Annotated-Bibliography/index.xml" rel="self" type="application/rss+xml"/>
 <description>Fichamentos acadêmicos de Tales Mançano</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Tue, 05 May 2026 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 06 May 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Fichamento: Inequality Isn’t the Problem</title>
+  <dc:creator>Tales Mançano</dc:creator>
+  <link>https://mancano-tales.github.io/Annotated-Bibliography/posts/Kenworthy2025Chp1.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Kenworthy, L. (s.d.). Inequality isn’t the problem. In <em>Is inequality the problem?</em> Oxford University Press. https://doi.org/10.1093/book/9780197756317</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Entrada BibTeX → Kenworthy2025
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@incollection</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">Kenworthy2025</span>,</span>
+<span id="cb1-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span>    = {Kenworthy, Lane},</span>
+<span id="cb1-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span>     = {Inequality Isn't the Problem},</span>
+<span id="cb1-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">booktitle</span> = {Is Inequality the Problem?},</span>
+<span id="cb1-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">publisher</span> = {Oxford University Press},</span>
+<span id="cb1-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span>      = {2025},</span>
+<span id="cb1-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">chapter</span>   = {1},</span>
+<span id="cb1-8">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">pages</span>     = {1--14},</span>
+<span id="cb1-9">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">doi</span>       = {10.1093/book/9780197756317},</span>
+<span id="cb1-10">}</span></code></pre></div></div>
+</div>
+</div>
+</div>
+<p>Última atualização: 2026-05-06 Modelo: Perplexity — Claude Sonnet 4.6 Prompt Version: v13.0 2026-04-19 | 2026-04-24 “IA Blog Post QMD” Gerado em: 2026-05-06T20:10:00-03:00</p>
+<hr>
+<section id="introdução-o-consenso-em-torno-da-desigualdade-pp.-15" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="introdução-o-consenso-em-torno-da-desigualdade-pp.-15"><span class="header-section-number">1</span> Introdução: O Consenso em Torno da Desigualdade (pp.&nbsp;1–5)</h2>
+<section id="o-diagnóstico-dominante-na-literatura-e-no-debate-público-114" class="level3" data-number="1.1">
+<h3 data-number="1.1" class="anchored" data-anchor-id="o-diagnóstico-dominante-na-literatura-e-no-debate-público-114"><span class="header-section-number">1.1</span> O diagnóstico dominante na literatura e no debate público [§1–§14]</h3>
+<p>O capítulo inaugura-se com uma extensa série de citações de intelectuais, economistas, jornalistas, organizações internacionais e líderes religiosos — cobrindo o período de 2009 a 2024 — que convergem para a ideia de que a <strong>desigualdade econômica</strong> é um dos principais, senão o principal, problema das sociedades ricas contemporâneas. Wilkinson e Pickett (2009) sustentam que os males das nações ricas derivam não da escassez absoluta, mas da magnitude das diferenças materiais <em>internas</em> a cada sociedade. Paul Krugman (2011) denuncia a incompatibilidade entre concentração extrema de renda e democracia real. George Packer (2011) descreve a desigualdade como o “mal subjacente” que permeia a economia, a política e a coesão social norte-americana.</p>
+<p>Joseph Stiglitz (2012, 2023), Christopher Hayes (2012), Chrystia Freeland (2012) e Robert Reich (2013) reforçam a narrativa de que a desigualdade corrói produtividade, eficiência, crescimento e a própria estrutura democrática. O Papa Francisco (2014) sintetiza o argumento moral ao afirmar que a desigualdade é “a raiz do mal social”. Ezra Klein e Joe Posner (2014) invocam o conceito de um “ciclo vicioso de oligarquia” no qual riqueza compra poder e poder produz mais riqueza. Jefferson Cowie (2016) trata a saída das décadas de desigualdade como o “projeto mais urgente” de nosso tempo. Keith Payne (2017) propõe que a desigualdade extrema é o denominador comum de praticamente todos os problemas sociais contemporâneos. Carsten Jensen e Kees van Kersbergen (2017) afirmam que as consequências de grandes disparidades de renda para a saúde, satisfação de vida e mobilidade social são “clara e fortemente negativas”. Samuel Moyn (2018), numa perspectiva mais filosófica, argumenta que a linguagem dos direitos humanos é insuficiente para enfrentar a “barbárie da vitória dos ricos”, ao contrário de linguagens igualitárias mais robustas.</p>
+<p>O leque de vozes se amplia com Jacob Hacker e Paul Pierson (2020), que caracterizam a ascensão da plutocracia como o grande enredo da política norte-americana pós-1980. A OCDE (2021) documenta a ampliação das disparidades e registra que a maioria das populações clama por maior igualdade de resultados e oportunidades. Blanchard e Rodrik (2021) relatam que, numa grande conferência do Peterson Institute for International Economics em 2019, nenhum participante contestou a visão de que a desigualdade é um problema de primeira ordem. Thomas Piketty (2023) compara a negação da desigualdade ao negacionismo climático. David Leonhardt (2023) argumenta que a desigualdade extrema limita a liberdade efetiva dos norte-americanos em múltiplas dimensões — saúde, mobilidade, qualidade escolar, salários. Kaushik Basu (2023), Stiglitz (2023), Tom Malleson (2023), Oxfam (2023), Anthony Kamande (2024), Evelyne Huber e John Stephens (2024), e Ingrid Robeyns (2024) completam a galeria, propondo desde caps de riqueza individuais até metas de Gini para todos os países.</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Tese implícita do consenso citado:</strong> A desigualdade econômica — entendida como a distância entre o topo e a base da distribuição de renda ou riqueza dentro de um país — é, ao mesmo tempo, (a) moralmente injusta, (b) economicamente prejudicial ao crescimento e ao padrão de vida médio, (c) corrosiva da democracia e (d) geradora de piores resultados de saúde, oportunidade e felicidade. Portanto, sua redução deve ser prioridade central de política pública.</p>
+</div>
+</div>
+</section>
+<section id="delimitação-do-objeto-e-pergunta-central-1516" class="level3" data-number="1.2">
+<h3 data-number="1.2" class="anchored" data-anchor-id="delimitação-do-objeto-e-pergunta-central-1516"><span class="header-section-number">1.2</span> Delimitação do objeto e pergunta central [§15–§16]</h3>
+<p>Após as citações, o autor delimita com precisão o escopo do livro. A desigualdade em questão <strong>não</strong> é a desigualdade entre grupos (gênero, raça, idade, natividade), mas a <strong>desigualdade geral de renda ou riqueza</strong> dentro de uma sociedade — a distância entre o topo e a base. Kenworthy usará indistintamente as expressões “desigualdade de renda”, “desigualdade de riqueza” e “desigualdade econômica”.</p>
+<blockquote class="blockquote">
+<p>Há um caso convincente para reduzir a desigualdade nas democracias ricas de longa data? Se sim, quão alta deve ser essa prioridade na agenda dos formuladores de política?</p>
+</blockquote>
+<p>Esta dupla pergunta — uma descritivo-avaliativa, outra normativa — estrutura todo o capítulo e o livro.</p>
+<hr>
+</section>
+</section>
+<section id="desigualdade-é-injusta-pp.-67" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="desigualdade-é-injusta-pp.-67"><span class="header-section-number">2</span> Desigualdade é Injusta (pp.&nbsp;6–7)</h2>
+<section id="a-justificativa-moral-clássica-e-sua-fragilidade-1718" class="level3" data-number="2.1">
+<h3 data-number="2.1" class="anchored" data-anchor-id="a-justificativa-moral-clássica-e-sua-fragilidade-1718"><span class="header-section-number">2.1</span> A justificativa moral clássica e sua fragilidade [§17–§18]</h3>
+<p>O autor reconhece que grande parte do que determina renda e riqueza de uma pessoa — inteligência, criatividade, habilidades físicas e sociais, motivação, persistência, conexões, patrimônio herdado, discriminação — resulta de genética, ativos e traços dos pais e qualidade do bairro e das escolas da infância. Nada disso é escolhido; é uma questão de sorte. Uma parcela não trivial da desigualdade econômica é, portanto, <strong>imerecida</strong> (<em>undeserved</em>). Essa constatação fundamenta a acusação histórica de injustiça contra a desigualdade.</p>
+<p>Historicamente, argumenta Kenworthy, a crença na injustiça da desigualdade era o argumento principal de sua rejeição. Nas últimas décadas, entretanto, o foco se deslocou: a preocupação dominante passou a ser se a desigualdade <em>produz consequências prejudiciais</em> a uma gama de resultados valorizados — da democracia à saúde, passando pela oportunidade e pelo crescimento.</p>
+<hr>
+</section>
+</section>
+<section id="a-desigualdade-é-prejudicial-pp.-78" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="a-desigualdade-é-prejudicial-pp.-78"><span class="header-section-number">3</span> A Desigualdade é Prejudicial? (pp.&nbsp;7–8)</h2>
+<section id="mecanismos-hipotéticos-pelos-quais-a-desigualdade-geraria-danos-1924" class="level3" data-number="3.1">
+<h3 data-number="3.1" class="anchored" data-anchor-id="mecanismos-hipotéticos-pelos-quais-a-desigualdade-geraria-danos-1924"><span class="header-section-number">3.1</span> Mecanismos hipotéticos pelos quais a desigualdade geraria danos [§19–§24]</h3>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>O autor identifica cinco grandes domínios pelos quais a desigualdade poderia, hipoteticamente, ser prejudicial: (1) padrão de vida e crescimento; (2) balanços domésticos; (3) democracia e influência política; (4) igualdade de oportunidades; (5) saúde, longevidade e felicidade.</p>
+</div>
+</div>
+<p>No domínio dos <strong>padrões de vida</strong>, a desigualdade de renda poderia reduzir o crescimento econômico porque os ricos tendem a poupar proporção maior da renda, gerando consumo agregado insuficiente. Ademais, a percepção de injustiça poderia reduzir o esforço no trabalho ou o compartilhamento de informações com gestores. Mesmo quando o crescimento não é afetado, a desigualdade pode deslocar seus frutos para o topo, privando a classe média e os mais pobres de ganhos reais. Adicionalmente, famílias de renda média e baixa podem acumular dívida excessiva para imitar o consumo dos mais ricos ou simplesmente por estagnação de sua própria renda.</p>
+<p>No campo da <strong>democracia</strong>, renda mais elevada permite a compra de influência política por meio de lobby, doações a campanhas, controle de mídias e think tanks, e acesso a cargos eletivos — minando o princípio de igualdade de oportunidade de influência.</p>
+<p>Quanto à <strong>igualdade de oportunidades</strong>, a renda influencia estrutura familiar, qualidade escolar, gastos dos pais, saúde e bairro de residência. Maior desigualdade de renda pode, assim, amplificar a desigualdade de oportunidades entre gerações.</p>
+<p>No plano da <strong>saúde e longevidade</strong>, desigualdade maior pode induzir maior estresse de status, que prejudica a saúde diretamente ou indiretamente ao estimular comportamentos nocivos (tabagismo, obesidade, abuso de drogas e álcool, violência).</p>
+<p>Por fim, no domínio da <strong>felicidade</strong>, a tendência humana à comparação social implica que o aumento da desigualdade pode fazer as pessoas se sentirem estacionadas mesmo quando padrões de vida objetivos melhoram.</p>
+<hr>
+</section>
+</section>
+<section id="foco-nos-países-pp.-8" class="level2" data-number="4">
+<h2 data-number="4" class="anchored" data-anchor-id="foco-nos-países-pp.-8"><span class="header-section-number">4</span> Foco nos Países (pp.&nbsp;8)</h2>
+<section id="justificativa-metodológica-para-a-análise-comparada-em-nível-de-país-2529" class="level3" data-number="4.1">
+<h3 data-number="4.1" class="anchored" data-anchor-id="justificativa-metodológica-para-a-análise-comparada-em-nível-de-país-2529"><span class="header-section-number">4.1</span> Justificativa metodológica para a análise comparada em nível de país [§25–§29]</h3>
+<p>Kenworthy anuncia sua estratégia analítica: privilegiar <strong>evidência em nível de país</strong>. O argumento é direto — a maioria das alavancas relevantes para influenciar a desigualdade econômica está no governo nacional. Quando se afirma que menor desigualdade melhoraria saúde ou democracia, refere-se à desigualdade do <em>país</em>, não do bairro ou da escola.</p>
+<p>Estudos sobre indivíduos também têm relevância: experimentos de laboratório que mostram maior propensão a trapacear em contextos de alta desigualdade, ou análises de surveys, são informativos. Contudo, carregam uma limitação crítica: não sabemos se os efeitos individuais observados se escalam para o nível agregado. O autor ilustra com o exemplo das alíquotas fiscais — embora estudos individuais sugiram que pessoas respondem a incentivos financeiros de forma consistente com a hipótese de que baixos impostos elevam o crescimento, a evidência agregada entre países não corrobora essa hipótese. O efeito de incentivo individual é pequeno ou é compensado por outros efeitos pró-crescimento dos impostos.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>A lógica de Kenworthy é: se a evidência individual aponta na direção da hipótese, isso é suporte, mas insuficiente. Se a evidência em nível de país diz algo diferente, deve-se ser muito cauteloso antes de recomendar a redução da desigualdade como estratégia de política pública.</p>
+</div>
+</div>
+<hr>
+</section>
+</section>
+<section id="a-era-da-desigualdade-crescente-pp.-911" class="level2" data-number="5">
+<h2 data-number="5" class="anchored" data-anchor-id="a-era-da-desigualdade-crescente-pp.-911"><span class="header-section-number">5</span> A Era da Desigualdade Crescente (pp.&nbsp;9–11)</h2>
+<section id="tendências-históricas-da-desigualdade-no-topo-top-1-3033" class="level3" data-number="5.1">
+<h3 data-number="5.1" class="anchored" data-anchor-id="tendências-históricas-da-desigualdade-no-topo-top-1-3033"><span class="header-section-number">5.1</span> Tendências históricas da desigualdade no topo (top 1%) [§30–§33]</h3>
+<p>O autor apresenta a <strong>Figura 1.1</strong>, que mostra a parcela de renda apropriada pelo 1% mais rico em cada uma das democracias ricas de longa data, com séries históricas derivadas principalmente de registros tributários — disponíveis em alguns países desde o século XIX. O padrão geral é de três fases: crescimento da desigualdade entre fins do século XIX e início do XX; queda contínua de aproximadamente 1910 até 1979; e nova alta desde o final dos anos 1970 até o presente.</p>
+<p>O crescimento pós-1979 não foi uniforme. A parcela de renda do 1% cresceu <em>bastante rapidamente</em> na Austrália, Canadá, Dinamarca, Finlândia, Itália, Nova Zelândia, Reino Unido e Estados Unidos. Cresceu <em>menos rapidamente</em> na França, Alemanha, Irlanda, Japão, Coreia do Sul, Noruega, Portugal e Suécia. Cresceu de modo <em>mínimo ou inexistente</em> na Áustria, Bélgica, Países Baixos, Espanha e Suíça. Os Estados Unidos destacam-se visivelmente na Figura 1.1, com nível de desigualdade no topo muito superior ao dos demais países.</p>
+</section>
+<section id="tendências-históricas-da-desigualdade-nos-99-inferiores-gini-3437" class="level3" data-number="5.2">
+<h3 data-number="5.2" class="anchored" data-anchor-id="tendências-históricas-da-desigualdade-nos-99-inferiores-gini-3437"><span class="header-section-number">5.2</span> Tendências históricas da desigualdade nos 99% inferiores (Gini) [§34–§37]</h3>
+<p>A segunda métrica padrão é o <strong>coeficiente de Gini</strong> calculado sobre os 99% inferiores da distribuição, com base em pesquisas domiciliares. Esses dados têm cobertura histórica menor (geralmente a partir dos anos 1960–70) mas confirmam o padrão de queda pré-1979 e alta posterior. Aqui também há heterogeneidade: o Gini cresceu <em>acentuadamente</em> na Austrália, Finlândia, Alemanha, Japão, Nova Zelândia, Suécia e Estados Unidos; <em>menos rapidamente</em> na Áustria, Bélgica, Canadá, Dinamarca, Itália, Países Baixos, Noruega, Espanha e Reino Unido; e <em>ficou estável ou caiu levemente</em> na França, Irlanda, Coreia do Sul, Portugal e Suíça.</p>
+</section>
+<section id="correlação-entre-as-duas-métricas-e-sua-imperfeiçção-3840" class="level3" data-number="5.3">
+<h3 data-number="5.3" class="anchored" data-anchor-id="correlação-entre-as-duas-métricas-e-sua-imperfeiçção-3840"><span class="header-section-number">5.3</span> Correlação entre as duas métricas e sua imperfeiçção [§38–§40]</h3>
+<p>A <strong>Figura 1.3</strong> cruza o nível médio de parcela de renda do 1% com o nível médio do Gini dos 99% entre 1979 e 2019. A correlação é positiva (+0,46), mas não especialmente forte. A <strong>Figura 1.4</strong> exibe a <em>mudança</em> nas duas métricas no mesmo período; aqui a correlação é ainda mais fraca (+0,31), e vários países que apresentaram pouca variação em uma das métricas registraram grande variação na outra. Diante disso, o autor justifica o uso de ambas as medidas separadamente ao longo do livro, em vez de uma medida unificada.</p>
+<hr>
+</section>
+</section>
+<section id="reduzir-a-desigualdade-provavelmente-não-resolverá-outros-problemas-pp.-1113" class="level2" data-number="6">
+<h2 data-number="6" class="anchored" data-anchor-id="reduzir-a-desigualdade-provavelmente-não-resolverá-outros-problemas-pp.-1113"><span class="header-section-number">6</span> Reduzir a Desigualdade Provavelmente Não Resolverá Outros Problemas (pp.&nbsp;11–13)</h2>
+<section id="síntese-antecipada-dos-resultados-dos-capítulos-seguintes-4147" class="level3" data-number="6.1">
+<h3 data-number="6.1" class="anchored" data-anchor-id="síntese-antecipada-dos-resultados-dos-capítulos-seguintes-4147"><span class="header-section-number">6.1</span> Síntese antecipada dos resultados dos capítulos seguintes [§41–§47]</h3>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Esta seção contém a tese central do capítulo e do livro: ao examinar a evidência em nível de país sobre os efeitos da desigualdade de renda em cinco domínios — padrões de vida, democracia, igualdade de oportunidade, longevidade e felicidade —, o suporte para a ideia de que reduzir a desigualdade melhorará esses resultados é <strong>decepcionante</strong> (<em>underwhelming</em>).</p>
+</div>
+</div>
+<p>Em relação aos <strong>padrões de vida</strong>, as democracias ricas com maior desigualdade ou com maiores aumentos de desigualdade não tenderam a crescer menos, a ter renda domiciliar menor ou a apresentar piores balanços das famílias. Em relação à <strong>democracia</strong>, embora governos tendam a responder mais às preferências dos ricos do que aos de baixa renda, nos Estados Unidos — que experimentou grande alta de desigualdade desde os anos 1970 — o grau de desigualdade de influência política <em>não aumentou</em>, nem parece diferir significativamente de países com muito menor desigualdade econômica. Reduzir a desigualdade americana ao seu nível mais baixo histórico (anos 1970) muito provavelmente não reduziria a desigualdade política.</p>
+<p>Quanto à <strong>igualdade de oportunidade</strong>, os mecanismos teóricos existem (estrutura familiar, gastos parentais, qualidade das escolas, bairros), mas a evidência de que reduzir a desigualdade de renda produziria redução significativa da desigualdade de oportunidade é escassa. Em relação à <strong>saúde</strong>, o tema recebeu atenção substancial de pesquisadores e tornou-se quase um dogma que a desigualdade reduz a longevidade; mas a evidência em nível de país oferece</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>Annotated Bibliography</category>
+  <category>Desigualdade Econômica</category>
+  <category>Economia Política</category>
+  <category>Política Social Comparada</category>
+  <category>Metodologia Quantitativa</category>
+  <category>Democracia e Bem-Estar</category>
+  <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Kenworthy2025Chp1.html</guid>
+  <pubDate>Wed, 06 May 2026 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Fichamento: Does Income Inequality Degrade Democracy?</title>
+  <dc:creator>Tales Mançano</dc:creator>
+  <link>https://mancano-tales.github.io/Annotated-Bibliography/posts/Kenworthy2025Chp3.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Kenworthy, L. (s.d.). Does income inequality degrade democracy? In <em>Is inequality the problem?</em> Oxford University Press. <a href="https://doi.org/10.1093/book/9780197756317">https://doi.org/10.1093/book/9780197756317</a></p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Entrada BibTeX → Kenworthy2025cap3
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@incollection</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">Kenworthy2025Chp3</span>,</span>
+<span id="cb1-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span>    = {Kenworthy, Lane},</span>
+<span id="cb1-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span>     = {Does Income Inequality Degrade Democracy?},</span>
+<span id="cb1-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">booktitle</span> = {Is Inequality the Problem?},</span>
+<span id="cb1-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">publisher</span> = {Oxford University Press},</span>
+<span id="cb1-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span>      = {2025},</span>
+<span id="cb1-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">chapter</span>   = {3},</span>
+<span id="cb1-8">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">pages</span>     = {28--36},</span>
+<span id="cb1-9">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">doi</span>       = {10.1093/book/9780197756317},</span>
+<span id="cb1-10">}</span></code></pre></div></div>
+</div>
+</div>
+</div>
+<p>Última atualização: 2026-05-06 Modelo: Perplexity — Claude Sonnet 4.6 Prompt Version: v13.0 2026-04-19 | 2026-04-24 “IA Blog Post QMD” Gerado em: 2026-05-06T20:31:00-03:00</p>
+<hr>
+<section id="introdução-e-definição-do-problema-p.-28" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="introdução-e-definição-do-problema-p.-28"><span class="header-section-number">1</span> Introdução e Definição do Problema (p.&nbsp;28)</h2>
+<section id="democracia-como-igualdade-de-oportunidade-de-influência-12" class="level3" data-number="1.1">
+<h3 data-number="1.1" class="anchored" data-anchor-id="democracia-como-igualdade-de-oportunidade-de-influência-12"><span class="header-section-number">1.1</span> Democracia como igualdade de oportunidade de influência [§1–§2]</h3>
+<p>O capítulo parte de uma definição operacional de democracia: sistema de tomada de decisão em que as pessoas têm <strong>aproximadamente igual oportunidade de influenciar a política governamental</strong>. A premissa central é que a desigualdade econômica pode tornar o sistema político menos democrático, porque quem dispõe de mais dinheiro tem maior capacidade de exercer influência desproporcional sobre os formuladores de política. O foco empírico recai principalmente — mas não exclusivamente — nos Estados Unidos, justificado pela disponibilidade de dados e pelo fato de que a desigualdade de renda americana é das maiores entre os países ricos e cresceu mais acentuadamente desde o final dos anos 1970.</p>
+<hr>
+</section>
+</section>
+<section id="a-hipótese-a-desigualdade-é-prejudicial-pp.-2829" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="a-hipótese-a-desigualdade-é-prejudicial-pp.-2829"><span class="header-section-number">2</span> A Hipótese “A Desigualdade É Prejudicial” (pp.&nbsp;28–29)</h2>
+<section id="os-cinco-canais-pelos-quais-o-dinheiro-compra-influência-política-38" class="level3" data-number="2.1">
+<h3 data-number="2.1" class="anchored" data-anchor-id="os-cinco-canais-pelos-quais-o-dinheiro-compra-influência-política-38"><span class="header-section-number">2.1</span> Os cinco canais pelos quais o dinheiro compra influência política [§3–§8]</h3>
+<p>O autor sistematiza cinco mecanismos principais pelos quais pessoas com maior renda — e as empresas que controlam — podem converter dinheiro em influência política:</p>
+<ol type="1">
+<li><strong>Doações a candidatos e partidos.</strong> Os gastos eleitorais nos EUA totalizaram mais de US$ 16 bilhões em 2020 e em 2024 (ante US$ 5 bilhões em 2000); americanos no 0,01% superior de renda respondem por cerca de 40% das contribuições de campanha.</li>
+<li><strong>Candidatura a cargos eletivos.</strong> Mais da metade dos 535 membros do Congresso americano têm patrimônio líquido superior a US$ 1 milhão; bilionários como Donald Trump se elegeram presidente, e outros como Bloomberg e Steyer disputaram primárias presidenciais.</li>
+<li><strong>Lobby.</strong> As despesas com lobby nos EUA totalizam cerca de US$ 3,5 bilhões anuais, com alta acentuada nos anos 2000 antes de estabilizar nos 2010s.</li>
+<li><strong>Financiamento de organizações e movimentos.</strong> Incluindo mobilização de base, petições, campanhas de contato com parlamentares e manifestações.</li>
+<li><strong>Influência sobre ideias.</strong> Financiamento de pesquisa, criação e sustentação de <em>think tanks</em>, compra ou criação de veículos de mídia e promoção de formadores de opinião.</li>
+</ol>
+</section>
+<section id="o-doom-loop-plutocráico-e-seus-limites-910" class="level3" data-number="2.2">
+<h3 data-number="2.2" class="anchored" data-anchor-id="o-doom-loop-plutocráico-e-seus-limites-910"><span class="header-section-number">2.2</span> O “doom loop” plutocráico e seus limites [§9–§10]</h3>
+<p>A hipótese “a desigualdade é prejudicial” (<em>inequality-is-harmful hypothesis</em>) prevê que, à medida que a desigualdade econômica aumentou desde os anos 1970, a influência política dos que estão no topo também teria crescido — podendo criar um <strong>ciclo vicioso de oligarquia</strong>: desigualdade econômica → desigualdade política → políticas que ampliam ainda mais a desigualdade econômica. Contudo, o autor levanta a possibilidade de <strong>retornos decrescentes</strong>: já havia desigualdade econômica considerável nos EUA nos anos 1970, e os ricos já detinham então vantagem política apreciável sobre o restante da cidadania — de modo que mesmo o posterior aumento das suas rendas e riquezas pode não ter traduzido em maior vantagem política.</p>
+<hr>
+</section>
+</section>
+<section id="os-ricos-americanos-têm-influência-política-desproporcional-pp.-2931" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="os-ricos-americanos-têm-influência-política-desproporcional-pp.-2931"><span class="header-section-number">3</span> Os Ricos Americanos Têm Influência Política Desproporcional? (pp.&nbsp;29–31)</h2>
+<section id="bartels-correspondência-entre-preferências-de-renda-alta-e-votos-legislativos-1112" class="level3" data-number="3.1">
+<h3 data-number="3.1" class="anchored" data-anchor-id="bartels-correspondência-entre-preferências-de-renda-alta-e-votos-legislativos-1112"><span class="header-section-number">3.1</span> Bartels: correspondência entre preferências de renda alta e votos legislativos [§11–§12]</h3>
+<p>Larry Bartels utilizou dados de surveys de opinião pública para identificar as preferências de americanos em três faixas de renda (baixa, média e alta) e examinou o grau em que essas preferências se correlacionam com os votos de seus representantes eleitos no Congresso no início dos anos 1990 e 2010. A conclusão de Bartels é que o comportamento de voto dos parlamentares tende a corresponder muito mais estreitamente aos desejos das pessoas de alta renda do que aos de renda média ou baixa. O avanço em relação a estudos anteriores é a cobertura de um leque amplo de políticas — mas uma limitação crítica persiste: o voto legislativo pode não se traduzir em decisões de política efetiva.</p>
+</section>
+<section id="gilens-preferências-versus-mudanças-de-política-efetiva-1315" class="level3" data-number="3.2">
+<h3 data-number="3.2" class="anchored" data-anchor-id="gilens-preferências-versus-mudanças-de-política-efetiva-1315"><span class="header-section-number">3.2</span> Gilens: preferências versus mudanças de política efetiva [§13–§15]</h3>
+<p>Martin Gilens, em <em>Affluence and Influence</em>, avança ao verificar se mudanças efetivas de política (não apenas votos legislativos) correspondem às preferências das diferentes faixas de renda. Usando surveys de 1981 a 2002 com 1.779 resultados de política, Gilens constata que as decisões políticas tendem a conformar-se mais às preferências de americanos de alta renda do que às de média ou baixa renda. Portanto, a evidência disponível confirma que americanos com mais renda possuem, de fato, maior influência política — consistente com a <em>inequality-is-harmful hypothesis</em>.</p>
+</section>
+<section id="três-ressalvas-críticas-1619" class="level3" data-number="3.3">
+<h3 data-number="3.3" class="anchored" data-anchor-id="três-ressalvas-críticas-1619"><span class="header-section-number">3.3</span> Três ressalvas críticas [§16–§19]</h3>
+<p>O autor, porém, apresenta três qualificações importantes:</p>
+<ul>
+<li><strong>Ressalva 1 — sobreposição de preferências:</strong> Os ricos divergiram dos de renda média em apenas <strong>10% das políticas</strong> estudadas por Gilens. Assim, a vantagem de influência política dos ricos é relevante para um conjunto relativamente pequeno de escolhas políticas.</li>
+<li><strong>Ressalva 2 — canais sem efeito detectado:</strong> A pesquisa encontrou <strong>muito pouca evidência</strong> de que doações de campanha e lobby influenciem efetivamente decisões de política — algo surpreendente, dado que esses são os canais mais frequentemente invocados no debate público.</li>
+<li><strong>Ressalva 3 — limitações de dados:</strong> Os surveys não capturam adequadamente as preferências do 1% mais rico (amostra insuficiente), de modo que “renda alta” em Gilens se refere ao percentil 90, não ao topo da distribuição. Além disso, o universo de políticas analisado restringe-se ao que os surveys perguntaram — o que exclui grande parte da agenda real.</li>
+</ul>
+</section>
+<section id="burstein-amostragem-aleatória-de-propostas-legislativas-20" class="level3" data-number="3.4">
+<h3 data-number="3.4" class="anchored" data-anchor-id="burstein-amostragem-aleatória-de-propostas-legislativas-20"><span class="header-section-number">3.4</span> Burstein: amostragem aleatória de propostas legislativas [§20]</h3>
+<p>Paul Burstein adota estratégia alternativa: parte do universo de propostas consideradas pelo Congresso em 1989–90, extrai amostra de 60 propostas (417 <em>bills</em>) e rastreia seu destino. O método é metodologicamente mais robusto para representatividade da agenda, mas sofre das mesmas limitações na identificação das preferências dos ricos e cobre apenas dois anos. O banco de dados ideal, segundo o autor, combinaria a amplitude de Burstein com longas séries temporais, cobertura de ações do Executivo (implementação, regulações, decretos) e identificação das preferências do topo da distribuição.</p>
+<hr>
+</section>
+</section>
+<section id="o-gap-de-influência-aumentou-com-a-desigualdade-pp.-3132" class="level2" data-number="4">
+<h2 data-number="4" class="anchored" data-anchor-id="o-gap-de-influência-aumentou-com-a-desigualdade-pp.-3132"><span class="header-section-number">4</span> O Gap de Influência Aumentou com a Desigualdade? (pp.&nbsp;31–32)</h2>
+<section id="ausência-de-tendência-crescente-na-brecha-de-influência-2124" class="level3" data-number="4.1">
+<h3 data-number="4.1" class="anchored" data-anchor-id="ausência-de-tendência-crescente-na-brecha-de-influência-2124"><span class="header-section-number">4.1</span> Ausência de tendência crescente na brecha de influência [§21–§24]</h3>
+<p>A hipótese causal central exige não apenas que os ricos tenham mais influência, mas que essa vantagem <strong>tenha crescido</strong> junto com a desigualdade econômica desde os anos 1970. A evidência disponível não corrobora essa previsão. Jacob Hacker e Paul Pierson não encontram aumento na frequência de vitórias políticas dos ricos ao longo das últimas décadas. Os próprios dados de Gilens — que incluem anos anteriores e posteriores ao período central de 1981–2002 — mostram que o gap de influência entre ricos e não-ricos foi pequeno nos anos Johnson (1960s), maior nos governos Reagan e Clinton, e menor novamente no governo George W. Bush (2000s) — sem tendência clara de alta. Wlezien e Soroka replicam análise semelhante para 1972–2008 e também não encontram indicação de crescimento da responsividade desproporcional a americanos de renda mais alta.</p>
+<hr>
+</section>
+</section>
+<section id="o-gap-é-maior-em-países-com-mais-desigualdade-econômica-pp.-3233" class="level2" data-number="5">
+<h2 data-number="5" class="anchored" data-anchor-id="o-gap-é-maior-em-países-com-mais-desigualdade-econômica-pp.-3233"><span class="header-section-number">5</span> O Gap É Maior em Países com Mais Desigualdade Econômica? (pp.&nbsp;32–33)</h2>
+<section id="evidência-comparada-contraria-a-hipótese-2528" class="level3" data-number="5.1">
+<h3 data-number="5.1" class="anchored" data-anchor-id="evidência-comparada-contraria-a-hipótese-2528"><span class="header-section-number">5.1</span> Evidência comparada contraria a hipótese [§25–§28]</h3>
+<p>Se a <em>inequality-is-harmful hypothesis</em> estiver correta, países com maior desigualdade econômica deveriam exibir maior desigualdade de influência política. A evidência de estudos individuais por país — Alemanha, Países Baixos, Noruega, Espanha, Suécia e Suíça — mostra que, com exceção da Noruega, todos apresentam o mesmo padrão dos EUA: quando ricos e pobres divergem, a política tende a refletir as preferências dos ricos. Dois estudos comparativos transversais concluem que <strong>a magnitude da disparidade na responsividade política é semelhante entre países com níveis de desigualdade econômica muito diferentes</strong> — o oposto do que a hipótese prevê.</p>
+<p>Esses achados são consistentes com a literatura sobre por que os EUA têm a política social menos generosa entre as democracias ricas: os fatores explicativos mais robustos são estruturais e institucionais — eleições majoritárias e bipartidarismo, múltiplos pontos de veto no sistema político, sindicatos fracos, ausência de concertação corporatista, diversidade racial e étnica e ausência de herança feudal — e não o nível de desigualdade econômica.</p>
+<hr>
+</section>
+</section>
+<section id="taxas-de-imposto-regulação-financeira-e-sindicalização-pp.-3334" class="level2" data-number="6">
+<h2 data-number="6" class="anchored" data-anchor-id="taxas-de-imposto-regulação-financeira-e-sindicalização-pp.-3334"><span class="header-section-number">6</span> Taxas de Imposto, Regulação Financeira e Sindicalização (pp.&nbsp;33–34)</h2>
+<section id="políticas-favoráveis-aos-ricos-coincidência-não-causalidade-2934" class="level3" data-number="6.1">
+<h3 data-number="6.1" class="anchored" data-anchor-id="políticas-favoráveis-aos-ricos-coincidência-não-causalidade-2934"><span class="header-section-number">6.1</span> Políticas favoráveis aos ricos: coincidência, não causalidade [§29–§34]</h3>
+<p>O teste adicional proposto pelo autor é verificar se os EUA — que tiveram o maior aumento de desigualdade — também apresentaram maior avanço em políticas desejadas pelos ricos: redução de impostos no topo, desregulação financeira e declínio da sindicalização.</p>
+<ul>
+<li><strong>Impostos:</strong> A alíquota estatutária máxima do imposto de renda federal foi reduzida de forma mais acentuada nos EUA do que na maioria das democracias ricas — mas Japão e Noruega fizeram mudanças similares apesar de pouca variação em desigualdade. Crucialmente, a alíquota <em>efetiva</em> máxima (impostos pagos como proporção da renda pré-impostos) em 2017 era semelhante à do início do governo Reagan — e ainda mais alta do que logo após os cortes de 1981.</li>
+<li><strong>Regulação financeira:</strong> A desregulação mais significativa nos EUA ocorreu <em>no início</em> da era de desigualdade crescente, por volta de 1980; e a maioria dos outros países ricos fez reformas de desregulação <em>maiores</em> do que os EUA.</li>
+<li><strong>Sindicalização:</strong> O declínio dos sindicatos nos EUA começou nos anos 1950 — bem antes do aumento da desigualdade econômica — e desde os anos 1970 caiu na maioria das nações ricas, no mesmo ritmo que nos EUA.</li>
+</ul>
+<p>Nenhum desses padrões é consistente com o que a <em>inequality-is-harmful hypothesis</em> prevê.</p>
+<hr>
+</section>
+</section>
+<section id="republicanos-recebem-mais-dinheiro-e-vencem-mais-eleições-pp.-3335" class="level2" data-number="7">
+<h2 data-number="7" class="anchored" data-anchor-id="republicanos-recebem-mais-dinheiro-e-vencem-mais-eleições-pp.-3335"><span class="header-section-number">7</span> Republicanos Recebem Mais Dinheiro e Vencem Mais Eleições? (pp.&nbsp;33–35)</h2>
+<section id="paridade-financeira-e-ausência-de-dominância-eleitoral-republicana-3538" class="level3" data-number="7.1">
+<h3 data-number="7.1" class="anchored" data-anchor-id="paridade-financeira-e-ausência-de-dominância-eleitoral-republicana-3538"><span class="header-section-number">7.1</span> Paridade financeira e ausência de dominância eleitoral republicana [§35–§38]</h3>
+<p>A hipótese exige que, se os ricos preferem republicanos (como um survey de 2011 sugere para questões de impostos e gastos governamentais), o aumento da desigualdade deveria ter gerado vantagem crescente dos republicanos em financiamento e vitórias eleitorais. Desde o final dos anos 1990, quando dados abrangentes passaram a estar disponíveis, <strong>democratas e seus apoiadores mantiveram paridade com republicanos</strong> em gastos de campanha — inclusive após a decisão <em>Citizens United</em> de 2010. Nas últimas nove eleições presidenciais, candidatos democratas venceram o voto popular em sete. As melhoras eleitorais dos republicanos no Congresso se explicam por outros fatores estruturais: concentração geográfica dos eleitores democratas em áreas urbanas, sobrerrepresentação de estados pouco populosos e conservadores no Senado, e efeitos do Colégio Eleitoral.</p>
+<p>O autor também rejeita a hipótese de que os ricos tenham direcionado democratas a seus interesses: enquanto top <em>tax rates</em> caíram sob Reagan, Bush II e Trump, <strong>subiram sob Clinton e Obama</strong> — evidência inconsistente com a noção de que os plutócratas americanos controlam ambos os partidos.</p>
+<hr>
+</section>
+</section>
+<section id="tendências-históricas-de-longo-prazo-na-democracia-americana-pp.-3436" class="level2" data-number="8">
+<h2 data-number="8" class="anchored" data-anchor-id="tendências-históricas-de-longo-prazo-na-democracia-americana-pp.-3436"><span class="header-section-number">8</span> Tendências Históricas de Longo Prazo na Democracia Americana (pp.&nbsp;34–36)</h2>
+<section id="page-e-gilens-correlação-histórica-mas-interpretação-problemática-3941" class="level3" data-number="8.1">
+<h3 data-number="8.1" class="anchored" data-anchor-id="page-e-gilens-correlação-histórica-mas-interpretação-problemática-3941"><span class="header-section-number">8.1</span> Page e Gilens: correlação histórica, mas interpretação problemática [§39–§41]</h3>
+<p>Benjamin Page e Martin Gilens, em <em>Democracy in America?</em>, argumentam que ao longo de toda a história americana há correspondência entre desigualdade econômica e desigualdade política: quando cidadãos são relativamente iguais, a política tende a ser mais democrática; quando a riqueza se concentra, a democracia sofre. Contudo, o autor exorta ceticismo, especialmente para o período aparentemente mais claro — a segunda metade do século XIX (Gilded Age). Apesar do aumento de desigualdade, a escravidão foi abolida, os padrões de vida reais dobraram a cada geração, o sistema de educação pública se expandiu (média de escolaridade subiu de 4 anos em 1870 para 8 anos em 1930), e a expectativa de vida saltou de 39 anos em 1880 para 60 em 1930 — tudo contra o que a narrativa de “governo pelos afluentes” sugeriria.</p>
+</section>
+<section id="desigualdade-nos-estados-americanos-california-como-caso-extremo-4244" class="level3" data-number="8.2">
+<h3 data-number="8.2" class="anchored" data-anchor-id="desigualdade-nos-estados-americanos-california-como-caso-extremo-4244"><span class="header-section-number">8.2</span> Desigualdade nos estados americanos: California como caso extremo [§42–§44]</h3>
+<p>Os doze estados com maior participação de renda do 1% incluem oito — Nova York, Connecticut, Massachusetts, Califórnia, DC, Illinois, Nova Jersey e Washington — onde o voto republicano é mais baixo, os sistemas tributários estaduais são menos regressivos e os programas sociais públicos são mais generosos. A Califórnia é o caso mais contundente: a participação do 1% saltou de 10% para 24% entre 1979 e 2015, mas o estado possui o sistema tributário menos regressivo do país e aprovou, desde 1999, uma extensa agenda progressista (licença parental remunerada, expansão do Medicaid, salário mínimo de US$15, EITC estadual, energia limpa, entre outras). Esses padrões contradizem frontalmente as previsões da <em>inequality-is-harmful hypothesis</em>.</p>
+<hr>
+</section>
+</section>
+<section id="conclusão-do-capítulo-p.-36" class="level2" data-number="9">
+<h2 data-number="9" class="anchored" data-anchor-id="conclusão-do-capítulo-p.-36"><span class="header-section-number">9</span> Conclusão do Capítulo (p.&nbsp;36)</h2>
+<section id="diagnóstico-matizado-influência-desproporcional-sem-aumento-proporcional-45" class="level3" data-number="9.1">
+<h3 data-number="9.1" class="anchored" data-anchor-id="diagnóstico-matizado-influência-desproporcional-sem-aumento-proporcional-45"><span class="header-section-number">9.1</span> Diagnóstico matizado: influência desproporcional sem aumento proporcional [§45]</h3>
+<p>A evidência disponível sugere que a desigualdade econômica tem impacto sobre a desigualdade de influência política: os ricos americanos muito provavelmente têm mais influência nas decisões de política do que os não-ricos. Todavia, há um <strong>ponto de inflexão</strong> além do qual esse efeito se atenua — e os afluentes americanos podem não ter hoje vantagem política maior do que tinham nos anos 1970. Se os EUA reduzissem a desigualdade de renda e/ou riqueza ao nível de 1979, haveria pouca razão para confiar que isso reduziria a desigualdade de influência política.</p>
+<hr>
+</section>
+</section>
+<section id="argumento-sintético" class="level2" data-number="10">
+<h2 data-number="10" class="anchored" data-anchor-id="argumento-sintético"><span class="header-section-number">10</span> Argumento Sintético</h2>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Tese central:</strong> A desigualdade econômica afeta a igualdade de influência política — os ricos têm mais influência do que os não-ricos nas democracias ricas, inclusive nos EUA —, mas a vantagem política dos ricos não aumentou em paralelo ao crescimento da desigualdade econômica desde os anos 1970, não é maior em países mais desiguais, e não parece ter produzido os deslocamentos de política (impostos, regulação, sindicalização) que a hipótese causal forte preveria.</p>
+<p><strong>Natureza do argumento:</strong> Causal-negativo (ao testar e rejeitar a hipótese de que maior desigualdade econômica causa maior desigualdade de influência política) e descritivo (ao mapear os canais de influência e as tendências históricas).</p>
+<p><strong>O que o texto demonstra vs.&nbsp;o que permanece em aberto:</strong> O texto demonstra ausência de correlação entre variação de desigualdade econômica e variação de desigualdade política em múltiplos testes. O que permanece em aberto é se pesquisas futuras com dados mais granulares sobre preferências do topo da distribuição (além do percentil 90) revelariam padrão diferente — possibilidade explicitamente reconhecida pelo autor.</p>
+<p><strong>Contribuição para o debate:</strong> O capítulo constitui um contraponto empírico robusto à narrativa de “plutocracy doom loop” amplamente difundida por Hacker &amp; Pierson, Bartels e Page &amp; Gilens, sem negar que os ricos detenham vantagem política, mas contestando a relação causal entre <em>aumento</em> da desigualdade econômica e <em>aumento</em> da desigualdade de influência.</p>
+</div>
+</div>
+<hr>
+</section>
+<section id="ficha-analítica-crítica" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="ficha-analítica-crítica">Ficha Analítica Crítica</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Esta seção segue o formato <em>IA Planilhando Textos v13.0</em>.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Ficha Analítica — Tabela Markdown
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-4" class="callout-4-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 23%">
+<col style="width: 52%">
+<col style="width: 23%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Dimensão</th>
+<th style="text-align: left;">Raciocínio analítico</th>
+<th style="text-align: left;">Conteúdo</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Questão de Pesquisa</td>
+<td style="text-align: left;">A pergunta é precisa e diretamente testável: o efeito causal é formulado em termos de covariação entre desigualdade econômica e desigualdade política ao longo do tempo e entre países. A vulnerabilidade é que a pergunta é respondida predominantemente por ausência de correlação, o que é evidência fraca contra hipóteses causais quando existem múltiplas variáveis de confusão.</td>
+<td style="text-align: left;">A desigualdade econômica crescente degrada a democracia ao aumentar a influência política desproporcional dos ricos? Natureza: causal-analítica. Explicitada pelo autor no título e na estrutura.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Questões Secundárias</td>
+<td style="text-align: left;">As subperguntas são bem estruturadas e testam a hipótese em múltiplas dimensões analíticas complementares, tornando o argumento difícil de refutar com uma única evidência contrária.</td>
+<td style="text-align: left;">(1) Os ricos têm influência política desproporcional nos EUA? (2) Essa vantagem cresceu com o aumento da desigualdade econômica? (3) Ela é maior em países com maior desigualdade? (4) Políticas favoráveis aos ricos avançaram mais nos EUA? (5) Republicanos dominam financiamento e eleições? (6) Tendências históricas de longo prazo corroboram a hipótese?</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Puzzle-Type</td>
+<td style="text-align: left;">O puzzle é de natureza empírica: o consenso teórico prevê covariação entre desigualdade econômica e política, mas a evidência agregada não corrobora. O puzzle é bem construído e mobiliza múltiplos testes convergentes. Limitação: o autor não explora por que o efeito esperado não ocorre — não há teoria alternativa sobre o mecanismo de desconexão.</td>
+<td style="text-align: left;">Puzzle explicativo: se o dinheiro compra influência política e a desigualdade de renda cresceu acentuadamente, por que a desigualdade de influência política não cresceu no mesmo período e não é maior onde a desigualdade econômica é maior?</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Conclusão / Argumento Central</td>
+<td style="text-align: left;">A conclusão é cautelosa e metodologicamente honesta: reconhece a influência desproporcional dos ricos sem extrapolar para uma relação causal de aumento. A distinção entre “os ricos têm mais influência” (verdadeiro) e “mais desigualdade causa mais influência dos ricos” (não sustentado) é analiticamente precisa e politicamente relevante.</td>
+<td style="text-align: left;">Os ricos têm mais influência política do que os não-ricos. Porém, a vantagem política dos ricos não aumentou com o aumento da desigualdade, não é maior em países mais desiguais, e os padrões de política efetiva, financiamento eleitoral e resultados eleitorais não são consistentes com a hipótese causal forte.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Métodos</td>
+<td style="text-align: left;">A estratégia de múltiplos testes é metodologicamente sólida para inferência baseada em padrão. A ausência de modelos de regressão multivariada explícita para controlar variáveis institucionais é uma limitação relevante — o autor se baseia em análise descritiva e comparação de casos.</td>
+<td style="text-align: left;">Análise descritiva comparativa; estudo de casos históricos (EUA, California); análise de tendências temporais; uso de dados de segunda mão de Gilens, Bartels, Hacker &amp; Pierson, Wlezien &amp; Soroka. Sem novo dado primário coletado pelo autor neste capítulo.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Data Generation Process (DGP)</td>
+<td style="text-align: left;">O DGP não é discutido explicitamente — o autor usa dados já processados por outros pesquisadores. Isso torna o argumento dependente da qualidade das análises originais, especialmente Gilens (1.779 resultados de política, surveys 1981–2002). A limitação mais grave: “alta renda” em Gilens = percentil 90, não o 1% ou 0,1% que são centrais ao argumento sobre plutocracias.</td>
+<td style="text-align: left;">Fenômeno: correspondência entre preferências por faixa de renda e decisões de política → dados: surveys de opinião pública + registros de votação legislativa + bancos de dados de financiamento de campanha → análise: correlação entre preferências e resultados → inferência: descritiva e baseada em padrão.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Achados e Contribuições</td>
+<td style="text-align: left;">O achado mais importante é o resultado nulo: ausência de aumento da desigualdade de influência política apesar do aumento da desigualdade econômica. O caso California é uma contribuição analítica particularmente forte — um caso de máxima desigualdade econômica com mínima desigualdade de política pública.</td>
+<td style="text-align: left;">(1) Ricos têm influência desproporcional nos EUA. (2) Essa influência não cresceu com a desigualdade econômica. (3) A vantagem política dos ricos não é maior em países mais desiguais. (4) Políticas favoráveis aos ricos (cortes de impostos, desregulação, declínio sindical) não se intensificaram nos EUA em comparação com países menos desiguais. (5) Democratas mantiveram paridade de financiamento com republicanos.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Análise Crítica dos Achados</td>
+<td style="text-align: left;">O ponto mais frágil é a medida de “renda alta” como percentil 90 em vez do 1% ou 0,1%. É concebível que a influência política do topo extremo da distribuição tenha crescido exatamente no grupo que as pesquisas não conseguem medir adequadamente. O autor reconhece essa limitação, mas não desenvolve uma estratégia para mitigá-la. A comparação internacional sofre de potencial confusão por diferenças institucionais (tipo de Estado de bem-estar, sistema eleitoral) não controladas sistematicamente.</td>
+<td style="text-align: left;">Ameaças à identificação: (a) viés de medição — o percentil 90 pode não capturar a influência do 0,1%; (b) variáveis omitidas — qualidade institucional e tipo de sistema eleitoral podem mediar os efeitos; (c) heterogeneidade — o efeito da desigualdade pode variar por tipo de regime político; (d) defasagem temporal — os efeitos podem ser mais lentos do que o período analisado. Generalizabilidade: válida para democracias ricas; inaplicável a países em desenvolvimento como o Brasil.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Limitações</td>
+<td style="text-align: left;"><strong>Reconhecidas:</strong> Dados de surveys subestimam o verdadeiro 1% (amostras insuficientes); o banco de dados de Gilens cobre apenas políticas que surveys questionaram; os dados de Gilens terminam em 2002 (possível que os anos 2010s mostrem padrão diferente). <strong>Não reconhecidas ou subestimadas:</strong> Ausência de controles institucionais nas comparações internacionais; falta de teoria explícita sobre por que a hipótese falha; os canais de influência de ideias (think tanks, mídia) são mais difíceis de medir e podem ter crescido mesmo sem afetar a métrica de correspondência preferências-política; o argumento histórico é vulnerável a problemas de endogeneidade e omissão de variáveis ao longo de séculos.</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Perspectiva Teórica</td>
+<td style="text-align: left;">O capítulo não adota uma moldura teórica explícita. Opera dentro da tradição da ciência política comparada e da economia política, dialogando criticamente com a literatura sobre elitismo político (Bartels, Gilens) e sobre capitalismo e democracia (Hacker &amp; Pierson, Page &amp; Gilens). Há implícita uma ontologia pluralista: a influência política tem múltiplos determinantes, dos quais a desigualdade econômica é apenas um, e possivelmente não o mais importante.</td>
+<td style="text-align: left;">Institucionalismo comparado implícito. Orientação empírico-analítica. Diálogo crítico com teorias elitistas e pluralistas da política americana. Sem filiação explícita a uma teoria única de democracia ou de distribuição de poder político.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Principais Referências</td>
+<td style="text-align: left;">As referências empíricas centrais são Bartels e Gilens — cujo trabalho é tratado simultaneamente como a melhor evidência disponível e como evidência insuficiente para confirmar a hipótese causal forte. Hacker &amp; Pierson são usados para testar a hipótese de que vitórias políticas dos ricos aumentaram; Page &amp; Gilens para o teste histórico de longo prazo.</td>
+<td style="text-align: left;">Bartels (preferências e votos legislativos); Gilens, <em>Affluence and Influence</em> (preferências e mudanças de política); Hacker &amp; Pierson (vitórias políticas de ricos e empresas); Burstein (amostragem aleatória de propostas legislativas); Wlezien &amp; Soroka (análise similar a Gilens para 1972–2008); Page &amp; Gilens, <em>Democracy in America?</em> (tendências históricas).</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Observações</td>
+<td style="text-align: left;">Para pesquisas sobre desigualdade e política no Brasil, o argumento do capítulo representa um alerta metodológico importante: a mera existência de desigualdade econômica elevada não implica que ela seja o determinante causal da captura política. Fatores institucionais — estrutura do sistema político, fragmentação partidária, federalismo, capacidade estatal — podem ser determinantes mais relevantes. O caso California é analiticamente útil como contra-exemplo para teorias que tratam a concentração de renda como variável suficiente para a captura do Estado. A limitação sobre representação inadequada do 1% nos surveys é especialmente relevante para o Brasil, onde a elite econômica é ainda mais estreita e seus mecanismos de influência política são mais opacos.</td>
+<td style="text-align: left;">Vulnerabilidade adicional específica deste capítulo: o argumento implicitamente trata preferências políticas como fixas e independentes da desigualdade, mas a desigualdade pode <em>moldar</em> as preferências políticas dos não-ricos (via efeito de legitimação, alienação política ou dependência de patronagem), tornando a convergência de preferências uma evidência ambígua — pode refletir preferências genuínas ou preferências distorcidas pela própria desigualdade. Esse canal endógeno não é discutido.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>Annotated Bibliography</category>
+  <category>Desigualdade Econômica</category>
+  <category>Democracia</category>
+  <category>Influência Política</category>
+  <category>Economia Política</category>
+  <category>Metodologia Quantitativa</category>
+  <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Kenworthy2025Chp3.html</guid>
+  <pubDate>Wed, 06 May 2026 03:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Fichamento: Educação superior, pública e privada</title>
   <dc:creator>Tales Mançano</dc:creator>
@@ -7614,1001 +8118,6 @@ Note
   <category>Brasil</category>
   <category>Mercados Financeiros</category>
   <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Haber2000Cap3.html</guid>
-  <pubDate>Sat, 25 Apr 2026 03:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Fichamento: Introduction</title>
-  <dc:creator>Tales Mançano</dc:creator>
-  <link>https://mancano-tales.github.io/Annotated-Bibliography/posts/Moe-Wiborg2017.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Moe, T. M., &amp; Wiborg, S. (2017). Introduction. In T. M. Moe &amp; S. Wiborg (Eds.), <em>The comparative politics of education: Teachers unions and education systems around the world</em> (pp.&nbsp;1–23). Cambridge University Press. https://doi.org/10.1017/9781316717653.001</p>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Entrada BibTeX → Moe-Wiborg2017
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
-background-color: null;
-font-style: inherit;">@incollection</span>{<span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">Moe</span>-<span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">Wiborg2017</span>,</span>
-<span id="cb1-2">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">author</span>    = {Moe, Terry M. and Wiborg, Susanne},</span>
-<span id="cb1-3">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">title</span>     = {Introduction},</span>
-<span id="cb1-4">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">booktitle</span> = {The Comparative Politics of Education: Teachers Unions and Education Systems Around the World},</span>
-<span id="cb1-5">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">editor</span>    = {Moe, Terry M. and Wiborg, Susanne},</span>
-<span id="cb1-6">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">year</span>      = {2017},</span>
-<span id="cb1-7">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">pages</span>     = {1--23},</span>
-<span id="cb1-8">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">publisher</span> = {Cambridge University Press},</span>
-<span id="cb1-9">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">address</span>   = {Cambridge},</span>
-<span id="cb1-10">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">doi</span>       = {10.1017/9781316717653.001},</span>
-<span id="cb1-11">}</span></code></pre></div></div>
-</div>
-</div>
-</div>
-<p>Última atualização: 2026-04-25 Modelo: Perplexity — Claude Sonnet 4.6 Gerado em: 2026-04-25T15:34:00-03:00</p>
-<hr>
-<section id="abertura-educação-política-e-propósito-pp.-14" class="level2" data-number="1">
-<h2 data-number="1" class="anchored" data-anchor-id="abertura-educação-política-e-propósito-pp.-14"><span class="header-section-number">1</span> Abertura: Educação, Política e Propósito (pp.&nbsp;1–4)</h2>
-<section id="a-multifuncionalidade-dos-sistemas-educacionais-13" class="level3" data-number="1.1">
-<h3 data-number="1.1" class="anchored" data-anchor-id="a-multifuncionalidade-dos-sistemas-educacionais-13"><span class="header-section-number">1.1</span> A multifuncionalidade dos sistemas educacionais [§1–§3]</h3>
-<p>O capítulo se abre com uma afirmação de alcance universal: a educação é uma função básica do Estado em todo o mundo, mas vai muito além do objetivo elementar de alfabetizar crianças. No §1, Moe e Wiborg estabelecem o tom do argumento ao sublinhar que os sistemas educacionais servem a uma multiplicidade de propósitos — alguns convergentes, outros profundamente contraditórios entre si. A mesma instituição que pode ser veículo de promoção do capital humano e da equidade social pode igualmente funcionar como mecanismo de perpetuação de estruturas de classe, imposição cultural, doutrinação ideológica ou privilégio religioso. O leque de referências mobilizadas já nesse parágrafo inicial — Cremin (1961), Goldin e Katz (2009), Green (2013), Hanushek e Woessmann (2015), Kosack (2012) — sinaliza a amplitude interdisciplinar da empreitada.</p>
-<p>No §2, os autores elaboram essa contradição estrutural: o sistema educacional pode impulsionar mobilidade ascendente, mas também cimentar desigualdades existentes; pode integrar imigrantes à cultura nacional, mas também violentar minorias étnicas; pode socializar para a democracia, mas também para o autoritarismo. Essa ambivalência não é acidental — ela deriva do fato de que governos têm fortes incentivos para mobilizar o potencial das instituições educacionais a seu favor, inscrevendo-as no interior dos processos políticos pelos quais decisões governamentais são tomadas. O §3 sintetiza essa lógica de forma categórica: em grande medida, os sistemas educacionais são o que são — em qualquer nação, independentemente de suas especificidades — porque a política os faz assim. Essa é a premissa fundante do livro.</p>
-</section>
-<section id="formação-institucional-dependência-de-trajetória-e-a-emergência-de-duas-eras-48" class="level3" data-number="1.2">
-<h3 data-number="1.2" class="anchored" data-anchor-id="formação-institucional-dependência-de-trajetória-e-a-emergência-de-duas-eras-48"><span class="header-section-number">1.2</span> Formação institucional, dependência de trajetória e a emergência de duas eras [§4–§8]</h3>
-<p>O §4 introduz o caso norte-americano como ponto de partida histórico. Os EUA foram retardatários na construção de um sistema público de ensino: enquanto Prússia e França iniciaram esse processo há mais de 200 anos, o sistema americano só tomou forma no início do século XX, quando as reformas da Era Progressista — obtidas após décadas de batalhas políticas — expurgaram o patronato e as máquinas partidárias da educação, criando uma estrutura baseada em administração burocrática, expertise e democracia local não-partidária. Paradoxalmente, esse atraso relativo coexistiu com um pioneirismo em termos de equidade: os EUA levaram a escola às massas muito antes da maioria dos países europeus, que, bem no meio do século XX, ainda travavam batalhas sobre a “educação abrangente”.</p>
-<p>No §5, Moe e Wiborg recorrem a Goldin e Katz (2009) para destacar que a universalização precoce da educação nos EUA teve consequências econômicas de longo prazo notáveis, gerando reservas de capital humano que propulsionaram o país ao domínio econômico durante o século XX. Esse processo de expansão não foi exclusivo dos países desenvolvidos: ao longo do tempo, outras nações ao redor do mundo seguiram trajetória semelhante, ampliando seus sistemas públicos para incluir populações cada vez maiores de crianças.</p>
-<p>O §6 nomeia esse processo como uma <strong>era de formação institucional</strong> (<em>era of institutional formation</em>): um período em que praticamente todas as nações estavam construindo, dotando de pessoal, financiando e expandindo suas instituições educacionais pela primeira vez. Ao longo desse processo, essas instituições foram se tornando o <em>status quo</em> institucional, estabelecendo trajetórias difíceis de abandonar posteriormente — em razão da <strong>dependência de trajetória</strong> (<em>path dependence</em>) e do papel protetor de poderosas constituencies políticas (Pierson, 2004).</p>
-<p>No §7, os autores identificam a virada histórica: nos anos 1970 e 1980, dois desenvolvimentos simultâneos inauguraram uma nova era. O primeiro foi a inserção das nações em um ambiente internacional radicalmente transformado por globalização, inovação tecnológica e competição econômica intensa, que levou à valorização do capital humano e à demanda por níveis muito mais elevados de desempenho acadêmico. O segundo foi a chamada “crise do Estado de bem-estar social”, com a emergência da austeridade fiscal, das pressões por eficiência governamental e do descontentamento com modos centralizados e burocráticos de governança — o que gerou pressões por reformas <strong>neoliberais</strong> que enfatizavam descentralização, responsabilização e mercados.</p>
-<p>O §8 extrai a consequência dessas transformações: a mera quantidade de educação deixou de ser suficiente. O foco passou a ser o <strong>desempenho</strong> (<em>performance</em>) — a excelência acadêmica —, algo que as instituições existentes não foram especificamente projetadas para prover nos níveis exigidos pela modernidade. Instaurou-se, assim, uma nova modalidade de política educacional: a <strong>política de reforma baseada em desempenho</strong> (<em>politics of performance-based reform</em>), marcada pela tentativa de reformadores de alterar instituições entrincheiradas e pela resistência previsível dos defensores do <em>status quo</em> institucional (Blossing et al., 2014; Jakobi et al., 2010; Wiborg, 2013).</p>
-</section>
-<section id="foco-do-livro-11-nações-poder-e-interesses-911" class="level3" data-number="1.3">
-<h3 data-number="1.3" class="anchored" data-anchor-id="foco-do-livro-11-nações-poder-e-interesses-911"><span class="header-section-number">1.3</span> Foco do livro: 11 nações, poder e interesses [§9–§11]</h3>
-<p>No §9, Moe e Wiborg consolidam a distinção entre as duas grandes eras — formação institucional e reforma baseada em desempenho — e anunciam a estratégia do livro: dado o desafio da magnitude do tema, o foco recairá sobre aspectos especialmente importantes, construindo uma fundação útil para pesquisas futuras. O livro concentra-se em sistemas de ensino fundamental e médio (<em>elementary and secondary school systems</em>) — as instituições educacionais mais universais — e explora aspectos políticos centrais em 11 nações ao redor do mundo.</p>
-<p>O §10 reconhece que as especificidades variam dramaticamente de país para país (a política educacional da Suécia é radicalmente distinta da do México ou da França), mas sustenta que, em todas as nações, a política é fortemente moldada pelo <strong>poder</strong> e pelos <strong>interesses</strong> daqueles que o exercem. Esse enquadramento analítico comum — poder e interesses — confere estrutura e unidade aos capítulos do livro, mesmo quando seus conteúdos substantivos diferem consideravelmente (Korpi, 2006; Moe, 2005; Pierson, 2015).</p>
-<p>O §11 elabora as exigências de qualquer esforço sério de compreensão dos sistemas educacionais: é preciso estudar, para cada nação, como o poder está estruturado na política da educação — quem o detém, como o exerce, quais são os interesses relevantes, quais as coalizões em jogo, como o poder e os interesses se articulam com o sistema partidário e o aparato governamental. Feito isso de forma comparativa e ao longo do tempo, torna-se possível uma compreensão iluminadora dos sistemas educacionais ao redor do mundo. Os autores observam que a literatura acadêmica é quase uma <em>tabula rasa</em> a esse respeito, e que o livro é uma tentativa de mudar isso — por meio de um foco específico no papel político dos <strong>sindicatos de professores</strong> (<em>teachers unions</em>).</p>
-<hr>
-</section>
-</section>
-<section id="sindicatos-de-professores-política-e-interesses-criados-pp.-49" class="level2" data-number="2">
-<h2 data-number="2" class="anchored" data-anchor-id="sindicatos-de-professores-política-e-interesses-criados-pp.-49"><span class="header-section-number">2</span> Sindicatos de Professores, Política e Interesses Criados (pp.&nbsp;4–9)</h2>
-<section id="o-papel-central-dos-sindicatos-docentes-nos-eua-1214" class="level3" data-number="2.1">
-<h3 data-number="2.1" class="anchored" data-anchor-id="o-papel-central-dos-sindicatos-docentes-nos-eua-1214"><span class="header-section-number">2.1</span> O papel central dos sindicatos docentes nos EUA [§12–§14]</h3>
-<p>O §12 abre a seção com uma observação aparentemente trivial, mas que carrega peso teórico: qualquer pessoa que acompanhe a educação nos EUA sabe que os sindicatos de professores desempenharam papel central na política educacional por décadas. Paradoxalmente, os acadêmicos raramente os estudam como atores políticos. A exceção notória é o livro <em>Special Interest</em> (Moe, 2011), que busca compreender a política educacional americana por meio da lente teórica do poder e dos interesses, e apresenta evidências de que os sindicatos de professores — desde sua emergência como atores-chave nas décadas de 1960, 1970 e 1980 — exerceram grande poder no campo educacional americano e foram os principais opositores da reforma educacional.</p>
-<p>O §13 introduz nuances importantes: observadores informados podem discordar sobre o poder dos sindicatos, e em tempos recentes eles perderam batalhas políticas relevantes — a mais notória sendo o <em>No Child Left Behind</em> de 2001. Ainda assim, há evidências robustas de que, por qualquer critério razoável, os sindicatos de professores são forças políticas de primeira grandeza em todos os níveis do governo americano quando se tomam decisões sobre políticas, organização, financiamento e reforma das escolas públicas. Eles não são os únicos atores relevantes, mas são absolutamente centrais para as controvérsias, lutas e decisões que fazem as escolas públicas serem o que são.</p>
-<p>O §14 extrai a implicação metodológica: estudiosos que buscam compreender a política educacional americana precisam prestar atenção cuidadosa aos sindicatos. E, simetricamente, estudiosos que estudam os sindicatos aprenderão muito sobre como a política educacional americana funciona, por que funciona dessa forma e o que isso implica para o sistema educacional em geral. Esse, aliás, é um argumento central do <em>Special Interest</em> de Moe: o livro não é apenas sobre sindicatos, mas sobre como a política educacional americana pode ser compreendida.</p>
-</section>
-<section id="a-universalidade-teórica-dos-interesses-criados-1520" class="level3" data-number="2.2">
-<h3 data-number="2.2" class="anchored" data-anchor-id="a-universalidade-teórica-dos-interesses-criados-1520"><span class="header-section-number">2.2</span> A universalidade teórica dos interesses criados [§15–§20]</h3>
-<p>O §15 estende o argumento além dos EUA: há boas razões para crer que os EUA não são um caso atípico quanto ao papel proeminente de seus sindicatos de professores. O excepcionalismo americano é um tema clássico da política comparada, mas o fato de que os sindicatos de professores são altamente organizados, politicamente ativos e desempenham papéis centrais na política educacional é, provavelmente, um fato político excepcionalmente comum em todas as nações (com exceção das autoritárias ou muito pobres), independentemente de suas diferenças em relação aos EUA. Estudar os sindicatos de professores é, portanto, estudar algo de importância universal para a política educacional mundial.</p>
-<p>O §16 fornece a fundamentação teórica dessa afirmação (ver Moe, 2015). O ponto de partida é o reconhecimento de que as instituições educacionais não são únicas: em aspectos fundamentais, são iguais a todas as outras instituições governamentais. E, mais importante, todas as instituições governamentais — em todas as áreas de política pública, em todo o mundo — geram naturalmente e inevitavelmente <strong>interesses criados</strong> (<em>vested interests</em>). Isso acontece em saúde, defesa, agricultura, transportes, comércio internacional ou educação pública: grupos e pessoas recebem benefícios das instituições governamentais específicas, seja na forma de serviços, empregos públicos, receitas empresariais, poder, status ou oportunidades de corrupção e patronagem. Onde há instituições governamentais, há interesses criados.</p>
-<p>O §17 esclarece o uso analítico do conceito: na linguagem cotidiana, “interesse criado” carrega conotação negativa — uma crítica implícita ao grupo assim rotulado. Mas os autores explicitam que essa conotação é desnecessária e inapropriada para seus fins. Dizer que um grupo tem um interesse criado em determinada instituição é fazer uma afirmação objetiva sobre a natureza de seus interesses. No plano estritamente científico, o conceito de <strong>interesse criado</strong> tem grande valor analítico como fundamento da teoria — e como base para compreender por que a política das instituições governamentais funciona como funciona.</p>
-<p>O §18 especifica o que é distintivo nos interesses criados: eles emergem das próprias instituições cujo desenvolvimento, estabilidade e mudança se quer explicar. Não são meros grupos de interesse especial: estão enraizados em instituições específicas, delas se beneficiam, e têm incentivos para se organizar — se os stakes forem suficientemente elevados e se puderem superar seus problemas de ação coletiva — para exercer papéis ativos e poderosos na política, protegendo e ampliando seus benefícios. Isso pode envolver pressão por novos programas e gastos (expansão das instituições), mas quase sempre envolve, sobretudo em eras de reforma, oposição a mudanças que ameacem o <em>status quo</em> institucional.</p>
-<p>O §19 aplica essa lógica à educação: os sistemas educacionais também geram interesses criados automaticamente. Os mais óbvios são os de pais e filhos — mas crianças são inerentemente sem poder político, e pais, salvo em nichos abastados, são atomizados demais para superar os formidáveis problemas de ação coletiva. Outra fonte de interesses criados são as burocracias governamentais responsáveis pelas escolas: seus funcionários têm empregos, autoridade, status e prerrogativas enraizados nos sistemas existentes, e, ao contrário dos pais, já estão organizados. Mas os benefícios mais valiosos e motivadores gerados pelas instituições educacionais, em termos de stakes materiais profundos, são os empregos que elas fornecem aos professores — que se traduzem em renda, carreiras, segurança e os fundamentos materiais da vida.</p>
-<p>O §20 é cuidadoso em distinguir o argumento analítico do psicológico: não se afirma que professores se importam apenas com seus empregos. Como seres humanos, eles certamente se importam com crianças, comunidades e famílias. O ponto é analítico: como empregados dos sistemas educacionais, professores têm interesses criados em seus empregos e, por isso, têm fortes incentivos para se organizar, mobilizar recursos e exercer poder na política educacional para proteger e promover esses interesses. Os <strong>sindicatos de professores</strong> são o meio especializado pelo qual fazem isso — protegendo e promovendo seus interesses de emprego, e não todos os outros valores que possam ter como seres humanos.</p>
-</section>
-<section id="os-sindicatos-como-atores-racionais-orientados-por-interesses-de-emprego-2123" class="level3" data-number="2.3">
-<h3 data-number="2.3" class="anchored" data-anchor-id="os-sindicatos-como-atores-racionais-orientados-por-interesses-de-emprego-2123"><span class="header-section-number">2.3</span> Os sindicatos como atores racionais orientados por interesses de emprego [§21–§23]</h3>
-<p>O §21 consolida a teoria: os sindicatos de professores devem ser compreendidos como emergindo desses interesses criados, fundando-se neles e sendo orientados por eles. Como podemos esperar que sistemas educacionais em todo o mundo gerem os mesmos interesses criados, devemos esperar que os sindicatos de professores sejam uma força na política educacional em toda nação onde professores possam se organizar ou tenham capacidade para isso. Em qualquer nação, os professores tendem a superar em número os burocratas governamentais por muitas ordens de magnitude, estão distribuídos geograficamente por todo o país e estão bem ancorados nas comunidades locais — conferindo-lhes vantagens políticas importantes que os burocratas não têm.</p>
-<p>O §22 aborda uma possível má interpretação: como os sindicatos frequentemente são aliados de partidos de esquerda e sua retórica se alinha com posições progressistas (maior equidade social, mais gastos governamentais, programas sociais ampliados), é fácil vê-los como ideologicamente motivados. Mas há boas razões teóricas para pensar o contrário. Os interesses de emprego dos membros formam o núcleo de suas organizações, e esses interesses devem receber prioridade máxima e ser a força motriz por trás da política sindical e de sua abordagem à reforma institucional. Os sindicatos de professores são <strong>grupos de interesse</strong> (<em>interest groups</em>); seus interesses fundamentais são os empregos; e essa é a chave para compreender seu comportamento.</p>
-<p>O §23 situa a lacuna bibliográfica: acadêmicos raramente estudaram a educação do ponto de vista do poder político, e ainda menos os sindicatos de professores como atores políticos. A literatura contém dois livros úteis — <em>The Politics of Teacher Unionism</em> (Lawn, 1985) e <em>Labor Relations in Education</em> (Cooper, 1992) —, mas ambos foram escritos antes do advento pleno da era da reforma baseada em desempenho e não oferecem a perspectiva política aqui proposta. O livro de Lawn era guiado por preocupações normativas com a “defesa dos professores e do ensino”; o de Cooper, sobre relações laborais coletivas, chegou a ter capítulos escritos por representantes sindicais — incluindo Al Shanker (presidente da AFT) e Deiter Wunder (presidente da GEW alemã) — em vez de pesquisadores profissionais.</p>
-<hr>
-</section>
-</section>
-<section id="a-literatura-sobre-política-comparada-da-educação-pp.-913" class="level2" data-number="3">
-<h2 data-number="3" class="anchored" data-anchor-id="a-literatura-sobre-política-comparada-da-educação-pp.-913"><span class="header-section-number">3</span> A Literatura sobre Política Comparada da Educação (pp.&nbsp;9–13)</h2>
-<section id="o-silêncio-da-ciência-política-sobre-a-educação-elementar-e-secundária-2427" class="level3" data-number="3.1">
-<h3 data-number="3.1" class="anchored" data-anchor-id="o-silêncio-da-ciência-política-sobre-a-educação-elementar-e-secundária-2427"><span class="header-section-number">3.1</span> O silêncio da ciência política sobre a educação elementar e secundária [§24–§27]</h3>
-<p>O §24 inaugura uma avaliação crítica do estado da arte. Dado o peso da educação para as nações e seus cidadãos, e dado o papel inevitável da política na conformação dos sistemas educacionais, deveria existir um corpo robusto de ciências sociais explorando como a política da educação funciona e quais são seus determinantes. Mas os cientistas políticos nunca demonstraram grande interesse nesses temas. Gift e Wibbels (2014: 292) sintetizam o paradoxo: “Poderia se argumentar que nenhum domínio de política está mais claramente no coração das dinâmicas sociais, políticas e econômicas centrais de nossa era […] A ciência política, no entanto, está curiosamente sub-representada entre as ciências sociais no estudo da educação.”</p>
-<p>No §25, os autores explicam por quê: a vasta literatura de política comparada foi animada por questões mais “grandiosas” — a ascensão do Estado de bem-estar, o início do <em>retrenchment</em> e da austeridade, o papel dos sistemas partidários, o papel de sindicatos e empresas nas “variedades de capitalismo” e assim por diante. A educação elementar e secundária, como objeto específico do campo da política comparada, ficou largamente fora do radar (embora haja exceções: Ansell, 2010; Ansell e Lindvall, 2015; Busemeyer, 2009, 2014; Iversen e Stephens, 2008; Klitgaard, 2007; Kosack, 2012; Stasavage, 2005; Wiborg, 2009). Na medida em que educação e sua política foram centrais para a literatura de política comparada, o foco recaiu sobre educação vocacional, treinamento profissional e educação superior (Busemeyer, 2014; Busemeyer e Trampusch, 2012; Dobbins e Busemeyer, 2014; Iversen e Stephens, 2008; Thelen, 2004).</p>
-<p>O §26 volta-se para a ciência política americana: também ali a educação recebeu atenção marginal, confinada a literaturas pequenas sobre reforma educacional urbana (Henig et al., 2001; Stone et al., 2001; Reckhow, 2012), <em>No Child Left Behind</em> (Manna, 2006; McGuinn, 2006; Rhodes, 2012) e governança (Henig, 2013; Manna e McGuinn, 2013).</p>
-<p>O §27 examina o campo de pesquisa educacional: esse campo gerou um volume imenso de trabalhos sobre educação em geral, mas pouco deles lida com o processo político real, eleições, grupos de interesse, poder e outros aspectos que explicam como a política molda a educação pública (exceção: Kirst e Wirt, 2009). Quando trata de política, a análise tende a ser uma mistura de componentes empíricos, normativos e aspiracionais — focando em questões de iniquidade, pobreza e justiça social, e argumentando que líderes políticos deveriam fazer mais (por exemplo, Freire, 1996). Há uma literatura crescente sobre globalização e neoliberalismo que critica os impactos dessas forças nos sistemas educacionais (Burbules e Torres, 2002; Zadja, 2015). De modo geral, porém, a literatura educacional está tão focada em escolas, alunos e professores que o papel da política e do poder no sistema educacional não foi submetido a exame empírico sério: quando olha além das escolas, tende a estudar “política” e seus impactos — se a política X tem impacto Y —, e não a política e o poder que explicariam por que X foi adotada.</p>
-</section>
-<section id="contribuições-pioneiras-e-os-limites-da-literatura-existente-2832" class="level3" data-number="3.2">
-<h3 data-number="3.2" class="anchored" data-anchor-id="contribuições-pioneiras-e-os-limites-da-literatura-existente-2832"><span class="header-section-number">3.2</span> Contribuições pioneiras e os limites da literatura existente [§28–§32]</h3>
-<p>O §28 destaca dois livros recentes como esforços pioneiros para trazer a educação para o <em>mainstream</em> da ciência política. O primeiro é <em>Skills and Inequality</em> (Busemeyer, 2014), que integra a educação à literatura do Estado de bem-estar social, mostrando como o esquema teórico de Esping-Andersen e as teorias de política partidária ajudam a explicar por que países desenvolveram sistemas distintos de educação vocacional e superior. O segundo é o volume organizado por Jakobi et al.&nbsp;(2010), <em>Education in Political Science</em>, que usa uma perspectiva de “governança” para explorar uma gama eclética de tópicos educacionais, majoritariamente relacionados ao ensino superior e a organizações internacionais. Nenhum dos dois coloca a educação elementar e secundária no centro do palco — mas ambos merecem elogios por inscrever a educação na agenda da ciência política.</p>
-<p>O §29 destaca ainda o artigo de Ansell e Lindvall (2015), que mobiliza evidências quantitativas sobre a evolução histórica da educação primária, investigando os fatores políticos e sociais que explicam por que os sistemas educacionais de 19 Estados de bem-estar social modernos assumiram as formas institucionais que assumiram — com atenção a três dimensões: centralização, secularização e subsídios às escolas privadas. Trata-se, segundo os autores, do estudo analiticamente mais sofisticado já realizado sobre o período formativo das instituições educacionais modernas.</p>
-<p>O §30 apresenta a avaliação mais abrangente da literatura existente, com base na revisão de Busemeyer e Trampusch (2011, pp.&nbsp;413–14): os últimos 25 anos viram um surto de trabalhos em ciência política sobre questões como política partidária da reforma educacional, economia política comparada da formação de habilidades, complementaridades institucionais entre educação e Estado de bem-estar, e internacionalização da educação. Os autores concordam que houve um surto, mas avaliam que a literatura resultante é muito esparsa, heterogênea e sem coerência suficiente para constituir uma literatura genuína. E identificam três características problemáticas:</p>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Características problemáticas da literatura existente (Moe e Wiborg, 2017, pp.&nbsp;11–12)
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<table class="caption-top table">
-<colgroup>
-<col style="width: 39%">
-<col style="width: 60%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Característica</th>
-<th style="text-align: left;">Problema identificado</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Foco em educação superior</td>
-<td style="text-align: left;">Ignora a educação elementar e secundária, que é mais universal, mais fundamental e mais saliente politicamente</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Centralidade da “formação de habilidades”</td>
-<td style="text-align: left;">Analisa educação vocacional e treinamento profissional, não a política do ensino básico</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Foco em gastos como variável dependente</td>
-<td style="text-align: left;">Importante, mas limitado — não explica o processo político que determina por que certas políticas foram adotadas</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-<p>O §31 ressalta uma lacuna adicional: a literatura de alta qualidade sobre a América Latina — pioneiramente desenvolvida por Murillo (1999, 2001) e Grindle (2004) — trata diretamente de poder, interesse e interesses criados, e demonstra que os sindicatos de professores são centrais para a política da educação, fundamentalmente motivados por interesses de emprego de seus membros, e os principais opositores da reforma. Essa literatura, contudo, não foi incluída na revisão de Busemeyer e Trampusch (2011). Grindle (2004, p.&nbsp;139) resume a situação da América Latina nos anos 1990 de forma lapidar: “Com raríssimas exceções, os sindicatos de professores formaram o núcleo da resistência às reformas educacionais dos anos 1990.” Bruns e Luque (2014, p.&nbsp;47) chegam à mesma conclusão: “Os professores são […] o grupo de interesse mais poderoso no processo de reforma educacional. Nenhum outro ator da educação é tão altamente organizado, visível e politicamente influente.”</p>
-<p>O §32 fecha a seção com uma avaliação direta: o problema está na própria literatura — sem foco substantivo, sem coerência teórica, sem conexão entre as diferentes vertentes de pesquisa. O objetivo do livro é ajudar a avançar o campo — em substância, em teoria, em foco —, contribuindo para uma literatura comparada sobre política da educação mais sólida, coerente e iluminadora.</p>
-<hr>
-</section>
-</section>
-<section id="autores-e-países-pp.-1315" class="level2" data-number="4">
-<h2 data-number="4" class="anchored" data-anchor-id="autores-e-países-pp.-1315"><span class="header-section-number">4</span> Autores e Países (pp.&nbsp;13–15)</h2>
-<section id="a-composição-da-equipe-e-a-seleção-de-casos-3336" class="level3" data-number="4.1">
-<h3 data-number="4.1" class="anchored" data-anchor-id="a-composição-da-equipe-e-a-seleção-de-casos-3336"><span class="header-section-number">4.1</span> A composição da equipe e a seleção de casos [§33–§36]</h3>
-<p>O §33 parte de uma observação sobre como a literatura acadêmica se constrói: ela é criada por estudiosos, mas também atrai estudiosos — que constroem uns sobre o trabalho dos outros, geram comunidades acadêmicas e garantem que haja especialistas disponíveis para novas agendas de pesquisa. Sem uma literatura real, nada disso acontece. O desafio enfrentado pelos organizadores foi precisamente esse: encontrar estudiosos que dominassem ao mesmo tempo a política da educação elementar e secundária de um país específico, a estrutura do sistema político e educacional, e o papel dos sindicatos de professores. Como cientistas políticos raramente estudam educação e pesquisadores de educação raramente estudam política, localizar e recrutar tais especialistas foi um desafio considerável.</p>
-<p>O §34 celebra o sucesso nessa tarefa: a equipe reunida tem forte formação acadêmica (todos, exceto um pesquisador do Banco Mundial, estão em universidades), é intelectualmente diversa (com backgrounds que vão da ciência política à economia, à sociologia e à educação) e é interdisciplinar. O que têm em comum é que são pesquisadores profissionais com conhecimento extenso sobre a política da educação de países específicos e sobre o papel político dos sindicatos de professores nesses países.</p>
-<p>O §35 apresenta a cobertura do livro: 11 nações ao total — 9 desenvolvidas e 2 em desenvolvimento. As nações desenvolvidas são EUA, Inglaterra, Alemanha, França, Japão e os países nórdicos (Suécia, Noruega, Dinamarca e Finlândia). As duas nações em desenvolvimento são México e Índia.</p>
-<p>O §36 justifica o foco inicial nas nações desenvolvidas: esses países têm sido centrais para a teoria e a pesquisa em política comparada, especialmente o influente trabalho sobre o Estado de bem-estar social, e pouco se sabe sobre como a política, o poder e os sindicatos de professores moldaram seus sistemas educacionais. Além disso, a vasta literatura existente sobre esses países oferece uma base útil para avançar. Dentro desse conjunto, os autores identificam variação relevante em termos de regime de bem-estar social: social-democrático (países nórdicos), conservador-corporativista (Alemanha, França) e liberal (EUA, Inglaterra). A inclusão de México e Índia traz ainda mais diversidade — contextos marcados por clientelismo, patronato e corrupção, muito distintos das democracias desenvolvidas.</p>
-<hr>
-</section>
-</section>
-<section id="síntese-dos-achados-as-duas-eras-pp.-1521" class="level2" data-number="5">
-<h2 data-number="5" class="anchored" data-anchor-id="síntese-dos-achados-as-duas-eras-pp.-1521"><span class="header-section-number">5</span> Síntese dos Achados: As Duas Eras (pp.&nbsp;15–21)</h2>
-<section id="era-de-formação-institucional-organização-corporativismo-e-vantagem-política-3742" class="level3" data-number="5.1">
-<h3 data-number="5.1" class="anchored" data-anchor-id="era-de-formação-institucional-organização-corporativismo-e-vantagem-política-3742"><span class="header-section-number">5.1</span> Era de Formação Institucional: organização, corporativismo e vantagem política [§37–§42]</h3>
-<p>O §37 abre a seção de síntese dos achados. Durante a era de formação institucional, sindicatos de professores surgiram em todas as nações estudadas — embora os EUA tenham sido retardatários, com a organização sindical se consolidando apenas nas décadas de 1960 e 1970. Em toda parte, os professores superaram seus problemas de ação coletiva e formaram organizações. Na maioria da Europa, Escandinávia e México, as taxas de sindicalização atingiram entre 80 e 100% dos professores; nas demais nações, os índices foram menores, mas ainda assim elevados.</p>
-<p>No §38, os autores descrevem a trajetória de consolidação organizacional: inicialmente fragmentados ao longo de linhas de tipo de escola (primário, secundário), religião, gênero, ideologia e região, os sindicatos tenderam a se unificar organizacionalmente ao longo do tempo. Em alguns países (Finlândia, México), esse processo levou a um único sindicato monopolista; nos demais, permaneceu a pluralidade — em alguns casos, um sindicato representa os professores do ensino fundamental e outro o ensino médio; em outros (como nos EUA, com a NEA e a AFT), dois ou mais sindicatos abrangentes competem por membros.</p>
-<p>O §39 destaca os recursos políticos que os sindicatos mobilizaram uma vez organizados: membros em massa, dinheiro para financiar candidatos e partidos, capacidade de mobilizar eleitores, influência sobre a opinião pública e capacidade de ameaçar greves. Com governos querendo paz e normalcy — e vencer eleições —, os sindicatos se posicionaram para exercer poder político real. E o exercício desse poder orientou-se uniformemente, em todas as nações, para proteger e ampliar empregos, salários, benefícios, condições de trabalho e outras questões relacionadas ao emprego. Isso ainda é verdade hoje.</p>
-<p>No §40, os autores introduzem a dimensão do <strong>corporativismo</strong>: na maioria dos países, os sindicatos de professores emergiram e se tornaram politicamente ativos enquanto os sistemas educacionais estavam se institucionalizando, sendo tecidos ao tecido institucional da governança educacional por mecanismos corporativistas. Nos países nórdicos — casos clássicos de corporativismo —, foram integrados junto com outros grupos de interesse em estruturas de decisão projetadas para promover moderação e equilíbrio. Em muitos outros países, a inclusão corporativista dos sindicatos não visava ao equilíbrio, mas à concessão de controle operacional extensivo sobre empregos e políticas (mas não salários). Apenas nos EUA, Japão e Índia os sindicatos não foram incorporados ao governo por essa via.</p>
-<p>O §41 destaca a dimensão político-partidária: os sindicatos de professores eram (e ainda são) geralmente aliados dos principais partidos de esquerda de suas nações que, durante a era de formação institucional, controlavam o governo ou exerciam papéis influentes na expansão da burocracia e na construção do Estado de bem-estar social. Os sindicatos estavam do lado vencedor enquanto o governo moderno era criado — e foram tornados parte integrante dele. Os adversários centro-direitistas da esquerda, por sua vez, não eram genuinamente contrários ao Estado de bem-estar social e não buscavam minar o poder sindical. Com a exceção do Japão, foi uma época muito favorável para os sindicatos de professores.</p>
-<p>O §42 sintetiza o achado mais marcante: a despeito das diferenças entre as nações, o que é mais notável é a <strong>semelhança</strong> (<em>sameness</em>) ao longo do processo. Em Estados de bem-estar social-democráticos, corporativistas-estatistas e liberais — e até nas nações em desenvolvimento —, os sindicatos de professores agiram sobre seus interesses criados para se organizar, tornar-se politicamente ativos, envolver-se na formulação de políticas e moldar seus sistemas educacionais. Há uma extraordinária commonalidade impulsionada pelo poder dos interesses criados, presentes e profundamente consequentes em todas as nações.</p>
-</section>
-<section id="era-de-reforma-baseada-em-desempenho-veto-points-e-resultados-divergentes-4354" class="level3" data-number="5.2">
-<h3 data-number="5.2" class="anchored" data-anchor-id="era-de-reforma-baseada-em-desempenho-veto-points-e-resultados-divergentes-4354"><span class="header-section-number">5.2</span> Era de Reforma Baseada em Desempenho: veto points e resultados divergentes [§43–§54]</h3>
-<p>O §43 situa a era moderna. Com o avanço perturbador da globalização e da inovação tecnológica, aliado à austeridade e ao <em>retrenchment</em> associados à “crise do Estado de bem-estar social” no final dos anos 1970 e 1980, os governos passaram a exigir níveis muito mais elevados de desempenho de seus sistemas educacionais. A abordagem da reforma institucional — frequentemente rotulada de neoliberal — foi amplamente similar entre as nações: alguma combinação de descentralização, responsabilização e escolha escolar.</p>
-<p>No §44, os sindicatos de professores entraram na era moderna como atores entrincheirados nas instituições existentes, e as reformas então perseguidas ameaçavam minar suas tradicionais bases de poder, seu controle sobre empregos e dinheiro, e a segurança no emprego e as condições de trabalho dos professores. Em todos os países, quando os governos buscaram reformas baseadas em desempenho, os sindicatos de professores se opuseram — e foram, de fato, seus principais adversários políticos.</p>
-<p>O §45 é analiticamente importante: os autores recusam-se a tomar posição normativa sobre se as reformas neoliberais em questão eram boas ideias ou socialmente vantajosas. O ponto sobre os sindicatos é objetivo: eles eram grandes interesses criados e, como se esperaria teoricamente, foram ameaçados pela reforma institucional e se opuseram a ela. Isso conferiu uma estrutura distintiva e previsível à moderna política da educação em todos os países.</p>
-<p>No §46, emerge o padrão comparativo central do livro:</p>
-<blockquote class="blockquote">
-<p>Os esforços de reforma institucional se desenrolaram de maneiras muito diferentes entre as nações, mas há um padrão básico nos resultados que faz sentido teórico. E é um padrão que, curiosamente, nada tem a ver com os tipos de regime — social-democrático, corporativista-estatista, liberal — que desempenharam papéis tão centrais na literatura comparada. O fator operativo aqui é mais genérico: em qualquer nação, independentemente do tipo de regime, a extensão em que o sistema político coloca <strong>pontos de veto</strong> (<em>formal veto points</em>) no caminho da ação governamental tem muito a ver com a capacidade dos interesses criados de bloquear reformas importantes.</p>
-</blockquote>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Important
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong>Argumento central sobre veto points:</strong> É nos sistemas políticos onde os governos são livres de tais restrições — sendo assim empoderados para agir e reduzindo as oportunidades para que interesses criados bloqueiem — que a reforma real é mais provável. Nas nações desenvolvidas cobertas pelo livro, a presença ou ausência de pontos de veto formais está fortemente relacionada à capacidade dos governos de superar a oposição dos interesses criados e realizar reformas importantes em seus sistemas educacionais.</p>
-</div>
-</div>
-<p>O §47 apresenta os casos de maior reforma: Inglaterra e Suécia. Embora sejam tipos muito diferentes de Estados de bem-estar social, os reformadores governamentais de ambos operavam dentro de sistemas parlamentares sem veto points, que os empoderavam plenamente para agir. E em ambos — em grande parte porque o Partido Trabalhista (na Inglaterra) e os Social-Democratas (na Suécia) avançaram para o centro para abraçar reformas neoliberais do Estado de bem-estar —, governos sucessivos demonstraram compromisso em usar esse poder ao longo do tempo para realizar reformas educacionais importantes. O resultado foi profundamente transformador: a Suécia passou de um sistema centralizado, corporativista e burocrático para um radicalmente descentralizado que faz uso extensivo da escolha escolar; a Inglaterra passou de um sistema controlado pelas autoridades educacionais locais para um que sujeita os locais a rigorosos requisitos de responsabilização e retira enormes números de escolas (e crianças) de sua jurisdição por meio de uma expansão explosiva da escolha escolar. Em ambos, os sindicatos resistiram fortemente — e perderam.</p>
-<p>O §48 analisa Noruega e Dinamarca: também com parlamentos unicamerais, estão no processo de transformar seus sistemas educacionais — contra a resistência de seus sindicatos —, mas demoraram mais do que a Suécia e suas reformas são até agora menos radicais. A principal razão é que, embora seus governos tivessem poder para agir, seus partidos de esquerda não avançaram para o centro com a rapidez ou agressividade da Suécia, sendo por algum tempo mais apoiadores dos sindicatos. Mas os anos 2000 viram os partidos de esquerda tornarem-se mais centristas, e o ritmo da reforma aumentou consideravelmente. Há sinais de que os sindicatos estão começando a reestabelecer seu poder ao criar raízes políticas no nível local, mas como isso se sairá — sem as grandes vantagens da centralização — ainda está por se ver.</p>
-<p>O §49 examina a Finlândia: como seus primos nórdicos, tem parlamento unicameral, mas sua experiência de reforma foi marcadamente diferente. Assim como a Suécia, tomou ação bem-sucedida e agressiva para descentralizar a educação — sob um governo de coalizão conservadora, contra a resistência sindical —, e o resultado foi institucionalmente transformador. Mas, ao contrário da Suécia, o que o sindicato mais valorizava — o arranjo de negociação coletiva nacional para salários e benefícios — foi protegido das reformas descentralizadoras. E as estruturas de decisão corporativistas que na Suécia haviam sido enfraquecidas para contornar a participação sindical foram reabracadas ao longo do tempo pelos governos finlandeses que, de meados dos anos 1990 até 2007, foram amplas coalizões multipartidárias que incluíam esquerda e direita, levando a uma forma colaborativa de governança que permitia aos sindicatos bloquear reformas indesejadas.</p>
-<p>O §50 destaca o que distinguiu ainda mais a Finlândia: os resultados surpreendentes do PISA 2001 revelaram que a Finlândia era o melhor sistema educacional do mundo — convencendo a todos, inclusive os próprios finlandeses, de que seu sistema não precisava de reformas. Assim, durante a maior parte dos anos 2000, enquanto outros países buscavam freneticamente melhorar suas escolas, a Finlândia estava satisfeita com o <em>status quo</em>. O sindicato tinha pouco contra o que lutar, e seu poder permanecia substancial. Mas em 2012, os resultados do PISA mostraram um declínio marcado nas pontuações finlandesas (após um declínio menor em 2009), e pressões políticas por reformas genuínas começaram a se acumular. O sindicato passou a jogar na defesa.</p>
-<p>O §51 sintetiza o padrão: as nações desenvolvidas sem veto points formais no caminho da ação governamental — Inglaterra, Suécia, Noruega, Dinamarca — foram amplamente bem-sucedidas ao longo do tempo em superar a resistência sindical e adotar reformas importantes. As outras nações desenvolvidas da amostra — EUA, França, Alemanha e Japão — todas têm sistemas políticos que colocam múltiplos veto points no caminho da ação governamental e, portanto, oferecem aos interesses criados amplas oportunidades de bloquear. Em nenhum desses países ocorreu reforma educacional importante. De fato, seus sistemas políticos os deixam duplamente desfavorecidos em termos de reforma: precisamente porque seus múltiplos veto points tornam a mudança drástica tão difícil, seus governos têm razão para nem mesmo tentar o tipo de mudança transformadora que ocorreu na Inglaterra e na Suécia, limitando-se a mudanças incrementais.</p>
-<p>O §52 detalha os casos de veto múltiplo: nos EUA, apenas 6% dos alunos estão em escolas charter, o NCLB foi esvaziado, e as avaliações baseadas em desempenho levaram, na prática, a quase todos os professores sendo classificados como satisfatórios. Na França, os governos tentaram descentralizar seu sistema massivo e centralizado muitas vezes, sendo derrotados pela oposição sindical e greves. Na Alemanha, os governos ficaram anos sem fazer nada e, nos anos 2000 — graças ao “choque PISA” —, conseguiram adotar algumas reformas modestas de responsabilização na forma de padrões e testes nacionais. Em todos os três países, a estrutura básica do sistema escolar permanece a mesma de décadas atrás.</p>
-<p>O §53 examina o outlier japonês: entre as nações de veto múltiplo, o Japão é uma exceção — não porque tenha alcançado mudança importante, mas porque o Sindicato Japonês de Professores (JTU) foi literalmente excluído do poder e do envolvimento decisório pelo conservador LDP, que deteve praticamente o monopólio do controle do governo japonês (com pequenas exceções) desde 1955. Além disso, a principal explicação para a limitada busca de reformas neoliberais no Japão tem menos a ver com os sindicatos de professores e mais a ver com o poderoso Ministério Nacional da Educação — que tem profundos interesses criados em manter seu controle central.</p>
-<p>O §54 fecha com as nações em desenvolvimento (México e Índia): ambas precisam desesperadamente de reformas educacionais de amplo alcance, mas estão sobrecarregadas com sistemas políticos imersos em clientelismo e corrupção. Para políticos e líderes sindicais, a educação é uma fonte irresistível de empregos, dinheiro e poder que permite a rent-seekers prosperar. No México, desde o final dos anos 1930, um único sindicato monopolista exerceu extraordinário poder político — em eleições, legislaturas e burocracias nos níveis federal e estadual — para exercer controle considerável sobre empregos e políticas, e até mesmo sobre políticos. Na Índia, os sindicatos são numerosos e fragmentados, mas são extremamente ativos na política eleitoral, têm representação expressiva nas legislaturas estaduais (garantidos constitucionalmente ao menos 12% das cadeiras nas câmaras superiores estaduais) e se envolvem em conexões corruptas com políticos para intermediar favores de emprego. Em ambas as nações, os escândalos abundam: no México, professores compram e vendem seus empregos ou os passam para seus filhos; na Índia, cerca de 25% dos professores não aparecem para trabalhar em qualquer dia específico.</p>
-<hr>
-</section>
-</section>
-<section id="o-caminho-à-frente-pp.-2021" class="level2" data-number="6">
-<h2 data-number="6" class="anchored" data-anchor-id="o-caminho-à-frente-pp.-2021"><span class="header-section-number">6</span> O Caminho à Frente (pp.&nbsp;20–21)</h2>
-<section id="a-agenda-de-pesquisa-e-as-contribuições-do-livro-5557" class="level3" data-number="6.1">
-<h3 data-number="6.1" class="anchored" data-anchor-id="a-agenda-de-pesquisa-e-as-contribuições-do-livro-5557"><span class="header-section-number">6.1</span> A agenda de pesquisa e as contribuições do livro [§55–§57]</h3>
-<p>O §55 posiciona o livro como um primeiro passo em uma agenda maior. Os sindicatos de professores são usados como cunha de entrada para avançar uma agenda acadêmica mais ampla sobre a política comparada da educação. Quando tomados em conjunto, os capítulos do país apontam para um todo muito maior do que a soma simples de suas partes: não apenas sobre os sindicatos, mas sobre o quadro maior da política educacional mundial — e sobre os papéis teóricos-chave dos interesses criados e dos veto points governamentais em moldar como essa política se desdobra em contextos nacionais.</p>
-<p>O §56 é modesto quanto ao alcance do livro: dado o quanto ainda é pouco conhecido sobre a política da educação, isso representa um passo útil para a frente — mas é apenas um passo em um processo contínuo de estudo e exploração. A esperança dos autores é que as informações e análises fornecidas aqui contribuam para trazer o estudo da política e do poder para o centro do palco na teoria e na pesquisa sobre educação, ativando o envolvimento de uma comunidade acadêmica muito mais ampla.</p>
-<p>O §57 reafirma a modéstia da ambição declarada: o livro não busca proliferar variáveis, destrinchar todas as influências relevantes ou explorar todas as avenidas teóricas potencialmente interessantes — tarefa deixada para trabalhos futuros. A ambição presente é quase o oposto: simplificar, esclarecer, estabelecer alguns achados básicos de interesse comparativo e valor teórico, e buscar coerência e ordem intelectual ao oferecer uma fundação para o trabalho futuro sobre a política comparada da educação.</p>
-<hr>
-</section>
-</section>
-<section id="argumento-sintético" class="level2" data-number="7">
-<h2 data-number="7" class="anchored" data-anchor-id="argumento-sintético"><span class="header-section-number">7</span> Argumento Sintético</h2>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Síntese do argumento central
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong>Tese central:</strong> Os sistemas educacionais públicos são moldados pela política em duas eras distintas — a era de formação institucional e a era de reforma baseada em desempenho — e os sindicatos de professores, como interesses criados enraizados nas instituições educacionais, comportam-se de forma previsível em ambas: buscando ampliar empregos e benefícios durante a formação, e opondo-se às reformas que ameaçam o <em>status quo</em> na era moderna. O fator que determina se os governos conseguem superar essa oposição não é o tipo de regime de bem-estar social, mas sim a presença ou ausência de veto points formais no sistema político.</p>
-<p><strong>Natureza do argumento:</strong> Causal-comparativo e conceitual. Os autores elaboram uma teoria geral dos interesses criados como fundamento para explicar tanto a similaridade entre nações (formação de sindicatos, orientação para empregos) quanto a variação nos resultados reformistas (presença/ausência de veto points). O argumento é amplamente dedutivo, derivando hipóteses de uma teoria dos interesses e testando-as ilustrativamente por meio de estudos de caso qualitativos em 11 nações.</p>
-<p><strong>O que o texto demonstra vs.&nbsp;o que fica como hipótese ou agenda:</strong> - <em>Demonstrado:</em> A lógica dos interesses criados explica o comportamento sindical de forma consistente em todas as nações da amostra; a correlação entre ausência de veto points e reforma substantiva é robusta nos casos estudados. - <em>Hipótese / agenda:</em> A generalização para nações não cobertas (particularmente nações em desenvolvimento além de México e Índia), a análise dos mecanismos específicos de reforma dentro de cada tipo de sistema, e a sistematização quantitativa das relações causais são explicitamente deixadas para trabalhos futuros.</p>
-<p><strong>Contribuição para o debate:</strong> O capítulo estabelece a política comparada da educação elementar e secundária — especialmente o papel dos sindicatos de professores — como objeto legítimo e urgente da ciência política, desafiando tanto o viés da literatura existente em direção à educação vocacional/superior quanto a ausência de uma moldura unificada de poder e interesses. Ao propor que os veto points superam o tipo de regime como fator explicativo dos resultados reformistas, o argumento desafia teorias prevalentes de variedades de capitalismo e regimes de bem-estar.</p>
-</div>
-</div>
-<hr>
-</section>
-<section id="ficha-analítica-crítica" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="ficha-analítica-crítica">Ficha Analítica Crítica</h2>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Esta seção segue o formato <em>IA Planilhando Textos v13.0</em>.</p>
-</div>
-</div>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-6-contents" aria-controls="callout-6" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Ficha Analítica — Tabela Markdown
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-6" class="callout-6-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<table class="caption-top table">
-<colgroup>
-<col style="width: 23%">
-<col style="width: 52%">
-<col style="width: 23%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Dimensão</th>
-<th style="text-align: left;">Raciocínio analítico</th>
-<th style="text-align: left;">Conteúdo</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Questão de Pesquisa</td>
-<td style="text-align: left;">A premissa dos autores é que poder e interesses são a chave para compreender instituições educacionais — o que é plausível, mas pressupõe que a dimensão material dos interesses de emprego supera outras motivações dos atores sindicais. A interpretação alternativa seria que os sindicatos são movidos por ideologia ou por interesse genuíno na qualidade educacional. O ponto mais vulnerável é justamente essa redução: os autores reconhecem que professores se importam com crianças, mas a teoria assume que, politicamente, os interesses de emprego dominam — hipótese não falsificada diretamente no texto.</td>
-<td style="text-align: left;"><em>Pergunta reconstruída:</em> Como os interesses criados dos sindicatos de professores e a estrutura de veto points dos sistemas políticos nacionais explicam os padrões de política educacional — tanto na era de formação institucional quanto na era de reforma baseada em desempenho — em países desenvolvidos e em desenvolvimento? Natureza: explicativa e causal comparada.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Questões Secundárias</td>
-<td style="text-align: left;">A reconstrução das questões secundárias parte do argumento geral: os autores precisam justificar por que sindicatos são o <em>entry point</em> analítico privilegiado em vez de outros atores (burocratas, partidos, empresas). A interpretação alternativa — que burocratas do Estado Ministério da Educação sejam mais determinantes (como sugere o caso japonês) — é reconhecida como exceção, não como desafio à teoria.</td>
-<td style="text-align: left;">(1) Por que os sindicatos de professores são os interesses criados mais relevantes na política educacional, comparativamente a burocratas e pais? (2) Como a aliança com partidos de esquerda molda o comportamento sindical ao longo do tempo? (3) Como a estrutura de veto points interage com o tipo de regime de bem-estar na determinação dos resultados reformistas? Todas são subordinadas à questão central e contribuem para qualificar a teoria dos interesses criados.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Puzzle-Type</td>
-<td style="text-align: left;">O puzzle é genuíno: a literatura de política comparada ignorou sistematicamente a educação elementar e secundária, e a teoria dos interesses criados oferece uma moldura unificadora ausente no debate. A generalizabilidade além dos 11 casos é razoável — a lógica dos interesses criados é suficientemente abstrata para se aplicar a outros contextos —</td>
-<td style="text-align: left;"></td>
-</tr>
-</tbody>
-</table>
-
-
-</div>
-</div>
-</div>
-</section>
-
- ]]></description>
-  <category>Annotated Bibliography</category>
-  <category>Política Comparada da Educação</category>
-  <category>Sindicalismo Docente</category>
-  <category>Interesses Criados</category>
-  <category>Reforma Institucional</category>
-  <category>Dependência de Trajetória</category>
-  <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Moe-Wiborg2017.html</guid>
-  <pubDate>Sat, 25 Apr 2026 03:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Fichamento: Institutional Determinants of Railroad Subsidy and Regulation in Imperial Brazil</title>
-  <dc:creator>Tales Mançano</dc:creator>
-  <link>https://mancano-tales.github.io/Annotated-Bibliography/posts/Summerhill2000.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Summerhill, W. R. (2000). Institutional determinants of railroad subsidy and regulation in Imperial Brazil. In S. Haber (Ed.), <em>Political institutions and economic growth in Latin America: Essays in policy, history, and political economy</em> (pp.&nbsp;1–29). Hoover Institution Press.</p>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Entrada BibTeX → Summerhill2000
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
-background-color: null;
-font-style: inherit;">@incollection</span>{<span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">Summerhill2000</span>,</span>
-<span id="cb1-2">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">author</span>    = {Summerhill, William R.},</span>
-<span id="cb1-3">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">title</span>     = {Institutional Determinants of Railroad Subsidy and Regulation in Imperial Brazil},</span>
-<span id="cb1-4">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">booktitle</span> = {Political Institutions and Economic Growth in Latin America: Essays in Policy, History, and Political Economy},</span>
-<span id="cb1-5">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">editor</span>    = {Haber, Stephen},</span>
-<span id="cb1-6">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">year</span>      = {2000},</span>
-<span id="cb1-7">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">publisher</span> = {Hoover Institution Press},</span>
-<span id="cb1-8">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">address</span>   = {Stanford, CA},</span>
-<span id="cb1-9">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">pages</span>     = {1--29},</span>
-<span id="cb1-10">}</span></code></pre></div></div>
-</div>
-</div>
-</div>
-<p>Última atualização: 2026-04-25 Modelo: Perplexity — Claude Sonnet 4.6 Prompt Version: v13.0 2026-04-19 | 2026-04-24 “IA Blog Post QMD” Gerado em: 2026-04-25T18:07:00-03:00</p>
-<hr>
-<section id="introdução-pp.-14" class="level2" data-number="1">
-<h2 data-number="1" class="anchored" data-anchor-id="introdução-pp.-14"><span class="header-section-number">1</span> Introdução (pp.&nbsp;1–4)</h2>
-<section id="a-primazia-das-instituições-políticas-sobre-as-econômicas-12" class="level3" data-number="1.1">
-<h3 data-number="1.1" class="anchored" data-anchor-id="a-primazia-das-instituições-políticas-sobre-as-econômicas-12"><span class="header-section-number">1.1</span> A primazia das instituições políticas sobre as econômicas [§1–§2]</h3>
-<p>O capítulo abre afirmando que a maior parte da literatura sobre instituições e desenvolvimento na América Latina concentrou-se nas <strong>instituições econômicas</strong> — regras, leis e práticas que moldam incentivos ao investimento e à produção. Summerhill argumenta, contudo, que tais instituições econômicas são frequentemente <em>resultados</em> de políticas e ações governamentais específicas, e não variáveis exógenas. Os arranjos institucionais dentro do sistema político — divisão de poderes, câmaras legislativas, sistemas eleitorais, organizações partidárias — moldam leis, regulações, a definição e a aplicação de direitos de propriedade, e qualquer forma recorrente de intervenção no mercado. Ao estruturar o que conta como instituição econômica, o sistema político torna-se diretamente relevante para o estudo do desempenho econômico: as instituições econômicas formais são, na metáfora do autor, apenas a “ponta do iceberg”, cuja base é a organização política e a formulação de políticas.</p>
-<p>O segundo parágrafo aplica esse argumento geral ao caso do Brasil do século XIX. Tratava-se de uma economia relativamente atrasada, tardia na adoção de elementos como investimento em capital humano e social, direitos de propriedade modernos, legislação comercial para empresas de responsabilidade limitada e sistemas financeiros menos restritivos. A falha de mercado era disseminada. Summerhill, porém, insiste que a extensão da falha de mercado era apenas <em>um</em> dos determinantes do atraso relativo; o outro era o grau em que a organização política auxiliava — ou impedia — a correção dessas falhas. O ideal normativo de referência é o de políticas que maximizariam o excedente social em um ambiente sem outras distorções institucionais, seguindo o que o autor chama de potencial “gerschenkroniano” do Estado.</p>
-</section>
-<section id="o-papel-distributivo-da-política-e-as-três-questões-centrais-34" class="level3" data-number="1.2">
-<h3 data-number="1.2" class="anchored" data-anchor-id="o-papel-distributivo-da-política-e-as-três-questões-centrais-34"><span class="header-section-number">1.2</span> O papel distributivo da política e as três questões centrais [§3–§4]</h3>
-<p>No terceiro parágrafo, Summerhill introduz a tensão central do capítulo: porque políticos não compartilham necessariamente os critérios de eficiência da economia, as políticas por eles selecionadas podem divergir drasticamente do ótimo social. Políticos buscam conferir benefícios a seus constituintes e minimizar os custos que estes suportam; as <strong>consequências distributivas</strong> das intervenções no mercado são, assim, de importância primordial para qualquer análise de política pública. A correção de falhas de mercado pode, ela própria, ser dissipadora ou até agravar ineficiências — especialmente quando a falha não é suficientemente ampla e grave para que a intervenção melhore o <em>status quo</em>.</p>
-<p>O quarto parágrafo apresenta o problema empírico concreto — o desenvolvimento ferroviário no Brasil imperial — e formula as três questões que o capítulo se propõe a responder: (1) por quais instituições e mecanismos o Estado imperial promoveu e regulou os investimentos ferroviários?; (2) como a organização política do Brasil determinou a seleção dessas políticas?; (3) quais foram as consequências da política ferroviária para a economia como um todo? As respostas a essas questões iluminam uma preocupação compartilhada por estudiosos da América Latina: as origens e o impacto da política governamental em economias relativamente atrasadas.</p>
-</section>
-<section id="revisão-crítica-da-historiografia-e-reposicionamento-analítico-57" class="level3" data-number="1.3">
-<h3 data-number="1.3" class="anchored" data-anchor-id="revisão-crítica-da-historiografia-e-reposicionamento-analítico-57"><span class="header-section-number">1.3</span> Revisão crítica da historiografia e reposicionamento analítico [§5–§7]</h3>
-<p>O quinto parágrafo apresenta e critica a interpretação dominante da história ferroviária brasileira, segundo a qual o padrão “plantation-e-mina-ao-porto” das ferrovias latino-americanas pouco contribuiu para a integração política ou mercados domésticos, tendo apenas aprofundado a dependência em relação aos mercados mundiais. Na visão convencional, as ferrovias foram eficientes em desperdiçar recursos, enriquecer uma pequena classe de proprietários rurais e empobrecer o país. Paralelamente, a visão sobre o financiamento externo sustentava que mesmo os países maiores e mais estáveis perderam o controle sobre suas próprias economias ao recorrer ao capital estrangeiro.</p>
-<p>No sexto parágrafo, Summerhill observa que, apesar das implicações testáveis embutidas nessas formulações, há surpreendentemente poucas avaliações empíricas rigorosas das consequências econômicas das ferrovias de propriedade estrangeira, dos subsídios ferroviários ou da política regulatória no Brasil. Isso contrasta com a riqueza de análises dedutivas e impressões estilizadas. O sétimo parágrafo anuncia o reposicionamento analítico do capítulo: em vez de aceitar explicações puramente dedutivas, o trabalho avalia o processo de desenvolvimento ferroviário no Brasil imperial em termos de suas consequências observáveis, focando nos <strong>determinantes institucionais</strong> do subsídio e da regulação ferroviária. O capítulo prossegue em cinco seções, descritas em seguida.</p>
-<hr>
-</section>
-</section>
-<section id="da-falha-de-mercado-ao-desenvolvimento-ferroviário-pp.-47" class="level2" data-number="2">
-<h2 data-number="2" class="anchored" data-anchor-id="da-falha-de-mercado-ao-desenvolvimento-ferroviário-pp.-47"><span class="header-section-number">2</span> Da Falha de Mercado ao Desenvolvimento Ferroviário (pp.&nbsp;4–7)</h2>
-<section id="o-impacto-direto-das-ferrovias-e-os-cinco-obstáculos-ao-investimento-privado-89" class="level3" data-number="2.1">
-<h3 data-number="2.1" class="anchored" data-anchor-id="o-impacto-direto-das-ferrovias-e-os-cinco-obstáculos-ao-investimento-privado-89"><span class="header-section-number">2.1</span> O impacto direto das ferrovias e os cinco obstáculos ao investimento privado [§8–§9]</h3>
-<p>O oitavo parágrafo afirma que as ferrovias tiveram um forte impacto direto sobre a economia brasileira, apesar do início tardio. Durante o <strong>Segundo Reinado</strong> (1840–1889), as ferrovias representaram a maior parte do financiamento externo que fluía para o país e constituíam o maior setor “moderno” da economia. Entretanto, os mercados privados falharam em fornecer serviços de transporte ferroviário, não obstante os enormes retornos potenciais para produtores e consumidores resultantes da redução dos custos de transporte. O desenvolvimento ferroviário só ganhou impulso nos anos 1850, quando o governo criou a garantia de dividendo mínimo para investidores.</p>
-<p>O nono parágrafo detalha os <strong>cinco fatores inter-relacionados</strong> que atrasaram a era ferroviária brasileira:</p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 50%">
-<col style="width: 50%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Obstáculo</th>
-<th style="text-align: left;">Descrição</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Capital inicial elevado</td>
-<td style="text-align: left;">Ferrovias eram, de longe, o investimento mais caro do Brasil do século XIX</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Incerteza sobre retornos</td>
-<td style="text-align: left;">Investidores não sabiam quanto uma ferrovia geraria de receita; o retorno privado esperado ficava aquém do retorno social</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Risco de expropriação</td>
-<td style="text-align: left;">A intensidade de capital e os custos fixos elevados expunham os proprietários de ferrovias à regulação confiscatória</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Mercado de capitais subdesenvolvido</td>
-<td style="text-align: left;">Difícil mobilizar investidores com preferências de risco e fundos adequados</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Instabilidade política</td>
-<td style="text-align: left;">A Regência e os primeiros anos do Segundo Reinado desestimularam o risco; os recursos necessários para sufocar revoltas tornavam os subsídios governamentais inviáveis</td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="o-mecanismo-de-garantia-de-dividendos-e-o-crescimento-do-setor-1011" class="level3" data-number="2.2">
-<h3 data-number="2.2" class="anchored" data-anchor-id="o-mecanismo-de-garantia-de-dividendos-e-o-crescimento-do-setor-1011"><span class="header-section-number">2.2</span> O mecanismo de garantia de dividendos e o crescimento do setor [§10–§11]</h3>
-<p>O décimo parágrafo descreve como somente com a primeira provisão de <strong>garantias de dividendo mínimo</strong> pelo governo imperial, em 1852, os investimentos vieram. Tanto o governo central quanto os governos provinciais passaram a satisfazer as demandas dos proprietários de terra por transporte barato, oferecendo dividendos mínimos garantidos a projetos ferroviários. As garantias iniciais eram específicas por projeto, mas legislação posterior nos anos 1870 e 1880 expandiu os compromissos do governo central, tornando-os acessíveis a todas as províncias. O mecanismo de garantia funcionava da seguinte forma: quando os lucros líquidos de uma ferrovia ficavam abaixo do nível estipulado, o governo pagava a diferença; quando os lucros excediam suficientemente o dividendo prescrito, os lucros adicionais eram divididos com o governo para reembolsar pagamentos anteriores; dividendos ainda mais elevados ocasionavam a redução das tarifas de frete e passageiros.</p>
-<p>O décimo-primeiro parágrafo sintetiza os dois desfechos possíveis do mecanismo de garantia. Para ferrovias viáveis, somente o valor nominal dos pagamentos de dividendo garantido era reembolsado, sendo o valor do subsídio equivalente ao juro que a ferrovia não pagou. Para ferrovias que nunca geraram lucro suficiente, o valor do subsídio equivalia ao fluxo integral de garantias pagas pelo governo. Em ambos os casos, a contrapartida — o <em>quid pro quo</em> — era a regulação tarifária pelas autoridades governamentais. Com controles sobre tarifas de frete e passageiros, a política de dividendo mínimo criava uma <strong>banda de taxa de retorno</strong> para as ferrovias garantidas.</p>
-</section>
-<section id="dados-de-crescimento-do-setor-ferroviário-18551887-1213" class="level3" data-number="2.3">
-<h3 data-number="2.3" class="anchored" data-anchor-id="dados-de-crescimento-do-setor-ferroviário-18551887-1213"><span class="header-section-number">2.3</span> Dados de crescimento do setor ferroviário, 1855–1887 [§12–§13]</h3>
-<p>O décimo-segundo parágrafo apresenta a <strong>Tabela 1</strong>, que registra o crescimento do setor ferroviário brasileiro entre 1855 e 1887 por dois indicadores: quilômetros de trilho em operação e receitas operacionais totais (deflacionadas a preços de 1887). A primeira ferrovia brasileira abriu em 1854, mas o crescimento do setor foi lento até após a Guerra do Paraguai (1864–1870). A partir daí, tanto a capacidade quanto o tráfego cresceram especialmente após 1875. Em 1887, o Brasil possuía 8.400 quilômetros de trilhos em operação. Entre 1855 e 1887, o aumento médio anual da produção ferroviária foi de quase 15% ao ano.</p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 6%">
-<col style="width: 36%">
-<col style="width: 56%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Ano</th>
-<th style="text-align: left;">Trilhos totais (km de rota)</th>
-<th style="text-align: left;">Produção ferroviária (em milréis de 1887)</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">1855</td>
-<td style="text-align: left;">15</td>
-<td style="text-align: left;">200.155</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">1860</td>
-<td style="text-align: left;">223</td>
-<td style="text-align: left;">2.078.514</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">1865</td>
-<td style="text-align: left;">498</td>
-<td style="text-align: left;">3.611.287</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">1870</td>
-<td style="text-align: left;">744</td>
-<td style="text-align: left;">6.571.833</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">1875</td>
-<td style="text-align: left;">1.801</td>
-<td style="text-align: left;">14.306.998</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">1880</td>
-<td style="text-align: left;">3.398</td>
-<td style="text-align: left;">26.744.889</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">1885</td>
-<td style="text-align: left;">6.930</td>
-<td style="text-align: left;">34.966.580</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">1887</td>
-<td style="text-align: left;">8.400</td>
-<td style="text-align: left;">37.368.187</td>
-</tr>
-</tbody>
-</table>
-<p><em>Fonte: Summerhill, “Benefits and Costs”. Deflacionado pelo índice de preços no atacado do Rio de Janeiro.</em></p>
-<p>O décimo-terceiro parágrafo apresenta a magnitude das <strong>economias sociais</strong> geradas pela substituição de modos de transporte mais caros — carroças de tração animal, tropas de mulas e, em alguns casos, carregadores humanos — pelas ferrovias. Em 1887, as ferrovias brasileiras produziram 221,1 milhões de toneladas-quilômetro de serviço de frete, cobrando em média 0,123 milréis por tonelada-quilômetro — muito abaixo do custo pré-ferroviário de melhores práticas de cerca de 0,417 milréis (ajustado a preços de 1887). As economias sociais estimadas no frete foram de 64,9 milhões de milréis em 1887, equivalentes a 9,5% do PIB brasileiro. No período 1861–1887, o PIB quase dobrou (de 336,2 para 657,7 milhões de milréis em preços de 1887); o ganho de produtividade implícito, controlando pelo aumento populacional, foi de 130,4 milhões de milréis. A medida pelo limite superior das economias sociais corresponde a 50% desse avanço; medidas pelo limite inferior superam 25%. As ferrovias eram, sem dúvida, a força mais importante no aumento do produto per capita entre 1861 e 1887.</p>
-<hr>
-</section>
-</section>
-<section id="origens-institucionais-do-subsídio-ferroviário-pp.-613" class="level2" data-number="3">
-<h2 data-number="3" class="anchored" data-anchor-id="origens-institucionais-do-subsídio-ferroviário-pp.-613"><span class="header-section-number">3</span> Origens Institucionais do Subsídio Ferroviário (pp.&nbsp;6–13)</h2>
-<section id="crítica-à-literatura-anterior-e-o-papel-do-barril-de-carne-parlamentar-1415" class="level3" data-number="3.1">
-<h3 data-number="3.1" class="anchored" data-anchor-id="crítica-à-literatura-anterior-e-o-papel-do-barril-de-carne-parlamentar-1415"><span class="header-section-number">3.1</span> Crítica à literatura anterior e o papel do “barril de carne” parlamentar [§14–§15]</h3>
-<p>O décimo-quarto parágrafo aponta que estudos anteriores sobre ferrovias brasileiras enfatizaram o papel de restrições externas, classes agrárias e interesses locais, mas curiosamente nenhum examinou os determinantes do padrão de subsídio, e todos abstraíram o papel das instituições políticas. Ao adicionar apenas um modesto grau de detalhe institucional político, é possível revelar as forças que sustentam o padrão real de subsídio. Ao fornecer garantias de dividendos às ferrovias, o Parlamento imperial resolveu um problema que o mercado sozinho havia falhado em resolver.</p>
-<p>O décimo-quinto parágrafo descreve brevemente a organização política brasileira: projetos de lei percorriam duas câmaras (Senado vitalício e Câmara de Deputados com mandatos de quatro anos), sendo então enviados ao imperador para sanção ou veto. As assembleias provinciais também legislavam, mas seus atos estavam sujeitos à revisão do parlamento nacional — inclusive os subsídios provinciais a ferrovias. Ao contrário de um arranjo federal como o dos Estados Unidos do século XIX, que colocava unidades subnacionais em competição por fatores de produção móveis, o <strong>centralismo brasileiro</strong> colocava as delegações provinciais em competição por <em>pork</em> e patronagem dentro do parlamento.</p>
-</section>
-<section id="o-modelo-formal-da-escolha-legislativa-de-subsídio-1618" class="level3" data-number="3.2">
-<h3 data-number="3.2" class="anchored" data-anchor-id="o-modelo-formal-da-escolha-legislativa-de-subsídio-1618"><span class="header-section-number">3.2</span> O modelo formal da escolha legislativa de subsídio [§16–§18]</h3>
-<p>O décimo-sexto parágrafo introduz os três fatores institucionais que influenciavam o impacto econômico da intervenção parlamentar no mercado: (1) a percepção dos legisladores sobre a incidência dos benefícios e custos da intervenção; (2) o uso da regra de maioria, que seleciona a preferência do legislador mediano; e (3) os incentivos para que legisladores do mesmo distrito cooperem em apoiar uma política de subsídio.</p>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong>Formalização da escolha do legislador:</strong> O legislador <em>i</em> busca a política <em>x</em> que maximiza seu suporte político:</p>
-<p>[N_i(x) = B_{i1}(x) + C_{i1}(x) - C_{i2}(x) - t_i T(x)]</p>
-<p>onde (B_{i1}(x)) são os benefícios criados pela política dentro do distrito eleitoral; (C_{i1}(x)) são os desembolsos diretos recebidos dentro do distrito; (C_{i2}(x)) são os custos indiretos incidentes sobre o distrito; e (t_i T(x)) é a parcela do ônus fiscal total que cabe ao distrito.</p>
-<p>A política eficiente, por contraste, maximizaria:</p>
-<p>[x^E = , E(x) = B(x) - C_1(x) - C_2(x)]</p>
-<p>A política “politicamente eficiente”, ao agregar as funções de suporte de todos os distritos, resulta em:</p>
-<p>[N(x) = B(x) - C_2(x)]</p>
-<p>que difere da eficiente porque os desembolsos diretos — componente de custo econômico — são tratados pelos legisladores como benefícios políticos para seus constituintes. O subsídio politicamente escolhido tende, portanto, a ser <em>maior</em> que o socialmente eficiente.</p>
-</div>
-</div>
-<p>O décimo-sétimo parágrafo complementa a análise com o segundo fator de distorção: a <strong>regra de maioria</strong>. Os arranjos institucionais na Câmara dos Deputados do Brasil garantiam a existência de um equilíbrio de política ao separar o espaço de alternativas em dimensões únicas de política, consideradas uma de cada vez. Assim, na dimensão do subsídio, a política vencedora é a preferida pelo legislador mediano. Para que o subsídio seja politicamente eficiente, seria necessário que o nível de subsídio correspondesse à média das preferências de todos os legisladores — condição de equilíbrio de fio de navalha que raramente se verificaria. Os dois fatores — partição geográfica e regra de maioria — geram a primeira hipótese: subsídios tendem a ser excessivos.</p>
-</section>
-<section id="dinâmicas-de-coalizão-e-distribuição-provincial-de-subsídios-1921" class="level3" data-number="3.3">
-<h3 data-number="3.3" class="anchored" data-anchor-id="dinâmicas-de-coalizão-e-distribuição-provincial-de-subsídios-1921"><span class="header-section-number">3.3</span> Dinâmicas de coalizão e distribuição provincial de subsídios [§19–§21]</h3>
-<p>O décimo-oitavo parágrafo apresenta três abordagens analíticas para o problema distributivo em uma legislatura de maioria. A primeira trata o problema como jogo de soma zero, prevendo o surgimento de uma <strong>coalizão mínima vencedora</strong> que distribui subsídios apenas a seus membros. A segunda abordagem, que não assume soma zero e introduz incerteza sobre a composição da coalizão, prevê uma <strong>coalizão universal</strong> que distribui subsídios a todos os distritos. A terceira, intermediária, explora a possibilidade de que os legisladores tenham incerteza apenas parcial sobre a composição da coalizão vencedora, o que levaria à formação de blocos provinciais coordenados.</p>
-<p>O décimo-nono parágrafo elabora a lógica da terceira abordagem: um projeto ferroviário concentra benefícios diretos e externalidades em uma província, criando incentivos para que deputados dessa província votem juntos, independentemente de ideologia ou partido. Províncias com delegações maiores na Câmara tinham maior chance de que pelo menos um de seus deputados fosse pivô na coalizão vencedora, e, portanto, de que a ferrovia proposta recebesse subsídio. A hipótese intuitiva resultante é: <strong>províncias com delegações maiores na Câmara dos Deputados obtiveram mais subsídios ferroviários</strong>.</p>
-<p>O vigésimo parágrafo operacionaliza a medição do subsídio. As duas componentes do subsídio ferroviário eram: (1) dividendos garantidos e (2) desembolsos diretos do governo para ferrovias que ele assumiu ou construiu. O valor do compromisso do governo central com ferrovias em cada província <em>i</em> é dado por:</p>
-<p>[G_i = OC_i + rK_{1i} + K_{2i}]</p>
-<p>onde (OC_i) é a soma das perdas operacionais das ferrovias governamentais na província <em>i</em>; (rK_{1i}) é o valor do “subsídio” de capital direto sobre todas as ferrovias governamentais na província <em>i</em>; e (K_{2i}) é o valor da garantia de dividendo sobre as ferrovias garantidas na província <em>i</em>. O capital subsídio é tomado como 6% do custo de construção das ferrovias governamentais em operação em 1888.</p>
-</section>
-<section id="o-índice-de-shapley-shubik-e-a-correlação-com-subsídios-2223" class="level3" data-number="3.4">
-<h3 data-number="3.4" class="anchored" data-anchor-id="o-índice-de-shapley-shubik-e-a-correlação-com-subsídios-2223"><span class="header-section-number">3.4</span> O índice de Shapley-Shubik e a correlação com subsídios [§22–§23]</h3>
-<p>O vigésimo-primeiro parágrafo descreve a mensuração do <strong>poder de votação</strong> de cada província por meio da teoria dos jogos cooperativos — especificamente o <strong>índice de Shapley-Shubik</strong>, que expressa com que frequência, em média, uma determinada província pode esperar que um de seus deputados seja pivô em uma coalizão vencedora. Tal medida, baseada exclusivamente na estrutura da representação, prediz como projetos geradores de renda como os subsídios ferroviários serão distribuídos entre as províncias brasileiras. A <strong>Tabela 2</strong> apresenta os compromissos de subsídio e os índices de Shapley-Shubik por província.</p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 10%">
-<col style="width: 41%">
-<col style="width: 20%">
-<col style="width: 27%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Província</th>
-<th style="text-align: center;">Compromisso de Subsídio, 1888 (em milréis)</th>
-<th style="text-align: center;">Índice S-S até 1881</th>
-<th style="text-align: center;">Índice S-S a partir de 1884</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Rio de Janeiro</td>
-<td style="text-align: center;">4.472.898</td>
-<td style="text-align: center;">0,0993</td>
-<td style="text-align: center;">0,0970</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Minas Gerais</td>
-<td style="text-align: center;">4.159.397</td>
-<td style="text-align: center;">0,1808</td>
-<td style="text-align: center;">0,1761</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Bahia</td>
-<td style="text-align: center;">3.723.732</td>
-<td style="text-align: center;">0,1181</td>
-<td style="text-align: center;">0,1153</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Pernambuco</td>
-<td style="text-align: center;">3.667.260</td>
-<td style="text-align: center;">0,1086</td>
-<td style="text-align: center;">0,1060</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">São Paulo</td>
-<td style="text-align: center;">2.815.439</td>
-<td style="text-align: center;">0,0726</td>
-<td style="text-align: center;">0,0709</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Rio Grande do Sul</td>
-<td style="text-align: center;">1.501.365</td>
-<td style="text-align: center;">0,0472</td>
-<td style="text-align: center;">0,0462</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Ceará</td>
-<td style="text-align: center;">930.393</td>
-<td style="text-align: center;">0,0640</td>
-<td style="text-align: center;">0,0626</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Alagoas</td>
-<td style="text-align: center;">826.686</td>
-<td style="text-align: center;">0,0390</td>
-<td style="text-align: center;">0,0381</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Paraná</td>
-<td style="text-align: center;">804.443</td>
-<td style="text-align: center;">0,0153</td>
-<td style="text-align: center;">0,0149</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Santa Catarina</td>
-<td style="text-align: center;">392.651</td>
-<td style="text-align: center;">0,0153</td>
-<td style="text-align: center;">0,0149</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Rio Grande do Norte</td>
-<td style="text-align: center;">384.514</td>
-<td style="text-align: center;">0,0153</td>
-<td style="text-align: center;">0,0149</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Paraíba</td>
-<td style="text-align: center;">302.188</td>
-<td style="text-align: center;">0,0390</td>
-<td style="text-align: center;">0,0381</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Maranhão</td>
-<td style="text-align: center;">0</td>
-<td style="text-align: center;">0,0472</td>
-<td style="text-align: center;">0,0462</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Sergipe</td>
-<td style="text-align: center;">0</td>
-<td style="text-align: center;">0,0310</td>
-<td style="text-align: center;">0,0303</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Pará</td>
-<td style="text-align: center;">0</td>
-<td style="text-align: center;">0,0231</td>
-<td style="text-align: center;">0,0462</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Piauí</td>
-<td style="text-align: center;">0</td>
-<td style="text-align: center;">0,0231</td>
-<td style="text-align: center;">0,0226</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Amazonas</td>
-<td style="text-align: center;">0</td>
-<td style="text-align: center;">0,0153</td>
-<td style="text-align: center;">0,0149</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Espírito Santo</td>
-<td style="text-align: center;">0</td>
-<td style="text-align: center;">0,0153</td>
-<td style="text-align: center;">0,0149</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Goiás</td>
-<td style="text-align: center;">0</td>
-<td style="text-align: center;">0,0153</td>
-<td style="text-align: center;">0,0149</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Mato Grosso</td>
-<td style="text-align: center;">0</td>
-<td style="text-align: center;">0,0153</td>
-<td style="text-align: center;">0,0149</td>
-</tr>
-</tbody>
-</table>
-<p>O coeficiente de correlação entre poder de votação e subsídios recebidos é de <strong>0,89</strong>, indicando que a variação no poder de votação está associada a 89% da variação na quantidade de subsídios ferroviários recebidos pelas províncias.</p>
-<p>O vigésimo-segundo parágrafo discute os desvios da tabela em relação aos resultados previstos. O Rio Grande do Sul, por exemplo, recebeu uma parcela desproporcionalmente grande de subsídios por razões estratégico-militares (mobilização de tropas para o extremo sul, diante do risco de conflito no Rio da Prata). Algumas províncias do norte receberam subsídios como parte de programas de alívio à seca. Contudo, o ponto fundamental permanece claro: o <strong>poder de votação foi um determinante central</strong> da capacidade de uma província em capturar subsídios ferroviários.</p>
-<hr>
-</section>
-</section>
-<section id="taxa-de-retorno-social-e-ineficiência-alocativa-pp.-1317" class="level2" data-number="4">
-<h2 data-number="4" class="anchored" data-anchor-id="taxa-de-retorno-social-e-ineficiência-alocativa-pp.-1317"><span class="header-section-number">4</span> Taxa de Retorno Social e Ineficiência Alocativa (pp.&nbsp;13–17)</h2>
-<section id="o-conceito-de-taxa-de-retorno-social-médio-versus-marginal-2325" class="level3" data-number="4.1">
-<h3 data-number="4.1" class="anchored" data-anchor-id="o-conceito-de-taxa-de-retorno-social-médio-versus-marginal-2325"><span class="header-section-number">4.1</span> O conceito de taxa de retorno social: médio versus marginal [§23–§25]</h3>
-<p>O vigésimo-terceiro parágrafo apresenta dois conceitos distintos de taxa de retorno social. O primeiro — a <strong>taxa de retorno social média</strong> — examina se o retorno sobre os investimentos em ferrovias justificou os recursos a eles destinados. O segundo — a <strong>taxa de retorno social marginal</strong> — responde se o Brasil investiu demais ou de menos em suas ferrovias. O critério de eficiência ideal seria que o governo subsidiasse projetos até o ponto em que o retorno sobre uma unidade adicional de capital investido igualasse os retornos de outras atividades na economia. Se o retorno ferroviário fosse inferior, o governo havia subsidiado em excesso; se fosse superior, o nível de subsídio era insuficiente.</p>
-<p>O vigésimo-quarto parágrafo apresenta os resultados da <strong>Tabela 3</strong>, que deriva a taxa de retorno social média sobre o capital ferroviário em 1887. Em 1887, as ferrovias brasileiras apresentavam uma taxa de retorno privado não subsidiado de pouco menos de 3%. Para investidores em linhas garantidas, a taxa efetiva recebida (incluindo subsídios e receitas operacionais líquidas) foi de 4,75%. O retorno de baixo risco na época era o dos títulos de dívida pública, em pouco mais de 4%. Somando as economias sociais no frete (limite inferior) às receitas de capital não subsidiadas, obtém-se uma <strong>taxa de retorno social de 9,4%</strong>. Convertendo-a à marginal mediante multiplicação pelo quociente dos lucros de capital na receita total subsidiada (elasticidade do capital de 0,52), chega-se a uma <strong>taxa de retorno marginal de 4,9% em 1887</strong>. Em agregado, o Brasil não havia superinvestido em ferrovias — poderia até ter ligeiramente subinvestido no final do Império.</p>
-</section>
-<section id="desempenho-desagregado-por-ferrovia-e-o-custo-da-alocação-errônea-2627" class="level3" data-number="4.2">
-<h3 data-number="4.2" class="anchored" data-anchor-id="desempenho-desagregado-por-ferrovia-e-o-custo-da-alocação-errônea-2627"><span class="header-section-number">4.2</span> Desempenho desagregado por ferrovia e o custo da alocação errônea [§26–§27]</h3>
-<p>O vigésimo-quinto parágrafo observa que a medida agregada obscurece que projetos individuais podem ter sido sistematicamente super ou subsidiados. A <strong>Tabela 3</strong> apresenta as taxas de retorno social marginais por ferrovia em 1887. Embora várias ferrovias apresentassem retornos positivos fortes, três quartos delas não o faziam. As linhas com retorno abaixo do corte de 4,5% (equivalente ao retorno sobre títulos públicos) geradas combinadas para o Brasil uma taxa marginal de apenas 2,2%. Essas linhas representavam mais da metade do capital total do setor ferroviário em 1887. O grupo com alto retorno apresentava taxa marginal de 7,5%, indicando que havia espaço para subsídio adicional.</p>
-<p>O vigésimo-sexto parágrafo quantifica o custo dessa alocação errônea por meio de um exercício hipotético (Tabela 4). Realocar o capital das linhas de baixo retorno para as de alto retorno aumentaria o excedente das ferrovias em pelo menos 23,2 milhões de milréis. Isso corresponderia a um aumento de 36% nas economias sociais diretas estimadas pelo limite superior em 1887, ou mais de 3% do PIB. A razão para a concentração errônea de capital ferroviário não era erro de previsão ingênuo, mas antes <strong>previsão política</strong> — o governo promovia investimentos em ferrovias não em conformidade com alguma estratégia abstrata de desenvolvimento, mas em resposta a imperativos políticos internos.</p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 61%">
-<col style="width: 38%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Indicador</th>
-<th style="text-align: left;">Valor</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Taxa de retorno social marginal (linhas de alto retorno)</td>
-<td style="text-align: left;">7,5%</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Taxa de retorno social marginal (linhas de baixo retorno)</td>
-<td style="text-align: left;">–2,2%</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Diferença</td>
-<td style="text-align: left;">9,7 p.p.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Capital físico reprodutível das linhas de baixo retorno</td>
-<td style="text-align: left;">239,3 milhões de milréis</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Aumento hipotético nas economias sociais</td>
-<td style="text-align: left;">23,2 milhões de milréis</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Economias sociais diretas (limite superior)</td>
-<td style="text-align: left;">64,9 milhões de milréis</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Aumento nas economias sociais</td>
-<td style="text-align: left;">36%</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Aumento no PIB</td>
-<td style="text-align: left;">3,4%</td>
-</tr>
-</tbody>
-</table>
-<hr>
-</section>
-</section>
-<section id="a-economia-política-da-regulação-das-tarifas-de-frete-pp.-1720" class="level2" data-number="5">
-<h2 data-number="5" class="anchored" data-anchor-id="a-economia-política-da-regulação-das-tarifas-de-frete-pp.-1720"><span class="header-section-number">5</span> A Economia Política da Regulação das Tarifas de Frete (pp.&nbsp;17–20)</h2>
-<section id="o-modelo-político-de-fixação-de-tarifas-2829" class="level3" data-number="5.1">
-<h3 data-number="5.1" class="anchored" data-anchor-id="o-modelo-político-de-fixação-de-tarifas-2829"><span class="header-section-number">5.1</span> O modelo político de fixação de tarifas [§28–§29]</h3>
-<p>O vigésimo-sétimo parágrafo estabelece que, dado que a contrapartida das garantias de dividendo era a regulação tarifária, é necessário examinar como as tarifas de frete eram fixadas no Brasil. O custo elevado do transporte pré-ferroviário e a possibilidade de precificação monopolista tornavam a regulação tarifária potencialmente benéfica. Analogamente à análise dos subsídios, o argumento é que os políticos fixavam tarifas não no interesse da eficiência, mas para angariar e manter apoio político, considerando a incidência dos componentes de custos e benefícios em seus respectivos distritos.</p>
-<p>O vigésimo-oitavo parágrafo formaliza o modelo de regulação. O suporte político do legislador <em>i</em> ao escolher a política regulatória <em>x</em> é:</p>
-<p>[N_i(x) = B_{i1}(x) - C_{i2}(x)]</p>
-<p>onde (B_{i1}(x)) são os benefícios criados pela regulação dentro do distrito (tarifas menores para remetentes locais) e (C_{i2}(x)) são os custos indiretos ao distrito (lucros reduzidos dos acionistas ferroviários locais). O insight central é que os custos políticos indiretos da regulação variavam com a <strong>propriedade da ferrovia</strong>: para uma ferrovia com proprietários predominantemente brasileiros, a regulação tarifária reduzia lucros de acionistas que constituíam parte do eleitorado do legislador, gerando resistência à regulação estrita. Para ferrovias de propriedade predominantemente britânica ou estatal, esses custos eram nulos — nenhuma força contrária à regulação rígida existia.</p>
-</section>
-<section id="a-hipótese-de-propriedade-e-o-teste-econométrico-3032" class="level3" data-number="5.2">
-<h3 data-number="5.2" class="anchored" data-anchor-id="a-hipótese-de-propriedade-e-o-teste-econométrico-3032"><span class="header-section-number">5.2</span> A hipótese de propriedade e o teste econométrico [§30–§32]</h3>
-<p>O vigésimo-nono parágrafo explicita a hipótese: ferrovias de propriedade estrangeira ou do Estado seriam sobrecarregadas com regulação tarifária mais estrita do que as ferrovias de propriedade brasileira. Isso porque poucos constituintes de deputados brasileiros recebiam rendas na forma de lucros de ferrovias britânicas (que iam predominantemente para acionistas em Londres) ou governamentais (que iam para o Tesouro). Os acionistas brasileiros constituíam uma importante circunscrição política e tinham algum sucesso em resistir à pressão baixista sobre tarifas; os britânicos eram menos eficazes por ter menos representação direta no sistema político.</p>
-<p>O trigésimo parágrafo especifica e estima o modelo econométrico:</p>
-<p>[ = + _1 + _2 + _3 + _4 ]</p>
-<p>onde RATE é a tarifa por tonelada-quilômetro de serviço de frete; EXPORT e IMPORT são <em>dummies</em> para produtos de alto valor por unidade; GOV é <em>dummy</em> para ferrovia governamental; e BRITISH é <em>dummy</em> para propriedade predominantemente britânica. Os resultados (Tabela 5) para 22 ferrovias nos anos 1880 confirmam a hipótese. Ferrovias privadas brasileiras desfrutavam de tarifas mais altas. As ferrovias britânicas cobravam tarifas significativamente menores que a média (coeficiente: –0,165; t = –5,5). O maior desvio da média é encontrado nas ferrovias governamentais (coeficiente: –0,24; t = –7), onde inexistiam acionistas a exigir taxa mínima de retorno.</p>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th style="text-align: left;">Variável Independente</th>
-<th style="text-align: left;">Coeficiente</th>
-<th style="text-align: left;">Estatística t</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Constante</td>
-<td style="text-align: left;">0,305</td>
-<td style="text-align: left;">11</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Mercadoria de exportação</td>
-<td style="text-align: left;">0,097</td>
-<td style="text-align: left;">3</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Mercadoria de importação</td>
-<td style="text-align: left;">0,211</td>
-<td style="text-align: left;">6,5</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Ferrovia governamental</td>
-<td style="text-align: left;">–0,24</td>
-<td style="text-align: left;">–7</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Ferrovia britânica</td>
-<td style="text-align: left;">–0,165</td>
-<td style="text-align: left;">–5,5</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">R²</td>
-<td style="text-align: left;">0,62</td>
-<td style="text-align: left;">—</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">R² ajustado</td>
-<td style="text-align: left;">0,60</td>
-<td style="text-align: left;">—</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">N</td>
-<td style="text-align: left;">66</td>
-<td style="text-align: left;">—</td>
-</tr>
-</tbody>
-</table>
-<p>O trigésimo-primeiro parágrafo sublinha que, ao contrário dos Estados Unidos — onde a regulação generalizada das ferrovias aguardou a criação da Interstate Commerce Commission —, no Brasil o governo regulava ferrovias desde o início. As tarifas eram em geral fixadas dentro do Ministério da Agricultura, em conformidade com as preferências do parlamento, que operava sob responsabilidade ministerial. Isso permitia ao parlamento evitar legislar todas as tarifas diretamente e ainda assim obter o resultado desejado para seus constituintes.</p>
-<hr>
-</section>
-</section>
-<section id="estática-institucional-comparativa-e-conjecturas-contrafactuais-pp.-2022" class="level2" data-number="6">
-<h2 data-number="6" class="anchored" data-anchor-id="estática-institucional-comparativa-e-conjecturas-contrafactuais-pp.-2022"><span class="header-section-number">6</span> Estática Institucional Comparativa e Conjecturas Contrafactuais (pp.&nbsp;20–22)</h2>
-<section id="centralismo-imperial-versus-federalismo-preservador-de-mercado-3234" class="level3" data-number="6.1">
-<h3 data-number="6.1" class="anchored" data-anchor-id="centralismo-imperial-versus-federalismo-preservador-de-mercado-3234"><span class="header-section-number">6.1</span> Centralismo imperial versus federalismo preservador de mercado [§32–§34]</h3>
-<p>O trigésimo-segundo parágrafo observa que a comparação com o critério de eficiência de “primeiro ótimo” é um instrumento analítico útil, mas de relevância histórica limitada. A relevância histórica deriva de arranjos institucionais alternativos historicamente plausíveis, não apenas do ideal teórico. Diferentes arranjos poderiam ficar aquém da plena eficiência e ainda assim melhorar o centralismo do Brasil imperial.</p>
-<p>O trigésimo-terceiro parágrafo considera o primeiro cenário contrafactual: o que teria ocorrido se o Brasil fosse organizado com base no <strong>federalismo</strong> em vez do centralismo. Embora a monarquia tenha sido seguida por uma república federal, o “federalismo” brasileiro era peculiar, carecendo de elementos do federalismo preservador de mercado. A comparação relevante é com os Estados Unidos, que diferiam do Brasil em dois aspectos: o governo central protegia um mercado comum; e os governos subnacionais interviam nos mercados para subsidiar e regular atividades econômicas locais. Sob federalismo, as ferrovias provinciais seriam subsidiadas e reguladas de acordo com a política provincial, não nacional. Governos provinciais teriam mais incentivos a subsidiar projetos locais em níveis próximos ao da eficiência econômica — pois oversubsidiar criaria ônus fiscal que reduziria a atratividade da província para capital e trabalho, enquanto subsidiar menos do que outras províncias limitaria as oportunidades de novas atividades econômicas.</p>
-</section>
-<section id="o-cenário-do-monarca-absoluto-e-a-lógica-da-dependência-3536" class="level3" data-number="6.2">
-<h3 data-number="6.2" class="anchored" data-anchor-id="o-cenário-do-monarca-absoluto-e-a-lógica-da-dependência-3536"><span class="header-section-number">6.2</span> O cenário do monarca absoluto e a lógica da dependência [§35–§36]</h3>
-<p>O trigésimo-quarto parágrafo apresenta o segundo cenário contrafactual: o que teria ocorrido se o Brasil possuísse um monarca absoluto, como o teve durante a era colonial e em 1808–1822? Nesse caso, as distorções alocativas impostas pelas instituições do governo parlamentar representativo desapareceriam, pois a lógica política é muito diferente. O soberano, em vez de delegar autoridade sobre políticas públicas a representantes eleitos, barganharia diretamente com produtores sobre alíquotas de imposto e política. Trocar controle de política por receitas tem uma implicação clara: o capital — por sua maior mobilidade — ganha controle desproporcional sobre a política. Em um cenário em que o soberano buscasse promover o desenvolvimento ferroviário, os capitalistas (incluindo estrangeiros), e não os proprietários de terra representados em um parlamento, comandariam os termos do subsídio e da regulação — resultado notavelmente similar ao previsto pela análise dependentista.</p>
-<p>O trigésimo-quinto parágrafo conclui o exercício contrafactual: a organização política da monarquia brasileira evitou esse resultado dependentista específico porque as instituições representativas adaptavam políticas responsivas aos proprietários de terra e investidores ferroviários brasileiros, não a capitalistas estrangeiros. Ficou muito aquém da plena eficiência porque a centralização exacerbou as pressões inerentes à política distributiva. Como nenhum dos arranjos alternativos — federalismo preservador de mercado ou monarquia absolutista — prevaleceu no primeiro estágio do desenvolvimento ferroviário brasileiro, nenhum teste rigoroso de seus impactos é possível em termos historicamente aceitáveis, e as proposições contrafactuais permanecem necessariamente conjeturais.</p>
-<hr>
-</section>
-</section>
-<section id="conclusão-pp.-2122" class="level2" data-number="7">
-<h2 data-number="7" class="anchored" data-anchor-id="conclusão-pp.-2122"><span class="header-section-number">7</span> Conclusão (pp.&nbsp;21–22)</h2>
-<section id="síntese-dos-achados-e-implicações-para-a-historiografia-3639" class="level3" data-number="7.1">
-<h3 data-number="7.1" class="anchored" data-anchor-id="síntese-dos-achados-e-implicações-para-a-historiografia-3639"><span class="header-section-number">7.1</span> Síntese dos achados e implicações para a historiografia [§36–§39]</h3>
-<p>O trigésimo-sexto parágrafo sintetiza: as ferrovias criaram grandes ganhos para a economia brasileira, mas esses ganhos foram muito menores do que poderiam ter sido, uma vez que muitas linhas individuais produziram resultados medíocres. Isso não resultou de investimento estrangeiro, exploração, dependência, exportação de mais-valia ou conspirações de estrangeiros para minar o serviço eficiente. Resultou diretamente da forma como a organização política do Brasil canalizou subsídios ao investimento.</p>
-<p>O trigésimo-sétimo parágrafo reforça que o sistema político não era endógeno à estrutura do mercado internacional nem curvando-se às demandas de investidores estrangeiros; muitas de suas características eram comuns a polities representativas estáveis e bem-sucedidas da época. A diferença-chave era o caráter altamente centralizado das instituições políticas com poder de intervenção no mercado.</p>
-<p>O trigésimo-oitavo parágrafo oferece a avaliação normativa final: como a falha do mercado em fornecer ferrovias era pervasiva e disseminada no Brasil, a intervenção estatal melhorou consideravelmente o <em>status quo</em>. Mesmo assim, os resultados ficaram aquém da maximização dos ganhos potenciais dos projetos ferroviários. O Estado não perseguiu uma estratégia de desenvolvimento de forma coerente, nem agiu como simples agente da elite coletiva. Em vez disso, os arranjos institucionais estruturaram a política distributiva de modo a tornar o subsídio e a regulação ferroviária politicamente atraentes.</p>
-<p>O trigésimo-nono parágrafo encerra o capítulo afirmando que a importância do sistema político na alocação de subsídios deriva das oportunidades de intervenção criadas por falhas de mercado. Mas, diferentemente da economia — onde os preços transmitem escassez —, no sistema político não há mercados políticos nem preços relativos que alocem recursos. As <strong>instituições políticas e os detalhes procedimentais transformam preferências em resultados</strong>. Embora governo representativo, regra de maioria e incentivos distributivos tenham contribuído para a lacuna entre o equilíbrio de política do Brasil e a eficiência econômica, a centralização política exacerbou os custos dessa lacuna — custos particularmente agudos em uma economia com baixos níveis gerais de produtividade e renda.</p>
-<hr>
-</section>
-</section>
-<section id="argumento-sintético" class="level2" data-number="8">
-<h2 data-number="8" class="anchored" data-anchor-id="argumento-sintético"><span class="header-section-number">8</span> Argumento Sintético</h2>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong>Tese central:</strong> A ineficiência alocativa do sistema de subsídios e regulação ferroviária no Brasil imperial resultou não do investimento estrangeiro, da dependência ou dos interesses da classe dos plantadores, mas da forma como as instituições políticas centralizadas do Brasil estruturaram a política distributiva — levando a um nível de subsídio excessivo e a uma distribuição de capital ferroviário determinada pelo poder de votação das províncias, não pelo retorno econômico das linhas.</p>
-<p><strong>Natureza do argumento:</strong> Causal-institucional, com formalização em teoria da escolha pública (modelo do legislador, Shapley-Shubik, regressão de tarifas) e estimação econométrica de retornos sociais. O argumento integra análise de custo-benefício histórico com teoria da economia política positiva.</p>
-<p><strong>O que o texto demonstra:</strong> (1) Que o subsídio ferroviário foi excessivo e distribuído proporcionalmente ao poder de votação provincial (correlação de 0,89); (2) que ferrovias de propriedade estrangeira ou estatal foram mais reguladas do que as de propriedade brasileira, em linha com o modelo de suporte político; (3) que as economias sociais do setor ferroviário foram reais e substanciais (9,5% do PIB em 1887), mas poderiam ter sido 36% maiores com alocação eficiente.</p>
-<p><strong>O que permanece como hipótese ou agenda:</strong> Os cenários contrafactuais (federalismo e monarquia absoluta) são explicitamente conjeturais; a extensão dos mecanismos de <em>log-rolling</em> e barganha de gabinete requer investigação adicional; o peso relativo do “poder moderador” do imperador na agenda legislativa é indicado mas não estimado.</p>
-<p><strong>Contribuição para o debate:</strong> O capítulo oferece uma refutação empírica e teórica rigorosa das interpretações dependentistas e de exploração estrangeira para o caso ferroviário brasileiro, ao mesmo tempo em que proporciona uma aplicação pioneira da teoria dos jogos cooperativos e da economia política positiva à história econômica latino-americana. Posiciona-se no campo da <strong>nova economia institucional</strong> e da análise de escolha pública aplicada à história.</p>
-</div>
-</div>
-<hr>
-</section>
-<section id="ficha-analítica-crítica" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="ficha-analítica-crítica">Ficha Analítica Crítica</h2>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Esta seção segue o formato <em>IA Planilhando Textos v13.0</em>.</p>
-</div>
-</div>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Ficha Analítica — Tabela Markdown
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-5" class="callout-5-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<table class="caption-top table">
-<colgroup>
-<col style="width: 23%">
-<col style="width: 52%">
-<col style="width: 23%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Dimensão</th>
-<th style="text-align: left;">Raciocínio analítico</th>
-<th style="text-align: left;">Conteúdo</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Questão de Pesquisa</td>
-<td style="text-align: left;">A pergunta é explícita e tripartida; a premissa central é que instituições políticas moldam instituições econômicas — relação causal que precisa ser demonstrada, não apenas afirmada. A interpretação alternativa — que a estrutura de incentivos dos investidores estrangeiros ou a posição na economia mundial explica os resultados — é o alvo explícito de refutação. O ponto mais vulnerável é que a pergunta pressupõe separabilidade entre instituições políticas e econômicas que o próprio texto problematiza no início.</td>
-<td style="text-align: left;">Por quais instituições o Estado imperial promoveu e regulou ferrovias? Como a organização política brasileira determinou a seleção dessas políticas? Quais foram as consequências para a economia? Natureza: explicativa/avaliativa.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Questões Secundárias</td>
-<td style="text-align: left;">A análise de regulação é uma extensão natural da análise de subsídio, compartilhando o mesmo arcabouço teórico; a comparação contrafactual é metodologicamente separada e serve como exercício de validade externa do argumento.</td>
-<td style="text-align: left;">(1) Como o padrão de tarifas de frete foi determinado politicamente? (2) Como arranjos institucionais alternativos (federalismo, monarquia absoluta) teriam alterado os resultados? Relação direta com a pergunta central: ambas são desdobramentos do mecanismo principal.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Puzzle-Type</td>
-<td style="text-align: left;">O puzzle é genuíno: a literatura dependentista dominante continha implicações testáveis que nunca haviam sido sistematicamente avaliadas. A generalização é parcialmente limitada ao centralismo como variação institucional específica, mas o mecanismo de política distributiva é generalizável a outros contextos de escolha pública parlamentar.</td>
-<td style="text-align: left;">Puzzle explicativo: por que o desenvolvimento ferroviário no Brasil imperial gerou retornos substancialmente inferiores ao potencial tecnológico? O texto refuta a explicação padrão (dependência/capital estrangeiro) e substitui por uma explicação institucional-política.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Conclusão / Argumento Central</td>
-<td style="text-align: left;">O <em>claim of discovery</em> é bem sustentado pela correlação de 0,89 entre poder de votação e subsídios, pela regressão de tarifas (R²=0,62) e pelo exercício de retorno social. A evidência causal é mais sugestiva que identificada rigorosamente — a correlação pode refletir variáveis omitidas como tamanho econômico provincial.</td>
-<td style="text-align: left;">Tese: os custos de eficiência do sistema ferroviário brasileiro não derivaram do capital estrangeiro ou da dependência, mas da forma como o centralismo político estruturou a política distributiva, alocando subsídios por poder de votação, não por retorno econômico. Argumento causal-institucional com base empírica mista (correlação + regressão + análise de custo-benefício).</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Métodos</td>
-<td style="text-align: left;">A mistura de teoria dos jogos cooperativos, análise de custo-benefício histórico e regressão OLS é inovadora para a época (ca. 2000), mas cada técnica tem limitações próprias de identificação. O Shapley-Shubik captura poder estrutural, não preferências ou barganha efetiva. A regressão de tarifas não controla por características das linhas (extensão, topografia, tráfego) que poderiam explicar a variação tarifária independentemente da propriedade.</td>
-<td style="text-align: left;">Estudo histórico-quantitativo; fontes primárias (relatórios ministeriais, legislação imperial, relatórios de companhias); técnicas: índice de Shapley-Shubik, OLS cross-sectional (22 ferrovias), análise de custo-benefício com medida de economias sociais do frete.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Data Generation Process (DGP)</td>
-<td style="text-align: left;">A unidade de análise muda entre seções (província para subsídio, ferrovia para tarifas e retornos), o que implica diferentes DGPs sem sistematização explícita. As fontes são primárias e bem documentadas, mas a agregação das garantias de dividendo como proxy de subsídio pode subestimar valores de linhas não garantidas.</td>
-<td style="text-align: left;">Fenômeno: alocação de subsídios ferroviários e fixação de tarifas → observação: relatórios ministeriais e legislação imperial → coleta: base de dados de garantias e tarifas por ferrovia/província → operacionalização: Gi para subsídios, RATE para tarifas → análise: correlação + regressão + custo-benefício → inferência: causal-institucional qualificada. Unidade de análise: província (subsídios) e ferrovia (tarifas, retornos).</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Achados e Contribuições</td>
-<td style="text-align: left;">A correlação de 0,89 é forte, mas não separada de variáveis de confusão como tamanho econômico ou extensão territorial. A regressão de tarifas tem um R² de 0,62, mas com apenas 22 observações e sem controles de demanda ou custo. A análise de retorno social é o elemento mais sofisticado e contribui para a literatura de social savings.</td>
-<td style="text-align: left;">(1) Correlação de 0,89 entre poder de votação provincial e subsídios ferroviários; (2) ferrovias britânicas e governamentais cobram tarifas ~0,17 e ~0,24 milréis/t-km mais baixas que as brasileiras; (3) taxa de retorno social marginal agregada de 4,9% (ligeiro subinvestimento); (4) 75% das linhas individualmente abaixo do limiar de eficiência; (5) custo de realocação equivalente a 3,4% do PIB. Contribuição: pioneirismo na aplicação de teoria dos jogos cooperativos e economia política positiva à história econômica latinoamericana.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Análise Crítica dos Achados</td>
-<td style="text-align: left;">A principal ameaça à identificação é a ausência de controle por tamanho econômico provincial — províncias maiores (Minas, Bahia, Pernambuco) têm tanto mais deputados quanto mais atividade econômica e mais demanda por ferrovias. Sem instrumento ou design quasi-experimental, a correlação não distingue efetivamente poder político de demanda econômica. Na análise de tarifas, a ausência de controles de custos é uma lacuna relevante.</td>
-<td style="text-align: left;">O autor responde à pergunta de forma parcialmente satisfatória. Pontos fortes: refutação empírica direta da hipótese dependentista; formalização clara do mecanismo político. Pontos vulneráveis: identificação causal frágil (correlação vs.&nbsp;causalidade no caso dos subsídios); pequena amostra na regressão de tarifas; métricas de retorno social dependentes de pressupostos sobre transporte contrafactual. A generalizabilidade é limitada a contextos de parlamentos centralizados com regra de maioria e colégios eleitorais geograficamente particionados.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Limitações</td>
-<td style="text-align: left;">A premissa de que poder de votação → subsídios é plausível mas pode refletir endogeneidade (economias maiores → mais deputados → mais demanda ferroviária economicamente justificada). A análise contrafactual é explicitamente conjetural e não testável.</td>
-<td style="text-align: left;"><strong>Reconhecidas pelos autores:</strong> desvios individuais da correlação prevista (ex.: Rio Grande do Sul) requerem análise mais detalhada do processo de formulação de políticas; a análise de retorno em corte transversal para 1887 não é ideal; os cenários contrafactuais são necessariamente conjeturais. <br> <strong>Não reconhecidas ou subestimadas:</strong> ausência de controle por tamanho econômico provincial no modelo de subsídios; potencial endogeneidade entre demanda econômica por ferrovias e representação política; a regressão de tarifas não controla por características operacionais das linhas; a medida de economias sociais depende de pressupostos fortes sobre elasticidade de demanda e transporte alternativo.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Perspectiva Teórica</td>
-<td style="text-align: left;">A combinação de nova economia institucional (North) com teoria da escolha pública (Weingast, Shepsle) é coerente e foi pioneir na história econômica latinoamericana. A ontologia implícita é individualista-metodológica, com legisladores como atores estratégicos racionais — pressuposto razoável mas que abstrai dinâmicas de partido, executivo e pressão de grupos de interesse organizados.</td>
-<td style="text-align: left;">Nova economia institucional (North); teoria da escolha pública e distributiva (Weingast, Shepsle, Buchanan-Tullock); análise de custo-benefício histórico (Fogel, Fishlow); teoria dos jogos cooperativos (Shapley-Shubik). A moldura é adequada à pergunta explicativa; a coerência entre ontologia individualista-racional e métodos quantitativos é alta.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Principais Referências</td>
-<td style="text-align: left;">O diálogo com a literatura dependentista é amplo e explícito; o diálogo com a literatura comparada de regulação ferroviária (além dos EUA) é limitado. A ausência de engajamento com a literatura sobre clientelismo e patrimonialismo brasileiro (Carvalho, Graham) representa lacuna relevante dado o contexto empírico.</td>
-<td style="text-align: left;">Weingast, Shepsle &amp; Johnson (1981) — modelo de política distributiva; Fishlow (1965) — economias sociais ferroviárias nos EUA; Fogel (implícito na metodologia de social savings); Frank (1967), Evans (1979), Burns (1980) — dependentistas criticados; Bates &amp; Lien (1985) — modelo de monarquia absoluta e capital.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Observações</td>
-<td style="text-align: left;">A abordagem pioneira do capítulo abre agenda relevante para a pesquisa em economia política histórica latinoamericana. Para o leitor com interesse em política distributiva, instituições legislativas e desenvolvimento econômico brasileiro, o texto é referência indispensável, especialmente pela aplicação do índice de Shapley-Shubik a dados históricos. Contudo, a análise seria consideravelmente fortalecida por uma estratégia de identificação mais robusta — por exemplo, um design de regressão de descontinuidade baseado em mudanças na representação parlamentar ou variação nos critérios de elegibilidade para garantias de dividendo.</td>
-<td style="text-align: left;">A ausência de análise de mecanismo qualitativa (como rastreamento de processo em casos específicos de negociação de subsídio) é uma lacuna que o próprio autor reconhece marginalmente. A validade externa do argumento principal depende criticamente de o centralismo ser a variação institucional relevante, o que não é demonstrado por comparação sistemática. O argumento sobre regulação diferencial por propriedade é o mais robusto metodologicamente e dialoga diretamente com debates contemporâneos sobre regulação de serviços públicos e captura regulatória.</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-</div>
-
-
-</section>
-
- ]]></description>
-  <category>Annotated Bibliography</category>
-  <category>Economia Política Comparada</category>
-  <category>Economia Histórica</category>
-  <category>Instituições Políticas</category>
-  <category>Brasil Imperial</category>
-  <category>Política de Infraestrutura</category>
-  <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Summerhill2000.html</guid>
   <pubDate>Sat, 25 Apr 2026 03:00:00 GMT</pubDate>
 </item>
 </channel>
