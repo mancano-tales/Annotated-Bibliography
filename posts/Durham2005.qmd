@@ -1,0 +1,341 @@
+---
+title: "Fichamento: Educação Superior, Pública e Privada"
+subtitle: "Eunice R. Durham (2005)"
+author: "Tales Mançano"
+date: "2026-05-05"
+last-updated: "2026-05-05"
+categories: [Annotated Bibliography, Brazilian Higher Education, Public vs. Private, Historical Institutional Analysis, Education Policy, Mass Private Sector]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+---
+
+<!-- Bloco inicial obrigatório -->
+Durham, E. R. (2005). Educação Superior, Pública e Privada. In S. Schwartzman (Org.), *Os Desafios da Educação no Brasil* (pp. 191–234). Editora Nova Fronteira.
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → Durham2005
+
+```bibtex
+@incollection{Durham2005,
+  author    = {Durham, Eunice R.},
+  title     = {Educação Superior, Pública e Privada},
+  booktitle = {Os Desafios da Educação no Brasil},
+  editor    = {Schwartzman, Simon},
+  year      = {2005},
+  publisher = {Nova Fronteira},
+  address   = {Rio de Janeiro},
+  pages     = {191--233},
+}
+```
+:::
+
+Última atualização: 2026-05-05
+Modelo: DeepSeek Chat
+Prompt Version: v13.0 2026-04-19 | 2026-04-24 "IA Blog Post QMD"
+Gerado em: 2026-05-05T12:00:00-03:00
+
+## Introdução (pp. 1–4)
+
+### Caráter tardio e emergência precoce do privado empresarial [§1–§4]
+
+O desenvolvimento do ensino superior brasileiro é marcado por duas características: seu caráter tardio, com as primeiras instituições criadas apenas em 1808 e as universidades nos anos 1930, e, de modo especial, o surgimento precoce de um poderoso sistema de ensino privado paralelo ao público. A partir dos anos 1960, esse setor privado adquiriu novas feições, deixando de ser uma simples coexistência de sistemas análogos e passando a subverter a concepção dominante de ensino superior centrada na indissociabilidade entre ensino e pesquisa, na liberdade acadêmica e no interesse público. O crescimento desse novo tipo de ensino privado, fenômeno recente que afeta sobretudo os países em desenvolvimento, só nos últimos anos começou a despertar interesse sistemático entre os pesquisadores, até então concentrados em países onde o fenômeno não se manifestara.
+
+A especificidade do caso brasileiro — onde a tendência se manifestou muito precocemente — torna-se evidente na comparação com os demais países latino-americanos e europeus. Nesses, até o final dos anos 1980, o ensino superior se concentrava em universidades públicas estatais laicas e católicas, com raras instituições privadas de pequeno porte. No Brasil, não foi assim: as universidades representavam uma parte pequena do sistema até os anos 1980 e, além das instituições confessionais e escolas sem fins lucrativos, proliferou já a partir dos anos 1960 um estabelecimento de tipo distinto: não-confessional, não-universitário e organizado como empresa explícita ou disfarçadamente voltada à obtenção de lucro — um negócio. Desde então, o caráter preocupante da expansão desse estabelecimento privado dominou o debate, e a literatura brasileira sobre ensino superior consistiu, em grande parte, no combate de intelectuais e estudantes ao ensino privado e na defesa da universidade pública.
+
+### Justificativa da abordagem histórica e periodização [§5–§6]
+
+A análise desse problema é crucial para entender a peculiaridade do ensino superior brasileiro, exigindo uma introdução histórica que ilumine seu processo de constituição, complexidade e heterogeneidade. A autora distingue períodos que acompanham as transformações políticas do país: o período monárquico (1808–1889), caracterizado pela implantação de escolas autônomas para formação de profissionais liberais por iniciativa da Coroa; a Primeira República (1889–1930), com descentralização e surgimento de escolas públicas estaduais/municipais e privadas, mas ainda sem universidades; a implantação do governo Vargas (1930–1945), marco da criação das primeiras universidades; o período democrático de 1945 a 1964, com ampliação das universidades públicas; o período autoritário de 1964 a 1985, quando o modelo universitário foi reformado e o sistema privado se expandiu aceleradamente na direção do *mass private sector* (Geiger, 1986); e o período mais recente, iniciado em 1985 com a redemocratização, marcado pela Constituição de 1988, pela LDB de 1996 e por profundas transformações, com o intervalo 1995–2002 sob Fernando Henrique Cardoso e incerteza quanto aos rumos a partir de 2003.
+
+## Os primórdios (pp. 3–9)
+
+### Colônia e Império: escolas superiores sem universidades [§7–§10]
+
+Diferentemente da América Hispânica, onde universidades católicas foram criadas já no século XVI, o Brasil colonial não teve universidades nem outras instituições de ensino superior. A Coroa portuguesa impedia a formação de quadros intelectuais na colônia, concentrando a formação de nível superior na metrópole. Até a iniciativa jesuíta de criar um seminário para o clero brasileiro foi destruída com a expulsão da Companhia de Jesus pelo marquês de Pombal no final do século XVIII. A história do ensino superior brasileiro só começou em 1808, quando a corte portuguesa, fugindo da invasão napoleônica, se transferiu para o Brasil. Nesse mesmo ano, foram fundadas a Escola de Cirurgia e Anatomia da Bahia, a de Anatomia e Cirurgia do Rio de Janeiro e a Academia de Guarda da Marinha; em 1810, a Academia Real Militar (futura Escola Politécnica) e, em 1827, as faculdades de direito de São Paulo e Olinda.
+
+Não houve, então, preocupação em criar uma universidade; o objetivo era formar profissionais liberais para o aparelho de Estado e a elite local — advogados, engenheiros, médicos —, sem entregar o ensino superior à Igreja Católica, ao contrário do que ocorrera nas colônias espanholas. Enquanto nos demais países latino-americanos, no início do século XIX, se buscava substituir as antigas universidades católicas ou criar um sistema universitário estatal e laico sob os novos regimes republicanos, o Brasil, com a preservação da monarquia da dinastia de Bragança, seguiu rumo diverso. Na área educacional, consolidou-se um modelo de inspiração napoleônica: escolas autônomas de formação profissional, criadas exclusivamente pela Coroa, sem a gestão da Igreja mas sob sua influência — modelo que se assentava no pragmatismo que orientara a reforma da Universidade de Coimbra.
+
+### Modernização dos anos 1920 e a criação das primeiras universidades [§11–§17]
+
+A década de 1920 presenciou um movimento de modernização econômica, urbana e cultural que também atingiu a educação. Educadores e cientistas propuseram a criação de universidades que não fossem meras instituições de ensino, mas “centros de saber desinteressado”, capazes de desenvolver as ciências básicas e a pesquisa, além da formação profissional. Concebia-se um sistema público, não-confessional, inspirado no modelo italiano mas com inovações norte-americanas.
+
+Essa bandeira foi apropriada e reformulada pelo governo Vargas, instalado em 1930, que promoveu uma reforma marcada por intensa disputa entre elites católicas conservadoras e intelectuais liberais (Schwartzman, Boneny & Costa, 2000). A Igreja reivindicava a organização da primeira universidade brasileira com fundos públicos e obteve concessões como o ensino religioso facultativo nas escolas, mas não logrou o direcionamento do financiamento público para instituições confessionais. A oposição liberal impediu esse desfecho.
+
+O caráter conservador da reforma ficou evidente na organização das novas universidades: meras confederações de escolas pré-existentes que preservaram grande autonomia, com cursos rigidamente separados por carreira e faculdades que decidiam o ingresso. Os diplomas tinham o mesmo valor dentro ou fora da universidade, e não havia um nível de formação geral pré-profissional à semelhança do modelo anglo-saxônico. A estrutura baseava-se na figura do catedrático vitalício, cuja congregação detinha o poder acadêmico inclusive para nomear e demitir assistentes.
+
+A inovação mais promissora foi a Faculdade de Filosofia, Ciências e Letras, pensada como o *college* norte-americano de formação básica anterior à profissionalização. No entanto, ao incorporar a formação de professores, ela se converteu em mais uma escola profissional, sem conseguir desempenhar o papel de centro da universidade. Ainda assim, foi nessa faculdade que a pesquisa básica se institucionalizou em algumas poucas universidades; a maioria permaneceu apenas como instituição de ensino.
+
+As três primeiras universidades representaram os conflitos da reforma. A Universidade Nacional do Rio de Janeiro (federal) encarnou o conservadorismo do regime Vargas. A Universidade do Distrito Federal, criada por Anísio Teixeira, foi um modelo inovador, mas fechada em 1935 sob acusação de liberalismo anticlerical. Já a Universidade de São Paulo, iniciativa do governo estadual oposicionista, conseguiu manter um caráter mais inovador, com uma Faculdade de Filosofia que contou com professores europeus e onde a pesquisa se institucionalizou precocemente como função básica.
+
+Apesar dessas inovações, o sistema cresceu lentamente: em 1945, contava com cerca de 42 mil alunos (48% no setor privado) e apenas três universidades públicas (Tabela 1).
+
+:::{.callout-note icon=false}
+**Tabela 1 – Evolução das matrículas em estabelecimentos públicos e privados, 1933–2001**
+
+| Ano | Público (N) | Público (%) | Privado (N) | Privado (%) | Total |
+|------|--------------|-------------|-------------|-------------|--------|
+| 1933 | 18.986 | 56,3 | 14.737 | 43,7 | 33.723 |
+| 1945 | 21.307 | 52,0 | 19.968 | 48,0 | 40.975 |
+| 1960 | 59.624 | 56,0 | 42.067 | 44,0 | 95.691 |
+| 1965 | 182.696 | 56,2 | 142.386 | 43,8 | 352.096 |
+| 1970 | 210.613 | 49,5 | 214.865 | 50,5 | 425.478 |
+| 1980 | 492.232 | 35,7 | 885.054 | 64,3 | 1.377.286 |
+| 1990 | 578.625 | 37,6 | 961.455 | 62,4 | 1.540.080 |
+| 1995 | 700.540 | 39,8 | 1.059.163 | 60,2 | 1.759.703 |
+| 2000 | 887.026 | 32,9 | 1.807.219 | 67,1 | 2.694.245 |
+| 2001 | 939.225 | 31,0 | 2.091.529 | 69,0 | 3.039.754 |
+:::
+
+## A Segunda República (pp. 9–14)
+
+### Estabilidade e pressão por reformas [§18–§22]
+
+Entre 1945 e 1964, o ensino superior continuou se expandindo lentamente, e a participação relativa do setor privado manteve-se entre 45% e 47%. Entretanto, essa aparente estabilidade ocultava que o crescimento foi insuficiente para absorver a explosiva demanda que se manifestou no final do período, alimentando pressões por reformas.
+
+As universidades públicas gratuitas foram o alvo preferido da reivindicação de ampliação de vagas. O acúmulo de candidatos excedentes aprovados no vestibular, mas sem vaga, tornou-se bandeira do movimento estudantil, e a pressão começou a surtir efeito no início dos anos 1960 com a aceleração das matrículas.
+
+Se o período 1931–1945 fora marcado pela luta entre elites católicas e laicas, a partir dos anos 1950 o ator principal passou a ser o movimento estudantil, cuja mobilização pela democratização do acesso e da gestão universitária ecoava um fenômeno mundial de contestação aos governos estabelecidos.
+
+No Brasil, os conflitos extrapolaram as questões universitárias e se inscreveram em intensos conflitos sociais, com forte presença de partidos e militâncias marxistas. A modernização capitalista agravou a situação da população rural e expôs as profundas desigualdades do país, criando um clima de agitação social generalizada. As pautas estudantis incluíram lutas contra o imperialismo, o capitalismo e o latifúndio, e a favor do nacionalismo, do desenvolvimento, da erradicação do analfabetismo e da reforma agrária; o marxismo tornou-se a ideologia dominante (Durham, 1994).
+
+### O movimento estudantil: organização, ideologia e o embate da LDB [§23–§27]
+
+O movimento estudantil brasileiro foi mais precoce e combativo que os congêneres europeu e norte‑americano, apoiado pela centralização da União Nacional dos Estudantes (UNE), criada pelo próprio regime Vargas com inspiração corporativista. Apesar da origem estatal, a UNE não se domesticou: os estudantes se consideraram vanguarda política, social e cultural, porta‑vozes dos interesses populares e celeiro de lideranças políticas desde o século XIX.
+
+Na segunda metade dos anos 1950, a discussão concentrou‑se na votação da primeira Lei de Diretrizes e Bases da Educação Nacional (LDB), prevista na Constituição de 1946. Os estudantes e setores liberais e de esquerda defendiam uma reforma profunda que criasse universidades públicas, gratuitas, associando ensino e pesquisa, e substituíssem todo o ensino privado por instituições públicas. Tal proposta chocava‑se frontalmente com os interesses do setor privado tradicional, que temia restrições à sua expansão. Consolidou‑se, assim, uma oposição entre público e privado que não mais envolvia a dimensão confessional, mas que atravessaria as décadas seguintes.
+
+O setor privado caracterizava‑se, em geral, por um ensino tradicional e livresco, alheio a questões como qualificação docente e inovação curricular. As exceções mais importantes foram as universidades católicas do Rio de Janeiro e de São Paulo, que depois apoiaram o movimento estudantil. Nesse período, a posição da Igreja mudara sob influência do Concílio Vaticano II e da Teologia da Libertação, formando um setor católico de esquerda que via a alfabetização como instrumento de libertação e a juventude universitária católica como segmento radical do movimento, que mais tarde integraria a luta armada contra o regime militar.
+
+A LDB aprovada em 1961 representou vitória dos setores privatistas e conservadores, preservando o *status quo* e concentrando‑se em mecanismos de controle da expansão e do conteúdo do ensino. O Conselho Federal de Educação (CFE), reformulado, tornou‑se o principal instrumento de controle, com poder de fixar currículos e autorizar novos cursos e instituições, rapidamente capturado pelas pressões do setor privado.
+
+Derrotados, os estudantes radicalizaram e levaram a bandeira do governo democrático paritário (docentes e estudantes em igualdade) para as ruas.
+
+## O regime militar e a reforma (1964–1980) (pp. 14–21)
+
+### Repressão, resistência estudantil e a mística do modelo universitário único [§28–§30]
+
+O golpe de 1964 alterou inteiramente o quadro político. O movimento estudantil se reconfigurou como resistência, e a universidade pública tornou‑se seu baluarte, iniciando um enfrentamento direto com o governo. Após intervenções com o afastamento de docentes considerados marxistas, o decreto-lei de 1967 proibiu manifestações político‑partidárias e ausências coletivas, o que radicalizou ainda mais o movimento. Grandes passeatas e batalhas campais entre estudantes de universidades públicas e segmentos do setor privado que apoiavam o governo culminaram em 1968 com influência do maio francês, ocupações e instalação de comissões paritárias ilegais. A resposta foi a destruição do movimento pela repressão, prisão de lideranças e nova cassação de docentes, mantendo as universidades sob vigilância por mais de uma década.
+
+A força e o martírio desse movimento geraram um ideal de universidade pública, gratuita, com ensino e pesquisa indissociáveis, governada de forma autônoma e tripartidária (professores, alunos, funcionários), com cursos de graduação plena que dão acesso a profissão regulamentada. Esse modelo, envolto no heroísmo da luta contra a ditadura, tornou‑se parâmetro indiscutível e inibiu uma análise crítica realista das transformações em curso no ensino superior.
+
+### A reforma universitária de 1968 e suas contradições [§31–§34]
+
+Derrotado o movimento, o governo militar implementou uma reforma que incorporou reivindicações consensuais no meio acadêmico e técnico, influenciadas pelo modelo norte‑americano: abolição da cátedra, criação de departamentos, institutos básicos e faculdades profissionais, sistema de créditos e proposta de ciclo básico. Contudo, a lógica foi truncada porque as carreiras permaneceram estanques e o diploma continuou como condição necessária e suficiente para o exercício profissional. O ingresso continuou por carreira, o ciclo básico fracassou, os currículos seguiram rigidamente definidos pelo CFE e não houve verdadeira reforma curricular; a expansão do acesso se deu pela simples multiplicação de matrículas nos mesmos cursos tradicionais.
+
+Apesar das limitações, a reforma direcionou o sistema federal para a organização em universidades e para a promoção da pesquisa, ideal modernizador desde 1930 que ainda não se institucionalizara de fato — a realidade era de “pequenos arquipélagos” de pesquisa em um mar de ensino. O estado de São Paulo constitui exceção pioneira: com universidade estadual desde 1934, implementou pesquisa, tempo integral e doutorado, e criou a Fapesp, consolidando liderança acadêmica.
+
+### Milagre econômico, expansão divergente e a emergência do *mass private sector* [§35–§44]
+
+[](Esse parágrafo retoma um programa anterior cortado pela página 17, provavelmente referente ao Programa de Tempo Integral e Dedicação Exclusiva.) O programa de estímulo à pesquisa, na prática, tornou‑se mera complementação salarial, mas criou condições para os novos mestres e doutores, tornando a universidade pública cada vez mais cara e restrita a uma elite estudantil da nova classe média, incapaz de atender a toda a demanda.
+
+A década de 1970 foi de prosperidade econômica — o “milagre brasileiro” — que beneficiou a classe média, ampliou a demanda por ensino superior e aumentou os recursos federais. As instituições federais gozaram de prosperidade inédita, o que ajuda a entender por que, ao contrário de Argentina e Chile, no Brasil a repressão política não sustou, mas promoveu o crescimento do ensino superior: as matrículas saltaram de 95.691 (1960) para 1.345.000 (1980), com picos de crescimento em 1968, 1970 e 1971.
+
+Embora a literatura da época afirmasse que o governo promovia a privatização, os números absolutos mostram expressivo aumento do setor público (de 182.700 para 492 mil, +260%), enquanto o setor privado cresceu 512% (de 142.386 para 885.054). Não houve privatização, mas uma expansão mais rápida do privado, que atingiu 50% das matrículas em 1970 e manteve participação superior a 60% a partir de então, consolidando uma mudança de patamar e trajetórias divergentes entre os dois setores.
+
+O aumento da demanda está associado ao crescimento das camadas médias e às novas oportunidades de trabalho na economia moderna e na tecnoburocracia. Para atender à demanda massiva, o setor público precisaria diversificar tipos de curso e de instituição, como fizeram os *community colleges* norte‑americanos. Na ausência dessa diversificação, o setor privado absorveu a demanda concentrando‑se em cursos de baixo custo (administração, economia, formação de professores) com exigências acadêmicas reduzidas e sem compromisso com a pesquisa, atividade não lucrativa. A expansão deu‑se pela proliferação de escolas isoladas, ainda que já houvesse vinte universidades particulares em 1975 (Tabela 2).
+
+:::{.callout-note icon=false}
+**Tabela 2 – Evolução do número de instituições públicas e privadas, 1970‑2000**
+
+| Ano | Univ. Pública | Univ. Privada | Fac. Integradas Públicas | Fac. Integradas Privadas | Estab. Isolados Públicos | Estab. Isolados Privados | Centros Univ. Públicos | Centros Univ. Privados | Total |
+|------|----------------|---------------|--------------------------|--------------------------|--------------------------|--------------------------|------------------------|------------------------|-------|
+| 1970 | 32 | 15 | -- | -- | 139 | 463 | -- | -- | 639 |
+| 1975 | 37 | 20 | -- | -- | 178 | 625 | -- | -- | 860 |
+| 1980 | 45 | 20 | 1 | 10 | 154 | 643 | -- | -- | 882 |
+| 1985 | 48 | 20 | 1 | 58 | 184 | 548 | -- | -- | 859 |
+| 1990 | 55 | 49 | -- | 74 | 167 | 582 | -- | -- | 918 |
+| 1995 | 68 | 59 | 3 | 84 | 147 | 490 | -- | -- | 851 |
+| 2000 | 71 | 85 | 2 | 88 | 132 | 782 | 1 | 4 | 990 |
+:::
+
+As instituições privadas tornaram‑se um grande negócio. Parte surgiu da transformação de escolas médias, mas a lucratividade atraiu empresários sem compromisso prévio com a educação. Orientadas pela captação de demanda, passaram a ser governadas pelo mercado, constituindo o que Geiger (1986) denomina *mass private sector*, enquanto o setor público se orientava para uma demanda mais qualificada.
+
+Esse segmento empresarial voltou‑se para a satisfação mais imediata da demanda social: a obtenção do diploma, valorizado pela tradição cartorial que associa o título ao acesso a profissões regulamentadas e nichos privilegiados no mercado de trabalho. A qualidade da formação tornou‑se secundária. Internamente, o sistema privado dividiu‑se entre um segmento comunitário ou confessional não lucrativo (semelhante ao público) e um segmento empresarial.
+
+A expansão do setor privado concentrou‑se na região Sudeste, acompanhando o mercado e o desenvolvimento econômico. Nas regiões mais pobres, o ensino público permaneceu como principal provedor, com distribuição mais equitativa (Tabela 3).
+
+:::{.callout-note icon=false}
+**Tabela 3 – Matrículas por região geográfica, 1986‑2000 (%)**
+
+| Região | 1986 | 1996 | 2000 |
+|--------|-------|------|-------|
+| Norte  | 2,6  | 4,1  | 5,8  |
+| Nordeste | 16,7 | 15,0 | 15,3 |
+| Sudeste | 55,6 | 55,0 | 51,9 |
+| Sul    | 19,3 | 18,7 | 20,1 |
+| Centro‑Oeste | 5,7 | 7,2 | 8,3 |
+| Total  | 100,0 | 100,0 | 100,0 |
+:::
+
+No final dos anos 1970, o sistema brasileiro estava profundamente alterado: expansão das matrículas, estímulos à titulação e à pesquisa no setor público, e criação de um setor privado empresarial lucrativo, alheio à pesquisa e à qualidade, coexistindo com um setor não lucrativo que seguia o modelo público.
+
+## A década de 1980 (pp. 21‑33)
+
+### Crise econômica, estagnação das matrículas e gargalos estruturais [§45–§50]
+
+A década de 1980 foi marcada pela crise econômica e pela transição política da redemocratização, culminando na Constituição de 1988 e na primeira eleição direta para presidente. No ensino superior, a expansão estancou: entre 1980 e 1990, o total de alunos passou de 1,38 milhão para 1,54 milhão, alta de apenas 11,8%; entre 1975 e 1980 o crescimento fora de 28%, e de 1980 a 1985 de apenas 7,6%. A crise afetou especialmente a classe média que sustentava a demanda no privado, e a evasão cresceu.
+
+Altos índices de repetência e evasão no ensino básico faziam com que poucos concluíssem o ensino médio. A relação concluintes‑do‑médio por vaga no superior era de 1,3 em 1980 e chegou a 1,5 em 2001 (Tabela 5), evidenciando obstáculos estruturais à ampliação do ensino superior, ligados às desigualdades sociais.
+
+:::{.callout-note icon=false}
+**Tabela 5 – Concluintes do ensino médio e número de vagas, 1980‑2000**
+
+| Ano | Concluintes (mil) | Vagas (mil) | Concluintes por vaga |
+|------|--------------------|-------------|-----------------------|
+| 1980 | 540 | 405 | 1,3 |
+| 1991 | 659 | 517 | 1,3 |
+| 1994 | 749 | 574 | 1,3 |
+| 1997 | 1.266 | 699 | 1,8 |
+| 2000 | 2.101 | 1.236 | 1,6 |
+| 2001 | 2.217 | 1.444 | 1,5 |
+:::
+
+O crescimento dos anos 1970 só foi possível graças a uma demanda reprimida de egressos mais velhos que haviam completado o ensino médio em cursos supletivos e já estavam inseridos no mercado de trabalho. A alta porcentagem de cursos noturnos corrobora essa interpretação: esses cursos permitiram o acesso de trabalhadores que buscavam ascensão ocupacional. Em 1986, 76,5% das matrículas do setor privado eram em cursos noturnos, contra apenas 16% nas federais. Nessas universidades, cujo discurso exaltava o compromisso popular, a resistência à criação de cursos noturnos foi grande, com a exceção da USP, que os introduziu já em 1952. Nas federais, a participação noturna subiu lentamente para 21,4% em 1999 (Tabela 6).
+
+:::{.callout-note icon=false}
+**Tabela 6 – Percentual de alunos de graduação em cursos noturnos por tipo de instituição, 1986‑1999**
+
+| Tipo de Instituição | 1986 | 1994 | 1999 |
+|---------------------|------|------|------|
+| Federais | 16,0 | 18,7 | 21,4 |
+| Estaduais | 42,6 | 45,8 | 46,3 |
+| Privadas | 76,5 | 67,8 | 66,6 |
+| Total | 61,2 | 54,6 | 55,0 |
+:::
+
+Esgotada a demanda reprimida e com o lento crescimento dos recém‑egressos do ensino médio, deixou de haver candidatos suficientes para preencher todas as vagas do setor privado. Somente muito recentemente o ensino médio voltou a crescer, puxado pela melhoria do fundamental, mas a relação egresso/vaga, após atingir 1,8 em 1997, caiu para 1,5 em 2001.
+
+### Fusões, federações e a busca por autonomia via *status* de universidade [§51–§54]
+
+A escassez de candidatos acirrou a competição entre estabelecimentos privados. As universidades levavam vantagem por terem autonomia para criar e extinguir cursos e vagas, ajustando‑se rapidamente às preferências da clientela; os estabelecimentos maiores, com muitos cursos, absorviam melhor as oscilações de demanda.
+
+Por isso, o setor privado se orientou para ampliar o tamanho por fusões e incorporações, formando federações de escolas e, posteriormente, buscando transformá‑las em universidades para obter autonomia e fugir dos controles do CFE. O CFE foi inundado por pedidos dessa natureza e a atividade de *lobbies* se intensificou. Enquanto o número de universidades privadas permaneceu estável em vinte entre 1975 e 1985, as faculdades integradas cresceram rapidamente: de 10 em 1980 para 58 em 1985 e 74 em 1990. As universidades privadas só se expandiram mais tarde: de 20 para 49 entre 1985 e 1990, um salto de 145%.
+
+Assim, o final dos anos 1980 testemunhou uma nova inflexão: até então, as universidades privadas eram predominantemente confessionais ou comunitárias, sem fins lucrativos, com características próximas às públicas. A expansão a partir de 1985 foi puxada pelo setor de ensino de massa, com finalidades lucrativas e sem interesse em pesquisa ou qualificação docente.
+
+O mecanismo de reconhecimento de universidades pelo CFE explica como isso foi possível. Apesar de a legislação exigir associação entre ensino e pesquisa, os critérios efetivamente aplicados eram apenas a amplitude dos campos de conhecimento e a infraestrutura mínima. A criação de federações de escolas tornava‑se o passo anterior ao *status* de universidade. O resultado foi que a multiplicação de universidades privadas não trouxe melhoria na qualidade de ensino, na titulação docente ou na pesquisa, e não gerou um *ethos* universitário de liberdade acadêmica e valorização da competência.
+
+### O movimento docente (Andes): corporativismo, igualitarismo e a “ilhas de competência” [§55–§70]
+
+A emergência do movimento dos docentes das universidades públicas deu origem à Associação Nacional dos Docentes Universitários (Andes), que substituiu o movimento estudantil e incorporou muitas de suas bandeiras. Esse movimento, restrito ao setor público, organizou‑se a partir de lideranças marginalizadas pela ditadura.
+
+[](Os parágrafos seguintes retomam texto cuja continuidade foi interrompida por páginas ilegíveis.) Os sistemas de controle sobre as universidades incluíram repressão policial direta, cassação de lideranças de esquerda e triagem ideológica nas contratações, com agentes de inteligência infiltrados nas reitorias. Houve também intensa manipulação política para garantir a permanência de simpatizantes do regime na gestão.
+
+A operação desses controles facilitou ingerências ilegítimas, afastou as lideranças intelectuais da governança, beneficiou docentes ligados ao governo ou às oligarquias locais e enfraqueceu os sistemas de mérito. A autonomia foi destruída e o clientelismo e a cooptação se fortaleceram. Docentes e estudantes refugiaram‑se numa oposição intransigente, atribuindo todos os males à ditadura e deixando de refletir criticamente sobre os problemas da universidade. Paralelamente, a resistência simbólica abraçou um igualitarismo radical que deslegitimou valores acadêmicos de mérito e competência.
+
+A expansão das federais também contribuiu para essa desvalorização, pois as contratações, feitas fora dos mecanismos tradicionais de seleção, ampliaram o clientelismo e geraram uma enorme heterogeneidade salarial, causando insatisfação especialmente entre os docentes mais jovens e menos qualificados.
+
+As atividades de pesquisa, desenvolvidas através das agências de fomento (Capes, CNPq, Finep, Fapesp), passaram a operar como um sistema paralelo à estrutura universitária, baseado na relação direta pesquisador‑agência e na qualidade da produção científica. Esse sistema fortaleceu os valores acadêmicos, mas dissociou‑os da gestão da universidade, criando “ilhas de competência” (Oliveira, 1984) em meio à mediocridade generalizada.
+
+A política consistente da Capes e do CNPq ampliou de forma contínua a qualificação docente e a pesquisa, tendência que se acelerou ao longo da década (Tabela 7).
+
+:::{.callout-note icon=false}
+**Tabela 7 – Evolução da pós‑graduação: número de cursos e alunos, 1987‑1996**
+
+| Ano | Mestrado (cursos) | Doutorado (cursos) | Alunos novos Mestr. | Alunos novos Dout. | Matriculados Mestr. | Matriculados Dout. |
+|------|--------------------|--------------------|----------------------|---------------------|----------------------|---------------------|
+| 1987 | 861 | 395 | 9.853 | 1.976 | 30.337 | 8.309 |
+| 1990 | 964 | 450 | 12.162 | 3.080 | 36.502 | 10.923 |
+| 1993 | 1.039 | 524 | 12.816 | 4.191 | 38.265 | 15.569 |
+| 1996 | 1.176 | 626 | 16.255 | 5.102 | 44.925 | 22.004 |
+:::
+
+A organização dos docentes deu‑se a partir das lideranças marginalizadas, denunciando os instrumentos políticos que perpetuavam na cúpula uma minoria incompetente aliada ao regime. Suas grandes bandeiras foram a autonomia e a democratização, entendida como ampliação da participação de docentes e estudantes na gestão por mecanismos representativos.
+
+A redução dos recursos públicos e o achatamento salarial levaram o movimento a incorporar uma vertente sindicalista, que o fortaleceu mas alterou sua composição, reforçando a aliança com funcionários. A vertente acadêmica foi marginalizada; as preocupações com competência docente e pesquisa serviam mais para legitimar reivindicações salariais do que para mobilizar em defesa de valores acadêmicos. Quanto mais sindicalista o movimento, maior a incorporação dos docentes menos qualificados e maior o igualitarismo, com baixa aceitação de critérios de qualificação profissional para cargos de direção.
+
+A hegemonia das universidades federais nesse movimento decorre de elas formarem um bloco numeroso e unificado, com o MEC como interlocutor comum. Os problemas e reivindicações que pautam o movimento são específicos da rede federal. Nessas universidades, a escolha de dirigentes sempre esteve subordinada ao MEC e sujeita às oligarquias locais, para as quais a universidade era fonte de recursos e patronagem — em Alagoas, o orçamento da federal superava o do estado. A luta pela eleição direta dos dirigentes ganhou força como única forma de romper essa dominação e estabelecer um mínimo de autonomia. A aliança com funcionários e alunos tornou‑se crucial, e a fórmula da eleição direta tripartidária erigiu‑se a princípio indiscutível. Quanto mais autoritário fora o reitor anterior, mais exacerbada a luta por eleições tripartidas. Como os mecanismos anteriores de escolha jamais privilegiaram critérios acadêmicos, o movimento docente pôde abandonar esses valores em favor de um igualitarismo radical com amplo respaldo entre alunos e funcionários.
+
+[](Fragmento final de parágrafo não recuperado.) A situação se tornara a mais adequada aos interesses corporativos do conjunto de docentes e funcionários.
+
+No final do período, começou a surgir um novo grupo contestador das posições da Andes: pesquisadores universitários, técnicos qualificados do MEC e reitores das estaduais paulistas, todos familiarizados com as reformas em curso na Europa e nos Estados Unidos e com a mudança do papel do Estado de executor para regulador e avaliador.
+
+Os temas introduzidos por esse grupo foram autonomia e avaliação, reinterpretando a autonomia como descentralização da responsabilidade administrativa necessariamente associada ao controle público por avaliação, com recursos atrelados a critérios de desempenho em ensino e pesquisa. A primeira tentativa de implementar essas ideias ocorreu em 1985, com uma comissão de alto nível proposta por Tancredo Neves e encampada por Sarney, que levou à criação do Grupo Executivo para Reformulação da Educação Superior (Geres). Diante da reação do movimento docente, o ministro Maciel arquivou a proposta. Em 1991, o ministro José Goldemberg, ex‑reitor da USP, retomou a avaliação e criou um sistema de grande potencial para controle da qualidade, embora as propostas da Secretaria de Políticas Educacionais de criar um ensino público de massa não tenham avançado.
+
+No início dos anos 1990, o aumento do percentual de docentes com mestrado ou doutorado, fruto das políticas da Capes e CNPq, já era a tendência mais importante.
+
+## O período recente, 1995‑2000 (pp. 33‑41)
+
+### A LDB de 1996 e os novos instrumentos de controle da qualidade [§71–§78]
+
+A nova LDB, votada em 1996, incorporou a exigência de associação entre ensino e pesquisa com produção científica comprovada para credenciamento e recredenciamento das universidades — exigência que, embora já constasse na legislação anterior, nunca tivera mecanismo efetivo de implementação, especialmente no setor privado. A lei também estabeleceu condições mínimas: um terço do corpo docente com mestrado ou doutorado e um terço em tempo integral, dispositivos que enfrentaram forte oposição do *lobby* privatista, mas que estabeleceram critérios objetivos alterando substantivamente o processo de criação de universidades.
+
+O recredenciamento periódico das instituições, precedido de avaliação, permitiu corrigir distorções e ameaçar a situação das universidades que não passavam de grandes unidades de ensino, dando‑lhes oito anos para se adequarem. A renovação periódica do reconhecimento de cursos, associada à exigência de que os diplomas fossem legalizados, possibilitou pressão continuada pela manutenção de qualidade mínima.
+
+A lei também flexibilizou o sistema: aboliu o “currículo mínimo” que engessava o ensino, substituindo‑o por diretrizes curriculares gerais, e previu cursos sequenciais de curta duração.
+
+As universidades públicas federais e estaduais, que já vinham desenvolvendo pesquisa e aumentando a titulação, foram pouco afetadas. Para as privadas, porém, a lei representava ameaça de perda de *status* e autonomia.
+
+A eficácia da nova legislação dependia da construção de um sistema de avaliação, principal preocupação do ministério. A iniciativa mais marcante foi o Exame Nacional de Cursos, o “Provão”, teste objetivo aplicado a todos os formandos, obrigatório para a obtenção do diploma mas sem reprovação individual, destinado a classificar comparativamente os cursos pela média de desempenho.
+
+O Provão enfrentou resistência das mantenedoras privadas e, surpreendentemente, também de alunos e docentes do setor público, liderados pelo sindicato docente. Embora o exame logo demonstrasse a melhor qualidade dos cursos públicos, o corporativismo do setor público enxergava qualquer avaliação comparativa como ameaça à isonomia, à distribuição igualitária de benefícios e à unidade monolítica do sindicato. Apenas a autoavaliação, sem comparações nem consequências distributivas, era aceita. A implantação do Provão contou com forte apoio da imprensa e da sociedade; a publicação dos resultados gerou enorme interesse público, legitimou o exame e o tornou o mais poderoso instrumento de incentivo à melhoria da qualidade, inclusive influenciando o mercado: os cursos privados melhor classificados usaram o resultado como propaganda para atrair alunos.
+
+Em 2001, o Provão já avaliava vinte cursos, abrangendo 1.293.170 alunos, maioria dos formandos. Paralelamente, criou‑se uma avaliação qualitativa por comissões de pares (Comissões de Avaliação das Condições de Oferta de Ensino) para complementar e corrigir a avaliação do Provão.
+
+### Reações do setor privado: subterfúgios, *mass private sector* e ausência de liberdade acadêmica [§79–§84]
+
+[](Parágrafo interrompido por páginas ilegíveis; o texto retoma a questão do privilégio da aposentadoria integral.) O privilégio corporativo da aposentadoria integral com vencimentos de ativo transformou‑se em subsídio público para o setor privado, que se viu poupado do ônus de qualificar seu próprio pessoal.
+
+É verdade que o setor privado fez algum esforço de qualificação, pois a titulação docente tornou‑se critério importante nas avaliações. As instituições privadas pressionaram pela aprovação de cursos de pós‑graduação próprios. Houve avanços na titulação, mas, sem tradição de pesquisa e sem compreensão de seu significado, tiveram dificuldades para reconhecer os cursos e mobilizaram‑se para reduzir as exigências da Capes. Enquanto isso, expandiram os cursos de especialização, sobre os quais há pouco controle de qualidade.
+
+Outros subterfúgios incluíram a criação de revistas próprias não indexadas e, principalmente, a abertura para o mercado global de educação superior: convênios com universidades estrangeiras para cursos a distância ou semipresenciais, com diplomas expedidos no exterior e livres dos controles da Capes.
+
+Houve, também, iniciativas mais sérias. Algumas instituições, inclusive empresas de ensino, montaram pequenos grupos de pesquisa com pesquisadores aposentados do setor público, capazes de obter financiamento de agências. Todavia, são pequenos enclaves em instituições de massa, sem capacidade de influir na graduação, e sua manutenção depende das estratégias financeiras dos mantenedores.
+
+Por trás de todas essas iniciativas persiste o problema básico das instituições lucrativas: a completa ausência de liberdade acadêmica e a apropriação da autonomia universitária por mantenedoras ou proprietários. Os docentes são “proletários do ensino”, submetidos às determinações e caprichos dos proprietários. O corpo dirigente costuma ser indicado pelos donos, muitas vezes parentes, raramente com qualificação. Assim, as universidades privadas lucrativas constituem frequentemente uma contrafação do modelo de universidade que inspirou a legislação e os movimentos reformistas.
+
+Em contraste, o segmento não lucrativo, comunitário ou confessional, tem procurado realizar o modelo de universidade que associa ensino e pesquisa, investe em projetos pedagógicos sérios e preserva algum grau de liberdade acadêmica. Esse segmento contribui de modo muito positivo para o desenvolvimento do ensino superior brasileiro.
+
+### Omissões da política educacional do período e a falta de reforma estrutural no setor público [§85–§89]
+
+Apesar das inovações, houve omissões importantes na política recente que afetaram particularmente o sistema público, cujos problemas estruturais não foram solucionados.
+
+Não houve iniciativa para atender, em instituições públicas, a demanda crescente de educação pós‑secundária de uma população com formação escolar prévia insuficiente para ter sucesso em universidades de pesquisa. Governos federal e estaduais concentraram recursos no ensino gratuito em universidades e nos estímulos à pós‑graduação, sem diversificar estabelecimentos nem programas de ensino para uma demanda heterogênea. Também não se criou, com recursos públicos, uma universidade aberta de ensino a distância de qualidade; a tarefa foi delegada a universidades presenciais sem competência ou recursos para tanto. As iniciativas públicas foram limitadas, e as particulares não alcançaram a qualidade necessária. O ensino a distância pressionou pela abertura a instituições estrangeiras interessadas na exportação de cursos, enquanto a democratização do acesso continuou dependente do ensino privado de massa, atividade lucrativa que, por seu imediatismo, não promoveu a renovação do ensino capaz de corrigir as deficiências da escolaridade anterior e oferecer formação adequada ao mercado de trabalho.
+
+Tampouco se realizou uma reforma administrativa do ensino público que quebrasse o centralismo burocrático e racionalizasse o uso dos recursos. O problema central é a ausência de autonomia administrativa e financeira nas universidades públicas (com exceção das estaduais paulistas). Sem ela, é impossível alterar a gestão e vincular o financiamento a critérios de desempenho. A Constituição de 1988 assegurou a autonomia didática, científica, administrativa e financeira, mas a submissão às rígidas regras do funcionalismo público e aos controles orçamentários a tornaram letra morta. O controle de vagas e da carreira permaneceu centralizado, a folha de pagamento (cerca de 90% dos recursos) é executada diretamente pelo ministério, e a liberdade dos 10% restantes é tolhida pela separação entre custeio e capital e pelo detalhamento do Congresso. Assim, não se logrou associar o orçamento ao número de alunos, à qualificação docente ou ao desempenho estudantil. A pesquisa segue dependente do financiamento extra‑orçamentário das agências, baseado na qualidade, mas não há avaliação institucional que integre ensino e pesquisa.
+
+A situação é agravada pelas vitórias constitucionais do movimento corporativo de docentes e funcionários: aposentadoria integral, estabilidade plena, irredutibilidade de vencimentos e incorporação permanente de qualquer benefício temporário. O quadro de pessoal tornou‑se extremamente rígido, impermeável à avaliação de mérito, de modo que qualquer inovação depende de recursos adicionais. Brunner (1991) analisou a impossibilidade de modernizar e racionalizar universidades públicas nesse sistema, comum à América Latina. Sem uma reforma de grande alcance, o ensino público não poderá ampliar o atendimento à população, e a oportunidade de fazê‑la sob o governo Fernando Henrique Cardoso foi perdida.
+
+## Perspectivas (pp. 41‑42)
+
+### Incerteza e risco de desmonte sob o novo governo Lula [§90–§93]
+
+Com a vitória do Partido dos Trabalhadores e a posse de Lula em 2003, assume um partido de oposição ao governo anterior, cujo *slogan* era “acabar com tudo que está aí”. Tem havido, de fato, um grande desmonte da máquina administrativa que atingiu inclusive os setores técnicos.
+
+No Ministério da Educação, a transformação se dá pela substituição dos quadros anteriores por membros do Sindicato de Docentes, que sempre combateram violentamente os processos de avaliação implantados e se opuseram intransigentemente a qualquer reforma que diferenciasse instituições por mérito e desempenho ou ameaçasse a estabilidade e os benefícios corporativos. Até o momento, não há proposta consistente e integrada para o ensino superior e a avaliação; apenas iniciativas pontuais ou casuísticas.
+
+A autora julga cedo para avaliar, mas vê poucas perspectivas de uma reforma mais profunda e teme que as realizações do período anterior sejam destruídas sem que se avance para a consolidação de um sistema de recredenciamento baseado em avaliações institucionais.
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+A tese central do texto é que a peculiar trajetória do ensino superior brasileiro — marcada pelo surgimento precoce de um poderoso setor privado empresarial voltado ao lucro — resultou da incapacidade histórica do setor público de diversificar‑se para atender à demanda de massa, de arranjos políticos conservadores que capturaram os mecanismos de regulação (especialmente o Conselho Federal de Educação) e de um ciclo de retroalimentação corporativa no setor federal que inviabilizou reformas estruturais, consolidando assim um sistema dual em que o setor privado responde ao mercado enquanto o público se elitiza e se distancia da democratização do acesso. O argumento é predominantemente descritivo‑explicativo, mas carrega forte componente normativo ao defender a necessidade de autonomia administrativa com avaliação de desempenho e de diversificação institucional pública. O texto demonstra empiricamente as trajetórias divergentes dos setores público e privado e identifica o mecanismo político que permitiu a transmutação de federações de escolas em universidades empresariais sem qualidade. Fica como hipótese, contudo, se a introdução de avaliações de resultado (Provão) poderia, por si só, reconfigurar o setor privado e equilibrar o sistema, e se a reforma gerencial do público seria politicamente factível diante da força do corporativismo sindical. A principal contribuição para o debate é oferecer uma narrativa histórica minuciosa que articula dinâmica política, evolução institucional e dados quantitativos, desvelando as origens do *mass private sector* brasileiro de forma muito anterior ao reconhecimento internacional desse fenômeno.
+:::
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v13.0*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | A pergunta central não é formulada explicitamente; pode‑se reconstruí‑la como: *Como e por que o Brasil desenvolveu, precocemente, um sistema de ensino superior privado de massa de caráter empresarial, e quais foram suas consequências para a configuração do sistema?* Trata‑se de uma pergunta explicativa, embora o texto também busque avaliar os efeitos desse desenvolvimento. A reconstrução é plausível, já que a autora insiste na especificidade do caso brasileiro e na necessidade de uma análise histórica para compreendê‑la. | Pergunta reconstruída: *Como e por que o Brasil desenvolveu, precocemente, um sistema de ensino superior privado de massa de caráter empresarial, e quais foram suas consequências para a configuração do sistema?* Natureza: explicativa e avaliativa. |
+| Questões Secundárias | O texto desdobra‑se em perguntas secundárias que estruturam a narrativa: (1) Quais as fases e marcos políticos da evolução do ensino superior brasileiro? (2) Como as relações entre Estado, Igreja, elites e movimento estudantil moldaram as políticas de regulação e expansão? (3) Como o setor privado empresarial conseguiu contornar as exigências formais de associação entre ensino e pesquisa? (4) Por que o setor público não se diversificou para atender à demanda massiva? (5) Quais os efeitos do corporativismo docente sobre a modernização do sistema público? Essas perguntas são funcionalmente subordinadas à pergunta central e a operacionalizam em sequência histórica. | (1) Quais as fases e marcos políticos da evolução do ensino superior brasileiro? (2) Como as relações entre Estado, Igreja, elites e movimento estudantil moldaram as políticas de regulação e expansão? (3) Como o setor privado empresarial conseguiu contornar as exigências formais de associação entre ensino e pesquisa? (4) Por que o setor público não se diversificou? (5) Quais os efeitos do corporativismo docente sobre a modernização do setor público? |
+| Puzzle-Type | O *puzzle* é uma combinação de **explicação de divergência institucional** e **avaliação de política**. Por que, diferentemente da maioria dos países latino‑americanos e europeus, o Brasil desenvolveu precocemente um *mass private sector* lucrativo, e por que o setor público não conseguiu absorver a demanda? O *puzzle* é genuíno e generalizável como caso‑limite de falha de coordenação estatal e captura regulatória, ainda que a autora não use essa linguagem. | *Puzzle* de divergência institucional e avaliação de política. Genuíno: contrasta com o padrão regional de predominância de universidades públicas e católicas. Generalizável como estudo de caso de captura regulatória e expansão de mercado em educação superior. |
+| Conclusão / Argumento Central | A tese é que o caráter dual do sistema brasileiro — público elitizado e privado empresarial de massa — decorre de uma sequência de escolhas políticas (não criação de *community colleges* públicos, leniência do CFE, vitórias corporativas na Constituição de 1988) que, somadas à forte demanda por diplomas, produziram um setor privado regido pelo mercado e um setor público paralisado pela rigidez administrativa e pelo igualitarismo sindical. O *claim of discovery* é que a expansão privada não foi privatização, mas uma trajetória divergente precoce que escapou à regulação estatal. O argumento é causal‑histórico, apoiado em séries de matrículas e análises de mudanças normativas. O que efetivamente o sustenta são as evidências quantitativas da trajetória divergente e o mapeamento do papel do CFE. | A tese é que o sistema dual brasileiro (público elitizado, privado empresarial de massa) resulta de escolhas políticas que combinaram captura regulatória pelo privado e paralisia corporativa no público, impedindo a diversificação do setor público e favorecendo a expansão mercantil. *Claim of discovery*: a expansão privada foi muito precoce e não uma privatização, mas uma divergência fomentada pelo Estado através da leniência regulatória. |
+| Métodos | Estudo histórico‑institucional baseado em fontes secundárias, documentos legais (Constituição, LDBs, decretos), dados censitários do MEC (Censo da Educação Superior) e referências à literatura acadêmica. A estratégia argumentativa é a narrativa processual, organizada em períodos políticos, com interpretação das estatísticas e das mudanças normativas. Não há teste formal de hipóteses; a identificação causal repousa na cronologia e na demonstração de que o CFE deliberadamente não exigia pesquisa para o reconhecimento de universidades. Limitações: ausência de contrafactual explícito e de análise de mecanismos de nível micro (escolha de estudantes, estratégias de mantenedores). | Estudo histórico‑institucional com análise documental e de dados censitários. Estratégia narrativa periodizada. Principais fontes: Censo do Ensino Superior, legislação, literatura acadêmica. Sem teste formal de hipóteses; a inferência causal é baseada em cronologia e análise normativa. |
+| Data Generation Process (DGP) | Fenômeno real (matrículas, instituições) → observação via Censo MEC e legislação → coleta de dados agregados para 1933‑2001 → operacionalização em tabelas de evolução de matrículas e instituições → análise descritiva e interpretação histórica → inferência causal por meio da associação entre mudanças políticas e expansão dos setores. Unidade de análise: o sistema de ensino superior brasileiro como um todo e, em alguns momentos, as IES por dependência administrativa. Nível de agregação: majoritariamente nacional e por setor (público/privado, federal/estadual/privado, regiões). O DGP é apropriado para estabelecer correlações temporais e mudanças de composição, mas é fraco para identificar causalidade micro. | Fenômeno real (matrículas, IES) → Censo MEC → dados agregados → tabelas descritivas → interpretação histórica. Unidade: sistema nacional e setores. Agregação: nacional e por dependência administrativa. Força: rastreamento de tendências de longo prazo. Limitação: não permite inferência sobre decisões individuais ou mecanismos micro. |
+| Achados e Contribuições | Principais achados empíricos: (1) a participação do setor privado saltou de 44% (1960) para 69% (2001); (2) a expansão veio de escolas isoladas e, depois, de universidades criadas sem exigência de pesquisa; (3) o setor público tornou‑se mais qualificado (mestres/doutores, pós‑graduação), mas não expandiu a oferta para a demanda de massa. Contribuição teórico‑metodológica: oferece uma periodização original e uma narrativa unificada que liga a dinâmica política à evolução quantitativa. O design identifica com força a mudança de patamar e o papel do CFE; é mais especulativo ao atribuir a não diversificação do público apenas à rigidez e ao corporativismo, sem explorar contraexemplos de estados que diversificaram. | Achados empíricos: forte expansão do setor privado sem melhora de qualidade; setor público se elitizou sem diversificar; CFE falhou em exigir indissociabilidade ensino‑pesquisa. Contribuição: periodização original e integração de dados quantitativos com análise política. O *claim* de que a leniência do CFE explica a configuração do privado está bem documentado; já a inferência de que o corporativismo é a causa principal da rigidez do público carece de evidência contrafactual. |
+| Análise Crítica dos Achados | A autora responde adequadamente à pergunta reconstruída, demonstrando que a divergência foi precoce e que o arcabouço normativo (CFE) a viabilizou. O ponto mais forte é a demonstração de que a exigência formal de pesquisa jamais foi implementada para o privado, minando a retórica reformista. O ponto mais vulnerável é a tese de que o corporativismo e a Constituição de 1988 impedem qualquer modernização do público: a narrativa não enfrenta casos como o das estaduais paulistas, que mantêm autonomia e avaliação, e tampouco explora mecanismos pelos quais a avaliação (Provão) poderia, gradualmente, diferenciar as federais sem reforma constitucional. As ameaças à identificação são típicas de estudos de caso único: a trajetória pode ser superdeterminada, e a seleção do caso brasileiro como outlier não é formalizada. A generalizabilidade é limitada, mas o mecanismo de captura regulatória é teoricamente relevante para além do caso. | Responde à pergunta; demonstra divergência e captura do CFE. Ponto forte: evidência de que a exigência de pesquisa era letra morta para o privado. Ponto vulnerável: atribuição do imobilismo público exclusivamente ao corporativismo sindical e à Constituição, sem explorar variação (ex.: estaduais paulistas). Ameaça de superdeterminação em caso único; validade externa do mecanismo de captura regulatória é plausível, mas não testada. |
+| Limitações | **Reconhecidas pelos autores:** A autora não formula limitações explicitamente, mas sinaliza incerteza quanto aos rumos futuros e ao risco de desmonte. **Não reconhecidas ou subestimadas:** A narrativa trata o setor público como um bloco monolítico, subestimando a heterogeneidade entre federais e estaduais paulistas; não discute a possível melhora de qualidade induzida pelo Provão no setor privado de massa; não analisa os efeitos distributivos do sistema dual (quem se beneficia do ensino gratuito de elite); e não considera que a rigidez administrativa possa ser, em parte, uma proteção contra o clientelismo local. | **Reconhecidas:** Incerteza sobre o futuro e risco de desmonte. **Não reconhecidas:** Heterogeneidade interna do setor público; efeitos dinâmicos da avaliação (Provão) sobre o privado; distribuição de benefícios do sistema dual; e possível trade‑off entre rigidez e proteção contra clientelismo. |
+| Perspectiva Teórica | O texto insere‑se na tradição da sociologia histórica e da análise institucional, com forte influência da literatura comparada sobre sistemas de ensino superior (Geiger) e da análise de políticas públicas. A moldura teórica é mais implícita que explícita: a autora opera com os conceitos de *mass private sector*, captura regulatória e dependência de trajetória, sem adotar um protocolo rígido. A ontologia implícita é de atores coletivos (Igreja, movimento estudantil, sindicato, empresários) que disputam o desenho institucional; o método narrativo é coerente com essa ontologia. | Tradição: sociologia histórica e análise institucional comparada, com conceitos de *mass private sector* (Geiger) e dependência de trajetória. Moldura implícita baseada em atores coletivos e disputa institucional. Coerência com método narrativo. |
+| Principais Referências | Geiger (1986) — *mass private sector*; Schwartzman (1991, 2000) — análise histórica; Teixeira (1969) — reforma universitária; Durham (1994) — movimento estudantil; Brunner (1991) — modernização da América Latina; Oliveira (1984) — “ilhas de competência”. O diálogo é rico na literatura brasileira sobre educação, mas pouco engaja a literatura internacional mais recente sobre governança regulatória e *marketization* do ensino superior (ex.: Brown, Marginson). | Referências centrais: Geiger (1986), Schwartzman (1991, 2000), Teixeira (1969), Durham (1994), Brunner (1991). Diálogo forte com a produção brasileira; comparativamente fraco com a literatura internacional sobre mercantilização e regulação do ensino superior pós‑anos 2000. |
+| Observações | Vulnerabilidades adicionais: a narrativa assume que a demanda por ensino superior é homogênea e que o diploma é valorizado apenas pelo efeito cartorial, sem discutir a diversificação de retornos no mercado de trabalho; a tipologia do setor privado (empresarial *vs.* comunitário/confessional) é dicotômica e não captura *cases* híbridos. A validade externa é maior para países da América Latina com tradições cartoriais e corporativismo docente, mas a conclusão pessimista sobre o governo Lula reflete um viés de conjuntura que deveria ser explicitado como tal. Para o leitor interessado em reformas regulatórias, faltam sugestões concretas sobre *design* de avaliação institucional que concilie autonomia e *accountability*. A omissão de uma análise dos *community colleges* como alternativa factível no contexto federativo brasileiro enfraquece a parte propositiva. | Vulnerabilidades: trata demanda como homogênea; tipologia público‑privado binária; viés de conjuntura ao analisar governo Lula. Faltam propostas de *design* institucional para avaliação. A comparação com *community colleges* não é desenvolvida como alternativa realista no federalismo brasileiro. |
+:::

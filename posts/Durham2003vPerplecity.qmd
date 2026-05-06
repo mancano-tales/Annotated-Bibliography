@@ -1,0 +1,235 @@
+---
+title: "Fichamento: Educação superior, pública e privada"
+subtitle: "Durham (2003)"
+author: "Tales Mançano"
+date: "2026-05-05"
+last-updated: "2026-05-05"
+categories: [Annotated Bibliography, Educação superior, Política educacional, História institucional, Setor público e privado, Brasil]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+---
+
+Durham, E. R. (2003). Educação superior, pública e privada. In *Os desafios da educação no Brasil* [cite:1].
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → Durham2003
+
+```bibtex
+@incollection{Durham2003,
+  author  = {Durham, Eunice R.},
+  title   = {Educação superior, pública e privada},
+  year    = {2003},
+  booktitle = {Os desafios da educação no Brasil},
+  publisher = {Editora],
+  address = {Rio de Janeiro},
+}
+```
+
+:::
+
+Última atualização: 2026-05-05  
+Modelo: Perplexity  
+Prompt Version: v13.0 2026-04-19 | 2026-04-24 "IA Blog Post QMD"  
+Gerado em: 2026-05-05T20:54:00-03:00
+
+## Introdução (pp. 1–4)
+
+### Problema e recorte [§1–§4]
+O texto abre situando a expansão do ensino superior brasileiro como fenômeno relativamente recente e socialmente importante, marcado pela coexistência de sistemas público e privado e por diferenças estruturais entre eles [cite:1]. A autora formula o problema central como a necessidade de compreender a especificidade do caso brasileiro, sobretudo em comparação com países em desenvolvimento e à luz da relação entre universidade, pesquisa e interesse público [cite:1].
+
+A introdução também estabelece a hipótese interpretativa de que o ensino superior privado se desenvolveu como alternativa ao público, mas sem assumir a forma de um sistema plenamente confessional ou universitário no sentido clássico [cite:1]. Em paralelo, a autora já antecipa uma leitura histórica de longa duração, conectando a formação do setor à modernização, à centralização estatal e às relações entre elites, mercado e poder público [cite:1].
+
+::: {.callout-note icon=false}
+O conceito-chave da introdução é que o ensino superior brasileiro deve ser lido como um sistema **dual**, em que a diferenciação entre público e privado não é apenas institucional, mas social, política e regional [cite:1].
+:::
+
+### Origem histórica [§5–§8]
+A autora reconstrói os primórdios do ensino superior a partir da experiência colonial e do período imperial, destacando a ausência de universidades durante a colonização portuguesa e a criação tardia de cursos isolados voltados à formação profissional [cite:1]. Nessa narrativa, a Igreja Católica e, depois, o Estado aparecem como atores centrais, mas em arranjos muito distintos daqueles observados em outros contextos latino-americanos [cite:1].
+
+O argumento histórico sublinha que, até as décadas centrais do século XX, o Brasil não havia consolidado um sistema universitário amplo, mas sim um conjunto fragmentado de faculdades e escolas profissionais [cite:1]. Essa trajetória é apresentada como decisiva para entender por que o ensino superior se expandiu tardiamente e de modo heterogêneo, com forte assimetria entre regiões e entre redes institucionais [cite:1].
+
+### Universidade e modernização [§9–§11]
+A autora enfatiza que a modernização do ensino superior não pode ser explicada apenas por crescimento numérico; ela depende de mudanças na função social da universidade e da pesquisa [cite:1]. A criação da USP e de outras instituições no período varguista é tratada como marco de uma nova orientação, em que pesquisa, formação acadêmica e construção de elites intelectuais ganham centralidade [cite:1].
+
+Ao mesmo tempo, o texto ressalta que essa modernização permaneceu incompleta, porque a expansão universitária não foi acompanhada por um sistema nacional capaz de universalizar o acesso ou de eliminar o caráter seletivo do ensino superior [cite:1]. A introdução, assim, combina uma narrativa de inovação institucional com a persistência da desigualdade estrutural [cite:1].
+
+## Os primórdios (pp. 4–6)
+
+### Colonialidade e império [§12–§15]
+No período colonial, o Brasil não contou com universidades, diferentemente da América Hispânica, onde a Coroa espanhola apoiou cedo a criação de centros de ensino superior [cite:1]. A autora atribui essa diferença à política portuguesa, que teria desestimulado a formação de quadros intelectuais na colônia e concentrado na metrópole a oferta de formação avançada [cite:1].
+
+Com a chegada da corte portuguesa e a abertura dos cursos profissionais, o ensino superior brasileiro começa a se estruturar, mas ainda sob a lógica de escolas isoladas e com forte foco na formação de elites burocráticas e profissionais [cite:1]. O texto sugere que esse modelo inicial deixou uma marca duradoura: a universidade brasileira nasce como espaço de formação profissional antes de se consolidar como espaço de pesquisa [cite:1].
+
+A passagem para o Império e depois para a República amplia o número de escolas, mas não altera de imediato a estrutura fragmentada do sistema [cite:1]. A autora usa essa continuidade para mostrar que a autonomia institucional e a centralização da autoridade estatal nunca deixaram de conviver em tensão [cite:1].
+
+### Primeiras universidades [§16–§18]
+A primeira experiência universitária de peso é situada já no século XX, com a criação de universidades públicas que reuniram faculdades preexistentes, como a Universidade do Rio de Janeiro e a Universidade de São Paulo [cite:1]. O texto destaca que a universidade moderna brasileira não surgiu de uma decisão única, mas de agregações institucionais sucessivas [cite:1].
+
+A USP é tratada como caso exemplar da virada intelectual do período, pois introduziu pesquisa e quadros estrangeiros em uma instituição voltada à formação de elites intelectuais [cite:1]. A autora atribui a essas experiências o papel de inaugurar, no país, a ideia de universidade articulada à produção científica e à formação superior em sentido mais amplo [cite:1].
+
+::: {.callout-important}
+A advertência implícita dessa seção é que o Brasil institucionalizou tardiamente a universidade, e isso condicionou toda a sua trajetória posterior: expansão com heterogeneidade, fragilidade de integração entre ensino e pesquisa e dependência persistente do Estado [cite:1].
+:::
+
+## O movimento de modernização do ensino (pp. 6–8)
+
+### Reformismo varguista [§19–§23]
+A década de 1930 aparece como o momento em que o Estado intensifica a modernização do ensino superior, mas ainda por meio de um sistema fortemente centralizado [cite:1]. A autora descreve a criação do Ministério da Educação, a reorganização de universidades e a consolidação da USP como expressão de um novo modelo, embora sem romper com a seletividade social [cite:1].
+
+O texto também mostra que o projeto modernizador conviviu com disputas políticas e ideológicas, especialmente entre nacionalismo, catolicismo, liberalismo e influências fascistas ou antifascistas [cite:1]. A universidade pública é apresentada como espaço estratégico para essas disputas, ao mesmo tempo em que se institucionalizava a pesquisa como função básica [cite:1].
+
+### Democratização limitada [§24–§27]
+A criação de cursos noturnos, a expansão das faculdades e o surgimento de novas universidades são descritos como tentativas de ampliar o acesso sem alterar a estrutura elitista do sistema [cite:1]. A autora frisa que o aumento da oferta não eliminou a hierarquia social do ensino superior, porque a demanda continuava concentrada em grupos com melhor trajetória escolar [cite:1].
+
+A partir daí, o texto introduz uma distinção decisiva entre setores público e privado. O público é caracterizado como mais próximo do interesse acadêmico e científico; o privado, como mais orientado à absorção da demanda e à obtenção de lucro, ainda que com subdivisões internas entre instituições comunitárias/confessionais e empresariais [cite:1].
+
+### Setor privado e Igreja [§28–§30]
+A autora interpreta o crescimento do setor privado como resposta à expansão da demanda reprimida por ensino superior, mas também como produto de uma estratégia de mercado que se consolidou sobretudo nas décadas posteriores [cite:1]. Cursos noturnos e instituições privadas lucrativas são apresentados como mecanismos de absorção de públicos que trabalhavam durante o dia e buscavam diploma como porta de mobilidade social [cite:1].
+
+Nesse quadro, a Igreja Católica surge como uma força importante, embora distinta do setor puramente empresarial [cite:1]. O setor confessional é descrito como um intermediário entre o público e o privado comercial, com papel relevante na preservação de um ethos acadêmico em parte das instituições [cite:1].
+
+## A Segunda República (pp. 8–12)
+
+### Expansão e dualização [§31–§36]
+No pós-guerra, o ensino superior expande-se continuamente, mas sem alterar seu caráter seletivo e desigual [cite:1]. A autora usa a Tabela 1 para mostrar que o sistema cresce em matrículas, porém o setor privado passa a ganhar peso relativo e, ao final do período, supera o setor público [cite:1].
+
+O crescimento privado é apresentado como uma resposta à demanda social por diplomas e à limitação da oferta pública, especialmente nas regiões mais desenvolvidas economicamente [cite:1]. A desigualdade regional é central: Norte e Nordeste permanecem mais dependentes da rede pública, enquanto Sudeste e Sul concentram a expansão privada [cite:1].
+
+O texto também assinala que a universidade pública, mais aberta à pesquisa e ao prestígio acadêmico, coexistiu com o fortalecimento de um segmento privado lucrativo, pouco comprometido com pesquisa [cite:1]. O resultado foi uma dualização do sistema, na qual qualidade, missão institucional e financiamento se tornaram critérios de diferenciação [cite:1].
+
+### Universidades e regulação [§37–§40]
+A autora observa que a LDB de 1961 e outras medidas legais permitiram a criação de novas instituições, inclusive privadas, mas dentro de um ambiente regulatório ainda centralizado [cite:1]. A expansão da rede federal e estadual fez crescer a presença pública em número absoluto, embora sem desfazer a tendência privatista [cite:1].
+
+A legislação aparece como elemento decisivo para compreender o setor: ela abriu possibilidades, mas também definiu padrões de funcionamento, autorização e supervisão [cite:1]. Ainda assim, o texto sugere que o principal efeito dessas normas foi institucionalizar, mais do que democratizar, a expansão do sistema [cite:1].
+
+### Temas e tabelas
+| Tema | Síntese |
+|---|---|
+| Expansão das matrículas | Crescimento contínuo, com aumento mais forte do setor privado a partir do fim dos anos 1960 [cite:1]. |
+| Regionalização | Concentração no Sudeste e desigualdade persistente nas regiões mais pobres [cite:1]. |
+| Dualização | Público mais próximo da pesquisa; privado mais voltado à absorção da demanda [cite:1]. |
+
+::: {.callout-tip}
+A interpretação mais forte desta parte é que o pós-guerra consolidou um sistema massificado, mas não universalista: expandiu-se o acesso, porém sob forte segmentação social, regional e institucional [cite:1].
+:::
+
+## O regime militar e a reforma (1964-1980) (pp. 12–18)
+
+### Repressão e reconfiguração [§41–§47]
+O golpe de 1964 é descrito como ponto de inflexão que alterou profundamente o quadro político da educação superior [cite:1]. A autora enfatiza a repressão ao movimento estudantil, a intervenção sobre a universidade e a demissão/afastamento de docentes como componentes centrais do novo regime [cite:1].
+
+Ao mesmo tempo, o regime militar promoveu uma ampla reforma do ensino superior, visando reorganizar a universidade, controlar conflitos internos e ampliar a capacidade de gestão do sistema [cite:1]. A autora mostra que a reforma incorporou mecanismos de planejamento, departamentalização, pós-graduação e avaliação, mas sempre sob supervisão autoritária [cite:1].
+
+### Modernização autoritária [§48–§54]
+O texto argumenta que a modernização do sistema universitário ocorreu sob forte repressão, o que é interpretado como uma modernização conservadora [cite:1]. A universidade expandiu pesquisa e pós-graduação, mas perdeu autonomia política e viu crescer a intervenção estatal em seus mecanismos de gestão [cite:1].
+
+A autora destaca que o regime pretendia combinar eficiência administrativa, crescimento de vagas e controle ideológico [cite:1]. Em resposta, o movimento docente e o movimento estudantil reaparecem como forças críticas, ainda que fortemente desarticuladas pela repressão [cite:1].
+
+### Pós-graduação e CNPq/Capes [§55–§60]
+A criação e o fortalecimento da pós-graduação são apresentados como uma das inovações mais importantes do período [cite:1]. Capes e CNPq aparecem como agências fundamentais para a formação de pesquisadores e para a institucionalização da avaliação [cite:1].
+
+O texto indica que a expansão da pós-graduação ocorreu com apoio seletivo, concentrado em instituições mais prestigiadas e em programas mais consolidados [cite:1]. Assim, a qualificação científica avançou, mas em um quadro desigual, territorial e institucionalmente concentrado [cite:1].
+
+## A década de 1980 (pp. 18–24)
+
+### Crise e estagnação [§61–§67]
+A década de 1980 é descrita como período de crise econômica, transição política e estagnação do ensino superior [cite:1]. Apesar da redemocratização, o sistema praticamente parou de crescer, atingindo tanto o setor público quanto o privado [cite:1].
+
+A autora interpreta essa estagnação como resultado da crise econômica, mas também como consequência dos limites estruturais do próprio sistema educacional brasileiro [cite:1]. O ponto decisivo é que o ensino superior permanecia pequeno em relação à população jovem e à demanda potencial [cite:1].
+
+### Demanda reprimida [§68–§72]
+O argumento central passa pela ideia de demanda reprimida: havia uma população mais velha, já inserida no mercado de trabalho, que não havia ingressado no ensino superior na idade esperada [cite:1]. Essa população sustentou a expansão dos cursos noturnos e do setor privado, especialmente a partir das classes médias emergentes [cite:1].
+
+A discriminação por turno é apresentada como dado revelador da lógica segmentada do sistema [cite:1]. O setor privado tornou-se o principal receptor de estudantes noturnos, enquanto as universidades federais resistiam mais à criação desse tipo de curso [cite:1].
+
+### Competição e avaliação [§73–§77]
+Com o esgotamento da demanda reprimida e a ampliação dos egressos do ensino médio, o setor privado passou a competir mais intensamente por alunos [cite:1]. Essa competição incentivou a criação de novos segmentos, com cursos de menor custo e maior apelo mercadológico [cite:1].
+
+A autora nota que a expansão privada deu origem a uma nova arena de avaliação da qualidade, na qual o prestígio institucional e o controle da clientela ganham importância [cite:1]. A regulação pública aparece, nesse contexto, como insuficiente para coibir diferenciações muito grandes entre instituições [cite:1].
+
+### Tabelas e desigualdade
+| Indicador | Leitura da autora |
+|---|---|
+| Matrículas noturnas | Cresceram sobretudo no privado, evidenciando resposta ao mercado de trabalho [cite:1]. |
+| Relação concluintes/vagas | Mostra tensão entre oferta e demanda e mudança gradual no equilíbrio do sistema [cite:1]. |
+| Postura do setor público | Resistência maior ao noturno e maior seletividade [cite:1]. |
+
+::: {.callout-important}
+A tese crítica dessa seção é que a democratização quantitativa não implicou democratização substantiva: o acesso cresceu, mas dentro de um padrão fortemente segmentado e desigual [cite:1].
+:::
+
+## A reforma dos anos 1990 (pp. 24–30)
+
+### Redefinição institucional [§78–§84]
+A autora situa a década de 1990 como momento de reforma profunda do marco regulatório, em especial com a nova LDB de 1996 e a reorganização do papel do Estado [cite:1]. O ensino superior passa a operar sob lógica de regulação, avaliação e diversificação institucional [cite:1].
+
+A expansão do sistema é associada, agora, não apenas ao crescimento da demanda, mas também às novas formas de financiamento, à avaliação institucional e à redefinição do estatuto das universidades e faculdades [cite:1]. O texto ressalta que a reforma não eliminou a heterogeneidade: ao contrário, consolidou diferentes tipos institucionais com funções e prestígios distintos [cite:1].
+
+### O papel da avaliação [§85–§90]
+A avaliação aparece como mecanismo central da nova política educacional [cite:1]. A autora descreve seu uso para medir cursos, programas e instituições, mas observa que o processo foi frequentemente limitado por baixa capacidade do Estado em fazer cumprir critérios de qualidade [cite:1].
+
+Ao mesmo tempo, a autora reconhece que a avaliação contribuiu para o surgimento de um debate sobre qualidade, desempenho e credenciamento [cite:1]. O problema é que tais instrumentos não foram suficientes para reverter a massificação com desigualdade [cite:1].
+
+### Reestruturação privada [§91–§96]
+O setor privado passa a se diversificar, com faculdades isoladas, centros universitários e universidades empresariais [cite:1]. A autora enfatiza que o mercado educacional cresceu, mas sem um equivalente robusto de controle de qualidade [cite:1].
+
+Nesse cenário, a expansão do setor privado é lida ambivalentemente: de um lado, ampliou o acesso; de outro, aprofundou a segmentação entre instituições de prestígio e instituições de menor qualidade [cite:1]. A autora também observa que a universidade pública segue fortemente pressionada por exigências de pesquisa e pós-graduação [cite:1].
+
+## O período recente, 1995-2000 (pp. 30–38)
+
+### Reeleição, LDB e avaliação [§97–§104]
+A autora liga o período recente às reformas dos governos Fernando Henrique Cardoso e ao fortalecimento de instrumentos regulatórios, sobretudo avaliação e credenciamento [cite:1]. A LDB de 1996 e o novo marco legal são apresentados como decisivos para a configuração do sistema contemporâneo [cite:1].
+
+O texto sustenta que a expansão continuou, mas com assimetria entre instituições e forte presença do setor privado [cite:1]. A avaliação passa a funcionar como mecanismo de legitimação e de diferenciação, ainda que sua capacidade de corrigir desigualdades seja limitada [cite:1].
+
+### Crescimento das matrículas [§105–§110]
+A expansão das matrículas no ensino superior privado é descrita como resultado da combinação entre demanda social e ajuste das instituições ao mercado [cite:1]. A autora mostra que o setor privado foi mais ágil em responder à procura e em criar cursos com menor custo de operação [cite:1].
+
+Ao mesmo tempo, a autora enfatiza que essa expansão não representou melhora automática da qualidade [cite:1]. Pelo contrário, a multiplicação de cursos e instituições aumentou a necessidade de mecanismos de avaliação e de acompanhamento [cite:1].
+
+### Segmentação e prestígio [§111–§118]
+A passagem mostra que o ensino superior brasileiro tornou-se mais segmentado, com cursos de elite, cursos de massa e instituições de baixa seletividade [cite:1]. O prestígio acadêmico concentrou-se nas universidades públicas e em poucas privadas de maior tradição [cite:1].
+
+A autora também registra que a ampliação da regulação produziu efeitos paradoxais: aumentou a capacidade de intervenção do Estado, mas não assegurou homogeneidade de qualidade [cite:1]. O resultado foi um sistema mais amplo, porém ainda desigualmente distribuído [cite:1].
+
+### Regulação e autonomia [§119–§124]
+A discussão final dessa parte destaca o paradoxo entre autonomia e controle [cite:1]. O texto afirma que a reforma estimulou a autonomia institucional, mas também submeteu o setor a novos parâmetros legais, avaliações e exigências de credenciamento [cite:1].
+
+A autora interpreta esse movimento como um balanço entre expansão e regulação [cite:1]. A abertura do sistema foi real, mas veio acompanhada de mecanismos de controle mais complexos e de uma crescente hierarquização entre instituições [cite:1].
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+A tese central do texto é que o ensino superior brasileiro se desenvolveu historicamente como um sistema **dual, tardio e desigual**, no qual a expansão do acesso ocorreu sobretudo por meio do setor privado, enquanto a universidade pública permaneceu mais fortemente associada à pesquisa, ao prestígio e à regulação estatal [cite:1]. Trata-se de um argumento predominantemente descritivo e histórico-institucional, com forte dimensão explicativa, que demonstra a formação de um mercado educacional segmentado e deixa como hipótese a extensão em que futuras reformas poderiam superar essa estrutura [cite:1]. Sua contribuição para o debate mais amplo está em mostrar que democratização quantitativa, sem alteração das bases de financiamento, regulação e desigualdade social, não produz necessariamente igualdade de oportunidades [cite:1].
+:::
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v12.0*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | O texto parte de um problema histórico-institucional e reconstrói causalmente a formação do sistema; a pergunta não é formulada de modo explícito, então foi reconstruída a partir da argumentação e das evidências mobilizadas. | **Pergunta reconstruída:** como se formou e se transformou o sistema de ensino superior brasileiro, e por que ele assumiu uma configuração dual entre público e privado? Natureza: descritiva-explicativa, com componentes histórico-institucionais. |
+| Questões Secundárias | As subperguntas são implícitas e derivam da periodização adotada; a principal vulnerabilidade é a dispersão temática, compensada pela forte coerência histórica do encadeamento. | Origem tardia da universidade; papel do Estado e da Igreja; diferença entre público e privado; relação entre expansão, acesso e qualidade; efeitos da regulação e da avaliação. |
+| Puzzle-Type | O puzzle é genuíno porque contrasta o caso brasileiro com a trajetória hispano-americana e com experiências de sistemas mais integrados; é generalizável como problema de formação institucional tardia. | Puzzle explicativo histórico-institucional: por que o Brasil não construiu cedo um sistema universitário amplo e como isso gerou dualização, massificação e desigualdade? |
+| Conclusão / Argumento Central | A autora sustenta uma tese histórica forte, apoiada em dados e periodização; o claim of discovery é a explicação da dualização como resultado de trajetórias institucionais e não mero efeito conjuntural. | O ensino superior brasileiro expandiu-se tardiamente, com crescimento do privado, fortalecimento da pesquisa no público e persistência de desigualdades regionais e sociais. |
+| Métodos | O método é histórico-analítico, com uso de estatísticas descritivas, tabelas de matrículas e leitura de reformas legais e institucionais; a principal limitação é a ausência de estratégia comparativa sistemática ou inferência causal identificável no sentido estrito. | Estudo histórico-institucional baseado em séries estatísticas oficiais, legislação educacional, interpretação de períodos e literatura secundária. |
+| Data Generation Process (DGP) | O DGP é relativamente claro: o fenômeno é o desenvolvimento do sistema, observado por matrículas, instituições e cursos; a unidade de análise varia entre sistema, instituição e matrícula, o que reduz a precisão inferencial. | Fenômeno real: expansão e segmentação do ensino superior. Observação: estatísticas oficiais e legislação. Coleta: censos/sínteses MEC, IBGE, Capes/CNPq. Operacionalização: matrículas, instituições, turnos, cursos, docentes. Análise: comparação temporal e institucional. Inferência: histórica e descritiva. |
+| Achados e Contribuições | Os achados são robustos para descrever tendências e menos fortes para identificar mecanismos em sentido estrito; ainda assim, a contribuição para a literatura sobre educação superior no Brasil é substantiva. | Expansão tardia; crescimento do setor privado; centralidade das universidades públicas na pesquisa; concentração regional; peso dos cursos noturnos; papel da pós-graduação e da avaliação. |
+| Análise Crítica dos Achados | A autora responde bem à pergunta histórica, mas não testaria uma hipótese causal no sentido quantitativo; a maior vulnerabilidade está em tratar correlações estruturais como mecanismos plenamente demonstrados. | O texto é convincente como reconstrução histórica, porém menos forte quando sugere que a demanda reprimida, o mercado e a regulação explicam a expansão sem um desenho comparativo sistemático. Scope conditions: Brasil; séculos XX e início do XXI. |
+| Limitações | A limitação mais clara é metodológica: o texto não explicita critérios de inferência nem delimita contraexemplos; além disso, há pouco tratamento da heterogeneidade interna do setor privado e das experiências regionais mais finas. | **Reconhecidas pelos autores:** escassez de dados para certos segmentos; dificuldade de documentar estatisticamente a importância de setores não lucrativos; limitações da avaliação. <br> **Não reconhecidas ou subestimadas:** falta de comparação sistemática, baixa identificação causal e pouca problematização de subtipos institucionais. |
+| Perspectiva Teórica | A moldura combina história institucional, sociologia da educação e análise de políticas públicas; a coerência entre ontologia e método é alta, pois a autora trata instituições como trajetórias relativamente duráveis. | Perspectiva histórico-institucional e sociológica, com diálogo com tradição sobre modernização, mercado educacional, desigualdade e papel do Estado. |
+| Principais Referências | O texto dialoga com literatura clássica sobre universidade, modernização e mercado educacional, mas o equilíbrio do diálogo é assimétrico: a literatura sobre política educacional pesa mais que a comparativa internacional. | Referências centrais: Geiger, Oliveira, Bourdieu, Fávero, Cunha, Schwartzman, CNPq/Capes e legislação educacional brasileira. |
+| Observações | A principal observação é que a autora oferece uma narrativa muito útil para pesquisa sobre desigualdade educacional, mas o texto poderia ser mais explícito sobre os mecanismos de reprodução social e sobre o papel da avaliação na hierarquização institucional. | Há forte utilidade para estudos sobre expansão do ensino superior, privatização, regulação e desigualdade; o texto é especialmente relevante para quem pesquisa formação de sistemas educacionais e elites acadêmicas. |
+
+:::
+```

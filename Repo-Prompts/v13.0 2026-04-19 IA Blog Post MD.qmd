@@ -1,0 +1,304 @@
+
+<!-- IA Planilhando Texto v13.0 | 2026-04-19 -->
+<!-- Uso: anexe o PDF ao chat e envie este prompt -->
+
+[ETAPA 1 → FICHAMENTO PARÁGRAFO A PARÁGRAFO]
+
+Você receberá o PDF do texto acadêmico em anexo. Sua tarefa é gerar um fichamento acadêmico completo em Quarto (.qmd), em português, com duas partes sequenciais:
+(1) fichamento detalhado parágrafo a parágrafo, iniciando no primeiro parágrafo da introdução, organizado por seção;
+(2) ficha analítica crítica rigorosa.
+Gere o output como um único bloco de código em formato .qmd,
+renderizável em HTML pelo Quarto. Não gere um arquivo separado.
+
+---
+
+### METADADOS DO DOCUMENTO
+
+Use o seguinte YAML front matter. Substitua todos os campos entre
+colchetes pelos valores corretos inferidos do texto — não use os
+valores literais do exemplo abaixo.
+
+As `categories` devem ser inferidas do conteúdo real do texto
+(3–6 categorias disciplinares, metodológicas e temáticas).
+`Annotated Bibliography` é obrigatória e deve sempre ser a primeira.
+Adapte as demais ao texto recebido.
+
+```yaml
+---
+title: "Fichamento: [TÍTULO DO CAPÍTULO/ARTIGO]"
+subtitle: "[AUTOR(ES) (ANO)]"
+author: "Tales Mançano"
+date: "[DATA DE HOJE NO FORMATO YYYY-MM-DD]"
+last-updated: "[DATA DE HOJE NO FORMATO YYYY-MM-DD]"
+categories: [Annotated Bibliography, CATEGORIA-2, CATEGORIA-3, CATEGORIA-4]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+---
+```
+
+> Nota sobre `last-updated`: na geração inicial, `last-updated`
+> e `date` terão o mesmo valor. Atualize `last-updated` manualmente
+> em revisões futuras.
+
+---
+
+### BLOCO INICIAL OBRIGATÓRIO
+
+Imediatamente após o YAML, insira nesta ordem exata:
+
+1. Citação em APA7 Author-Date com base nas informações do texto.
+
+2. Entrada BibTeX em callout colapsável com as entradas correspondentes ao tipo de texto:
+
+A citekey segue: `authEtal2(author, sep="-") + year`
+→ Exemplos: `Souza2025`, `Souza-Silva2025`, `Souza-etal2025`
+
+```
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → [CitationKey]
+
+```bibtex
+@tipo{CitationKey,
+  author    = {Sobrenome, Nome and Sobrenome, Nome},
+  title     = {Título completo do trabalho},
+  year      = {AAAA},
+  journal   = {Nome do periódico},
+  volume    = {X},
+  number    = {X},
+  pages     = {XX--XX},
+  doi       = {10.XXXX/XXXXX},
+}
+```
+
+:::
+```
+
+> ⚠️ O bloco ` ```bibtex ` deve ser fechado com ` ``` ` antes do `:::`.
+> Nunca coloque BibTeX fora deste callout.
+
+3. Linha de modelo e timestamp:
+
+```
+Última atualização: [DATA DE HOJE YYYY-MM-DD]
+Modelo: [NOME E VERSÃO EXATA DO LLM QUE EXECUTA ESTE PROMPT]
+Prompt Version: v13.0 2026-04-19 | 2026-04-24 "IA Blog Post QMD"
+Gerado em: [TIMESTAMP ISO 8601 COM FUSO HORÁRIO]
+```
+
+---
+
+### ESTRUTURA OBRIGATÓRIA DO FICHAMENTO
+
+Após o bloco inicial, o documento deve conter, nesta ordem:
+
+1. Uma seção `##` por grande bloco do texto original, com intervalo de
+   páginas entre parênteses → ex.: `## Introdução (pp. 1–4)`
+2. Subseções `###` para agrupamentos temáticos, com parágrafos cobertos
+   entre colchetes no subtítulo → ex.: `### Teoria e contradição empírica [§1–§3]`
+3. Prosa fluida integrando o conteúdo parágrafo a parágrafo
+4. `## Argumento Sintético` → seção final numerada com callout
+5. `## Ficha Analítica Crítica {.unnumbered}` → ver Etapa 2
+
+Numeração de parágrafos: numere os parágrafos do texto original
+sequencialmente do início ao fim (§1, §2, §3…), atravessando seções.
+Cada `###` deve indicar no subtítulo quais parágrafos cobre.
+Nenhum parágrafo pode ficar sem subseção correspondente.
+
+> Caso de ambiguidade: se o PDF tiver colunas múltiplas, notas de
+> rodapé extensas ou figuras intercaladas que dificultem identificar o
+> limite entre parágrafos, adote a quebra lógica de ideia como critério
+> e indique com `[§N – delimitação inferida]` no subtítulo da subseção.
+
+---
+
+### REGRAS DE CONTEÚDO
+
+Para cada seção/subseção:
+
+- Integre o conteúdo sintetizando parágrafo a parágrafo
+- Expanda onde o PDF contiver detalhes empíricos, dados, exemplos ou
+  citações que a síntese resumiria brevemente
+- Mantenha toda referência a autores secundários presentes no original
+- Reproduza tabelas relevantes do texto em formato Markdown
+- Inclua exemplos numéricos ou ilustrativos quando o original os contiver
+- Cubra todos os parágrafos; evite colapsar parágrafos em uma frase só
+
+---
+
+### FORMATAÇÃO QUARTO OBRIGATÓRIA
+
+- `:::  {.callout-note icon=false}` → conceitos-chave ou teses centrais
+- `:::  {.callout-important}` → argumentos normativos ou advertências críticas
+- `:::  {.callout-tip}` → implicações ou sínteses interpretativas
+- Blocos de citação (`>`) → para o puzzle central ou questão de pesquisa
+- Negrito → conceitos técnicos na primeira ocorrência
+- *Itálico* → ênfase e termos estrangeiros
+- Tabelas Markdown → comparações entre mecanismos, fontes ou tipologias
+- Listas → apenas quando o original listar itens discretos explicitamente;
+  caso contrário, prosa corrida
+
+> Consistência de callouts: use `icon=false` em todos os
+> `.callout-note` do fichamento. Reserve callouts sem `icon=false` para
+> a Ficha Analítica Crítica, onde o ícone padrão se aplica.
+
+---
+
+### REGRAS DE ESTILO
+
+- Português acadêmico fluente → não tradução literal
+- Tom analítico-descritivo: descreva o que os autores argumentam
+  (toda avaliação crítica vai exclusivamente para a Ficha Analítica)
+- Cada `###` deve ter no mínimo 2 parágrafos de prosa antes de
+  tabelas ou listas
+- Preserve a estrutura argumentativa do original → não reordene seções
+- Não numere subseções manualmente
+
+---
+
+### O QUE NÃO FAZER
+
+- Não omitir a indicação de parágrafos (`[§N–§M]`) nos subtítulos `###`
+- Não colapsar seções em frases únicas ou bullets
+- Não inventar dados, percentuais ou referências
+- Não usar linguagem de resumo executivo nas seções de fichamento
+- Não colocar BibTeX fora do callout inicial
+- Não adicionar avaliação crítica fora da Ficha Analítica
+
+---
+
+### ARGUMENTO SINTÉTICO
+
+A seção `## Argumento Sintético` deve conter um callout
+`.callout-note icon=false` com, no mínimo:
+
+- A tese central do texto em uma frase precisa
+- A natureza do argumento (causal, descritivo, normativo, conceitual)
+- O que o texto demonstra vs. o que fica como hipótese ou agenda
+- A contribuição para o debate mais amplo em que o texto se insere
+
+---
+
+[ETAPA 2 → FICHA ANALÍTICA CRÍTICA]
+
+Após o Argumento Sintético, adicione o cabeçalho e o callout
+introdutório abaixo:
+
+```
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v12.0*.
+:::
+```
+
+Em seguida, gere um callout colapsável contendo **uma tabela em Markdown**
+com todas as dimensões analíticas. Não use JSON, HTML ou CSS.
+
+```
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | [Raciocínio analítico: premissas relevantes, interpretação alternativa considerada, ponto mais vulnerável identificado.] | [Pergunta central; natureza (descritiva/explicativa/normativa/avaliativa); se não explicitada, reconstruir e anotar "Pergunta reconstruída".] |
+| Questões Secundárias | [...] | [Perguntas secundárias, se houver; relação com a pergunta central.] |
+| Puzzle-Type | [...] | [Classificação (gap descritivo, puzzle explicativo, debate normativo, avaliação de política, mudança institucional etc.); avaliação se o puzzle é genuíno e generalizável além do caso.] |
+| Conclusão / Argumento Central | [...] | [Síntese da tese; natureza do argumento; claim of discovery e o que efetivamente o sustenta.] |
+| Métodos | [...] | [Tipo de estudo, fontes, técnicas; para teóricos, estratégia argumentativa; limitações de identificação ou mensuração relevantes.] |
+| Data Generation Process (DGP) | [...] | [Fenômeno real → observação → coleta → operacionalização → análise → tipo de inferência; unidade de análise; nível de agregação.] |
+| Achados e Contribuições | [...] | [Resultados empíricos e contribuições teórico-metodológicas; distinguir o que o design identifica com força do que é especulativo.] |
+| Análise Crítica dos Achados | [...] | [O autor responde adequadamente à pergunta? Pontos mais e menos vulneráveis; ameaças à identificação (quant.) ou rastreamento de mecanismo (qual.); adequação do DGP ao claim; generalizabilidade; scope conditions declaradas e omitidas.] |
+| Limitações | [...] | **Reconhecidas pelos autores:** [texto] <br> **Não reconhecidas ou subestimadas:** [texto] |
+| Perspectiva Teórica | [...] | [Tradição(ões) teórica(s); adequação da moldura ao tipo de pergunta e evidência; coerência entre ontologia implícita e método.] |
+| Principais Referências | [...] | [Autores/obras centrais; sinalizar diálogo pobre ou desequilibrado com a literatura.] |
+| Observações | [...] | [Vulnerabilidades adicionais; lacunas teóricas; validade externa; relação com pesquisa do leitor; omissões e suas implicações para o argumento.] |
+
+:::
+```
+
+**Instruções para a tabela:**
+
+- A tabela deve ter **exatamente** as 12 linhas de dimensões, na ordem acima.
+- Coluna `Raciocínio analítico`: preencha com o raciocínio conforme especificado (premissas, interpretação alternativa, ponto vulnerável).
+- Coluna `Conteúdo`: siga as instruções da tabela de referência (original). Para a dimensão `Limitações`, use o formato com duas linhas internas (ex.: `**Reconhecidas:** ... <br> **Não reconhecidas:** ...`).
+- Utilize a sintaxe Markdown padrão para tabelas (separadores `|` e `|---|` para o cabeçalho). Não use células mescladas ou HTML.
+- Fundamente em evidências textuais; não invente dados. Se indisponível, escreva `"Não informado"`.
+
+---
+
+### POSTURA ANALÍTICA
+
+(Versão idêntica à original, sem alterações)
+
+Você é um parecerista sênior de periódico internacional... [mantenha o texto original da postura analítica]
+
+---
+
+### DIMENSÕES DA FICHA (nesta ordem exata)
+
+A tabela de referência abaixo permanece igual à original (já está em Markdown). Ela serve como guia para o conteúdo esperado em cada linha da tabela de saída.
+
+| `"dimension"` | Instrução para `"content"` |
+|:--------------|:---------------------------|
+| Questão de Pesquisa | Pergunta central; natureza (descritiva/explicativa/normativa/avaliativa); se não explicitada, reconstruir e anotar "Pergunta reconstruída" |
+| Questões Secundárias | Listar perguntas secundárias, se houver; indicar relação com a pergunta central |
+| Puzzle-Type | Classificar (gap descritivo, puzzle explicativo, debate normativo, avaliação de política, mudança institucional etc.); avaliar se o puzzle é genuíno e generalizável além do caso |
+| Conclusão / Argumento Central | Sintetizar a tese; distinguir natureza do argumento; indicar o *claim of discovery* e o que efetivamente sustenta esse claim |
+| Métodos | Tipo de estudo, fontes, técnicas; para teóricos, descrever estratégia argumentativa; limitações de identificação ou mensuração relevantes |
+| Data Generation Process (DGP) | Fenômeno real → observação → coleta → operacionalização → análise → tipo de inferência; unidade de análise; nível de agregação |
+| Achados e Contribuições | Resultados empíricos e contribuições teórico-metodológicas; distinguir o que o design identifica com força do que é especulativo |
+| Análise Crítica dos Achados | O autor responde adequadamente à pergunta? Pontos mais e menos vulneráveis; ameaças à identificação (quant.) ou rastreamento de mecanismo (qual.); adequação do DGP ao *claim*; generalizabilidade; *scope conditions* declaradas e omitidas |
+| Limitações | (a) reconhecidas pelos autores; (b) não reconhecidas ou subestimadas |
+| Perspectiva Teórica | Tradição(ões) teórica(s); adequação da moldura ao tipo de pergunta e evidência; coerência entre ontologia implícita e método |
+| Principais Referências | Autores/obras centrais; sinalizar diálogo pobre ou desequilibrado com a literatura |
+| Observações | Vulnerabilidades adicionais; lacunas teóricas; validade externa; relação com pesquisa do leitor; omissões e suas implicações para o argumento |
+
+---
+
+### REGRAS GERAIS DA FICHA
+
+- Linguagem acadêmica concisa em português.
+- Se dado indisponível, escrever `"Não informado"` no campo Conteúdo.
+- Julgamentos ancorados no texto, em tom analítico não agressivo.
+- Para textos teóricos/normativos: verificar coerência lógica das premissas às conclusões; não cobrar evidências empíricas ausentes por design.
+- A tabela deve ser válida em Markdown: linhas consistentes, sem quebra de células mal formatada.
+
+---
+
+[ETAPA 3 → CHECKLIST DE VERIFICAÇÃO FINAL]
+
+Antes de finalizar o output, revise internamente cada item abaixo.
+Corrija qualquer falha encontrada antes de exibir o resultado.
+
+Estrutura e ordem:
+- [ ] O output começa com `---` (YAML) e nenhum texto o precede
+- [ ] O YAML não contém nenhum campo com valor de exemplo literal
+- [ ] O bloco inicial aparece após o YAML e antes do primeiro `##`
+- [ ] O output contém, nesta ordem: YAML → bloco inicial (referência APA7 + callout BibTeX + timestamp) → seções `##`/`###` do fichamento → Argumento Sintético → Ficha Analítica Crítica
+
+Parágrafos e subseções:
+- [ ] Todos os parágrafos têm subseção `###` correspondente com `[§N–§M]`
+- [ ] Nenhum parágrafo foi omitido ou colapsado em frase única
+
+Sintaxe Quarto:
+- [ ] Todos os callouts estão fechados com `:::`
+- [ ] O bloco ` ```bibtex ` está fechado com ` ``` ` antes do `:::` do callout BibTeX
+- [ ] A tabela Markdown da Ficha Analítica está dentro do callout colapsável e usa sintaxe Markdown válida
+- [ ] Nenhuma subseção foi numerada manualmente
+
+**Tabela Markdown da Ficha:**
+- [ ] A tabela contém exatamente 12 linhas de conteúdo (mais o cabeçalho)
+- [ ] As dimensões estão na ordem especificada
+- [ ] Todas as células da coluna `Raciocínio analítico` foram preenchidas com raciocínio real, não com o texto placeholder
+- [ ] A dimensão `Limitações` tem o conteúdo formatado com duas sublinhas (`**Reconhecidas:** ... <br> **Não reconhecidas:** ...`)
+
+Conteúdo:
+- [ ] Nenhum dado, percentual ou referência foi inventado
+- [ ] Nenhuma avaliação crítica aparece fora da Ficha Analítica
+
+Encerramento:
+- [ ] O output termina com `:::` fechando o callout colapsável da Ficha

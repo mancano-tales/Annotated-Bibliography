@@ -1,0 +1,284 @@
+
+<!-- IA Spreadsheeting Text v13.1 | 2026-04-19 -->
+<!-- Usage: Attach the PDF to the chat and send this prompt -->
+
+[STAGE 1 → PARAGRAPH-BY-PARAGRAPH READING NOTES]
+
+You will receive the PDF of the academic text as an attachment. Your task is to generate a complete academic reading note in Quarto (.qmd) format, **in English**, with two sequential parts:
+(1) Detailed paragraph-by-paragraph reading notes, organized by section;
+(2) Rigorous critical analytical sheet.
+
+Generate the output as a single code block in .qmd format, renderable as HTML by Quarto. Do not generate a separate file.
+
+---
+
+### DOCUMENT METADATA
+
+Use the following YAML front matter. Replace all fields in brackets with the correct values inferred from the text—do not use the literal example values below.
+
+`categories` should be inferred from the actual content of the text (3–6 disciplinary, methodological, and thematic categories). `Annotated Bibliography` is mandatory and must always be first. Adapt the others to the received text.
+
+```yaml
+---
+title: "Reading Notes: [TITLE OF CHAPTER/ARTICLE]"
+subtitle: "[AUTHOR(S) (YEAR)]"
+author: "Tales Mançano"
+date: "[TODAY'S DATE IN YYYY-MM-DD FORMAT]"
+last-updated: "[TODAY'S DATE IN YYYY-MM-DD FORMAT]"
+categories: [Annotated Bibliography, CATEGORY-2, CATEGORY-3, CATEGORY-4]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+---
+```
+
+> Note on `last-updated`: In the initial generation, `last-updated` and `date` will have the same value. Update `last-updated` manually in future revisions.
+
+---
+
+### MANDATORY INITIAL BLOCK
+
+Immediately after the YAML, before any numbered section, insert the following elements in this exact order:
+
+1. Full reference in blockquote format:
+
+```
+> Lastname, A. A., & Lastname, B. B. (year). *Title of work*. 
+> Publisher/Journal. [https://doi.org/xxxxx](https://doi.org/xxxxx)
+```
+
+Format in APA 7th Author-Date based on information from the text.
+
+2. BibTeX entry in a collapsible callout:
+
+The citekey follows: `authEtal2(author, sep="-") + year`
+→ Examples: `Smith2025`, `Smith-Jones2025`, `Smith-etal2025`
+
+```
+::: {.callout-note collapse="true" icon=false}
+## BibTeX Entry → [CitationKey]
+
+```bibtex
+@type{CitationKey,
+  author    = {Lastname, Firstname and Lastname, Firstname},
+  title     = {Full title of the work},
+  year      = {YYYY},
+  journal   = {Journal Name},
+  volume    = {X},
+  number    = {X},
+  pages     = {XX--XX},
+  doi       = {10.XXXX/XXXXX},
+}
+```
+
+:::
+```
+
+> ⚠️ The ` ```bibtex ` block must be closed with ` ``` ` before the `:::`.
+> Never place BibTeX outside this callout.
+
+3. Model and timestamp line:
+
+```
+Last updated: [TODAY'S DATE YYYY-MM-DD]
+Model: [EXACT NAME AND VERSION OF LLM EXECUTING THIS PROMPT]
+Generated at: [ISO 8601 TIMESTAMP WITH TIMEZONE, e.g., 2026-04-19T13:00:00-03:00]
+```
+
+---
+
+### MANDATORY STRUCTURE OF READING NOTES
+
+After the initial block, the document must contain, in this order:
+
+1. One `##` section per major block of the original text, with page range in parentheses → e.g., `## Introduction (pp. 1–4)`
+2. `###` subsections for thematic groupings, with covered paragraphs in brackets in the heading → e.g., `### Theory and empirical contradiction [§1–§3]`
+3. Flowing prose integrating content paragraph by paragraph
+4. `## Synthetic Argument` → final numbered section with a callout
+5. `## Critical Analytical Sheet {.unnumbered}` → see Stage 2
+
+Paragraph numbering: Number the paragraphs of the original text sequentially from start to finish (§1, §2, §3…), across sections. Each `###` must indicate in its heading which paragraphs it covers. No paragraph may remain without a corresponding subsection.
+
+> Ambiguity case: If the PDF has multiple columns, extensive footnotes, or interspersed figures that make it difficult to identify paragraph boundaries, adopt logical idea breaks as the criterion and indicate with `[§N – inferred delimitation]` in the subsection heading.
+
+---
+
+### CONTENT RULES
+
+For each section/subsection:
+
+- Integrate content by synthesizing paragraph by paragraph
+- Expand where the PDF contains empirical details, data, examples, or citations that a brief summary would omit
+- Preserve all references to secondary authors present in the original
+- Reproduce relevant tables from the text in Markdown format
+- Include numerical or illustrative examples when the original contains them
+- Cover all paragraphs; avoid collapsing paragraphs into a single sentence
+
+---
+
+### MANDATORY QUARTO FORMATTING
+
+- `::: {.callout-note icon=false}` → key concepts or central theses
+- `::: {.callout-important}` → normative arguments or critical warnings
+- `::: {.callout-tip}` → implications or interpretive syntheses
+- Blockquotes (`>`) → for the central puzzle or research question
+- **Bold** → technical concepts on first occurrence
+- *Italics* → emphasis and foreign terms
+- Markdown tables → comparisons between mechanisms, sources, or typologies
+- Lists → only when the original explicitly lists discrete items; otherwise, use flowing prose
+
+> Callout consistency: Use `icon=false` in all `.callout-note` instances within the reading notes. Reserve callouts without `icon=false` for the Critical Analytical Sheet, where the default icon applies.
+
+---
+
+### STYLE RULES
+
+- Fluent academic English → not literal translation
+- Analytical-descriptive tone: Describe what the authors argue (all critical evaluation goes exclusively in the Analytical Sheet)
+- Each `###` must have at least 2 paragraphs of prose before tables or lists
+- Preserve the argumentative structure of the original → do not reorder sections
+- Do not number subsections manually
+
+---
+
+### WHAT NOT TO DO
+
+- Do not omit the paragraph indication (`[§N–§M]`) in `###` headings
+- Do not collapse sections into single sentences or bullets
+- Do not invent data, percentages, or references
+- Do not use executive summary language in the reading notes sections
+- Do not place BibTeX outside the initial callout
+- Do not add critical evaluation outside the Analytical Sheet
+
+---
+
+### SYNTHETIC ARGUMENT
+
+The `## Synthetic Argument` section must contain a `.callout-note icon=false` callout with, at minimum:
+
+- The central thesis of the text in one precise sentence
+- The nature of the argument (causal, descriptive, normative, conceptual)
+- What the text demonstrates vs. what remains as hypothesis or agenda
+- The contribution to the broader debate in which the text is situated
+
+---
+
+[STAGE 2 → CRITICAL ANALYTICAL SHEET]
+
+After the Synthetic Argument, add the following header and introductory callout:
+
+```
+## Critical Analytical Sheet {.unnumbered}
+
+::: {.callout-note}
+This section follows the *IA Spreadsheeting Texts v12.0* format. The analysis is adversarial without being destructive: it identifies real vulnerabilities in the argument and acknowledges genuine contributions with equal precision. The analytical reasoning underlying each dimension is recorded in the `Analytical Reasoning` field of the table.
+:::
+```
+
+Then, generate a collapsible callout containing **a Markdown table** with all analytical dimensions. Do not use JSON, HTML, or CSS.
+
+```
+::: {.callout-note collapse="true" icon=false}
+## Analytical Sheet — Markdown Table
+
+| Dimension | Analytical Reasoning | Content |
+|:----------|:---------------------|:--------|
+| Research Question | [Analytical reasoning: relevant premises, alternative interpretation considered, most vulnerable point identified.] | [Central question; nature (descriptive/explanatory/normative/evaluative); if not explicit, reconstruct and note "Reconstructed question."] |
+| Secondary Questions | [...] | [Secondary questions, if any; relationship to the central question.] |
+| Puzzle-Type | [...] | [Classification (descriptive gap, explanatory puzzle, normative debate, policy evaluation, institutional change, etc.); assessment of whether the puzzle is genuine and generalizable beyond the case.] |
+| Conclusion / Central Argument | [...] | [Synthesis of thesis; nature of argument; claim of discovery and what actually supports it.] |
+| Methods | [...] | [Type of study, sources, techniques; for theoretical works, argumentative strategy; relevant identification or measurement limitations.] |
+| Data Generation Process (DGP) | [...] | [Real phenomenon → observation → collection → operationalization → analysis → type of inference; unit of analysis; level of aggregation.] |
+| Findings and Contributions | [...] | [Empirical results and theoretical-methodological contributions; distinguish what the design identifies with strength from what is speculative.] |
+| Critical Analysis of Findings | [...] | [Does the author adequately answer the question? Strongest and weakest points; threats to identification (quant.) or mechanism tracing (qual.); adequacy of DGP to the claim; generalizability; declared and omitted scope conditions.] |
+| Limitations | [...] | **Acknowledged by authors:** [text] <br> **Unacknowledged or underestimated:** [text] |
+| Theoretical Perspective | [...] | [Theoretical tradition(s); adequacy of framework to question type and evidence; coherence between implicit ontology and method.] |
+| Main References | [...] | [Central authors/works; signal poor or unbalanced engagement with literature.] |
+| Observations | [...] | [Additional vulnerabilities; theoretical gaps; external validity; relationship to reader's research; omissions and their implications for the argument.] |
+
+:::
+```
+
+**Instructions for the table:**
+
+- The table must have **exactly** the 12 dimension rows, in the order above.
+- `Analytical Reasoning` column: Fill in with reasoning as specified (premises, alternative interpretation, vulnerable point).
+- `Content` column: Follow the instructions from the reference table (original). For the `Limitations` dimension, use the format with two internal lines (e.g., `**Acknowledged:** ... <br> **Unacknowledged:** ...`).
+- Use standard Markdown table syntax (separators `|` and `|---|` for header). Do not use merged cells or HTML.
+- Base on textual evidence; do not invent data. If unavailable, write `"Not provided"`.
+
+---
+
+### ANALYTICAL STANCE
+
+(Versão idêntica à original, sem alterações)  
+*[The original Portuguese text here would be translated as well; it describes the role of a senior peer reviewer with a skeptical but fair attitude.]*
+
+---
+
+### SHEET DIMENSIONS (in this exact order)
+
+The reference table below remains the same as the original (already in Markdown). It serves as a guide for the expected content in each row of the output table.
+
+| `"dimension"` | Instruction for `"content"` |
+|:--------------|:---------------------------|
+| Research Question | Central question; nature (descriptive/explanatory/normative/evaluative); if not explicit, reconstruct and note "Reconstructed question" |
+| Secondary Questions | List secondary questions, if any; indicate relationship to central question |
+| Puzzle-Type | Classify (descriptive gap, explanatory puzzle, normative debate, policy evaluation, institutional change, etc.); assess whether puzzle is genuine and generalizable beyond case |
+| Conclusion / Central Argument | Synthesize thesis; distinguish nature of argument; indicate *claim of discovery* and what actually supports that claim |
+| Methods | Type of study, sources, techniques; for theorists, describe argumentative strategy; relevant identification or measurement limitations |
+| Data Generation Process (DGP) | Real phenomenon → observation → collection → operationalization → analysis → type of inference; unit of analysis; level of aggregation |
+| Findings and Contributions | Empirical results and theoretical-methodological contributions; distinguish what design identifies strongly from what is speculative |
+| Critical Analysis of Findings | Does author adequately answer the question? Strongest and weakest points; threats to identification (quant.) or mechanism tracing (qual.); adequacy of DGP to claim; generalizability; declared and omitted scope conditions |
+| Limitations | (a) acknowledged by authors; (b) unacknowledged or underestimated |
+| Theoretical Perspective | Theoretical tradition(s); adequacy of framework to question type and evidence; coherence between implicit ontology and method |
+| Main References | Central authors/works; signal poor or unbalanced dialogue with literature |
+| Observations | Additional vulnerabilities; theoretical gaps; external validity; relation to reader's research; omissions and their implications for argument |
+
+---
+
+### GENERAL SHEET RULES
+
+- Concise academic language in English.
+- If data unavailable, write `"Not provided"` in Content field.
+- Judgments anchored in text, in analytical non-aggressive tone.
+- For theoretical/normative texts: verify logical coherence from premises to conclusions; do not demand empirical evidence absent by design.
+- The table must be valid Markdown: consistent rows, no malformed cell breaks.
+
+---
+
+[STAGE 3 → FINAL VERIFICATION CHECKLIST]
+
+Before finalizing output, internally review each item below. Correct any failure found before displaying the result.
+
+Structure and order:
+- [ ] Output begins with `---` (YAML) and no text precedes it
+- [ ] YAML contains no field with literal example value
+- [ ] Initial block appears after YAML and before first `##`
+- [ ] Output contains, in this order: YAML → initial block (APA7 reference + BibTeX callout + timestamp) → `##`/`###` sections of reading notes → Synthetic Argument → Critical Analytical Sheet
+
+Paragraphs and subsections:
+- [ ] All paragraphs have corresponding `###` subsection with `[§N–§M]`
+- [ ] No paragraph omitted or collapsed into single sentence
+
+Quarto syntax:
+- [ ] All callouts closed with `:::`
+- [ ] The ` ```bibtex ` block closed with ` ``` ` before `:::` of BibTeX callout
+- [ ] Markdown table in Analytical Sheet inside collapsible callout and uses valid Markdown syntax
+- [ ] No subsection manually numbered
+
+**Analytical Sheet Markdown Table:**
+- [ ] Table contains exactly 12 content rows (plus header)
+- [ ] Dimensions are in specified order
+- [ ] All cells in `Analytical Reasoning` column filled with actual reasoning, not placeholder text
+- [ ] `Limitations` dimension content formatted with two sublines (`**Acknowledged:** ... <br> **Unacknowledged:** ...`)
+
+Content:
+- [ ] No data, percentages, or references invented
+- [ ] No critical evaluation appears outside Analytical Sheet
+
+Closure:
+- [ ] Output ends with `:::` closing the collapsible callout of the Analytical Sheet
