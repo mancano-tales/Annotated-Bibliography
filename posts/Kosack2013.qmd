@@ -4,7 +4,7 @@ subtitle: "Stephen Kosack (2013)"
 author: "Tales Mançano"
 date: "2026-04-28"
 last-updated: "2026-04-28"
-categories: [Annotated Bibliography, Ciência Política Comparada, Economia Política, Política Educacional, Desenvolvimento, Metodologia de Estudos de Caso]
+categories: [Annotated Bibliography, Comparative Politics, Political Economy, Education Policy/Politics, Development Economics, Case Study]
 format:
   html:
     toc: true

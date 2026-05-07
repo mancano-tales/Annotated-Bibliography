@@ -4,7 +4,7 @@ subtitle: "Costa Ribeiro (2023)"
 author: "Tales Mançano"
 date: "2026-04-26"
 last-updated: "2026-04-26"
-categories: [Annotated Bibliography, Mobilidade Social, Estratificação Social, Educação e Desigualdade, Brasil, Métodos Quantitativos, Economia Política Comparada]
+categories: [Annotated Bibliography, Social Mobility, Social Stratification, Educational Inequality, Brazil, Quantitative Methods, Political Economy]
 format:
   html:
     toc: true

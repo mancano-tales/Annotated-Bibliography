@@ -1,10 +1,10 @@
 ---
-title: "Fichamento: Educação superior, pública e privada"
+title: "Fichamento: Higher Education, pública e privada"
 subtitle: "Durham (2003)"
 author: "Tales Mançano"
 date: "2026-05-05"
 last-updated: "2026-05-05"
-categories: [Annotated Bibliography, Educação superior, Política educacional, História institucional, Setor público e privado, Brasil]
+categories: [Annotated Bibliography, Higher Education, Education Policy/Politics, Historical Institutionalism, Private Education, Brazil]
 format:
   html:
     toc: true

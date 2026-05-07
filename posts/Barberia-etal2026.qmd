@@ -1,10 +1,10 @@
 ---
-title: "Fichamento: Federative Coordination and Inequality of Provision: Brazil's Education Policy Response to the COVID-19 Pandemic"
+title: "Fichamento: Federative Coordination and Inequality of Provision: Brazil's Education Policy/Politics Response to the COVID-19 Pandemic"
 subtitle: "Barberia, Cantarelli, Schmalz e Peres (2026)"
 author: "Tales Mançano"
 date: "2026-04-24"
 last-updated: "2026-04-24"
-categories: [Annotated Bibliography, Federalismo, Política Educacional, Descentralização, Desigualdade Regional, Pandemia COVID-19, Economia Política Comparada]
+categories: [Annotated Bibliography, Federalism, Education Policy/Politics, Decentralization, Inequality Regional, COVID-19 Pandemic, Political Economy]
 format:
   html:
     toc: true

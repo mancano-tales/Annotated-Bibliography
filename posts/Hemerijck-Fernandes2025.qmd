@@ -4,7 +4,7 @@ subtitle: "Hemerijck, A. & Fernandes, D. (2025)"
 author: "Tales Mançano"
 date: "2026-04-21"
 last-updated: "2026-04-21"
-categories: [Annotated Bibliography, Economia Política Comparada, Política Social, Investimento Social, Estado de Bem-Estar Social, Métodos Quantitativos]
+categories: [Annotated Bibliography, Political Economy, Welfare State/Social Policy, Social Investment, Quantitative Methods]
 format:
   html:
     toc: true

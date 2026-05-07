@@ -1,10 +1,10 @@
 ---
-title: "Fichamento: Introduction — Understanding Past and Present Social Policy Development in East Central Europe"
+title: "Fichamento: Introduction — Understanding Past and Present Welfare State/Social Policy Development in East Central Europe"
 subtitle: "Inglot (2008)"
 author: "Tales Mançano"
 date: "2026-04-23"
 last-updated: "2026-04-23"
-categories: [Annotated Bibliography, Política Comparada, Welfare State, Institucionalismo Histórico, Europa Central e Oriental, Pós-comunismo]
+categories: [Annotated Bibliography, Comparative Politics, Welfare State/Social Policy, Historical Institutionalism, Central and Eastern Europe, Post-communism]
 format:
   html:
     toc: true

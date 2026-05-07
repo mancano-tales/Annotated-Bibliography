@@ -4,7 +4,7 @@ subtitle: "Fernandes et al. (2024)"
 author: "Tales Mançano"
 date: "2026-05-03"
 last-updated: "2026-05-03"
-categories: [Annotated Bibliography, Geografia, Extrativismo energético, Acaparamiento de tierras, Conflitos territoriais]
+categories: [Annotated Bibliography, Geospatial Analysis, Energy Extraction, Land Conflicts]
 format:
   html:
     toc: true

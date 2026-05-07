@@ -1,0 +1,266 @@
+---
+title: "Fichamento: Modelo de expansão da educação superior no Brasil: predomínio privado/mercantil e desafios para a regulação e a formação universitária"
+subtitle: "Sguissardi (2008)"
+author: "Tales Mançano"
+date: "2026-05-07"
+last-updated: "2026-05-07"
+categories: [Annotated Bibliography, Brazil, Sociology of Education, Tertiary Education, Private Education, Education Policy/Politics]
+tags: [tertiary-education, quantitative-methods]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+---
+
+Sguissardi, V. (2008). Modelo de expansão da educação superior no Brasil: predomínio privado/mercantil e desafios para a regulação e a formação universitária. *Educação & Sociedade*, *29*(105), 991–1022.
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → Sguissardi2008
+
+```bibtex
+@article{Sguissardi2008,
+  author  = {Sguissardi, Valdemar},
+  title   = {Modelo de expansão da educação superior no Brasil: predomínio privado/mercantil e desafios para a regulação e a formação universitária},
+  year    = {2008},
+  journal = {Educação \& Sociedade},
+  volume  = {29},
+  number  = {105},
+  pages   = {991--1022},
+}
+```
+
+:::
+
+Última atualização: 2026-05-07
+Modelo: Perplexity, powered by Claude Sonnet 4.6 Thinking
+Prompt Version: v13.0 2026-04-19 | 2026-04-24 "IA Blog Post QMD"
+Gerado em: 2026-05-07T13:01:00-03:00
+
+---
+
+## Introdução (pp. 991–993)
+
+### Contextualização e questão central [§1–§3]
+
+O artigo parte de uma pergunta provocativa e deliberadamente conectiva: qual a relação entre a crise financeira mundial de 2008 e o modelo de expansão da educação superior no Brasil? Essa questão impõe-se, segundo o autor, ao analista das políticas de educação superior quando se depara com três ordens de fatos simultâneos: as ações do governo federal expandindo vagas e titulações nas Instituições Federais de Ensino Superior (IFES) — pela multiplicação de *campi*, pela criação de novas universidades federais e pelo Programa de Apoio a Planos de Reestruturação e Expansão das Universidades Federais (REUNI); o expressivo aumento de Instituições de Ensino Superior (IES) com fins lucrativos e a acelerada multiplicação de "aquisições" e "incorporações" de IES isoladas e de "redes" universitárias por fundos de investimento; e, por fim, as dificuldades enfrentadas pelos órgãos estatais reguladores em promover efetivamente a regulação e o controle do sistema.
+
+O autor anuncia que a resposta a essa pergunta inicial deverá iluminar questões relativas aos desafios da **formação universitária** diante de uma concepção de educação superior crescentemente orientada pelo mercado, que conduz o que ele denomina "estreita e neopragmática **sociabilidade produtiva**". A resposta exige, segundo o texto, um percurso analítico que passe por dados empíricos da expansão do sistema, pela discussão de categorias teóricas (mercadoria, regulação, funções da universidade) e pela reflexão normativa sobre o futuro da instituição universitária.
+
+Para responder à questão e às que dela derivam, o autor anuncia três movimentos: (1) expor dados da realidade; (2) estabelecer parâmetros analíticos — as funções da universidade, as contradições do Estado e da regulação estatal, o modelo de expansão, a produção da *educação-mercadoria* e da *mercadoria-educação*, a desregulação do mercado financeiro e a constituição do mercado educacional; (3) levantar questões e alertas quanto à formação universitária e ao futuro da educação superior no Brasil.
+
+---
+
+## A Crise Financeira Mundial e o Mercado Educacional (pp. 993–996)
+
+### A lição de Marx e o capitalismo mundializado [§4–§7]
+
+O autor recorre ao clássico diagnóstico de Marx e Engels — "*tudo o que é sólido desmancha no ar*" — para introduzir a crise capitalista de 2008 como pano de fundo analítico. Sguissardi retoma, a partir do economista César Benjamim, as três tendências que Marx apontava para a sociedade capitalista em consolidação: (a) a compulsão de transformar incessantemente bens materiais e simbólicos em mercadoria — "no limite, *tudo seria transformado em mercadoria*"; (b) a compulsão de ampliar o espaço geográfico do circuito mercantil — "no limite, *esse espaço seria todo o planeta*"; (c) a compulsão de inventar sempre novos bens e novas necessidades, alterando "profundamente a cultura e as formas de sociabilidade" para criar o consumidor dessas novas necessidades.
+
+Esses três elementos são declarados essenciais para a análise do tema central do artigo: a transformação da educação em mercadoria e a expansão global do mercado educacional. O autor conecta explicitamente esses elementos às categorias de **educação-mercadoria** e **mercadoria-educação** formuladas por José Rodrigues (2007), e enfatiza que a *sociabilidade produtiva* é o conceito que nomeia o tipo de formação humana resultante desse processo.
+
+Para entender a crise e suas dificuldades, Sguissardi também cita Wallerstein (*Le Monde*, 12/10/2008), para quem "o capitalismo é onívoro, capta o lucro onde ele seja maior", e Belluzzo (2008), que ironiza os "fanáticos do livre mercado" e os "sacerdotes dos mercados eficientes" que forneceram respeitabilidade científica a hipóteses improváveis. Cesar Benjamim complementa com a síntese: "Mais uma vez, os Estados tentarão salvar o capitalismo da ação predatória dos capitalistas. Karl Marx manda lembranças."
+
+### Lições da crise e o mercado educacional [§8–§10]
+
+As principais lições da crise financeira são representadas, no texto, pelas reflexões do Frei Betto (2008): a crise derruba o dogma do livre mercado como panaceia; ainda não é o fim do capitalismo, mas pode ser a agonia do neoliberalismo que hipertrofiou o sistema financeiro; repete-se a "velha receita" — após privatizar os ganhos, o sistema socializa os prejuízos; e a exclusão de dois terços da humanidade do acesso a bens essenciais é a verdadeira medida do fracasso capitalista.
+
+O autor aplica o raciocínio diretamente ao mercado educacional com uma série de perguntas retóricas: por que as premissas válidas para o livre mercado em geral não se aplicariam ao mercado educacional? Por que a educação seria uma "missão sagrada" e os detentores dos fundos de investimento em educação, "sumos-sacerdotes"? Sguissardi responde que tal excepcionalismo se sustenta apenas para quem ignora a dinâmica capitalista, que profana o que era sagrado.
+
+---
+
+## A Expansão da Educação Superior no Brasil — Dados e Tendências (pp. 996–1003)
+
+### Periodização e evolução 1964–1994 [§11–§16]
+
+O autor analisa a evolução da educação superior brasileira em duas grandes etapas, com dados sistematizados pelo MEC/INEP. A primeira etapa cobre três décadas (1964–1994) e a segunda dois governos FHC e o primeiro governo Lula (1994–2006). Em ambas, o foco recai sobre a classificação por categoria administrativa: pública e privada.
+
+Na análise do período 1964–1994 (Tabela 1), os principais destaques são:
+
+1. Em 1964, ao início do regime militar-autoritário, havia 142.386 matrículas totais, com predominância pública: 61,6% públicas e 38,4% privadas.
+2. Na primeira década do regime (1964–1974), o total de matrículas foi multiplicado por mais de cinco vezes (559,8%), mas as matrículas privadas cresceram 990,1% contra apenas 289,1% das públicas, invertendo a proporção: 36,4% públicas e 63,6% privadas. Isso constitui, segundo o autor, o **primeiro grande movimento de privatização do sistema**.
+3. Na segunda década (1974–1984), houve uma pequena inversão: crescimento de 67,7% nas públicas e 38,7% nas privadas, resultando em 40,9% e 59,1%, respectivamente, e crescimento total muito inferior (49,3%).
+4. Na terceira década (1984–1994), o crescimento foi ainda menor — 18,7%, cerca de 1,5% ao ano —, mantendo praticamente inalterada a proporção: 41,6% públicas e 58,4% privadas.
+
+| Ano | Total | Matrículas Públicas | % | Matrículas Privadas | % |
+|----:|------:|--------------------:|--:|--------------------:|--:|
+| 1964 | 142.386 | 87.665 | 61,6 | 54.721 | 38,4 |
+| 1974 | 937.593 | 341.028 | 36,4 | 596.565 | 63,5 |
+| 1984 | 1.399.539 | 571.879 | 40,9 | 827.660 | 59,1 |
+| 1994 | 1.661.034 | 690.450 | 41,6 | 970.584 | 58,4 |
+| Δ% 1964–1994 | 1.065,7 | 687,6 | — | 1.673,7 | — |
+
+### Aceleração da privatização no período 1994–2006 [§17–§22]
+
+A segunda etapa (Tabela 2) mostra a retomada e o recrudescimento do processo de expansão pela via da privatização. No octênio 1994–2002 (governos FHC), quase dobra o número de IES (851 → 1.637, +92,4%), mas as IES públicas *reduzem* seu número em -10,5%, enquanto as privadas crescem 127,8%. A proporção, que em 1994 era de 25,6% públicas e 74,4% privadas, passa em 2002 para 11,9% públicas e 88,1% privadas.
+
+Quanto às matrículas, o crescimento total no octênio foi de 109,5%, mas apenas 52,3% nas públicas e 150,2% nas privadas. A proporção, estável há cerca de 20 anos em torno de 40%/60%, passa em oito anos para 30,2% públicas e 69,8% privadas. No quatriênio 2002–2006 (primeiro governo Lula), o ritmo de crescimento das IES desacelera (38,7% total), mas a desproporção persiste: +27% nas públicas contra +40,2% nas privadas; nas matrículas, +15% públicas e +42,6% privadas, resultando em 25,8% e 74,2% no final de 2006. No período completo 1994–2006, as IES públicas cresceram apenas 13,7% contra 219,4% das privadas; as matrículas públicas cresceram 75% contra 275,2% das privadas.
+
+| Ano | Total IES | IES Públ. | % | IES Priv. | % | Total Matrículas (mil) | Públ. (mil) | % | Priv. (mil) | % |
+|----:|----------:|----------:|--:|----------:|--:|----------------------:|------------:|--:|------------:|--:|
+| 1994 | 851 | 218 | 25,6 | 633 | 74,4 | 1.661 | 690 | 41,6 | 970 | 58,4 |
+| 2002 | 1.637 | 195 | 11,9 | 1.442 | 88,1 | 3.479 | 1.051 | 30,2 | 2.428 | 69,8 |
+| 2006 | 2.270 | 248 | 11,0 | 2.022 | 89,0 | 4.676 | 1.209 | 25,8 | 3.467 | 74,2 |
+
+---
+
+## Mercadorização da Educação Superior (pp. 1000–1003)
+
+### O marco legal e o Decreto 2.306/1997 [§23–§28]
+
+Sguissardi identifica um fenômeno relativamente recente e qualitativamente distinto no modelo de expansão: a **mercadorização** acelerada da educação superior. O autor situa esse processo à sombra das recomendações do Banco Mundial de 1994 (*Higher Education: The Lessons of Experience*), que propunha maior diferenciação institucional, diversificação de fontes de financiamento (incluindo pagamento pelos alunos das IES públicas), adoção da "universidade de ensino" em vez da "universidade de pesquisa" (neo-humboldtiana), e recomendava às autoridades atenção aos "sinais do mercado".
+
+A Lei de Diretrizes e Bases da Educação Nacional (LDB), aprovada em dezembro de 1996, é descrita como um "guarda-chuva jurídico" que possibilitou a edição de decretos normatizadores alinhados com essas recomendações. O mais expressivo é o Decreto n. 2.306, de 19 de agosto de 1997, que reconheceu a educação superior como um bem de serviço comercializável — objeto de lucro e acumulação —, submetendo as IES privadas com fins lucrativos ao regime de legislação mercantil "como se comerciais fossem". O autor destaca que este decreto antecipou e foi além mesmo da polêmica Agenda dos Acordos Gerais do Comércio e dos Serviços (AGCS/OMC) de 1996, que propunha a desregulamentação dos serviços educacionais como se fossem comerciais, mas que continua sem acordo naquele âmbito.
+
+Em 1998, o Banco Mundial reforçou essa orientação com a tese de que o ensino superior teria "muitas das características de um bem privado", fornecendo amparo intelectual à abertura do mercado educacional no Brasil. É a partir de 1999 que o Censo da Educação Superior do INEP começa a separar IES privadas (sem fins lucrativos) das particulares (com fins lucrativos), permitindo acompanhar empiricamente a mercadorização.
+
+### Dados da mercadorização 1999–2006 [§29–§33]
+
+Entre 1999 e 2006, o número total de IES cresceu 107%, mas as IES particulares (privadas com fins lucrativos) cresceram 200%, enquanto as IES públicas cresceram apenas 29,2% e as IES privadas sem fins lucrativos apenas 16%.
+
+| Ano | Total IES | Públicas | % | Privadas (s/ fins luc.) | % | Particulares (c/ fins luc.) | % |
+|----:|----------:|---------:|--:|------------------------:|--:|----------------------------:|--:|
+| 1999 | 1.097 | 192 | 17,5 | 379 | 34,5 | 526 | 48,0 |
+| 2006 | 2.270 | 248 | 11,0 | 439 | 19,0 | 1.583 | 70,0 |
+| Δ% | 107,0 | 29,2 | — | 16,0 | — | 200,0 | — |
+
+No que diz respeito às matrículas (Tabela 4), em 1999, as particulares representavam apenas 27,8% (651.362 matrículas) do total. Em 2006, esse percentual sobe para 41,2% (1.924.166 matrículas), crescimento de 195%, enquanto as públicas cresceram 45% e as privadas sem fins lucrativos 74%. O crescimento total das matrículas foi de 97,3%.
+
+| Ano | Total Matrículas | Públicas | % | Privadas | % | Particulares | % |
+|----:|-----------------:|---------:|--:|---------:|--:|-------------:|--:|
+| 1999 | 2.369.945 | 832.022 | 35,0 | 886.561 | 37,4 | 651.362 | 27,8 |
+| 2006 | 4.676.646 | 1.209.304 | 25,8 | 1.543.176 | 33,0 | 1.924.166 | 41,2 |
+| Δ% | 97,3 | 45,0 | — | 74,0 | — | 195,0 | — |
+
+Projetando o ritmo de crescimento dos sete anos anteriores para o quadriênio 2007–2010, Sguissardi estimava que as IES particulares chegariam a 81% do total, com 50% das matrículas do sistema concentradas nesse segmento.
+
+---
+
+## A Efervescência do Mercado Educacional (pp. 1003–1007)
+
+### Fundos de investimento e oligopolização [§34–§40]
+
+O autor descreve um fenômeno novo e acelerado: a entrada de grandes fundos de investimento (principalmente estrangeiros) no mercado educacional brasileiro, à semelhança do que já ocorria nos mercados financeiro, industrial e comercial. A revista *Ensino Superior* do SEMESP (edição 101, fevereiro de 2007) anunciava "A consolidação do mercado", estimando que até 2010, 60% das IES com menos de 500 alunos seriam extintas e as restantes absorvidas por mantenedoras maiores ou fundos de investimento. O consultor financeiro Renato de Souza Neto, ex-sócio da Paulo Renato Souza Consultores, sintetizou: "O setor vai se consolidar em uma economia de escala, em que grandes grupos oferecerão ensino superior barato, com uma qualidade razoável."
+
+O padrão identificado é: "grandes fundos de investimentos e capital externo apostam seus dólares nos grandes grupos nacionais, que estão comprando instituições médias, que, por sua vez, incorporam as pequenas." Os principais "consolidadores" identificados eram: a Universidade Anhembi Morumbi (do grupo norte-americano *Laureate Education*, ex-*Sylvan Inc.*, presente em 18 países e controlando 30 instituições, com cerca de R$ 1 bilhão investido no Brasil); a rede *Whitney International University System*; o Grupo Anhanguera (nacional, com 47 *campi* em julho de 2008, 300 cursos, 140 mil alunos, 15 aquisições entre 2006 e julho de 2008, R$ 1 bilhão captado na BOVESPA); o *Apollo Group* norte-americano; o Centro Universitário UNA (mineiro); e a Universidade Estácio de Sá (carioca). Quatro redes já tinham aberto capital e negociavam ações na BOVESPA: Anhanguera, Estácio de Sá, SEB (Sistema Educacional Brasileiro) e Kroton (dona da marca Pitágoras, que captou R$ 396 milhões). O total captado em um ano no mercado de capitais alcançou cerca de R$ 1,9 bilhão, com cerca de duas dezenas de fundos dispondo de R$ 3 bilhões para aplicação no setor educacional.
+
+### Lógica do negócio e migração para fins lucrativos [§41–§46]
+
+O autor descreve a lógica de funcionamento dos grandes grupos: compram instituições baratas e endividadas, reestruturando-as via gestão inteligente de dívidas e riscos, e as fazem gerar lucro em dois ou três anos. O crescimento do mercado é respaldado pela comparação com países vizinhos latino-americanos, cujas taxas de cobertura da educação superior seriam duas a três vezes maiores que as do Brasil (taxa líquida de 13% e taxa bruta de 20%).
+
+Uma pesquisa da CM Consultoria (divulgada pela Universia em 2003) já apontava o ensino superior particular brasileiro como "objeto de desejo do capital", dado que o setor movimentava R$ 15 bilhões anuais. Em 2003, apenas cerca de 500 das 1.762 IES privadas tinham declaradamente "fins lucrativos"; em 2006, já eram 1.583 as IES particulares/privado-mercantis. O autor explica esse crescimento por dois fatores: (a) vantagens comparativas — as IES sem fins lucrativos não conferem ao mantenedor a propriedade do patrimônio nem a possibilidade de sucessão, gerando incentivo à migração legal para a condição lucrativa; (b) as facilidades oferecidas pelo Ministério da Fazenda para essa transformação. Além disso, a ausência de qualquer limite efetivo à participação de capital estrangeiro nas empresas educacionais — a proposta de limite de 30% constava do Projeto de Lei da Reforma Universitária, mas sem previsão de aprovação — facilitava a internacionalização do mercado.
+
+---
+
+## Dificuldades de Regulação e Controle (pp. 1007–1009)
+
+### Insuficiência histórica do controle estatal [§47–§54]
+
+Em setembro de 2008, a *Folha de S. Paulo* revelou que universidades reprovadas pelo MEC (com conceitos 1 e 2 no Índice Geral de Cursos — IGC) não estavam sendo fiscalizadas desde 1995. Das nove instituições reprovadas, em seis a autorização era anterior a 1996 e uma não passava por análise desde 1975. Especialistas atribuíam a situação a falhas do MEC no controle de qualidade das escolas, tanto nas gestões FHC quanto Lula. A LDB de 1996 determina que todas as IES devem passar periodicamente por análise de seus indicadores de qualidade, mas a lei sistematicamente não foi cumprida.
+
+O ex-ministro Paulo Renato de Souza, que em 2001 baixou portaria determinando prazo de 90 dias para início do recredenciamento das instituições, reconheceu a dificuldade: "A resistência das instituições foi grande, não consegui aplicar o processo. Muitas obtiveram liminares na Justiça." E declarou sobre a dificuldade de descredenciamento: "Tentei fechar alguns cursos e não consegui, mesmo tendo uma série de elementos técnicos." Durante os sete anos de aplicação do *Provão* (1997–2002), não houve nenhum fechamento de curso por determinação superior.
+
+A situação é agravada por um embate jurídico: dirigentes de universidades abertas antes da LDB/1996 alegam não mais precisar do recredenciamento, mas o MEC, apoiado numa ADI do STF de 2004, sustenta o contrário. As autoridades reconhecem a dificuldade, mas apontam o SINAES (2004) como novo ordenamento jurídico que regularizaria a situação ao completar seu ciclo avaliativo. Sguissardi registra ainda que os órgãos de supervisão do MEC, em parceria com conselhos profissionais de direito, medicina e pedagogia, têm levado ao descredenciamento de instituições e fechamento de cursos, mas de forma ainda insuficiente diante da dimensão do sistema.
+
+---
+
+## Das Funções da Universidade segundo Anísio Teixeira (pp. 1009–1011)
+
+### A universidade como locus do saber vivo [§55–§61]
+
+Para fundamentar a crítica normativa ao modelo de expansão mercantil, Sguissardi recorre à obra de **Anísio Teixeira**, descrito como um dos mais respeitados mestres da teoria e da história da universidade no Brasil. O autor destaca dois textos centrais de Anísio: o discurso inaugural como reitor da Universidade do Distrito Federal (31 de julho de 1935) e as notas sobre a universidade publicadas em *Educação e Universidade* (1998).
+
+No discurso inaugural, Anísio define a função da universidade como única e exclusiva: não se trata apenas de difundir conhecimentos (o livro faz isso), nem de conservar a experiência humana (o livro também conserva), nem de preparar práticos e profissionais (aprendizagem direta e escolas singelas bastam para isso). Trata-se, sim, de "manter uma atmosfera de saber para se preparar o homem que o serve e o desenvolve", de "conservar o saber vivo e não morto, nos livros ou no empirismo das práticas não intelectualizadas", de "formular intelectualmente a experiência humana, sempre renovada, para que a mesma se torne consciente e progressiva."
+
+### As quatro funções universitárias [§62–§65]
+
+No segundo texto, Anísio enumera quatro funções fundamentais da universidade, que nas brasileiras "se cumprem de modo fragmentado, incerto e às vezes acidentado":
+
+1. **Formação profissional**: preparar profissionais para carreiras de base intelectual, científica e técnica.
+2. **Alargamento da mente humana**: iniciação do estudante na vida intelectual, prolongamento de sua visão, ampliação da imaginação — algo mais que cultura geral, obtido pela associação com "a mais apaixonante atividade humana: a busca do saber".
+3. **Desenvolvimento do saber humano**: a universidade não só cultiva e transmite o saber, mas pesquisa, descobre e aumenta o conhecimento; ela é o "centro da elaboração do próprio saber, de busca desinteressada do conhecimento, da ciência e saber fundamental básico".
+4. **Transmissão de uma cultura comum**: nisto, diz Anísio, "a universidade brasileira mais falhou" — relativamente desinteressada pelo Brasil, ela não logrou constituir-se transmissora de uma cultura comum nacional.
+
+Sem a universidade com tais funções, afirmara Anísio em 1934, "não chega a existir um povo" — a nação que não a tem não pode ter "existência autônoma, vivendo, tão-somente, como um reflexo dos demais". Sguissardi mobiliza esse legado normativo para contrastar com a lógica mercantil que reduz a universidade a uma "indústria de ensino".
+
+---
+
+## Das Contradições da Regulação no Âmbito do Estado Público-Privado/Mercantil (pp. 1011–1012)
+
+### Estado como espaço de contradição [§66–§70]
+
+O autor argumenta que não é possível analisar o modelo de expansão sem interrogar a questão da **regulação**, que por sua vez só pode ser compreendida no âmbito de um Estado que "carrega necessariamente as marcas das contradições da sociedade e do modo de produção capitalistas". Retomando Marx, Sguissardi afirma que o Estado moderno não é entidade acima dos interesses de classes, mas uma "construção social, espaço de contradição entre os interesses públicos e privados ou privado/mercantis", funcionando sob o predomínio ora destes, ora daqueles. Cita Mauro Santayana (2008) sobre como o neoliberalismo, nos últimos 30 anos, reduziu a tarefa do Estado à manutenção dos privilégios do capital.
+
+Empregando a metáfora de Bourdieu, Sguissardi descreve o Estado como composto por uma "mão esquerda" (dos interesses sociais mais amplos), submetida ao "livre arbítrio" de uma "mão direita" (dos burocratas do Ministério da Fazenda, dos bancos). É nesse contexto que se dá o processo de regulação, definida, com Roger Dale, como atividades de controle para a definição de parâmetros "para o fornecimento dos serviços educativos, que o Estado assume através de políticas e sanções legais". O maior avanço normativo foi o Decreto n. 5.773 (Decreto-Ponte), de 09/05/2006, que dispõe sobre o exercício das funções de regulação, supervisão e avaliação das IES, tendo no SINAES e no modelo CAPES de avaliação seu principal apoio.
+
+O autor aponta a tensão estrutural entre regulação/controle estatal e a autonomia da cultura de avaliação institucional, que não tem sido característica do sistema no Brasil — nem no setor público, nem no privado, e muito menos no privado/mercantil. O ponto mais problemático é a necessidade de conciliar a regulação do Estado com instituições que fazem do lucro seu principal objetivo: "O livre mercado já demonstrou, nas crises passadas do capitalismo e especialmente na atual, do que é capaz."
+
+---
+
+## Da Educação-Mercadoria e da Mercadoria-Educação (pp. 1012–1014)
+
+### Duas categorias, uma mesma moeda [§71–§77]
+
+O autor explora em detalhe as duas categorias centrais de José Rodrigues (2007), conectando-as ao contexto da expansão mercantil da educação superior. A **educação-mercadoria** refere-se ao serviço educacional tratado como mercadoria a ser vendida no mercado educacional: "se um capital em particular estiver buscando sua valorização a partir da venda de serviços educacionais [...], esse capital comercial tenderá a tratar a prática social educacional como uma mercadoria cujo fim é ser vendida no mercado educacional." O caso típico é o curso de graduação prestado por uma universidade privada.
+
+A **mercadoria-educação**, por outro lado, refere-se ao modo como o capital industrial encaraa educação: como insumo necessário à produção de outras mercadorias — "se a educação e o conhecimento são encarados como insumos necessários à produção de outras mercadorias [...], o capital industrial tenderá a encarar a prática social educacional como uma mercadoria-educação." São duas perspectivas de como o capital busca valorizar-se, ou seja, duas faces da mesma moeda.
+
+Nenhuma dessas formas é isenta de contradições. Do lado da educação-mercadoria, o limite é estabelecido pela relação oferta-demanda. Do lado da mercadoria-educação, há uma contradição: a expansão rápida de profissionais graduados favorece imediatamente o capital industrial ao criar um exército de reserva que rebaixa salários, mas se esse exército é constituído por graduados sem as qualificações requeridas pelo processo produtivo, o capital industrial encontrará sérias dificuldades a médio e longo prazo.
+
+O autor conclui que os empresários da educação buscarão, por todos os meios, valorizar e controlar a educação-mercadoria; os empresários industriais e comerciais, por sua vez, pressionarão o sistema (público ou privado) para obter a mercadoria-educação que melhor sirva à valorização de seu capital. Interessantemente, os empresários industriais tendem a valorizar mais a educação superior pública, pela maior possibilidade histórica de produzir os profissionais que lhes interessam; os empresários da educação, diferentemente, precisam garantir seu negócio e, no máximo, valorizam as públicas como formadoras de bons professores — insumo para extrair mais-valia da acumulação privada.
+
+---
+
+## Considerações e Questões Finais (pp. 1014–1017)
+
+### Diagnóstico e desafios finais [§78–§86]
+
+Na síntese final, Sguissardi retoma o elemento empírico central — a "corrida do ouro" da educação-mercadoria — e o interpreta como manifestação direta das três tendências marxianas: a compulsão de transformar tudo em mercadoria, de ampliar o espaço mercantil a todo o planeta, e de criar o consumidor das novas necessidades alterando a cultura e as formas de sociabilidade.
+
+O autor observa que muito poucas diferenças existem entre o *modus faciendi* dos "consolidadores" do mercado educacional e o dos empresários do mercado financeiro, industrial e comercial: "Competir e, no máximo, garantir a *empregabilidade* dos estudantes/clientes são as preocupações que afligem e ao mesmo tempo se põem como desafio para todos." Diante dessa lógica, as quatro funções universitárias pensadas por Anísio Teixeira ficam progressivamente esvaziadas — especialmente a segunda (alargamento da mente), a terceira (desenvolvimento do saber) e a quarta (transmissão de cultura comum). Mesmo a primeira — formação profissional — tende a tornar-se empobrecida na ausência das demais, resultando numa "formação de uma sociabilidade produtiva, estreita e neopragmática, eficiente mas alienada."
+
+::: {.callout-important}
+O autor questiona se é razoável esperar que IES que se conduzem pela lógica mercantil priorizem "a mais apaixonante atividade humana: a busca do saber"; o desenvolvimento desinteressado do conhecimento; ou a transmissão de uma cultura comum nacional.
+:::
+
+Em face desse quadro, os olhos dos que se preocupam com a formação universitária voltam-se para o Estado e sua função reguladora. Mas, como demonstrado, uma série de obstáculos estruturais se impõe: a natureza do próprio Estado (predominantemente público ou privado/mercantil?); a concepção vigente de educação superior (direito e bem público, ou serviço e bem privado/mercantil?); e a natureza da regulação (privilégio da competição e eficiência do mercado, ou defesa do interesse público e cidadão?).
+
+O artigo encerra com uma analogia que é também uma advertência: assim como o livre mercado, sem controle, pode estar levando ao suicídio do capitalismo, a hegemonia do mercado educacional no sistema, sem efetiva regulação e controle do Estado e da sociedade civil, pode significar, "a médio prazo, o suicídio da própria instituição universitária, a 'mansão da liberdade', como diria Anísio Teixeira."
+
+---
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+**Tese central:** O modelo de expansão da educação superior no Brasil tem se estruturado, desde a segunda metade dos anos 1990, pelo predomínio crescente de interesses privado/mercantis — materializados na mercadorização acelerada do sistema, na entrada de grandes fundos de investimento e na oligopolização do setor —, o que desafia a capacidade regulatória do Estado e compromete as funções universitárias essenciais à formação de profissionais/cidadãos críticos.
+
+**Natureza do argumento:** Predominantemente descritivo-diagnóstico, com forte componente normativo. O texto combina análise quantitativa de dados do MEC/INEP com enquadramento teórico marxista e com a invocação de um ideal normativo de universidade (Anísio Teixeira) como horizonte crítico.
+
+**O que o texto demonstra:** A trajetória empírica da privatização e mercadorização do sistema de educação superior brasileiro entre 1964 e 2006 (com ênfase em 1994–2006) e a insuficiência histórica da regulação estatal. Demonstra, com dados, a aceleração do processo mercantil e a entrada do capital financeiro no setor educacional.
+
+**O que fica como hipótese ou agenda:** A relação causal entre a mercadorização do sistema e o efetivo comprometimento das funções universitárias não é demonstrada empiricamente — permanece como hipótese normativa. Também fica em aberto se a regulação estatal seria capaz ou suficiente para reverter o processo, dado o caráter contraditório do próprio Estado.
+
+**Contribuição ao debate:** O texto articula, de maneira didática e polemicamente eficaz, três planos — dados empíricos, teoria marxista da mercadorização e normatividade teixeiriana — para diagnosticar um problema estrutural do ensino superior brasileiro. Insere-se no debate sobre a relação entre Estado, mercado e educação, contribuindo com uma análise histórico-institucional da privatização e com a aplicação das categorias de Rodrigues (2007) ao contexto brasileiro.
+:::
+
+---
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v13.0*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | A pergunta é formulada de forma retórica e conectiva, articulando crise financeira global e expansão educacional. O ponto mais vulnerável é a falta de explicitação do mecanismo que conecta os dois fenômenos além da analogia estrutural marxiana. Interpretação alternativa: a expansão privada poderia ser analisada como resposta a demanda reprimida, sem necessariamente implicar comprometimento da formação. | Qual a relação entre a atual crise financeira mundial e o modelo de expansão da educação superior no Brasil, e que desafios esse modelo impõe para a regulação estatal e a formação universitária? Natureza: explicativa-normativa. A pergunta está explicitada na introdução. |
+| Questões Secundárias | As questões secundárias estruturam o percurso analítico do artigo e são logicamente subordinadas à questão central, formando um roteiro progressivo de análise. | (1) Como se deu historicamente o processo de privatização e mercadorização da educação superior no Brasil? (2) Quais as funções da universidade que estão ameaçadas por esse modelo? (3) Em que medida o Estado é capaz de regular efetivamente um sistema de expansão marcado pelo interesse privado/mercantil? (4) Como as categorias de educação-mercadoria e mercadoria-educação permitem compreender a lógica do capital educacional? |
+| Puzzle-Type | O puzzle tem genuinidade empírica — os dados quantitativos são sólidos e revelam uma tendência real. Contudo, o salto do descritivo para o normativo ("o modelo compromete a formação") não é acompanhado de evidências sobre os efeitos reais na qualidade formativa, tornando a dimensão explicativa do puzzle parcialmente especulativa. | Combinação de gap descritivo (a mercadorização acelerada não havia sido sistematizada com esses dados) e debate normativo (o que esse modelo implica para a missão da universidade). O puzzle é generalizável para outros países em desenvolvimento que seguiram trajetórias similares de liberalização do mercado educacional. |
+| Conclusão / Argumento Central | O argumento central é coerente internamente, mas descansa em uma analogia (mercado educacional = mercado financeiro) que não é suficientemente argumentada. O *claim of discovery* — a ameaça ao ideal universitário — é sustentado indiretamente pela demonstração da expansão mercantil, não por evidências diretas de deterioração formativa. | O modelo de expansão da educação superior no Brasil está estruturalmente dominado por interesses privado/mercantis que, sem regulação efetiva, tendem a esvaziar as funções essenciais da universidade e a produzir uma formação empobrecida e instrumentalmente orientada para o mercado. O argumento é predominantemente descritivo-normativo; o *claim* de comprometimento da formação é sustentado por inferência lógica, não por evidência empírica direta. |
+| Métodos | O texto analisa dados longitudinais do MEC/INEP sem aplicar técnicas estatísticas inferenciais; a análise permanece no nível descritivo. A estratégia argumentativa combina análise de tendências com mobilização de referências teóricas e normativas, sem controle por variáveis confundidoras. | Estudo analítico-descritivo com análise de dados secundários longitudinais (Censo da Educação Superior do MEC/INEP, 1964–2006), revisão de imprensa especializada e de consultorias setoriais, e enquadramento teórico marxista. Sem controle experimental ou quase-experimental. Argumentação de tipo teórico-normativo nas seções de análise de funções e regulação. |
+| Data Generation Process (DGP) | O DGP é transparente nas seções empíricas. A fragilidade está nas seções normativas, onde a "observação" são textos normativos de Anísio Teixeira mobilizados como critério avaliativo externo ao fenômeno analisado. Não há discussão sobre ado. Não há discussão sobre tura ou comparabilidade das categorias do Censo ao longo do tempo. | Fenômeno real (expansão mercantil da educação superior) → observação via dados do Censo da Educação Superiado. Não há discussão sobre imprensa + documentoado. Não há discussão sobre onalização por categorias adminisado. Não há discussão sobre particado. Não há discussão sobre e tendências perado. Não há discussão sobre trajetória do sisado. Não há discussão sobre sistema de educação superior brasileado. Não há discussão sobre iscussão sobre dos e Contribuições | Os achados empíricos são os mais robustos do texto. A contribuição conceitual (aplicado. Não há discussão sobre gues ao caso brasileiro) é relevante. A projeção ado. Não há discussão sobre ão distado. Não há discussão sobre  **Empíricos:** (1) As IES particulares cresceram 200% entre 1999 e 2006, chegando a 70% do toado. Não há discussão sobre ão há discussão sobre 195%, representando 41,2% do totaado. Não há discussão sobre anceiro nacional e estrangeiroado. Não há discussão sobre o setor em 2007–2ado. Não há discussão sobre  foi sistematicamentado. Não há discussão sobre  discussão sobre o das categorias de educação-mercadoria/mercadoria-educação ao contexto brasileiro; articulação com o ideal ado. Não há discussão sobre nálise Críticaado. Não há discussão sobre nde adequadamente à pergunta descritiva (demado. Não há discussão sobre . Responde parcialmente à normativa (atrado. Não há discussão sobre o responde empiricamente à pergunta exado. Não há discussão sobre eais na qualidade formativa. A analogiaado. Não há discussão sobre sugestiva, mas não demado. Não há discussão sobre al. A *scope condition* ado. Não há discussão sobre vada implica necessariamente deado. Não há discussão sobre estada. | O texto demonstra com robustez a ado. Não há discussão sobre cussão sobre  vulnerável é aado. Não há discussão sobre tas de que a expansão mercantil efetivamente compromeado. Não há discussão sobre (os dados medem matrículado. Não há discussão sobre atiado. Não há discussão sobre iscussão sobre da pode ter ampliadado. Não há discussão sobre xcluíado. Não há discussão sobre dem ter qualidade comparável às públicas. Generalizabilidade: alta para países em desenvolvimentoado. Não há discussão sobre Não há discussão sobre nsão normativa do argumento é reconhecida implicitamentado. Não há discussão sobre "ado. Não há discussão sobre onhece explicitamente as limitações das inferências sado. Não há discussão sobre **Reconhecidas pado. Não há discussão sobre rita a matrículas ado. Não há discussão sobre "cado. Não há discussão sobre opício à ado. Não há discussão sobre 2006; projeções para 2010 apresentadas como estimativas condicionais. **Não reconhecidas ou subestimadas:** Ausência de evidências sobre efeitos na qualidade formativa; não discussão da hado. Não há discussão sobre tor privado/mercantil; não consado. Não há discussão sobre o privada no acesso de grado. Não há discussão sobre s; analfabetismo metodológico sobre causalidaado. Não há discussão sobre cimento do setor privado e eventual deterioração formativaado. Não há discussão sobre pectiva Teórica | A moldura marxista é aplicadado. Não há discussão sobre ente, mas tende a umaado. Não há discussão sobre ital (todo capado. Não há discussão sobre  discussão sobre do. Não há discussão sobre s importantes. A invocação de Anado. Não há discussão sobre normativo é legítima, mas ado. Não há discussão sobre discussão sobre sidade humboldtiana) que o próprio texto reconhece como historicamente não realizada no Brasil. | Marxismo político-econômico (com Benjamim, Wallerstein e Belluzzo como ado. Não há discussão sobre o como espaço de contradição público-privado (Marx/Bourdieu); teoria das funções universitárias (Anísio Teixeira); teoria da mercadorização da educação (José Rodrigues, 2007); regulação estatal (Roger Daleado. Não há discussão sobre a pergunta ado. Não há discussão sobre á discussão sobre ões intrasistemáticas.ado. Não há discussão sobre | O diálogo com a literaado. Não há discussão sobre ia política da educaçãoado. Não há discussão sobre ado. Não há discussão sobre lism*) é mencionado mas não desenado. Não há discussão sobre acesso, equidade e demoado. Não há discussão sobre plexificar o argumento — ado. Não há discussão sobre 007); Teixeira (1935/1998); Bado. Não há discussão sobre do. Não há discussão sobre ão há discussão sobre  Leslie (1997); Wallerstein (2008); Belluzzo (2008); Dale (apud Antunes, 2007); ado. Não há discussão sobre mez (2004). Diálogo com a literatura sobre equidade e acesso é notavelmente ausente. |
+| Obado. Não há discussão sobre discussão sobre ortante para o campo de política de educação superior no Brasil, especialmente pela sistematização dos dados de mercadorização. ado. Não há discussão sobre do. Não há discussão sobre scussão sobre políticas de acesso, é rado. Não há discussão sobre ão problematiza a relação entre expansão privada eado. Não há discussão sobre  acesso —ado. Não há discussão sobre lorada. A análise histórico-institucional da privatizaçado. Não há discussão sobre ns de layering instado. Não há discussão sobre discussão sobre  Não há discussão sobre s efeitos distrado. Não há discussão sobre ão os alunos das IES privado/mercantis? A expansão privada ampliou ou restado. Não há discussão sobre lneráveis? Essas perguntas não são foado. Não há discussão sobre 2008) e desenado. Não há discussão sobre ado. Não há discussão sobre o e a consado. Não há discussão sobre cionais na BOVESPA —ado. Não há discussão sobre is pertinente, mas exigeado. Não há discussão sobre cussão sobre  bloco `.qmd` está pronto para ser salvo como arquivo `.qmd` e renderizado com `quarto render` em HTML. Ele cobre integralmentado. Não há discussão sobre ução às consado. Não há discussão sobre as tabelas do original reproduzidas em Markado. Não há discussão sobre te formatadoado. Não há discussão sobre  parágrafos (§1ado. Não há discussão sobre  e a ficha analítica crítica com 12 dimensado. Não há discussão sobre  sobre 

@@ -4,7 +4,7 @@ subtitle: "Limongi, Freitas, Medeiros e Luz (2021)"
 author: "Tales Mançano"
 date: "2026-05-01"
 last-updated: "2026-05-01"
-categories: [Annotated Bibliography, Presidencialismo de Coalizão, Política Brasileira, Relações Executivo-Legislativo, Análise Legislativa, Autoritarismo]
+categories: [Annotated Bibliography, Coalitional Presidentialism, Brazil, Legislative Analysis, Authoritarianism]
 format:
   html:
     toc: true

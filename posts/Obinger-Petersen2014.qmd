@@ -1,10 +1,10 @@
 ---
-title: "Fichamento: Mass Warfare and the Welfare State: Causal Mechanisms and Effects"
+title: "Fichamento: Mass Warfare and the Welfare State/Social Policy: Causal Mechanisms and Effects"
 subtitle: "Obinger, H. & Petersen, K. (2014)"
 author: "Tales Mançano"
 date: "2026-04-30"
 last-updated: "2026-04-30"
-categories: [Annotated Bibliography, Welfare State, Comparative Politics, Historical Institutionalism, Political Economy, Social Policy]
+categories: [Annotated Bibliography, Welfare State/Social Policy, Comparative Politics, Historical Institutionalism, Political Economy]
 format:
   html:
     toc: true

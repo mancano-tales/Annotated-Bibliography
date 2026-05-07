@@ -4,7 +4,7 @@ subtitle: "Fairfield & Charman (2017)"
 author: "Tales Mançano"
 date: "2026-05-03"
 last-updated: "2026-05-03"
-categories: [Annotated Bibliography, Metodologia Qualitativa, Process Tracing, Bayesianismo, Inferência Causal, Ciência Política]
+categories: [Annotated Bibliography, Qualitative Methods, Process Tracing, Bayesianism, Causal Inference, Comparative Politics]
 format:
   html:
     toc: true

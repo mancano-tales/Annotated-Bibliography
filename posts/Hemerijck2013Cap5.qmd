@@ -1,10 +1,10 @@
 ---
-title: "Fichamento: Three Waves of Transformative Welfare State Change"
+title: "Fichamento: Three Waves of Transformative Welfare State/Social Policy Change"
 subtitle: "Hemerijck, A. (2013)"
 author: "Tales Mançano"
 date: "2026-04-23"
 last-updated: "2026-04-23"
-categories: [Annotated Bibliography, Welfare State, Political Economy, Social Policy, Comparative Politics, Ideational Change]
+categories: [Annotated Bibliography, Welfare State/Social Policy, Political Economy, Comparative Politics, Ideational Change]
 format:
   html:
     toc: true

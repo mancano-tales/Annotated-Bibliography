@@ -4,7 +4,7 @@ subtitle: "Tan, J. S. e Thelen, K. (2025)"
 author: "Tales Mançano"
 date: "2026-04-23"
 last-updated: "2026-04-23"
-categories: [Annotated Bibliography, Economia Política Comparada, Capitalismo de Plataforma, Inteligência Artificial, Modelos de Negócio, Tecnonacionalismo]
+categories: [Annotated Bibliography, Political Economy, Platform Capitalism, Artificial Intelligence]
 format:
   html:
     toc: true

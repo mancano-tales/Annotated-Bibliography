@@ -4,7 +4,7 @@ subtitle: "Kenworthy, L. (s.d. [cap. 3 de *Is Inequality the Problem?*])"
 author: "Tales Mançano"
 date: "2026-05-06"
 last-updated: "2026-05-06"
-categories: [Annotated Bibliography, Desigualdade Econômica, Democracia, Influência Política, Economia Política, Metodologia Quantitativa]
+categories: [Annotated Bibliography, Inequality, Democracy, Political Influence, Political Economy, Quantitative Methods]
 format:
   html:
     toc: true
@@ -27,7 +27,7 @@ Kenworthy, L. (2025). Does income inequality degrade democracy? In *Is inequalit
   year      = {2025},
   chapter   = {3},
   pages     = {28--36},
-  doi       = {10.1093/book/9780197756317},
+  doi       = {https://doi.org/10.1093/oso/9780197817094.001.0001},
 }
 ```
 :::

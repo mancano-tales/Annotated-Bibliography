@@ -1,14 +1,13 @@
 ---
-title: "Fichamento: The Political Economy of Segmented Expansion: Latin American Social Policy in the 2000s"
+title: "Fichamento: The Political Economy of Segmented Expansion: Latin American Welfare State/Social Policy in the 2000s"
 subtitle: "Arza, Castiglioni, Martínez Franzoni, Niedzwiecki, Pribble & Sánchez‑Ancochea (2022)"
 author: "Tales Mançano"
 date: "2026-04-23"
 last-updated: "2026-04-23"
 categories:
   - Annotated Bibliography
-  - Latin American Politics
-  - Social Policy
-  - Welfare State
+  - Latin America
+  - Welfare State/Social Policy
   - Political Economy
   - Democracy
 format:

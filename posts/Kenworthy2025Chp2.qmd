@@ -4,7 +4,7 @@ subtitle: "Kenworthy, L. (s.d. [ca. 2023])"
 author: "Tales Mançano"
 date: "2026-05-06"
 last-updated: "2026-05-06"
-categories: [Annotated Bibliography, Desigualdade de Renda, Padrões de Vida, Política Comparada, Metodologia Quantitativa, Economia Política]
+categories: [Annotated Bibliography, Inequality de Renda, Living Standards, Comparative Politics, Quantitative Methods, Political Economy]
 format:
   html:
     toc: true
@@ -19,14 +19,14 @@ Kenworthy, L. (s.d. [ca. 2023]). Is income inequality bad for living standards? 
 ## Entrada BibTeX → Kenworthy2023
 
 ```bibtex
-@incollection{Kenworthy2023,
+@incollection{Kenworthy2025Ch2,
   author    = {Kenworthy, Lane},
   title     = {Is Income Inequality Bad for Living Standards?},
   booktitle = {Is Inequality the Problem?},
   publisher = {Oxford University Press},
   year      = {2023},
   chapter   = {2},
-  doi       = {10.1093/oso/9780197693445.003.0003},
+  doi       = {https://doi.org/10.1093/oso/9780197817094.001.0001},
 }
 ```
 

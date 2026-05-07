@@ -4,7 +4,7 @@ subtitle: "Simon Schwartzman (2026)"
 author: "Tales Mançano"
 date: "2026-04-20"
 last-updated: "2026-04-20"
-categories: [Annotated Bibliography, Tertiary Education, Brazil, Private Education]
+categories: [Annotated Bibliography, Higher Education, Brazil, Private Education]
 format:
   html:
     toc: true

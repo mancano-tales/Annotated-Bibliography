@@ -1,5 +1,5 @@
 ---
-title: "Fichamento v13: Expansão da Educação Superior e Progressividade do Investimento Público"
+title: "Fichamento v13: Expansão da Higher Education e Progressividade do Investimento Público"
 subtitle: "Costa, J. S., Silveira, F. G., Costa, R., & Waltenberg, F. D. (2021)"
 author: "Tales Mançano"
 date: "2026-04-19"

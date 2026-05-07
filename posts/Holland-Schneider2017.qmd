@@ -1,10 +1,10 @@
 ---
-title: "Fichamento: Easy and Hard Redistribution: The Political Economy of Welfare States in Latin America"
+title: "Fichamento: Easy and Hard Redistribution: The Political Economy of Welfare State/Social Policys in Latin America"
 subtitle: "Holland, A. C. & Schneider, B. R. (2017)"
 author: "Tales Mançano"
 date: "2026-04-23"
 last-updated: "2026-04-23"
-categories: [Annotated Bibliography, Economia Política Comparada, Estado de Bem-Estar Social, América Latina, Políticas Sociais, Análise Coalicional]
+categories: [Annotated Bibliography, Political Economy, Welfare State/Social Policy, Latin America, Coalition Analysis]
 format:
   html:
     toc: true

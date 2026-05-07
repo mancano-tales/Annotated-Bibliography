@@ -4,7 +4,7 @@ subtitle: "Summerhill (2000)"
 author: "Tales Mançano"
 date: "2026-04-25"
 last-updated: "2026-04-25"
-categories: [Annotated Bibliography, Economia Política Comparada, Economia Histórica, Instituições Políticas, Brasil Imperial, Política de Infraestrutura]
+categories: [Annotated Bibliography, Political Economy, Economic History, Institutions, Imperial Brazil, Infrastructure Policy]
 format:
   html:
     toc: true

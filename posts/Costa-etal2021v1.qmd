@@ -1,5 +1,5 @@
 ---
-title: "Costa et al. (2021). Expansão da Educação Superior e Progressividade do Investimento Público"
+title: "Costa et al. (2021). Expansão da Higher Education e Progressividade do Investimento Público"
 subtitle: "Notas de leitura: Costa et al. (2021), TD Ipea 2631"
 author: "Tales Mançano"
 date: "2026-04-16"

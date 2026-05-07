@@ -4,7 +4,7 @@ subtitle: "Moe, T. M. & Wiborg, S. (2017)"
 author: "Tales Mançano"
 date: "2026-04-25"
 last-updated: "2026-04-25"
-categories: [Annotated Bibliography, Política Comparada da Educação, Sindicalismo Docente, Interesses Criados, Reforma Institucional, Dependência de Trajetória]
+categories: [Annotated Bibliography, Education Policy/Politics, Teacher Unionism, Vested Interests, Institutional Change, Path Dependence]
 format:
   html:
     toc: true

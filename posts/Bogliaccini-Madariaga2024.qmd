@@ -4,7 +4,7 @@ subtitle: "Bogliaccini e Madariaga (2024)"
 author: "Tales Mançano"
 date: "2026-04-23"
 last-updated: "2026-04-23"
-categories: [Annotated Bibliography, Economia Política Comparada, Modelos de Crescimento, Economias Periféricas, América Latina, Estratégias Distributivas, Restrição do Balanço de Pagamentos]
+categories: [Annotated Bibliography, Political Economy, Economic Growth, Peripheral Economies, Latin America, Redistribution]
 format:
   html:
     toc: true

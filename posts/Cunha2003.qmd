@@ -4,7 +4,7 @@ subtitle: "Luiz Antônio Cunha (2003)"
 author: "Tales Mançano"
 date: "2026-05-03"
 last-updated: "2026-05-03"
-categories: [Annotated Bibliography, Higher Education, Brazilian Education, Privatization, Education Policy]
+categories: [Annotated Bibliography, Higher Education, Education Policy/Politics, Private Education]
 format:
   html:
     toc: true

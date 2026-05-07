@@ -4,7 +4,7 @@ subtitle: "Mariscal & Sokoloff (2000)"
 author: "Tales Mançano"
 date: "2026-04-29"
 last-updated: "2026-04-29"
-categories: [Annotated Bibliography, Economia Política Histórica, Desigualdade e Instituições, História da Educação, América Latina Comparada, Desenvolvimento de Longo Prazo]
+categories: [Annotated Bibliography, Historical Political Economy, Inequality, History of Education, Latin America, Development Economics de Longo Prazo]
 format:
   html:
     toc: true

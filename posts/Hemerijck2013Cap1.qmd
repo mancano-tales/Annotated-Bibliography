@@ -1,10 +1,10 @@
 ---
-title: "Fichamento: The Adaptive Capacities of Welfare States"
+title: "Fichamento: The Adaptive Capacities of Welfare State/Social Policys"
 subtitle: "Hemerijck (2013)"
 author: "Tales Mançano"
 date: "2026-04-23"
 last-updated: "2026-04-23"
-categories: [Annotated Bibliography, Welfare State, Comparative Political Economy, European Integration, Social Policy]
+categories: [Annotated Bibliography, Welfare State/Social Policy, Political Economy, European Integration]
 format:
   html:
     toc: true

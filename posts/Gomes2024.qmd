@@ -1,10 +1,10 @@
 ---
-title: "Fichamento: Direita e esquerda explicam as escolhas de políticas públicas para a educação superior no Brasil"
+title: "Fichamento: Direita e esquerda explicam as escolhas de políticas públicas para a educação superior no Brazil"
 subtitle: "Gomes (2024)"
 author: "Tales Mançano"
 date: "2026-05-03"
 last-updated: "2026-05-03"
-categories: [Annotated Bibliography, Políticas Públicas, Educação Superior, Ciência Política, Análise de Governos Partidários]
+categories: [Annotated Bibliography, Public Policy, Higher Education, Comparative Politics, Party Politics]
 format:
   html:
     toc: true

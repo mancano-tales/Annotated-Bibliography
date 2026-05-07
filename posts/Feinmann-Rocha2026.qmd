@@ -4,7 +4,7 @@ subtitle: "Feinmann e Rocha (2026)"
 author: "Tales Mançano"
 date: "2026-04-29"
 last-updated: "2026-04-29"
-categories: [Annotated Bibliography, Mobilidade Social, Economia da Educação, Desigualdade, Política Pública, Métodos Quantitativos, Brasil]
+categories: [Annotated Bibliography, Social Mobility, Economics of Education, Inequality, Public Policy, Quantitative Methods, Brazil]
 format:
   html:
     toc: true

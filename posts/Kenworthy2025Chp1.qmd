@@ -4,7 +4,7 @@ subtitle: "Kenworthy, L. (s.d. [cap. 1 de *Is Inequality the Problem?*])"
 author: "Tales Mançano"
 date: "2026-05-06"
 last-updated: "2026-05-06"
-categories: [Annotated Bibliography, Desigualdade Econômica, Economia Política, Política Social Comparada, Metodologia Quantitativa, Democracia e Bem-Estar]
+categories: [Annotated Bibliography, Inequality, Political Economy, Welfare State/Social Policy, Quantitative Methods]
 format:
   html:
     toc: true
@@ -13,7 +13,7 @@ format:
     highlight-style: github
 ---
 
-Kenworthy, L. (2025). Inequality isn't the problem. In *Is inequality the problem?* Oxford University Press. https://doi.org/10.1093/book/9780197756317
+Kenworthy, L. (2025). Inequality isn't the problem. In *Is inequality the problem?* Oxford University Press. https://doi.org/10.1093/oso/9780197817094.001.0001
 
 ::: {.callout-note collapse="true" icon=false}
 ## Entrada BibTeX → Kenworthy2025Chp1
@@ -27,7 +27,7 @@ Kenworthy, L. (2025). Inequality isn't the problem. In *Is inequality the proble
   year      = {2025},
   chapter   = {1},
   pages     = {1--14},
-  doi       = {10.1093/book/9780197756317},
+  doi       = {https://doi.org/10.1093/oso/9780197817094.001.0001},
 }
 ```
 
@@ -37,6 +37,8 @@ Kenworthy, L. (2025). Inequality isn't the problem. In *Is inequality the proble
 Modelo: Perplexity — Claude Sonnet 4.6
 Prompt Version: v13.0 2026-04-19 | 2026-04-24 "IA Blog Post QMD"
 Gerado em: 2026-05-06T20:10:00-03:00
+
+Fichamento gerado para o Grupo de Estudos Federalismo e Desigualdades da Marta Arretche em 2026-05-06.
 
 ---
 

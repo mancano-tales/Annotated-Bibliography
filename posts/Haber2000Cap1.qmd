@@ -4,7 +4,7 @@ subtitle: "Haber, Stephen (2000)"
 author: "Tales Mançano"
 date: "2026-04-24"
 last-updated: "2026-04-24"
-categories: [Annotated Bibliography, Nova Economia Institucional, Economia Política Comparada, História Econômica da América Latina, Mudança Institucional, Crescimento Econômico]
+categories: [Annotated Bibliography, Institutional Economics, Political Economy, Economic History da Latin America, Institutional Change, Economic Growth]
 format:
   html:
     toc: true

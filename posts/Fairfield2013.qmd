@@ -4,7 +4,7 @@ subtitle: "Tasha Fairfield (2013)"
 author: "Tales Mançano"
 date: "2026-05-03"
 last-updated: "2026-05-03"
-categories: [Annotated Bibliography, Comparative Politics, Political Economy, Public Policy, Latin American Studies, Fiscal Sociology]
+categories: [Annotated Bibliography, Comparative Politics, Political Economy, Public Policy, Latin America, Fiscal Sociology]
 format:
   html:
     toc: true

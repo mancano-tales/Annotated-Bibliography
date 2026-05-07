@@ -1,10 +1,10 @@
 ---
-title: "Fichamento: Três Gerações de Políticas Públicas para a Agricultura Familiar e Formas de Interação entre Sociedade e Estado no Brasil"
+title: "Fichamento: Três Gerações de Public Policy para a Rural Development e Formas de Interação entre Sociedade e Estado no Brazil"
 subtitle: "Catia Grisa e Sergio Schneider (2014)"
 author: "Tales Mançano"
 date: "2026-04-23"
 last-updated: "2026-04-23"
-categories: [Annotated Bibliography, Políticas Públicas, Agricultura Familiar, Desenvolvimento Rural, Relação Estado-Sociedade, Referencial]
+categories: [Annotated Bibliography, Public Policy, Rural Development, Development Economics Rural, State-Society Relations, Reference]
 format:
   html:
     toc: true

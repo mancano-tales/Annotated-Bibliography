@@ -4,7 +4,7 @@ subtitle: "Hemerijck (2017)"
 author: "Tales Mançano"
 date: "2026-04-23"
 last-updated: "2026-04-23"
-categories: [Annotated Bibliography, Sociologia Política, Políticas Públicas, Welfare State]
+categories: [Annotated Bibliography, Political Sociology, Public Policy, Welfare State/Social Policy]
 format:
   html:
     toc: true

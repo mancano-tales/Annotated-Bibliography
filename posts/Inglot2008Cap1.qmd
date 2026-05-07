@@ -1,10 +1,10 @@
 ---
-title: "Fichamento: The Welfare State in East Central Europe — A Conceptual and Theoretical Reconsideration"
+title: "Fichamento: The Welfare State/Social Policy in East Central Europe — A Conceptual and Theoretical Reconsideration"
 subtitle: "Inglot (2008)"
 author: "Tales Mançano"
 date: "2026-04-23"
 last-updated: "2026-04-23"
-categories: [Annotated Bibliography, Welfare State, Institucionalismo Histórico, Europa Central e Oriental, Política Social Comparada, Path Dependence]
+categories: [Annotated Bibliography, Welfare State/Social Policy, Historical Institutionalism, Central and Eastern Europe, Path Dependence]
 format:
   html:
     toc: true

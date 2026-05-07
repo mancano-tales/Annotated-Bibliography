@@ -4,7 +4,7 @@ subtitle: "Scheve & Stasavage (2017)"
 author: "Tales Mançano"
 date: "2026-04-23"
 last-updated: "2026-04-23"
-categories: [Annotated Bibliography, Economia Política Comparada, Desigualdade de Riqueza, Democracia, Métodos Quantitativos, Redistribuição]
+categories: [Annotated Bibliography, Political Economy, Inequality de Riqueza, Democracy, Quantitative Methods, Redistribution]
 format:
   html:
     toc: true

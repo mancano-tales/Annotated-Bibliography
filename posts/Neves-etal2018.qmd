@@ -1,5 +1,5 @@
 ---
-title: "Fichamento: A institucionalização da pesquisa sobre ensino superior no Brasil"
+title: "Fichamento: A institucionalização da pesquisa sobre ensino superior no Brazil"
 subtitle: "Neves, Sampaio & Heringer (2018)"
 author: "Tales Mançano"
 date: "2026-05-03"

@@ -6,11 +6,11 @@ date: "2026-04-20"
 last-updated: "2026-04-20"
 categories:
   - Annotated Bibliography
-  - Economic Development
+  - Development Economics
   - Institutional Economics
   - Historical Political Economy
   - Geospatial Analysis
-  - Long-Run Growth
+  - Economic Growth
 format:
   html:
     toc: true

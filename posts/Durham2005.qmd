@@ -1,10 +1,10 @@
 ---
-title: "Fichamento: Educação Superior, Pública e Privada"
+title: "Fichamento: Higher Education, Pública e Privada"
 subtitle: "Eunice R. Durham (2005)"
 author: "Tales Mançano"
 date: "2026-05-05"
 last-updated: "2026-05-05"
-categories: [Annotated Bibliography, Brazilian Higher Education, Public vs. Private, Historical Institutional Analysis, Education Policy, Mass Private Sector]
+categories: [Annotated Bibliography, Higher Education, Private Education, Historical Institutionalism, Education Policy/Politics]
 format:
   html:
     toc: true

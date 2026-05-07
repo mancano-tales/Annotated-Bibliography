@@ -4,7 +4,7 @@ subtitle: "Garritzmann (2026)"
 author: "Tales Mançano"
 date: "2026-04-28"
 last-updated: "2026-04-28"
-categories: [Annotated Bibliography, Economia Política Comparada, Política da Educação, Teoria de Clivagens, Sociologia Política, Institucionalismo Histórico]
+categories: [Annotated Bibliography, Political Economy, Education Policy/Politics, Party Politics, Political Sociology, Historical Institutionalism]
 format:
   html:
     toc: true

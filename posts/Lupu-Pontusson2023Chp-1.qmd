@@ -14,7 +14,7 @@ format:
     code-fold: false
     self-contained: true
     lang: pt
-categories: [Descriptive Note, Comparative Political Economy, Welfare State, Comparative]
+categories: [Descriptive Note, Political Economy, Welfare State/Social Policy, Comparative Politics]
 ---
 
 ## Referência Completa

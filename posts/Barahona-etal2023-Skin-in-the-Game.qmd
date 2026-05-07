@@ -4,7 +4,7 @@ subtitle: "Barahona, Dobbin, Ho, Otero & Yannelis (2023)"
 author: "Tales Mançano"
 date: "2026-04-23"
 last-updated: "2026-04-23"
-categories: [Annotated Bibliography, Economics of Education, Student Loans, Causal Inference, Structural Modeling, Policy Evaluation]
+categories: [Annotated Bibliography, Economics of Education, Student Finance, Causal Inference, Structural Modeling, Policy Evaluation]
 format:
   html:
     toc: true
