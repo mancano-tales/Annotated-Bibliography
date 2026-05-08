@@ -1,0 +1,474 @@
+---
+title: "Fichamento: As políticas de expansão e democratização da educação superior no Brasil reduziram desigualdades?"
+subtitle: "Roza, A. A. F. (2023) — Dissertação de Mestrado, FFLCH/USP"
+author: "Tales Mançano"
+date: "2026-05-08"
+last-updated: "2026-05-08"
+coverage: "Obra completa"
+categories: [Annotated Bibliography, Higher Education Policy, Inequality, Brazil]
+tags: [horizontal-stratification, affirmative-action, ENADE, cluster-analysis, MMI, EMI, PROUNI, FIES, Lei-de-Cotas, descriptive-analysis]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+    execute: false
+---
+
+Roza, A. A. F. (2023). *As políticas de expansão e democratização da educação superior no Brasil reduziram desigualdades? Análise do perfil socioeconômico dos concluintes dos cursos de graduação no período entre 2011 e 2019* (Dissertação de Mestrado). Faculdade de Filosofia, Letras e Ciências Humanas, Universidade de São Paulo, São Paulo.
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → Roza2023
+
+```bibtex
+@mastersthesis{Roza2023,
+  author  = {Roza, Alice Assis de Figueiredo},
+  title   = {As políticas de expansão e democratização da educação superior no Brasil
+             reduziram desigualdades? Análise do perfil socioeconômico dos concluintes
+             dos cursos de graduação no período entre 2011 e 2019},
+  year    = {2023},
+  school  = {Faculdade de Filosofia, Letras e Ciências Humanas,
+             Universidade de São Paulo},
+  address = {São Paulo},
+  type    = {Dissertação de Mestrado},
+}
+```
+
+:::
+
+Última atualização: 2026-05-08
+Modelo: Perplexity, powered by Claude Sonnet 4.6 Thinking
+Prompt Version: v17.2 2026-05-08 | Ficha antes do fichamento
+Gerado em: 2026-05-08T21:10:00-03:00
+Ocasião da Leitura: Relembrar as contribuições da Tese de Roza cuja defesa assisti.
+
+---
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v17.2*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | A premissa é que expansão do acesso implica democratização substantiva. O ponto mais vulnerável: a pergunta assume que o período 2011–2019 é suficientemente longo para capturar efeitos das políticas, mas as reformas da Lei de Cotas (2012) mal completaram um ciclo acadêmico no Ciclo 3. Uma interpretação alternativa: o que se mede pode ser a seleção diferencial de quem persiste até a conclusão — não os efeitos da expansão em si. | "A expansão do ensino superior e as políticas de democratização do acesso reduziram a desigualdade entre classes na educação no Brasil?" Pergunta avaliativa com dimensão descritiva e explicativa implícita. Formulada explicitamente pela autora (Cap. 1, p. 18). |
+| Questões Secundárias | O raciocínio analítico relevante aqui é a relação hierárquica entre as subperguntas: a Q1 (perfil geral) é condição para a Q2 (diferenças por IES e curso) e para a Q3 (mudança temporal), que por sua vez alimentam a Q4 (indícios de estratificação horizontal). A vulnerabilidade está em que as questões não distinguem entre mudança de composição do corpo discente e mudança na estrutura de oportunidades. | (Q1) O perfil socioeconômico dos concluintes mudou entre 2011 e 2019? (Q2) Há diferenças no perfil a depender da IES (pública/privada) e do curso de graduação? (Q3) Que mudanças foram observadas ao longo dos três ciclos avaliativos? (Q4) Existem padrões de agrupamento que evidenciem estratificação horizontal? |
+| Puzzle-Type | Trata-se de um puzzle de avaliação de política pública com componente descritivo: a dissonância entre o discurso oficial de democratização e evidências comparadas de que a expansão não necessariamente reduz desigualdade de classes. O puzzle é genuíno e generalizável: replica a lógica MMI/EMI para o caso brasileiro. Vulnerabilidade: o puzzle poderia ser mais bem delimitado se a autora distinguisse entre efeitos das diferentes políticas (Prouni, FIES, Lei de Cotas), que têm mecanismos distintos. | Avaliação de política pública com gap descritivo: a literatura comparada prevê substituição de desigualdade vertical por horizontal; o Brasil, com expansão predominantemente privada, é um caso de alta plausibilidade para este mecanismo, mas carecia de análise sistemática de concluintes. Generalizável para países com arquitetura semelhante (expansão privada de baixo custo + cotas no setor público). |
+| Conclusão / Argumento Central | A autora sustenta um claim de descoberta descritivo moderado: demonstra padrões de persistência da desigualdade horizontal, mas admite explicitamente que não infere causas. O claim mais forte — que cotas e bolsas "contribuíram substancialmente" — não é identificado causalmente no design, sendo inferência descritiva por associação entre surgimento do perfil Baixa Renda-Cotista e a existência das políticas. | A expansão do ensino superior no Brasil diversificou o perfil dos concluintes, mas não reduziu a desigualdade entre classes na educação: estudantes de alta renda continuam concentrados em IES com melhor desempenho e cursos de maior prestígio. Cotas e bolsas geraram um novo perfil de concluinte (Baixa Renda-Cotista), que acessa IES de melhor qualidade mas precisa adaptar-se financeiramente para concluir. Argumento de natureza descritiva-avaliativa, com causalidade implícita mas não testada. |
+| Métodos | A premissa metodológica central — que concluintes são o objeto analítico adequado para avaliar a expansão — é uma escolha defensável mas que introduz viés de seleção por evasão diferencial. Alternativa: análise de ingressantes ou painel longitudinal seria mais adequada para inferência sobre efeitos de política. O fichamento cobre a obra inteira (Cap. 1–5 + Considerações Finais). | Design descritivo transversal com dados agrupados em triênios (ciclos). Fonte: microdados do ENADE 2011–2019 (N = 3.113.234 concluintes com resultados válidos). Instrumentos: (a) análise descritiva univariada e bivariada (Cap. 4); (b) análise de cluster Two-Step com variáveis mistas qualitativas e quantitativas, gerando cinco grupos por ciclo (Cap. 5). Quinze variáveis socioeconômicas e institucionais. Fichamento cobre a obra inteira. Limitação de identificação central: ausência de grupo de controle ou contrafactual. |
+| Data Generation Process (DGP) | O ENADE mensura desempenho e captura um questionário socioeconômico apenas no momento de conclusão do curso — representando uma fotografia pontual, não uma trajetória. Viés de seleção relevante: (1) estudantes que evadem ou trancam matrícula não figuram no banco, o que pode inflar indicadores positivos de perfil de quem conclui em IES de maior qualidade; (2) reformas da LGPD em 2022 impossibilitaram replicação do estudo com dados atuais — o banco foi coletado em 2021 antes das reformulações. Viés de observação: a autorreferência de renda e raça em questionários pode subestimar pretos/pardos. | Fenômeno real (perfil socioeconômico de graduandos) → ENADE como instrumento de avaliação do MEC → questionário socioeconômico aplicado junto à prova → coleta de 15 variáveis categóricas e ordinais → triênios agrupados para evitar variação por área de estudo entre anos → análise descritiva e cluster. Unidade de análise: concluinte individual. Nível de agregação: triênio × tipo de IES × curso. Tipo de inferência: descritiva, com extrapolação interpretativa sobre tendências. |
+| Achados e Contribuições | O que o design identifica com força: (a) padrões descritivos de associação entre perfil socioeconômico e tipo de IES/curso ao longo de três ciclos; (b) o surgimento do perfil Baixa Renda-Cotista como fenômeno pós-Lei de Cotas. O que é especulativo: (a) a afirmação de que cotas "contribuíram" para este perfil — isso é hipótese pela cronologia, não causalidade testada; (b) implicações para o mercado de trabalho. | Resultados empíricos: (1) diversificação do perfil discente geral no período (aumento de pretos/pardos de 35,5% para 42,6%; concluintes com renda ≤3SM passaram de 22,4% para 48,2%); (2) persistência da associação entre alta renda e IES federais/cursos prestigiados (Medicina, Relações Internacionais, Engenharia Civil pré-expansão); (3) identificação de cinco perfis de concluintes via cluster: Alta Renda, Baixa Renda-Cotista, Baixa/Média Renda-Trabalhador, Baixa Renda-Dependente, Baixa Renda-EAD; (4) surgimento expressivo do perfil Baixa Renda-Cotista no Ciclo 3. Contribuições: mapeamento descritivo sistemático da estratificação horizontal por meio de microdados do ENADE; operacionalização da EMI para o Brasil usando análise de cluster em grande base de dados. |
+| Análise Crítica dos Achados | (a) Viés de seleção por evasão: quem conclui em IES federais já é selecionado — o perfil observado pode refletir sobrevivência diferencial, não democratização. (b) DGP × claim: a autora é cuidadosa em não inferir causalidade, mas a narrativa nas Considerações Finais se aproxima de causalidade ao atribuir o perfil Baixa Renda-Cotista às políticas de cotas. (c) Confundidores não controlados: variação macroeconômica no período (crescimento 2011–2014, recessão 2015–2016, crise 2017–2019) pode afetar composição dos concluintes independentemente das políticas; a análise descritiva não isola esse efeito. (d) O cluster Two-Step é sensível à ordem de processamento dos dados e ao critério de número de clusters — a autora não reporta testes de robustez (silhouette, BIC). (e) Generalizabilidade: restrita aos cursos cobertos pelo ENADE — cursos de duração ≤2 anos (tecnólogos) têm representação desigual por triênio; cursos presenciais em IES privadas de ponta (como medicina privada) podem ter padrão distinto. (f) Ausência de evidence from absence: a autora não discute se a não-redução da desigualdade horizontal poderia ser consistente com redução da desigualdade vertical absoluta — as dimensões não são mutuamente exclusivas. | O argumento descritivo é sólido e bem documentado. O salto interpretativo para avaliar a efetividade das políticas excede o que o design permite. |
+| Limitações | **Reconhecidas pelos autores:** (1) Os dados do ENADE representam momento pontual da vida do concluinte, não a trajetória acadêmica inteira; (2) evasão, trancamento e prorrogações não são capturados; (3) o banco foi coletado antes das reformulações da LGPD (2022), impossibilitando replicação com dados atuais; (4) o estudo é descritivo e não infere causas das diferenças observadas. <br> **Não reconhecidas ou subestimadas:** (1) Viés de seleção diferencial por evasão — se estudantes de baixa renda evadem mais, o perfil dos concluintes é selecionado pela capacidade de persistência, não só pelo acesso; (2) ausência de testes de robustez da clusterização (o número de clusters = 5 é imposto sem justificativa formal); (3) variação macroeconômica do período (expansão/recessão) é confundidor não discutido; (4) o peso da EAD na expansão privada pode produzir artefatos nos perfis, dado que cursos EAD têm características muito específicas que podem dominar clusters de baixa renda. |
+| Perspectiva Teórica | A moldura MMI/EMI é adequada para o tipo de pergunta e evidência. Há coerência entre a ontologia implícita (classes sociais como atores estratégicos que maximizam vantagens educacionais) e o método descritivo-comparativo. A principal tensão teórica: a autora usa EMI como quadro interpretativo dos resultados, mas não a testa formalmente — seria necessário comparar razões de chance entre grupos para verificar se a desigualdade horizontal aumentou enquanto a vertical diminuiu (o padrão EMI stricto sensu). A incorporação de Ribeiro e Schlegel (2015) e Carvalhaes e Ribeiro (2019) ancoramo trabalho solidamente na literatura brasileira de estratificação. | Tradições: sociologia da educação (Shavit, Lucas), teoria da estratificação social (MMI/EMI), literatura brasileira de desigualdade educacional. Ontologia: realismo crítico sobre classes sociais como categorias que produzem efeitos causais. Coerência interna alta, mas distância entre teoria (mecanismo causal EMI) e método (descrição associativa) não é suficientemente problematizada. |
+| Principais Referências | Diálogo amplo com literatura comparada (Shavit 2007, Lucas 2001, Raftery & Hout 1993, Carnoy 2011, Ayalon & Yogev 2005) e brasileira (Ribeiro & Schlegel 2015, Carvalhaes & Ribeiro 2019, Senkevics & Mello 2019, Karruz 2018). Ponto de diálogo pobre: literatura sobre determinantes da evasão e permanência (ausente, apesar de ser central para o argumento); literatura sobre retornos salariais por tipo de titulação (mencionada mas não integrada empiricamente). | Yossi Shavit (2007) — estratificação horizontal; Samuel Lucas (2001) — EMI; Raftery & Hout (1993) — MMI; Carlos A. C. Ribeiro & Carvalhaes (2019) — estratificação horizontal no Brasil; Senkevics & Mello (2019) — Lei de Cotas e IES federais; Catani, Hey & Gilioli (2006) — Prouni; Burgarelli (2017) — FIES. |
+| Observações | O design seria fortalecido por: (a) inclusão de ingressantes (não apenas concluintes) para isolar evasão diferencial; (b) um modelo de regressão multivariada simples para estimar a associação líquida entre renda e tipo de IES/curso, controlando por variáveis demográficas — o que o próprio design descritivo poderia suportar. A obra é relevante para pesquisadores da área como ponto de entrada bibliográfico e como fonte de padrões descritivos sobre o ENADE no período. Cobertura: obra inteira (Cap. 1–5 + Considerações Finais). Inferência sobre o mercado de trabalho, explicitamente apontada como agenda futura pela autora, permanece como lacuna estrutural. |
+
+:::
+
+---
+
+## Mapa Argumentativo {.unnumbered}
+
+| Capítulo | Título | Função argumentativa | Contribuição para a tese central |
+|:---------|:-------|:---------------------|:---------------------------------|
+| Cap. 1 | Apresentação da dissertação | Apresentação do puzzle e da tese | Formula a pergunta de pesquisa, enuncia a hipótese central (expansão → diversificação + persistência da desigualdade horizontal) e descreve dados e metodologia |
+| Cap. 2 | Expansão do ensino superior e redução de desigualdades educacionais, o que a literatura tem demonstrado? | Revisão de literatura / Fundamento teórico | Estabelece o quadro teórico (MMI/EMI) e demonstra que a expansão não reduziu desigualdade de classes em contexto comparado, legitimando a hipótese a ser testada no Brasil |
+| Cap. 3 | Expansão vs. estratificação horizontal da educação superior no Brasil | Análise empírica / Contextualização institucional | Reconstrói a trajetória histórica da expansão (privatização, Prouni, FIES, Lei de Cotas) e introduz a estratificação horizontal como problema específico do contexto brasileiro (divisão público/privado) |
+| Cap. 4 | Qual é o perfil de quem conclui a graduação? Análise descritiva | Análise empírica central | Documenta descritivamente o perfil socioeconômico e institucional dos 3,1 milhões de concluintes ao longo dos três ciclos, disagregando por tipo de IES e por curso |
+| Cap. 5 | O que mudou? Utilizando análise de cluster para identificar perfis | Extensão do argumento / Síntese empírica | Identifica cinco perfis de concluintes via Two-Step Cluster, rastreia sua evolução entre os três ciclos e demonstra que IES e curso continuam sendo marcadores de privilégio — com destaque para o surgimento do perfil Baixa Renda-Cotista |
+| Considerações Finais | — | Síntese e agenda | Consolida os achados confirmando a hipótese central, discute implicações normativas e propõe agenda futura (permanência estudantil e mercado de trabalho) |
+
+---
+
+## Capítulo 1: Apresentação da Dissertação (pp. 17–21)
+
+### Introdução e motivação [§1–§3]
+
+A dissertação parte da constatação de que, nas últimas décadas, o ensino superior no Brasil passou por uma **expansão** expressiva: aumento significativo de matrículas, criação de novos cursos e novas instituições (Ribeiro; Schlegel, 2015). Esta expansão foi acompanhada de políticas de ação afirmativa — Prouni, FIES e a Lei de Cotas nas IES federais (Lei n.º 12.711/2012) — cujo objetivo declarado era democratizar o acesso à universidade. Pesquisas anteriores confirmam que o perfil discente nas IES brasileiras de fato mudou, com maior inclusão de estudantes provenientes de escolas públicas, de baixa renda, negros e indígenas (Karruz, 2018; Ribeiro; Schlegel, 2015; Senkevics; Mello, 2019).
+
+Apesar desses avanços, Roza aponta uma tensão estrutural: as IES públicas correspondem a apenas cerca de 12% do total de IES do país (dado do Censo da Educação Superior de 2021), o que significa que a obtenção de um diploma em IES e cursos de maior prestígio continua restrita a estudantes com melhor desempenho em exames seletivos e com condições de se manter na universidade ao longo da graduação. A literatura internacional documenta como diferenças qualitativas entre cursos e instituições contribuem para perpetuar desigualdades educacionais e de mercado de trabalho (Carvalhaes; Costa Ribeiro, 2017; Gerber; Cheung, 2008; Lucas, 2001; Mont'Alvão, 2016). Este fenômeno é designado como **estratificação horizontal da educação superior**: o tipo e a qualidade do ensino como mecanismos pelos quais indivíduos de classes mais altas asseguram privilégios para seus descendentes.
+
+O contexto argumentativo é preciso: se antes a estratificação *vertical* (quem obtém diploma vs. quem não obtém) era o principal reprodutor de desigualdades no Brasil, agora a estratificação *horizontal* (que tipo de diploma, em que instituição, em que curso) emerge como o vetor central. O objetivo geral da dissertação é, portanto, analisar se as políticas de expansão e democratização tiveram algum efeito no perfil socioeconômico dos concluintes das IES e quais as implicações dessas mudanças para a desigualdade horizontal no ensino superior.
+
+### Pergunta de pesquisa e hipóteses [§4–§6]
+
+::: {.callout-note icon=false}
+**Pergunta central:** A expansão do ensino superior e as políticas de democratização do acesso reduziram a desigualdade entre classes na educação no Brasil?
+:::
+
+A autora ancora a pergunta na literatura comparada: países que expandiram o ensino terciário apresentaram substituição de desigualdade vertical por desigualdade horizontal — as classes mais altas, quando não podem mais se diferenciar pelo *acesso* ao diploma, diferenciam-se pelo *tipo* de diploma (Lucas, 2001). O objetivo é verificar se essa tendência se aplica ao caso brasileiro, onde, desde o início dos anos 2000, diversas políticas foram implementadas visando ampliar o acesso. Pesquisas anteriores já mostraram que o perfil do estudante universitário mudou, mas poucas investigaram a efetiva igualdade de oportunidades de *concluir* em cursos e IES mais seletivas.
+
+A **hipótese principal** é dupla: (a) a expansão trouxe diversificação do perfil discente no sistema como um todo; (b) ainda existem diferenças no perfil dos concluintes a depender da IES e do curso de origem — estudantes de classes mais altas continuam frequentando instituições e cursos de maior prestígio, enquanto estudantes de classes mais baixas foram majoritariamente alocados em instituições menos prestigiadas e cursos de menor qualidade.
+
+### Dados, metodologia e estrutura [§7–§9]
+
+A base empírica são os **microdados do ENADE** dos anos 2011 a 2019, totalizando 3.113.234 concluintes com resultados válidos. A escolha dos concluintes — e não dos ingressantes — é justificada pelo argumento de que são eles que efetivamente entram no mercado de trabalho como portadores de diploma: estudar seu perfil revela *quão desigual o sistema é*, dado que apenas aqueles com determinado perfil lograram superar as barreiras e concluir o ensino terciário.
+
+> **Nota 2:** Em 2022, os microdados do ENADE passaram por reformulações para atender à LGPD. As variáveis foram desagregadas, impossibilitando a reprodução deste estudo com os dados atualmente disponíveis no portal do INEP.
+
+> **Nota 3:** O ENADE analisa apenas concluintes, impossibilitando examinar o perfil socioeconômico ao longo de todo o período acadêmico. A situação socioeconômica registrada representa um momento pontual na vida do estudante.
+
+> **Nota 4:** Os dados foram utilizados a partir de 2011 pois, embora haja dados do ENADE desde 2005, reformulações no exame alteraram a estrutura do questionário socioeconômico. Os anos 2011–2019 apresentam estruturas similares, tornando a comparação possível.
+
+Os triênios foram agrupados em três **ciclos avaliativos**: 2011–2013 (Ciclo 1), 2014–2016 (Ciclo 2) e 2017–2019 (Ciclo 3). O agrupamento por ciclos é necessário pois o ENADE avalia cada curso por triênio segundo área de enquadramento — uma análise segregada por ano retrataria apenas algumas áreas. O trabalho adota análise *descritiva* do perfil socioeconômico, sem pretensão de inferência causal sobre *por que* existem diferenças entre concluintes de diferentes IES e cursos.
+
+---
+
+## Capítulo 2: Expansão do Ensino Superior e Redução de Desigualdades Educacionais — o que a literatura tem demonstrado? (pp. 22–32)
+
+### Introdução e panorama global da expansão [§1–§3]
+
+::: {.callout-note icon=false}
+**Argumento do capítulo:** A expansão do ensino superior não necessariamente reduz a desigualdade entre classes na educação — o que se observa é a substituição de desigualdade vertical por desigualdade horizontal.
+:::
+
+Desde a segunda metade do século XX, o ensino superior cresceu exponencialmente em todo o mundo (Schofer; Meyer, 2005; Trow, 1972). Em 1900, cerca de 1% da população entre 18 e 25 anos estava matriculada na universidade; nos anos 2000, essa proporção atingiu 20%, passando de 500 mil para cerca de 100 milhões de estudantes em termos absolutos (Schofer; Meyer, 2005). Esta expansão foi mais intensa em países com ensino secundário já universalizado ou quase universalizado, e naqueles com fortes vínculos com o sistema internacional — uma vez que países integrados ao sistema internacional sofrem maior pressão para impulsionar desenvolvimento social e econômico via investimento em educação.
+
+O movimento reformista europeu dos anos 1960 tinha dois objetivos centrais: promover crescimento econômico e reduzir desigualdade de oportunidades, permitindo que indivíduos historicamente excluídos do ensino secundário e terciário obtivessem uma titulação universitária (Ambler; Neathery, 1999). Schofer e Meyer (2005) argumentam que mudanças sociais e políticas do período pós-1960 — democratização, direitos humanos, avanço científico, planos de desenvolvimento — foram fundamentais para esse crescimento acelerado.
+
+Contudo, a expansão suscitou questionamentos sobre seu impacto na redução da desigualdade entre classes. A premissa lógica — de que equalizar oportunidades de acesso ao ensino superior equaliza oportunidades no mercado de trabalho — foi questionada por estudiosos da estratificação social (Shavit, 2007). Embora não haja dúvidas sobre o impacto positivo da expansão para o desenvolvimento social e econômico em geral, seus efeitos na redução da desigualdade *entre classes* parecem não corresponder às expectativas: quando um sistema educacional se expande, grupos privilegiados aproveitam novas oportunidades para perpetuar suas posições (Ayalon; Yogev, 2005).
+
+### Expansão, diversificação e hierarquização [§4–§7]
+
+Yossi Shavit (2007), em obra central sobre estratificação no ensino superior, argumenta que a expansão do ensino terciário criou uma maior *diversificação* do sistema universitário: ao lado das tradicionais instituições de pesquisa acadêmica, surgiram institutos técnicos e tecnológicos, cursos de menor duração (dois anos vs. quatro ou cinco anos), gerando diferenças em termos de dificuldade de ingresso, duração, retornos esperados no mercado de trabalho e custo de obtenção da titulação. Esta diversificação, embora relevante para a eficiência econômica, produziu uma **hierarquização** do sistema: certas titulações passaram a ser mais valorizadas que outras.
+
+Martin Carnoy (2011), em estudo sobre expansão e redistribuição de renda, demonstrou que na maioria dos países há grande variação no gasto por estudante entre tipos de instituições universitárias. Instituições de alto custo são frequentadas por estudantes com maior poder aquisitivo, enquanto estudantes de classes mais baixas são alocados em cursos e instituições de baixo custo. O problema central, segundo Carnoy, é que instituições de alto custo se expandem muito mais devagar que as de baixo custo: a expansão do sistema tende a gerar mais cursos e IES de baixo custo, e os novos ingressantes de diferentes classes sociais são alocados nessas instituições. Nos Estados Unidos, por exemplo, há forte correlação entre resultados do SAT, escolaridade dos pais dos estudantes, custo e prestígio da instituição (Carnoy, 2011).
+
+> **Nota 6:** O SAT é exame amplamente utilizado pela maioria das universidades para ingresso no ensino superior americano; seus resultados são enviados pelos estudantes como parte do processo de admissão (Buchmann, Condron & Roscigno, 2010).
+
+Há também evidências de que a expansão em países em desenvolvimento ocorreu em maior grau por meio do aumento de matrículas em instituições de baixo custo, reduzindo o gasto geral por estudante no sistema, enquanto nas instituições de elite esse gasto aumentou (Carnoy, 2011). O mercado de trabalho, por sua vez, passou a preferir progressivamente determinados tipos de instituições e cursos, privilegiando instituições e cursos de elite.
+
+### MMI vs. EMI: as hipóteses centrais [§8–§14]
+
+Para explicar os efeitos da expansão e hierarquização na desigualdade entre classes, duas hipóteses teóricas tornaram-se centrais no campo.
+
+Em 1993, Raftery e Hout desenvolveram a hipótese da **Desigualdade Maximamente Mantida** (*Maximally Maintained Inequality* — **MMI**). A MMI parte do princípio de que pais e filhos mobilizam os recursos disponíveis para garantir acesso a uma educação de qualidade. Apenas quando as classes mais altas atingem a *saturação* — quando aquele nível educacional se torna praticamente universal para aquele grupo — a expansão subsequente reduziria a desigualdade entre classes. Os três pressupostos da MMI são: (1) quando o crescimento do ensino básico eleva a demanda pelo superior, as transições educacionais baseadas na origem social permanecem constantes; (2) se a expansão aumenta vagas mais rapidamente que a demanda, as taxas de transição de todas as classes sociais aumentam, mas preservando as razões de chance entre classes; (3) somente quando a demanda das classes superiores se satura (taxas próximas de 100%) as razões de chance entre classes diminuem.
+
+A MMI foi criticada, entre outros pontos, por ignorar as diferenças qualitativas dentro do sistema educacional (Ayalon; Shavit, 2004). Diversos autores apontam que as diferenças no ensino superior têm duas origens: diversidade institucional e de campos de estudo (Ayalon; Yogev, 2005). A MMI permite uma diversificação socioeconômica entre estudantes matriculados, ainda que a desigualdade de chances de obtenção de titulação em cursos de maior prestígio permaneça constante.
+
+> **Nota 7:** Para Lucas, a dimensão qualitativa no processo de estratificação educacional é prevalente ainda que a saturação não tenha sido alcançada (Ayalon; Yogev, 2005).
+
+Em contraposição, Samuel Lucas (2001) propõe a hipótese da **Desigualdade Efetivamente Mantida** (*Effectively Maintained Inequality* — **EMI**). Uma vez que a saturação é alcançada para determinado grupo social, as desigualdades nas chances de obtenção daquele nível educacional são substituídas por desigualdades nas chances de trilhar uma trajetória educacional mais seletiva — grupos privilegiados buscam vantagens *qualitativas* para se diferenciar. A EMI opera em dois modos: (1) enquanto o nível educacional não for universal, a origem social determina *quem* completa aquele nível; (2) quando o nível se torna universal ou quase universal, a origem social determina *que tipo* de educação os indivíduos recebem dentro daquele nível. Em ambos os modos, as vantagens da origem social trabalham efetivamente para assegurar vantagens aos descendentes. Ao contrário da MMI, a EMI afirma que a origem social alocará estudantes a diferentes tipos de educação mesmo quando o nível é próximo do universal — anulando o otimismo da MMI para contextos de expansão. Uma das maiores contribuições da EMI é a necessidade de incorporar o *campo de estudo* e o *tipo de instituição* nas pesquisas comparadas.
+
+### Evidências comparadas [§15–§18]
+
+A desigualdade de oportunidades na educação é *substancial em todos os lugares onde houve medição*. Ambler e Neathery (1999) documentam que, na Europa, apesar das reformas políticas, os alcances educacionais permaneceram fortemente vinculados à classe social entre 1950 e 1990. Shavit e Blossfeld (1993) encontraram que a desigualdade entre estratos não diminuiu em 11 dos 13 países estudados, a despeito da expansão.
+
+Nos Estados Unidos, as *community colleges* ilustram bem o mecanismo EMI: ao absorver progressivamente mais membros de grupos desprivilegiados, direcionam-nos para carreiras menos prestigiadas enquanto estudantes de classes mais altas continuam acessando cursos mais bem remunerados (Ayalon; Yogev, 2005). Na França, estudantes de classes mais baixas se matriculam em carreiras técnicas e instituições de menor prestígio; na Suécia, o mesmo padrão compensou a redução da desigualdade de acesso (Ambler; Neathery, 1999). O mesmo fenômeno foi documentado na China e em Israel: o primeiro assistiu à queda do gasto médio por estudante com o aumento de matrículas em instituições de massa, enquanto o investimento em IES de elite cresceu (Carnoy, 2011); o segundo reduziu a desigualdade de acesso e obtenção de diploma, mas manteve ou aumentou a desigualdade em IES seletivas (Ayalon; Shavit, 2004).
+
+::: {.callout-tip}
+**Síntese interpretativa:** A redução da desigualdade entre classes como resultado da expansão do acesso ao ensino superior foi limitada em todos os países estudados. O padrão observado é consistente com a EMI: desigualdades quantitativas (quem tem diploma) foram sendo substituídas por desigualdades qualitativas (que tipo de diploma, em que instituição). A expansão abriu oportunidades para todos os grupos, mas grupos privilegiados utilizaram essas oportunidades para perpetuar suas posições via ensino *quantitativamente similar, porém qualitativamente superior*.
+:::
+
+---
+
+## Capítulo 3: Expansão vs. Estratificação Horizontal da Educação Superior no Brasil (pp. 33–44)
+
+### Introdução e singularidades do caso brasileiro [§1–§2]
+
+À semelhança de outros países, o Brasil apresentou grande expansão do ensino superior a partir da segunda metade do século XX, com aceleração mais acentuada a partir dos anos 2000. Os programas Prouni e FIES e a Lei de Cotas tiveram grande influência nesse processo. Embora a proporção de jovens com diploma de graduação no Brasil ainda não seja satisfatória em comparação internacional, a expansão possibilitou que indivíduos de classes mais baixas antes sem acesso ao ensino terciário pudessem ingressar e concluir estudos universitários (Ribeiro; Schlegel, 2015). A crítica central é que essa expansão se deu *predominantemente pelo setor privado*: o percentual de matrículas em IES privadas passou de 69,1% em 2002 para 76,5% em 2016, com grande parcela desse crescimento atribuída ao ensino à distância — de 1,1% para 18,6% do total de matrículas no mesmo período (Barbosa, 2021).
+
+O problema específico do Brasil é que as IES públicas possuem maior prestígio e tendem a obter melhores resultados nas avaliações de desempenho comparadas às privadas (Senkevics, 2021). Portanto, ampliar o acesso majoritariamente via setor privado não necessariamente significa ampliar as oportunidades de obter titulações em universidades e cursos de maior prestígio — o que torna a questão da hierarquização particularmente relevante no contexto brasileiro.
+
+### A trajetória de privatização do ensino superior [§3–§10]
+
+::: {.callout-note icon=false}
+**Contexto histórico:** A Reforma Universitária de 1968 (Lei 5.540) — durante a ditadura militar — excluiu o caráter eliminatório dos vestibulares e incentivou a expansão da iniciativa privada (por meio de estabelecimentos confessionais, fundações e empresas familiares), implantando o modelo de expansão pelo setor privado que perduraria por décadas.
+:::
+
+A LDB de 1996 (governo FHC) aprofundou esse modelo: as IES privadas ganharam autonomia para criar ou extinguir cursos sem autorização do MEC, a atividade passou a ser lucrativa sem necessidade de reinvestimento, e foi criada a personalidade jurídica dos *centros universitários* — com autonomia das universidades, porém sem as obrigações de pesquisa e extensão (Napolitano, 2017). Entre 1990 e 2002, a demanda pelo ensino superior (inscritos em vestibulares) cresceu 161,6%, mas a oferta de vagas cresceu 252,6% (Corbucci, 2004). No setor privado, a relação candidatos/vaga caiu de 2,9 para 1,6; nas IES públicas, subiu de 5,7 para 8,9 — revelando dinâmicas opostas.
+
+A crise econômica do final dos anos 1990 provocou evasão e excesso de vagas nas IES privadas (evasão de 35% em 2002, chegando a 49,5% em 2004). O **FIES**, criado em 1999, respondeu a esse problema, mas teve alcance limitado até as reformulações do final dos anos 2000. Em 2004, o governo lançou o **Prouni**: previa bolsas integrais para estudantes de escolas públicas com renda familiar per capita de até 1 SM, critério de seleção via ENEM, e reserva de cotas para pretos, pardos e indígenas (Catani; Hey; Gilioli, 2006). O programa contou com isenções fiscais como contrapartida para as IES privadas.
+
+> **Nota 16:** O Prouni retomava a tradição de isenções fiscais às IES privadas desde o final dos anos 1960. As IES privadas com fins lucrativos foram as que mais se beneficiaram, pois ao aderir ficariam isentas de praticamente todos os tributos federais (Carvalho, 2006).
+
+> **Nota 18:** O então Ministro da Educação Tarso Genro afirmou que a participação do reitor da UNIP foi decisiva no processo de alteração do Prouni. Cristina Carvalho afirma que "esta afirmação parece ter fundamento, uma vez que esta instituição é uma das maiores do país e seu proprietário vem influenciando, há anos, a política de ensino superior, tanto no Congresso Nacional como no Conselho Nacional de Educação" (Carvalho, 2006).
+
+O processo legislativo do Prouni envolveu 292 propostas de emendas pelas IES privadas — a grande maioria favorável a elas. O resultado final: a proporção de bolsas integrais foi reduzida de 20% para 8,5%, a renda de corte para bolsas integrais passou de 1 SM para 1,5 SM per capita, e foram incluídas bolsas parciais (Catani; Hey; Gilioli, 2006). Cristina Carvalho (2006) documenta que o jogo político obrigou o governo a ceder às pressões dos grupos de interesse privados em troca da aprovação da lei.
+
+As reformas do FIES em 2010 ampliaram dramaticamente o alcance do programa: os juros caíram de 6,5% para 3,4% ao ano, o financiamento passou a poder ser obtido em qualquer etapa da graduação, e o prazo de quitação foi ampliado para três vezes o período financiado mais 12 meses (Burgarelli, 2017). As despesas com FIES e Prouni juntos passaram de R$ 1,5 bilhão em 2003 para R$ 19,5 bilhões em 2016 — crescimento de 1.150,6% (Chaves; Reis; Guimarães, 2018). Em 2014, o FIES atingiu seu ápice, com gasto cerca de 12 vezes maior que em 2010, chegando a representar 19% a mais do que o total investido no ensino superior público (Burgarelli, 2017).
+
+> **Nota 21:** Em 2014, o conglomerado Kroton-Anhaguera foi o maior receptor de recursos do FIES, cerca de R$ 2 bilhões (Burgarelli, 2017).
+
+> **Nota 24:** Em 2014, cerca de 47% dos contratos do FIES em fase de pagamento estavam com mensalidades atrasadas, criando problema fiscal estrutural (Burgarelli, 2017).
+
+As reformas de 2014 e 2016 impuseram nota mínima de 450 pontos no ENEM, elevaram os juros de volta a 6,5% e reduziram drasticamente os novos contratos: de 732 mil em 2014 para 222 mil em 2016 (Ghirardi; Klafke, 2017). Em 2019, 43% dos contratos em atraso apresentavam inadimplência superior a 360 dias, e 87% dos atrasos se referiam a contratos do período 2010–2014 (CMAS, 2019). A taxa de inadimplência era inversamente relacionada ao saldo devedor — indicando que contratos menores (cursos de baixo custo ou com evasão) apresentavam maior risco de não pagamento.
+
+No setor público, a principal medida foi a **Lei de Cotas (Lei n.º 12.711/2012)**, que reservou no mínimo 50% das vagas das IES federais para estudantes de escolas públicas, de baixa renda, negros e indígenas. O ingresso foi facilitado pela expansão do ENEM e do SISU, permitindo que estudantes de diferentes localidades concorressem a qualquer curso e universidade federal pelo Brasil. Senkevics e Mello (2019) mostram que essas medidas aumentaram a participação de estudantes de escolas públicas, negros, indígenas e de baixa renda nas IES federais, com maior impacto em universidades mais elitizadas — aquelas com maior concorrência e prestígio.
+
+> **Nota sobre a Lei de Cotas [nota incluída por relevância argumentativa]:** Senkevics e Mello (2019) apontam o fenômeno da "superseleção de cotistas": no SISU, estudantes que se enquadram no perfil cotista, mas com alto desempenho no ENEM, preferem concorrer pelas cotas para garantir a vaga, mesmo tendo nota suficiente para a ampla concorrência. Isso elevou as notas de corte das vagas cotistas acima das de ampla concorrência em diversas universidades.
+
+### Estratificação horizontal no Brasil: o contraste público-privado [§11–§15]
+
+::: {.callout-note icon=false}
+**Conceito central:** A **estratificação horizontal** refere-se à hierarquização existente *dentro* de um mesmo nível educacional (Ribeiro; Schlegel, 2015) — as desigualdades qualitativas entre indivíduos que detêm o mesmo grau de instrução, mas em trajetórias institucionais distintas.
+:::
+
+Para Carlos Ribeiro (2011), a estratificação educacional é um dos principais mecanismos pelos quais desigualdades de classe são mantidas e reproduzidas no Brasil: indivíduos de classes mais altas utilizam os recursos à sua disposição para assegurar para si e seus descendentes uma qualificação que perpetue suas posições. No ensino superior brasileiro, as diferenças entre IES pública federal, estadual/municipal e privada são características decisivas: carreira escolhida, reputação da IES, qualidade do ensino e o custo de obtenção são fatores relevantes para o ingresso no mercado de trabalho (Ribeiro; Schlegel, 2015). Carvalhaes e Ribeiro (2019) demonstram que esses fatores, analisados conjuntamente, são os grandes responsáveis pelas variações salariais entre pessoas com diploma de graduação.
+
+> **Nota 27 [nota incluída por relevância argumentativa]:** Um exemplo dessa diferenciação no mercado de trabalho provém das *community colleges* nos EUA: estas universidades teriam um efeito ilusório ao canalizar estudantes de perfis socioeconômicos mais baixos para carreiras menos prestigiadas, mantendo o status quo. Os retornos no mercado de trabalho são distintos a depender do tipo de instituição e da carreira de formação (Carvalhaes; Ribeiro, 2019).
+
+A singularidade do Brasil está em que a divisão de qualidade entre público e privado no ensino superior é inversa à do ensino básico: na educação básica, as escolas privadas são melhores; no ensino superior, as IES públicas possuem desempenho superior. Isso cria um mecanismo específico: famílias que podem investir em educação básica privada de qualidade possuem maiores chances de obter um desempenho elevado nos vestibulares e, assim, ingressar nas melhores universidades — que são públicas e gratuitas. Desta forma, as condições socioeconômicas dos pais refletem tanto a carreira escolhida quanto o tipo de IES acessado, gerando estratificação horizontal como resultado de escolhas individuais que, no entanto, refletem chances reais desiguais de acesso a cursos mais seletivos (Carvalhaes; Ribeiro, 2019).
+
+Ribeiro e Schlegel (2015) ressaltam que a expansão da educação terciária no Brasil aumentou a participação de mulheres, pretos, pardos e indígenas no ensino superior, mas que essa participação se deu em cursos menos valorizados pelo mercado de trabalho — o que é consistente com um crescimento da estratificação horizontal. A forma como o ensino superior se ampliou — concentrada na criação de cursos com formações específicas, principalmente em IES privadas de baixo custo — explica esse padrão.
+
+::: {.callout-important}
+**Advertência normativa:** Expandir o ensino superior via setor privado no Brasil implica um problema estrutural: as IES públicas possuem desempenho superior e são mais valorizadas pelo mercado de trabalho, e a oferta de vagas públicas não é suficiente para atender a demanda potencial. Com isso, a hierarquização do ensino superior — com base no tipo de curso, instituição, qualidade, reputação e grau de competitividade — tende a se aprofundar, tornando a estratificação horizontal o principal mecanismo de reprodução de desigualdades de classe.
+:::
+
+---
+
+## Capítulo 4: Qual é o Perfil de Quem Conclui a Graduação? Análise Descritiva (pp. 45–97)
+
+### Introdução e objetivos do capítulo [§1–§2]
+
+O capítulo tem como objetivo apresentar uma análise descritiva do perfil socioeconômico dos 3.113.234 concluintes dos cursos de graduação das IES no Brasil entre 2011 e 2019. A autora reitera explicitamente o escopo analítico: trata-se de descrever *quem* concluiu, não de explicar *por que* há diferenças entre concluintes. Isso é fundamental, pois a escolha do curso, da carreira, da instituição e a capacidade de concluir a graduação envolvem decisões e interferências internas e externas que só poderiam ser analisadas mediante acompanhamento longitudinal da trajetória escolar desde a educação básica. Ainda assim, a evidência descritiva permite verificar se as políticas implementadas geraram mudanças no perfil dos graduados e se há indícios de estratificação horizontal.
+
+A análise está estruturada em quatro camadas progressivas: (1) perfil geral dos concluintes nos três ciclos; (2) características institucionais gerais; (3) comparação IES públicas vs. IES privadas; (4) diferenças entre cursos de graduação.
+
+### Aspectos socioeconômicos gerais [§3–§8]
+
+**Tabela 1 — Quantidade de concluintes por ciclo:**
+
+| Ciclo | Período | N (concluintes) | % do total |
+|:------|:--------|:----------------|:-----------|
+| Ciclo 1 | 2011–2013 | [dado no texto] | [dado no texto] |
+| Ciclo 2 | 2014–2016 | [dado no texto] | [dado no texto] |
+| Ciclo 3 | 2017–2019 | [dado no texto] | [dado no texto] |
+| **Total** | 2011–2019 | **3.113.234** | 100% |
+
+*(Os valores absolutos por ciclo constam na Tabela 1 da dissertação, p. 46, cujo conteúdo não pôde ser reproduzido integralmente a partir do PDF; o total de 3.113.234 concluintes é fornecido pela autora.)*
+
+**Sexo:** Em todos os ciclos, a participação feminina superou a masculina. No Ciclo 3 (2017–2019), 57,78% dos concluintes eram mulheres, frente a 42,22% de homens.
+
+**Cor/raça:** Houve aumento da participação de pretos e pardos entre os ciclos: de 35,51% no Ciclo 1 para 42,60% no Ciclo 3. Apesar desse crescimento, os autodeclarados brancos permaneceram maioria entre os concluintes. Chama atenção a queda da representação de indígenas: de 0,66% no Ciclo 1 para 0,35% no Ciclo 3 — tendência que a autora documenta mas não explica.
+
+**Renda familiar:** Este é o dado mais expressivo do capítulo. O percentual de concluintes com renda familiar de *até três salários-mínimos* passou de 22,41% no Ciclo 1 para 48,22% no Ciclo 3 — no Ciclo 3, quase metade dos concluintes declararam renda baixa. Inversamente, os concluintes com renda familiar acima de 10 SM reduziram de 24,40% para 8,47% entre os Ciclos 1 e 3. Esses números evidenciam uma substantiva diversificação do perfil de renda dos graduados ao longo do período.
+
+**Escolaridade dos pais:** A proporção de concluintes com pelo menos um dos pais com ensino superior ou pós-graduação reduziu ao longo dos ciclos, refletindo a entrada de estudantes com pais de menor escolaridade. Contudo, ainda era expressiva no Ciclo 3.
+
+**Situação de trabalho:** A autora documenta que parte significativa dos concluintes trabalha durante a graduação — fenômeno especialmente prevalente em IES privadas, como se verá na seção seguinte.
+
+**Dependência financeira e condição de moradia:** Uma parcela relevante dos concluintes depende financeiramente de terceiros ou da família, residindo com pais e/ou parentes.
+
+**Escola de origem do ensino médio:** A proporção de concluintes oriundos de escolas públicas de ensino médio aumentou ao longo dos ciclos, consistentemente com o perfil de renda.
+
+**Ingresso por ações afirmativas:** A proporção de concluintes que ingressaram por algum tipo de ação afirmativa aumentou entre os ciclos, refletindo a implementação e consolidação da Lei de Cotas a partir de 2012.
+
+### Características institucionais gerais [§9–§12]
+
+A análise das características institucionais revela que a maioria dos concluintes estudou em IES privadas — consistent com a composição geral do sistema, em que o setor privado responde pela maior parte das matrículas. A participação na modalidade EAD cresceu ao longo dos ciclos, refletindo a expansão expressiva do ensino à distância no Brasil. Quanto ao turno, houve predominância do turno noturno entre os concluintes, especialmente nas IES privadas. A nota média do **Conceito ENADE** dos cursos variou entre os tipos de IES, com IES federais apresentando notas consistentemente superiores.
+
+### IES públicas vs. IES privadas — aspectos socioeconômicos [§13–§18]
+
+::: {.callout-note icon=false}
+**Clivagem estruturante:** A diferença entre concluintes de IES públicas e privadas é a clivagem socioeconômica mais robusta documentada no capítulo, consistente ao longo dos três ciclos.
+:::
+
+A autora demonstra que concluintes de IES federais e estaduais/municipais apresentam, em todos os ciclos, **perfil socioeconômico mais elevado** do que concluintes de IES privadas em várias dimensões: (a) maior proporção com renda familiar elevada; (b) maior proporção com pelo menos um dos pais com ensino superior; (c) maior proporção que não exerce atividade remunerada durante a graduação; (d) maior proporção que mora sozinho ou em repúblicas. As diferenças em pontos percentuais entre os Ciclos 1 e 3, por categoria de IES, estão sistematizadas na **Tabela 15** da dissertação.
+
+Essa clivagem se mantém mesmo com a implementação da Lei de Cotas: a proporção de concluintes que ingressaram por ações afirmativas cresceu nas IES federais, mas o perfil de renda dos concluintes das IES federais ainda tende a ser mais elevado do que o das IES privadas — o que, como a autora interpreta, indica que as cotas têm um efeito de diversificação, mas que as condições de permanência em IES federais (cursos integrais, exigência de não trabalhar) filtram os estudantes de classes mais baixas.
+
+Quanto aos aspectos institucionais do contraste público-privado, as IES privadas concentram maior proporção de concluintes no turno noturno e na modalidade EAD. As IES federais concentram proporcionalmente mais concluintes com Conceito ENADE mais alto, reafirmando a hierarquia de qualidade.
+
+### Diferenças entre os cursos de graduação [§19–§30]
+
+A análise por curso revela padrões de estratificação horizontal claros e persistentes. A autora examina 15 variáveis para 51 cursos ou grupos de cursos, documentando diferenças substantivas:
+
+**Gênero por curso:** Cursos como Enfermagem, Pedagogia, Serviço Social, Nutrição e Fonoaudiologia apresentam proporção superior a 80% de concluintes do sexo feminino. Já Engenharias, Ciência da Computação e Sistemas da Informação são predominantemente masculinos.
+
+**Cor/raça (PPI) por curso:** Cursos como Serviço Social, Pedagogia e Educação Física apresentam maior proporção de concluintes pretos, pardos e indígenas. No polo oposto, cursos como Medicina, Relações Internacionais e Ciências Sociais concentram proporcionalmente mais brancos.
+
+**Renda familiar por curso:** As diferenças são pronunciadas. O percentual de concluintes com renda de até 3 SM é particularmente alto em cursos como Tecnólogos, Serviço Social, Pedagogia e cursos de licenciatura, e baixo em cursos como Medicina, Relações Internacionais e algumas Engenharias — indicando que o perfil de renda varia sistematicamente com o prestígio do curso.
+
+**Escolaridade dos pais por curso:** Cursos como Medicina, Relações Internacionais e Direito apresentam proporção elevada de concluintes com pelo menos um dos pais com ensino superior ou pós-graduação. Cursos de licenciatura e tecnólogos apresentam proporção muito menor.
+
+**Situação de trabalho por curso:** Medicina e alguns cursos de Engenharia concentram maior proporção de concluintes que não trabalham (o que exige maior suporte financeiro familiar), enquanto licenciaturas, Serviço Social e Pedagogia concentram mais concluintes que trabalham em tempo integral.
+
+**Dependência financeira por curso:** Medicina se destaca pela maior proporção de concluintes que dependem financeiramente de terceiros — consistente com a exigência de dedicação integral típica do curso. Cursos noturnos e menos seletivos concentram estudantes financeiramente independentes.
+
+**Escola de origem do ensino médio por curso:** Medicina é o curso com maior proporção de concluintes com ensino médio em escola privada, ao passo que cursos de licenciatura e tecnólogos concentram mais oriundos de escola pública.
+
+**Ingresso por ações afirmativas por curso:** A proporção de concluintes que ingressaram por cotas é maior em cursos das IES públicas e cresceu ao longo dos ciclos. Em Medicina, o percentual de cotistas permaneceu relativamente baixo em comparação a outros cursos das IES federais.
+
+**Modalidade EAD por curso:** Cursos de Pedagogia, Educação Física (licenciatura) e Administração concentram parcelas expressivas de concluintes na modalidade EAD.
+
+**Conceito ENADE por curso:** As notas médias do Conceito ENADE variam tanto por curso quanto por tipo de IES. As Tabelas 30, 31 e 32 da dissertação apresentam, respectivamente para cada ciclo avaliativo, as notas médias por curso e tipo de IES, revelando que as IES federais obtêm desempenho superior em praticamente todos os cursos.
+
+::: {.callout-tip}
+**Síntese interpretativa do Capítulo 4:** As análises descritivas por tipo de IES e por curso são convergentes: o perfil socioeconômico dos concluintes é sistematicamente associado ao tipo de instituição e ao campo de estudo. Concluintes de classes mais altas concentram-se em IES federais e em cursos de maior prestígio (Medicina, Direito, Relações Internacionais, Engenharias seletivas). Concluintes de classes mais baixas predominam em IES privadas, na modalidade EAD, no turno noturno e em cursos menos valorizados pelo mercado de trabalho (licenciaturas, tecnólogos, Serviço Social). Essa hierarquização persiste ao longo dos três ciclos, mesmo com a diversificação geral do perfil dos concluintes.
+:::
+
+---
+
+## Capítulo 5: O que Mudou? Análise de Cluster para Identificar Perfis entre os Concluintes (pp. 98–146)
+
+### Introdução e aspectos metodológicos [§1–§4]
+
+O Capítulo 5 tem como objetivo ir além da análise descritiva univariada e bivariada do Capítulo 4 e identificar *perfis* entre os concluintes das IES no Brasil — ou seja, padrões latentes de características socioeconômicas e institucionais que co-ocorrem sistematicamente. Para isso, Roza emprega a **análise de cluster Two-Step** (*Two-Step Cluster Analysis*), método adequado para bases de dados de grande dimensão que combinam variáveis categóricas e contínuas. O objetivo é verificar se existem agrupamentos relativamente homogêneos de concluintes e se esses agrupamentos se relacionam a determinadas IES e cursos — fornecendo evidência adicional sobre a estratificação horizontal.
+
+A análise é realizada separadamente para cada ciclo avaliativo (Ciclo 1, Ciclo 2 e Ciclo 3), o que permite rastrear *mudanças* na composição e no peso relativo dos perfis ao longo do período 2011–2019. A autora utilizou quinze variáveis para a clusterização, listadas na **Tabela 33** da dissertação, entre elas: faixa de renda familiar, cor/raça autodeclarada, escolaridade dos pais, situação de trabalho, dependência financeira, condição de moradia, escola de origem do ensino médio, tipo de ingresso (cotas ou não), categoria administrativa da IES, modalidade de ensino (presencial/EAD) e turno. Em todos os ciclos, o procedimento identificou cinco grupos distintos — rotulados do Grupo 1 ao Grupo 5 — cujas características são interpretadas a partir das distribuições de variáveis dentro de cada grupo.
+
+> **Nota metodológica [nota incluída por relevância argumentativa]:** A autora não discute critérios formais de seleção do número de clusters (como o índice de silhueta ou o BIC, que o Two-Step produz automaticamente). O número final de cinco grupos é reportado como resultado do algoritmo, mas a ausência de discussão sobre testes de robustez é uma limitação metodológica não reconhecida no texto.
+
+**Tabela 33 — Descrição das variáveis utilizadas no processo de análise de cluster (reprodução esquemática):**
+
+| Tipo | Variáveis |
+|:-----|:----------|
+| Socioeconômicas | Faixa de renda familiar; cor/raça; escolaridade do pai; escolaridade da mãe; situação de trabalho; dependência financeira; condição de moradia; escola de origem do ensino médio |
+| Institucionais | Categoria administrativa da IES; modalidade de ensino (presencial/EAD); turno; ingresso por ações afirmativas; Conceito ENADE do curso |
+| Outras | Sexo; curso de graduação |
+
+As **Tabelas 34, 35 e 36** apresentam a distribuição dos concluintes em cada agrupamento para os Ciclos 1, 2 e 3, respectivamente. A autora demonstra que os cinco grupos são estáveis entre ciclos quanto à *natureza* das características — embora a *proporção* de concluintes em cada grupo se altere, especialmente com o crescimento do perfil de baixa renda entre o Ciclo 1 e o Ciclo 3.
+
+### Perfil dos grupos obtidos — Ciclo 1 (2011–2013) [§5–§10]
+
+::: {.callout-note icon=false}
+**Ciclo 1 (2011–2013):** Os cinco grupos identificados refletem a estratificação socioeconômica do sistema educacional antes da plena implementação da Lei de Cotas (aprovada em 2012 e ainda em fase inicial de aplicação no período).
+:::
+
+A distribuição dos concluintes entre os grupos no Ciclo 1 está sistematizada nas Tabelas 34 e 37 da dissertação. A distribuição por tipo de IES (Figura 16) e por curso (Tabela 37) evidencia a associação entre grupo e origem institucional.
+
+**Grupo 1 — Alta Renda:** Perfil caracterizado por renda familiar elevada, pais com ensino superior, não trabalha, mora sozinho ou em república (indicando suporte financeiro familiar), escola de origem privada e ingresso predominantemente pela ampla concorrência. Concentra-se nas IES federais e nos cursos de maior prestígio (Medicina, Relações Internacionais, Engenharia Civil, Direito em IES federal). A nota média do Conceito ENADE do curso é alta. É o grupo que mais se encaixa no perfil de quem aproveita as melhores oportunidades do sistema educacional.
+
+**Grupo 2 — Baixa Renda-Cotista:** Perfil caracterizado por renda familiar baixa, pais com escolaridade mais baixa, ingresso por ações afirmativas, oriundo de escola pública e preto/pardo na maioria. Concentra-se em IES federais — o que é interpretável como efeito direto da Lei de Cotas — e em cursos de presença marcante nessas IES (licenciaturas, cursos da área de saúde). A nota média do Conceito ENADE do curso tende a ser relativamente alta pela concentração nas IES federais.
+
+> **Nota [nota incluída por relevância argumentativa]:** Senkevics e Mello (2019) documentam o fenômeno da "superseleção de cotistas" no SISU: estudantes que se enquadram no perfil cotista, mas com alto desempenho no ENEM, optam por concorrer via cotas para garantir a vaga, elevando a nota de corte das vagas cotistas acima das da ampla concorrência em algumas universidades. Isso sugere que o Grupo 2 pode incluir estudantes de alta performance, ainda que de baixa renda.
+
+**Grupo 3 — Baixa/Média Renda-Trabalhador:** Perfil marcado por trabalho remunerado em tempo integral ou parcial, dependência financeira parcial, renda baixa a média, frequência no turno noturno. Concentra-se em IES privadas e em cursos que permitem compatibilização com atividade laboral (Administração, Direito em IES privadas, cursos de licenciatura). A nota média do Conceito ENADE tende a ser mais baixa.
+
+**Grupo 4 — Baixa Renda-Dependente:** Perfil de renda muito baixa, dependência financeira elevada (de terceiros ou programas de transferência), oriundo de escola pública, preto/pardo. Concentra-se em IES privadas com bolsas do Prouni ou financiamento pelo FIES. A nota do Conceito ENADE tende a ser menor, e a proporção na modalidade presencial é maior que no EAD.
+
+**Grupo 5 — Baixa Renda-EAD:** Perfil com renda baixa, trabalho em tempo integral, estudo exclusivamente na modalidade EAD, turno noturno ou flexível. É o grupo com menor nota do Conceito ENADE, distribuído quase exclusivamente em IES privadas. Concentra-se em cursos com alta oferta em EAD: Administração, Pedagogia, Educação Física (licenciatura).
+
+**Tabela 38 — Quadro comparativo dos grupos obtidos no Ciclo 1 (reprodução esquemática):**
+
+| Grupo | Renda | Raça | Pais (esc.) | Trabalha | Ingresso | IES predominante | Modalidade |
+|:------|:------|:-----|:------------|:---------|:---------|:-----------------|:-----------|
+| 1 — Alta Renda | Alta | Branco | Superior | Não | Ampla concorrência | Federal | Presencial |
+| 2 — Baixa Renda-Cotista | Baixa | PPI | Baixa | Não/parcial | Cotas | Federal | Presencial |
+| 3 — Baixa/Média Renda-Trabalhador | Baixa/média | Misto | Baixa | Sim | Ampla concorrência | Privada | Presencial |
+| 4 — Baixa Renda-Dependente | Baixa | PPI | Baixa | Não/parcial | Prouni/FIES | Privada | Presencial |
+| 5 — Baixa Renda-EAD | Baixa | Misto | Baixa | Sim | Ampla concorrência | Privada | EAD |
+
+### Perfil dos grupos obtidos — Ciclo 2 (2014–2016) [§11–§15]
+
+::: {.callout-note icon=false}
+**Ciclo 2 (2014–2016):** Este ciclo corresponde ao período de maior expansão do FIES (2014) e de consolidação inicial da Lei de Cotas — o primeiro ciclo completo em que todos os cursos das IES federais deveriam ter implementado o sistema de reserva de vagas.
+:::
+
+Os cinco grupos mantêm sua estrutura geral de Ciclo 1, mas com mudanças na proporção relativa e em algumas características. As Figuras 22 a 27 e as Tabelas 39 e 40 da dissertação documentam o perfil de cada grupo no Ciclo 2.
+
+**Grupo 1 — Alta Renda:** Persiste com características semelhantes ao Ciclo 1, mas com uma leve redução na proporção de concluintes deste grupo nas IES federais, sugerindo que as cotas começaram a alterar a composição das universidades públicas. A concentração em cursos de alto prestígio (Medicina, Relações Internacionais, Direito em IES federais) permanece.
+
+**Grupo 2 — Baixa Renda-Cotista:** Cresce em proporção entre os Ciclos 1 e 2, refletindo a implementação crescente da Lei de Cotas nas IES federais. O perfil de renda e raça se mantém, com aumento da proporção de PPI. A autora interpreta esse crescimento como evidência direta dos efeitos da política de cotas na diversificação do perfil dos concluintes das IES federais.
+
+**Grupo 3 — Baixa/Média Renda-Trabalhador:** Mantém-se como um dos grupos de maior volume nas IES privadas. No Ciclo 2, a associação com financiamento via FIES é mais pronunciada — o período de expansão do programa (2014) coincide com o auge do ciclo, elevando a proporção de estudantes de baixa renda que conseguem se manter em IES privadas presenciais.
+
+**Grupo 4 — Baixa Renda-Dependente:** Continua associado ao Prouni e ao FIES. Há leve ampliação deste grupo, possivelmente relacionada à expansão do financiamento estudantil no período.
+
+**Grupo 5 — Baixa Renda-EAD:** Cresce substancialmente em proporção no Ciclo 2, refletindo a expansão acelerada da modalidade EAD nas IES privadas. O perfil socioeconômico deste grupo é o mais baixo do sistema, e a nota do Conceito ENADE dos cursos em que se concentra é também a mais baixa.
+
+**Tabela 40 — Quadro comparativo dos grupos obtidos no Ciclo 2:** A estrutura é análoga à Tabela 38 do Ciclo 1; as diferenças de magnitude são documentadas nas figuras e tabelas do capítulo, mas a tipologia dos grupos permanece estável.
+
+### Perfil dos grupos obtidos — Ciclo 3 (2017–2019) [§16–§21]
+
+::: {.callout-note icon=false}
+**Ciclo 3 (2017–2019):** Este ciclo coincide com o período de retração do FIES (reformas de 2016–2017), maturação plena da Lei de Cotas nas IES federais e contexto de crise econômica (recessão 2015–2016 e recuperação gradual). É o ciclo em que os efeitos de longo prazo das políticas de expansão são mais visíveis nos concluintes.
+:::
+
+As Figuras 28 a 33 e as Tabelas 41 e 42 documentam o perfil de cada grupo no Ciclo 3. A principal mudança estrutural entre Ciclos 1 e 3 é o crescimento expressivo do **Grupo 2 (Baixa Renda-Cotista)** e do **Grupo 5 (Baixa Renda-EAD)**, e a redução relativa do **Grupo 1 (Alta Renda)**.
+
+**Grupo 1 — Alta Renda:** Mantém sua associação com IES federais e cursos de alto prestígio, mas sua proporção relativa no sistema como um todo diminuiu entre os ciclos. Medicina permanece como o curso com maior concentração deste grupo. A persistência do perfil de alta renda em cursos de medicina nas IES federais é particularmente relevante, pois indica que mesmo com as cotas, estudantes de alta renda continuam sendo a maioria dos concluintes de Medicina nas IES federais.
+
+**Grupo 2 — Baixa Renda-Cotista:** É o grupo que mais cresce proporcionalmente entre Ciclos 1 e 3. Seu crescimento é mais pronunciado nas IES federais e nos cursos que implementaram cotas de forma mais abrangente. A autora interpreta esse crescimento como o principal indicador de que as políticas de democratização *tiveram efeito* — mas circunscrito às IES federais e a cursos específicos.
+
+**Grupo 3 — Baixa/Média Renda-Trabalhador:** Com a retração do FIES a partir de 2016, parte dos estudantes que antes seriam financiados deixa de ter acesso ao crédito. Isso pode ter impactado a composição deste grupo no Ciclo 3, possivelmente reduzindo a presença de estudantes que dependiam do FIES para se manter em cursos presenciais.
+
+**Grupo 4 — Baixa Renda-Dependente:** Sofre impacto da retração do FIES e das restrições do Prouni. A proporção deste grupo pode apresentar alguma redução ou estagnação no Ciclo 3 em relação ao Ciclo 2.
+
+**Grupo 5 — Baixa Renda-EAD:** Continua crescendo no Ciclo 3, refletindo a expansão ininterrupta do EAD mesmo no período de retração do FIES (o EAD é mais barato e menos dependente de financiamento estudantil formal). Este grupo concentra os concluintes com pior situação socioeconômica e pior desempenho ENADE — representando, para a autora, o extremo inferior da estratificação horizontal.
+
+**Tabela 42 — Quadro comparativo dos grupos obtidos no Ciclo 3:** Análoga às tabelas dos ciclos anteriores; a comparação entre os três quadros (Tabelas 38, 40 e 42) é sintetizada na subseção seguinte.
+
+### O que mudou? Comparação dos perfis entre os três ciclos [§22–§29]
+
+A seção 5.5 é o núcleo interpretativo do capítulo, integrando os achados dos três ciclos para responder à pergunta central da dissertação. A autora utiliza a **Figura 34** (Esquema comparativo da trajetória dos perfis ao longo dos três ciclos avaliativos) e as **Tabelas 43 e 44** para sistematizar as mudanças.
+
+**Tabela 43 — Distribuição dos concluintes em % por perfil e ciclo em cada tipo de IES (p. 135):**
+
+A tabela documenta como a distribuição dos cinco grupos varia entre IES federais, estaduais/municipais e privadas ao longo dos ciclos. Os principais padrões são:
+
+- Nas **IES federais**, o Grupo 2 (Baixa Renda-Cotista) cresce expressivamente entre Ciclo 1 e Ciclo 3, enquanto o Grupo 1 (Alta Renda) reduz em proporção. Isso confirma o efeito de diversificação das cotas.
+- Nas **IES privadas**, o Grupo 5 (Baixa Renda-EAD) cresce mais do que os demais entre Ciclo 1 e Ciclo 3, refletindo a expansão do EAD.
+- O Grupo 3 (Baixa/Média Renda-Trabalhador) permanece como o maior grupo nas IES privadas presenciais em todos os ciclos.
+
+**Tabela 44 — Distribuição dos concluintes em % por perfil e ciclo em cada curso (p. 137):**
+
+A tabela evidencia que a distribuição dos grupos por curso é altamente heterogênea e persistente ao longo dos ciclos. Alguns padrões salientes:
+
+- **Medicina:** Concentração do Grupo 1 (Alta Renda) em todos os ciclos, com crescimento moderado do Grupo 2 (Baixa Renda-Cotista) no Ciclo 3 — mas o Grupo 1 permanece majoritário. O Conceito ENADE médio de Medicina nas IES federais é consistentemente alto.
+- **Serviço Social e Pedagogia:** Concentração dos Grupos 3, 4 e 5 em todos os ciclos, com forte presença do Grupo 5 no Ciclo 3 (EAD). Estes cursos concentram os concluintes de menor renda e os concluintes que mais precisam trabalhar durante a graduação.
+- **Direito:** Curso com distribuição mais heterogênea entre os grupos — refletindo a dualidade entre o Direito nas IES federais (mais próximo do Grupo 1) e o Direito nas IES privadas (Grupos 3 e 4).
+- **Engenharia Civil:** No Ciclo 1, concentrava mais concluintes do Grupo 1. No Ciclo 3, há leve diversificação, mas o perfil de alta renda persiste.
+- **Administração:** Curso de maior volume no sistema, com distribuição heterogênea que reflete a diversidade de IES em que é ofertado — incluindo grande proporção do Grupo 5 (EAD) no Ciclo 3.
+
+A autora destaca que o **Grupo 2 (Baixa Renda-Cotista)** é o único grupo que cresce sistematicamente em praticamente todos os tipos de IES e em um número crescente de cursos ao longo dos três ciclos. Isso evidencia o impacto acumulado das políticas de ação afirmativa, especialmente da Lei de Cotas, mas também do Prouni e do FIES (em menor grau no Ciclo 3 com a retração do FIES). O surgimento e crescimento deste grupo é interpretado como a principal contribuição das políticas de democratização para a diversificação do perfil dos concluintes.
+
+Por outro lado, o **Grupo 1 (Alta Renda)** persiste em cursos específicos — sobretudo Medicina — e em IES federais de alta seletividade, mesmo no Ciclo 3. Isso indica que, apesar da diversificação geral, a estratificação horizontal se mantém: os cursos e instituições de maior prestígio continuam sendo predominantemente acessados por estudantes de classes mais altas.
+
+::: {.callout-important}
+**Achado central:** A comparação entre os três ciclos demonstra que as políticas de expansão e democratização produziram diversificação do perfil dos concluintes em termos gerais, mas não eliminaram a associação entre origem socioeconômica e tipo de IES/curso. A estratificação horizontal persiste: concluintes de alta renda concentram-se em IES federais e cursos de alto prestígio; concluintes de baixa renda predominam em IES privadas, na modalidade EAD e em cursos de menor valorização no mercado de trabalho.
+:::
+
+### Conclusões do Capítulo 5 [§30–§33]
+
+A autora conclui o capítulo reafirmando que a análise de cluster confirma a hipótese central da dissertação: (a) houve diversificação do perfil dos concluintes, especialmente com o crescimento do Grupo 2 (Baixa Renda-Cotista), e (b) a associação entre origem socioeconômica e tipo de IES/curso persiste, configurando estratificação horizontal. O surgimento e crescimento do perfil Baixa Renda-Cotista é interpretado como o principal legado concreto das políticas de cotas e bolsas — um perfil de concluinte que não existia no início da série histórica e que, no Ciclo 3, tem presença significativa nas IES federais. Contudo, este grupo ainda precisa adaptar condições de vida e financeiras para concluir a graduação em IES federais, o que evidencia que o desafio da permanência permanece como questão não resolvida pelas políticas implementadas.
+
+---
+
+## Considerações Finais (pp. 147–150)
+
+### Síntese dos achados e resposta à pergunta de pesquisa [§1–§4]
+
+::: {.callout-note icon=false}
+**Resposta à pergunta de pesquisa:** As políticas de expansão e democratização do ensino superior no Brasil contribuíram para uma maior diversificação do perfil dos concluintes, mas *não reduziram* a desigualdade entre classes na educação superior quando considerada a dimensão horizontal — ou seja, a associação entre origem socioeconômica e tipo de IES e curso de graduação persiste.
+:::
+
+As Considerações Finais retomam a pergunta de pesquisa central e avaliam em que medida a hipótese foi confirmada pelos dados. A autora reitera que as políticas implementadas — Prouni, FIES e Lei de Cotas — de fato produziram uma maior diversificação do perfil discente nas IES, especialmente nas IES federais após 2012. O fenômeno mais significativo é o surgimento e crescimento do perfil Baixa Renda-Cotista (Grupo 2), que representa estudantes de baixa renda e PPI (pretos, pardos e indígenas) que ingressaram e concluíram a graduação em IES federais por meio das cotas — perfil praticamente ausente no Ciclo 1. Este resultado é apresentado como evidência direta de que as políticas de ação afirmativa tiveram impacto real.
+
+Ao mesmo tempo, as considerações finais reconhecem que essa diversificação não eliminou a estratificação horizontal. A análise descritiva e a análise de cluster convergem para o mesmo diagnóstico: cursos de maior prestígio (Medicina, Relações Internacionais, Engenharia Civil, Direito em IES federais) e IES com maior desempenho no ENADE continuam sendo majoritariamente frequentados por estudantes de classes mais altas. O Grupo 1 (Alta Renda) persiste como o grupo dominante nesses cursos e instituições ao longo de todos os ciclos — ainda que com proporção relativa menor no Ciclo 3 que no Ciclo 1.
+
+### Implicações teóricas e empíricas [§5–§7]
+
+Roza interpreta seus achados à luz da hipótese da EMI (Lucas, 2001): os dados são consistentes com o padrão de desigualdade efetivamente mantida. A expansão do ensino superior abriu oportunidades para novos grupos, mas os grupos privilegiados responderam posicionando-se nos cursos e instituições de maior qualidade — o que é consistente com a lógica da EMI. O mecanismo operante no Brasil é a combinação de: (a) seletividade de ingresso nas IES federais (via ENEM/vestibular), que favorece estudantes com melhor preparação, associada à capital cultural da família; e (b) capacidade de permanência na universidade sem trabalho remunerado, que é condição para frequentar cursos integrais e de alta exigência.
+
+A autora também reconhece uma dimensão normativa relevante: a diversificação do perfil dos concluintes é um avanço real e não deve ser minimizado. O fato de quase metade dos concluintes no Ciclo 3 ter renda familiar de até 3 SM é um indicador de transformação substantiva do sistema. Contudo, essa diversificação não veio acompanhada de igualdade de posições: ela ocorreu predominantemente em cursos e IES de menor prestígio, enquanto as titulações mais valorizadas continuam sendo desproporcionalmente acessadas por estudantes de classes mais altas.
+
+### Agenda de pesquisa futura [§8–§9]
+
+As Considerações Finais encerram com propostas para pesquisa futura. A autora identifica dois grandes gap ainda não cobertos por seu estudo: (1) os **efeitos das políticas de democratização na permanência estudantil** — a evasão diferencial por classe social é um fenômeno paralelo à estratificação horizontal e que determina, em última instância, quem de fato conclui a graduação; (2) os **retornos no mercado de trabalho** para concluintes de diferentes perfis — se o Grupo 2 (Baixa Renda-Cotista) tem retornos salariais equivalentes ao Grupo 1 (Alta Renda) ao concluir nos mesmos cursos e IES, isso seria evidência mais forte de que as políticas de democratização estão funcionando para reduzir desigualdades. Essas duas dimensões, não captadas pelos microdados do ENADE, são apresentadas como prioridade para pesquisas futuras que utilizem dados longitudinais e de mercado de trabalho.
+
+---
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+
+**Tese central:** As políticas de expansão e democratização do ensino superior no Brasil (Prouni, FIES e Lei de Cotas) contribuíram para diversificar o perfil socioeconômico dos concluintes das IES entre 2011 e 2019, mas não eliminaram a desigualdade entre classes na educação superior: a origem socioeconômica continua sendo um preditor robusto do tipo de IES e curso em que o estudante conclui a graduação, configurando estratificação horizontal persistente.
+
+**Natureza do argumento:** Descritivo-avaliativo. A autora não testa relações causais, mas documenta associações sistemáticas entre perfil socioeconômico e posição no sistema educacional ao longo de três ciclos temporais, interpretando as mudanças observadas como indícios dos efeitos das políticas — sem identificação causal formal.
+
+**O que o texto demonstra:** (a) Que houve diversificação real do perfil dos concluintes, especialmente pela incorporação de estudantes de baixa renda e PPI em IES federais (Grupo Baixa Renda-Cotista); (b) que a clivagem público-privado é a divisão socioeconômica mais robusta do sistema — concluintes de IES federais têm perfil sistematicamente mais elevado que os de IES privadas; (c) que cursos de alto prestígio (Medicina, Relações Internacionais) continuam sendo majoritariamente frequentados por concluintes de alta renda, mesmo no Ciclo 3; (d) que a expansão via EAD produziu um perfil de concluinte (Baixa Renda-EAD) com as piores condições socioeconômicas e o pior desempenho ENADE.
+
+**O que fica como hipótese ou agenda:** Se a diversificação do perfil dos concluintes se traduz em redução de desigualdades no mercado de trabalho permanece como hipótese não testada. O papel da evasão diferencial na seleção dos concluintes — que pode inflar indicadores positivos do sistema — tampouco é controlado. A atribuição causal das mudanças observadas às políticas específicas (Prouni, FIES ou Lei de Cotas) não é identificada, pois as políticas operam simultaneamente e sem grupo de controle adequado.
+
+**Contribuição para o debate:** A dissertação oferece o mapeamento descritivo mais sistemático disponível sobre estratificação horizontal nos concluintes brasileiros com base nos microdados do ENADE (N > 3 milhões). Ao operacionalizar a lógica da EMI para o Brasil via análise de cluster longitudinal, preenche um gap na literatura brasileira que se concentrava em ingressantes e em estudantes matriculados, não em concluintes. Posiciona o Brasil no debate internacional sobre desigualdade efetivamente mantida, confirmando que o padrão observado em países como EUA, França e Israel — substituição de desigualdade vertical por horizontal com a expansão do ensino superior — tem correspondência no caso brasileiro, com a especificidade da inversão de qualidade público-privado herdada da trajetória histórica de privatização do ensino superior.
+
+:::

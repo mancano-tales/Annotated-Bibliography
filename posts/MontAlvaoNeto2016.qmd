@@ -1,0 +1,178 @@
+---
+title: "Fichamento: Expansão, diferenciação e desigualdades no ensino superior"
+subtitle: "Mont'Alvão Neto, Arnaldo Lopo (2016) — Revista Brasileira de Ciências Sociais, Vol. 31, n° 92"
+author: "Tales Mançano"
+date: "2026-05-08"
+last-updated: "2026-05-08"
+coverage: "Obra completa (artigo de resenha, pp. 1–3)"
+categories: [Annotated Bibliography, Sociology of Education, Inequality, Higher Education Policy, Brazil]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+    execute: false
+---
+
+Mont'Alvão Neto, A. L. (2016). Expansão, diferenciação e desigualdades no ensino superior [Resenha de *Desigualdade e expansão do ensino superior na sociedade contemporânea: o caso brasileiro do final do século XX ao princípio do século XXI*, por A. A. P. Prates & A. C. M. Collares]. *Revista Brasileira de Ciências Sociais*, *31*(92), e319211. https://doi.org/10.7666/319211/2016
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → MontAlvaoNeto2016
+
+```bibtex
+@article{MontAlvaoNeto2016,
+  author  = {Mont'Alvão Neto, Arnaldo Lopo},
+  title   = {Expansão, diferenciação e desigualdades no ensino superior},
+  year    = {2016},
+  journal = {Revista Brasileira de Ciências Sociais},
+  volume  = {31},
+  number  = {92},
+  pages   = {e319211},
+  doi     = {10.7666/319211/2016},
+  note    = {Resenha de: PRATES, Antônio Augusto Pereira; COLLARES, Ana Cristina Murta. Desigualdade e expansão do ensino superior na sociedade contemporânea: o caso brasileiro do final do século XX ao princípio do século XXI. Belo Horizonte: Fino Traço, 2014. 184 p.}
+}
+```
+
+:::
+
+```
+Última atualização: 2026-05-08
+Modelo: Perplexity / Claude Sonnet 4.6 Thinking
+Prompt Version: v17.2 2026-05-08 | Ficha antes do fichamento
+Gerado em: 2026-05-08T21:00:00-03:00
+Ocasião da Leitura: [Para preenchimento manual do usuário]
+```
+
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | O resenhista não formula uma pergunta própria explícita — sua função é avaliar se o livro resenhado responde adequadamente ao seu próprio puzzle. A premissa central é que expansão sem diferenciação reproduz desigualdade. O ponto mais vulnerável é que a resenha aceita o enquadramento do livro sem testar interpretações alternativas para os achados empíricos. | **Pergunta reconstruída:** O processo de expansão do ensino superior brasileiro entre o final do século XX e o início do XXI alterou os padrões de desigualdade de acesso — vertical e horizontal — e em que medida a diferenciação institucional do sistema media essa relação? A questão é de natureza explicativa/descritiva. |
+| Questões Secundárias | A premissa subjacente é que há dois planos analíticos distintos (macro-institucional e micro-estratificação) que precisam ser integrados. O risco é que a articulação entre eles permaneça declaratória na resenha. | (1) Como o sistema de ensino superior brasileiro se diferenciou institucionalmente em perspectiva comparada internacional? (2) Quais fatores socioeconômicos e raciais determinam as chances de acesso ao ensino superior e às redes pública e privada? As duas questões correspondem, respectivamente, à Parte I e à Parte II do livro resenhado. |
+| Puzzle-Type | O puzzle é genuíno: a literatura já havia demonstrado expansão sem democratização em vários contextos, mas o caso brasileiro combina rigidez institucional incomum (modelo acadêmico não flexibilizado) com expansão acelerada majoritariamente privada, o que cria uma combinação particular. A generalização além do Brasil é plausível para outros países de industrialização tardia com baixa educação vocacional. | Puzzle explicativo combinado com gap descritivo: o sistema expandiu-se intensamente, mas a diferenciação institucional permaneceu limitada — em que medida isso sustenta ou atenua as desigualdades de acesso? O puzzle é apresentado pelo resenhista como o argumento central que o livro se propõe a resolver. |
+| Conclusão / Argumento Central | O resenhista adota a tese do livro como válida e bem sustentada, sem apresentar contra-argumentos substantivos. A natureza do argumento é causal-mediada: a baixa diferenciação institucional limita a capacidade de absorção de demanda e perpetua desigualdades. O que o sustenta empiricamente são os modelos de regressão sobre PNAD e Provão/Enade. | A tese central é que expansão e desigualdade no ensino superior brasileiro são mediadas pela forma como o sistema se diferenciou (ou não) institucionalmente. A rigidez do modelo acadêmico brasileiro, em contraste com a tendência mundial de flexibilização, é o mecanismo explicativo central. Achados empíricos: leve queda das desigualdades raciais de acesso; estabilidade das desigualdades socioeconômicas; efeito da escolaridade dos pais maior no acesso à rede pública; efeito da renda maior no acesso à rede privada. |
+| Métodos | O texto avaliado é uma **resenha crítica** de 3 páginas, sem metodologia empírica própria. O fichamento cobre a obra inteira (o artigo de resenha). A avaliação metodológica do livro pelo resenhista é sumária: ele descreve os métodos do livro resenhado (regressão logística binária e multinomial com PNAD e Provão/Enade) mas não avalia suas limitações de identificação. | Resenha crítica em periódico: texto descritivo-avaliativo sem coleta de dados primários. Descreve o livro como mixed-methods (análise histórico-comparativa + análise estatística). As técnicas mencionadas do livro são: (a) regressão logística binária para acesso ao ensino superior; (b) regressão multinomial para acesso diferenciado por rede pública vs. privada. Fontes: PNAD e Provão/Enade. Cobertura temporal: 1980 a meados dos anos 2000. |
+| Data Generation Process (DGP) | O DGP é o do livro resenhado, não do resenhista. A PNAD é uma survey amostral domiciliar — introduz viés de sobrevivência (só capta quem já completou trajetórias ou está nelas) e não distingue entre matrículas concluídas e abandonadas. O Provão/Enade aplica-se somente a estudantes já matriculados, o que cria viés de seleção amostral severo para inferências sobre acesso. | **Conforme descrito na resenha:** Fenômeno (desigualdade de acesso ao ES) → observação indireta via pesquisa domiciliar (PNAD, nível indivíduo/família) e exame nacional (Provão/Enade, nível estudante matriculado) → operacionalização de origem socioeconômica via renda e escolaridade dos pais, raça → análise de regressão → inferência sobre diferenciais de acesso. Unidade de análise: indivíduo. Nível de agregação: nacional. |
+| Achados e Contribuições | O resenhista distingue claramente o que o design identifica com força (padrões descritivos de acesso via regressão com controles) do que é mais especulativo (o mecanismo causal entre diferenciação institucional e desigualdade, sustentado por argumento comparativo sem counterfactual formal). | **Empíricos (do livro):** leve queda das desigualdades raciais de acesso; estabilidade das desigualdades socioeconômicas; efeito da escolaridade dos pais predomina no acesso à rede pública; efeito da renda predomina no acesso à rede privada. **Teórico-metodológicos:** integração inédita no contexto brasileiro das abordagens macro-institucional e micro-estratificação; inscrição na "quarta geração" de estudos comparativos de estratificação (Treiman e Ganzeboom, 2000). |
+| Análise Crítica dos Achados | A análise crítica do resenhista é positiva e pouco adversarial. Ele identifica corretamente a principal limitação temporal, mas não questiona: (a) a ausência de counterfactual para o argumento causal sobre diferenciação institucional; (b) o uso do Provão/Enade para inferências sobre acesso (estudantes já matriculados ≠ população que tenta acessar); (c) a estabilidade das desigualdades socioeconômicas pode ser artefato de mudanças na composição da amostra ao longo do tempo e não necessariamente ausência de mudança real. O argumento sobre modelo acadêmico rígido vs. flexibilização global é sugestivo, mas a identificação do mecanismo causal entre tipo institucional e desigualdade de acesso não é demonstrada — é inferida por analogia comparativa. | O resenhista valida o argumento central sem testar hipóteses alternativas (ex.: a desigualdade estável poderia refletir mudanças na estrutura ocupacional ou no prêmio salarial à educação superior que tornam o acesso estrategicamente mais ou menos vantajoso para diferentes grupos). A contribuição genuína — integração macro-micro — é reconhecida com precisão; a crítica metodológica permanece superficial. |
+| Limitações | **Reconhecidas pelos autores (conforme resenha):** As análises quantitativas alcançam apenas até meados da primeira década do século XXI, impossibilitando avaliar o impacto de programas como Reuni, IFETs, Prouni e políticas de ação afirmativa sobre diferenciação e desigualdade. <br> **Não reconhecidas ou subestimadas:** (1) viés de seleção amostral no uso do Provão/Enade para inferências de acesso; (2) ausência de identificação causal formal para o argumento sobre diferenciação institucional → desigualdade; (3) possível confundimento temporal na análise de tendências de desigualdade racial e socioeconômica; (4) a resenha em si não avalia a adequação dos modelos de regressão (especificação, controles omitidos, efeitos de interação). |
+| Perspectiva Teórica | A moldura teórica é adequada para o tipo de pergunta e coerente com os métodos. O risco é que a "quarta geração" como enquadramento seja mais rótulo do que moldura analítica operacionalizada — o resenhista não explicita como a interação entre padrões de estratificação e arranjos institucionais é formalizada empiricamente. | Sociologia da educação e estratificação social comparada. Tradições mobilizadas: (a) institucionalismo organizacional (Meyer et al., 1992; Schofer e Meyer, 2005) para a expansão global; (b) literatura de estratificação educacional comparada (Treiman e Ganzeboom, 2000; Shavit, Arum e Gamoran, 2007) para desigualdades de acesso. A ontologia implícita é estruturalista-institucionalista: os padrões de desigualdade são moldados pelas configurações institucionais dos sistemas de ensino. |
+| Principais Referências | O diálogo é adequado para uma resenha de 3 páginas. Ausência notável: literatura sobre efeitos de políticas de ação afirmativa e cotas raciais no Brasil, que já existia ao tempo da publicação. | Meyer et al. (1992); Schofer e Meyer (2005); Arum, Gamoran e Shavit (2007); Treiman e Ganzeboom (2000); Prates (2005); Collares (2010); Pastore e Silva (2000); Muller e Kogan (2010). |
+| Observações | **Importante para o leitor:** O PDF fichado não é o livro de Prates e Collares (2014), mas a resenha de Mont'Alvão Neto (2016). O fichamento cobre o argumento do resenhista sobre o livro; não cobre diretamente os dados, tabelas e argumentos originais da obra resenhada. Para um fichamento do livro, seria necessário o PDF do próprio volume. A cobertura é, portanto, **mediada** — qualquer inferência sobre os dados empíricos do livro passa pelo filtro interpretativo do resenhista. Para a pesquisa do leitor sobre desigualdade educacional no Brasil com PNAD, o livro de Prates e Collares (2014) é referência direta relevante; esta resenha funciona como ponto de entrada e avaliação de pertinência. |
+
+:::
+
+## Mapa Argumentativo {.unnumbered}
+
+> **Nota:** Como o texto fichado é uma resenha de artigo (3 páginas, sem divisão em capítulos ou seções explicitamente tituladas), o mapa argumentativo organiza-se pelos blocos funcionais da resenha, não por capítulos.
+
+| Bloco | Conteúdo/Função | Função argumentativa | Contribuição para a tese central |
+|:------|:----------------|:---------------------|:---------------------------------|
+| §1 | Contextualização global: educação como determinante de trajetórias; expansão do ES no mundo | Fundamento teórico | Estabelece a relevância e escala do fenômeno; ancora o puzzle no debate global |
+| §2–§3 | Apresentação do debate: expansão vs. democratização; papel da diferenciação institucional | Revisão de literatura / Apresentação do puzzle | Formula o puzzle central: expansão não implica necessariamente redução de desigualdades; diferenciação institucional é a variável mediadora |
+| §4 | Descrição do livro resenhado: escopo, estrutura dual (macro + micro), inscrição na quarta geração | Análise descritiva da obra | Situa o livro no debate e justifica sua contribuição pela integração de duas tradições analíticas |
+| §5 | Conteúdo da Parte I do livro: trajetória histórica das universidades, modelo napoleônico, financiamento federal, diferenciação comparativa | Síntese da análise empírica (histórico-comparativa) | Mostra como o modelo acadêmico rígido brasileiro diverge da tendência global e limita a diferenciação |
+| §6 | Conteúdo da Parte II do livro: metodologia estatística, fontes (PNAD, Provão/Enade), achados empíricos | Análise empírica quantitativa | Documenta os padrões de desigualdade vertical e horizontal; sustenta empiricamente a tese |
+| §7 | Avaliação crítica e limitações; contribuição do livro ao campo | Qualificação e síntese avaliativa | Reconhece o valor da integração macro-micro; sinaliza o limite temporal da análise quantitativa |
+
+::: {.callout-important}
+## Divergências internas
+
+Não aplicável: trata-se de artigo individual (resenha), não de coletânea. Nenhuma divergência interna identificável.
+:::
+
+***
+
+## Contextualização Global: Educação, Expansão e o Puzzle da Desigualdade (pp. 1–2)
+
+### Educação como determinante de trajetórias e o fenômeno da expansão [§1–§3]
+
+O resenhista abre o texto com uma dupla ancoragem teórica. No plano global, recupera a premissa consolidada na literatura de que a educação tornou-se o principal determinante das trajetórias de vida ao redor do mundo (Muller e Kogan, 2010), com peso ainda mais pronunciado no Brasil (Pastore e Silva, 2000). O acesso ao ensino superior é apresentado como mecanismo privilegiado de mobilidade ocupacional ascendente — o que confere ao problema da desigualdade de acesso uma relevância não apenas acadêmica, mas substantiva para a estrutura social.
+
+Em seguida, o resenhista enquadra a expansão dos sistemas de ensino superior como um dos processos sociológicos mais marcantes da segunda metade do século XX. Recorrendo a Schofer e Meyer (2005), o texto quantifica esse processo: entre 1900 e o início do século XXI, a taxa de matrícula global em instituições pós-secundárias entre jovens de 18 a 24 anos saltou de 1% para 20%. Esse dado numérico cumpre função argumentativa precisa — não é apenas ilustrativo, mas serve para dimensionar a magnitude do fenômeno e tornar plausível a pergunta sobre seus efeitos distributivos.
+
+A partir daí, o resenhista formula o puzzle central do livro resenhado ao introduzir uma tensão na literatura: alguns autores (Arum et al., 2007) sustentam que a expansão, mesmo sem alterar as proporções relativas de ingresso por origem social, produz um efeito de inclusão absoluta — mais estudantes de classes populares acessam o sistema simplesmente porque ele cresceu. Contudo, o resenhista — e os autores resenhados — qualificam esse argumento ao afirmar que a relação entre expansão e desigualdade é mediada pela **diferenciação institucional** do sistema: quanto mais intensa essa diferenciação, maior a capacidade de o sistema absorver demanda de estudantes de trajetórias socialmente limitadas (Prates, 2005).
+
+::: {.callout-note icon=false}
+**Tese mediadora central:** A expansão de vagas no ensino superior não reduz automaticamente as desigualdades de acesso. O efeito redistributivo depende da forma como o sistema se diferencia institucionalmente — ou seja, da variedade de tipos de instituições e cursos disponíveis para públicos com distintas origens e aspirações.
+:::
+
+### O livro de Prates e Collares: integração de duas tradições analíticas [§4]
+
+Mont'Alvão Neto apresenta o livro resenhado como uma contribuição que integra dois campos analíticos que, na literatura brasileira, tendiam a operar de forma paralela: de um lado, estudos sobre a organização e diferenciação funcional dos sistemas de ensino superior e suas políticas estruturantes; de outro, pesquisas de estratificação social que mensuram desigualdades de acesso e retornos socioeconômicos do ensino superior. Prates e Collares teriam unificado essas duas abordagens, produzindo o que o resenhista classifica como pertencente à **quarta geração de estudos de estratificação social** (Treiman e Ganzeboom, 2000) — geração que valoriza explicitamente a interação entre padrões de estratificação e arranjos institucionais locais, em vez de tratar as desigualdades como invariantes estruturais.
+
+O resenhista informa ainda que o livro tem origem nas teses de doutorado de ambos os autores (Prates, 2005, pela UFMG; Collares, 2010, pela University of Wisconsin), articuladas em dois blocos: a Parte I dedicada à análise comparativa internacional dos processos de expansão e diferenciação institucional, e a Parte II voltada às desigualdades de acesso no Brasil entre 1980 e início do século XXI.
+
+***
+
+## Conteúdo do Livro Resenhado: Parte I — Trajetória Histórica e Diferenciação Comparativa (pp. 1–2)
+
+### Do modelo napoleônico ao financiamento federal contemporâneo [§5a]
+
+A resenha descreve, com síntese densa, o percurso histórico-comparativo desenvolvido na Parte I do livro. O estudo, precedido por prefácio de Carlos Benedito Martins, trata da formação das instituições universitárias em perspectiva internacional: parte do modelo napoleônico do século XIX — caracterizado por instituições estruturadas como **escolas profissionais**, sem articulação entre ensino e pesquisa — e avança até a integração entre ensino e pesquisa no Brasil, que o resenhista situa a partir dos anos de 1920. Essa trajetória culmina nos processos de expansão da segunda metade do século XX e na estrutura de financiamento do sistema federal consolidada no início do século XXI.
+
+O resenhista sumariza a arquitetura do sistema federal de financiamento em três eixos: (1) a criação dos **Fundos Setoriais de Desenvolvimento Científico e Tecnológico**; (2) a implementação da **Gratificação de Estímulo à Docência (GED)**; e (3) a criação, por praticamente todas as instituições federais de ensino superior, de fundações privadas para gerir recursos de pesquisa. Esse terceiro eixo recebe destaque analítico na resenha: os autores o interpretam como mecanismo de superação, ao menos parcial, da rigidez orçamentária das universidades federais, que historicamente inibiu uma produção científica mais dinâmica.
+
+### Diferenciação institucional: o caso brasileiro em perspectiva comparada [§5b]
+
+::: {.callout-important}
+Este é o argumento mais substantivo da Parte I, conforme descrito pelo resenhista, e o núcleo da explicação causal do livro.
+:::
+
+O resenhista destaca que o livro contrapõe o modelo brasileiro — **quase estritamente acadêmico e pouco flexível** — à tendência mundial de maior autonomia e flexibilização das instituições terciárias. O Brasil teria optado, historicamente, por um sistema de ensino superior que privilegia a formação acadêmica em detrimento da **educação vocacional**, distanciando-se de experiências internacionais em que a diversificação institucional (politécnicos, institutos tecnológicos, faculdades comunitárias, etc.) ampliou a capacidade do sistema de atender demandas heterogêneas.
+
+Essa opção institucional tem, segundo o argumento descrito na resenha, consequências diretas para os padrões de expansão e desigualdade: um sistema menos diferenciado tem menor capacidade de absorver estudantes de origens socioeconômicas mais baixas, cujas trajetórias educacionais são mais irregulares e cujas aspirações profissionais seriam mais bem atendidas por modalidades não-acadêmicas. O resenhista não questiona esse mecanismo causal — apresenta-o como conclusão bem fundamentada do livro.
+
+***
+
+## Conteúdo do Livro Resenhado: Parte II — Desigualdades de Acesso e Estratificação Horizontal (pp. 2–3)
+
+### Estratégia metodológica e fontes de dados [§6a]
+
+A segunda parte do livro, conforme a resenha, articula o estudo das trajetórias institucionais com uma metodologia estatística rigorosa. O resenhista distingue duas dimensões analíticas da estratificação educacional tratadas empiricamente:
+
+| Dimensão | Conceito | Pergunta empírica |
+|:---------|:---------|:------------------|
+| **Vertical** | Desigualdade de acesso ao sistema | Quem chega ao ensino superior? |
+| **Horizontal** | Desigualdade de acesso entre instituições | Quem vai ao público vs. privado? |
+
+Para a dimensão vertical, os autores valem-se da **PNAD** (Pesquisa Nacional por Amostra de Domicílios) e utilizam **modelos de regressão logística binária** para estimar as chances de acesso ao ensino superior ao longo do período 1980 – início dos anos 2000. Para a dimensão horizontal, combinam dados do PNAD com o **Exame Nacional do Ensino Superior — Provão** (substituído posteriormente pelo Enade) e utilizam **modelos de regressão multinomial** para estimar as chances diferenciais de acesso às redes pública e privada.
+
+### Achados empíricos: convergência racial e persistência socioeconômica [§6b]
+
+Os resultados descritos pelo resenhista apresentam um padrão duplo e assimétrico. De um lado, ao longo do período analisado, detectou-se uma **leve queda das desigualdades raciais** de acesso ao ensino superior — trajetória que o resenhista registra sem aprofundar os mecanismos responsáveis (i.e., sem atribuir o resultado a nenhuma política específica). De outro, as desigualdades segundo **características socioeconômicas da família** mostraram **certa estabilidade** — o que, no argumento do livro, é consistente com a tese de que a expansão sem diferenciação não altera substancialmente a filtragem por origem de classe.
+
+Para a dimensão horizontal da estratificação, o achado é particularmente relevante e aparentemente contraintuitivo: o efeito da **escolaridade dos pais** é maior no acesso à **rede pública** do que no acesso à rede privada, enquanto o efeito da **renda familiar** tem o sentido inverso — é maior para o acesso à rede privada. Esse padrão, descrito sem maiores discussões pelo resenhista, é interpretável como reflexo do caráter altamente seletivo das universidades públicas brasileiras, cujos processos de admissão favorecem quem teve capital cultural acumulado via trajetória escolar de longa duração, em detrimento de quem possui apenas renda para arcar com mensalidades privadas.
+
+::: {.callout-tip}
+**Implicação interpretativa:** O achado de que capital cultural (escolaridade dos pais) e capital econômico (renda) operam de formas opostas na segmentação público/privado sugere que a estratificação horizontal do sistema brasileiro não é uma simples extensão da estratificação vertical — ela opera por lógicas distintas, que um modelo de acesso binário (superior vs. não-superior) não captura.
+:::
+
+***
+
+## Avaliação Crítica e Limitações: O Que o Livro Não Consegue Responder (p. 2)
+
+### O limite temporal e os programas recentes [§7]
+
+O resenhista identifica, de forma precisa, o limite mais evidente do livro: as análises quantitativas alcançam apenas até meados da primeira década do século XXI, o que impede qualquer avaliação sobre o impacto dos principais programas de expansão e democratização implementados a partir desse período. O resenhista menciona explicitamente o **Reuni** (Reestruturação e Expansão das Universidades Federais), a expansão dos **IFETs** (Institutos Federais de Educação Tecnológica), o **Prouni** (Programa Universidade para Todos) e "vários programas de ação afirmativa" como objetos ausentes da análise.
+
+Essa limitação é apresentada de forma factual, sem ser interpretada como fragilidade estrutural do argumento — o resenhista a trata como lacuna de período, não como problema de desenho. Em contrapartida, ele reafirma o valor do livro pelo diálogo com o que considera mais relevante na literatura nacional e internacional, e pela capacidade de situar a experiência brasileira em perspectiva comparada. A avaliação final é positiva: o livro é descrito como "grande contribuição para o estudo da educação superior no Brasil."
+
+***
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+**Tese central da resenha:** Arnaldo Lopo Mont'Alvão Neto avalia positivamente o livro de Prates e Collares (2014) como contribuição que integra, de forma inédita no contexto brasileiro, a análise macro-institucional dos sistemas de ensino superior com a mensuração micro das desigualdades de acesso — inscrevendo-se na "quarta geração" de estudos comparativos de estratificação social.
+
+**Natureza do argumento:** Descritivo-avaliativo, com endosso implícito do argumento causal do livro resenhado: a baixa diferenciação institucional do sistema brasileiro (rigidez do modelo acadêmico, ausência de expansão vocacional expressiva) medeia a persistência das desigualdades socioeconômicas de acesso mesmo em contexto de expansão acelerada de vagas.
+
+**O que o livro demonstra (conforme a resenha):** Os padrões descritivos de desigualdade vertical e horizontal via regressão sobre PNAD e Provão/Enade; a trajetória histórica da diferenciação institucional brasileira em perspectiva comparada; o padrão assimétrico pelo qual capital cultural opera mais fortemente no acesso ao setor público e renda no acesso ao setor privado.
+
+**O que fica como hipótese ou agenda:** O mecanismo causal entre tipo de diferenciação institucional e nível de desigualdade não é formalmente identificado — é sustentado por analogia comparativa. O impacto dos programas pós-2005 (Reuni, IFETs, Prouni, cotas) sobre esses padrões permanece em aberto, tornando o livro uma referência historicamente situada mais do que uma análise do sistema contemporâneo.
+
+**Contribuição para o debate mais amplo:** Ao articular institucionalismo organizacional (Meyer, Schofer) com estratificação educacional comparada (Shavit, Arum, Gamoran; Treiman, Ganzeboom), o livro preenche uma lacuna específica da literatura brasileira — a ausência de trabalhos que tratem simultaneamente da arquitetura dos sistemas e dos padrões de acesso —, oferecendo ao mesmo tempo um enquadramento comparativo que permite situar o Brasil no contexto global de expansão do ensino superior.
+:::

@@ -8,11 +8,12 @@
 
 # ── 1. Arquivo-alvo ──────────────────────────────────────────────────────────
 
-nome_do_qmd <- ""   # ex: "Fernandes2005.qmd"
+nome_do_qmd <- ""   # ex: "Fernandes2005"
 
 path <- paste0(
   "C:/Users/Mancano/Documents/MancanoSync/Annotated-Bibliography/posts/",
-  nome_do_qmd
+  nome_do_qmd,
+  ".qmd"
 )
 
 # ── 2. Leitura ───────────────────────────────────────────────────────────────
