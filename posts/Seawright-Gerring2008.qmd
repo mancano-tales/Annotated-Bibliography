@@ -1,5 +1,333 @@
 ---
-title: "Seawright-Gerring2008"
-format: html
+title: "Fichamento: Case Selection Techniques in Case Study Research: A Menu of Qualitative and Quantitative Options"
+subtitle: "Seawright, J. & Gerring, J. (2008) — Political Research Quarterly, SAGE"
+author: "Tales Mançano"
+date: "2026-05-08"
+last-updated: "2026-05-08"
+coverage: "Obra completa"
+categories: [Annotated Bibliography, Methodology, Comparative Politics, Case Study Research]
+tags: [case-selection, qualitative-methods, process-tracing, causal-inference, small-n, mixed-methods, typical-case, deviant-case, most-similar, most-different, propensity-score-matching, cook-distance]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+    execute: false
 ---
 
+Seawright, J., & Gerring, J. (2008). Case selection techniques in case study research: A menu of qualitative and quantitative options. *Political Research Quarterly*, *61*(2), 294–308. https://doi.org/10.1177/1065912907313077
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → Seawright-Gerring2008
+
+```bibtex
+@article{Seawright-Gerring2008,
+  author  = {Seawright, Jason and Gerring, John},
+  title   = {Case Selection Techniques in Case Study Research: A Menu of Qualitative and Quantitative Options},
+  year    = {2008},
+  journal = {Political Research Quarterly},
+  volume  = {61},
+  number  = {2},
+  pages   = {294--308},
+  doi     = {10.1177/1065912907313077},
+}
+```
+
+:::
+
+Última atualização: 2026-05-08
+Modelo: Perplexity — Claude Sonnet 4.6
+Prompt Version: v17.2 2026-05-08 | Ficha antes do fichamento
+Gerado em: 2026-05-08T21:44:00-03:00
+Ocasião da Leitura: ___
+
+---
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v17.2*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | A pergunta pressupõe que os problemas de seleção amostral em estudos de caso podem ser sistematizados; a vulnerabilidade central é saber se a sistematização proposta é viável quando os pressupostos de dados e especificação do modelo não se sustentam. | Como pesquisadores devem selecionar casos de um universo amplo para análise intensiva em estudos de caso? Questão explicativa-metodológica; explicitada pelos autores na introdução. |
+| Questões Secundárias | As questões secundárias são derivadas da central e bem integradas; a lacuna é que a questão da independência dos casos é mencionada apenas de passagem (nota 1). | (1) Por que a amostragem aleatória é insuficiente em amostras muito pequenas? (2) Quais técnicas específicas servem a cada objetivo analítico (exploratório vs. confirmatório)? (3) Como técnicas quantitativas disponíveis operacionalizam cada estratégia de seleção? |
+| Puzzle-Type | O puzzle é genuíno: a literatura tinha nomes para tipos de caso mas não oferecia procedimentos formalizados para populações grandes. A generalização do puzzle para além de estudos de caso de países é plausível, mas os autores não a desenvolvem. | Puzzle metodológico: os termos clássicos de seleção de casos (extremo, desviante, mais similar etc.) são mal definidos e não oferecem orientação prática quando a população potencial é de centenas ou milhares de casos. Puzzle generalizável a qualquer pesquisa intensiva de unidades em ciências sociais. |
+| Conclusão / Argumento Central | A tese é clara e razoavelmente bem sustentada pelo exemplo empírico GDP–democracia. O claim central — de que técnicas estatísticas padrão podem ser reapropriadas para seleção de casos — é apresentado como contribuição genuína, mas o artigo demonstra viabilidade ilustrativa, não eficácia avaliada. | Propõe sete estratégias de seleção de casos (típico, diverso, extremo, desviante, influente, mais similar, mais diferente), cada uma associada a um objetivo analítico específico, e mostra como técnicas de regressão, análise de resíduos, hat matrix, Cook's distance e propensity-score matching operacionalizam essas estratégias em populações grandes. Argumento metodológico-prescritivo. |
+| Métodos | O artigo é teórico-metodológico; a estratégia argumentativa combina revisão de literatura com exemplos ilustrativos quantitativos usando dados de PIB per capita (Summers & Heston 1991) e democracia (Polity IV, 1995). O fichamento cobre a obra completa. As principais limitações de identificação são as do exemplo ilustrativo, não do argumento metodológico em si. | Artigo metodológico. Revisão de literatura sobre seleção de casos; dois experimentos de Monte Carlo para demonstrar insuficiência da aleatorização em N pequeno; aplicação ilustrativa de modelo OLS com termo quadrático sobre dados cross-section de 1995 (N ≈ 135 países). Não há análise causal original — o exemplo serve apenas como veículo heurístico. |
+| Data Generation Process (DGP) | O DGP dos exemplos empíricos (PIB per capita e Polity2) é opaco: os autores não discutem quais países estão incluídos, perdas por missingness, ou como a amostra de 1995 se relaciona com o universo de inferência declarado. Isso enfraquece a força demonstrativa dos exemplos sem, contudo, invalidar o argumento metodológico. | Dados cross-section de países para 1995: PIB per capita (Penn World Tables) como X; Polity2 como Y. Unidade de análise: país-ano (único ponto temporal). O processo de geração dos exemplos é secundário ao argumento: servem para ilustrar como calcular resíduos, escores de extremidade e Cook's distance. Viés de seleção no exemplo: só países com dados disponíveis em ambas as fontes para 1995. |
+| Achados e Contribuições | A contribuição mais robusta é a sistematização taxonômica (Tabela 1) e a vinculação de cada tipo de caso a um objetivo analítico e a uma técnica quantitativa correspondente. Os exemplos numéricos adicionam clareza operacional, mas não demonstram a superioridade das técnicas propostas. | (1) Sistematização de sete estratégias de seleção com suas lógicas analíticas e técnicas quantitativas correspondentes; (2) distinção clara entre exploratório e confirmatório como critério de escolha de estratégia; (3) proposta de integração qualitativo-quantitativo na fase de seleção (não apenas de análise); (4) identificação do propensity-score matching como ferramenta para seleção de casos "mais similares" em populações grandes. |
+| Análise Crítica dos Achados | (a) Viés de circularidade: as técnicas quantitativas propostas dependem de um modelo bem especificado — mas o modelo é frequentemente o que o estudo de caso pretende corrigir ou construir. (b) O exemplo GDP–democracia assume log-linearidade e causalidade assimétrica (GDP → democracia) sem justificação suficiente, tornando os resultados ilustrativos sensíveis à especificação. (c) A generalização para casos não-nacionais (organizações, municípios, períodos históricos) não é discutida. (d) A lógica do "caso influente" como estratégia de seleção é a mais frágil: influência estatística não equivale a relevância teórica. (e) A discussão sobre representatividade permanece normativa ("o caso deve representar uma população") sem oferecer testes robustos além do resíduo. | O argumento responde adequadamente à pergunta nos seus próprios termos (articulação taxonômica + exemplos ilustrativos), mas permanece vulnerável: (a) circularidade entre especificação do modelo e seleção do caso; (b) scope conditions implícitas (dados quantitativos disponíveis para a população; inferência causal como objetivo) não são adequadamente declaradas na introdução; (c) a técnica de propensity-score matching para seleção qualitativa é inovadora mas tratada de forma superficial — os autores usam um "modelo cartoon" e reconhecem isso, mas não discutem as consequências para a qualidade das comparações. |
+| Limitações | **Reconhecidas pelos autores:** modelo de propensity-score é simplificado ("cartoon model"); aleatorização é insuficiente para N pequeno; o artigo não cobre escolha de casos por características within-case; a seleção por razões pragmáticas é legítima mas não garante validade metodológica. <br> **Não reconhecidas ou subestimadas:** (1) circularidade entre modelo e seleção; (2) ausência de discussão sobre cases com missing data; (3) limitação às unidades nacionais no exemplo; (4) pressuposto implícito de que o pesquisador já conhece o modelo correto antes da seleção; (5) não discute o que fazer quando múltiplas estratégias produzem conjuntos de casos incompatíveis. |
+| Perspectiva Teórica | A moldura é coerente: o artigo opera dentro da tradição de *design-based inference* e da meta-metodologia comparativa (Eckstein, Lijphart, Przeworski & Teune), estendendo-a com ferramentas econométricas contemporâneas. A ontologia implícita é realista moderada: assume que há relações causais regulares identificáveis por variação sistemática entre casos. | Metodologia das ciências sociais comparadas; tradição de King, Keohane & Verba (1994) adaptada para estudos de caso; integração com literatura de matching estatístico (Rosenbaum & Rubin 1983). A moldura é adequada à pergunta, embora negligencie perspectivas interpretativistas ou process-tracing puro, que têm lógicas distintas de seleção de caso. |
+| Principais Referências | O diálogo é sólido com a tradição qualitativa (Eckstein 1975, Lijphart 1971, Przeworski & Teune 1970) e com a literatura de matching (Rosenbaum & Rubin 1983, Ho et al. 2007). Há subutilização de literatura sobre process-tracing (Bennett & Checkel, ausente) e de análise comparativa de conjuntos (Ragin 2000 é citado mas não integrado). | Eckstein (1975), Lijphart (1971, 1975), Przeworski & Teune (1970), King, Keohane & Verba (1994), Rosenbaum & Rubin (1983), George & Bennett (2005), Ragin (2000), Ho et al. (2007), Brady & Collier (2004). |
+| Observações | Texto identificado como artigo de periódico (único, 15 páginas, publicado em *Political Research Quarterly* v.61 n.2, 2008). Nenhuma inferência sobre tipo de texto foi necessária. Relevância direta para pesquisa comparada de políticas educacionais: a estratégia de caso típico e caso desviante é particularmente aplicável a estudos sobre sistemas de cotas no ensino superior brasileiro em perspectiva comparada. A Tabela 1 é a contribuição mais imediatamente operacionalizável. |
+
+:::
+
+---
+
+## Mapa Argumentativo {.unnumbered}
+
+O artigo não possui divisão em capítulos formais, mas organiza-se em blocos argumentativos claramente delimitados:
+
+| Bloco | Título | Função argumentativa | Contribuição para a tese central |
+|:------|:-------|:---------------------|:---------------------------------|
+| Introdução | "Case Selection is the Primordial Task…" (pp. 294–295) | Apresentação do puzzle e da tese | Estabelece que seleção de casos é subestudada e que os termos existentes são mal compreendidos; motiva a necessidade de sistematização |
+| Bloco 1 | "Why Not Choose Cases Randomly?" (p. 295) | Fundamento teórico-negativo | Demonstra via Monte Carlo que aleatorização em N pequeno produz amostras sistematicamente não-representativas, justificando a seleção purposiva |
+| Bloco 2 | "Techniques of Case Selection" (pp. 296) | Revisão e enquadramento | Define os objetivos duais da seleção (representatividade + variação útil), estabelece os sete tipos e lista caveats metodológicos essenciais |
+| Bloco 3 | "Typical Case" (pp. 298–300) | Análise empírica ilustrativa | Operacionaliza o caso típico como baixo resíduo na regressão; apresenta modelo quadrático GDP–democracia |
+| Bloco 4 | "Diverse Cases" (pp. 300–301) | Análise empírica ilustrativa | Operacionaliza diversidade via amostragem estratificada, análise discriminante e caminhos causais alternativos |
+| Bloco 5 | "Extreme Case" (pp. 301–302) | Análise empírica ilustrativa | Operacionaliza extremidade como Z-score absoluto; aplica ao exemplo democracia (Qatar e Arábia Saudita como extremos) |
+| Bloco 6 | "Deviant Case" (pp. 302–303) | Análise empírica ilustrativa | Operacionaliza deviantness como alto resíduo absoluto; distingue do caso extremo pela referência a um modelo causal e não a uma distribuição univariada |
+| Bloco 7 | "Influential Case" (pp. 303–304) | Análise empírica ilustrativa | Operacionaliza influência via Cook's distance e hat matrix; identifica Nepal como caso mais influente no exemplo |
+| Bloco 8 | "Most Similar/Most Different Cases" (pp. 304–306) | Extensão do argumento | Conecta matching estatístico (propensity scores) à lógica qualitativa clássica de Mill; ilustra com Costa Rica/Benin e Índia/Singapura |
+| Conclusão | "Complications" (pp. 306–307) | Qualificação e síntese | Discute combinações de estratégias, mudança de estratégia no curso da pesquisa e o problema irresolvível da representatividade |
+
+::: {.callout-important}
+## Divergências internas
+
+Nenhuma divergência substantiva identificada. Trata-se de artigo de dois autores com argumento unificado e progressivo.
+:::
+
+---
+
+## Introdução — A Tarefa Primordial e o Argumento Geral (pp. 294–295)
+
+### O problema da seleção como tarefa constitutiva do estudo de caso [§1–§3]
+
+::: {.callout-note icon=false}
+**Tese central:** A seleção de casos é inseparável da análise de casos em pesquisa intensiva de pequeno N, e os termos disponíveis na tradição qualitativa são insuficientes para orientar pesquisadores quando a população potencial é numerosa.
+:::
+
+Seawright e Gerring abrem o artigo afirmando que a seleção de casos é a "tarefa primordial" (*primordial task*) do pesquisador de estudos de caso, pois ao escolher o caso, o pesquisador simultaneamente define a agenda analítica. Diferentemente da análise cross-case de grande N, onde amostragem e análise são etapas relativamente separáveis, o estudo de caso articula essas duas dimensões de maneira estruturalmente indissociável: o método de escolha e o método de análise "mal podem ser separados" quando o foco recai sobre uma ou poucas instâncias de um fenômeno mais amplo.
+
+A maioria dos estudos de caso não é autorreferente — não busca apenas descrever o caso em si, mas elucidar características de uma população mais ampla. O caso escolhido é chamado a "desempenhar um papel heroico": representar uma população frequentemente muito maior do que ele próprio. Se os casos forem países, a população pode ser uma região, um tipo de país ou o mundo inteiro em determinado período. Isso torna o problema da representatividade ineludível, ao mesmo tempo em que um caso genuinamente representativo é difícil de identificar a priori.
+
+Os autores identificam três dificuldades específicas: (1) o problema da representatividade; (2) a necessidade de variação em dimensões teoricamente relevantes; e (3) o papel informal de casos de fundo (*background cases*), que participam da análise sem serem formalmente selecionados — o que torna a fronteira entre caso e população especialmente porosa nos estudos de caso.
+
+### A lacuna na literatura e a proposta do artigo [§4–§6]
+
+Apesar da importância do tema, os autores diagnosticam que ele recebeu atenção relativamente escassa desde os trabalhos pioneiros de Eckstein (1975), Lijphart (1971, 1975) e Przeworski e Teune (1970). A literatura subsequente debateu longamente o viés de seleção amostral — Achen e Snidal (1989), Collier e Mahoney (1996), Geddes (1990), King, Keohane e Verba (1994) — mas não ofereceu soluções além daquelas implícitas nos clássicos.
+
+Na ausência de tratamentos formais, os pesquisadores continuam a selecionar casos com base em considerações pragmáticas — tempo, recursos, expertise, acesso — ou na proeminência teórica do caso na literatura. Os autores reconhecem que esses são fatores legítimos, mas insistem que não oferecem justificação *metodológica* para preferir o caso A ao caso B. Mesmo quando selecionados por razões pragmáticas, é essencial que os pesquisadores compreendam retroativamente como as propriedades dos casos escolhidos se relacionam com o restante da população.
+
+O artigo propõe, portanto, três contribuições: (1) clarificar os problemas metodológicos envolvidos na seleção de casos orientada à construção e teste de teorias causais gerais; (2) oferecer um menu mais abrangente de opções; (3) apresentar novas técnicas para seleção quando dados quantitativos estão disponíveis para a população, mostrando que técnicas estatísticas padrão podem ser proveitosamente empregadas nesse contexto de integração quali-quanti.
+
+---
+
+## Por Que Não Escolher Casos Aleatoriamente? (p. 295)
+
+### Monte Carlo e a insuficiência da aleatorização em N pequeno [§7–§9]
+
+> **Puzzle central:** Se a aleatorização é o padrão-ouro para evitar viés de seleção em amostras grandes, por que ela falha sistematicamente em estudos comparativos de poucos casos?
+
+Os autores respondem à objeção mais óbvia contra seleção purposiva — a de que ela introduz viés de seleção — com dois experimentos de Monte Carlo. Em ambos, a variável de interesse varia de 0 a 1 com média 0,5 na população. No primeiro experimento, o computador gera 500 amostras aleatórias de N = 1.000 casos cada; no segundo, 500 amostras de N = 5.
+
+Os resultados são reveladores: ambos os procedimentos produzem amostras não-enviesadas em média (0,499 e 0,508, respectivamente), mas diferem dramaticamente na variância. Com N = 1.000, o desvio padrão das médias amostrais é aproximadamente 0,009; com N = 5, sobe para 0,128. Isso demonstra que para estudos comparativos compostos de cinco casos ou menos — o padrão em muito da pesquisa comparativa intensiva — a aleatorização frequentemente produz amostras substancialmente não-representativas da população.
+
+A conclusão é que, dada a insuficiência da aleatorização e os problemas da seleção puramente pragmática, o argumento por alguma forma de seleção *purposiva* é forte. Os métodos purposivos não eliminam a confiabilidade inerentemente limitada de generalizações a partir de N pequeno, mas podem contribuir significativamente ao processo inferencial, permitindo que pesquisadores escolham os casos mais adequados a uma estratégia analítica específica.
+
+---
+
+## Técnicas de Seleção de Casos: Enquadramento Geral (pp. 296–297)
+
+### Os dois objetivos da seleção e os sete tipos [§10–§12]
+
+::: {.callout-note icon=false}
+A seleção de casos em estudos de caso compartilha os mesmos objetivos duais da amostragem aleatória: (1) uma amostra representativa e (2) variação útil nas dimensões de interesse teórico. Os sete tipos derivam da forma como um caso se posiciona nessas dimensões dentro da população de interesse.
+:::
+
+Os autores situam a proposta em relação à literatura existente: os termos típico, extremo, desviante, crucial, mais similar são reconhecíveis, mas mal compreendidos e frequentemente mal aplicados. O menu proposto articula sete estratégias — **típico**, **diverso**, **extremo**, **desviante**, **influente**, **mais similar** e **mais diferente** — cada qual pressupondo um objetivo metodológico distinto para a análise within-case.
+
+Antes de apresentar as técnicas, os autores emitem quatro ressalvas importantes. Primeira: os procedimentos se aplicam a estudos de caso orientados à inferência causal sobre uma população mais ampla, não a estudos cujo objetivo é iluminar características específicas de um caso particular (esse segundo estilo é tratado em Gerring 2006). Segunda: o foco é em inferência causal, não descritiva ou preditiva. Terceira: as técnicas dependem de uma noção clara de qual é a população da inferência — se a população for desconhecida, as técnicas não podem ser implementadas. Quarta: para o uso de raciocínio estatístico, três condições devem ser satisfeitas: (a) a população deve ser grande o suficiente; (b) dados relevantes devem estar disponíveis; (c) os pressupostos-padrão da pesquisa estatística devem ser cuidadosamente considerados.
+
+### Caveats metodológicos e o que o artigo não cobre [§13]
+
+Os autores delimitam explicitamente o escopo: a discussão ignora duas classes de considerações relevantes para a seleção. A primeira é pragmático-logística — proeminência teórica do caso na literatura, acessibilidade de campo, recursos disponíveis. Esses fatores são legítimos, mas não têm caráter metodológico; não afetam a validade da inferência. A segunda são as características *within-case* — a estrutura interna do caso que o torna mais ou menos adequado para uma estratégia analítica específica. Esse segundo fator é metodológico, mas está fora do escopo do presente artigo (remetido a Gerring e McDermott 2007).
+
+A Tabela 1 — reproduzida abaixo — sintetiza os sete métodos, suas definições, técnicas de grande N correspondentes, usos analíticos e implicações de representatividade:
+
+| Método | Definição | Técnica Large-N | Uso | Representatividade |
+|:-------|:----------|:----------------|:----|:-------------------|
+| Típico | Caso(s) exemplar(es) de uma relação cross-case estável | Caso de baixo resíduo (on-lier) | Confirmatório; sonda mecanismos causais | Por definição representativo na relação especificada |
+| Diverso | Casos que exemplificam valores diversos de X, Y ou X/Y | Amostragem estratificada; análise discriminante | Exploratório ou confirmatório | Representativo no sentido mínimo da variação completa |
+| Extremo | Caso(s) com valor extremo em X ou Y | Caso muitos desvios-padrão acima/abaixo da média | Exploratório; sonda causas de X ou efeitos de Y | Apenas comparativamente a uma amostra maior |
+| Desviante | Caso(s) que desviam de relação causal conhecida | Caso de alto resíduo (outlier) | Exploratório/confirmatório; novas explicações ou refutação determinística | Problemática; resolvida se nova variável "absorver" o desvio |
+| Influente | Caso(s) com configurações influentes nas variáveis independentes | Hat matrix ou Cook's distance | Confirmatório; verifica robustez da análise cross-case | Tipicamente não representativo |
+| Mais similar | Casos similares em variáveis de controle, diferentes em X₁ e/ou Y | Matching estatístico | Exploratório/confirmatório | Representatividade proporcional à qualidade do match |
+| Mais diferente | Casos diferentes em variáveis de controle, similares em X₁ e Y | Inverso do matching | Exploratório/confirmatório | Representatividade proporcional à qualidade do match |
+
+---
+
+## O Caso Típico (pp. 298–300)
+
+### Definição e lógica analítica [§14–§16]
+
+O **caso típico** foca um caso que exemplifica uma relação cross-case estável — por construção, pode também ser chamado de *caso representativo*, como na literatura psicológica (Hersen e Barlow 1976). Como o caso típico é bem explicado pelo modelo existente, o interesse analítico recai no interior do caso: o pesquisador quer explorar os mecanismos causais em operação em uma relação cross-case geral. Essa exploração pode conduzir a diferentes conclusões. Se a teoria sugere um caminho causal específico, o pesquisador pode realizar uma investigação de *pattern-matching*, avaliando se as evidências do caso validam os mecanismos estipulados. Alternativamente, o pesquisador pode mostrar que os mecanismos são diferentes dos presumidos, ou que não há mecanismos plausíveis conectando X ao resultado Y — nesse último caso, o design de caso típico pode fornecer evidência *desconfirmatória* de uma proposição causal geral.
+
+### Operacionalização quantitativa e o exemplo empírico [§17–§19]
+
+A operacionalização via grande N consiste em identificar o menor resíduo possível para todos os casos em uma análise multivariada. O resíduo — distância entre valor predito e valor observado — é o indicador de tipicidade: quanto menor, mais típico. Em amostras grandes, muitos casos podem ter resíduos igualmente próximos de zero; nesses casos, os autores recomendam seleção aleatória estratificada ou escolha por critérios não-metodológicos.
+
+O exemplo utiliza a relação GDP per capita–democracia com dados de 1995. O modelo estimado é:
+
+\[E(\text{Polity}_i) = 10{,}52 - 4{,}59 \cdot \text{GDP}_i + 0{,}45 \cdot \text{GDP}_i^2\]
+
+Os resíduos são computados e exibidos em histograma (Figura 2). Vinte e seis casos apresentam escore de tipicidade entre 0 e −1, qualificando-se para análise intensiva. Os autores observam que uma proporção maior de casos cai abaixo da linha de regressão do que acima, sugerindo ou incompletude do modelo ou distribuição não-normal do erro — aspecto que a análise within-case poderia elucidar.
+
+> **Nota sobre limitações:** Os autores advertem que o teste de tipicidade via resíduo é enganoso se o modelo estatístico for mal especificado. Um caso pode estar diretamente sobre a linha de regressão e ainda ser, em aspectos relevantes, atípico.
+
+---
+
+## O Caso Diverso (pp. 300–301)
+
+### Lógica de máxima variância e tipos de diversidade [§20–§22]
+
+O **método de casos diversos** tem como objetivo primário cobrir a máxima variância nas dimensões relevantes. Requer ao mínimo dois casos que representem o espectro completo de valores de X, Y ou de uma relação X/Y específica. A investigação é exploratória quando focada em X ou Y isoladamente, e confirmatória quando focada na relação X/Y.
+
+Para variáveis categóricas, a identificação da diversidade é direta: o pesquisador seleciona um caso de cada categoria. Para variáveis contínuas, os casos de valores extremos (alto e baixo) são selecionados, eventualmente com inclusão da média ou mediana. O pesquisador pode também buscar pontos de ruptura naturais na distribuição que correspondam a diferenças categoriais substantivas entre casos.
+
+A diversidade pode também ser compreendida em termos de *caminhos causais*: se três variáveis X₁, X₂, X₃ causam Y independentemente (cada uma como causa suficiente — o que Elman 2005 e George e Bennett 2005 chamam de *causal equifinality*), o pesquisador pode selecionar casos que exemplifiquem cada mecanismo causal. Isso pode ser identificado por análise de caminhos, análise comparativa qualitativa (Ragin 2000), análise de sequências (Abbott e Tsay 2000) ou tipologias qualitativas.
+
+### Operacionalização e alcance da representatividade [§23–§24]
+
+Para variáveis causais contínuas com resultado dicotômico, os autores sugerem análise discriminante para identificação de casos diversos. Para variáveis categóricas, a amostragem aleatória estratificada (Cochran 1977) é a técnica recomendada: o pesquisador identifica as categorias substantivas relevantes, determina quantos casos selecionar de cada uma, e então escolhe aleatoriamente dentro de cada categoria.
+
+A representatividade do método diverso é de natureza mínima: a amostra cobre o espectro de variação da população, mas não necessariamente espelha a *distribuição* dessa variação. Se há mais casos com valor alto do que com valor baixo na população e o pesquisador seleciona um de cada, a amostra resultante não é perfeitamente representativa — ainda que o método diverso provavelmente tenha as maiores reivindicações de representatividade entre todos os métodos de pequeno N, incluindo o caso típico.
+
+---
+
+## O Caso Extremo (pp. 301–302)
+
+### Distinção conceitual em relação ao caso desviante [§25–§26]
+
+O **método do caso extremo** seleciona um caso por seu valor extremo na variável independente (X) ou dependente (Y) de interesse. Um valor extremo é uma observação distante da média de uma distribuição univariada — é *incomum*. Crucialmente, a raridade do valor é o que torna o caso valioso para análise, não a direção (positivo ou negativo). Isso distingue o caso extremo do caso desviante: casos extremos são julgados relativamente à média de uma distribuição univariada; casos desviantes são julgados relativamente a um modelo de relações causais.
+
+O método é puramente exploratório — uma forma de sondar possíveis causas de Y ou possíveis efeitos de X de maneira aberta. Se o pesquisador já tem alguma noção dos fatores adicionais que podem afetar o resultado, deve recorrer a outro método. O método do caso extremo frequentemente serve como ponto de entrada em um tema, que é subsequentemente investigado com métodos mais determinados.
+
+### Operacionalização e a questão da "seleção no dependente" [§27–§28]
+
+A extremidade (E) para o *i*-ésimo caso é definida como o valor absoluto do Z-score:
+
+\[E_i = \left|\frac{X_i - \bar{X}}{s}\right|\]
+
+No exemplo empírico, os autores calculam os escores de extremidade para o nível de democracia (Polity2) em 1995. A média do índice é 2,76 e o desvio padrão é 6,92. Os dois países com maior escore de extremidade (1,84) são Catar e Arábia Saudita, ambos classificados como −10 no sistema de 21 pontos da Polity — os regimes mais autocráticos da amostra.
+
+::: {.callout-important}
+O método aparentemente viola a advertência clássica contra "selecionar no dependente" (Geddes 1990; King, Keohane e Verba 1994). Os autores respondem que essa crítica pressupõe que o caso extremo seria tratado como representativo de uma população — o que não é o uso adequado do método. O caso extremo sempre remete a uma amostra maior de casos de fundo que fornecem a variação completa. Desde que esses casos de fundo não sejam esquecidos, a análise não está sujeita a problemas de viés de seleção amostral. O método é, portanto, uma tentativa consciente de *maximizar* — não minimizar — a variância na dimensão de interesse.
+:::
+
+---
+
+## O Caso Desviante (pp. 302–303)
+
+### Deviantness como função de um modelo causal [§29–§31]
+
+O **método do caso desviante** seleciona aquele caso que, por referência a algum entendimento geral de um tópico (teoria específica ou senso comum), demonstra um valor surpreendente — é mal explicado. O caso desviante está, portanto, intimamente ligado à investigação de anomalias teóricas. "Dizer desviante é implicar anômalo."
+
+A distinção em relação ao caso extremo é precisa: enquanto casos extremos são julgados relativamente à média de uma distribuição univariada, casos desviantes são julgados relativamente a um modelo de relações causais. A deviantness de um caso só pode ser avaliada relativamente ao modelo geral empregado — o que implica que a deviantness relativa de um caso tende a mudar sempre que o modelo geral é alterado.
+
+O propósito usual é sondar novas explicações, ainda não especificadas, para Y. Nesse sentido, o método é apenas ligeiramente mais delimitado do que o método do caso extremo. O pesquisador espera que os processos causais internos ao caso desviante ilustrem algum fator causal aplicável a outros casos (desviantes). Há também um segundo uso, menos comum: se o pesquisador quer *refutar* uma proposição determinística, qualquer caso desviante serve, desde que pertença à população especificada (Dion 1998).
+
+### Operacionalização e exemplo empírico [§32–§33]
+
+Em termos estatísticos, a seleção de caso desviante é o oposto da seleção de caso típico. A deviantness é definida como:
+
+\[\text{Deviantness}(i) = |y_i - \hat{y}_i| = |y_i - b_0 + b_1 x_{1,i} + \ldots + b_K x_{K,i}|\]
+
+A deviantness varia de 0 (exatamente sobre a linha de regressão) até infinito positivo. No exemplo de democracia e riqueza, os oito países com escore de deviantness superior a 10 — Croácia, Cuba, Indonésia, Irã, Marrocos, Singapura, Síria e Uzbequistão — estão todos *abaixo* da linha de regressão (menos democráticos do que o GDP per capita preveria).
+
+A representatividade do caso desviante é problemática por construção — o caso é atípico. Essa dificuldade é parcialmente resolvida se o pesquisador generalizar a proposição identificada pelo estudo de caso para outros casos: uma nova variável é adicionada ao modelo de referência, e o modelo modificado deve "puxar" o caso desviante em direção ao valor esperado. O caso desviante, idealmente, torna-se mais ou menos típico após a nova variável ser incorporada.
+
+> **Nota 6:** Os autores utilizam o termo *deviantness* em vez do mais natural *deviance* porque *deviance* já tem um significado distinto na estatística. [nota incluída por relevância argumentativa]
+
+---
+
+## O Caso Influente (pp. 303–304)
+
+### Influência versus desvio: uma distinção essencial [§34–§36]
+
+O **método do caso influente** responde a uma motivação distinta das estratégias anteriores: a necessidade de verificar os pressupostos de algum modelo geral de relações causais. Aqui, o que importa não é se o caso se ajusta bem ou mal ao modelo em si, mas o quanto aquele caso afeta os resultados globais da análise para toda a população. Uma vez identificados os casos que influenciam as estimativas, é importante decidir se eles genuinamente pertencem à amostra (e se podem fornecer pistas sobre variáveis omitidas relevantes).
+
+O objetivo do caso influente é explorar casos que podem ser influentes vis-à-vis uma teoria cross-case maior — não propor novas formulações teóricas (ainda que isso possa ser subproduto da análise).
+
+### Hat matrix, Cook's distance e o exemplo Nepal [§37–§39]
+
+Duas medidas quantitativas são discutidas. A primeira é a **alavancagem** (*leverage*), derivada da hat matrix. Uma característica importante: a hat matrix não depende dos valores do dependente. Assim, a alavancagem é uma medida de *influência potencial* — informa o quanto o caso faria diferença na estimativa final *se* tivesse um valor incomum em Y, sem revelar quanto o caso *efetivamente* diferencia as estimativas. É útil quando há incerteza a priori sobre os valores do dependente — situação comum em estudos de caso onde parte da contribuição é justamente a mensuração refinada de Y.
+
+A segunda medida é a **distância de Cook** (*Cook's distance*), que mede o quanto as estimativas dos parâmetros β₁ mudariam se determinado caso fosse omitido da análise. Essa estatística depende de dois componentes: o tamanho do resíduo e a alavancagem do caso. Os casos mais influentes são aqueles com alavancagem substancial *e* resíduo significativo — contribuem fortemente para as inferências extraídas da análise. Os autores utilizam Cook's distance como medida primária no exemplo.
+
+A Figura 4 exibe os escores para os países da amostra de 1995. A maioria apresenta Cook's distances muito baixas. As três exceções mais sérias são Jamaica (74), Japão (75) e Nepal (105) — sendo Nepal o mais influente por ampla margem. Qualquer estudo de caso sobre casos influentes na relação democracia–desenvolvimento deveria começar por Nepal.
+
+::: {.callout-important}
+A estratégia do caso influente é a única entre as sete para a qual os autores afirmam explicitamente que a representatividade *não* é um critério relevante: o caso é escolhido precisamente porque se desvia da amostra como um todo de modo que não seria esperado de um caso representativo.
+:::
+
+---
+
+## Os Casos Mais Similar e Mais Diferente (pp. 304–306)
+
+### A lógica do método mais similar e sua conexão com Mill [§40–§42]
+
+O **método dos casos mais similares** (*most similar method*) remonta ao trabalho clássico de J. S. Mill (1872) e é um dos mais reconhecidos na tradição qualitativa (Lijphart 1971, 1975; Przeworski e Teune 1970; Skocpol e Somers 1980). Em sua forma mais pura, o par de casos selecionados é similar em todas as variáveis independentes medidas, *exceto* na variável independente de interesse (X₁) — e difere no resultado (Y). A Tabela 2 formaliza essa lógica para o caso mais simples (dois casos, variáveis dicotômicas):
+
+| Caso | X₁ | X₂ | Y |
+|:-----|:---|:---|:--|
+| 1 | + | + | + |
+| 2 | − | + | − |
+
+Do padrão de covariação — mesmas condições de fundo (X₂), diferença em X₁, diferença em Y — infere-se que a presença ou ausência de X₁ causa a variação em Y.
+
+### Propensity-score matching como ferramenta de operacionalização [§43–§45]
+
+Para identificar tais casos em grandes populações, os autores recomendam técnicas de *matching* estatístico. A literatura sobre matching tem raízes na estatística (Rosenbaum e Rubin 1983), avançou na econometria (Hahn 1998; Hirano, Imbens e Ridder 2003) e chegou à ciência política (Ho et al. 2007; Imai 2005). A lógica fundamenta-se na extensão da lógica experimental: em experimentos aleatorizados de grande N, tratamento e controle são similares em variáveis medidas e não medidas — e uma simples diferença de médias é suficiente para causalidade. Em estudos observacionais, o grupo de "tratamento" geralmente difere do "controle" em muitas dimensões confundidoras.
+
+O **matching exato** — encontrar casos com exatamente os mesmos valores nas variáveis de controle — é praticamente impossível para variáveis contínuas. A alternativa é o **matching aproximado**, especificamente via *propensity-score matching*: estima-se um modelo da probabilidade de cada caso pertencer ao grupo de tratamento (condicional nas variáveis de matching), e casos com escores de propensão similares são pareados.
+
+O exemplo ilustra a seleção de casos "mais similares" a Índia e Costa Rica para estudar riqueza e democracia. As variáveis de matching são a origem do sistema legal (britânico, francês, alemão, escandinavo ou socialista) e a latitude da capital do país. O propensity score de Costa Rica é 7,63; o de Benin, 7,58 — com PIB per capita de US$ 1.163 (versus US$ 5.486 da Costa Rica). Para a Índia (escore 8,02), Singapura tem escore 7,99 e PIB per capita de US$ 27.020 (versus US$ 2.066 da Índia). Esses dois pares — Costa Rica/Benin e Índia/Singapura — constituem casos mais similares para testar a relação riqueza–democracia.
+
+> **Nota 9:** Para boas introduções ao matching, os autores remetem a Ho et al. (2007), Morgan e Harding (2005), Rosenbaum (2004) e Rosenbaum e Silber (2001).
+
+### O método dos casos mais diferentes [§46]
+
+O **método dos casos mais diferentes** é a imagem especular do anterior. Em vez de buscar casos similares nos controles, busca-se casos diferentes em todas as variáveis de controle relevantes, mas similares na variável causal de interesse (X₁) e no resultado (Y). A técnica de grande N é o inverso do matching para o método mais similar. Os analistas tipicamente consideram esse design um instrumento mais fraco para inferência causal do que o método mais similar — tema tratado em Gerring (2007).
+
+---
+
+## Complicações (pp. 306–307)
+
+### Combinações de estratégias e mudança de estratégia no curso da pesquisa [§47–§49]
+
+::: {.callout-tip}
+A seleção de casos não precisa — e frequentemente não deveria — aderir a uma única estratégia durante todo o curso de uma pesquisa. Muitos estudos de caso combinam estratégias, e a revisão da estratégia é normal e esperada conforme a pesquisa progride de modo exploratório para confirmatório.
+:::
+
+Os sete tipos apresentados na Tabela 1 são intencionalmente apresentados como um *menu* — não como categorias mutuamente exclusivas. Muitos estudos de caso combinam e articulam estratégias, e onde os casos permitem uma variedade de estratégias empíricas, não há razão para não perseguir todas.
+
+O segundo ponto é a mudança de status de um caso ao longo da investigação. Frequentemente, o pesquisador começa em modo exploratório e progride para o confirmatório — desenvolvendo uma hipótese X/Y específica. As estratégias ideais para exploração nem sempre são ideais para confirmação. Uma vez adotada uma hipótese específica, o pesquisador deve mudar de design. Três caminhos são possíveis: (1) explicar explicitamente que a pesquisa inicial foi exploratória e não foi construída para testar a hipótese que é agora o argumento central; (2) redesenhar o estudo após a nova hipótese ter sido formulada, possivelmente integrando novos casos ou variáveis; (3) simplesmente desenfatizar a porção da pesquisa que não mais aborda a hipótese revisada.
+
+### O problema irresolvível da representatividade [§50–§51]
+
+A representatividade emerge como a complicação final e mais fundamental. Há apenas uma situação em que o pesquisador não precisa se preocupar com ela: o design de caso influente, onde o caso é escolhido precisamente por sua influência sobre um modelo cross-case e não se espera que seja representativo. Em todas as demais circunstâncias, os casos devem ser representativos da população de interesse de maneiras relevantes para a proposição em questão.
+
+Em contextos de grande N, o resíduo do caso no modelo de maior confiança do pesquisador é um ponto de partida razoável para testar representatividade. Mas esse teste é tão bom quanto o modelo disponível: especificações incorretas ou procedimentos de modelagem inadequados podem enviesar a avaliação de "tipicidade" de cada caso. Dado o peso explicativo que casos individuais devem suportar em análises de estudo de caso, os autores recomendam ir além do teste de resíduo e incorporar raciocínio dedutivo — expectativas sobre as relações causais de interesse e sobre o caso escolhido. Em suma, estudos de caso (com as duas exceções já apontadas) repousam sobre uma sinédoque pressuposta: o caso deve representar uma população. Se essa premissa não se sustentar, a utilidade do estudo de caso é severamente comprometida.
+
+---
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+**Tese central:** A seleção de casos em estudos de caso pode e deve ser sistematizada por meio de sete estratégias distintas — típico, diverso, extremo, desviante, influente, mais similar e mais diferente — cada qual orientada a um objetivo analítico específico e operacionalizável por técnicas estatísticas padrão quando dados quantitativos estão disponíveis para a população de interesse.
+
+**Natureza do argumento:** Metodológico-prescritivo. O artigo não realiza análise causal original, mas reapropria técnicas existentes (análise de resíduos, Z-scores, Cook's distance, propensity-score matching) para um novo contexto — a fase de *design* da pesquisa qualitativa.
+
+**O que o texto demonstra vs. o que permanece como hipótese:** O artigo demonstra a *viabilidade ilustrativa* das técnicas propostas por meio de um exemplo empírico unificado (GDP per capita e democracia, dados de 1995). Não demonstra a *superioridade* das técnicas em termos de validade inferencial em estudos de caso reais, nem avalia como os diferentes métodos interagem quando aplicados simultaneamente. A eficácia dos métodos para seleção de casos fora do paradigma de inferência causal quantitativa (process-tracing, comparativo-histórico) permanece como agenda aberta.
+
+**Contribuição para o debate mais amplo:** O artigo insere-se no esforço de integração qualitativo-quantitativa em ciências sociais (Brady e Collier 2004; George e Bennett 2005; King, Keohane e Verba 1994) e representa a contribuição mais sistematizada e pedagogicamente acessível ao problema da seleção de casos até sua data de publicação. A Tabela 1 tornou-se referência canônica no campo. A principal vulnerabilidade duradoura é a circularidade entre especificação do modelo quantitativo e seleção do caso qualitativo — limitação que o artigo reconhece mas não resolve.
+:::

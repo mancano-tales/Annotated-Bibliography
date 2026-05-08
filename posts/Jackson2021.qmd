@@ -1,0 +1,282 @@
+---
+title: "Fichamento: Expansion, Enrollment, and Inequality of Educational Opportunity"
+subtitle: "Jackson, M. (2021) — Sociological Methods & Research, 50(3), 1215–1242"
+author: "Tales Mançano"
+date: "2026-05-08"
+last-updated: "2026-05-08"
+coverage: "Obra completa"
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+    execute: false
+---
+
+Jackson, M. (2021). Expansion, enrollment, and inequality of educational opportunity. *Sociological Methods & Research*, *50*(3), 1215–1242. https://doi.org/10.1177/0049124119852376
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → Jackson2021
+
+```bibtex
+@article{Jackson2021,
+ author  = {Jackson, Michelle},
+ title   = {Expansion, Enrollment, and Inequality of Educational Opportunity},
+ year    = {2021},
+ journal = {Sociological Methods \& Research},
+ volume  = {50},
+ number  = {3},
+ pages   = {1215--1242},
+ doi     = {10.1177/0049124119852376},
+}
+```
+
+:::
+
+
+Última atualização: 2026-05-08
+Modelo: Claude Sonnet 4.6 (claude-sonnet-4-6)
+Prompt Version: v17.2 2026-05-08 | Ficha antes do fichamento
+Gerado em: 2026-05-08T00:00:00-03:00
+Ocasião da Leitura:
+
+
+---
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v17.2*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | A premissa central que Jackson questiona é a de que a variável independente (expansão) e a variável dependente (IEO) são conceitualmente separáveis e que o indicador padrão (taxa de matrícula) mede de fato a oferta. Uma interpretação alternativa é que taxas de matrícula capturam um equilíbrio entre oferta e demanda, não a capacidade bruta do sistema — o que Jackson aceita e radicaliza. O ponto mais vulnerável é que Jackson não formula a pergunta de pesquisa de forma positiva: o artigo sabe o que combater, mas não propõe uma pergunta empírica alternativa testável. | *Pergunta reconstruída:* A expansão educacional, adequadamente medida como capacidade instalada do sistema, exerce efeito causal sobre a desigualdade de oportunidade educacional (IEO) baseada em classe de origem? O artigo questiona tanto a validade do construto (taxa de matrícula ≠ oferta) quanto a validade da estrutura causal (a expansão não é exógena à IEO). Natureza: crítica metodológico-conceitual, com dimensão normativa subsidiária. |
+| Questões Secundárias | A identificação dessas questões exige distinguir o argumento de medição (mais direto e demonstrável) do argumento sobre estrutura causal (mais especulativo e dependente de teoria). Ambos convergem para a mesma conclusão, mas têm força epistêmica distinta. | (1) Por que as taxas de matrícula são medidas endógenas à IEO? (2) Quais variáveis de confusão (Z) afetam simultaneamente a expansão e a IEO? (3) Como as instituições educacionais determinam conjuntamente a oferta de vagas e as regras de alocação? (4) Sob que condições de escopo os modelos simplistas de expansão podem ser válidos? |
+| Puzzle-Type | O puzzle é genuíno, mas duplo: um puzzle metodológico (endogeneidade da medida) e um puzzle ontológico (a expansão não é separável da alocação). O primeiro é muito mais sólido e imediatamente generalizável; o segundo depende de premissas sobre a natureza das organizações educacionais que são plausíveis mas não demonstradas. A generalização além dos EUA é restrita pelo caso empírico escolhido. | Puzzle metodológico-conceitual: a literatura acumulou centenas de estimativas da relação expansão-IEO utilizando uma medida (taxa de matrícula) que é estatisticamente endógena à variável dependente (razão de chances de IEO) e que confunde oferta com equilíbrio de mercado. O puzzle é generalizável a qualquer estudo comparativo de estratificação educacional que use taxas de matrícula como proxy de capacidade do sistema. |
+| Conclusão / Argumento Central | Jackson constrói um argumento em três camadas sobrepostas: (a) crítica de medição, (b) crítica de identificação causal via DAGs, (c) argumento institucional sobre valência. A camada (a) é a mais robusta; as camadas (b) e (c) são complementares mas dependem de suposições adicionais. O *claim of discovery* principal é a demonstração algébrica da endogeneidade, que é matematicamente preciso. | A tese central é que a relação canônica entre expansão e IEO é metodologicamente viciada em dois sentidos: (1) o indicador padrão de expansão (taxa de matrícula) é algebricamente função do parâmetro que capta a IEO no modelo log-linear, tornando-o endógeno; (2) as causas da expansão são as mesmas causas da IEO (variáveis Z de confusão), de modo que qualquer estimativa da relação expansão→IEO é provavelmente enviesada. Como corolário, as instituições educacionais determinam simultaneamente a oferta de vagas e as regras de alocação, tornando impossível separar expansão de política de alocação. |
+| Métodos | Artigo teórico-conceitual: sem dados primários. O design metodológico combina (a) demonstração algébrica formal via modelo log-linear saturado; (b) análise de grafos acíclicos direcionados (DAGs); (c) exemplos qualitativos extraídos do ensino superior norte-americano (UC, faculdades com fins lucrativos, universidades privadas). A estratégia argumentativa é dedutiva: demonstra inconsistências internas às medidas e premissas causais existentes. Cobre o artigo completo. | Teórico-formal com ilustrações qualitativas. Sem estimativas empíricas originais. A demonstração algébrica é o núcleo probatório mais forte; os exemplos institucionais (incentivos financeiros, de legitimidade, de prestígio) são ilustrativos, não confirmatórios. A ausência de dados primários é coerente com a natureza do argumento (crítica de identificação), mas deixa em aberto se medidas alternativas de oferta são empiricamente viáveis. |
+| Data Generation Process (DGP) | O DGP do argumento é inteiramente teórico: Jackson deriva os resultados a partir da estrutura matemática dos modelos existentes, não de novos dados. Isso significa que os vieses identificados são lógicos (inerentes à estrutura da medida), não empíricos (contingentes a amostras específicas). A análise não introduz viés de seleção de dados, mas os exemplos qualitativos são selecionados para ilustrar o argumento, potencialmente subestimando casos em que a separação entre expansão e alocação é mais plausível. | Fenômeno real: relação entre capacidade instalada do sistema educacional e desigualdade de acesso por classe. Operacionalização convencional: taxa de matrícula como proxy de oferta; razão de chances como medida de IEO. O artigo demonstra que a operacionalização convencional contamina oferta com demanda e torna a medida de expansão função algébrica da medida de IEO. Nível de análise: macro (sistema educacional). Unidade de análise implícita: coorte de estudantes em um dado nível educacional. |
+| Achados e Contribuições | O achado da endogeneidade é a contribuição mais robusta e tem implicações diretas para qualquer estudo que use taxas de matrícula em análises de regressão com IEO como desfecho. A tipologia de regras de alocação (valência positiva, negativa, neutra) é conceitualmente útil, mas não é operacionalizada. | (1) **Achado formal**: a taxa de matrícula em dado nível educacional é função do parâmetro δ (interação classe × nível) do modelo log-linear saturado, que é precisamente a medida convencional de IEO — logo, a regressão de IEO sobre taxas de matrícula é estruturalmente endógena. (2) **Achado teórico**: três classes de variáveis Z (organização econômica, conflito de classe, cultura) causam tanto a expansão quanto a IEO, invalidando a interpretação causal de associações observadas. (3) **Contribuição conceitual**: o modelo de valência mostra que toda expansão carrega regras de alocação implícitas ou explícitas, tornando a expansão inseparável da política de distribuição de vagas. |
+| Análise Crítica dos Achados | O ponto mais forte do argumento é o mais modesto: a demonstração algébrica da endogeneidade é incontestável dentro da estrutura do modelo log-linear. O ponto mais fraco é o mais ambicioso: a afirmação de que a expansão, em si mesma, não tem efeito causal direto sobre IEO (o "modelo mais radical") é possível mas não demonstrada, e Jackson reconhece isso. O modelo de valência é intuitivamente convincente mas empiricamente indeterminado: não é claro como distinguir operacionalmente regras com e sem valência. | (a) **Viés de seleção**: os exemplos institucionais vêm exclusivamente do ensino superior norte-americano, um caso de alta seletividade e organização de mercado — generalizações para sistemas universalizados ou estatalmente regulados são questionáveis. (b) **Compatibilidade DGP/claim**: o claim de endogeneidade é totalmente suportado pelo DGP (derivação algébrica); o claim sobre confundidores (Z) é sustentado por argumentos teóricos plausíveis, mas não por estimativas causais identificadas. (c) **Scope conditions**: Jackson reconhece que o modelo simplista vale apenas quando o acesso é automático e universal — mas não discute como a análise se aplica a sistemas de expansão massiva com alguma seletividade residual. (d) **Generalizabilidade**: o argumento sobre valência das regras de alocação é mais potente onde as instituições têm autonomia de admissão. Em sistemas com regulação estatal forte (e.g., cotas no Brasil), a estrutura causal é distinta. |
+| Limitações | **Reconhecidas pelos autores:** É impossível adjudicar, com as evidências existentes, entre o DAG da Figura 2 (expansão tem efeito direto, mas confundido) e o "modelo mais radical" (expansão sem efeito causal direto sobre IEO). **Não reconhecidas ou subestimadas:** (1) O artigo diagnostica o problema mas não propõe medidas alternativas de oferta — o apelo a "novas medidas" fica como agenda sem desenvolvimento metodológico concreto. (2) A análise não considera mecanismos pelos quais expansão poderia *reduzir* IEO mesmo na presença de confundidores, via equilíbrio geral. (3) A tipologia de valência carece de operacionalização que permita testes empíricos. (4) A aplicabilidade a sistemas educacionais de acesso quase universal (como o ensino fundamental no Brasil) não é discutida. | |
+| Perspectiva Teórica | A combinação de neo-institucionalismo e teoria de inferência causal via DAGs é coerente ontologicamente: ambas pressupõem que os resultados educacionais emergem de ações intencionais de atores organizacionais, não de forças funcionais abstratas. A moldura é adequada à pergunta, embora a ênfase na oferta institucional subestime a agência dos estudantes e das famílias. | Neo-institucionalismo sociológico (organizações educacionais como atores com objetivos próprios); inferência causal formalizada via DAGs (Pearl 1995; Morgan & Winship 2014); crítica metodológica da estratificação educacional (tradição de Mare 1980, 1981). Coerência ontológica: as instituições são tratadas como agentes causais, o que justifica a ênfase nas regras de alocação como mecanismo central. |
+| Principais Referências | O diálogo com a literatura é equilibrado em relação às teorias de expansão (MMI, EMI, Alon), mas é fraco em relação à literatura sobre acesso diferenciado em sistemas não-seletivos e à literatura sobre efeitos de composição. Walters (2000) é citada como precursora da crítica, mas o desenvolvimento de Jackson vai além em precisão formal. | Raftery & Hout (1993) — MMI; Lucas (2001) — EMI; Alon (2009, 2014) — competição e IEO; Walters (2000) — causas políticas da expansão; Morgan & Winship (2014) — DAGs e inferência causal; Pearl (1995) — grafos causais; Shavit & Blossfeld (1993) — desigualdade persistente; Schofer & Meyer (2005) — expansão global. |
+| Observações | A contribuição metodológica da endogeneidade das taxas de matrícula tem implicações diretas para estudos que usam essas taxas no contexto brasileiro — inclusive para pesquisas que cruzam ENEM, Censo Escolar e Censo da Educação Superior. O argumento de valência das regras de alocação é particularmente relevante para analisar o SISU (que uniformiza regras via ENEM) versus seleção direta das IES. O artigo é mais cirúrgico do que construtivo: sua maior contribuição é negativa (mostrar o que *não* podemos concluir), e a agenda positiva fica implícita. | |
+
+:::
+
+---
+
+## Introdução e Conceitos Básicos (pp. 1215–1218)
+
+### Contexto, motivação e posição da literatura [§1–§4]
+
+A expansão dos sistemas formais de educação ao longo do século XX constituiu o pano de fundo sobre o qual toda a discussão sobre mudanças na **desigualdade de oportunidade educacional** (*inequality of educational opportunity*, IEO) se desenvolveu. A proeminência histórica do crescimento educacional tornou intuitivo — e, com o tempo, quase automático — tratá-la como causa fundamental de uma série de resultados distributivos, especialmente do grau de desigualdade no acesso à educação entre classes sociais. O propósito declarado de Jackson é colocar em xeque exatamente essa suposição: a de que a expansão educacional exerce efeito causal sobre a IEO baseada em classe de origem.
+
+Jackson identifica dois eixos de fragilidade na literatura convencional: o primeiro é empírico — as medidas de expansão utilizadas são inadequadas; o segundo é teórico — a estrutura causal que relaciona oferta, demanda e IEO é por demais simplificada. Para sustentar essa posição, o artigo percorre um caminho que vai da crítica à operacionalização das variáveis até uma proposta de modelo institucional alternativo, com exemplos extraídos do ensino superior norte-americano.
+
+A literatura sociológica sobre o tema acumula décadas de debate. As teorias mais antigas, filiadas à tradição da modernização, postulavam que a expansão levaria inevitavelmente a uma redução do efeito da origem de classe sobre a trajetória educacional — o argumento clássico de Blau e Duncan (1967) e Treiman (1970). Essa perspectiva foi progressivamente contestada por teorias que introduziam condicionantes: a **desigualdade maximamente mantida** (*maximally maintained inequality*, MMI), desenvolvida por Raftery e Hout (1993), argumenta que a expansão só reduz a IEO quando algum nível de saturação é atingido, isto é, quando a demanda dos grupos privilegiados já foi plenamente atendida. Lucas (2001) acrescentou uma dimensão horizontal ao problema: mesmo que a expansão reduza a desigualdade *entre* níveis educacionais, ela poderia ampliar a desigualdade *dentro* de um mesmo nível, através da segmentação qualitativa entre instituições e cursos — a **desigualdade efetivamente mantida** (*effectively maintained inequality*, EMI). Mais recentemente, Alon (2009, 2014) propôs uma síntese que articula expansão e IEO por meio da competição: quando a oferta de vagas é limitada e a demanda elevada, os estudantes privilegiados conseguem adaptar-se mais facilmente a critérios seletivos rigorosos, bloqueando o acesso dos menos favorecidos; à medida que a oferta cresce e a competição diminui, a IEO tenderia a declinar.
+
+Esse conjunto de teorias parece ancorado em intuições sociológicas legítimas: é plausível tanto que mais vagas favoreçam o acesso de grupos antes excluídos, quanto que os grupos privilegiados sejam os primeiros a se apropriar das novas oportunidades. As intuições convergentes alimentaram décadas de testes empíricos de hipóteses opostas. Jackson, porém, argumenta que, por mais intuitivas que sejam essas formulações, a retórica causal convencional encobre um problema estrutural mais profundo: a estrutura causal subjacente à relação entre expansão e IEO é consideravelmente mais complexa do que a literatura assume.
+
+### Estrutura do argumento e o DAG inicial [§5–§7]
+
+O artigo se propõe a examinar a estrutura causal implícita nas teorias padrão, questionar as suposições metodológicas sobre a relação entre oferta, demanda e IEO, e — com base em exemplos do ensino superior norte-americano — argumentar que qualquer modelo plausível deve incorporar as *causas* da expansão. Diferentemente da abordagem convencional, em que a oferta simplesmente aumenta "em resposta à demanda", Jackson defende que é necessário perguntar de onde vem a oferta e, sobretudo, em que condições organizacionais novas vagas são criadas. Ao contrário de tratar a oferta de educação como exógena à IEO, o argumento é que as instituições educacionais determinam simultaneamente a quantidade de vagas e as regras segundo as quais essas vagas serão distribuídas.
+
+::: {.callout-note icon=false}
+**Conceito central:** A **oferta de vagas** (*supply of slots*) é concebida como a *capacidade* do sistema educacional — o número de lugares disponíveis antes de qualquer processo de correspondência com a demanda dos estudantes. Essa definição, que Jackson endossa, está em contradição direta com o uso corrente das taxas de matrícula como medida de oferta.
+:::
+
+A conceitualização padrão pode ser expressa por um **grafo acíclico direcionado** (DAG) simples, representado na Figura 1 do artigo: uma seta causal vai da oferta de vagas à IEO, sem qualquer causa comum postulada entre as duas variáveis. O procedimento empírico dominante consiste em examinar associações entre medidas de capacidade do sistema e medidas de IEO. A medida padrão de oferta é a taxa de matrícula em determinado nível educacional; a medida padrão de IEO é a razão de chances (*odds ratio*) que expressa a probabilidade relativa de um estudante de origem privilegiada, em comparação com um de origem menos privilegiada, de realizar a transição para o nível educacional em questão. Jackson aponta dois problemas fundamentais com essa abordagem: o indicador de oferta é inadequado, e a estrutura causal que conecta oferta e IEO é mal especificada.
+
+---
+
+## A Operacionalização da Oferta (pp. 1218–1220)
+
+### O problema de medir oferta com taxas de matrícula [§8–§10]
+
+A despeito da caracterização conceitual da oferta como capacidade instalada, o uso de taxas de matrícula para mensurá-la é praticamente universal na literatura de ciências sociais sobre educação. Para Jackson, isso é surpreendente, especialmente porque os próprios pesquisadores conhecem bem as instituições educacionais — entidades que definem antecipadamente quantas vagas serão ofertadas e que, em seguida, conduzem processos de seleção ou admissão para preenchê-las. As instituições podem aspirar a preencher integralmente suas vagas, mas o número efetivo de estudantes matriculados frequentemente difere do número de vagas *disponíveis*.
+
+::: {.callout-important}
+**Advertência metodológica central:** A taxa de matrícula não mede a oferta de vagas — ela mede o resultado de um processo de equilíbrio entre a oferta de vagas e a demanda dos estudantes. Usá-la como proxy de capacidade do sistema é um equívoco conceitual com consequências empíricas severas.
+:::
+
+A analogia com o mercado de trabalho é esclarecedora. Poucos pesquisadores aceitariam que a taxa de emprego é uma boa medida do número de empregos disponíveis: o emprego resulta de um processo de correspondência (*matching*) entre postos disponíveis e trabalhadores qualificados, e a medida adequada de oferta de trabalho inclui tanto os postos ocupados quanto os postos vagos. O Bureau of Labor Statistics norte-americano investe sistematicamente na estimativa mensal do número de vagas abertas (*job openings*), exatamente porque a taxa de desemprego sozinha é uma medida incompleta do mercado de trabalho. No campo da educação, em contraste, os pesquisadores conformaram-se com uma medida de oferta que captura apenas o ponto de equilíbrio entre oferta de vagas e demanda estudantil, ignorando sistematicamente as vagas não preenchidas.
+
+O problema se agrava quando se considera que a variável a ser explicada é justamente a IEO. Primeiro, do ponto de vista lógico, para que a expansão cause a IEO, a medida de expansão deve ser temporalmente anterior à medida de IEO — mas as taxas de matrícula são frequentemente medidas de forma contemporânea à razão de chances que expressa a IEO.
+
+> **Nota 3:** Jackson salienta que uma seta causal ligando duas variáveis medidas contemporaneamente seria rejeitada como absurda por qualquer sociólogo que a examinasse explicitamente — e ainda assim é precisamente o que a literatura faz implicitamente ao contrastar taxas de matrícula e razões de chances medidas ao mesmo tempo.
+
+Segundo — e este é o ponto mais tecnicamente incisivo —, as taxas de matrícula são *estatisticamente endógenas* à razão de chances que mede a IEO. Em outras palavras, uma mudança na IEO reflete-se mecanicamente na taxa de matrícula: se a razão de chances aumenta, a taxa de matrícula tende a aumentar; se a razão de chances diminui, a taxa de matrícula tende a diminuir. A demonstração formal desse ponto é o núcleo probatório mais robusto do artigo.
+
+### Demonstração formal da endogeneidade [§11–§13]
+
+Para demonstrar a endogeneidade, Jackson parte de um modelo log-linear saturado aplicado a uma tabela de contingência cruzando classe de origem (superior vs. inferior) e nível educacional (alto vs. baixo). Representando os parâmetros do modelo pela convenção padrão — onde *α* é o intercepto, *β* é o efeito marginal de classe, *γ* é o efeito marginal do nível educacional, e *δ* é a interação entre classe e nível —, a equação geral do modelo para a frequência esperada em cada célula é:
+
+> log *m*ᵢⱼ = *α* + *β*(dummy de classe) + *γ*(dummy de nível educacional) + *δ*(dummies de interação classe × nível)
+
+A razão de chances capturando a IEO é função precisamente do parâmetro *δ*, que expressa a associação entre classe de origem e nível educacional alcançado — independentemente dos efeitos marginais.
+
+**Tabela 1 — Parâmetros do modelo log-linear saturado** (codificação de variável *dummy*, categorias de referência: classe inferior e nível educacional baixo):
+
+| | Educação alta | Educação baixa |
+|:--|:--|:--|
+| **Classe superior** | *α*, *β*, *γ*, *δ* | *α*, *β* |
+| **Classe inferior** | *α*, *γ* | *α* |
+
+A taxa de matrícula em dado nível educacional — o indicador padrão de expansão — pode ser expressa como função dos mesmos parâmetros do modelo:
+
+> Taxa de matrícula = [exp(*α* + *β* + *γ* + *δ*) + exp(*α* + *γ*)] / [exp(*α* + *β* + *γ* + *δ*) + exp(*α* + *γ*) + exp(*α* + *β*) + exp(*α*)]
+
+Essa fórmula — que equivale ao total de estudantes no nível alto dividido pelo total de elegíveis — torna evidente que a taxa de matrícula é, em parte, função do parâmetro *δ*, que é exatamente o componente que captura a IEO. A endogeneidade não é, portanto, um problema estatístico contingente (como erros de medição ou viés de seleção amostral); ela é estrutural e inerente à definição matemática das duas variáveis.
+
+> **Nota 4:** Jackson observa que um argumento análogo se aplica a taxas de conclusão (*completion rates*): se usadas no lugar das taxas de matrícula como medida de expansão, o mesmo problema de endogeneidade se manifesta.
+
+Há uma ironia histórica nessa situação. A evolução metodológica do campo, a partir de Mare (1980, 1981), foi precisamente motivada pelo desejo de separar as mudanças na IEO dos efeitos marginais gerados pela expansão educacional. Os modelos de transição sequencial (*sequential transition models*) foram desenvolvidos exatamente para obter medidas *livres de margem* (*margin-free*) da associação entre origem de classe e trajetória educacional, evitando que mudanças nos percentuais brutos de escolarização fossem confundidas com mudanças na desigualdade relativa. Esse esforço metodológico bem-sucedido para medir a IEO sem contaminação pelos efeitos marginais foi, no entanto, acompanhado pela adoção das taxas de matrícula — que *são* os efeitos marginais — como medida de expansão. O campo obteve um indicador de IEO livre de margem, mas manteve um indicador de expansão contaminado pela própria IEO.
+
+---
+
+## Uma Literatura Causal (pp. 1221–1224)
+
+### O modelo causal implícito e as afirmações causais explícitas [§14–§19]
+
+O DAG da Figura 1 faz uma afirmação forte: a expansão tem efeito causal sobre a IEO, e nenhuma causa comum entre as duas variáveis é postulada. Por isso, qualquer associação observada entre expansão e IEO poderia ser interpretada como capturando o efeito causal. Embora os pesquisadores frequentemente recorram a estratégias retóricas para evitar declarar explicitamente essa afirmação causal, ela está no coração da literatura. Jackson identifica três formas pelas quais a afirmação causal se manifesta: (a) declarações causais explícitas, (b) afirmações causais implícitas ou veladas, e (c) afirmações preditivas.
+
+::: {.callout-note icon=false}
+**Tese central do diagnóstico:** A literatura sobre expansão e IEO é, em última análise, uma literatura profundamente causal — mesmo quando as afirmações causais estão obscurecidas por recursos retóricos ou enquadramentos "descritivos".
+:::
+
+No registro das afirmações causais explícitas, destacam-se três contribuições. Primeira: as teorias de modernização (Treiman 1970; Blau e Duncan 1967) postulavam que a expansão levaria inevitavelmente à redução da IEO, mesmo que essa premissa tenha sido rapidamente contestada. Segunda: a formulação de Raftery e Hout (1993) é explicitamente causal — a MMI propõe que as taxas de transição e as razões de chances entre origens sociais e transições educacionais permanecem estáveis de coorte a coorte, a menos que sejam forçadas a mudar pelo crescimento das matrículas. Hout (2006) generalizou essa formulação: a expansão de vagas (ou a redução do tamanho das coortes) reduz a IEO; a contração as aumenta. Shavit e Blossfeld (1993) inverteram a hipótese modernizante, argumentando que a expansão tende a perpetuar as desigualdades.
+
+> **Nota 5:** A MMI poderia ser questionada como pertencente ao conjunto de teorias com afirmação causal, dado que ela postula que *a maioria* das expansões não gera mudanças na IEO. Contudo, a MMI prevê que, no limiar de saturação, a expansão *causa* uma redução da IEO — o efeito causal existe, mesmo que seja representado por uma função degrau não-linear. Por isso, a MMI é legitimamente incluída nessa categoria.
+
+Terceira contribuição explicitamente causal: Alon (2009) formulou um mecanismo mediador — a competição — pelo qual a oferta influencia a IEO. Quando a oferta é limitada e a demanda elevada, os estudantes privilegiados conseguem se adaptar mais facilmente a critérios de admissão mais rigorosos, bloqueando o sucesso de estudantes pobres. Quando a oferta cresce, a competição diminui e, consequentemente, a IEO declina. Embora a competição seja introduzida como variável mediadora, a oferta permanece no papel causal primário.
+
+Os resultados empíricos nessa literatura assumem dois formatos principais. O primeiro consiste na apresentação de correlações diretas entre taxas de matrícula e razões de chances de IEO — como a estimativa de Hout (2006) de correlação de 0,79 entre a proporção da força de trabalho com educação pós-secundária e o efeito do background familiar sobre a escolaridade em economias de mercado. O segundo — e dominante — formato consiste na comparação informal (ao longo do tempo ou entre países) entre taxas de matrícula e razões de chances, com a relação sendo declarada positiva, negativa ou estável a partir da inspeção visual ou narrativa dos dados, sem estimação formal do efeito causal.
+
+### Afirmações causais implícitas, preditivas e formalização [§20–§23]
+
+Quando os pesquisadores resistem à afirmação causal forte, recorrem a linguagem que sugere causalidade sem declará-la: fala-se em IEO "no contexto da expansão", em mudanças na IEO "impulsionadas" ou "geradas" pela expansão. A presença quase universal de gráficos de taxas de matrícula no início dos artigos sobre IEO carrega a sugestão implícita de que é precisamente a expansão que deve ser invocada para explicar variações na desigualdade — em detrimento de outras tendências de longo prazo igualmente plausíveis, como mudanças na desigualdade de renda, nos retornos à escolaridade ou no tempo que os pais dedicam à educação dos filhos.
+
+Na dimensão preditiva, a literatura de MMI é o exemplo mais nítido: a expectativa de que mudanças na expansão terão consequências para a IEO é um dos elementos centrais da teoria e de seus desdobramentos empíricos.
+
+Para formalizar esses problemas, Jackson propõe o DAG da Figura 2, que representa a "interpretação mais generosa possível" das teorias existentes sobre a relação entre expansão e IEO. Neste modelo mais complexo, a oferta de vagas no tempo *t*₁ tem efeito causal sobre a IEO no tempo *t*₂; a oferta é determinada por um conjunto de variáveis *X* (independentes das causas da IEO) e por um conjunto de variáveis *Z* (que causam tanto a oferta quanto a IEO); a IEO é independentemente determinada por variáveis *Y* (não relacionadas à oferta) e pelas variáveis *Z*.
+
+> **Nota 7:** Para simplificar a discussão teórica, Jackson assume ao longo do artigo que as equações subjacentes ao DAG da Figura 2 são lineares aditivas. Em geral, os DAGs admitem que os efeitos causais variam entre unidades — mas essa suposição complicaria substancialmente o desenvolvimento teórico.
+
+A presença das variáveis *Z* como causa comum de expansão e IEO tem implicação direta: qualquer associação observada entre as duas variáveis é potencialmente espúria, ou pelo menos enviesada pela confusão introduzida por *Z*. Um "modelo mais radical" eliminaria completamente a seta direta da oferta para a IEO, postulando que toda associação observada é resultado da confusão introduzida por *Z*. Jackson reconhece que os dados existentes não permitem adjudicar entre o DAG da Figura 2 e esse modelo mais radical, mas argumenta que, em qualquer dos casos, as estimativas convencionais da relação expansão-IEO são provavelmente enviesadas.
+
+---
+
+## Narrativas de Expansão Educacional (pp. 1225–1228)
+
+### Z como organização econômica [§24–§26]
+
+Para identificar quais são as variáveis Z que confundem a relação expansão-IEO, Jackson propõe um exercício simples mas revelador: perguntar por que o sistema educacional se expande. A maioria dos estudos empíricos sobre expansão e IEO ignora completamente essa questão, tratando a expansão como um dado antes de avaliar seus "efeitos". Jackson identifica três classes de variáveis Z consistentes com a literatura estabelecida sobre o desenvolvimento dos sistemas educacionais.
+
+A primeira classe remete às transformações na organização econômica. Há uma longa tradição sociológica que trata a transição das economias industriais para economias de serviços — especialmente serviços profissionais e gerenciais — como um processo *skill-biased*: essa transição exige uma força de trabalho com níveis crescentes de qualificação formal, o que incentiva a expansão de sistemas educacionais capazes de produzir esse capital humano (Bell 1973; Goldin e Katz 2008). Ao mesmo tempo, a ascensão de empregos que exigem qualificações elevadas é acompanhada por um compromisso crescente com critérios meritocráticos de seleção: torna-se cada vez mais custoso alocar trabalhadores com base em características não-meritocráticas (classe, raça, gênero) quando o desempenho econômico das firmas depende da correspondência precisa entre qualificação e função. Kerr et al. (1960) já destacavam que a industrialização favorece a flexibilidade e a competição em detrimento da tradição e do status hereditário.
+
+Assim, mudanças setoriais na economia — configuradas como variável Z — causam simultaneamente (a) expansão educacional substancial e (b) procedimentos de seleção baseados no mérito que tendem a reduzir a IEO. A associação observada entre expansão e redução da IEO, nesse contexto, seria predominantemente espúria: seria a transformação econômica, e não a expansão em si, a causa de ambas.
+
+### Z como conflito de classe [§27–§28]
+
+A segunda classe de variáveis Z mobiliza a longa tradição de análises sobre o papel das classes privilegiadas na determinação do desenvolvimento dos sistemas educacionais. Nessa tradição, encontram-se duas posições alternativas mas compatíveis. A primeira, associada a Bowles e Gintis (1976) e Bourdieu e Passeron (1977), enfatiza como as escolas servem aos interesses reprodutivos das classes dominantes — a expansão do sistema é funcional para o controle da classe trabalhadora e para a legitimação das hierarquias sociais existentes. A segunda, observada em certos contextos históricos, aponta que as classes privilegiadas às vezes *suprimiram* a expansão educacional para barrar o acesso das classes trabalhadoras a credenciais que poderiam ameaçar sua posição relativa.
+
+Em ambos os casos, conforme sublinham Schofer e Meyer (2005), a expansão é causada pelas mesmas forças que determinam a IEO: o conflito e os interesses de classe. Isso configura, novamente, um conjunto de variáveis Z que atuam simultaneamente sobre a expansão e a distribuição de oportunidades educacionais.
+
+### Z como cultura e síntese das narrativas [§29–§31]
+
+A terceira classe de variáveis Z é de natureza cultural: refere-se às representações compartilhadas sobre o que constitui formas modernas e legítimas de organização educacional. Schofer e Meyer (2005) argumentam que a exposição à "sociedade mundial" (*world society*) induziu a expansão educacional porque um novo modelo de sociedade foi globalmente institucionalizado — um modelo em que o conhecimento escolarizado passou a ser visto como adequado para uma ampla variedade de posições sociais, e em que parcelas crescentes da juventude foram construídas como candidatas legítimas ao ensino superior. Uma visão mais fechada da educação como instrumento de reprodução de uma ordem ocupacional estratificada foi progressivamente substituída por uma visão de sistema aberto, em que a educação representa "capital humano" para o progresso ilimitado. Nesse enquadramento, tanto a expansão quanto as concepções de quem merece acessar a educação — isto é, a IEO — derivam do mesmo processo cultural.
+
+A síntese das três narrativas revela uma padrão consistente: todas as teorias macrossociológicas proeminentes sobre as causas do desenvolvimento dos sistemas educacionais identificam variáveis que são, ao mesmo tempo, causas da expansão e causas da IEO. Certamente, essas teorias também identificam variáveis X (que causam expansão mas não IEO), mas nenhuma teoria proeminente afirma que as variáveis X capturam *todos* os fatores que impulsionam a expansão. Pelo contrário, cada teoria reconhece que as variáveis Z — as causas comuns — desempenham papel significativo. Isso não implica, logicamente, que o modelo simplista da Figura 1 deva ser rejeitado; é possível, em princípio, que todas as macrotheories estejam erradas. Mas, no mínimo, o modelo de expansão não deveria continuar a se desenvolver alheio a essas formulações concorrentes altamente plausíveis.
+
+---
+
+## Um Modelo Mais Plausível: Instituições e Oferta (pp. 1228–1234)
+
+### Instituições como fornecedoras proximais de vagas [§32–§37]
+
+Independentemente das forças macrossociais que geram pressões por expansão, o fornecedor proximal de vagas educacionais é sempre uma *instituição* — uma escola, faculdade ou universidade. É a instituição que torna disponível uma vaga para o mundo e que estabelece as regras segundo as quais essa vaga será distribuída entre os candidatos. Quando a instituição decide aumentar o número de vagas, ela também decide se as mesmas regras de alocação anteriores se aplicarão às novas vagas ou se novas regras serão implementadas.
+
+As regras de alocação variam enormemente entre contextos institucionais. Em alguns países, todas as regras são determinadas por governos estaduais ou nacionais; em outros, as instituições têm ampla autonomia para definir seus próprios critérios. Algumas regras são públicas e transparentes; outras são conhecidas apenas por quem as administra. Algumas recebem amplo apoio social; outras são altamente contestadas (como as políticas de ação afirmativa nos EUA). Mas qualquer que seja a regra, toda vaga ofertada vem acompanhada de uma regra que determina como será distribuída.
+
+::: {.callout-note icon=false}
+**Conceito central:** **Regras de alocação** (*allocation rules*) são as regras que regulam a distribuição das vagas educacionais entre os candidatos. Elas determinam as práticas de admissão: quem pode candidatar-se, com base em quais critérios, segundo qual ponderação. Toda vaga é sempre ofertada em conjunto com uma regra de alocação — explícita ou implícita.
+
+> **Nota 8:** Jackson distingue seu uso do termo "regras de alocação" dos usos anteriores na literatura. Meyer (1977) usava o termo para descrever o poder da educação de determinar recompensas sociais; outros autores o usam para descrever a distribuição de oportunidades dentro do sistema. Jackson propõe um uso restrito: as regras que regulam a distribuição das vagas educacionais aos estudantes.
+:::
+
+As instituições educacionais são organizações que operam em busca de objetivos organizacionais específicos: solvência financeira (e, às vezes, lucro), manutenção de padrões educacionais elevados, construção de uma identidade cultural institucional, e obtenção de legitimidade por meio de processos de seleção meritocráticos. É a partir dessas metas que as instituições decidem expandir e definem as regras associadas à expansão. Um dos aspectos mais problemáticos da literatura sobre expansão e IEO é exatamente a ausência de atenção a esse processo: os sociólogos ou silenciam sobre os mecanismos pelos quais novas vagas são adicionadas ao sistema, ou recorrem a narrativas quase-funcionalistas em que a oferta "responde" automaticamente à demanda — sem qualquer discussão dos processos organizacionais concretos que levariam uma instituição a ampliar sua capacidade.
+
+A comparação com o mercado de trabalho é novamente esclarecedora. Uma empresa que precisa preencher uma vaga deixada por um funcionário que saiu pode simplesmente contratar um substituto com qualificações equivalentes — o *default* é a reposição direta. Em contraste, uma empresa que *adiciona* uma nova vaga precisa deliberar sobre qual tipo de função será criada, quais serão as atribuições do novo cargo, e que tipo de candidato estará mais apto a preenchê-la. A expansão — a adição de novas vagas — é qualitativamente diferente da simples manutenção da oferta existente, porque toda nova vaga requer uma decisão sobre como será distribuída.
+
+### Regras de alocação com valência e sem valência [§38–§42]
+
+Jackson propõe classificar as regras de alocação associadas à expansão em duas categorias: **com valência** (*valence-laden*) e **sem valência** (*valence-free*).
+
+As regras com valência são de dois subtipos. O primeiro subtipo aborda diretamente a IEO: quando uma instituição expande para acomodar mais estudantes de baixa renda, as novas vagas vêm acompanhadas de regras explícitas que as destinam prioritariamente a esse grupo. Isso pode acontecer de forma ostensiva — quando a instituição anuncia publicamente suas metas de inclusão — ou de forma mais discreta, mas igualmente consequente para grupos desfavorecidos. Durante a Grande Recessão, por exemplo, muitas universidades públicas norte-americanas sofreram cortes de financiamento estadual e viram-se obrigadas a atrair estudantes de fora do estado, que pagam mensalidades mais altas — uma expansão acompanhada de regras de alocação que favoreciam estudantes com capacidade de pagar mensalidades integrais, com consequências previsíveis para a IEO. O segundo subtipo de regra com valência não se refere diretamente à classe de origem, mas pode ter consequências para a IEO: por exemplo, uma universidade que deseja ampliar sua excelência esportiva e expande o número de vagas para atletas está adotando uma regra com valência (esportiva), que pode ter efeitos distributivos por classe ainda que não seja diretamente classista.
+
+As regras sem valência são aquelas que não fazem referência explícita à igualdade de oportunidade nem a quaisquer outros critérios de composição da turma. Quando uma instituição amplia o número de vagas sem emitir novas diretrizes para o setor de admissões, as regras antigas simplesmente permanecem em vigor. A imagem aqui é a de um reitor que decide aumentar as admissões para gerar receita adicional, sem dar instruções específicas ao setor de admissões sobre como as novas vagas devem ser distribuídas. Se o critério anterior era a combinação paritária de notas e resultados de testes padronizados, o mesmo critério continuará a reger as novas vagas.
+
+> **Nota 9:** Rigorosamente, não é correto afirmar que regras de alocação inalteradas na expansão gerarão estabilidade na IEO. Uma expansão que não altera regras equivale a baixar o ponto de corte na fila de candidatos ordenados pelos critérios existentes (e.g., notas e resultados de testes). Assumir que a IEO permanece estável ao mover para um ponto de corte mais baixo pressupõe que a composição socioeconômica da fila é uniforme ao longo de toda a distribuição dos critérios — o que quase nunca é verdade. Porém, dada a lentidão típica dos processos de expansão, as mudanças na composição entre os cortes antigo e novo são provavelmente pequenas o suficiente para ser indistinguíveis empiricamente de "nenhuma mudança".
+
+Mesmo as regras sem valência carregam uma "valência do status quo": ao preservar os critérios anteriores para as novas vagas, a instituição implicitamente decide não alterar a distribuição de oportunidades. O modelo de valência, portanto, refuta qualquer possibilidade de que a expansão ocorra de forma neutra em relação à alocação: toda expansão é, ao menos, uma decisão de manter as regras existentes.
+
+### Incentivos institucionais e crítica ao modelo de competição [§43–§48]
+
+As regras de alocação são consequentes para a IEO porque determinam as práticas de admissão que são a condição de acesso às vagas. Se a regra determina que as vagas devem ir para os candidatos "mais inteligentes", as práticas de admissão recompensarão notas e resultados em testes padronizados. Se a regra determina que as vagas devem ir para quem pode pagar mensalidades integrais, serão implementadas práticas de admissão "sensíveis à necessidade" (*needs-sensitive*), que privilegiam candidatos com recursos financeiros.
+
+Alon (2009) é o autor que mais se aproxima de reconhecer a mediação das práticas de admissão — seu modelo argumenta que o nível de competição determina a IEO por meio do peso atribuído a critérios de admissão tendenciosos por classe. Contudo, mesmo Alon trata a expansão como uma resposta automática à demanda, e o efeito da expansão sobre a IEO ocorre através da atenuação dos requisitos de admissão baseados em classe. No modelo de Alon, portanto, as regras de admissão são apenas uma variável interveniente entre expansão e IEO — e não há espaço para a valência: mesmo uma expansão explicitamente voltada para estudantes ricos seria prevista como redutora da IEO, simplesmente porque um aumento na oferta implica redução da competição, e a teoria assume que expansão e IEO não têm causa comum.
+
+::: {.callout-important}
+**Crítica ao modelo de competição de Alon:** O modelo de valência proposto por Jackson inverte a lógica: as decisões de expandir são intrinsecamente valenciadas de diversas formas. Se a expansão resulta de uma ação deliberada voltada para aumentar a igualdade, ou para aumentar receitas, ou para melhorar as relações com ex-alunos, as novas vagas virão acompanhadas de regras de alocação correspondentes. Sob esse modelo, a decisão política de expandir determina conjuntamente as regras de alocação e a IEO — e opera, precisamente, como uma variável Z (causa comum de expansão e IEO), invalidando as teorias que tratam a expansão como exógena.
+:::
+
+No contexto contemporâneo do ensino superior norte-americano, Jackson identifica três tipos de incentivo que moldam as regras de alocação adotadas pelas instituições: financeiros, de legitimidade e de prestígio. Os **incentivos financeiros** operam de forma diferente para distintos tipos de instituições. Universidades estaduais dependem de recursos do estado e de mensalidades; estudantes de fora do estado e internacionais são particularmente desejáveis por pagarem mensalidades mais elevadas, mas as universidades estaduais enfrentam limites políticos para admiti-los em excesso — como ilustra o caso da Universidade da Califórnia, que foi pressionada pelo estado a aumentar as admissões de residentes californianos após um crescimento excessivo de não residentes durante a Recessão. Faculdades privadas, sob pressão financeira crescente (muitas chegando à falência), tendem a substituir admissões "cegas à necessidade" (*needs-blind*) por admissões "sensíveis à necessidade", favorecendo candidatos com recursos para pagar mensalidades. Faculdades com fins lucrativos seguem lógica distinta: seu modelo de negócio baseia-se em atrair estudantes elegíveis para financiamento governamental (bolsas e empréstimos federais), o que significa concentrar esforços em candidatos de baixa renda.
+
+Os **incentivos de legitimidade** levam as instituições a recompensar o mérito individual por meio de critérios amplamente reconhecidos (notas, testes padronizados), mas também a garantir que grupos sub-representados tenham acesso, seja mediante cotas ou critérios adicionais destinados a reconhecer talentos que os indicadores convencionais não capturam. Os **incentivos de prestígio** podem favorecer admissões de legados (filhos de ex-alunos), o que provavelmente aumenta a IEO, ou podem priorizar a excelência em pesquisa, artes ou esportes, com efeitos distributivos variados e não necessariamente ordenados por classe.
+
+### Condições de escopo do modelo simplista [§49]
+
+A diversidade de incentivos e regras de alocação observada mesmo em um único setor de um único país — o ensino superior de quatro anos nos EUA — coloca a questão das condições de escopo dos modelos simplistas de expansão. Jackson argumenta que as condições necessárias para que o modelo da Figura 1 seja válido são extremamente restritas: o modelo simplista se sustenta apenas quando o acesso é automático e universal — quando não há qualquer processo de admissão e todo candidato é aceito. Nessa situação, não existem regras de alocação e não há espaço para a valência do gatekeeping institucional. Fora dessa condição de acesso irrestrito, as instituições atuam como porteiras (*gatekeepers*) e, por definição, as regras de alocação importam. Como as teorias convencionais geralmente se apresentam como teorias gerais, sem condições de escopo explicitadas, elas são na prática inválidas para o conjunto mais relevante de situações: aquelas em que o acesso envolve algum processo seletivo.
+
+---
+
+## Discussão (pp. 1234–1236)
+
+### Novas medidas, causalidade e o legado funcionalista [§50–§53]
+
+O objetivo central do artigo, conclui Jackson, é estimular o desenvolvimento de uma sociologia das regras de alocação. Isso requer, como primeiro passo, que o campo trabalhe com medidas defensáveis de expansão educacional. A taxa de matrícula não mede a capacidade do sistema; mede o número de estudantes que efetivamente tomou as oportunidades disponibilizadas. É também estatisticamente endógena à razão de chances que descreve a IEO. Se oferta e demanda hão de ser invocadas nas teorias sobre desigualdade educacional, é imprescindível obter medidas diretas desses conceitos, evitando-se indicadores de oferta que são simultaneamente contaminados pela demanda e endógenos à variável dependente.
+
+O argumento conceitual mais importante, porém, vai além da questão de medição: avaliar os efeitos causais da expansão educacional sobre a IEO é impossível sem incorporar os efeitos de confusão das políticas que estão por trás da expansão. Políticas de expansão são, simultaneamente, políticas de IEO, porque a decisão de aumentar o número de vagas disponíveis vem atrelada à decisão sobre como essas vagas serão distribuídas. O aumento da oferta não pode se dar simplesmente "em resposta à demanda" sem que instituições e atores atuem como intermediários e porteiros. As decisões sobre como expandir e a quem destinar as vagas são prováveis de diferir entre tipos de instituições, entre países e ao longo do tempo — e podem diferir também dentro de um mesmo nível educacional (por exemplo, nas proporções relativas de cursos acadêmicos e vocacionais).
+
+Embora os pesquisadores de estratificação e desigualdade tenham há muito tempo eliminado os fantasmas do funcionalismo em seus trabalhos teóricos sobre IEO, a incapacidade de considerar as causas conjuntas de expansão e IEO levou o campo a depender, na prática, de uma noção de oferta que é teleológica e descontextualizada. Os gestores das instituições educacionais raramente são indiferentes à forma como um aumento potencial da oferta de vagas será distribuído entre diferentes grupos — especialmente porque esses grupos chegam com níveis muito distintos de recursos. Universidades que expandem para sair de uma crise financeira garantirão que as novas vagas sejam preferencialmente destinadas a estudantes ricos, que podem pagar mensalidades integrais; universidades que expandem para atender objetivos políticos alocarão as vagas de forma a atingir a composição estudantil desejada.
+
+### A analogia com o mercado de trabalho e o papel da demanda [§54–§56]
+
+A comparação com o mercado de trabalho é, nesse ponto, tanto esclarecedora quanto limitada. Assim como no mercado de trabalho, a oferta de vagas educacionais pode ser conceitualmente — e empiricamente — separada dos estudantes que as ocupam. E, também como no mercado de trabalho, as vagas são geradas junto com as regras que determinam sua alocação, e essas regras determinarão a desigualdade no acesso. Onde a analogia se rompe é na previsibilidade das regras de alocação que prevalecerão. No mercado de trabalho sob concorrência pura, as firmas têm um objetivo claro e simples — maximizar lucros — e a regra de alocação (contratar o trabalhador mais produtivo dado o salário de mercado) é relativamente determinada. O sistema educacional, em sua maioria, não é um mercado orientado à maximização de lucros, e os riscos de uma "aquisição hostil" para as instituições que fracassam em atingir seus objetivos são limitados. Por isso, não se pode assumir que todas as expansões ocorrem sob perseguição dos mesmos objetivos, e uma previsão simples sobre os efeitos da oferta sobre a IEO é imprudente precisamente porque não se conhece, a priori, qual objetivo a instituição está perseguindo por meio da expansão.
+
+::: {.callout-tip}
+**Síntese interpretativa:** O campo acumulou centenas de estimativas da associação entre "expansão" e IEO e, no entanto, pode saber muito pouco sobre a relação verdadeira entre esses fenômenos. Trata-se de uma literatura que, em sua melhor versão, reconhece os potenciais confundidores e depois procede como se eles não existissem. Sem informação sobre as regras de alocação sob as quais as novas vagas são ofertadas e sem uma medida genuína da capacidade instalada do sistema educacional, é impossível oferecer uma interpretação causal convincente das associações temporais e cross-nacionais entre expansão e IEO.
+:::
+
+O lado da demanda introduz uma complicação adicional: mesmo políticas de expansão com valência bem-definida podem fracassar se não houver demanda suficiente por parte dos grupos-alvo. Relatórios periódicos na mídia norte-americana descrevem universidades que constroem acomodações de hotel, academias de ginástica de luxo e parques aquáticos para competir pela atração de estudantes com recursos suficientes para custear essas amenidades. Compreender as consequências das regras de alocação exige, portanto, não apenas analisar objetivos e públicos-alvo, mas também a demanda efetiva dos grupos pretendidos: políticas de expansão com valência inclusiva falharão se a demanda dos grupos beneficiados for insuficiente.
+
+---
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+**Tese central:** Jackson argumenta que a relação entre expansão educacional e IEO não pode ser causalmente identificada com os instrumentos disponíveis na literatura, por duas razões estruturalmente distintas mas mutuamente reforçantes. A primeira é de mensuração: as taxas de matrícula — o indicador padrão de expansão — são algebricamente endógenas ao parâmetro de interação do modelo log-linear que constitui a medida de IEO, tornando inválida qualquer regressão de IEO sobre taxas de matrícula. A segunda é de identificação causal: as causas da expansão educacional (organização econômica, conflito de classe, cultura) são as mesmas causas da IEO, introduzindo confusão sistemática que torna espúria qualquer associação observada.
+
+**Natureza do argumento:** Predominantemente conceitual e metodológico, com uma dimensão ontológica sobre o papel das instituições como agentes causais. O argumento não é causal no sentido de demonstrar empiricamente que a expansão *não* afeta a IEO; demonstra que os estudos existentes são incapazes de demonstrar que ela *afeta*.
+
+**O que o texto demonstra vs. o que permanece como hipótese:** A demonstração algébrica da endogeneidade das taxas de matrícula é o único resultado que o artigo prova com rigor formal. A afirmação de que os confundidores Z predominam sobre o efeito direto da expansão, e que as regras de alocação são o mecanismo central, são argumentos teóricos plausíveis e coerentes com a literatura macrossociológica, mas não são empiricamente demonstrados no artigo. A proposta de um "modelo mais radical" — sem efeito causal direto da expansão sobre a IEO — é formulada mas explicitamente reconhecida como não adjudicável com os dados existentes.
+
+**Contribuição para o debate mais amplo:** O artigo insere-se no giro causalista da sociologia quantitativa, ao aplicar o ferramental dos DAGs e da inferência causal a um debate que havia se desenvolvido amplamente alheio a essas exigências de identificação. Sua contribuição mais duradoura é provavelmente negativa: mostra que a agenda de pesquisa sobre expansão e IEO precisa ser refundada em torno de medidas adequadas de capacidade instalada e de modelos que incorporem os objetivos institucionais como determinantes conjuntos da expansão e da alocação. A proposta positiva — desenvolver novas medidas de oferta e uma sociologia das regras de alocação — permanece como agenda aberta, cuja viabilidade empírica o artigo não demonstra.
+:::
