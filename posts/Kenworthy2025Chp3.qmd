@@ -1,6 +1,6 @@
 ---
 title: "Fichamento: Does Income Inequality Degrade Democracy?"
-subtitle: "Kenworthy, L. (s.d. [cap. 3 de *Is Inequality the Problem?*])"
+subtitle: "Kenworthy, L. (2025). Does income inequality degrade democracy?"
 author: "Tales Mançano"
 date: "2026-05-06"
 last-updated: "2026-05-06"

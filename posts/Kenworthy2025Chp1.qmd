@@ -1,6 +1,6 @@
 ---
 title: "Fichamento: Inequality Isn't the Problem"
-subtitle: "Kenworthy, L. (s.d. [cap. 1 de *Is Inequality the Problem?*])"
+subtitle: "Kenworthy, L. (2025). Inequality isn't the problem."
 author: "Tales Mançano"
 date: "2026-05-06"
 last-updated: "2026-05-06"

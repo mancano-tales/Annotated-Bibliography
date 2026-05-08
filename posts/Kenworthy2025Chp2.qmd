@@ -1,6 +1,6 @@
 ---
 title: "Fichamento: Is Income Inequality Bad for Living Standards?"
-subtitle: "Kenworthy, L. (s.d. [ca. 2023])"
+subtitle: "Kenworthy, L. (2025). Is income inequality bad for living standards?)"
 author: "Tales Mançano"
 date: "2026-05-06"
 last-updated: "2026-05-06"
@@ -13,7 +13,7 @@ format:
     highlight-style: github
 ---
 
-Kenworthy, L. (s.d. [ca. 2023]). Is income inequality bad for living standards? In *Is inequality the problem?* Oxford University Press. https://doi.org/10.1093/oso/9780197693445.003.0003
+Kenworthy, L. (2025). Is income inequality bad for living standards? In *Is inequality the problem?* Oxford University Press. https://doi.org/10.1093/oso/9780197693445.003.0003
 
 ::: {.callout-note collapse="true" icon=false}
 ## Entrada BibTeX → Kenworthy2023

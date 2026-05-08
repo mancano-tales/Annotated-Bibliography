@@ -1,0 +1,186 @@
+---
+title: "Fichamento: Movimentos socioterritoriais e movimentos socioespaciais: contribuição teórica para uma leitura geográfica dos movimentos sociais"
+subtitle: "Bernardo Mançano Fernandes (2005)"
+author: "Tales Mançano"
+date: "2026-05-08"
+last-updated: "2026-05-08"
+categories: [Annotated Bibliography, Geografia Política, Movimentos Sociais, Teoria do Território, Geografias Críticas, Reforma Agrária]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+---
+
+Fernandes, B. M. (2005). Movimentos socioterritoriais e movimentos socioespaciais: contribuição teórica para uma leitura geográfica dos movimentos sociais. *Revista NERA*, *8*(6), 14–34.
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → Fernandes2005
+
+```bibtex
+@article{Fernandes2005,
+ author  = {Fernandes, Bernardo Mançano},
+ title   = {Movimentos socioterritoriais e movimentos socioespaciais: contribuição teórica para uma leitura geográfica dos movimentos sociais},
+ year    = {2005},
+ journal = {Revista NERA},
+ volume  = {8},
+ number  = {6},
+ pages   = {14--34},
+}
+```
+
+:::
+
+Última atualização: 2026-05-08
+Modelo: Perplexity — Claude Sonnet 4.6
+Prompt Version: v13.0 2026-04-19 | 2026-04-24 "IA Blog Post QMD"
+Gerado em: 2026-05-08T11:04:00-03:00
+
+---
+
+## Introdução (pp. 24–25)
+
+### Contextualização do problema e apresentação do programa de pesquisa [§1–§4]
+
+O artigo abre posicionando o território como conceito que, embora crescentemente adotado em diversas áreas do conhecimento na última década, é utilizado de maneira redutora — como uma dimensão das relações sociais — quando, na verdade, o território é **multidimensional** e constitui uma totalidade. Fernandes aponta que mesmo geógrafos reproduzem essa visão unidimensional, muitas vezes importada de outras disciplinas, o que empobrece as potencialidades analíticas da Geografia.
+
+O texto se apresenta como um novo ensaio de uma reflexão em andamento no Núcleo de Estudos, Pesquisas e Projetos de Reforma Agrária (NERA), da UNESP/Presidente Prudente. O autor informa que as primeiras reflexões sobre **movimentos socioterritoriais** remontam à sua tese de doutorado (Fernandes, 2000a), dedicada às ações do Movimento dos Trabalhadores Rurais Sem Terra (MST) em todo o território brasileiro, e que o presente artigo busca aprofundar esse debate à luz de Santos (1988, 1996), Lefebvre (1991), Raffestin (1993), Oliveira (1991), Gonçalves (2001) e Fernandes e Martin (2004).
+
+O autor reforça que os conceitos de **movimento socioterritorial** e **movimento socioespacial** ainda estão em processo de formação, mas já se constituem como referências importantes para as leituras geográficas dos movimentos sociais. A motivação política da elaboração teórica é explicitada: diante dos intensos processos de exclusão social gerados pelas políticas neoliberais, torna-se urgente pensar espaços e territórios como ferramentas de compreensão das conflitualidades. O artigo revisita os conceitos de espaço e território e apresenta o conceito de processos geográficos como categoria intermediária entre esses dois pólos.
+
+---
+
+## Espaço e Território (pp. 26–28)
+
+### O espaço como composicionalidade e completude [§5–§9]
+
+Fernandes parte da definição de Lefebvre (1991, p. 102): **o espaço social é a materialização da existência humana**. Essa amplitude, reconhece o autor, oferece desafios à Geografia, disciplina que tem o espaço como categoria de análise. Adverte que a utilização irrefletida do conceito pode torná-lo uma panacéia — espaço sem qualificação vira tudo e nada ao mesmo tempo. Para evitar equívocos, esclarece que o espaço social está contido no espaço geográfico, criado originalmente pela natureza e continuamente transformado pelas relações sociais, que geram outros tipos de espaços materiais e imateriais: políticos, culturais, econômicos e ciberespaços.
+
+O conceito-chave que o autor propõe para operacionalizar esse entendimento é o de **composicionalidade**: o espaço compreende e só pode ser plenamente compreendido em todas as dimensões que o compõem simultaneamente. Dessa propriedade deriva outra, a **completitude** (ou *completividade*): o espaço possui a qualidade de ser um todo mesmo sendo parte. O espaço geográfico, portanto, é formado pelos elementos da natureza e pelas dimensões sociais — cultura, política, economia — que as relações humanas produzem. Cada tipo de espaço (social, político, cultural) complementa o espaço geográfico sem, contudo, reduzi-lo.
+
+O espaço é descrito como *multidimensional, pluriescalar ou multiescalar, em intenso processo de completibilidade, conflitualidade e interação*. Fernandes critica as leituras fragmentárias — parciais, unidimensionais, uniescalares — que promovem desigualdades e exclusão ao apresentar o todo como parte. A superação dessa visão exige métodos que "desfragmentem" o espaço e preservem suas qualidades composicionais e completivas. Ao final, resgata a definição de Milton Santos (1996, p. 50): o espaço é "formado por um conjunto indissociável, solidário e também contraditório, de sistemas de objetos e sistemas de ações, não considerados isoladamente, mas como o quadro único no qual a história se dá".
+
+### Intencionalidade, poder e produção de território [§10–§14]
+
+O autor argumenta que as relações sociais produzem espaços fragmentados por meio de **intencionalidades**: uma visão de mundo que delimita o espaço para se diferenciar e se identificar. Ao fazê-lo, transforma a parte em todo e o todo em parte — o espaço político é reduzido ao político, o econômico ao econômico. Essa operação é simultaneamente uma *ação propositiva* que interage com uma *ação receptiva*: sem receptividade, a representação do espaço como fração não se sustenta. Trata-se, portanto, de uma forma de poder.
+
+É nessa dinâmica que emerge o **território**: o espaço apropriado por uma determinada relação social que o produz e o mantém a partir de uma forma de poder concedida pela receptividade. O território é, ao mesmo tempo, uma convenção e uma confrontação — por possuir limites e fronteiras, é por definição um espaço de conflitualidades. Fernandes diferencia espaço de território: o espaço é *a priori* e perene; o território é *a posteriori* e intermitente. As relações sociais transformam espaço em território e vice-versa, e esses movimentos são indissociáveis.
+
+O território é descrito como multidimensional a partir do mesmo princípio da composicionalidade aplicado ao espaço: ainda que seja uma fração do espaço geográfico, carrega as mesmas qualidades completivas. Fernandes dialoga com Raffestin (1993, p. 63), que define território como sistemas de ações e sistemas de objetos — definição próxima à de Milton Santos para o espaço geográfico, o que leva o autor a afirmar que espaço geográfico e território, ainda que diferentes, são "o mesmo" em natureza estrutural. Toda território é um espaço, mas nem todo espaço é um território. Os territórios existem em múltiplas escalas e tipos: países, estados, municípios, bairros, propriedades, corpos, pensamentos e paradigmas — concretos e imateriais.
+
+### Território imaterial, conhecimento e multiterritorialidade [§15–§18]
+
+Fernandes amplia o conceito de território ao plano imaterial: um paradigma científico, por exemplo, constitui um território imaterial. O **conhecimento** é um tipo importante de território, o que torna o método essencial: os métodos de análise são espaços mentais onde os pensamentos são elaborados. A mobilidade de territórios imateriais sobre o espaço geográfico, por meio da intencionalidade, determina a construção de territórios concretos. Sem a produção de espaços e territórios, o conhecimento pode ser subordinado por outras relações sociais, espaços e territórios.
+
+O autor critica economistas que tratam o território como mera dimensão do desenvolvimento, reduzindo-o a uma relação social setorial. Essa compreensão unidimensional é, segundo Fernandes, equivocada: tanto o desenvolvimento quanto o território são multidimensionais. Dentro dos territórios nacionais existem diferentes territórios, constituindo o que Haesbaert (2004) denominou de **multiterritorialidades**. A conclusão da seção é que os movimentos desiguais, contraditórios e conflitivos pelos quais as relações sociais produzem espaços e territórios são denominados **processos geográficos**.
+
+---
+
+## Processos Geográficos (pp. 28–30)
+
+### Os processos primários: espacialização, espacialidade, territorialização e territorialidade [§19–§25]
+
+Os processos geográficos são também processos sociais: as relações sociais produzem espaços, lugares, territórios, regiões e paisagens ao mesmo tempo em que são produzidas por eles. Essa indissociabilidade promove os movimentos dos espaços sociais e dos territórios nos espaços geográficos. Fernandes enumera os **quatro processos geográficos primários**: (1) espacialização, (2) espacialidade, (3) territorialização e (4) territorialidade; e os **três processos procedentes**: desterritorialização, reterritorialização, desterritorialidade e reterritorialidade.
+
+A **territorialização** é a expansão contínua ou interrompida do território. A **territorialidade** é a manifestação dos movimentos das relações sociais mantenedoras dos territórios, produzindo e reproduzindo ações próprias ou apropriadas. O autor distingue dois tipos de territorialidade: a *local* (simples ou múltipla) e a *deslocada*. A territorialidade local simples ocorre quando um espaço é usado para uma única finalidade — um hospital. A territorialidade local múltipla refere-se ao uso de um mesmo território em diferentes momentos e para diferentes fins, como uma rua usada para tráfego, lazer nos fins de semana e feira livre uma vez por semana. A **desterritorialidade** acontece quando uma dessas ações é impedida; a **reterritorialidade**, quando ela retorna.
+
+Exemplos de **territorialidade deslocada** são as reproduções de ações, relações ou expressões próprias de um território que ocorrem em outros territórios: pessoas tomando chimarrão no Sudeste ou Nordeste, ou dançando forró, rock ou tango em São Paulo — resultados de interações e convivências com diferentes culturas.
+
+### Espacialização, espacialidade e o processo TDR [§26–§29]
+
+A **espacialização** é o movimento concreto das ações e sua reprodução no espaço geográfico e no território. É circunstancial — o presente, no sentido de Santos (1988) — e irreversível: uma vez realizada, torna-se fato acontecido, impossível de destruir. Ao contrário da territorialização, não é expansão, mas fluxo e refluxo da multidimensionalidade. Por isso, "desespacialização" não existe como categoria. Exemplos: a circulação de mercadorias no comércio e as marchas do MST.
+
+A **espacialidade** é o movimento contínuo ou o multidimensionamento de uma ação — ela carrega o significado da ação sem que esta se concretize. É subjetiva, enquanto a espacialização é objetiva. Exemplos: propagandas e lembranças da memória. Espacialidade e espacialização podem ocorrer concomitantemente. Ao contrário da relação entre territorialização e desterritorialização — que não ocorrem ao mesmo tempo e no mesmo lugar, embora possam ocorrer simultaneamente em lugares diferentes — os processos espaciais são mais fluidos.
+
+O grande processo geográfico que envolve território é o **TDR**: *territorialização – desterritorialização – reterritorialização*. Nele acontecem simultaneamente expansão e destruição, criação e refluxo. Exemplos oferecidos pelo autor: empresas capitalistas que se instalam e abandonam cidades conforme conjunturas políticas e econômicas; o agronegócio e a agricultura camponesa modificando paisagens e estruturas fundiárias; a polícia prendendo traficantes que controlam bairros, com o tráfico sendo reorganizado semanas depois; ou um paradigma científico que entra em crise, é abandonado e posteriormente retomado.
+
+---
+
+## Movimentos Socioterritoriais e Movimentos Socioespaciais (pp. 30–32)
+
+### Origem do conceito e superação do referencial sociológico [§30–§33]
+
+As primeiras reflexões sobre o conceito de movimentos socioterritoriais datam da segunda metade da década de 1990 e foram publicadas no artigo "Movimento Social como Categoria Geográfica" (Fernandes, 2000b). Continuaram no debate com o geógrafo Jean Yves Martin (2001), resultando em publicação conjunta sobre o MST e a globalização (Fernandes; Martin, 2004). O esforço, explica o autor, foi superar os conteúdos sociológicos do conceito de movimento social, que, embora amplamente utilizado por geógrafos, contribui pouco para um estudo dos processos geográficos desenvolvidos pelos movimentos — sua produção e construção de espaços sociais e transformação de espaços em territórios.
+
+Fernandes esclarece que movimento social e movimento socioterritorial *não são entidades distintas*: trata-se do mesmo sujeito coletivo visto desde perspectivas diferentes. Desde a perspectiva sociológica, fala-se em movimento social; desde a perspectiva geográfica, em movimento socioterritorial ou socioespacial. A diferença não é ontológica, mas analítica. Isso posto, o autor define os movimentos como instituições tanto informais quanto formais (sindicatos, empresas, estados, igrejas, ONGs) que se organizam para defender interesses, em possíveis enfrentamentos, com objetivo de transformação da realidade.
+
+### A distinção central: trunfo territorial versus produção de espaço [§34–§37]
+
+::: {.callout-note icon=false}
+**Distinção fundamental:** Todo movimento produz algum tipo de espaço — por isso todos são *socioespaciais*. Mas nem todo movimento tem o **território como trunfo** (Raffestin, 1993). Apenas aqueles para os quais o território é essencial à sua existência são denominados *socioterritoriais*.
+:::
+
+Os **movimentos socioterritoriais** têm o território não apenas como trunfo, mas como razão de ser. São exemplos: movimentos camponeses, indígenas, empresas, sindicatos e estados — todos criam relações sociais para tratar diretamente de seus interesses, produzindo seus próprios espaços e territórios. A construção de um tipo de território implica, quase sempre, a destruição de outro, de modo que a maior parte desses movimentos se forma a partir de processos de territorialização e desterritorialização.
+
+As **organizações não governamentais (ONGs)** constituem-se apenas como movimentos socioespaciais: são agências de mediação que representam reivindicações de espaços e ou de territórios, mas não existem *a partir* de um território. Trabalham com representações de interesses alheios — desde multinacionais até movimentos indígenas — e produzem espaços políticos e se espacializam, mas não possuem território definido como trunfo. As **igrejas** podem ser tanto socioespaciais quanto socioterritoriais, dependendo se atuam como agências de mediação ou em defesa de interesses próprios.
+
+### Tipologia dos movimentos e exemplos empíricos [§38–§42]
+
+Fernandes oferece uma tipologia operacional dos movimentos socioterritoriais segundo sua escala geográfica de atuação:
+
+| Tipo | Definição | Características |
+|:-----|:----------|:----------------|
+| Isolados | Atuam em microrregião ou espaço geográfico equivalente | Escala restrita; não necessariamente sem contato com outras instituições |
+| Territorializados | Atuam em diversas macrorregiões | Formam redes; estratégias políticas de territorialização; todos começaram como isolados |
+| Socioespaciais | Agências de mediação | Não possuem território como trunfo; escala variável, do local ao global |
+
+Segundo pesquisas da Comissão Pastoral da Terra (2005, pp. 219–224), existiam até 31 de dezembro de 2004 cerca de 240 movimentos socioespaciais e socioterritoriais atuando no território brasileiro. A maior parte era de movimentos socioterritoriais isolados, que respondiam por número menor de ações; os movimentos territorializados executavam número maior de ações; os movimentos socioespaciais apareciam como agências de mediação.
+
+No campo e na floresta, os movimentos socioterritoriais são predominantemente movimentos camponeses, camponeses-indígenas e indígenas em luta pela terra e pelo território. Na cidade, são predominantemente movimentos de sem-teto, que constroem espaços e se espacializam para conquistar o território, promovendo a territorialização da luta pela moradia. O Greenpeace é citado como exemplo de movimento socioespacial global; organizações de bairro em luta por serviços (energia elétrica, asfalto, escolas) exemplificam o socioespacial em escala local.
+
+Tanto os movimentos socioespaciais quanto os socioterritoriais enfrentam **contra-espaços** (Moreira, 2002), estudados por Feliciano (2003) no caso das medidas políticas do Estado como barreiras espaciais à espacialização e territorialização dos movimentos camponeses. O conflito é fato presente nas ações dos movimentos socioterritoriais, promovendo desenvolvimento e refluxo nas políticas institucionais. Exclusão, negociação e ressocialização são condições superadas por meio da construção de espaços e conquista de territórios.
+
+---
+
+## Considerações Finais (pp. 32–33)
+
+### Potencial político e epistemológico dos conceitos [§43–§45]
+
+Fernandes encerra argumentando que a construção dos conceitos é processo amplo e de debate permanente, e que compreendê-los é importante para superar preconceitos contra sujeitos que lutam pela conquista de seus territórios — frequentemente criminalizados como "baderneiros" por terem penetrado em espaços dos quais foram excluídos. A leitura geográfica é estratégica para mapear os movimentos das forças políticas sobre o espaço geográfico — transformando paisagens, criando e destruindo territórios.
+
+O autor defende que os conceitos de movimento socioespacial e socioterritorial são tentativas de **desfragmentação do espaço e do território**: oferecem uma leitura mais ampla do que as categorias sociológicas convencionais, embora sempre parcial — a totalidade da realidade é um processo coletivo que só pode ser compreendida no movimento de todos. A contribuição à Geografia consiste em fornecer uma leitura autônoma da disciplina, capaz de dialogar com outras áreas do conhecimento sem lhes ser subordinada.
+
+---
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+**Tese central:** O conceito de movimento social, de origem sociológica, é insuficiente para a análise geográfica das ações coletivas porque não capta a produção, disputa e transformação de espaços e territórios que lhes são constitutivas; a substituição analítica pelos conceitos de **movimento socioespacial** (todo coletivo que produz espaço) e **movimento socioterritorial** (coletivo para o qual o território é trunfo existencial) permite uma leitura geográfica plena dessas dinâmicas.
+
+**Natureza do argumento:** Conceitual-normativo. O autor não testa hipóteses empiricamente, mas elabora e justifica categorias teóricas a partir de revisão bibliográfica e exemplos ilustrativos, com vistas a oferecer um quadro analítico para pesquisas empíricas futuras.
+
+**O que o texto demonstra:** A inadequação da categoria sociológica de movimento social para o trabalho geográfico; a viabilidade lógica da distinção entre socioespacial e socioterritorial a partir das propriedades composicionais do espaço e do papel do território como trunfo (Raffestin); a aplicabilidade da tipologia a casos concretos brasileiros (MST, sem-teto, ONGs, Greenpeace).
+
+**O que fica como hipótese ou agenda:** A operacionalização rigorosa dos conceitos para análises empíricas comparadas; o estudo sistemático das transições de movimentos isolados para territorializados; a avaliação da capacidade explicativa da tipologia em contextos fora do Brasil.
+
+**Contribuição ao debate:** O texto insere-se no esforço de autonomização teórica da Geografia brasileira frente às Ciências Sociais, propondo um vocabulário disciplinar próprio para os estudos de movimentos sociais que integra as tradições de Milton Santos, Lefebvre e Raffestin em uma síntese original voltada para realidades do Sul Global.
+:::
+
+---
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v13.0*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | A pergunta não é enunciada explicitamente, mas pode ser reconstruída a partir da crítica ao conceito sociológico de movimento social. A premissa central é que toda ação coletiva tem dimensão espacial e territorial irredutível; a interpretação alternativa — que o conceito sociológico basta para a Geografia — é descartada como insuficiente. O ponto mais vulnerável é a ausência de critérios operacionais claros para distinguir empiricamente quando um movimento "tem o território como trunfo". | **Pergunta reconstruída:** De que modo os conceitos de movimento socioespacial e movimento socioterritorial permitem uma leitura geográfica mais adequada dos movimentos sociais do que o referencial sociológico convencional? Natureza: conceitual-normativa. |
+| Questões Secundárias | A formulação das secundárias apoia-se nas distinções entre espaço e território, nas propriedades dos processos geográficos e na diferenciação entre tipos de movimentos. O risco é que a resposta a cada pergunta secundária depende de definições que o próprio texto está construindo simultaneamente, criando alguma circularidade. | (1) O que distingue ontologicamente espaço de território? (2) Quais são os processos geográficos pelos quais movimentos produzem e disputam territórios? (3) Como diferenciar operacionalmente movimentos socioespaciais de socioterritoriais? (4) Que tipologia de movimentos socioterritoriais pode ser construída com base em sua escala geográfica de atuação? Todas as secundárias articulam-se em torno da pergunta central, operando como etapas construtivas do argumento. |
+| Puzzle-Type | O puzzle é de gap conceitual-disciplinar: a ausência de categorias geográficas próprias para a análise de movimentos sociais. É genuíno no contexto da Geografia brasileira dos anos 1990–2000, em que o referencial sociológico dominava. A generalizabilidade além do caso brasileiro depende de verificação empírica em outros contextos geopolíticos e tradições disciplinares, o que o texto não realiza. | Gap conceitual-disciplinar: a Geografia carece de vocabulário próprio para analisar movimentos sociais em sua dimensão espacial e territorial. O puzzle é legítimo dentro do campo, mas é apresentado de forma normativa, sem revisão sistemática da literatura geográfica internacional sobre o tema. |
+| Conclusão / Argumento Central | A conclusão é consistente com as premissas, mas apoia-se mais na plausibilidade lógica das categorias do que em evidências empíricas sistematizadas. O *claim of discovery* — a originalidade da distinção socioespacial/socioterritorial — é sustentado principalmente pela ausência de equivalentes na literatura sociológica, não por uma demonstração comparativa com outras propostas geográficas. | Todo movimento social produz espaço (logo, é socioespacial), mas apenas aqueles para os quais o território é trunfo existencial constituem movimentos socioterritoriais. O argumento é conceitual: propõe categorias analíticas derivadas das propriedades ontológicas do espaço e do território. O que sustenta o *claim* é a coerência interna das definições e a consistência com as referências teóricas mobilizadas. |
+| Métodos | Por ser ensaio teórico, a vulnerabilidade metodológica principal é a ausência de protocolo explícito de revisão de literatura e de critérios de seleção dos exemplos ilustrativos. Os exemplos são evocados ad hoc para ilustrar conceitos já definidos, não para testá-los. | Ensaio teórico-conceitual. Estratégia argumentativa: (1) revisão e rearticulação de conceitos de espaço e território a partir de Santos, Lefebvre e Raffestin; (2) elaboração de conceitos intermediários (processos geográficos, TDR); (3) aplicação da moldura aos movimentos sociais; (4) ilustração com casos empíricos não sistematizados. Não há coleta de dados primários, trabalho de campo ou análise estatística. |
+| Data Generation Process (DGP) | O DGP é inteiramente textual-argumentativo. A única fonte de dados empíricos (Comissão Pastoral da Terra, 2005) é citada sem discussão metodológica sobre como foram classificados os 240 movimentos. O nível de inferência é teórico: da consistência conceitual para a aplicabilidade analítica. | Fenômeno real: produção e disputa de espaços e territórios por movimentos sociais → Observação: revisão bibliográfica e experiência de pesquisa do NERA → Operacionalização: definição de categorias por propriedades ontológicas → Análise: consistência lógica das definições e exemplos ilustrativos → Inferência: proposta de quadro analítico transferível. Unidade de análise: o movimento social como coletivo. |
+| Achados e Contribuições | O ponto mais forte é a distinção analítica entre socioespacial e socioterritorial, que tem sido efetivamente incorporada à literatura geográfica brasileira. O mais especulativo é a afirmação de que ONGs são *apenas* socioespaciais — esse limite é imposto por definição, não demonstrado empiricamente. | Contribuição teórico-conceitual: (1) distinção entre espaço como composicionalidade e território como espaço apropriado por relação de poder; (2) sistematização de quatro processos geográficos primários e três procedentes; (3) distinção operacional entre movimentos socioespaciais e socioterritoriais; (4) tipologia de movimentos por escala (isolados, territorializados, socioespaciais). Dado empírico: ~240 movimentos atuando no Brasil até 2004 (CPT, 2005). |
+| Análise Crítica dos Achados | O critério "território como trunfo" (Raffestin) não é operacionalizado: quando exatamente um movimento cruza o limiar do socioespacial para o socioterritorial? A exclusão definitiva das ONGs da categoria socioterritorial é assertiva e não contempla casos limítrofes (ex.: ONGs territorialmente enraizadas). A generalizabilidade para contextos urbanos e do Norte Global não é discutida. | O texto responde adequadamente à pergunta reconstruída no plano conceitual. Ponto mais forte: coerência interna entre ontologia (espaço multidimensional) e categorias analíticas derivadas. Ponto mais vulnerável: ausência de critério operacional para distinguir empiricamente os tipos de movimentos. Ameaça à identificação: circularidade — "movimento socioterritorial é aquele que tem o território como trunfo" define pelo definiendum. *Scope conditions* declaradas: contexto brasileiro pós-neoliberal; não declaradas: tradição disciplinar específica da Geografia crítica brasileira. |
+| Limitações | **Reconhecidas pelos autores:** As ideias estão "em processo de formação" e a leitura socioterritorial "sempre será uma leitura parcial". <br> **Não reconhecidas ou subestimadas:** (1) Ausência de diálogo com a literatura internacional sobre social movements e contentious politics (Tilly, McAdam, Tarrow); (2) critério de distinção socioespacial/socioterritorial não operacionalizado; (3) único dado empírico (CPT, 2005) não discutido metodologicamente; (4) possível viés normativo em favor dos movimentos camponeses/indígenas, que pode comprometer a neutralidade analítica da tipologia. |
+| Perspectiva Teórica | A ontologia implícita é relacional e materialista: espaço e território são produzidos pelas relações sociais, não dados naturalmente. Isso é coerente com as fontes mobilizadas. A ausência de diálogo com perspectivas pós-estruturalistas (Massey, Harvey, Soja) ou com a tradição anglófona de critical geography é uma limitação significativa para a validade externa dos conceitos. | Geografia crítica brasileira, com influências do materialismo histórico-geográfico (Lefebvre, Santos), da geografia política do poder (Raffestin) e da tradição de estudos agrários críticos (Oliveira, Gonçalves). Adequação: a moldura é coerente com o objeto (movimentos territoriais no Brasil agrário), mas sua aplicabilidade a movimentos urbanos contemporâneos ou a contextos do Norte Global não é demonstrada. |
+| Principais Referências | O diálogo com a literatura sociológica sobre movimentos sociais é deliberadamente limitado (crítica ao referencial sociológico), o que pode ser lido como lacuna ou como escolha disciplinar consciente. A ausência de referências à geografia anglófona é a omissão mais significativa. | Santos (1988, 1996); Lefebvre (1991); Raffestin (1993); Oliveira (1991); Gonçalves (2001); Haesbaert (2004); Fernandes e Martin (2004); Comissão Pastoral da Terra (2005). Referências internas ao próprio autor: Fernandes (2000a, 2000b). Diálogo restrito: sem Tilly, Tarrow, Harvey, Massey ou Soja; sem referências à geografia anglófona de movimentos sociais. |
+| Observações | A relação com a pesquisa do leitor é alta: o quadro conceitual de Fernandes é amplamente utilizado em estudos sobre MST, movimentos indígenas e sem-teto no Brasil, e serve como referência obrigatória para geógrafos e cientistas sociais que trabalham com conflitos territoriais. A distinção socioespacial/socioterritorial pode ser produtivamente articulada com abordagens de contentious politics e com a literatura sobre *scale* em Geografia política. | O artigo tem valor principalmente como manifesto disciplinar: seu impacto real na literatura geográfica brasileira supera sua solidez epistemológica estrita. Para fins de uso em pesquisa empírica, recomenda-se complementá-lo com operacionalização mais precisa dos critérios de classificação dos movimentos e com diálogo explícito com a literatura internacional sobre movimentos sociais e conflitos territoriais. |
+
+:::

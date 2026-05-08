@@ -29,14 +29,13 @@ a partir do conteúdo — não por associação livre de palavras-chave.
 Indica o formato do documento, não o conteúdo.
 Escolha `Annotated Bibliography` para fichamentos estruturados de obras
 únicas, `Descriptive Note` para notas de leitura ou sumários de capítulo,
-`Essay` para peças analíticas originais, ou `Index` para entradas de
-referência e listas organizacionais.
+`Essay` para peças analíticas originais.
 
 **Layer B — Tema substantivo (1–4 categorias)**
 Captura o campo disciplinar e os tópicos centrais do argumento.
 Divida mentalmente em dois tipos:
 
-- *Campo disciplinar* (no máximo 1): a tradição intelectual de que o
+- *Campo disciplinar* (no máximo 2): a tradição intelectual de que o
   texto faz parte — ex.: `Political Economy`, `Development Economics`,
   `Methodology`. Use apenas se o trabalho se identifica claramente com
   uma disciplina ou abordagem; omita se o texto for genuinamente
@@ -59,7 +58,7 @@ Exemplos válidos: `Brazil`, `Latin America`, `United States`,
 
 #### Regras de formulação
 
-1. **Total máximo de 5 categorias** somando todas as camadas.
+1. **Total de 4-9 categorias** somando todas as camadas.
 2. **Somente em inglês**, Title Case.
 3. **Antes de criar uma categoria nova**, verifique se o conceito já
    existe no arquivo `CATEGORIES.md` do repositório. Se existir,

@@ -9,7 +9,7 @@
 <meta name="author" content="Tales Mançano">
 <meta name="description" content="Tales Mançano — Annotated Bibliography">
 
-<title>v14.0-2026-05-07-ia-blog-post-md-categories – Annotated Bibliography</title>
+<title>v17.1-2026-05-08 – Annotated Bibliography</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -214,12 +214,9 @@ https://badge.dimensions.ai/
   <ul>
   <li><a href="#metadados-do-documento" id="toc-metadados-do-documento" class="nav-link active" data-scroll-target="#metadados-do-documento">METADADOS DO DOCUMENTO</a></li>
   <li><a href="#bloco-inicial-obrigatório" id="toc-bloco-inicial-obrigatório" class="nav-link" data-scroll-target="#bloco-inicial-obrigatório">BLOCO INICIAL OBRIGATÓRIO</a></li>
-  <li><a href="#ficha-analítica-crítica" id="toc-ficha-analítica-crítica" class="nav-link" data-scroll-target="#ficha-analítica-crítica">Ficha Analítica Crítica</a>
-  <ul class="collapse">
-  <li><a href="#postura-analítica" id="toc-postura-analítica" class="nav-link" data-scroll-target="#postura-analítica">POSTURA ANALÍTICA</a></li>
-  <li><a href="#dimensões-da-ficha-nesta-ordem-exata" id="toc-dimensões-da-ficha-nesta-ordem-exata" class="nav-link" data-scroll-target="#dimensões-da-ficha-nesta-ordem-exata">DIMENSÕES DA FICHA (nesta ordem exata)</a></li>
-  <li><a href="#regras-gerais-da-ficha" id="toc-regras-gerais-da-ficha" class="nav-link" data-scroll-target="#regras-gerais-da-ficha">REGRAS GERAIS DA FICHA</a></li>
-  </ul></li>
+  <li><a href="#ficha-analítica-crítica" id="toc-ficha-analítica-crítica" class="nav-link" data-scroll-target="#ficha-analítica-crítica">Ficha Analítica Crítica</a></li>
+  <li><a href="#mapa-argumentativo" id="toc-mapa-argumentativo" class="nav-link" data-scroll-target="#mapa-argumentativo">Mapa Argumentativo</a></li>
+  <li><a href="#argumento-sintético" id="toc-argumento-sintético" class="nav-link" data-scroll-target="#argumento-sintético">Argumento Sintético</a></li>
   </ul>
 </nav>
     </div>
@@ -229,15 +226,81 @@ https://badge.dimensions.ai/
 
 
 
-<!-- IA Planilhando Texto v14.0 | 2026-05-07 -->
-<!-- Mudança principal: categorias YAML restritas à taxonomia canônica de CATEGORIES.md -->
+<!-- IA Planilhando Texto v17.1 | 2026-05-08 -->
 <!-- Uso: anexe o PDF ao chat e envie este prompt -->
-<p>[ETAPA 1 → FICHAMENTO PARÁGRAFO A PARÁGRAFO]</p>
-<p>Você receberá o PDF do texto acadêmico em anexo. Sua tarefa é gerar um fichamento acadêmico completo em Quarto (.qmd), em português, com duas partes sequenciais: (1) fichamento detalhado parágrafo a parágrafo, iniciando no primeiro parágrafo da introdução, organizado por seção; (2) ficha analítica crítica rigorosa. Gere o output como um único bloco de código em formato .qmd, renderizável em HTML pelo Quarto. Não gere um arquivo separado.</p>
+<!-- Novidades v17.1: ficha analítica antes do fichamento; mapa argumentativo;
+     controle de comprimento por seção; cobertura parcial no YAML;
+     notas de rodapé substantivas; divergências internas em coletâneas -->
+<p>[ETAPA 0 → LEITURA INTEGRAL ANTES DO OUTPUT]</p>
+<p>Leia e analise o texto completo antes de gerar qualquer output. O output será gerado na seguinte ordem: YAML → bloco inicial → Mapa Argumentativo (livros) → Ficha Analítica Crítica → seções ##/### do fichamento → Argumento Sintético. A Ficha Analítica deve aparecer primeiro no documento, mas deve ser redigida com base na leitura integral do texto.</p>
+<hr>
+<p>[ETAPA 1 → IDENTIFICAÇÃO DO TIPO DE TEXTO]</p>
+<p>Antes de qualquer outra etapa, identifique o tipo de texto recebido e siga o ramo correspondente:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 8%">
+<col style="width: 36%">
+<col style="width: 36%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Tipo</th>
+<th style="text-align: left;">Critério de identificação</th>
+<th style="text-align: left;">Unidade de cobertura <code>##</code></th>
+<th style="text-align: left;">Numeração <code>§</code></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Artigo / capítulo isolado</strong></td>
+<td style="text-align: left;">PDF contém um único capítulo ou artigo</td>
+<td style="text-align: left;">Seção do texto</td>
+<td style="text-align: left;">Contínua <code>§1, §2, §3…</code> ao longo de todo o texto</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Livro completo</strong></td>
+<td style="text-align: left;">PDF contém múltiplos capítulos de uma mesma obra</td>
+<td style="text-align: left;">Capítulo do livro</td>
+<td style="text-align: left;">Reinicia por capítulo: <code>[Cap.N §1–§M]</code></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Capítulo de coletânea</strong></td>
+<td style="text-align: left;">PDF contém um capítulo de livro organizado por editores</td>
+<td style="text-align: left;">Seção do capítulo (como artigo)</td>
+<td style="text-align: left;">Contínua, mas o subtitle do YAML indica o livro de origem</td>
+</tr>
+</tbody>
+</table>
+<blockquote class="blockquote">
+<p>Se o tipo não for inequívoco, infira a partir da estrutura do PDF (presença de sumário, múltiplos capítulos, indicação de editores vs. autores únicos) e anote a inferência no campo <code>Observações</code> da Ficha.</p>
+</blockquote>
 <hr>
 <section id="metadados-do-documento" class="level3">
 <h3 class="anchored" data-anchor-id="metadados-do-documento">METADADOS DO DOCUMENTO</h3>
-<p>Use o seguinte YAML front matter. Substitua todos os campos entre colchetes pelos valores corretos inferidos do texto — não use os valores literais do exemplo abaixo.</p>
+<p>Use o seguinte YAML front matter. Substitua todos os campos entre colchetes pelos valores corretos inferidos do texto — não use os valores literais do exemplo abaixo. <strong>Para livros completos</strong>, o <code>title</code> deve indicar a obra; <code>subtitle</code> deve indicar autoria, ano e editora. <strong>Para capítulos de coletânea</strong>, o <code>subtitle</code> deve indicar o capítulo <em>e</em> o livro de origem. <strong>O campo <code>coverage</code></strong> deve indicar o escopo real do fichamento. Se o PDF cobre a obra inteira, use <code>"Obra completa"</code>. Se cobre apenas parte, use <code>"Capítulos X–Y de N"</code> ou <code>"pp. X–Y"</code>.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="ot">***</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">title</span><span class="kw">:</span><span class="at"> </span><span class="st">"Fichamento: [TÍTULO DO LIVRO / CAPÍTULO / ARTIGO]"</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">subtitle</span><span class="kw">:</span><span class="at"> </span><span class="st">"[AUTOR(ES) (ANO)] — [EDITORA, se livro]"</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Para capítulo de coletânea, use:</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="co"># subtitle: "'[Título do capítulo]' in [TÍTULO DO LIVRO], org. [EDITOR(ES)] ([ANO])"</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="fu">author</span><span class="kw">:</span><span class="at"> </span><span class="st">"Tales Mançano"</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="fu">date</span><span class="kw">:</span><span class="at"> </span><span class="st">"[DATA DE HOJE NO FORMATO YYYY-MM-DD]"</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="fu">last-updated</span><span class="kw">:</span><span class="at"> </span><span class="st">"[DATA DE HOJE NO FORMATO YYYY-MM-DD]"</span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="fu">coverage</span><span class="kw">:</span><span class="at"> </span><span class="st">"[Obra completa | Capítulos X–Y de N | pp. X–Y]"</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="fu">categories</span><span class="kw">:</span><span class="at"> </span><span class="kw">[</span><span class="at">Annotated Bibliography</span><span class="kw">,</span><span class="at"> CATEGORIA</span><span class="dv">-2</span><span class="kw">,</span><span class="at"> CATEGORIA</span><span class="dv">-3</span><span class="kw">,</span><span class="at"> CATEGORIA</span><span class="dv">-4</span><span class="kw">]</span></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="fu">format</span><span class="kw">:</span></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">html</span><span class="kw">:</span></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">toc</span><span class="kw">:</span><span class="at"> </span><span class="ch">true</span></span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">number-sections</span><span class="kw">:</span><span class="at"> </span><span class="ch">true</span></span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">theme</span><span class="kw">:</span><span class="at"> cosmo</span></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">highlight-style</span><span class="kw">:</span><span class="at"> github</span></span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">execute</span><span class="kw">:</span><span class="at"> </span><span class="ch">false</span></span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a><span class="ot">***</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<blockquote class="blockquote">
+<p>Nota sobre <code>last-updated</code>: na geração inicial, <code>last-updated</code> e <code>date</code> terão o mesmo valor. Atualize <code>last-updated</code> manualmente em revisões futuras.</p>
+</blockquote>
+<p>As <code>categories</code> devem ser inferidas do conteúdo real do texto (3–6 categorias disciplinares, metodológicas e temáticas). <code>Annotated Bibliography</code> é obrigatória e deve sempre ser a primeira.</p>
 <section id="lógica-de-categorização" class="level4">
 <h4 class="anchored" data-anchor-id="lógica-de-categorização">Lógica de categorização</h4>
 <p>As <code>categories</code> organizam-se em três camadas. Leia a descrição de cada camada, identifique o que se aplica ao texto, e formule as categorias a partir do conteúdo — não por associação livre de palavras-chave.</p>
@@ -258,24 +321,6 @@ https://badge.dimensions.ai/
 <li><strong>Conceitos granulares vão em <code>tags</code></strong>, não em <code>categories</code> — ex.: <code>causal-inference</code>, <code>process-tracing</code>, <code>affirmative-action</code>, <code>path-dependence</code>, <code>coalition-analysis</code>. A regra de ouro: se o conceito qualifica <em>como</em> o texto analisa algo (método, mecanismo, caso específico), é uma tag. Se descreve <em>o que</em> o texto é sobre em nível disciplinar ou temático amplo, é uma categoria.</li>
 </ol>
 <hr>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="pp">---</span></span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">title</span><span class="kw">:</span><span class="at"> </span><span class="st">"Fichamento: [TÍTULO DO CAPÍTULO/ARTIGO]"</span></span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">subtitle</span><span class="kw">:</span><span class="at"> </span><span class="st">"[AUTOR(ES) (ANO)]"</span></span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="fu">author</span><span class="kw">:</span><span class="at"> </span><span class="st">"Tales Mançano"</span></span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="fu">date</span><span class="kw">:</span><span class="at"> </span><span class="st">"[DATA DE HOJE NO FORMATO YYYY-MM-DD]"</span></span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="fu">last-updated</span><span class="kw">:</span><span class="at"> </span><span class="st">"[DATA DE HOJE NO FORMATO YYYY-MM-DD]"</span></span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="fu">categories</span><span class="kw">:</span><span class="at"> </span><span class="kw">[</span><span class="at">Annotated Bibliography</span><span class="kw">,</span><span class="at"> CATEGORIA-B1-OU-B2</span><span class="kw">,</span><span class="at"> CATEGORIA-B2</span><span class="kw">,</span><span class="at"> CATEGORIA-C</span><span class="kw">]</span></span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="fu">format</span><span class="kw">:</span></span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">html</span><span class="kw">:</span></span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">toc</span><span class="kw">:</span><span class="at"> </span><span class="ch">true</span></span>
-<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">number-sections</span><span class="kw">:</span><span class="at"> </span><span class="ch">true</span></span>
-<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">theme</span><span class="kw">:</span><span class="at"> cosmo</span></span>
-<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">highlight-style</span><span class="kw">:</span><span class="at"> github</span></span>
-<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="pp">---</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
-<blockquote class="blockquote">
-<p>Nota sobre <code>last-updated</code>: na geração inicial, <code>last-updated</code> e <code>date</code> terão o mesmo valor. Atualize <code>last-updated</code> manualmente em revisões futuras.</p>
-</blockquote>
-<hr>
 </section>
 </section>
 <section id="bloco-inicial-obrigatório" class="level3">
@@ -283,9 +328,15 @@ https://badge.dimensions.ai/
 <p>Imediatamente após o YAML, insira nesta ordem exata:</p>
 <ol type="1">
 <li><p>Citação em APA7 Author-Date com base nas informações do texto.</p></li>
-<li><p>Entrada BibTeX em callout colapsável com as entradas correspondentes ao tipo de texto:</p></li>
+<li><p>Entrada BibTeX em callout colapsável. Use o tipo de entrada BibTeX correto conforme o tipo de texto identificado:</p>
+<ul>
+<li>Artigo em periódico → <code>@article</code> (campos: author, title, year, journal, volume, number, pages, doi)</li>
+<li>Livro completo → <code>@book</code> (campos: author, title, year, publisher, address, edition, isbn)</li>
+<li>Capítulo de coletânea → <code>@incollection</code> (campos: author, title, booktitle, editor, year, publisher, address, pages, doi)</li>
+<li>Capítulo/seção de livro de autor único → <code>@inbook</code> (campos: author, title, booktitle, year, publisher, address, pages)</li>
+</ul>
+<p>A citekey segue: <code>authEtal2(author, sep="-") + year</code> → Exemplos: <code>Souza2025</code>, <code>Souza-Silva2025</code>, <code>Souza-etal2025</code></p></li>
 </ol>
-<p>A citekey segue: <code>authEtal2(author, sep="-") + year</code> → Exemplos: <code>Souza2025</code>, <code>Souza-Silva2025</code>, <code>Souza-etal2025</code></p>
 <pre><code>::: {.callout-note collapse="true" icon=false}
 ## Entrada BibTeX → [CitationKey]
 
@@ -294,11 +345,7 @@ https://badge.dimensions.ai/
   author    = {Sobrenome, Nome and Sobrenome, Nome},
   title     = {Título completo do trabalho},
   year      = {AAAA},
-  journal   = {Nome do periódico},
-  volume    = {X},
-  number    = {X},
-  pages     = {XX--XX},
-  doi       = {10.XXXX/XXXXX},
+  ...        = {campos conforme o tipo acima},
 }</code></pre>
 <p>:::</p>
 <pre><code>
@@ -307,106 +354,13 @@ https://badge.dimensions.ai/
 
 3. Linha de modelo e timestamp:
 </code></pre>
-<p>Última atualização: [DATA DE HOJE YYYY-MM-DD] Modelo: [NOME E VERSÃO EXATA DO LLM QUE EXECUTA ESTE PROMPT] Prompt Version: v14.0 2026-05-07 | “IA Blog Post QMD Categories” Gerado em: [TIMESTAMP ISO 8601 COM FUSO HORÁRIO]</p>
+<p>Última atualização: [DATA DE HOJE YYYY-MM-DD] Modelo: [NOME E VERSÃO EXATA DO LLM QUE EXECUTA ESTE PROMPT] Prompt Version: v17.1 2026-05-08 | Ficha antes do fichamento Gerado em: [TIMESTAMP ISO 8601 COM FUSO HORÁRIO] Ocasião da Leitura: [Para preenchimento manual do usuário]</p>
 <pre><code>
----
-
-### ESTRUTURA OBRIGATÓRIA DO FICHAMENTO
-
-Após o bloco inicial, o documento deve conter, nesta ordem:
-
-1. Uma seção `##` por grande bloco do texto original, com intervalo de
-   páginas entre parênteses → ex.: `## Introdução (pp. 1–4)`
-2. Subseções `###` para agrupamentos temáticos, com parágrafos cobertos
-   entre colchetes no subtítulo → ex.: `### Teoria e contradição empírica [§1–§3]`
-3. Prosa fluida integrando o conteúdo parágrafo a parágrafo
-4. `## Argumento Sintético` → seção final numerada com callout
-5. `## Ficha Analítica Crítica {.unnumbered}` → ver Etapa 2
-
-Numeração de parágrafos: numere os parágrafos do texto original
-sequencialmente do início ao fim (§1, §2, §3…), atravessando seções.
-Cada `###` deve indicar no subtítulo quais parágrafos cobre.
-Nenhum parágrafo pode ficar sem subseção correspondente.
-
-&gt; Caso de ambiguidade: se o PDF tiver colunas múltiplas, notas de
-&gt; rodapé extensas ou figuras intercaladas que dificultem identificar o
-&gt; limite entre parágrafos, adote a quebra lógica de ideia como critério
-&gt; e indique com `[§N – delimitação inferida]` no subtítulo da subseção.
-
----
-
-### REGRAS DE CONTEÚDO
-
-Para cada seção/subseção:
-
-- Integre o conteúdo sintetizando parágrafo a parágrafo
-- Expanda onde o PDF contiver detalhes empíricos, dados, exemplos ou
-  citações que a síntese resumiria brevemente
-- Mantenha toda referência a autores secundários presentes no original
-- Reproduza tabelas relevantes do texto em formato Markdown
-- Inclua exemplos numéricos ou ilustrativos quando o original os contiver
-- Cubra todos os parágrafos; evite colapsar parágrafos em uma frase só
-
----
-
-### FORMATAÇÃO QUARTO OBRIGATÓRIA
-
-- `:::  {.callout-note icon=false}` → conceitos-chave ou teses centrais
-- `:::  {.callout-important}` → argumentos normativos ou advertências críticas
-- `:::  {.callout-tip}` → implicações ou sínteses interpretativas
-- Blocos de citação (`&gt;`) → para o puzzle central ou questão de pesquisa
-- Negrito → conceitos técnicos na primeira ocorrência
-- *Itálico* → ênfase e termos estrangeiros
-- Tabelas Markdown → comparações entre mecanismos, fontes ou tipologias
-- Listas → apenas quando o original listar itens discretos explicitamente;
-  caso contrário, prosa corrida
-
-&gt; Consistência de callouts: use `icon=false` em todos os
-&gt; `.callout-note` do fichamento. Reserve callouts sem `icon=false` para
-&gt; a Ficha Analítica Crítica, onde o ícone padrão se aplica.
-
----
-
-### REGRAS DE ESTILO
-
-- Português acadêmico fluente → não tradução literal
-- Tom analítico-descritivo: descreva o que os autores argumentam
-  (toda avaliação crítica vai exclusivamente para a Ficha Analítica)
-- Cada `###` deve ter no mínimo 2 parágrafos de prosa antes de
-  tabelas ou listas
-- Preserve a estrutura argumentativa do original → não reordene seções
-- Não numere subseções manualmente
-
----
-
-### O QUE NÃO FAZER
-
-- Não omitir a indicação de parágrafos (`[§N–§M]`) nos subtítulos `###`
-- Não colapsar seções em frases únicas ou bullets
-- Não inventar dados, percentuais ou referências
-- Não usar linguagem de resumo executivo nas seções de fichamento
-- Não colocar BibTeX fora do callout inicial
-- Não adicionar avaliação crítica fora da Ficha Analítica
-- **Não usar categorias fora da lista canônica** — se nenhuma encaixar perfeitamente, escolha a mais próxima da lista e use `tags` para o conceito específico
-
----
-
-### ARGUMENTO SINTÉTICO
-
-A seção `## Argumento Sintético` deve conter um callout
-`.callout-note icon=false` com, no mínimo:
-
-- A tese central do texto em uma frase precisa
-- A natureza do argumento (causal, descritivo, normativo, conceitual)
-- O que o texto demonstra vs. o que fica como hipótese ou agenda
-- A contribuição para o debate mais amplo em que o texto se insere
-
 ---
 
 [ETAPA 2 → FICHA ANALÍTICA CRÍTICA]
 
-Após o Argumento Sintético, adicione o cabeçalho e o callout
-introdutório abaixo:
+Após o bloco inicial (e o Mapa Argumentativo, se aplicável), insira:
 </code></pre>
 </section>
 <section id="ficha-analítica-crítica" class="level2 unnumbered">
@@ -421,12 +375,35 @@ Note
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Esta seção segue o formato <em>IA Planilhando Textos v12.0</em>.</p>
+<p>Esta seção segue o formato <em>IA Planilhando Textos v17.1</em>.</p>
 </div>
 </div>
 <pre><code>
+
+### POSTURA ANALÍTICA
+
+Você é um parecerista sênior de periódico internacional, especializado em
+ontologia, epistemologia e metodologia de pesquisa em ciências sociais,
+com expertise em inferência causal, análise institucional comparada e
+avaliação de designs qualitativos, quantitativos e mistos.
+Sua análise é adversarial sem ser destrutiva. 
+Mantenha essa postura sobre as limitações do texto por todo o fichamento,
+especialmente se autores afirmarem mais do que o desenho de pesquisa de fato permite.
+
+Antes de preencher cada célula, considere internamente:
+1. Quais premissas centrais são relevantes para aquela dimensão?
+2. Ao menos uma interpretação alternativa dos dados ou do mecanismo?
+3. Onde o argumento é mais e menos vulnerável naquela dimensão?
+4. Consistência ontológica: a definição do conceito é coerente com sua
+   operacionalização? Há salto entre teoria e mensuração?
+
+Fundamente em evidências textuais, não em paráfrases genéricas.
+Quando o texto for ambíguo ou omisso, explicite e indique as implicações.
+Adapte os critérios de validade ao tipo de design: não aplique critérios
+de inferência causal quantitativa a designs qualitativos ou teóricos.
+
 Em seguida, gere um callout colapsável contendo **uma tabela em Markdown**
-com todas as dimensões analíticas. Não use JSON, HTML ou CSS.
+com todas as dimensões analíticas. 
 </code></pre>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
 <div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
@@ -477,7 +454,7 @@ com todas as dimensões analíticas. Não use JSON, HTML ou CSS.
 <tr class="odd">
 <td style="text-align: left;">Métodos</td>
 <td style="text-align: left;">[…]</td>
-<td style="text-align: left;">[Tipo de estudo, fontes, técnicas; para teóricos, estratégia argumentativa; limitações de identificação ou mensuração relevantes.]</td>
+<td style="text-align: left;">[Tipo de estudo, fontes, técnicas; para teóricos/livros, descrever estratégia argumentativa geral da obra; indicar se o fichamento cobre a obra inteira ou parcialmente; limitações de identificação ou mensuração relevantes.]</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">Data Generation Process (DGP)</td>
@@ -512,118 +489,211 @@ com todas as dimensões analíticas. Não use JSON, HTML ou CSS.
 <tr class="even">
 <td style="text-align: left;">Observações</td>
 <td style="text-align: left;">[…]</td>
-<td style="text-align: left;">[Vulnerabilidades adicionais; lacunas teóricas; validade externa; relação com pesquisa do leitor; omissões e suas implicações para o argumento.]</td>
+<td style="text-align: left;">[Vulnerabilidades adicionais; lacunas teóricas; validade externa; relação com pesquisa do leitor; omissões e suas implicações para o argumento; indicar cobertura parcial da obra se aplicável.]</td>
 </tr>
 </tbody>
 </table>
 </div>
 </div>
 </div>
+<pre><code>
+**Instruções para a tabela:**
+
+- A tabela deve ter **exatamente** as 12 linhas de dimensões, na ordem acima.
+- Coluna `Raciocínio analítico`: preencha com raciocínio real (premissas, interpretação alternativa, ponto vulnerável) — nunca com o texto placeholder.
+- Para a dimensão `Limitações`, use o formato com duas sublinhas (`**Reconhecidas:** ... &lt;br&gt; **Não reconhecidas:** ...`).
+- Fundamente em evidências textuais. Se indisponível, escreva `"Não informado"`.
+
+---
+
+[ETAPA 3 → MAPA ARGUMENTATIVO]
+
+Imediatamente após o bloco inicial,
+insira a seção:
+</code></pre>
+</section>
+<section id="mapa-argumentativo" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="mapa-argumentativo">Mapa Argumentativo</h2>
+<pre><code>
+Esta seção contém uma tabela Markdown com uma linha por capítulo (incluindo
+introdução e conclusão), mostrando como cada capítulo contribui para a tese
+central da obra:
+
+| Capítulo | Título | Função argumentativa | Contribuição para a tese central |
+|:---------|:-------|:---------------------|:---------------------------------|
+| Introdução | [título] | Apresentação do puzzle e da tese | [...] |
+| Cap. 1 | [título] | [ex.: Fundamento teórico] | [...] |
+| ... | ... | ... | ... |
+| Conclusão | [título] | Síntese e agenda | [...] |
+
+&gt; A coluna "Função argumentativa" deve usar categorias como:
+&gt; Fundamento teórico, Estudo de caso, Análise empírica, Revisão de literatura,
+&gt; Extensão do argumento, Qualificação, Comparação, Síntese.
+
+**Para coletâneas com múltiplos autores**, adicione após a tabela um callout:
+</code></pre>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Important</span>Divergências internas
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>[Liste aqui tensões, contradições ou perspectivas divergentes entre capítulos/autores da coletânea. Se não houver divergências substantivas, escreva “Nenhuma divergência substantiva identificada.”]</p>
+</div>
+</div>
+<pre><code>
+---
+
+[ETAPA 4 → FICHAMENTO PARÁGRAFO A PARÁGRAFO]
+
+Após a Ficha Analítica e o Mapa Argumentativo, gere o fichamento detalhado.
+
+### ESTRUTURA OBRIGATÓRIA
+
+#### Para artigos e capítulos isolados:
+
+1. Uma seção `##` por grande bloco do texto original, com intervalo de
+   páginas → ex.: `## Introdução (pp. 1–4)`
+2. Subseções `###` para agrupamentos temáticos, com parágrafos cobertos
+   → ex.: `### Teoria e contradição empírica [§1–§3]`
+3. Prosa fluida integrando o conteúdo parágrafo a parágrafo
+
+#### Para livros completos:
+
+1. Uma seção `##` por **capítulo**, com número, título e páginas
+   → ex.: `## Capítulo 3: O Estado e a Educação (pp. 87–124)`
+   - Prefácios, introduções e conclusões recebem seções `##` próprias
+   - Epígrafes, dedicatórias, sumários e índices remissivos **não são fichados**
+2. Subseções `###` para agrupamentos temáticos dentro de cada capítulo
+   → ex.: `### A crise de legitimidade [Cap.3 §4–§8]`
+3. Prosa fluida integrando o conteúdo parágrafo a parágrafo
+
+**Numeração `§` em livros:** reinicie a contagem a cada capítulo e indique
+sempre o capítulo no subtítulo `###`.
+
+---
+
+### CONTROLE DE COMPRIMENTO POR SEÇÃO
+
+A profundidade do tratamento deve ser proporcional à densidade argumentativa
+da seção, não ao seu comprimento físico:
+
+| Tipo de seção | Tratamento |
+|:--------------|:-----------|
+| Capítulo/seção teórico-analítica central | Parágrafo a parágrafo, mínimo 3 subseções `###` |
+| Capítulo/seção empírica com dados originais | Parágrafo a parágrafo; reproduzir tabelas e exemplos numéricos |
+| Capítulo/seção de revisão de literatura | Síntese mais densa permitida; mínimo 2 subseções `###` |
+| Prefácio, introdução breve (≤ 3 páginas) | Uma única `###` é suficiente se nenhum parágrafo for omitido |
+| Conclusão | Tratamento completo; nunca colapsar em frase única |
+
+&gt; Nunca colapsar qualquer seção em bullets ou frase única,
+&gt; independentemente do comprimento.
+
+---
+
+### NOTAS DE RODAPÉ SUBSTANTIVAS
+
+Se uma nota de rodapé for argumentativamente central (desenvolver um argumento alternativo, introduzir
+um conceito-chave, qualificar substancialmente a tese principal, ou conter dados
+relevantes), inclua-a na subseção `###` correspondente, identificada como:
+</code></pre>
+<blockquote class="blockquote">
+<p><strong>Nota [N]:</strong> [conteúdo da nota]</p>
+</blockquote>
+<pre><code>
+O critério para inclusão é: *a omissão desta nota empobreceria o fichamento?*
+Se sim, inclua. Em caso de dúvida, inclua e indique `[nota incluída por relevância argumentativa]`.
+
+---
+
+### REGRAS DE CONTEÚDO
+
+- Integre o conteúdo sintetizando parágrafo a parágrafo
+- Expanda onde o PDF contiver detalhes empíricos, dados, exemplos ou
+  citações que a síntese resumiria brevemente
+- Mantenha toda referência a autores secundários presentes no original
+- Reproduza tabelas relevantes do texto em formato Markdown
+- Inclua exemplos numéricos ou ilustrativos quando o original os contiver
+- Cubra todos os parágrafos; evite colapsar parágrafos em uma frase só
+
+---
+
+### FORMATAÇÃO QUARTO OBRIGATÓRIA
+
+- `:::  {.callout-note icon=false}` → conceitos-chave ou teses centrais
+- `:::  {.callout-important}` → argumentos normativos ou advertências críticas
+- `:::  {.callout-tip}` → implicações ou sínteses interpretativas
+- Blocos de citação (`&gt;`) → para o puzzle central ou questão de pesquisa
+- Negrito → conceitos técnicos na primeira ocorrência
+- *Itálico* → ênfase e termos estrangeiros
+- Tabelas Markdown → comparações entre mecanismos, fontes ou tipologias
+- Listas → apenas quando o original listar itens discretos explicitamente;
+  caso contrário, prosa corrida
+
+&gt; Consistência de callouts: use `icon=false` em todos os
+&gt; `.callout-note` do fichamento. Reserve callouts sem `icon=false` para
+&gt; a Ficha Analítica Crítica, onde o ícone padrão se aplica.
+
+---
+
+### REGRAS DE ESTILO
+
+- Português acadêmico fluente → não tradução literal
+- Tom analítico-descritivo: descreva o que os autores argumentam
+  (a avaliação crítica vai exclusivamente para a Ficha Analítica)
+- Cada `###` deve ter no mínimo 2 parágrafos de prosa antes de tabelas ou listas
+- Preserve a estrutura argumentativa do original → não reordene seções nem capítulos
+- Não numere subseções manualmente
+
+---
+
+### O QUE NÃO FAZER
+
+- Não omitir a indicação de parágrafos (`[§N–§M]` ou `[Cap.N §N–§M]`) nos subtítulos `###`
+- Não colapsar seções ou capítulos inteiros em frases únicas ou bullets
+- Não inventar dados, percentuais ou referências
+- Não usar linguagem de resumo executivo nas seções de fichamento
+- Não colocar BibTeX fora do callout inicial
+- Não adicionar avaliação crítica fora da Ficha Analítica
+- Não fichar epígrafes, dedicatórias, sumários ou índices remissivos
+- Não usar `@article` para livros ou capítulos de coletânea
+- Não omitir notas de rodapé argumentativamente centrais
+
+---
+
+[ETAPA 5 → ARGUMENTO SINTÉTICO]
+
+Após todas as seções do fichamento detalhado, insira:
+</code></pre>
+</section>
+<section id="argumento-sintético" class="level2">
+<h2 class="anchored" data-anchor-id="argumento-sintético">Argumento Sintético</h2>
 <p>```</p>
-<p><strong>Instruções para a tabela:</strong></p>
+<p>Esta seção deve conter um callout <code>.callout-note icon=false</code> com, no mínimo:</p>
 <ul>
-<li>A tabela deve ter <strong>exatamente</strong> as 12 linhas de dimensões, na ordem acima.</li>
-<li>Coluna <code>Raciocínio analítico</code>: preencha com o raciocínio conforme especificado (premissas, interpretação alternativa, ponto vulnerável).</li>
-<li>Coluna <code>Conteúdo</code>: siga as instruções da tabela de referência (original). Para a dimensão <code>Limitações</code>, use o formato com duas linhas internas (ex.: <code>**Reconhecidas:** ... &lt;br&gt; **Não reconhecidas:** ...</code>).</li>
-<li>Utilize a sintaxe Markdown padrão para tabelas (separadores <code>|</code> e <code>|---|</code> para o cabeçalho). Não use células mescladas ou HTML.</li>
-<li>Fundamente em evidências textuais; não invente dados. Se indisponível, escreva <code>"Não informado"</code>.</li>
+<li>A tese central do texto em uma frase precisa</li>
+<li>A natureza do argumento (causal, descritivo, normativo, conceitual)</li>
+<li>O que o texto demonstra vs.&nbsp;o que fica como hipótese ou agenda</li>
+<li>A contribuição para o debate mais amplo em que o texto se insere</li>
 </ul>
+<p><strong>Para livros completos</strong>, o Argumento Sintético deve cobrir a obra como um todo, integrando as teses dos capítulos em uma síntese unificada e sinalizando a progressão argumentativa entre os capítulos.</p>
 <hr>
-<section id="postura-analítica" class="level3">
-<h3 class="anchored" data-anchor-id="postura-analítica">POSTURA ANALÍTICA</h3>
-<p>(Versão idêntica à original, sem alterações)</p>
-<p>Você é um parecerista sênior de periódico internacional… [mantenha o texto original da postura analítica]</p>
-<hr>
-</section>
-<section id="dimensões-da-ficha-nesta-ordem-exata" class="level3">
-<h3 class="anchored" data-anchor-id="dimensões-da-ficha-nesta-ordem-exata">DIMENSÕES DA FICHA (nesta ordem exata)</h3>
-<p>A tabela de referência abaixo permanece igual à original (já está em Markdown). Ela serve como guia para o conteúdo esperado em cada linha da tabela de saída.</p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 34%">
-<col style="width: 65%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;"><code>"dimension"</code></th>
-<th style="text-align: left;">Instrução para <code>"content"</code></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Questão de Pesquisa</td>
-<td style="text-align: left;">Pergunta central; natureza (descritiva/explicativa/normativa/avaliativa); se não explicitada, reconstruir e anotar “Pergunta reconstruída”</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Questões Secundárias</td>
-<td style="text-align: left;">Listar perguntas secundárias, se houver; indicar relação com a pergunta central</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Puzzle-Type</td>
-<td style="text-align: left;">Classificar (gap descritivo, puzzle explicativo, debate normativo, avaliação de política, mudança institucional etc.); avaliar se o puzzle é genuíno e generalizável além do caso</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Conclusão / Argumento Central</td>
-<td style="text-align: left;">Sintetizar a tese; distinguir natureza do argumento; indicar o <em>claim of discovery</em> e o que efetivamente sustenta esse claim</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Métodos</td>
-<td style="text-align: left;">Tipo de estudo, fontes, técnicas; para teóricos, descrever estratégia argumentativa; limitações de identificação ou mensuração relevantes</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Data Generation Process (DGP)</td>
-<td style="text-align: left;">Fenômeno real → observação → coleta → operacionalização → análise → tipo de inferência; unidade de análise; nível de agregação</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Achados e Contribuições</td>
-<td style="text-align: left;">Resultados empíricos e contribuições teórico-metodológicas; distinguir o que o design identifica com força do que é especulativo</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Análise Crítica dos Achados</td>
-<td style="text-align: left;">O autor responde adequadamente à pergunta? Pontos mais e menos vulneráveis; ameaças à identificação (quant.) ou rastreamento de mecanismo (qual.); adequação do DGP ao <em>claim</em>; generalizabilidade; <em>scope conditions</em> declaradas e omitidas</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Limitações</td>
-<td style="text-align: left;">(a) reconhecidas pelos autores; (b) não reconhecidas ou subestimadas</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Perspectiva Teórica</td>
-<td style="text-align: left;">Tradição(ões) teórica(s); adequação da moldura ao tipo de pergunta e evidência; coerência entre ontologia implícita e método</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Principais Referências</td>
-<td style="text-align: left;">Autores/obras centrais; sinalizar diálogo pobre ou desequilibrado com a literatura</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Observações</td>
-<td style="text-align: left;">Vulnerabilidades adicionais; lacunas teóricas; validade externa; relação com pesquisa do leitor; omissões e suas implicações para o argumento</td>
-</tr>
-</tbody>
-</table>
-<hr>
-</section>
-<section id="regras-gerais-da-ficha" class="level3">
-<h3 class="anchored" data-anchor-id="regras-gerais-da-ficha">REGRAS GERAIS DA FICHA</h3>
-<ul>
-<li>Linguagem acadêmica concisa em português.</li>
-<li>Se dado indisponível, escrever <code>"Não informado"</code> no campo Conteúdo.</li>
-<li>Julgamentos ancorados no texto, em tom analítico não agressivo.</li>
-<li>Para textos teóricos/normativos: verificar coerência lógica das premissas às conclusões; não cobrar evidências empíricas ausentes por design.</li>
-<li>A tabela deve ser válida em Markdown: linhas consistentes, sem quebra de células mal formatada.</li>
-</ul>
-<hr>
-<p>[ETAPA 3 → CHECKLIST DE VERIFICAÇÃO FINAL]</p>
+<p>[ETAPA 6 → CHECKLIST DE VERIFICAÇÃO FINAL]</p>
 <p>Antes de finalizar o output, revise internamente cada item abaixo. Corrija qualquer falha encontrada antes de exibir o resultado.</p>
-<p>Estrutura e ordem: - [ ] O output começa com <code>---</code> (YAML) e nenhum texto o precede - [ ] O YAML não contém nenhum campo com valor de exemplo literal - [ ] O bloco inicial aparece após o YAML e antes do primeiro <code>##</code> - [ ] O output contém, nesta ordem: YAML → bloco inicial (referência APA7 + callout BibTeX + timestamp) → seções <code>##</code>/<code>###</code> do fichamento → Argumento Sintético → Ficha Analítica Crítica</p>
-<p>Categorias YAML: - [ ] A primeira categoria é <code>Annotated Bibliography</code>, <code>Descriptive Note</code>, <code>Essay</code> ou <code>Index</code> (Layer A) - [ ] Todas as demais categorias pertencem às listas canônicas de Layer B ou Layer C deste prompt - [ ] Nenhuma categoria está em português ou é uma variação não-listada - [ ] O total de categorias não excede 5 - [ ] No máximo 1 categoria de Layer C (geográfica) está presente</p>
-<p>Parágrafos e subseções: - [ ] Todos os parágrafos têm subseção <code>###</code> correspondente com <code>[§N–§M]</code> - [ ] Nenhum parágrafo foi omitido ou colapsado em frase única</p>
-<p>Sintaxe Quarto: - [ ] Todos os callouts estão fechados com <code>:::</code> - [ ] O bloco <code>```bibtex</code> está fechado com <code>```</code> antes do <code>:::</code> do callout BibTeX - [ ] A tabela Markdown da Ficha Analítica está dentro do callout colapsável e usa sintaxe Markdown válida - [ ] Nenhuma subseção foi numerada manualmente</p>
-<p><strong>Tabela Markdown da Ficha:</strong> - [ ] A tabela contém exatamente 12 linhas de conteúdo (mais o cabeçalho) - [ ] As dimensões estão na ordem especificada - [ ] Todas as células da coluna <code>Raciocínio analítico</code> foram preenchidas com raciocínio real, não com o texto placeholder - [ ] A dimensão <code>Limitações</code> tem o conteúdo formatado com duas sublinhas (<code>**Reconhecidas:** ... &lt;br&gt; **Não reconhecidas:** ...</code>)</p>
+<p>Estrutura e ordem: - [ ] O output começa com <code>---</code> (YAML) e nenhum texto o precede - [ ] O YAML não contém nenhum campo com valor de exemplo literal - [ ] O campo <code>coverage</code> foi preenchido corretamente - [ ] O campo <code>execute: false</code> está presente no YAML - [ ] O tipo de texto foi identificado e o tratamento correto foi aplicado - [ ] O output contém, nesta ordem: YAML → bloco inicial → Mapa Argumentativo (se livro) → Ficha Analítica Crítica → seções ##/### do fichamento → Argumento Sintético</p>
+<p>Mapa Argumentativo (apenas livros): - [ ] A tabela cobre todos os capítulos, incluindo introdução e conclusão - [ ] O callout de Divergências internas está presente (mesmo que vazio)</p>
+<p>Parágrafos e subseções: - [ ] Todos os parágrafos têm subseção <code>###</code> correspondente com <code>[§N–§M]</code> (artigos) ou <code>[Cap.N §N–§M]</code> (livros) - [ ] Nenhum parágrafo foi omitido ou colapsado em frase única - [ ] O controle de comprimento foi aplicado proporcionalmente ao tipo de seção - [ ] Notas de rodapé argumentativamente centrais foram incluídas com marcação <code>&gt; **Nota [N]:**</code> - [ ] Epígrafes, dedicatórias, sumários e índices remissivos não foram fichados</p>
+<p>BibTeX: - [ ] O tipo BibTeX corresponde ao tipo de texto identificado - [ ] O bloco <code>```bibtex</code> está fechado com <code>```</code> antes do <code>:::</code> do callout BibTeX - [ ] Nenhum BibTeX aparece fora do callout</p>
+<p>Sintaxe Quarto: - [ ] Todos os callouts estão fechados com <code>:::</code> - [ ] A tabela Markdown da Ficha Analítica está dentro do callout colapsável - [ ] Nenhuma subseção foi numerada manualmente</p>
+<p>Tabela Markdown da Ficha: - [ ] A tabela contém exatamente 12 linhas de conteúdo (mais o cabeçalho) - [ ] As dimensões estão na ordem especificada - [ ] Todas as células da coluna <code>Raciocínio analítico</code> foram preenchidas com raciocínio real - [ ] A dimensão <code>Limitações</code> usa o formato <code>**Reconhecidas:** ... &lt;br&gt; **Não reconhecidas:** ...</code> - [ ] A dimensão <code>Métodos</code> indica se o fichamento cobre a obra inteira ou parcialmente</p>
 <p>Conteúdo: - [ ] Nenhum dado, percentual ou referência foi inventado - [ ] Nenhuma avaliação crítica aparece fora da Ficha Analítica</p>
-<p>Encerramento: - [ ] O output termina com <code>:::</code> fechando o callout colapsável da Ficha</p>
+<p>Encerramento: - [ ] O output termina com <code>:::</code> fechando o callout colapsável da Ficha do Argumento Sintético</p>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
