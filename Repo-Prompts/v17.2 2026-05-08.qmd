@@ -1,6 +1,6 @@
 <!-- IA Planilhando Texto v17.2 | 2026-05-08 -->
 <!-- Uso: anexe o PDF ao chat e envie este prompt -->
-<!-- Novidades v17.1: ficha analítica antes do fichamento; mapa argumentativo;
+<!-- Novidades v17.2: ficha analítica antes do fichamento; mapa argumentativo;
      controle de comprimento por seção; cobertura parcial no YAML;
      notas de rodapé substantivas; divergências internas em coletâneas;
      Maior especificação da qualidade da crítica e da Análise-->

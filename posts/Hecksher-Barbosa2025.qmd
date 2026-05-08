@@ -1,0 +1,313 @@
+---
+title: "Fichamento: Estimação de meses exatos para os microdados e as séries por trimestre móvel da PNAD Contínua"
+subtitle: "Hecksher, M. & Barbosa, R. J. (2025) — SocArXiv preprint / REBEP"
+author: "Tales Mançano"
+date: "2026-05-08"
+last-updated: "2026-05-08"
+coverage: "Obra completa"
+categories: [Annotated Bibliography, Survey Methodology, Applied Statistics, Labor Markets, Temporal Disaggregation, Brazil]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+    execute: false
+---
+
+Hecksher, M., & Barbosa, R. J. (2025). *Estimação de meses exatos para os microdados e as séries por trimestre móvel da PNAD Contínua* [Estimation of exact months for the microdata and rolling quarter series from PNAD Contínua]. SocArXiv. https://doi.org/10.31235/osf.io/[preprint]
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → Hecksher-Barbosa2025
+
+```bibtex
+@article{Hecksher-Barbosa2025,
+  author    = {Hecksher, Marcos and Barbosa, Rogério J.},
+  title     = {Estimação de meses exatos para os microdados e as séries por trimestre móvel da {PNAD} Contínua},
+  year      = {2025},
+  journal   = {SocArXiv preprint},
+  note      = {Submetido à Revista Brasileira de Estudos de População (REBEP). Disponível em: https://osf.io/preprints/socarxiv},
+}
+```
+:::
+
+Última atualização: 2026-05-08  
+Modelo: Claude Sonnet 4.6  
+Prompt Version: v17.2 2026-05-08 | Ficha antes do fichamento  
+Gerado em: 2026-05-08T00:00:00-03:00  
+Ocasião da Leitura: Publicação de novo pacote por Hecksher-Barbosa2025
+
+---
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v17.2*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | A pergunta não é formulada como hipótese, mas como problema de mensuração: o IBGE estruturalmente oculta o mês de coleta; a vulnerabilidade do argumento está em saber se a solução proposta suprime ou apenas desloca o problema de identificação. | Como é possível recuperar o mês exato de referência de cada entrevista da PNAD Contínua, dado que o IBGE divulga apenas trimestres móveis, tanto nos microdados quanto nos agregados do SIDRA? A pergunta é **descritivo-metodológica**: não busca estimar um efeito causal, mas desenvolver e validar um procedimento de identificação temporal. |
+| Questões Secundárias | A questão de validação é a mais crítica: ela transforma um argumento de plausibilidade em um teste genuinamente falsificável; as questões de granularidade submensal e de cobertura de indicadores são extensões naturais da pergunta central, mas com menor poder de identificação. | (i) Como calibrar os pesos amostrais de modo que as subamostras mensais representem corretamente a população? (ii) É possível estender o algoritmo para quinzenas e semanas? (iii) A inversão matemática das médias móveis do SIDRA permite recuperar séries mensais sem acesso a microdados? (iv) O método pode ser validado empiricamente sem dados de referência externos? |
+| Puzzle-Type | O puzzle é genuíno e tem impacto direto para avaliação de políticas públicas com timing preciso — em especial no contexto brasileiro pós-2016, em que políticas de transferência de renda e reformas trabalhistas exigem identificação mensal dos efeitos. A generalização metodológica é limitada a pesquisas domiciliares com painel rotativo e coleta de datas de nascimento, mas o princípio da inversão de médias móveis é universal. | **Gap descritivo-metodológico**: a PNADC é a principal pesquisa domiciliar brasileira, mas sua estrutura de divulgação trimestral introduz atenuação, defasagem e autocorrelação espúria nas séries. A ausência de dados mensais — contrariando a prática de países como EUA, membros da UE, Japão e Canadá, e a tradição histórica brasileira da PME (1980–2016) — constitui uma desvantagem comparativa real para monitoramento conjuntural e avaliação de políticas. O puzzle é genuíno e generalizável a outras pesquisas com painel rotativo. |
+| Conclusão / Argumento Central | O argumento central é sólido em seu núcleo (a estrutura do painel rotativo combinada a datas de nascimento permite identificação determinística), mas a taxa de 97% encobre os 3% não identificados, cujo tratamento por exclusão requer a hipótese de que essa seleção é controlável pelo ajuste hierárquico de pesos — hipótese plausível mas não inteiramente demonstrada. | Os autores demonstram que é possível identificar deterministicamente o mês exato de referência de 97% das observações dos microdados da PNADC (2012–2025, 28,4 milhões de obs.) explorando três fatos estruturais do desenho amostral: (i) co-residentes compartilham a semana de referência; (ii) domicílios do mesmo grupo de rotação compartilham o mês; (iii) a posição mensal relativa é invariante entre visitas. A combinação com a inversão matemática das médias móveis do SIDRA permite reconstruir mais de 80 séries mensais de indicadores oficiais. Ambos os métodos estão implementados no pacote R `{PNADCperiods}`, disponível no CRAN. |
+| Métodos | O ponto mais fraco metodológico não é o algoritmo em si, mas a estratégia de calibração dos pesos para os 3% não identificados: o ajuste hierárquico busca corrigir desequilíbrios, mas a natureza não aleatória da não-identificação não é demonstrada como MAR (*missing at random*). O fichamento cobre a obra completa (artigo integral). | **Tipo**: Desenvolvimento e validação de algoritmo determinístico, com aplicações empíricas ilustrativas. **Fontes**: Microdados trimestrais e anuais da PNADC/IBGE (2012–2025); dados agregados do SIDRA (80+ séries). **Técnicas**: (i) Restrições de intervalo de datas por aniversário; (ii) propagação inter-trimestres via invariância do painel rotativo; (iii) inversão algébrica de médias móveis trimestrais; (iv) calibração hierárquica de pesos amostrais em quatro níveis; (v) adaptação de pesos bootstrap para variância mensal. **Validação**: exploração da assimetria entre rendimento habitual (mês corrente) e efetivo (mês anterior) frente a 16 transições do salário mínimo. O fichamento cobre a obra completa. |
+| Data Generation Process (DGP) | O DGP é incomum: não é gerado pelo pesquisador, mas *descoberto* na estrutura da pesquisa. Isso é ao mesmo tempo a força e a fragilidade do método — a identificação é exata condicionalmente às regras operacionais do IBGE, mas qualquer desvio não documentado dessas regras produz erros de classificação silenciosos. O viés de observação mais relevante é a não-divulgação do mês pelo IBGE: os autores inferem o que o IBGE sabe mas não publica. | **Fenômeno real**: mês exato de cada entrevista domiciliar. **Observação**: data de nascimento e idade calculada pelo DMC do IBGE na data de referência (o sábado que encerra a semana de referência). **Coleta**: microdados trimestrais e anuais disponibilizados pelo IBGE. **Operacionalização**: restrição de intervalos de datas possíveis por aniversário, com interseção intra- e inter-trimestres; para o SIDRA, diferença entre trimestres móveis consecutivos. **Unidade de análise**: domicílio (para identificação do grupo de rotação) e indivíduo (para restrições de aniversário). **Inferência**: determinística (não probabilística) para a identificação mensal; calibração de pesos para representatividade. O viés central é o **viés de regra operacional**: a identificação presume cumprimento fiel da documentação do IBGE (IBGE, 2018). |
+| Achados e Contribuições | Os achados substantivos (COVID, pobreza, carnaval) têm força ilustrativa, não confirmatória — são aplicações demonstrativas, não testes de hipóteses. A contribuição genuinamente nova em relação a Hecksher (2020b) é a formalização dos três fatos estruturais e a propagação inter-trimestres, que eleva a taxa de 40% para 97%. | **Empíricos**: (i) taxa de desemprego no pico da COVID-19 foi 2 p.p. superior ao indicado pelos dados trimestrais; (ii) o Auxílio Emergencial reduziu a pobreza abaixo dos níveis pré-pandêmicos já em maio/2020; (iii) Salvador e Rio de Janeiro apresentam reduções de 4–5 horas trabalhadas na semana de carnaval, com variação regional significativa. **Metodológicos**: formalização do algoritmo com 97% de determinação; validação por 16 transições do salário mínimo sem nenhuma borrada; cobertura de 80+ séries do SIDRA; pacote R `{PNADCperiods}` no CRAN. |
+| Análise Crítica dos Achados | O argumento metodológico é sólido onde mais importa (identificação mensal), mais frágil nas extensões (quinzenal, semanal) e parcialmente incompleto na justificação da exclusão dos 3% não identificados. A validação pelo salário mínimo é engenhosa, mas identifica apenas erros *grosseiros* de classificação (desvio de ±1 mês ou mais); erros de menor magnitude dentro do mês identificado não são detectáveis por esse teste. | **Pontos fortes**: (a) o teste de validação via salário mínimo é genuinamente falsificável — um algoritmo incorreto produziria transições borradas, não abruptas; (b) a propagação inter-trimestres é matematicamente impecável dado os três fatos estruturais; (c) a distinção entre identificação determinística e interpolação estatística é clara e bem-motivada. **Pontos vulneráveis**: (a) os 3% não identificados são excluídos com base em ajuste de pesos, mas a natureza da não-identificação (domicílios sem datas de nascimento completas) pode ser sistematicamente correlacionada com variáveis de interesse (populações mais vulneráveis tendem a ter registros mais incompletos); (b) as extensões submensais (~3% semanal, ~9% quinzenal) têm utilidade limitada fora de choques de grande magnitude e acúmulo de múltiplos anos; (c) o método depende da documentação do IBGE ser cumprida fielmente — os próprios autores identificam seis trimestres excepcionais (2016-T3, 2016-T4, 2017-T2, 2022-T3, 2023-T2, 2024-T1), o que sugere que a regra operacional pode continuar a produzir exceções não antecipadas. |
+| Limitações | **Reconhecidas pelos autores:** taxas de determinação submensal baixas (9% quinzenal, 3% semanal); 3% das observações mensais permanecem indeterminadas; a calibração de pesos para os não identificados introduz incerteza adicional; os pontos iniciais das séries do SIDRA têm ruído estatístico que pode gerar discrepâncias de centenas de milhares de pessoas em séries de nível. <br> **Não reconhecidas ou subestimadas:** (a) a hipótese de MAR (*missing at random*) para os 3% excluídos não é testada formalmente; (b) a validação pelo salário mínimo cobre apenas trabalhadores formais recebendo exatamente o mínimo — subpopulação específica que pode não representar os padrões de identificação do universo da pesquisa; (c) o método é sensível a mudanças futuras nos procedimentos operacionais do IBGE, sem mecanismo de detecção automática além da verificação de contradições lógicas entre restrições de aniversário. |
+| Perspectiva Teórica | A ausência de moldura teórica substantiva é intencional e adequada ao tipo de contribuição (metodológica). O diálogo com a literatura de desagregação temporal (Chow-Lin, Denton, Fernández, Litterman) é correto e cumpre sua função de posicionamento, mas poderia ser aprofundado com referências à literatura de *indirect sampling* e *weight calibration* em amostragem complexa. | O artigo não adota moldura teórica substantiva — trata-se de contribuição primariamente metodológica. A filiação intelectual está na estatística de pesquisas domiciliares e na econometria de avaliação de políticas com timing preciso (Callaway & Sant'Anna, 2021; Chaisemartin & D'Haultfœuille, 2020). A ontologia implícita é realista: os meses de referência existem como fatos objetivos, ocultos pela divulgação agregada, e podem ser recuperados deterministicamente. |
+| Principais Referências | O diálogo com a literatura internacional de desagregação temporal é adequado mas poderia ser mais extenso, especialmente quanto a métodos de *small area estimation* mensais. As referências brasileiras são completas e incluem os usos já feitos do método pelo Banco Central e pelo Banco Mundial. | Chow & Lin (1971), Denton (1971), Fernández (1981), Litterman (1983) — métodos clássicos de desagregação temporal; Callaway & Sant'Anna (2021), Chaisemartin & D'Haultfœuille (2020) — DiD com heterogeneidade de timing; Giannone, Reichlin & Small (2008) — nowcasting; Gonçalves et al. (2022; 2025) — abordagem por modelos de séries temporais para estimação mensal da PNADC; Lumley (2010) — amostragem complexa; Hecksher (2020b) — versão original do método (~40% de determinação). |
+| Observações | O artigo é relevante para pesquisadores que trabalham com microdados da PNADC em qualquer análise que exija precisão temporal — avaliações de políticas, estudos de mercado de trabalho, pobreza e desigualdade. A disponibilidade do pacote `{PNADCperiods}` no CRAN reduz substancialmente o custo de adoção. A dependência da documentação interna do IBGE é ao mesmo tempo a maior força e o maior risco de longo prazo do método. |
+
+:::
+
+---
+
+## Introdução (pp. 1–5)
+
+### O problema da temporalidade na PNADC [§1–§4]
+
+O artigo abre identificando um problema estrutural de mensuração: fenômenos sociais e econômicos operam em tempo contínuo, mas a PNADC — principal pesquisa domiciliar brasileira — publica seus indicadores exclusivamente como **trimestres móveis**, ocultando a magnitude e o momento exato de choques econômicos. Hecksher e Barbosa inserem esse problema em um debate metodológico internacional mais amplo, citando Giannone, Reichlin e Small (2008) sobre as perdas de conteúdo em tempo real introduzidas por defasagens de publicação, e Choi e Varian (2012) sobre o uso de fontes de alta frequência (como Google Trends) para contornar essas limitações.
+
+A relevância do ponto temporal é reforçada por um argumento econométrico: estimadores de diferenças-em-diferenças podem atribuir pesos negativos a efeitos individuais quando o *timing* do tratamento é heterogêneo — o que pode inverter o sinal estimado mesmo quando todas as unidades respondem positivamente à política (Chaisemartin & D'Haultfœuille, 2020). Arcabouços que tratam rigorosamente essa heterogeneidade, como o de Callaway e Sant'Anna (2021), exigem precisamente a identificação do mês em que cada unidade passa a ser tratada. A imprecisão temporal da PNADC, portanto, não é apenas um inconveniente prático, mas uma limitação com implicações diretas para a validade da avaliação de políticas.
+
+> **Questão central**: Como recuperar estimativas mensais genuínas a partir de uma pesquisa estruturalmente divulgada em trimestres móveis, sem recorrer a modelos estatísticos, interpolação ou fontes externas?
+
+### A distorção introduzida pelos trimestres móveis [§5–§7]
+
+Os autores formalizam matematicamente a distorção produzida pelos trimestres móveis. A fórmula básica para estoques populacionais e massas de rendimentos é: $x_t = (y_{t-2} + y_{t-1} + y_t)/3$, onde $y_t$ é o valor mensal verdadeiro. Se a população ocupada for 103, 103 e 100 milhões em três meses consecutivos, o trimestre móvel reportará 102 milhões — subestimando o choque real em dois terços de sua magnitude. Além da atenuação, os trimestres móveis consecutivos geram **defasagem** e **autocorrelação espúria**, distorções especialmente problemáticas para avaliação de políticas, comparação internacional e o trabalho do Comitê de Datação de Ciclos Econômicos (Codace).
+
+::: {.callout-note icon=false}
+**Conceito-chave — trimestre móvel:** Média aritmética simples de três meses consecutivos ($x_t = (y_{t-2} + y_{t-1} + y_t)/3$), aplicável a estoques populacionais e massas de rendimentos. Para taxas (razões entre estoques) e rendimentos médios (razões entre massas e populações), o trimestre móvel é uma **média móvel ponderada**, em que o peso de cada mês é proporcional ao tamanho mensal da força de trabalho — grandeza não divulgada pelo IBGE.
+:::
+
+### Contexto histórico e lacuna comparativa [§8–§10]
+
+Os autores situam a limitação brasileira em perspectiva comparada: Estados Unidos (CPS, desde 1940), União Europeia (cerca de dez países com dados mensais de LFS), Japão, Canadá e Austrália produzem estimativas mensais do mercado de trabalho. No Brasil, a Pesquisa Mensal de Emprego (PME) publicou indicadores mensais por 36 anos (1980–2016). Ao migrar para a PNADC, o IBGE ampliou e nacionalizou as amostras, mas optou por suprimir a divulgação mensal, fundamentando-se em evidências de que oscilações mensais frequentemente não eram estatisticamente significativas (IBGE, 2015; Lila & Freitas, 2007). A urgência da questão é exemplificada pela pandemia de COVID-19: estimativas não oficiais para meses exatos, publicadas em junho de 2020, foram fundamentais para revelar que — pela primeira vez na história estatística do país — a maioria absoluta da população em idade de trabalhar estava sem trabalho algum (Hecksher, 2020a).
+
+### As duas estratégias propostas e contribuições do artigo [§11–§14]
+
+O artigo apresenta duas estratégias complementares de **mensalização** da PNADC. A primeira opera sobre os **microdados**: explorando o desenho de painel rotativo e as datas de nascimento dos respondentes, desenvolve um algoritmo determinístico que identifica o mês de cada observação sem interpolações estatísticas, indicadores externos ou hipóteses sobre a estrutura temporal das séries. A segunda opera sobre os **agregados do SIDRA**: inverte matematicamente a fórmula da média móvel trimestral a partir da relação exata entre trimestres móveis consecutivos.
+
+O artigo reúne cinco contribuições em relação à versão preliminar (Hecksher, 2020b, que havia obtido ~40% de determinação para 28 indicadores sem propagação inter-trimestres): (i) formalização de um algoritmo aperfeiçoado que alcança **97% de determinação** em 28,4 milhões de observações (2012–2025); (ii) método de inversão de trimestres móveis para mais de 80 séries do SIDRA; (iii) validação empírica via transições do salário mínimo; (iv) aplicações em pobreza mensal e resolução semanal; (v) implementação como pacote R `{PNADCperiods}`, de código aberto e aprovado no CRAN.
+
+---
+
+## Identificação de períodos nos microdados (pp. 6–15)
+
+### O painel rotativo como recurso: os três fatos estruturais [§15–§19]
+
+A PNADC emprega amostragem por conglomerados em dois estágios: Unidades Primárias de Amostragem (UPAs — setores censitários ou agregados de setores) no primeiro estágio, e domicílios selecionados dentro de cada UPA no segundo. Cada UPA contém oito **grupos de rotação**, indexados pela variável $V1014 \in \{1,2,...,8\}$. A cada trimestre, um grupo entra na amostra pela primeira vez e outro a deixa definitivamente. Cada grupo permanece na amostra por cinco trimestres consecutivos.
+
+O algoritmo se fundamenta em três fatos estruturais do desenho operacional da PNADC:
+
+::: {.callout-note icon=false}
+**Fato 1 (Compartilhamento da semana de referência):** Todos os moradores de um mesmo domicílio (identificado por $V1008$ dentro da UPA) são entrevistados na mesma semana de referência.
+
+**Fato 2 (Compartilhamento do mês de referência):** Todos os domicílios pertencentes ao mesmo grupo de rotação $(UPA, V1014)$ dentro de um trimestre compartilham o mesmo mês de referência.
+
+**Fato 3 (Invariância da posição mensal entre visitas):** A posição mensal relativa $m^* \in \{1,2,3\}$ de cada grupo $(UPA, V1014)$ é invariante entre trimestres: se o grupo é entrevistado no segundo mês do trimestre em uma visita, será entrevistado no segundo mês em todas as demais visitas.
+:::
+
+O Fato 1 permite usar informações individuais de moradores para restringir o escopo de datas da entrevista do domicílio. O Fato 2 permite cruzar informação entre domicílios do mesmo grupo de rotação, restringindo ainda mais os meses possíveis. O Fato 3 — a **propagação inter-trimestres** — é descrito pelos autores como a principal fonte de poder do algoritmo: uma restrição informativa em qualquer dos até cinco trimestres de presença do grupo é suficiente para resolver a ambiguidade em todos os demais. É esse mecanismo que eleva a taxa de determinação de ~40% (Hecksher, 2020b, sem propagação) para ~97% com o histórico completo de 55 trimestres.
+
+### Semanas de referência e a regra da Parada Técnica [§20–§24]
+
+A coleta da PNADC é organizada em **semanas de referência** de domingo a sábado. A regra geral de classificação determina que uma semana pertence ao mês $m$ se possuir pelo menos 4 dias dentro de $m$. Cada semana é identificada pelo sábado que a encerra (a **data de referência**). Se o primeiro sábado do mês civil cair no dia 4 ou posterior, a semana que termina nesse sábado é a primeira do mês de referência; se cair nos dias 1, 2 ou 3, a primeira semana de referência é a seguinte.
+
+Cada **mês de referência do IBGE** compreende exatamente quatro semanas consecutivas — sempre 28 dias — raramente coincidindo com o mês civil. Os períodos entre dois meses de referência são chamados de **Parada Técnica**: nesses intervalos, não há coleta, e os sábados correspondentes não são utilizados como datas de referência.
+
+O sistema de coleta usa um dispositivo móvel (DMC) que calcula automaticamente a idade dos moradores na data de referência (o sábado final da semana de referência), desde que datas de nascimento exatas tenham sido informadas. Apenas quando não se obtém a data de nascimento de alguma pessoa é que a idade é perguntada diretamente ou estimada. O primeiro passo do algoritmo consiste em identificar os **sábados válidos** dentro de cada trimestre — excluindo os de Parada Técnica — e usar as idades calculadas e as datas de aniversário para restringir as datas possíveis de cada entrevista.
+
+### O algoritmo de identificação: três passos encadeados [§25–§32]
+
+O algoritmo opera em três mecanismos encadeados:
+
+**Passo 1 — Restrições de aniversário.** Para cada morador $i$ com data de nascimento conhecida, calcula-se:
+
+$$b_i = (\text{Ano} - \text{AnoNasc}_i) - \text{Idade}_i$$
+
+Se $b_i = 0$, a entrevista ocorreu *após* o aniversário: a data mínima possível é deslocada para o primeiro sábado válido em ou após o aniversário. Se $b_i = 1$, a entrevista ocorreu *antes* do aniversário: a data máxima possível é restringida ao sábado imediatamente anterior.
+
+Os autores ilustram com dois exemplos concretos para o 1º trimestre de 2023:
+
+- *Exemplo 1*: pessoa nascida em 15/03/1990 com idade 33. Como $2023 - 1990 = 33$, $b_i = 0$: a entrevista ocorreu após 15 de março, restringindo-a ao mês 3.
+- *Exemplo 2*: pessoa nascida em 17/02/1990 com idade 32 no mesmo trimestre. Como $2023 - 1990 = 33 \neq 32$, $b_i = 1$: a entrevista ocorreu antes de 17 de fevereiro, restringindo-a a janeiro ou início de fevereiro.
+
+A **interseção** das restrições de múltiplos moradores pode determinar o mês mesmo quando nenhuma restrição individual é suficiente. Se três moradores do mesmo grupo de rotação têm intervalos Jan–Fev, Jan–Mar e Fev–Mar, a interseção $[\max(1,1,2) = 2, \min(2,3,3) = 2]$ identifica fevereiro como único mês compatível.
+
+**Passo 2 — Agregação intratrimestre.** A interseção dos intervalos de todos os indivíduos do mesmo grupo $(UPA, V1014)$ dentro do trimestre é computada. Pelo Fato 2, todos os domicílios compartilham o mesmo mês; pelo Fato 1, todos os moradores de cada domicílio compartilham a mesma semana. O mês verdadeiro deve satisfazer simultaneamente todas as restrições individuais.
+
+**Passo 3 — Propagação inter-trimestres.** Pelo Fato 3, a posição mensal relativa é invariante entre visitas, de modo que as restrições de todos os trimestres em que o grupo aparece podem ser combinadas. Uma restrição informativa em qualquer um dos cinco trimestres de presença é suficiente para resolver a ambiguidade nos demais. Por exemplo: se um indivíduo é identificado como entrevistado em setembro de 2022 (terceiro mês relativo), isso determina automaticamente o mês de todos os domicílios da mesma UPA-painel em todos os cinco trimestres: setembro em T3/2022, dezembro em T4/2022, março em T1/2023, e assim por diante.
+
+A taxa de determinação cresce com o número de trimestres empilhados: **~72%** com um trimestre, **~95%** com oito, e **~97%** com o histórico completo de 55 trimestres (2012–2025, 28,4 milhões de observações). Cada trimestre específico esgota suas possibilidades de determinação quando o processo inclui microdados dos quatro trimestres anteriores e dos quatro posteriores — cobrindo a janela completa das cinco visitas possíveis ao mesmo grupo.
+
+### Exceções à regra da Parada Técnica [§33–§36]
+
+Em seis trimestres entre 2012 e 2025 (2016-T3, 2016-T4, 2017-T2, 2022-T3, 2023-T2 e 2024-T1), a regra padrão (mínimo de 4 dias no mês) produz **impossibilidades lógicas**: as restrições de aniversário de indivíduos do mesmo grupo se tornam mutuamente incompatíveis, gerando intervalos vazios. Esses conflitos surgem em meses cujo primeiro sábado cai exatamente no dia 4 — posição limítrofe em que a classificação da semana como pertencente ao mês corrente ou ao anterior afeta encadeadamente todas as restrições do grupo.
+
+A solução é relaxar o critério para um mínimo de **3 dias** ($k = 3$ em vez de $k = 4$), reclassificando a semana ambígua e restaurando a compatibilidade. O algoritmo detecta essas situações automaticamente: quando a regra geral implica impossibilidade em qualquer grupo, o trimestre é recalculado com o critério permissivo. Em todos os seis casos detectados, a exceção afeta apenas um dos três meses do trimestre.
+
+> **Nota 1:** A documentação do IBGE admite explicitamente essa tolerância: "existe uma tolerância de que [o dia 1º] esteja até quarta-feira ou no limite na quinta-feira, desta forma garantimos que pelo menos 3 ou 4 dias da 1ª semana de referência do mês estejam dentro do mês corrente" (IBGE, 2018, p. 32). [nota incluída por relevância argumentativa — confirma a base documental das exceções detectadas pelo algoritmo]
+
+### Identificação de quinzenas e semanas [§37–§40]
+
+O algoritmo se estende para granularidades submensais com a mesma lógica, mas com uma diferença estrutural decisiva: a agregação opera no nível do domicílio $(Ano, Trimestre, UPA, V1008)$, não no nível do grupo de rotação $(UPA, V1014)$ entre trimestres. Isso ocorre porque a posição quinzenal e semanal relativa dentro do mês pode *variar* entre visitas — ao contrário da posição mensal (Fato 3). Sem a propagação inter-trimestres, as taxas de determinação caem drasticamente: **~9%** para quinzenas e **~3%** para semanas pelo algoritmo estrito.
+
+Os autores recomendam cautela nessas extensões: exceto em choques de magnitude excepcional (como a COVID-19) ou em análises de eventos semanais/quinzenais repetidos ao longo de múltiplos anos (como o carnaval), a imprecisão das estimativas submensais limita sua utilidade. Imputações probabilísticas — descartadas como desnecessárias no caso mensal — são apontadas como alternativa razoável para análises submensais.
+
+### Calibragem dos pesos amostrais [§41–§46]
+
+Os pesos amostrais originais do IBGE ($V1028$ para dados trimestrais, $V1032$ para dados anuais) são calibrados para reproduzir totais populacionais trimestrais ou anuais. Para produzir estimativas mensais válidas, é necessário redistribuir esses pesos de modo que a subamostra mensal represente corretamente a população.
+
+O procedimento aplica um **ajuste hierárquico em quatro níveis progressivamente mais finos**: (i) faixa etária (0–13, 14–29, 30–59, 60+); (ii) pós-estrato geográfico agrupado; (iii) unidade da federação; (iv) pós-estrato detalhado. Em cada nível, para cada célula demográfico-geográfica e subperíodo, aplica-se um fator multiplicativo que garante que a composição da subamostra mensal reproduza proporcionalmente a do período-âncora (trimestre ou ano). Quando uma célula tem observações insuficientes, o ajuste se interrompe naquele nível. Ao final, os pesos são rescalonados para que o total ponderado de cada subperíodo reproduza exatamente o total populacional mensal obtido da **tabela 6022 do SIDRA**.
+
+> **Nota 2:** O total populacional da tabela 6022 do SIDRA é uma estimativa para o mês *central* de cada trimestre móvel (e.g., fevereiro de 2012 para o 1º trimestre de 2012). Para os dois meses extremos da série (janeiro de 2012 e o último mês do último trimestre disponível), os autores usam extrapolação quadrática baseada nas estimativas do SIDRA para os 24 meses mais próximos. [nota incluída por relevância argumentativa — explicita a base dos totais populacionais usados na calibração]
+
+Os aproximadamente **3% de observações com mês indeterminado** são excluídos da análise mensal. Os autores reconhecem que essa exclusão não constitui subamostragem aleatória simples, e que o ajuste hierárquico de pesos busca corrigir eventuais desequilíbrios demográficos e geográficos introduzidos pela seleção.
+
+**Estimação de variância.** Dois caminhos estão disponíveis: (i) **linearização de Taylor**, especificando o desenho com variáveis originais de estrato e UPA e os pesos mensais calibrados — rápida e adequada para médias e proporções; (ii) **pesos de replicação bootstrap**, disponibilizados pelo IBGE em 200 réplicas ($V1028001$ a $V1028200$), adaptados para pesos mensais pela fórmula:
+
+$$w_{i,k}^{(m)} = w_{i,k} \times \frac{w_i^{(m)}}{w_i}$$
+
+onde $w_{i,k}$ é o $k$-ésimo peso de replicação original, $w_i$ é o peso trimestral original (V1028) e $w_i^{(m)}$ é o peso mensal calibrado. Essa adaptação preserva a estrutura de variabilidade do desenho amostral.
+
+---
+
+## Identificação de meses exatos nos dados do SIDRA (pp. 16–19)
+
+### A lógica da inversão do trimestre móvel [§47–§52]
+
+A segunda abordagem opera exclusivamente sobre os **agregados publicados pelo IBGE no SIDRA**, dispensando acesso a microdados. Ela tem duas vantagens próprias: (i) as variações mensais recuperadas derivam diretamente dos dados oficiais do IBGE, com publicação que antecede os microdados em até três meses; (ii) pesquisadores sem infraestrutura para processar microdados podem obter estimativas mensais para mais de 80 indicadores.
+
+A chave está na sobreposição entre trimestres móveis consecutivos. Dois trimestres consecutivos ($x_t$ e $x_{t-1}$) compartilham os meses $y_{t-2}$ e $y_{t-1}$. Sua diferença isola exatamente o que mudou — o mês que entrou menos o que saiu:
+
+$$d_{3t} \equiv 3(x_t - x_{t-1}) = (y_{t-2} + y_{t-1} + y_t) - (y_{t-3} + y_{t-2} + y_{t-1}) = y_t - y_{t-3}$$
+
+Portanto, $d_{3t}$ corresponde à variação entre dois meses separados por três posições, e é exatamente três vezes a subtração entre dois trimestres móveis consecutivos. Sob essa lógica, os meses se organizam em **três subsequências independentes** conforme suas posições relativas nos trimestres — posição $j \in \{1, 2, 3\}$, correspondendo respectivamente a jan/abr/jul/out, fev/mai/ago/nov e mar/jun/set/dez. Dentro de cada subsequência, o valor mensal é a soma telescópica das variações a partir de um ponto inicial:
+
+$$y_t = y_0^{(j)} + \sum_{\substack{s \leq t \\ s \equiv j \pmod{3}}} d_{3s}$$
+
+Três pontos iniciais — um por posição — são suficientes para recuperar toda a série histórica. A inversão resolve as variações exatas, mas não os níveis iniciais. Para taxas e rendimentos médios (razões entre grandezas), é necessário mensalizar numerador e denominador separadamente, pois a média de uma razão não é igual à razão das médias.
+
+### Calibração dos pontos iniciais [§53–§58]
+
+Os três pontos iniciais $y_0^{(j)}$ — os valores em nível de janeiro, fevereiro e março de 2012 — não podem ser recuperados a partir dos dados agregados. É aqui que as duas abordagens se tornam **mutuamente complementares**: os microdados mensalizados fornecem esses pontos iniciais.
+
+O procedimento se dá em quatro passos: (1) calcular $d_{3t} = 3(x_t - x_{t-1})$ para cada par consecutivo de trimestres móveis do SIDRA; (2) acumular as variações dentro de cada subsequência $j$; (3) usar os microdados mensalizados para estimar os valores em nível de janeiro, fevereiro e março de 2012, gerando estimativas para os três $y_0^{(j)}$; (4) somar as variações acumuladas aos pontos iniciais para reconstruir as séries completas.
+
+Alternativamente, qualquer mês disponível nos microdados pode servir como ponto inicial, gerando versões alternativas da série. Em princípio idênticas, elas diferem numericamente devido a ruídos estatísticos da incompletude da mensalização — discrepâncias que podem alcançar centenas de milhares de pessoas em indicadores de nível. Os autores recomendam calcular a **média simples** dessas estimativas usando **2013–2019 como janela de calibração**, período com as mais altas taxas de identificação (~98%). O pacote `{PNADCperiods}` armazena internamente os pontos iniciais pré-calculados para todas as séries do SIDRA, de modo que o usuário pode obter estimativas mensais para mais de 80 indicadores sem executar todas essas etapas.
+
+---
+
+## Estratégias experimentais para granularidades submensais (pp. 19–20)
+
+### Atribuição probabilística e agregação por UPA [§59–§62]
+
+Com taxas de determinação estrita baixas (~3% semanal, ~9% quinzenal), os autores propõem duas estratégias opcionais que elevam essas taxas sem comprometer a integridade da identificação mensal.
+
+**Atribuição probabilística:** Quando o intervalo de datas possíveis de uma observação abrange exatamente dois períodos consecutivos, ela é atribuída ao período que contém o ponto médio do intervalo. Um **índice de confiança** — definido como a proporção do intervalo contida no período atribuído — acompanha cada atribuição. Com limiar de confiança de 0,75, a taxa de quinzenas sobe para **~13,5%** e a de semanas para **~7,5%**. Para uso robusto, recomenda-se filtrar observações com confiança $\geq 0,7$.
+
+**Agregação por UPA:** Se todos os domicílios com quinzena ou semana determinada dentro de uma UPA apontam para o mesmo período, os domicílios indeterminados da mesma UPA podem herdar essa atribuição. A homogeneidade intra-UPA é de 100% para os 55 trimestres analisados (9,6 milhões de observações). Na prática, o ganho marginal é limitado, pois a maioria das UPAs já possui todos os domicílios determinados ou todos indeterminados.
+
+::: {.callout-important}
+Os autores recomendam cautela substancial nas análises submensais: exceto em choques de magnitude excepcional ou em eventos semanais/quinzenais analisados ao longo de múltiplos anos empilhados, a incerteza adicional das atribuições probabilísticas e os intervalos de confiança amplos limitam a utilidade prática dessas extensões.
+:::
+
+---
+
+## Validação: o mês de ajuste do Salário Mínimo (pp. 20–22)
+
+### O teste de validação e seus resultados [§63–§68]
+
+A validação enfrenta um problema fundamental: os meses verdadeiros de referência não são observados nos dados públicos. A estratégia proposta explora uma **assimetria temporal estrutural** da PNADC combinada a uma regularidade institucional do mercado de trabalho brasileiro.
+
+A PNADC contém duas variáveis de rendimento com temporalidades distintas: o **rendimento habitual** ($VD4016$) refere-se ao mês da entrevista, enquanto o **rendimento efetivo** ($VD4017$) refere-se ao mês anterior. O salário mínimo é reajustado por decreto, tipicamente em 1º de janeiro. Se a identificação mensal for precisa, o rendimento habitual dos entrevistados de janeiro deve refletir o novo valor, enquanto o efetivo só o refletirá em fevereiro (cujo "mês anterior" é janeiro). Essa **defasagem de exatamente um mês** funciona como teste falsificável: um algoritmo incorreto produziria uma transição borrada em vez de abrupta.
+
+A análise abrange **16 transições** entre 2012 e 2025, incluindo reajustes intra-anuais como o de maio de 2023. O teste mais exigente ocorre em 2020, quando houve dois reajustes em rápida sucessão: de R\$ 998 para R\$ 1.039 em 1º de janeiro, e de R\$ 1.039 para R\$ 1.045 em 1º de fevereiro. O valor de R\$ 1.039 foi o salário mínimo oficial por exatamente um mês — um **teste de estresse natural**: qualquer erro de atribuição de uma pequena fração de observações diluiria esse valor nos meses vizinhos.
+
+::: {.callout-tip}
+**Resultado da validação:** Em todas as 16 transições, o rendimento habitual apresenta mudança abrupta no mês do reajuste e o rendimento efetivo replica o mesmo padrão com defasagem de exatamente um mês — sem exceção. A transição de dois reajustes em 2020 é identificada com precisão. Valores anteriores não desaparecem completamente (fração residual reflete ajustes graduais de empregadores), mas a transição majoritária é abrupta em um único mês, como previsto. A regularidade ao longo de 13 anos (2012–2025) é, nas palavras dos autores, "notável".
+:::
+
+---
+
+## O pacote {PNADCperiods}: modos de usar (pp. 22–23)
+
+### Dois workflows complementares [§69–§73]
+
+Ambas as abordagens estão implementadas no pacote R `{PNADCperiods}`, disponível em código aberto no CRAN. O uso típico segue dois fluxos complementares:
+
+**Workflow por microdados (3 passos).** O *crosswalk* de identificação de períodos é construído uma única vez a partir de dados empilhados e pode ser reutilizado para qualquer divulgação trimestral ou anual. A função `pnadc_identify_periods()` recebe os microdados empilhados e retorna o *crosswalk*; `pnadc_apply_periods()` aplica o *crosswalk* a uma divulgação específica e calibra os pesos mensais. A variável resultante `weight_monthly` é o peso amostral calibrado para totais populacionais mensais; `ref_month_yyyymm` identifica o mês exato no formato AAAAMM.
+
+**Workflow SIDRA (3 linhas).** Dispensa microdados — o pacote já traz pontos iniciais pré-calculados para mais de 80 indicadores. `fetch_sidra_rolling_quarters()` baixa as séries de trimestres móveis do SIDRA; `mensalize_sidra_series()` executa a inversão e retorna as séries mensais. As colunas `m_*` contêm as estimativas mensais recuperadas; `anomesexato` é o equivalente de `ref_month_yyyymm`.
+
+O artigo destaca que os dois workflows podem ser combinados: o microdados fornece os pontos iniciais para calibrar as séries do SIDRA, e o SIDRA fornece estimativas rápidas antes da disponibilidade dos microdados.
+
+---
+
+## Alguns exemplos e aplicações (pp. 24–31)
+
+### Pobreza mensal a partir dos dados anuais [§74–§79]
+
+A primeira aplicação demonstra o uso dos dados **anuais** da PNADC, que contêm variáveis abrangentes de rendimento domiciliar per capita ($VD5008$) não disponíveis nas divulgações trimestrais. O pipeline opera em dois passos: o *crosswalk* é construído a partir dos microdados trimestrais empilhados (2015–2024); essa tabela é então aplicada aos dados anuais com âncora anual ($V1032$) e calibração mensal pelo procedimento hierárquico. A chave é que as divulgações trimestral e anual da PNADC compartilham a mesma estrutura de painel $(UPA, V1014, V1008)$, de modo que o *crosswalk* construído com dados trimestrais se aplica diretamente aos anuais.
+
+Utilizando a linha de pobreza de R\$ 624/mês per capita (preços de dezembro de 2023) e a medida FGT-0, os autores estimam taxas mensais de pobreza com intervalos de confiança de 95% para 2015–2024, incorporando o desenho amostral complexo via `svydesign()` do pacote `{survey}`. Três padrões emergem que os dados anuais não capturam:
+
+1. **Salto abrupto** da pobreza entre março e abril de 2020, diluído na média anual.
+2. **Queda abaixo dos níveis pré-pandêmicos** já em maio de 2020, com o início do Auxílio Emergencial — estatisticamente significativa segundo as bandas de confiança.
+3. **Repique parcial** com a redução do auxílio e sua extinção em 2021, com *timing* exato agora mensurável.
+
+### A recessão de 2014–2017: deterioração mês a mês [§80–§83]
+
+A segunda aplicação examina a recessão prolongada de 2014–2017, durante a qual a taxa de desocupação mais que dobrou (de 6,6% para 13,9%). Os dados trimestrais apresentam essa deterioração como trajetória relativamente suave e contínua. Os dados mensais, em contraste, revelam que a piora ocorreu em **episódios discretos**: diversos meses registraram aumentos superiores a 1 ponto percentual na taxa de desocupação — choques abruptos invisíveis nas médias trimestrais. O código demonstrativo usa `data.table` para calcular as variações mensais (`delta`) e identificar os meses com saltos expressivos.
+
+### Indicadores mensalizados do SIDRA [§84–§87]
+
+A terceira aplicação demonstra a versatilidade da inversão de trimestres móveis para quatro indicadores selecionados por diversidade temática: **taxa de participação** na força de trabalho, **empregados sem carteira** no setor privado, **subocupação por insuficiência de horas**, e **alojamento e alimentação**. Em todos os quatro painéis, a série mensal recuperada (linha vermelha) contrasta com a série de trimestres móveis publicada (linha azul tracejada), revelando dinâmicas distintas ocultas pela média trimestral: a queda abrupta da participação em março de 2020, a volatilidade mensal da informalidade, a sensibilidade extrema do setor de alojamento e alimentação aos ciclos de restrição sanitária, e os picos sazonais de subocupação.
+
+### Resolução semanal: o efeito do carnaval [§88–§93]
+
+A quarta aplicação ilustra o uso da identificação semanal experimental. Embora a taxa de determinação pelo algoritmo estrito seja de apenas ~3%, o empilhamento de múltiplos anos permite acumular observações suficientes para análises em nível de grandes agregados. O carnaval é uma aplicação ideal: a semana de carnaval reduz as horas efetivamente trabalhadas ($VD4035$), mas esse efeito é completamente diluído em dados trimestrais e até mensais.
+
+Os autores empilham 12 primeiros trimestres (2012–2019, 2022–2025, excluindo o período COVID) com identificação semanal probabilística (confiança 0,75), comparando horas trabalhadas na semana do carnaval versus demais semanas por região metropolitana (RM). Estratos independentes por ano garantem independência entre ondas; cada RM serve como baseline próprio. Os resultados mostram redução de horas em todas as RMs, com maior magnitude em Salvador e Rio de Janeiro (4–5 horas), consistente com a intensidade da tradição carnavalesca nessas regiões. O padrão é estatisticamente significativo nas RMs de maior efeito, com intervalos de confiança não sobrepostos.
+
+::: {.callout-important}
+Os autores ressaltam as limitações desta aplicação: intervalos de confiança amplos, amostras pequenas e atribuições probabilísticas incertas. A validade da análise repousa sobre a comparação intra-RM (que elimina confundidores fixos) e o empilhamento multianual (que aumenta a precisão). O exemplo demonstra utilidade prática da resolução semanal, mas apenas sob condições específicas de acumulação de dados.
+:::
+
+---
+
+## Discussão e Conclusão (pp. 31–33)
+
+### Relação com métodos clássicos de desagregação temporal [§94–§99]
+
+A literatura de desagregação temporal se desenvolve desde a década de 1970, com contribuições de Chow e Lin (1971), Denton (1971), Fernández (1981) e Litterman (1983), implementadas computacionalmente no pacote `tempdisagg` (Sax & Steiner, 2013). Esses métodos foram concebidos para o problema clássico de interpolação de séries de contas nacionais — sistemas subdeterminados (mais incógnitas do que equações) resolvidos mediante hipóteses de suavidade ou correlação com indicadores externos de alta frequência.
+
+A abordagem por microdados proposta por Hecksher e Barbosa **difere fundamentalmente**: não é interpolação estatística, mas **identificação determinística** que explora a estrutura interna da própria pesquisa — informações de nascimento e idade dos respondentes e a invariância do painel rotativo — sem indicadores externos nem hipóteses sobre a estrutura temporal das séries. A abordagem por agregados (inversão das médias móveis do SIDRA) constitui um sistema **exatamente determinado** condicionado a três pontos iniciais, diferindo dos sistemas subdeterminados dos métodos clássicos.
+
+::: {.callout-tip}
+**Posicionamento na literatura:** O método não compete com as abordagens por modelos de séries temporais (Gonçalves et al., 2022; 2025), mas as complementa: enquanto essas abordagens produzem estimativas probabilísticas a partir de hipóteses sobre a estrutura temporal das séries, o método aqui descrito produz identificação determinística a partir da estrutura interna da pesquisa, sem hipóteses sobre a dinâmica das variáveis de interesse. A principal vantagem comparativa é a aplicabilidade a todos os microdados individuais e a todas as variáveis disponíveis, não apenas às séries de indicadores publicados.
+:::
+
+Os autores listam as aplicações potenciais do método: avaliação de políticas com timing preciso (transferências de renda, reformas trabalhistas, pisos salariais); análise de choques imprevistos (pandemia, eventos climáticos); comparação internacional; emprego em modelos com outras séries mensais; detecção antecipada de pontos de inflexão; e estudos populacionais de pobreza, desigualdade e participação feminina. Com o pacote `{PNADCperiods}` no CRAN, os autores expressam a expectativa de que outros usuários encontrem novas aplicações.
+
+---
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+**Tese central:** Hecksher e Barbosa demonstram que o mês exato de referência de cada entrevista da PNAD Contínua pode ser identificado deterministicamente para 97% das observações (2012–2025, 28,4 milhões de obs.) a partir de três fatos estruturais do desenho amostral — compartilhamento de semana e mês dentro de grupos de rotação, e invariância da posição mensal relativa entre visitas —, combinados com as datas de nascimento e idades calculadas dos respondentes. A inversão algébrica das médias móveis trimestrais do SIDRA complementa esse resultado, permitindo a reconstrução de mais de 80 séries mensais de indicadores oficiais sem acesso a microdados.
+
+**Natureza do argumento:** Primariamente metodológico e descritivo-instrumental. O argumento não é causal — não estima efeitos de tratamento — mas demonstra a viabilidade e a validade de um procedimento de identificação temporal que habilita análises causais mais precisas por terceiros.
+
+**O que o texto demonstra:** (i) Que a identificação é factível com taxa de 97% e cresce sistematicamente com o número de trimestres empilhados; (ii) que a identificação é válida, demonstrada por 16 transições do salário mínimo sem nenhuma borrada ao longo de 13 anos; (iii) que o método revela dinâmicas substantivamente relevantes ocultas pelos dados trimestrais — o pico de desemprego na COVID-19 foi 2 p.p. superior ao indicado pelos dados trimestrais; o Auxílio Emergencial reduziu a pobreza abaixo dos níveis pré-pandêmicos já em maio de 2020.
+
+**O que fica como hipótese ou agenda:** (i) O comportamento dos 3% não identificados e a validade da hipótese de MAR para esse grupo; (ii) a robustez do método frente a mudanças futuras nos procedimentos operacionais do IBGE; (iii) a extensão a granularidades submensais (quinzenal, semanal) como instrumento analítico regular, não apenas exploratório.
+
+**Contribuição para o debate mais amplo:** O artigo resolve um problema prático de longa data na pesquisa empírica brasileira sobre mercado de trabalho e pobreza, aproximando o Brasil das práticas internacionais de divulgação mensal. Ao fazê-lo sem interpolação estatística nem indicadores externos, o método preserva a integridade dos dados originais e se posiciona como alternativa determinística às abordagens por modelos de séries temporais existentes na literatura. A disponibilidade do pacote `{PNADCperiods}` no CRAN democratiza o acesso ao método e abre agenda de pesquisa para análises de timing preciso de políticas públicas no Brasil.
+:::
