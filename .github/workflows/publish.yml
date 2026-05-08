@@ -12,6 +12,20 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Initialize gh-pages branch if it does not exist
+        run: |
+          if ! git ls-remote --exit-code --heads origin gh-pages > /dev/null 2>&1; then
+            CURRENT_SHA=$(git rev-parse HEAD)
+            git config user.email "github-actions@github.com"
+            git config user.name "github-actions"
+            git checkout --orphan gh-pages
+            git rm -rf . --quiet
+            git commit --allow-empty -m "Initialize gh-pages branch"
+            git push origin gh-pages
+            git checkout $CURRENT_SHA
+          fi
       - uses: quarto-dev/quarto-actions/setup@v2
       - uses: quarto-dev/quarto-actions/publish@v2
         with:
