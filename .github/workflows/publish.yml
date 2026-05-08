@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           fetch-depth: 0
       - name: Initialize gh-pages branch if it does not exist
@@ -26,6 +26,10 @@ jobs:
             git checkout -
           fi
       - uses: quarto-dev/quarto-actions/setup@v2
+      - name: Install R runtime
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y r-base
       - uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
