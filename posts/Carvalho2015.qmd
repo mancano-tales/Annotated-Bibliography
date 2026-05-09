@@ -1,0 +1,279 @@
+---
+title: "Fichamento: A política pública de expansão para a educação superior entre 1995 e 2010"
+subtitle: "Carvalho, C. H. A. de (2015). A política pública de expansão para a educação superior entre 1995 e 2010: uma abordagem neoinstitucionalista histórica."
+author: "Tales Mançano"
+date: "2026-05-09"
+last-updated: "2026-05-09"
+coverage: "Obra completa"
+categories: [Annotated Bibliography, Political Science, Higher Education Policy, Historical Institutionalism, Brazil]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+    execute: false
+---
+
+
+Carvalho, C. H. A. de (2015). A política pública de expansão para a educação superior entre 1995 e 2010: uma abordagem neoinstitucionalista histórica. *Revista Brasileira de Educação*, *20*(60), 51–76. https://doi.org/10.1590/S1413-24782015206004
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → Carvalho2015
+
+```bibtex
+@article{Carvalho2015,
+ author  = {Carvalho, Cristina Helena Almeida de},
+ title   = {A política pública de expansão para a educação superior entre 1995 e 2010: uma abordagem neoinstitucionalista histórica},
+ year    = {2015},
+ journal = {Revista Brasileira de Educação},
+ volume  = {20},
+ number  = {60},
+ pages   = {51--76},
+ doi     = {10.1590/S1413-24782015206004},
+}
+```
+
+:::
+
+```
+Última atualização: 2026-05-09
+Modelo: Perplexity — Sonnet 4.6
+Prompt Version: v17.2 2026-05-08 | Ficha antes do fichamento
+Gerado em: 2026-05-09T20:31:00-03:00
+Ocasião da Leitura: Releitura para escrita do capítulo 3 da dissertação.
+```
+
+---
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v17.2*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | A questão é formulada explicitamente, mas em termos relativamente abertos ("continuidade e/ou ruptura"), o que pode dificultar falsificação. A premissa central é que o neoinstitucionalismo histórico é capaz de capturar tanto inércia quanto mudança — o ponto mais vulnerável é se esse quadro teórico gera hipóteses suficientemente discriminantes para distinguir o caso brasileiro de outros. | Pergunta central: Em que medida a política pública para a educação superior no Governo Lula (2003–2010) representa continuidade e/ou ruptura em relação ao Governo FHC (1995–2002)? Natureza: avaliativa-comparativa. Explicitamente formulada na introdução. |
+| Questões Secundárias | As questões secundárias estão implícitas e derivam da tripartição polity-politics-policy. Uma interpretação alternativa seria privilegiar variáveis orçamentárias e fiscais em detrimento da análise de arenas decisórias, o que poderia alterar o diagnóstico de continuidade. | (1) Quais atores compõem a arena decisória da educação superior e como seus interesses moldam a agenda? (2) Como o path dependence opera concretamente nos instrumentos da política (diversificação de cursos, crédito educativo, acesso)? (3) Em que dimensões específicas da expansão ocorre ruptura? |
+| Puzzle-Type | O puzzle é genuíno e politicamente relevante: um governo eleito com plataforma fortemente oposta ao anterior implementou, em vários eixos, políticas de continuidade. Esse tipo de puzzle de "mudança retórica versus continuidade substantiva" é generalizável a outros países da América Latina nos anos 2000, mas a autora não mobiliza essa comparação. | Puzzle explicativo de mudança institucional: por que um governo com agenda programática oposta manteve estruturas de política similares ao antecessor? Avaliação: puzzle genuíno e analiticamente produtivo, embora pouco diferenciado de debates equivalentes sobre governos PT em outras áreas sociais. |
+| Conclusão / Argumento Central | A tese é bem ancorada nas evidências documentais. O ponto analiticamente mais interessante — e subdesenvolvido — é o mecanismo pelo qual o custo de abandono de políticas consolidadas opera empiricamente. Isso fica mais afirmado do que demonstrado. | O Governo Lula combinou continuidade estrutural (diversificação de cursos, diferenciação institucional, ENEM) com ruptura parcial em favor do segmento federal (REUNI, Programa de Expansão Fase I, institutos federais). A natureza do argumento é causal-institucionalista mediada por path dependence. |
+| Métodos | Trata-se de pesquisa documental qualitativa com análise comparativa de governos. O design é adequado para a pergunta, mas impõe limitações sérias: fontes documentais institucionais tendem a representar posições oficiais dos atores organizados, deixando de fora conflitos intraburocráticos e preferências latentes. O fichamento cobre a obra inteira (artigo completo). | Pesquisa documental. Fontes primárias: programas de governo (1994, 1998, 2002), legislação (LDB/1996, PNE/2001, ProUni/2005, REUNI/2007), relatórios e manifestações públicas de atores institucionais. Abordagem comparativa diacrônica (FHC vs. Lula). Estratégia argumentativa: análise de arena decisória + rastreamento de posicionamento de atores. Fichamento cobre a obra inteira. |
+| Data Generation Process (DGP) | O DGP introduz viés de seleção de fontes: apenas organizações formais com publicações acessíveis são incluídas. Atores com influência informal, consultores técnicos do MEC, e lobbying parlamentar não documentado ficam fora da análise. A operacionalização de "posicionamento dos atores" como leitura de documentos institucionais é metodologicamente coerente, mas não captura inconsistências intra-organizacionais ou mudanças táticas ao longo do tempo. | Fenômeno: dinâmica de política pública → Observação: documentos institucionais e legislação → Coleta: pesquisa documental seletiva → Operacionalização: posicionamento de atores codificado por publicações → Análise: comparação diacrônica → Inferência: descritiva-comparativa com elementos interpretativos. Unidade de análise: governo federal (período presidencial). |
+| Achados e Contribuições | O achado mais robusto é o da inércia institucional nas três modalidades de cursos (sequencial, tecnológico, EaD) e na diferenciação institucional — aqui o design documental sustenta bem o argumento. A ruptura em favor do segmento federal (REUNI, institutos) também é bem evidenciada. O diagnóstico sobre políticas afirmativas é mais fraco: a autora documenta a ausência de regulamentação, mas não avalia os efeitos das iniciativas voluntárias das IFES. | Empíricos: (1) diversificação e diferenciação institucional do Governo FHC permaneceram sob Lula apesar da retórica crítica; (2) ENEM consolidou-se como mecanismo de acesso em ambos os governos; (3) a ruptura mais clara foi a priorização do segmento federal via REUNI e Programa de Expansão. Teórico-metodológico: demonstração empírica de que path dependence opera mesmo sob alternância ideológica de governo em sistemas de educação superior com setor privado dominante. |
+| Análise Crítica dos Achados | O argumento é sólido em seu núcleo descritivo-comparativo, mas enfrenta ao menos três vulnerabilidades: (a) ausência de contrafactual sistemático — o que permitiria afirmar que a continuidade é efeito de path dependence e não de preferências convergentes dos próprios atores do PT? (b) a "arena decisória" é tratada como estável entre os dois governos, mas sua composição pode ter mudado; (c) a análise de ruptura é assimétrica: o segmento federal é bem documentado, mas o impacto real do ProUni sobre desigualdade de acesso (que seria o teste mais direto do argumento sobre democratização) não é avaliado empiricamente. | O design documental é adequado para descrever posicionamentos e rastrear legislação, mas insuficiente para demonstrar causalidade institucional. O argumento de path dependence é plausível, mas funciona como interpretação post-hoc dos padrões observados, não como mecanismo identificado independentemente. A generalizabilidade está implicitamente restrita ao Brasil, mas não há discussão de scope conditions. |
+| Limitações | **Reconhecidas pelos autores:** A autora reconhece explicitamente o limite de espaço do artigo (pp. 61), indicando que apenas um eixo da política (expansão) é coberto, com os demais eixos remetidos à tese de doutorado (Carvalho, 2011). <br> **Não reconhecidas ou subestimadas:** (1) viés de seleção das fontes documentais (só organizações com publicações formais); (2) ausência de análise de resultado (outputs da política versus metas declaradas); (3) o modelo de arena decisória não contempla a dimensão subnacional (estados e municípios) mesmo para expansão de acesso; (4) não há discussão sobre por que a tese de doutorado de 2011 não é simplesmente reproduzida — o que o artigo acrescenta àquela análise. |
+| Perspectiva Teórica | A moldura neoinstitucionalista histórica é adequada para a pergunta de continuidade/ruptura e coerente com o design documental. A coerência entre ontologia (instituições como regras formais e informais que constrangem atores) e método (análise de documentos institucionais e legislação) é razoável, embora a dimensão das "regras informais" fique subexplorada empiricamente. | Neoinstitucionalismo histórico (corrente de Skocpol, Hall e Taylor, Thelen e Steinmo). Conceitos operativos centrais: path dependence, arena decisória (Lowi), feedback de políticas, insulamento burocrático. A análise tridimensional polity-politics-policy (Frey, 2000) estrutura o argumento comparativo. |
+| Principais Referências | O diálogo com a literatura é majoritariamente fundacional (anos 1980–2003) e pouco atualizado para o período de publicação (2015). Ausente qualquer diálogo com literatura comparada de educação superior (Clark, Trow, Marginson) ou com literatura brasileira de análise de políticas sociais mais recente. | Hall e Taylor (2003), Skocpol (1985, 1994), Thelen e Steinmo (1992), March e Olsen (1984), Lowi (1995), Frey (2000), Marques (1997). Documentos institucionais: ABMES, ANDES-SN, ANDIFES, UNE, ABRUC, CRUB, Banco Mundial, UNESCO. |
+| Observações | Tipo de texto: artigo em periódico (identificação inequívoca pela estrutura e pelo periódico). O artigo é uma condensação explicitamente parcial de Carvalho (2011), tese de doutorado com 465 páginas. Isso implica que boa parte do suporte empírico para as afirmações sobre atores individuais está na tese, não no artigo — limitação para leitores que acessam apenas a versão periódico. Para pesquisa sobre cotas/PROUNI, o artigo é útil como contextualização institucional mas insuficiente como análise de resultados. |
+
+:::
+
+---
+
+## Mapa Argumentativo {.unnumbered}
+
+| Seção | Título | Função argumentativa | Contribuição para a tese central |
+|:------|:-------|:---------------------|:---------------------------------|
+| Introdução | Introdução | Apresentação do puzzle e da tese | Define o objeto (expansão 1995–2010), delimita a moldura teórica (neoinstitucionalismo histórico), enuncia a pergunta de continuidade/ruptura e apresenta as fontes primárias usadas. |
+| Seção 1 | Neoinstitucionalismo Histórico: Conceitos e Categorias | Fundamento teórico | Apresenta o arsenal conceitual operativo: instituições, path dependence, feedback de políticas, insulamento burocrático, arena decisória. Estabelece o quadro interpretativo para toda a análise empírica subsequente. |
+| Seção 2 | Educação Superior: Arena Decisória, Principais Atores e a Formação da Agenda | Análise empírica — mapeamento de atores | Delimita os atores relevantes (MEC, ABMES, ABRUC, ANDIFES, ANDES-SN, UNE, CRUB, Banco Mundial, UNESCO), classifica a arena como redistributiva (Lowi), e mapeia as agendas dos governos via programas eleitorais de 1994, 1998 e 2002. |
+| Seção 3 | A Política Pública para a Expansão da Educação Superior no Brasil entre 1995 e 2010 | Análise empírica comparativa | Compara a formulação e implementação dos dois governos nos eixos de oferta (diversificação de cursos, diferenciação institucional, desigualdades regionais, noturno) e demanda (formas alternativas de acesso, políticas afirmativas). Identifica onde há continuidade e onde há ruptura. |
+| Considerações Finais | Considerações Finais | Síntese e agenda | Sintetiza o argumento: continuidade estrutural do segmento privado + ruptura parcial em favor do segmento federal. Reafirma a produtividade analítica do neoinstitucionalismo histórico para capturar a coexistência dessas dinâmicas. |
+
+---
+
+## Introdução (pp. 51–54)
+
+### Delimitação do objeto e moldura teórica [§1–§4]
+
+O artigo parte de uma escolha teórica explícita: privilegiar a vertente histórica do neoinstitucionalismo como moldura para analisar a política pública de educação superior no Brasil entre 1995 e 2010. A autora situa essa opção em relação ao campo mais amplo das perspectivas em ciência política sobre a relação Estado-sociedade, mas esclarece que o foco não é apresentar o neoinstitucionalismo histórico como arcabouço unitário — ele não é assim concebido — e sim apropriar-se de seu "ferramental analítico baseado em afirmações provisórias a serem testadas e alteradas com base nos resultados de estudos históricos" (p. 53).
+
+O **fio condutor** do argumento é compreender os atores e as instituições políticas (*polity*) como essenciais para a compreensão do processo político (*politics*) e para o desenho das políticas públicas (*policies*). A análise é **tridimensional**: a dimensão institucional estrutura o processo, o processo político molda e é moldado pelas políticas concretas, em relação de mútua constituição. A participação de indivíduos, grupos e Estado é moldada pelo arcabouço institucional, e as preferências tornam-se, nesse enquadramento, **endógenas** ao contexto social e político.
+
+> **Nota :** A autora esclarece a distinção entre as três dimensões: *polity* (ordem do sistema político, estrutura jurídico-institucional — Constituição, federalismo, sistema eleitoral), *politics* (processo político dinâmico, marcado por conflito quanto a objetivos e decisões) e *policy* (conteúdos concretos: programas políticos, decisões materiais). Baseada em Frey (2000), ressalta que a literatura avançou ao estabelecer relação "simbiótica e de mútua influência" entre essas categorias, e não de separação estanque.
+
+### Metodologia e estrutura do artigo [§5–§6]
+
+O procedimento metodológico adotado foi a **pesquisa documental**. As fontes primárias incluem programas de governo, legislação educacional, relatórios, estudos publicados, pareceres, manifestações públicas, matérias de mídia e conteúdo de seminários. A autora remete para Carvalho (2011) as referências mais detalhadas da "fala" dos atores, sinalizando que o artigo é uma condensação de sua tese de doutorado.
+
+O artigo se estrutura em três seções além de introdução e conclusão: (1) arcabouço teórico do neoinstitucionalismo histórico; (2) arena decisória, atores relevantes e agenda governamental; (3) comparação da formulação e implementação da política de expansão nos governos FHC e Lula. O critério organizador da terceira seção é identificar **elementos de continuidade e/ou ruptura** da política pública.
+
+---
+
+## Neoinstitucionalismo Histórico: Conceitos e Categorias (pp. 54–58)
+
+### Origens e posição no campo [§7–§9]
+
+A corrente neoinstitucionalista histórica tem seus primórdios nos anos 1980, inspirada no trabalho clássico de Polanyi (1980) sobre o surgimento e desaparecimento da sociedade de mercado. Emerge como reação às análises de grupos estrutural-funcionalistas — centradas nos indivíduos e na sociedade — para resgatar o papel do Estado nas políticas públicas. O marco fundacional destacado é a pesquisa de Skocpol (1985), cujo núcleo é colocar o Estado como ator central para a compreensão do fazer político e da mudança social, rompendo com os pressupostos deterministas das correntes pluralistas, estrutural-funcionalistas e neomarxistas.
+
+A autora enfatiza que a corrente não substituiu explicações baseadas em classes ou grupos pelo determinismo estatal. Diferentemente de abordagens que buscam explicações em variáveis isoladas (marxismo: classe; pluralismo: grupo de interesse), os institucionalistas históricos "focalizam suas análises na combinação e na interação entre inúmeras variáveis, a fim de refletir a complexidade das situações políticas reais" (p. 54).
+
+> **Nota:** A autora identifica, com base em Hall e Taylor (2003) e Immergut (1998), três vertentes neoinstitucionalistas desenvolvidas a partir dos anos 1980: escolha racional, sociológica e histórica. A vertente da escolha racional origina-se na teoria da escolha racional e na economia neoclássica, com foco em direitos de propriedade, rendas e custos de transação. A sociológica centra-se na teoria das organizações (Powell e DiMaggio, 1991). A histórica parte do compêndio de Evans, Rueschemeyer e Skocpol (1985), que estabeleceu suas características diferenciais. As três correntes se distinguem por como respondem a duas questões: como construir a relação entre instituição e comportamento? e como explicar o processo pelo qual as instituições surgem ou se modificam? [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/111334221/ac1ac60b-6d49-4ebc-bfaa-55bb95980460/Carvalho-2015-A-politica-publica-de-expansao-para-a-educacao-superior-entre-1995-e-2010-uma-abordagem-neoinstituc.pdf?AWSAccessKeyId=ASIA2F3EMEYE7CKLZUTN&Signature=n54J0bhrlHtM%2FnlXNJnP1y8e9r0%3D&x-amz-security-token=IQoJb3JpZ2luX2VjECQaCXVzLWVhc3QtMSJGMEQCIHvO4%2ByCe82uOHm9S5V8NH4uNi9PLodItHpWZTFmYAELAiBlPYDsznwfsEBJj6BIwrnQ5BeSh7etyCaT1mkUHWCr9Sr8BAjt%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAEaDDY5OTc1MzMwOTcwNSIMII%2BTttcsHsZnZnzJKtAE7hfN5%2FznpOZC9YmOfL1TSRyGBjnfIoAaXs56Z5g1IphcHPQMcK1qukQUVFOuJpzz5piq6tdkIvHZYBKUIcv5D7eTZ061s2mncXbzoHMVRxSqOz2cN8b7JNUrWxv9wMchiSvo0FXack7p5lWhBUWW66i3ywHPlAs2stK2bgvy4oFoctmB7wMqVH5ISHDZA5VM8ZnDuhxZGQB2JbD90i6R%2BzjkLZ%2FucMc8CbBKtHF7x%2BlHHK92Y34nsFC8iAAUvuZbsZvgV9YhL6ka%2FIKP4uCJq950tnQFZqW04woWASRJQgtcXekbrGaTn915fqurDlg%2BLtICZBKRphqRwBwwll8bBV7dDMRmZw3MAGFDVDLqk1BH9SoRcYJYECSU%2Fck3uxZ4tjPZWVQ5vvVcEDfyl7Mg56Z70oDjk4MKDes6KrXr4vbiOPi5LTMsK0nNT9fYd3cNtgmQaCkM4aF5KvnzrECigZ6kUwp4QQZB8U8pI4FCusnJ54eMNr4rjPDFAuDkf0wyRoOoFvzZlPPpYqujUxNlstdsSXK4akmp8MLTnTOBzsWmSEaPp8UiAHivNVoyUzh1gO%2FkZskCrFCiCo2Dycgz%2FhkNh6h%2FCmWUl%2FO3iN8Z5aCIgsTGUfJQkilXYFT4GJY%2FGnD63eKk5m6Gn%2BGNYVOgDHw0GaSbU1%2Bw7ilepVxzYO2wrBd8QFFYA%2BaKcAfbQYvsEzTCNRK3e%2B2K6icrmUChyQk38WRKWKV4Y6N7UHk%2FBwYRXRLzgtYi%2FMe9dg63ZlubhTUL1hMe3S2BwhZHyWDuAzD5ov7PBjqZAXcxS%2BzMT5JsZHjurFM0p3TAupPrdZJfmxHh3RvzedUtwsmjp8EIFMmNb7mWXADuYInOeIla%2F5Wov4Lu8dpR2HkfxHii30vmj32PT2NhPm8ua7bdQP9vWhzflxX09kHccrmF0HRuhKX5UzsDtJ3E5GPcJbQdDVP2K44KZ%2BlOA%2BHGFWpMJfDJHcolJLSy4yqliC9irh2pRYruPQ%3D%3D&Expires=1778359541)
+
+### O conceito de instituição e o papel do Estado [§10–§12]
+
+O conceito de **instituição** no neoinstitucionalismo histórico é deliberadamente fluido: abrange tanto organizações formais quanto regras informais e procedimentos que estruturam a conduta. Thelen e Steinmo (1992) são convocados para caracterizar essa associação entre instituições, organizações e regras ou convenções editadas pelas organizações formais.
+
+As instituições desempenham **duplo papel**: (a) constrangem as interações sociais e (b) alteram as preferências dos atores. As preferências tornam-se **endógenas** — resultantes do contexto social e político — e não exógenas às instituições, como pressupõe a escolha racional. A capacidade do Estado de fazer valer seus interesses é analisada por meio do conceito de **"insulamento"** (Skocpol, 1985): a capacidade dos funcionários estatais ou do aparato burocrático de formular e realizar políticas públicas de maneira relativamente autônoma diante das pressões dos atores sociais. O grau de insulamento é condicionado pela estrutura organizacional da máquina pública, pela estabilidade das agências estatais, pelo controle do Legislativo sobre o Executivo e pela estrutura de relações de poder entre agências.
+
+::: {.callout-note icon=false}
+**Tese central da moldura teórica:** O Estado é uma instituição/ator fundamental cujas relações com a sociedade civil não são de mão única (dominante/dominada), mas de influência mútua mediada por configurações institucionais específicas. A autonomia estatal não é estrutural, mas historicamente contingente, variando por agência, conjuntura e formação do Estado.
+:::
+
+### Feedback de políticas e path dependence [§13–§15]
+
+A autora desenvolve o argumento de que, quando políticas públicas são instituídas, elas **reestruturam os processos políticos**. Essa ideia — sintetizada na fórmula de Skocpol (1994): "como a política cria políticas, as políticas também remodelam a política" — opera por dois caminhos:
+
+Primeiro, os funcionários públicos que executam novas políticas ampliam as capacidades administrativas do Estado, alterando as possibilidades para implementações futuras. Segundo, novas políticas abalam as identidades sociais, os objetivos e as capacidades dos grupos, estimulando alianças em defesa da continuidade ou expansão das políticas bem-sucedidas.
+
+A permanência institucional está, assim, associada ao conceito de **path dependence**: as instituições são um dos principais fatores que mantêm um desenvolvimento histórico sobre um conjunto de trajetos, tornando o abandono de políticas consolidadas custoso em termos eleitorais e organizacionais. Hall e Taylor (2003) são citados para reunir trabalhos que, de "capacidades de Estado" e "políticas herdadas" como estruturantes das decisões posteriores, evoluíram para enfatizar que as políticas já adotadas condicionam as posteriores por encorajarem forças sociais a se organizarem segundo certas orientações e adotarem identidades particulares.
+
+### Conflito, escolha e mudança institucional [§16–§18]
+
+A flexibilidade analítica da vertente histórica reside, segundo a autora, na incorporação de dois elementos ao lado da inércia: o **conflito** e a **escolha**. As instituições são produto do conflito e das escolhas, mas ao mesmo tempo as modelam e restringem. O comportamento político, ainda que variável independente, é influenciado por instituições e políticas anteriores em situações de mudança conjuntural (Menicucci, 2005).
+
+Os momentos de mudança e de escolha institucional são particularmente reveladores porque os "conflitos a respeito das instituições expõem as relações de interesses e poder, e seus resultados não somente refletem, mas ampliam e reforçam os interesses dos vencedores" (Thelen; Steinmo, 1992, p. 27, tradução da autora). A transformação institucional importa não apenas por moldar ideias e preferências, mas por alterar os constrangimentos a que os atores estão sujeitos em suas escolhas estratégicas.
+
+A autora acrescenta, como fator explicativo da mudança institucional, o **aprendizado social** e os processos de transferência, imitação e difusão de políticas (*mimicking*): formuladores observam melhores práticas externas e adotam modelos usados no exterior, processo frequentemente mediado por instituições multilaterais como o Banco Mundial e a UNESCO na definição das agendas de reforma de países em desenvolvimento.
+
+---
+
+## Educação Superior: Arena Decisória, Principais Atores e a Formação da Agenda (pp. 58–61)
+
+### A arena decisória e sua classificação [§19–§22]
+
+Para compreender a política pública de educação superior, a autora delimita o que denomina **"arena decisória virtual"** da educação superior — uma arena central por permitir o acesso e a participação de amplo espectro de atores, da formulação à implementação da política educacional. Seguindo a tipologia de Lowi (1995), a arena de expansão da educação superior é classificada como **redistributiva**: a estrutura política apresenta-se "altamente estabilizada e virtualmente institucionalizada", com pelo menos dois lados portadores de interesses compartilhados, estáveis, claros e consistentes baseados em ideologias — os defensores do segmento público e os do segmento privado. A negociação é possível apenas para fortalecer ou enfraquecer o impacto da redistribuição.
+
+O **Congresso Nacional**, em especial a Comissão de Educação e Cultura da Câmara dos Deputados, é identificado como o *locus* preferencial de concretude dessa arena, onde o processo político se materializa como campo de interação, debate e confronto. Os atores são definidos como "todos aqueles dotados de capacidade de articular interesses, formalizar reivindicações e convertê-las em iniciativas, prescrever soluções, promover sua solução ou impedir que as decisões sejam implementadas" (Martins *apud* Tápia, 1993, p. 20). A autora sublinha que nenhum ator, de forma isolada, impõe sua alternativa preferencial — os recursos são escassos e desigualmente distribuídos, exigindo construção de coalizões.
+
+### Mapeamento dos atores [§23]
+
+Para fins da pesquisa, foram selecionadas apenas organizações formais que participaram ou interferiram de forma efetiva na política educacional. O quadro de atores inclui:
+
+| Segmento | Organizações |
+|:---------|:-------------|
+| Governamental | Burocracia do MEC |
+| Privado | ABMES, ABRUC |
+| Federal (público) | ANDIFES, ANDES-SN, UNE |
+| Híbrido | CRUB |
+| Multilateral | Banco Mundial (BIRD), UNESCO |
+
+> **Nota :** A autora remete para Carvalho (2011) informações detalhadas sobre os atores sociais listados.
+
+### Programas de governo como proxy da agenda [§24–§28]
+
+A **composição da agenda governamental** (*agenda setting*) é identificada como momento central do ciclo político (*policy cycle*). Seguindo Theodoulou (1995), uma questão entra na agenda quando serve para resolução de um conflito ou crise, é defendida por grupo de interesse visível ou conta com apoio burocrático. Os programas de governo dos candidatos vitoriosos em 1994, 1998 e 2002 são usados como *proxy* da agenda governamental para educação superior.
+
+O programa de FHC de **1994** ("Mãos à obra") propunha, para o segmento privado: reformulação do sistema de autorização de cursos (considerado restritivo), fixação de critérios para distribuição de recursos às IES comunitárias e reestruturação do crédito educativo. Para o segmento federal: revolução administrativa via autonomia universitária, racionalização de recursos (aproveitamento de capacidade ociosa, generalização de cursos noturnos, aumento de matrículas sem despesas adicionais), com expansão via parcerias federativas.
+
+Em **1998** ("Avança Brasil"), com Paulo Renato Souza permanecendo no MEC, o diagnóstico aprofundou-se em relação à pequena proporção de jovens matriculados e à rigidez dos modelos institucionais. O programa passou de objetivos gerais a metas quantitativas: ampliação de 30% das matrículas no sistema, via diversificação (cursos sequenciais, tecnológicos, EaD) e flexibilidade curricular; reorganização do crédito educativo para atender 15% da clientela das IES privadas; incremento de 40% nas matrículas federais; autonomia universitária administrativa e financeira para as IFES.
+
+O programa de **Lula em 2002** se divide em dois documentos. "Um Brasil para todos" critica duramente o governo FHC pela insuficiência de investimento público, pelo processo de privatização exacerbada e pelo abandono das IFES. Identifica as dificuldades das camadas pobres de acessar e permanecer na educação superior, os altos índices de inadimplência e evasão nas privadas, e propõe ampliação de vagas públicas e reformulação do crédito educativo. "Uma escola do tamanho do Brasil" (PT, 2002) aprofunda o diagnóstico em seções exclusivas sobre educação superior: reconhece a educação superior não apenas como funcionalidade econômica, mas como **direito social básico**, com ênfase nas barreiras de acesso para populações de baixa renda.
+
+::: {.callout-important}
+A autora sublinha uma **mudança na estratégia discursiva** entre os dois governos: enquanto FHC atribuía a crise às universidades federais e defendia a livre iniciativa — em consonância com as recomendações do BIRD, que concebia a educação superior como serviço comercializado —, o programa Lula criticou explicitamente a privatização e o desamparado das IFES pela gestão precedente, qualificando o investimento estatal substancial como sendo erroneamente considerado "desperdício de dinheiro público" pelo governo anterior.
+:::
+
+---
+
+## A Política Pública para a Expansão da Educação Superior no Brasil entre 1995 e 2010 (pp. 61–70)
+
+### Tradução legislativa da agenda FHC e estrutura analítica do Governo Lula [§29–§30]
+
+A agenda FHC foi traduzida progressivamente na **LDB** (Lei n. 9.394/1996) e no **PNE** (Lei n. 10.172/2001), além de normas avulsas, com coerência entre intenções programáticas e formulação/implementação ao longo dos oito anos. No Governo Lula, a reforma abrangente da educação superior não saiu do papel, mas houve profusão de leis, decretos e portarias, com destaque para o **ProUni** (Lei n. 11.096/2005) e o **REUNI** (Decreto n. 6.096/2007).
+
+A agenda governamental de expansão pode ser desmembrada em dois eixos analíticos: (a) oferta — com quatro premissas (diversificação de cursos, diferenciação institucional, combate às desigualdades regionais, expansão via cursos noturnos); e (b) demanda — com dois mecanismos (novas formas de acesso ao vestibular e políticas afirmativas).
+
+### Diversificação de cursos e programas [§31–§34]
+
+A **diversificação de cursos** foi o objeto de maior controvérsia entre os atores. De um lado, ABMES, ABRUC, CRUB, Banco Mundial e UNESCO mostraram-se favoráveis, sob o argumento da democratização do acesso via flexibilidade institucional: as IES privadas adaptam-se rapidamente a mudanças na demanda e às novas profissões tecnológicas e administrativas. De outro, ANDES-SN, UNE e ANDIFES foram críticos dos cursos não tradicionais por considerá-los de baixa qualidade, com a exceção da ANDIFES, que defendia a modalidade não presencial para populações sem condições de frequentar cursos presenciais (professores em exercício, trabalhadores em regime de turno, presidiários, pessoas com limitações de locomoção).
+
+No **Governo FHC**, a diversificação tornou-se questão essencial: para aumentar a escolaridade líquida e atender à demanda reprimida, foram criadas três novas modalidades — cursos **sequenciais**, **tecnológicos** e **não presenciais** (EaD). No **Governo Lula**, apesar da posição crítica do programa de governo, as três modalidades apresentaram **aspecto inercial**: a consolidação criou nichos de mercado rentáveis para instituições e gerou clientela ávida pelo diploma de nível superior, tornando o custo de reversão proibitivo do ponto de vista político e de mercado. A continuidade foi mantida, ainda que com tentativas de restrição.
+
+### Diferenciação institucional [§35–§38]
+
+A **diferenciação institucional** dividiu os atores de forma similar. O Banco Mundial e a ABMES defendiam novos fornecedores privados e instituições não universitárias mais inovadoras para ampliar a concorrência. A UNESCO reconhecia o surgimento dessas IES como inevitável e ponderava sobre a importância da regulação para manter qualidade. ABRUC defendia as IES não lucrativas no modelo universitário; ANDES-SN, UNE e ANDIFES rejeitavam o modelo empresarial e as IES não universitárias.
+
+A ação estatal no Governo FHC operou em duas frentes: regulamentou a **figura jurídica da empresa educacional** e criou dois novos modelos organizacionais — os **centros universitários** e os **institutos ou escolas superiores**. No Governo Lula, a política avançou em direção oposta: no primeiro ano de mandato, proibiu a criação de novos centros universitários e impôs aos existentes os mesmos requisitos das universidades. Porém, no final do primeiro mandato, essa norma foi revogada e as prerrogativas de autonomia foram restabelecidas, com apenas dois requisitos brandos: um quinto do corpo docente em tempo integral e ao menos um terço com mestrado ou doutorado. A autora descreve esse movimento como "nova frouxidão regulatória" — entre protestos dos atores do segmento público federal e festejos dos representantes privados.
+
+A política do Governo Lula caminhou simultaneamente em outra direção: priorizar a expansão do **segmento federal** via criação de novas universidades federais e novos *campi* em universidades existentes, com forte caráter de interiorização. O **Programa de Expansão Fase I** teve início em 2003. A política tomou forma mais ampla no segundo mandato, com o **REUNI** (Decreto n. 6.096/2007), no bojo do Plano de Desenvolvimento da Educação (PDE), impulsionado pelo crescimento econômico e pela maior disponibilidade de recursos da União.
+
+O REUNI estabeleceu metas quantitativas para o incremento de vagas: elevação gradual da taxa de conclusão média dos cursos presenciais para **90%** e da relação alunos de graduação por professor para **18**, ao final de cinco anos. Previa redução das taxas de evasão, ocupação de vagas ociosas e aumento de vagas no período noturno, com acréscimo mínimo de **20% nas matrículas** de graduação.
+
+> **Nota :** A taxa de conclusão dos cursos de graduação é calculada pela relação do total de diplomados nos cursos presenciais em determinado ano com o total de vagas de ingresso oferecidas cinco anos antes.
+
+> **Nota :** A meta de dezoito alunos de graduação por professor diz respeito à oferta esperada de vagas nos cursos presenciais em razão das dimensões do corpo docente.
+
+O Governo Lula também reordenou a **educação tecnológica**, criando a Rede Federal de Educação Profissional, Científica e Tecnológica, composta de Institutos Federais de Educação, Ciência e Tecnologia (IFET); Universidade Tecnológica Federal do Paraná (UTFPR); CEFET-RJ; CEFET-MG; e escolas técnicas vinculadas às universidades federais.
+
+Os posicionamentos sobre o REUNI foram polarizados: ABMES opôs-se por considerar os gastos excessivos; UNE e ANDIFES apoiaram, pela redução das desigualdades regionais e incremento de vagas noturnas — e a ANDIFES foi interlocutora central na elaboração do programa, cujos reitores subscreveram o "Manifesto da Universidade Nova" (dezembro de 2006), antecipando a essência do que se tornaria o REUNI. O ANDES-SN opôs-se por considerar que a expansão implicaria precarização docente, aumento das classes por professor, priorização do ensino em detrimento da pesquisa e da extensão, e que a meta de 90% de aprovação sugeria adoção de "aprovação em massa".
+
+### Combate às desigualdades regionais e expansão noturna [§39–§43]
+
+O combate às **desigualdades regionais** tornou-se consenso entre os atores sociais (com exceção dos organismos multilaterais, que não tratam do tema). Apesar de constar dos programas FHC, a expansão regional efetiva do segmento privado foi desordenada e concentrada no eixo Sul-Sudeste, especialmente em São Paulo, visando clientela de maior renda. O Governo Lula materializou esse eixo concretamente: universidades federais abriram novos *campi* no interior dos estados via REUNI, novas universidades federais foram criadas em cidades do interior, e a expansão dos institutos federais contribuiu para a interiorização das oportunidades educacionais.
+
+O incremento de vagas no **ensino noturno** constou da retórica de ambos os governos, mas com diferenças significativas de justificativa e concretude. Para FHC, a justificativa era estritamente econômica: racionalização de recursos e redução de capacidade ociosa. A intenção não se converteu em mudança legislativa ou implementação efetiva. Para Lula, a medida foi concebida como acesso e permanência — mas a meta proporcional não obteve aprovação legislativa. No âmbito do REUNI, o ensino noturno nas IFES tornou-se uma das dimensões do programa, com o objetivo de reduzir evasão, ocupar vagas ociosas e aumentar vagas de ingresso.
+
+### Novas formas de acesso: do vestibular ao ENEM-SISU [§44–§49]
+
+Havia consenso entre os atores sobre a necessidade de superar o sistema de admissão via vestibular, ainda que com críticas e propostas muito diversas. O ANDES-SN e a UNE defendiam a extinção progressiva do vestibular e sua substituição por seleção via escolas públicas. A ABMES vislumbrava na flexibilidade o interesse das mantenedoras em combinar formatos seletivos menos custosos. O BIRD propugnava por "tolerância na entrada com rigor na saída".
+
+A **LDB/1996** manteve o vestibular como válido, mas não como único mecanismo, permitindo às IES criarem processos alternativos. Iniciativas pioneiras como o PEIES (UFSM, 1995) e o PAS (UnB, 1996) se multiplicaram. O **ENEM**, instituído pela Portaria MEC n. 438/1998, passou a ser o modelo alternativo preferido pelo MEC — posição endossada pelo BIRD, que em 1998 propôs ao Brasil a substituição do vestibular por avaliações que levem em conta o conhecimento do ensino médio e uma prova nacional de desempenho. A autora recorda que o ENEM foi originalmente concebido como exame de *saída* do ensino médio, mas se transformou em exame de *ingresso* na educação superior, assemelhando-se ao *Baccalauréat* francês e ao *Abitur* alemão (Cunha, 2003).
+
+A ABMES acolheu bem o ENEM pela ausência de custo para as IES no processo seletivo externo, e se tornou aliada do MEC na promoção da adoção do exame. Os atores estatistas (ANDES-SN, UNE, ANDIFES) criticaram o rebaixamento das exigências de conteúdo e o caráter classificatório como meritocracia insuficiente.
+
+O Governo Lula deu continuidade ao ENEM em virtude do alto custo político de seu abandono e da crítica unânime ao vestibular tradicional. No segundo mandato, o exame foi remodelado para incorporar críticas metodológicas e tornar-se o principal formato unificado de seleção nas IFES. Em 2010 foi criado o **SISU** — sistema informatizado no qual instituições públicas oferecem vagas para candidatos participantes do ENEM —, completando a transição do vestibular para o ENEM como principal mecanismo de acesso público.
+
+No contexto do ProUni (2005), a realização do ENEM tornou-se **obrigatória** para acesso às bolsas, e a nota passou a ser o principal critério de seleção de bolsistas, conferindo ao exame centralidade na política de acesso ao segmento privado.
+
+### Políticas afirmativas [§50–§57]
+
+As **políticas afirmativas** constituem o caso mais nítido de gap entre agenda e implementação. Todos os atores eram formalmente favoráveis, incluindo os organismos multilaterais — embora o BIRD alertasse para a ausência de comprovação empírica do impacto e para riscos de aumento de custos. No Brasil, o debate concentrou-se em cotas raciais e/ou sociais nas IFES. A UNE apoiava sem restrições; a ANDIFES defendia a combinação com ampliação de vagas noturnas; o CRUB aceitava apenas cotas para egressos do ensino médio público; o ANDES-SN reconhecia a necessidade de inclusão de segmentos discriminados, mas alertava tratar-se de medida focalizada que encobre a ausência de universalismo educacional.
+
+No Governo FHC, as políticas afirmativas não figuraram nos programas de governo nem nos debates da LDB/1996. Apenas no PNE houve preocupação vaga com políticas para populações discriminadas, sob a perspectiva de "compensação de deficiências formativas anteriores" — nivelamento acadêmico como equalizador de chances. No final do segundo mandato, foi editada a Lei n. 10.558/2002, criando o **Programa Diversidade na Universidade**, financiado pelo BID com gerenciamento da UNESCO, voltado a cursinhos pré-vestibulares.
+
+No Governo Lula, o Programa Diversidade foi regulamentado (Decreto n. 4.876/2003) e expandido, com criação da SECAD no MEC e da Coordenação Geral de Diversidade e Inclusão Educacional (CGDIE). O Executivo elaborou PL em regime de urgência para reserva de vagas em IFES para egressos de escolas públicas, negros e indígenas — mas o projeto foi arquivado em 2009 e não se converteu em norma jurídica naquele governo.
+
+Na ausência de regulamentação federal, as IFES adotaram ações diversificadas de forma voluntária. A autora cita as iniciativas pioneiras de 2003 da UERJ e da UnB. O REUNI previa genericamente que as IFES adotassem ações afirmativas, sem definir parâmetros obrigatórios.
+
+::: {.callout-note icon=false}
+O ProUni operacionalizou, nas IES privadas, a dupla lógica afirmativa que as federais não conseguiam regulamentar: adoção do ENEM como processo de seleção e bolsas de estudo vinculadas a critérios de renda familiar *per capita* e a critérios étnico-raciais (autodeclarados negros e indígenas, portadores de deficiência). O público-alvo: egressos do ensino médio público ou bolsistas integrais de escolas privadas.
+:::
+
+A regulamentação federal das cotas só se concretizou com a Lei n. 12.711/2012, já no governo Dilma Rousseff, com três critérios: egressos do ensino médio público, renda familiar *per capita* e proporcionalidade étnico-racial.
+
+---
+
+## Considerações Finais (pp. 70–71)
+
+### Síntese do argumento: continuidade estrutural e ruptura parcial [§58–§61]
+
+A autora retoma a pergunta central e o quadro teórico para articular as conclusões. O neoinstitucionalismo histórico revela que a relação entre Estado e sociedade é mediada por instituições, e que a política pública resulta da combinação de ação estatal com as ações e reações dos demais atores. A tripartição *polity-politics-policy* não apenas organiza a análise, mas demonstra empiricamente que as mudanças no *politics* (alternância de governo) não produzem automaticamente mudanças equivalentes na *policy*.
+
+A agenda de campanha do Governo Lula exibia "completa oposição" à de FHC, mas a concepção inicial foi se remodelando diante de dois constrangimentos: (a) a pressão dos atores sociais no Congresso Nacional, e (b) a existência de políticas estruturadas sob arcabouço institucional sólido, cujo abandono implicava custo demasiado elevado com fortes repercussões eleitorais. Essas forças combinadas explicam o **movimento de continuidade**.
+
+A diversificação de cursos e a diferenciação institucional estimuladas pelo Governo FHC — com aprovação do BIRD, da UNESCO e dos atores privados — foram criticadas mas não revertidas no Governo Lula; as tentativas de restringir os centros universitários foram, ao final, abandonadas. O ENEM consolidou-se como alternativa aos exames vestibulares sem resistência de nenhum governo. As políticas afirmativas, por outro lado, sofreram resistências no Congresso e não se converteram em norma até 2012.
+
+O **traço mais marcante de ruptura** foi a decisão de colocar o segmento federal como protagonista do processo expansivo: Programa de Expansão Fase I e REUNI materializaram o aumento de vagas e de instituições federais, a redução das desigualdades regionais, e a atenção ao ensino noturno — aspectos negligenciados no governo anterior.
+
+::: {.callout-tip}
+A conclusão articula um argumento de **dupla trajetória**: o crescimento absoluto do sistema manteve o predomínio esmagador do segmento privado (continuidade), enquanto os instrumentos existentes foram parcialmente redirecionados em favor do segmento federal (ruptura). As duas dinâmicas coexistem sem se anular, e é exatamente essa coexistência que o neoinstitucionalismo histórico está bem posicionado para capturar — ao contrário de abordagens que preveem ou ruptura ou continuidade como resultado exclusivo de alternância de governo.
+:::
+
+---
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+**Tese central:** A política pública de expansão da educação superior no Brasil entre 1995 e 2010 combinou continuidade estrutural nos eixos herdados do Governo FHC — diversificação de cursos, diferenciação institucional, ENEM como mecanismo de acesso — com ruptura parcial em favor do segmento federal de educação superior, concretizada pelo REUNI e pelo Programa de Expansão Fase I no Governo Lula.
+
+**Natureza do argumento:** Causal-institucionalista, com ênfase descritivo-comparativa. O mecanismo explicativo central é o *path dependence*: políticas bem-sucedidas geram redes de interesses, identidades e capacidades institucionais que tornam sua reversão politicamente custosa, mesmo sob alternância ideológica de governo.
+
+**O que o texto demonstra vs. o que fica como hipótese:** O texto demonstra empiricamente a permanência dos instrumentos de política privada e a consolidação do ENEM via análise documental de legislação e posicionamento de atores. A priorização do segmento federal via REUNI é também bem documentada. O que permanece como hipótese — não testada no artigo — é o mecanismo pelo qual o *path dependence* opera no caso brasileiro: a autora afirma sua existência a partir dos padrões observados, mas não identifica o mecanismo independentemente dos resultados que pretende explicar.
+
+**Contribuição para o debate mais amplo:** O artigo contribui para a literatura de análise de políticas educacionais no Brasil ao demonstrar empiricamente que governos com plataformas opostas podem produzir graus elevados de continuidade substantiva quando operam em sistemas institucionalizados com setor privado dominante. Conecta, ainda, o debate sobre o *legado* dos governos FHC e Lula à agenda do neoinstitucionalismo histórico comparado, embora sem desenvolver explicitamente a comparação internacional que a moldura permitiria.
+:::

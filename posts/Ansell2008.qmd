@@ -1,0 +1,262 @@
+---
+title: "Fichamento: University Challenges: Explaining Institutional Change in Higher Education"
+subtitle: "Ansell, Ben W. (2008) — World Politics, 60(2)"
+author: "Tales Mançano"
+date: "2026-05-09"
+last-updated: "2026-05-09"
+coverage: "Obra completa"
+categories: [Annotated Bibliography, Comparative Politics, Political Economy, Higher Education Policy, Welfare State/Social Policy]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+    execute: false
+---
+
+
+Ansell, B. W. (2008). University challenges: Explaining institutional change in higher education. *World Politics*, *60*(2), 189–230. https://doi.org/10.1353/wp.0.0009
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → Ansell2008
+
+```bibtex
+@article{Ansell2008,
+author  = {Ansell, Ben W.},
+title   = {University Challenges: Explaining Institutional Change in Higher Education},
+year    = {2008},
+journal = {World Politics},
+volume  = {60},
+number  = {2},
+pages   = {189--230},
+doi     = {10.1353/wp.0.0009},
+}
+```
+
+:::
+
+```
+Última atualização: 2026-05-09
+Modelo: Perplexity, powered by Claude Sonnet 4.6
+Prompt Version: v17.2 2026-05-08 | Ficha antes do fichamento
+Gerado em: 2026-05-09T17:49:00-03:00
+Ocasião da Leitura: [Para preenchimento manual do usuário]
+```
+
+---
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v17.2*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | A pergunta central implica duas dimensões distintas (expansão e forma do financiamento), o que pode exigir mecanismos causais diferentes. Uma interpretação alternativa seria que ambas as perguntas decorrem de um único mecanismo de escolha racional partidária, mas isso pressupõe homogeneidade de preferências dentro dos partidos — premissa vulnerável. | Por que alguns estados OCDE expandiram o ensino superior enquanto outros permaneceram em estase? E, entre os que expandiram, por que alguns adotaram o modelo parcialmente privado e outros o modelo público de massa? Pergunta explicitada no texto. |
+| Questões Secundárias | As questões secundárias ampliam o escopo da pergunta principal sem necessariamente compartilhar o mesmo mecanismo causal; a relação entre elas e a pergunta central é assegurada pelo trilemma como dispositivo integrador, mas cada extensão do modelo formal introduz premissas adicionais que precisam de sustentação empírica própria. | (a) Como a estrutura tributária (progressividade) afeta o gasto público no ensino superior? (b) Como o grau de dependência de renda no acesso altera as preferências partidárias? (c) Qual o papel dos veto players no bloqueio da reforma? Todas derivam das extensões ao modelo formal. |
+| Puzzle-Type | O puzzle combina dois elementos: gap descritivo (as tipologias existentes — VoC — não capturam variação relevante no ensino superior) e puzzle explicativo (por que o padrão de partisanismo e gasto reverte o padrão standard). O puzzle explicativo é genuíno e generalizável, embora sua generalização dependa de a regressividade do acesso ser uma característica estrutural e não conjuntural. | Puzzle explicativo composto: as tipologias de VoC agrupam países com perfis educacionais distintos (e.g., Alemanha e Suécia); além disso, a lógica redistributiva padrão (partidos de esquerda = mais gasto público) falha no domínio do ensino superior por sua natureza regressiva. O puzzle é generalizável em princípio, mas condicionado à renda dependência do acesso. |
+| Conclusão / Argumento Central | O argumento central é causal-condicional: o efeito do partisanismo é mediado pelo nível corrente de matrícula. Isso implica que o mesmo partido pode adotar políticas opostas em momentos distintos do tempo — uma afirmação teoricamente robusta, mas empiricamente difícil de falsificar de maneira conclusiva sem dados de painel mais longos. | Governos operam dentro de um trilemma (matrícula, subsidização, custo público). A escolha dentro desse trilemma é determinada pelo partisanismo, mas de forma não monótona: em sistemas de elite, partidos de direita são os principais promotores de expansão e subsidização; em sistemas de massa, essa posição se inverte para os partidos de esquerda. |
+| Métodos | O artigo combina três estratégias: (1) teste de plausibilidade cross-sectional do trilemma; (2) modelo formal microeconômico de preferências; (3) análise de painel (OLS com variável dependente defasada, erros autocorrelados, interação partisanismo × matrícula) e (4) estudos de caso comparativos (Inglaterra, Suécia, Alemanha). O fichamento cobre a obra inteira. A limitação central de identificação é a impossibilidade de distinguir subsidização de qualidade nas séries temporais por falta de dados sobre gasto privado. | Mixed-methods: formal model + OLS pooled panel (22 países OCDE, 1980–1997) + process-tracing comparativo em três casos. Unidade de análise: país-ano no quantitativo; trajetória histórica de política no qualitativo. |
+| Data Generation Process (DGP) | O DGP quantitativo apresenta dois riscos de viés: (a) viés de observação por dependência de dados UNESCO/Banco Mundial, que podem ter problemas de comparabilidade entre países; (b) a variável dependente "gasto relativo em ensino superior" mistura subsidização e qualidade, o que torna a operacionalização imprecisa em relação ao conceito teórico. O DGP qualitativo depende de fontes secundárias historiográficas, o que reduz o controle sobre a seleção de evidências. | Quantitativo: fenômeno real (política de ensino superior) → dados administrativos de matrículas e gastos (UNESCO, Banco Mundial) → operacionalização de partisanismo via índice Cusack-Engelhardt → regressão OLS pooled com interação. Qualitativo: análise de trajetória histórica baseada em fontes secundárias. Potencial viés de seleção: os três casos foram escolhidos por exemplificarem os três tipos ideais, o que é analytically circular. |
+| Achados e Contribuições | O que o design identifica com força: o efeito condicional do partisanismo sobre gasto relativo (H1 e H2) é robusto em múltiplas especificações; o efeito negativo do streaming sobre matrícula é replicável. O que permanece especulativo: o mecanismo micropolítico do trilemma, que é testado apenas indiretamente via proxies. | (a) Sistemas OCDE seguem o trilemma (matrícula, subsidização, custo público); (b) partisanismo afeta gasto e matrícula de forma condicional ao nível de matrícula existente, com reversão em torno de 30–50%; (c) veto players reduzem gasto; (d) progressividade tributária × desigualdade amplia gasto. Contribuição teórica: inversão do modelo Meltzer-Richard no contexto de bens regressivos. |
+| Análise Crítica dos Achados | **Pontos fortes:** (a) o mecanismo de reversão partisan é teoricamente bem fundamentado e estatisticamente robusto em múltiplas especificações; (b) a triangulação com estudos de caso fornece plausibilidade mecânica. **Vulnerabilidades:** (a) a variável dependente de gasto relativo não distingue subsidização de qualidade — falha que o próprio autor reconhece, mas cujas implicações são subestimadas: o modelo prevê efeitos opostos de partisanismo sobre subsidização vs. qualidade em alguns contextos; (b) endogeneidade: matrícula e gasto são determinadas conjuntamente; os instrumentos 2SLS usados como robustez (gasto geral do governo, attainment adulto) são fracos instrumentos para gasto privado; (c) nos estudos de caso, a seleção de casos que ilustram os três tipos ideais introduz viés de confirmação — casos negativos (e.g., França, Austrália) não são sistematicamente analisados; (d) o modelo formal assume que partidos representam perfeitamente as preferências de seus grupos de renda, ignorando autonomia partidária, coalizões e valência eleitoral; (e) a generalização para países fora da OCDE é mencionada de passagem (Brasil, México, Turquia como exemplos de sistemas de elite) mas não testada. | Resposta adequada à pergunta central, com qualificações importantes: o argumento causal é plausível mas parcialmente identificado. |
+| Limitações | **Reconhecidas pelos autores:** impossibilidade de distinguir subsidização de qualidade nas séries temporais por falta de dados de gasto privado; a análise cross-sectional do trilemma é apenas sugestiva, não causal; os 2SLS são apresentados como robustez, não como identificação primária. <br> **Não reconhecidas ou subestimadas:** viés de seleção dos estudos de caso (escolha intencional dos três tipos); o modelo formal ignora autonomia partidária e coalizão; o threshold de reversão (30–50%) é impreciso e varia entre especificações sem discussão de robustez sistemática; ausência de análise de mecanismo sobre por que veto players bloqueiam reforma (apenas correlação). |
+| Perspectiva Teórica | A moldura é coerente com a pergunta: combinação de escolha racional (modelo formal de preferências) com institucionalismo histórico (path dependence implícita nos tipos de sistema). A tensão entre as duas ontologias não é explicitada: o modelo formal pressupõe atores com preferências estáveis, enquanto os casos mostram reversão de preferências ao longo do tempo. | Economia política positiva: teoria de grupos de interesse / constituências; modelo Meltzer-Richard (com inversão); trilemma análogo ao de Iversen-Wren. Institucionalismo implícito nos estudos de caso via análise de veto players e path dependence do tipo de sistema. |
+| Principais Referências | O diálogo é equilibrado entre literatura de welfare state (Iversen-Wren, Boix, Meltzer-Richard) e literatura especializada em ensino superior (Trow, Barr). Há ausência notável de literatura sobre qualidade e estratificação de sistemas de ensino superior (e.g., Shavit et al.) que poderia tensionar a premissa de acesso puramente renda-dependente. | Trow (1973, 2006) — tipologia elite/massa; Boix (1998) — determinantes partidários do gasto educacional; Iversen & Wren (1998) — trilemma da economia de serviços; Meltzer & Richard (1981) — modelo redistributivo; Estévez-Abe, Iversen & Soskice (2001) — VoC e formação de habilidades; Acemoglu (1998) — função de produção CES. |
+| Observações | O artigo é um capítulo isolado / artigo de periódico (World Politics 60:2, 2008). O tipo foi identificado a partir da estrutura interna e das informações bibliográficas da primeira página. Relevância para pesquisa do leitor: o argumento sobre regressividade do ensino superior como determinante das coalizões políticas tem implicações diretas para a análise de cotas e políticas afirmativas no Brasil, onde o sistema é de elite com alta dependência de renda — o que, pelo modelo de Ansell, deveria favorecer coalizões de direita em favor da expansão. A ausência de análise de países de média renda é uma lacuna que a pesquisa do leitor pode endereçar. |
+
+:::
+
+---
+
+## Mapa Argumentativo {.unnumbered}
+
+| Seção | Título | Função argumentativa | Contribuição para a tese central |
+|:------|:-------|:---------------------|:---------------------------------|
+| Introdução | University Challenges | Apresentação do puzzle e da tese | Identifica dois puzzles empíricos (expansão vs. estase; modelo privado vs. público) e apresenta o trilemma como moldura unificadora |
+| Seção 1 | A Trilemma in Higher Education | Fundamento empírico descritivo | Demonstra cross-sectionalmente que matrícula, subsidização e custo público formam três tipos distintos e que a relação entre variáveis só emerge quando todas três são controladas conjuntamente |
+| Seção 2 | The Microfoundations of Higher Education Policy | Fundamento teórico-formal | Desenvolve o modelo formal de preferências individuais, mostrando o padrão ends-against-the-middle e os resultados sobre subsidização, matrícula, progressividade tributária e dependência de renda |
+| Seção 2 (extensões) | Extending the Model | Extensão do argumento | Incorpora qualidade, progressividade fiscal e independência de renda ao modelo, gerando as hipóteses testáveis H1–H5 |
+| Seção 3 | Partisan Preferences | Extensão do argumento | Agrega preferências individuais em preferências partidárias, derivando o efeito condicional de partisanismo sobre o tipo de sistema |
+| Seção 4 | Testing the Partisan Theory | Análise empírica | Testa H1–H5 em painel OCDE 1980–1997; confirma reversão partisan em torno de 30–50% de matrícula, efeito negativo de veto players e progressividade |
+| Seção 5 | Higher Education in England, Sweden, and Germany | Estudo de caso / Comparação | Ilustra os três tipos ideais e os mecanismos causais; testa a lógica de reversão partisan em trajetórias históricas distintas |
+| Conclusão | Conclusion | Síntese e agenda | Sistematiza as implicações teóricas (inversão do modelo redistributivo padrão, bidirecionality da mudança institucional) e agenda futura (Bologna Process, países em desenvolvimento) |
+
+::: {.callout-important}
+## Divergências internas
+
+Nenhuma divergência substantiva identificada — trata-se de artigo de autor único com argumento unificado.
+:::
+
+---
+
+## Introdução (pp. 189–191)
+
+### Puzzle, gaps da literatura e tese central [§1–§4]
+
+O artigo abre com a observação de que o ensino superior sofreu mais reformas institucionais nas últimas décadas do que qualquer outro segmento educacional nos estados industriais avançados. Em 1950, quase todos os países da OCDE possuíam sistemas de ensino superior subsidiados pelo Estado e restritos a uma fração pequena da população. Desde então, muitos transitaram para sistemas de massa com taxas de matrícula frequentemente acima de 50%, enquanto outros permaneceram no modelo elitista original.
+
+Dois puzzles emergem dessa observação. Primeiro: por que alguns estados expandiram o ensino superior enquanto outros permaneceram em estase? Segundo: entre os que expandiram, por que alguns construíram sistemas parcialmente privados enquanto outros optaram pelo modelo público de massa? Ansell argumenta que a ciência política prestou pouca atenção a essas questões. O projeto **Varieties of Capitalism** aborda diferenças em perfis de habilidades, mas sua análise oculta diferenças relevantes na provisão de habilidades acadêmicas pelas universidades: Alemanha e Suécia são agrupadas como países de habilidades vocacionais, ainda que a taxa de matrícula universitária sueca seja quase o dobro da alemã.
+
+> A análise de determinantes causais da política universitária na ciência política existente limita-se às estruturas de governança entre os estados norte-americanos, sem alcance comparado internacional. O trabalho de Boix sobre determinantes partidários do gasto educacional também é inadequado para o ensino superior, pois sua lógica redistributiva — partidos social-democratas favorecem gasto como redistribuição aos pobres — falha quando o acesso à universidade está viesado para os ricos, de modo que mais gasto pode ter efeito redistributivo inverso.
+
+O artigo desenvolve o argumento de que a política de ensino superior na OCDE é conduzida por **escolhas partidárias dentro de um trilemma** entre nível de matrícula, grau de subsidização e custo público total. Governos podem atingir no máximo dois dos três objetivos simultaneamente: (a) matrícula de massa, (b) subsidização plena e (c) custo público relativamente baixo. O argumento avança em quatro etapas: demonstração empírica do trilemma, microfundamentos formais das preferências, teste estatístico em painel de 22 países OCDE (1980–1997) e estudo de caso comparativo de Inglaterra, Suécia e Alemanha.
+
+---
+
+## A Trilemma in Higher Education (pp. 191–196)
+
+### Tipologia e trade-offs estruturais [§5–§7]
+
+A seção apresenta a lógica do trilemma e examina seu padrão empírico contemporâneo. Se um governo decide expandir a matrícula, enfrenta uma escolha binária: ou aumenta o custo público total para manter a taxa de subsidização, ou reduz a taxa de subsidização para manter o custo total. Dessa lógica emergem três tipos ideais: o **modelo parcialmente privado** (matrícula de massa + baixa subsidização + custo público baixo), o **modelo público de massa** (matrícula de massa + subsidização plena + custo público alto) e o **modelo de elite** (matrícula restrita + subsidização plena + custo público baixo).
+
+> **Nota 6:** Uma quarta configuração é logicamente possível — sistema barato, de elite e parcialmente privado — mas não existe em nenhum estado industrializado. No entanto, é comum em países de baixa renda. A maioria dos países de renda média, como Brasil, México e Turquia, possui ensino superior altamente subsidizado no padrão do modelo de elite.
+
+Para testar empiricamente o trilemma, Ansell utiliza dados cross-sectionais de 19 países OCDE para 2002 (Education at a Glance 2005), medindo taxa bruta de matrícula, percentual de gasto privado (proxy inversa de subsidização) e custo público como percentual do PIB. A Figura 1 do artigo plota matrícula contra gasto privado, identificando visualmente três grupos: (a) países nórdicos no quadrante sudeste com alta matrícula, alta subsidização e alto custo público; (b) países anglófonos no quadrante nordeste com alta matrícula, alto gasto privado e custo público moderado; (c) países da Europa continental no quadrante sudoeste com baixa matrícula, baixo gasto privado e custo público baixo.
+
+### Testes estatísticos do trilemma [§8–§9]
+
+A Tabela 1 apresenta seis regressões OLS cross-sectionais alternando cada variável do trilemma como dependente. O achado central é que cada variável só se torna preditor substantivo e significativo das demais quando a terceira variável é controlada — padrão consistente com a lógica trilemática. Por exemplo, no Modelo 2, um aumento de 10 pontos percentuais na matrícula está associado a um aumento de 5 pontos percentuais na participação privada do gasto, dado custo público constante; e um aumento de 1% do PIB em gasto público está associado a uma redução de 50 pontos percentuais na participação privada, dado matrícula constante. O próprio autor qualifica esses resultados como "testes de plausibilidade indicativos" em vez de evidência robusta sobre causação, dado que a natureza cross-sectional torna problemática a exogeneidade de qualquer das variáveis.
+
+> **Nota 10:** Como verificação de robustez, Ansell realizou regressões 2SLS do gasto privado sobre custo público e matrícula, usando outros gastos governamentais e *attainment* terciário adulto como instrumentos. Os resultados 2SLS são mais robustos que os OLS, mas o próprio autor reconhece que os instrumentos não são ideais.
+
+---
+
+## The Microfoundations of Higher Education Policy (pp. 196–207)
+
+### Estrutura do modelo formal [§10–§14]
+
+Esta seção desenvolve o modelo formal de preferências individuais sobre política de ensino superior, que fornece os microfundamentos das hipóteses testadas empiricamente. O modelo examina uma sociedade dividida em duas gerações: pais na fase zero pagam impostos para financiar a educação dos filhos na fase um. A firma representativa produz com trabalho não qualificado \(u\) e trabalho qualificado \(s\), augmentado pela qualidade da educação \(A\), seguindo a função CES de Acemoglu: \(Y_t = [A_t s_t^\alpha + u_t^\alpha]^{1/\alpha}\). Em condições de concorrência perfeita, salários não qualificados são \(w_{ut} = u_t^{\alpha-1}\) e salários qualificados são \(w_{st} = A_t s_t^{\alpha-1}\) — salários qualificados crescem com qualidade mas decrescem com oferta de graduados.
+
+O acesso ao ensino superior é assumido como perfeitamente correlacionado com renda: indivíduos recebem educação superior se sua renda supera um limiar \(y^*_t\), determinado pelo nível de matrícula \(s \in [0,1]\). Pais financiam a educação por meio de um imposto linear \(\tau\) sobre renda, sujeito à restrição orçamentária \(\tau \bar{y}_0 = A_1 s_1 p_1\), onde \(p_1 \in [0,1]\) é a taxa de subsidização pública. A função de utilidade familiar é definida sobre dois períodos e combina (a) renda parental líquida de impostos e (b) renda descontada dos filhos, líquida do custo não subsidiado da educação.
+
+### Preferências sobre subsidização e matrícula [§15–§19]
+
+A análise das derivadas parciais da utilidade em relação à subsidização revela um padrão **ends-against-the-middle**: famílias que nunca recebem ensino superior preferem menor subsidização (pagam impostos sem benefício direto); famílias cujos filhos recebem ensino superior pela primeira vez (classe média ascendente) preferem subsidização mais alta, desde que a economia nos custos supere o aumento de impostos; famílias muito ricas, por terem alta renda tributável, podem preferir menor subsidização quando \(y_{i0} > \bar{y}_0 \delta / s_1\) — proporção que cresce com a expansão da matrícula.
+
+A análise das preferências sobre matrícula distingue dois cenários: (a) mover do sistema de elite para o público de massa, mantendo subsidização constante — nesse caso, os pobres pagam mais impostos sem benefício e se opõem; (b) mover para o sistema parcialmente privado, mantendo custo público constante — nesse caso, a redução de subsidização neutraliza o impacto tributário dos pobres, que ficam indiferentes. A Tabela 2 do artigo formaliza os efeitos sobre os três grupos (UU, US, SS) de cada transição. O grupo de renda média (US — pais não qualificados, filhos qualificados) é o único que se beneficia sistematicamente da expansão, independente do modelo. O grupo mais rico (SS — ambas as gerações qualificadas) opõe-se à expansão porque dilui o valor do diploma e reduz salários qualificados.
+
+::: {.callout-note icon=false}
+**Tese-chave do modelo:** Quando o acesso é renda-dependente, a coalizão favorável à expansão é intrinsecamente frágil: os muito pobres são indiferentes ou hostis; os muito ricos se opõem ativamente; apenas a classe média tem interesse direto. Isso inverte o modelo Meltzer-Richard e implica que os partidos de esquerda (base nos pobres) não são os naturais promotores de expansão universitária em sistemas de elite.
+:::
+
+### Extensões do modelo: qualidade, tributação progressiva e independência de renda [§20–§25]
+
+A primeira extensão examina o efeito de alterar a qualidade da educação (gasto por aluno) como saída do trilemma. As derivadas mostram que mudanças de qualidade produzem padrão análogo às mudanças de subsidização — famílias não qualificadas preferem menor qualidade; famílias qualificadas, maior qualidade, salvo as de renda muito alta para quem o imposto supera o benefício.
+
+A segunda extensão substitui o imposto linear por tributação progressiva quadrática \(\tau(y_{i0}) = ay_{i0}^2\), seguindo De Donder e Hindriks. Com tributação progressiva, o custo fiscal de financiar expansão é menor para todos os indivíduos com renda abaixo da média, ampliando a coalizão favorável ao gasto. Adicionalmente, à medida que a desigualdade de renda cresce, mais indivíduos preferem financiar o ensino superior via tributação progressiva, intensificando esse efeito. Isso gera a Hipótese 4: progressividade tributária produz maior gasto em ensino superior, com efeito amplificado pela desigualdade.
+
+A terceira extensão altera a premissa de acesso renda-dependente para acesso renda-independente, onde a matrícula \(s\) representa probabilidade igual de acesso para todos. Nesse cenário, os pobres tornam-se mais favoráveis à subsidização (porque agora podem beneficiar-se diretamente); os ricos tornam-se menos favoráveis à subsidização (perdem a garantia de acesso exclusivo). Isso gera a Hipótese 5: quanto mais renda-independente o acesso, mais cedo os partidos de esquerda favorecem maior subsidização; e há maior apoio geral à expansão da matrícula.
+
+### Preferências partidárias [§26–§30]
+
+Ansell agrega preferências individuais em preferências partidárias assumindo que partidos representam perfeitamente os interesses de suas bases: o partido de esquerda representa o terço mais pobre, o de direita o terço mais rico, ambos competindo pelo terço médio. A análise mostra que quando a matrícula corrente é baixa (\(s_0 < 1/3\)), os qualificados estão no bloco da direita: a direita favorece maior subsidização e gasto por aluno, enquanto a esquerda só apoia expansão se o novo grupo de matriculados for base eleitoral da esquerda. Quando a matrícula já é de massa (\(s_0 > (2-\alpha)/3\)), as preferências se invertem: a esquerda passa a defender maior subsidização e expansão, e a direita busca limitar ambos. As hipóteses testáveis derivadas são:
+
+- **H1:** Em sistemas de elite, partidos de direita preferem maior subsidização, matrícula e qualidade que partidos de esquerda.
+- **H2:** Com expansão da matrícula, o padrão se inverte a partir de um limiar.
+- **H3:** Mais veto players reduzem gasto e matrícula.
+- **H4:** Tributação mais progressiva produz maior gasto, com efeito amplificado pela desigualdade.
+- **H5:** Maior independência de renda no acesso faz com que a esquerda favoreça maior subsidização e qualidade mais cedo.
+
+---
+
+## Testing the Partisan Theory of Higher Education (pp. 208–218)
+
+### Dados, variáveis e estratégia de estimação [§31–§35]
+
+Para testar as hipóteses, Ansell utiliza dados de 22 países OCDE no período 1980–1997, provenientes de dois conjuntos de dados da UNESCO (Education and Literacy; World Education Indicators) e do EdStats do Banco Mundial. O período foi escolhido por cobrir a expansão universitária em muitos estados e permitir análise longitudinal com número médio de observações por país superior a doze.
+
+A variável dependente primária para gasto é o **gasto público em ensino superior como proporção do gasto total em educação** (média de 20,7%, desvio-padrão dentro dos países de 3,5%). Essa medida capta variações em subsidização ou gasto por aluno, mas não permite distingui-los entre si por ausência de dados de série temporal sobre gasto privado. A variável dependente para matrícula é a **taxa bruta de matrícula terciária** (média de 38,8%, mediana 34,3%).
+
+O partisanismo é medido pelo índice de centro de gravidade do gabinete de Cusack e Engelhardt, construído a partir das codings do projeto Manifesto de Budge et al., ponderadas pela composição partidária dos gabinetes de coalizão (escala de −100 a +100). A variável é defasada para capturar a demora na implementação de política. O modelo inclui ainda uma **variável interativa partisanismo × matrícula** para testar os efeitos condicionais. Variáveis de controle adicionais incluem: PIB per capita; proporção da população com menos de 15 anos; gasto público total em educação; veto players (medida de 16 pontos de Huber et al.); dummy de streaming escolar; índice de Gini (LIS); e razão de carga tributária entre trabalho e capital como proxy de regressividade.
+
+### Resultados: determinantes do gasto [§36–§40]
+
+A Tabela 3 apresenta oito especificações do modelo para gasto relativo no ensino superior, estimadas por OLS pooled com variável dependente defasada, tendência temporal linear, erros autocorrelacionados em painel e erros-padrão corrigidos por heteroscedasticidade. O Modelo 1 ("naïve") encontra efeito insignificante do partisanismo sobre gasto, com os principais determinantes sendo demografia e gasto geral em educação. O Modelo 2 ("sofisticado") inclui matrícula e a interação partisanismo × matrícula: os três termos são significativos ao nível de 5%, com o coeficiente interativo negativo, confirmando a reversão partisan. O limiar de reversão estimado neste modelo é de **32% de matrícula bruta**.
+
+O Modelo 3 adiciona veto players, que produzem o efeito negativo esperado sobre gasto — passagem do percentil 10 ao 90 na variável de veto players está associada a redução de 0,7 ponto percentual no gasto relativo. O Modelo 5 mostra que regressividade tributária tem forte efeito negativo sobre gasto (e portanto progressividade tem efeito positivo), significativo ao nível de 10%. O Modelo 6 (especificação completa) confirma que a interação desigualdade × regressividade é significativa e negativa, implicando que sistemas tributários mais progressivos em contextos de alta desigualdade têm gasto mais elevado — confirmando H4. O limiar de reversão nesse modelo sobe para **pouco mais de 40%**.
+
+A Figura 3 do artigo plota o efeito marginal de uma mudança de 50 pontos na direção conservadora sobre gasto relativo, com intervalos de confiança de 95%, para diferentes níveis de matrícula. O resultado visual é inequívoco: a 25% de matrícula, o desvio à direita produz aumento de um desvio-padrão no gasto; a 60%, produz redução de igual magnitude. Os Modelos 7 e 8 testam H5 dividindo a amostra em países de baixa e alta desigualdade: o padrão de switching é mais robusto em países de alta desigualdade, e o limiar é substancialmente mais alto (≈50%) nesses países, implicando que a direita continua favorável ao investimento público por mais tempo quando a desigualdade de renda é maior.
+
+### Resultados: determinantes da matrícula [§41–§45]
+
+A Tabela 4 apresenta seis especificações para a matrícula bruta. O Modelo 1 (todos os países) encontra que partisanismo defasado é negativa e robustamente associado à matrícula — uma mudança de 50 pontos à esquerda está associada a aumento de 1,35 ponto percentual na matrícula, confirmando que partidos de esquerda promovem expansão no agregado. Streaming escolar é associado a matrícula sistematicamente menor.
+
+A divisão da amostra pelo limiar de 35% de matrícula (Modelos 2 e 3) confirma o efeito condicional: abaixo do limiar, o efeito do partisanismo sobre matrícula desaparece — partidos de esquerda não expandem quando os próximos matriculados serão eleitores da direita; acima do limiar, uma mudança de 50 pontos à esquerda está associada a aumento de mais de 2 pontos percentuais na matrícula. O streaming também mostra impacto negativo maior e significativo no subsample acima do limiar.
+
+Os Modelos 4–6 reestimam usando um **modelo de correção de erros** (*error-correction model*, ECM) para lidar com a possível não-estacionariedade da matrícula. Os resultados principais são reproduzidos com similar magnitude e significância, e o efeito condicional do partisanismo vem do componente de nível (defasado) em vez do componente de primeira diferença, sugerindo que mudanças partidárias afetam a matrícula no médio prazo, não no curto prazo.
+
+---
+
+## Higher Education in England, Sweden, and Germany (pp. 218–229)
+
+### Enquadramento da seção [§46–§47]
+
+Esta seção compara as trajetórias históricas de política de ensino superior em três países que em 1945 possuíam sistemas muito similares — todos de elite, públicos, com subsídio pleno e baixa matrícula — mas que divergiram substancialmente nas décadas seguintes. A Inglaterra transitou para o modelo parcialmente privado; a Suécia para o modelo público de massa; a Alemanha permaneceu em estase. A seleção dos casos é explicitamente funcional: os três casos exemplificam os três tipos ideais do trilemma, permitindo examinar os mecanismos causais sob diferentes configurações de partisanismo e instituições.
+
+### Inglaterra: do sistema de elite ao modelo parcialmente privado [§48–§56]
+
+Em 1950, o ensino superior inglês atendia menos de 3% das crianças — essencialmente um rito de passagem para a elite. A relativa afluência dos anos 1950 aumentou a demanda: em 1956, 80% dos candidatos obtinham vagas; em 1964, apenas 60%. Como o nível corrente de matrícula era baixo, os beneficiários imediatos de qualquer expansão limitada seriam a base eleitoral do Partido Conservador. Coerentemente, o governo conservador comprometeu-se com expansão e encomendou o **Relatório Robbins** (1963), que recomendou integração dos sistemas universitários e tecnológicos e expansão até 15% da população. Os conservadores aceitaram o relatório em 24 horas.
+
+O Partido Trabalhista, eleito em 1964, deparou-se com as mesmas recomendações e as rejeitou parcialmente. O secretário de educação Anthony Crosland abandonou o sistema unitário proposto por Robbins e estabeleceu a política binária (separação universidades-tecnológicos). A lógica era transparente: expandir universidades beneficiaria desproporcionalmente os eleitores conservadores dado o alto nível de dependência de renda do acesso. Em compensação, Crosland reformou o ensino secundário com as *comprehensive schools*, visando reduzir a dependência de renda no acesso ao longo do tempo.
+
+::: {.callout-important}
+A divisão no interior dos conservadores ao longo dos anos 1980–1990 espelha a predição do modelo formal: parlamentares de classe média alta apoiavam o modelo público de massa (tendo a educação universitária na margem do interesse de seus filhos), enquanto os mais ricos preferiam o sistema de elite. O Ato Educacional de 1988 de Kenneth Baker propôs dobrar a matrícula para 30% e introduzir anuidades privadas, mas foi abandonado por seu sucessor John MacGregor em 1989, precisamente por essa divisão interna. Com quotas suspensas, a matrícula atingiu 30% em 1993 por força das inscrições, mas sem financiamento proporcional — o gasto por aluno caiu aproximadamente 50%.
+:::
+
+O governo Blair, eleito em 1997, confrontou um dilema específico: a matrícula se aproximava do nível de massa, mas a composição social dos estudantes não mudara — escolas privadas, com 7% dos alunos do secundário, representavam quase 40% dos estudantes das 13 universidades de topo. Aumentar o financiamento público beneficiaria principalmente os eleitores conservadores. A solução trabalhista foi o **Ato Educacional de 1998**, que introduziu anuidades de £1.000 anuais — primeira vez que financiamento privado era exigido no ensino superior inglês — e o Ato de 2004 com *top-up fees* de £3.000, acompanhado de bolsas para famílias pobres e empréstimos com reembolso contingente à renda. A reação das três forças partidárias confirmou o modelo: os trabalhistas defenderam a transição para o sistema parcialmente privado; os conservadores, a retenção do sistema existente com cotas de admissão; os liberal-democratas, abolição das taxas e aumento de financiamento público (modelo público de massa, popular com estudantes mas impopular entre pobres e ricos).
+
+### Suécia: da estase à expansão conservadora e à universalização socialdemocrata [§57–§65]
+
+Em 1945, a Suécia também possuía um sistema de elite, mas com índice de streaming mais baixo e acesso menos renda-dependente que a Inglaterra, em função de menor desigualdade de renda e de políticas de expansão do ensino secundário geral. No período 1945–1965, Social-democratas e conservadores colaboraram num sistema bipartidário de reformas moderadas que expandiu a matrícula para cerca de 15% — um resultado consistente com a predição de que, quando a matrícula é baixa, a direita é a principal promotora de expansão.
+
+O embate tornou-se mais nítido com a lei universitária **U-68** (1969, governo socialdemocrata), que introduziu o *numerus clausus* nacional e reorientou o sistema para satisfazer demandas do mercado de trabalho em vez de ampliar acesso irrestrito. Paralelamente, a lei **H-77** (1977) integrou formalmente todo o ensino superior num sistema unificado e estabeleceu a paridade entre trabalhadores com mais de 25 anos e egressos do ensino médio, gerando enorme expansão da matrícula adulta. Os social-democratas, assim, mantinham a matrícula total limitada mas promoviam participação socioeconomicamente mais ampla dentro desse limite.
+
+A grande virada veio com a **vitória do Partido Moderado de Carl Bildt em 1991**. Já em 1984, os moderados haviam comprometido-se com admissão irrestrita no programa partidário. Em 1992, o governo Bildt publicou o "Memorando sobre Independência das Universidades", que resultou na **Lei do Ensino Superior de 1993**: autonomia universitária em admissões e financiamento por aluno em vez de previsões de demanda nacional. O resultado foi dobrar as novas entradas de 1990 a 2000. Distintamente dos conservadores ingleses, os moderados suecos permitiram que o orçamento total crescesse junto com a matrícula, inaugurando o modelo público de massa. Essa dinâmica foi facilitada pela baixa desigualdade sueca, que tornava a expansão universitária menos renda-dependente e portanto menos internamente divisiva para o partido.
+
+Com o retorno dos social-democratas, a matrícula já superava 50% e o ensino superior tornara-se crescentemente universal. Consequentemente, a esquerda passou a ser a principal defensora de maior financiamento e matrícula — confirmando a predição de reversão. O projeto de lei *Open Higher Education* (2001) visava 50% de participação e estabeleceu comissão de recrutamento para ampliar acesso. Com gastos acima de 1,5% do PIB e mais de 50% de matrícula, os social-democratas tornaram-se os maiores defensores do sistema que a direita havia criado.
+
+### Alemanha: estase persistente e papel dos veto players [§66–§74]
+
+A Alemanha, como Inglaterra e Suécia, partia em 1945 de um sistema de elite. Diferentemente dos outros dois casos, ela permaneceu nesse modelo ao longo de todo o período analisado. Em 1950, a matrícula era de aproximadamente 5%; em 2000, havia alcançado apenas 27% — quase 20 pontos percentuais abaixo de Inglaterra e Suécia.
+
+Durante o governo da grande coalizão (CDU/CSU + SPD, 1966–1969), a expansão foi parcialmente permitida precisamente porque a classe média — principal beneficiária da expansão no modelo formal — não estava dividida entre os partidos. No entanto, após a vitória sozinha do SPD em 1969, as preferências partidárias tornaram-se mais distintas. O SPD introduziu o sistema **BAFöG** de bolsas destinadas a estudantes de baixa renda, financiado em dois terços pelo governo federal, e expandiu empréstimos em 1974. A preocupação do SPD era com o acesso da classe trabalhadora ao ensino superior existente, não com a expansão do sistema como um todo — uma postura consistente com a predição do modelo: partidos de esquerda em sistemas de elite evitam expansão que beneficiaria principalmente a base eleitoral conservadora.
+
+Com o retorno da CDU/CSU/FDP em 1982, o sistema BAFöG foi convertido de bolsas em empréstimos sem juros, e a inflação reduziu os elegíveis de 44,6% (1972) para 12,6% (1998). A matrícula bruta permaneceu estagnada: 18% em 1985, 25% em 1995, 27% em 2000. O Ato de Emenda ao Marco do Ensino Superior de 1998 (um dos últimos atos do governo Kohl) estabeleceu quotas em medicina, odontologia, arquitetura, administração e psicologia — as profissões mais representadas na base eleitoral conservadora.
+
+::: {.callout-note icon=false}
+Três mecanismos explicam a persistência da estase alemã: (a) o sistema de streaming do ensino secundário, mais rígido que em Inglaterra e Suécia, limita estruturalmente o número de qualificados para a universidade; (b) os *Länder* controlam as admissões e resistem a aumentar financiamento ou matrícula, operando como veto players descentralizados; (c) o SPD recusa-se sistematicamente a expandir um sistema onde apenas 12% dos estudantes vêm de famílias trabalhadoras, pois a expansão beneficiaria principalmente os eleitores da CDU/CSU.
+:::
+
+Em 1997, protestos nacionais denunciaram o subfinanciamento do sistema, mas o SPD foi incapaz de romper o *Reformstau* institucional. As tensões sobre o modelo futuro persistiam em 2006: o SPD rejeitou anuidades em 2002; a CDU/CSU flertava retoricamente com taxas mas sabia que sua própria base (classe média universitária) seria prejudicada. O estado de Nordrhein-Westfalen introduziu taxas limitadas em 2006, com forte oposição estudantil. O sistema alemão permanecia em estase: quotas, streaming e o poder dos Länder bloqueavam a transição para qualquer modelo de massa.
+
+---
+
+## Conclusion (pp. 229–230)
+
+### Síntese teórica e implicações [§75–§78]
+
+A conclusão sintetiza as contribuições do argumento em dois planos. No plano substantivo, o ensino superior inverte a lógica redistributiva padrão das teorias de gasto público: por ser disproportionalmente acessado pelos ricos, o gasto público em universidades é tipicamente regressivo, de modo que partidos de direita são frequentemente os principais defensores do gasto universitário — resultado contra-intuitivo que o artigo documenta tanto formal quanto empiricamente.
+
+No plano da mudança institucional, o artigo rejeita a visão binária (mudança/não-mudança) prevalente na literatura. O que importa não é apenas se um país expande seu sistema, mas para qual tipo transita — parcialmente privado ou público de massa. Essa mudança tampouco é inevitável nem unidirecional: sistemas de elite podem persistir por décadas (caso alemão) e as preferências dos partidos sobre o tipo de sistema podem se inverter ao longo da trajetória de expansão (caso sueco).
+
+Três implicações de política são identificadas. Primeiro, demandas sociais por si só podem não ser suficientes para produzir expansão, como demonstra a Alemanha, contrariando a narrativa unilinear dos educadores. Segundo, as preferências partidárias continuarão fluidas à medida que a matrícula atinge níveis de massa, com esquerda e direita trocando posições — o Processo de Bolonha de padronização europeia pode criar alianças políticas inesperadas ao alterar simultaneamente o contexto institucional em múltiplos países. Terceiro, e mais importante, maior gasto em educação não é necessariamente uma solução para a desigualdade econômica produzida pela globalização. Se o ensino superior for renda-dependente, maior gasto pode solidificar diferenças econômicas existentes — agravando, não aliviando, a desigualdade nos estados da OCDE.
+
+---
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+**Tese central:** Em estados industriais avançados, os sistemas de ensino superior operam dentro de um trilemma entre matrícula, subsidização e custo público, e o movimento dentro desse trilemma é determinado por partisanismo de forma condicional ao nível existente de matrícula: em sistemas de elite, partidos de direita são os promotores da expansão e do gasto público; em sistemas de massa, essa função se inverte para os partidos de esquerda.
+
+**Natureza do argumento:** Causal-condicional, com fundamento em modelo formal de escolha racional e teste empírico em painel de países OCDE, triangulado por estudos de caso comparativos.
+
+**O que o texto demonstra vs. o que fica como hipótese:** O argumento demonstra com robustez o efeito condicional do partisanismo sobre gasto relativo e matrícula em múltiplas especificações. Permanece como hipótese ou agenda: (a) a generalização para países de renda média (Brasil, México, Turquia são mencionados mas não analisados); (b) a distinção empírica entre subsidização e qualidade dentro do trilemma, impossível com os dados disponíveis; (c) os mecanismos pelos quais veto players bloqueiam reforma além da correlação estatística.
+
+**Contribuição para o debate mais amplo:** O artigo contribui em três frentes. Para a literatura de welfare state, subverte a lógica Meltzer-Richard mostrando que bens públicos regressivos produzem coalizões inversas. Para a literatura institucionalista, demonstra que mudança institucional não é binária — o tipo de mudança é tão importante quanto a ocorrência de mudança. Para a literatura de políticas educacionais, introduz a dimensão política e de coalizão num campo dominado por explicações funcionalistas. A limitação mais importante para a agenda futura é a ausência de análise de países de renda média, onde a regressividade do ensino superior é tipicamente mais acentuada, e onde o argumento de Ansell teria implicações diretas para a avaliação de políticas de cotas e acesso.
+:::
