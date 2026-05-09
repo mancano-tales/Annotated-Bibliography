@@ -7,7 +7,7 @@
 
 # ── 1. Arquivo-alvo ──────────────────────────────────────────────────────────
 
-nome_do_qmd <- ""   # ex: "Fernandes2005"
+nome_do_qmd <- "Tarlau2019"   # ex: "Fernandes2005"
 
 path <- paste0(
   "C:/Users/Mancano/Documents/MancanoSync/Annotated-Bibliography/posts/",
@@ -15,11 +15,42 @@ path <- paste0(
   ".qmd"
 )
 
+for (.pass in 1:2) {
+cat("\n── Passagem", .pass, "de 2 ──────────────────────────────────────────────\n")
+
 # ── 2. Leitura ───────────────────────────────────────────────────────────────
 
 lines <- readLines(path, encoding = "UTF-8")
 
-# ── 3. Flags de contexto ─────────────────────────────────────────────────────
+# ── 3. Substituição de *** por --- ───────────────────────────────────────────
+
+# Feita ANTES de qualquer corte, pois o LLM pode ter usado "***" como delimitador
+# do próprio YAML frontmatter — e precisamos reconhecê-lo como "---" nos passos seguintes.
+stars_idx <- which(lines == "***")
+lines[stars_idx] <- "---"
+cat("Separadores *** substituídos por ---:", length(stars_idx), "\n")
+
+# ── 4. Remoção de conteúdo fora dos limites esperados ───────────────────────
+
+# Remove tudo que vem ANTES do primeiro "---" (lixo gerado pelo LLM antes do YAML)
+first_dash <- which(lines == "---")[1]
+if (!is.na(first_dash) && first_dash > 1L) {
+  cat("Linhas removidas antes do primeiro ---:", first_dash - 1L, "\n")
+  lines <- lines[first_dash:length(lines)]
+} else {
+  cat("Linhas removidas antes do primeiro ---: 0\n")
+}
+
+# Remove tudo que vem DEPOIS do último "::::" (lixo gerado pelo LLM após o conteúdo)
+last_colons <- tail(which(lines == "::::"), 1)
+if (length(last_colons) == 1 && last_colons < length(lines)) {
+  cat("Linhas removidas após o último :::::", length(lines) - last_colons, "\n")
+  lines <- lines[1:last_colons]
+} else {
+  cat("Linhas removidas após o último :::::: 0\n")
+}
+
+# ── 5. Flags de contexto ─────────────────────────────────────────────────────
 
 # Controlam se a linha atual está dentro de uma seção protegida:
 # - YAML frontmatter (entre os dois primeiros "---"): espaços únicos indevidos
@@ -32,7 +63,7 @@ in_code <- FALSE
 # Guarda os índices das linhas que foram modificadas (para o relatório final)
 changed <- integer(0)
 
-# ── 4. Limpeza ───────────────────────────────────────────────────────────────
+# ── 6. Limpeza ───────────────────────────────────────────────────────────────
 
 clean <- vapply(seq_along(lines), function(i) {
   line <- lines[i]
@@ -61,14 +92,7 @@ clean <- vapply(seq_along(lines), function(i) {
   line
 }, character(1))
 
-# ── 5. Substituição de *** por --- ───────────────────────────────────────────
-
-# LLMs às vezes geram "***" como separador horizontal; o correto em Quarto é "---"
-stars_idx <- which(clean == "***")
-clean[stars_idx] <- "---"
-cat("Separadores *** substituídos por ---:", length(stars_idx), "\n")
-
-# ── 6. Correção da indentação do bloco format: ───────────────────────────────
+# ── 7. Correção da indentação do bloco format: ───────────────────────────────
 
 # Garante que o bloco format: no YAML tenha exatamente esta estrutura:
 #   format:
@@ -109,8 +133,10 @@ if (!is.na(yaml_close)) {
 
 cat("Linhas do bloco format: corrigidas:", format_fixed, "\n")
 
-# ── 7. Relatório e salvamento ────────────────────────────────────────────────
+# ── 8. Relatório e salvamento ────────────────────────────────────────────────
 
 cat("Linhas com espaço removido:", length(changed), "\n")
 writeLines(clean, path, useBytes = FALSE)
 cat("Arquivo salvo:", path, "\n")
+
+} # fim do for .pass

@@ -2,7 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/Seawright-Gerring2008.html",
+      "/posts/Carnoy1985.html",
+      "/posts/Tarlau2019.html",
+      "/posts/Veronese2024.html",
       "/posts/Breen-Muller2020Incomplete.html",
       "/posts/Falleti2010.html",
       "/posts/Fernandes2005.html",
@@ -10,6 +12,7 @@
       "/posts/Jackson2021.html",
       "/posts/MontAlvaoNeto2016.html",
       "/posts/Roza2023.html",
+      "/posts/Seawright-Gerring2008.html",
       "/posts/Durham2010.html",
       "/posts/Sguissardi2008.html",
       "/posts/Kenworthy2025Chp1.html",
