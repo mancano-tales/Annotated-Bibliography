@@ -40,7 +40,7 @@ A bibliografia contém atualmente **99 fichamentos — e crescendo** — cobrind
 
 ## Estrutura de Cada Fichamento
 
-Cada fichamento segue um formato padronizado, gerado com auxílio de IA (LLMs) e guiado por um prompt cuidadosamente iterado (ver [`Repo-Prompts/`](Repo-Prompts/)). Cada entrada contém:
+Cada fichamento segue um formato padronizado, gerado com auxílio de IA (LLMs) e guiado por um prompt cuidadosamente iterado (ver [`prompts/`](prompts/)). Cada entrada contém:
 
 1. **Metadados YAML** — título, autor, data, categorias e tags
 2. **Citação completa** (APA 7ª edição) e **entrada BibTeX** (colapsável)
@@ -64,7 +64,7 @@ Cada fichamento segue um formato padronizado, gerado com auxílio de IA (LLMs) e
 Annotated-Bibliography/
 ├── posts/                    # 99 fichamentos (.qmd)
 ├── Old_Website_Posts/        # Posts arquivados de versões anteriores do site
-├── Repo-Prompts/             # Prompts versionados usados para gerar as entradas
+├── prompts/                  # Prompts versionados usados para gerar as entradas
 ├── files/
 │   └── includes/             # Includes HTML (Academicons, Altmetric, Dimensions)
 ├── _extensions/              # Extensões Quarto (Font Awesome etc.)
@@ -103,7 +103,7 @@ Conceitos granulares (ex.: `causal-inference`, `path-dependence`, `affirmative-a
 Os fichamentos são produzidos usando um **fluxo de trabalho estruturado com auxílio de IA**:
 
 1. O pesquisador lê o texto completo (PDF)
-2. O PDF é submetido a um LLM (tipicamente Claude, DeepSeek ou Perplexity) junto com um **template de prompt** detalhado (`Repo-Prompts/`)
+2. O PDF é submetido a um LLM (tipicamente Claude, DeepSeek ou Perplexity) junto com um **template de prompt** detalhado (`prompts/`)
 3. O LLM gera um arquivo `.qmd` estruturado seguindo o formato padronizado
 4. O pesquisador revisa, corrige e enriquece o output
 

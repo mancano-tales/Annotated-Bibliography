@@ -40,7 +40,7 @@ The bibliography currently contains **99 annotated entries — and counting** �
 
 ## Structure of Each Entry
 
-Every annotated bibliography post follows a standardized format generated with the aid of AI (LLMs), guided by a carefully iterated prompt (see [`Repo-Prompts/`](Repo-Prompts/)). Each entry contains:
+Every annotated bibliography post follows a standardized format generated with the aid of AI (LLMs), guided by a carefully iterated prompt (see [`prompts/`](prompts/)). Each entry contains:
 
 1. **YAML metadata** — title, author, date, categories, and tags
 2. **Full citation** (APA 7th edition) and **BibTeX entry** (collapsible)
@@ -64,7 +64,7 @@ Every annotated bibliography post follows a standardized format generated with t
 Annotated-Bibliography/
 ├── posts/                    # 99 annotated bibliography entries (.qmd)
 ├── Old_Website_Posts/        # Archived/legacy posts from earlier site versions
-├── Repo-Prompts/             # Versioned AI prompts used to generate entries
+├── prompts/                  # Versioned AI prompts (spreadsheets, podcasts, qmd-blog-posts)
 ├── files/
 │   └── includes/             # HTML includes (Academicons, Altmetric, Dimensions badges)
 ├── _extensions/              # Quarto extensions (Font Awesome, etc.)

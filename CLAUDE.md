@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this repository is
 
-A Quarto website hosting Tales Mançano's annotated bibliography (*fichamentos*) — structured, paragraph-by-paragraph academic reading notes in political science, political economy, and historical sociology. Posts are generated with AI assistance using versioned prompts in `Repo-Prompts/`, reviewed, and stored as `.qmd` files in `posts/`.
+A Quarto website hosting Tales Mançano's annotated bibliography (*fichamentos*) — structured, paragraph-by-paragraph academic reading notes in political science, political economy, and historical sociology. Posts are generated with AI assistance using versioned prompts in `prompts/`, reviewed, and stored as `.qmd` files in `posts/`.
 
 ## Commands
 
@@ -35,7 +35,7 @@ Rscript fix_categories.R   # writes category_audit.csv
 _quarto.yml          # project config: output-dir=docs, bibliography, theme, navbar
 index.qmd            # homepage listing (reads from posts/)
 posts/               # one .qmd per annotated entry (~100+ files)
-Repo-Prompts/        # versioned LLM prompts (v2 through v17+)
+prompts/             # versioned LLM prompts (spreadsheets/, podcasts/, qmd-blog-posts/)
 references.bib       # master BibTeX file (~2.2 MB, managed via Zotero)
 CATEGORIES.md        # canonical category taxonomy — single source of truth
 fix_spaces.R         # cleans LLM formatting artefacts (stray leading spaces, *** → ---)

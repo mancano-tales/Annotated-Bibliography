@@ -24,7 +24,7 @@ website:
 
     right:
       - icon: github
-        href: https://github.com/mancano-tales/Mancano-Annotated-Bibliography
+        href: https://github.com/mancano-tales/Annotated-Bibliography
         target: _blank
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app
@@ -36,7 +36,7 @@ website:
     left: "[Tales Mançano](https://mancano-tales.github.io) &copy; <script>document.write(new Date().getFullYear())</script>"
     right:
       - icon: github
-        href: https://github.com/mancano-tales/Mancano-Annotated-Bibliography
+        href: https://github.com/mancano-tales/Annotated-Bibliography
         target: _blank
 
   search:
