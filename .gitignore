@@ -1,19 +1,11 @@
-<<<<<<< Updated upstream
 # Quarto
 .quarto/
+/.quarto/
+**/*.quarto_ipynb
 
 # R
 .Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
-=======
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
 .positai
->>>>>>> Stashed changes
-
-/.quarto/
-**/*.quarto_ipynb
