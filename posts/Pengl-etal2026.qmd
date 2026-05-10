@@ -1,0 +1,287 @@
+---
+title: "Fichamento: The Train Wrecks of Modernization: Railway Construction and Separatist Mobilization in Europe"
+subtitle: "Pengl, Müller-Crepon, Valli, Cederman e Girardin (2026) — American Political Science Review"
+author: "Tales Mançano"
+date: "2026-05-09"
+last-updated: "2026-05-09"
+coverage: "Obra completa"
+categories: [Annotated Bibliography, Comparative Politics, Political Economy, Nationalism and Ethnicity, State Building, Western Europe]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+    execute: false
+---
+
+**Citação APA 7:**
+
+Pengl, Y. I., Müller-Crepon, C., Valli, R., Cederman, L.-E., & Girardin, L. (2026). The train wrecks of modernization: Railway construction and separatist mobilization in Europe. *American Political Science Review*, *120*(1), 37–54. https://doi.org/10.1017/S0003055425000048
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → Pengl-etal2026
+
+```bibtex
+@article{Pengl-etal2026,
+author  = {Pengl, Yannick I. and Müller-Crepon, Carl and Valli, Roberto and Cederman, Lars-Erik and Girardin, Luc},
+title   = {The Train Wrecks of Modernization: Railway Construction and Separatist Mobilization in Europe},
+year    = {2026},
+journal = {American Political Science Review},
+volume  = {120},
+number  = {1},
+pages   = {37--54},
+doi     = {10.1017/S0003055425000048},
+}
+```
+
+:::
+
+```
+Última atualização: 2026-05-09
+Modelo: Perplexity, powered by Claude Sonnet 4.6
+Prompt Version: v17.2 2026-05-08 | Ficha antes do fichamento
+Gerado em: 2026-05-09T21:45:00-03:00
+Ocasião da Leitura: [Para preenchimento manual do usuário]
+```
+
+---
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v17.2*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | A pergunta é causal e comparativa. A premissa central é que ferrovias são uma proxy válida de modernização e que seus efeitos sobre o separatismo podem ser identificados via variação espaço-temporal. O ponto mais vulnerável está na unidimensionalidade do tratamento: "acesso ferroviário" colapsa mecanismos opostos (M1, M2, M3) em um indicador único, o que torna a pergunta analiticamente mais rica do que o design principal pode responder. | Como a construção ferroviária — enquanto vetor central da modernização europeia — afetou a mobilização separatista de grupos étnicos periféricos entre 1816 e 1945? Pergunta explicativa-causal, explicitamente formulada. |
+| Questões Secundárias | As condicionais são onde o argumento ganha maior densidade teórica; a análise de mecanismos é secundária ao efeito médio mas central para a interpretação causal. A relação entre as perguntas secundárias e a central é aditiva: a pergunta central estabelece o efeito médio, as condicionais explicam a heterogeneidade, e a de mecanismos explica o *porquê*. | (1) Sob quais condições contextuais (tamanho do grupo dominante, capacidade estatal, renda per capita, regime político, tamanho do grupo minoritário, distância cultural) o acesso ferroviário aumenta ou reduz o separatismo? (2) Quais mecanismos causais — acesso a mercados (M1), alcance do Estado (M2), conectividade interna (M3) — explicam o efeito observado? |
+| Puzzle-Type | O puzzle é genuíno: a literatura clássica (Weber 1976; Deutsch 1953; Gellner 1983) prevê integração, mas a evidência histórica de desintegração na Europa oriental estava disponível. A originalidade está em operacionalizar e testar sistematicamente a tensão. A generalização além da Europa pré-1945 é reconhecida como arriscada pelos próprios autores, o que é honesto mas limita o alcance teórico. | Puzzle explicativo: a teoria modernizacionista dominante prevê que infraestrutura de transporte promove integração nacional, mas a evidência histórica europeia mostra numerosos casos de desintegração etnonacional precisamente nos períodos de expansão ferroviária. O puzzle questiona se Weber (1976) é paradigma ou exceção. É genuíno e generalizável ao nível da hipótese, embora o teste seja restrito à Europa. |
+| Conclusão / Argumento Central | O argumento central é causal e heterogêneo: o efeito médio é positivo (mais separatismo), mas os mecanismos são opostos e contextualmente condicionados. O claim of discovery é sustentado pelo DiD, event study e IV. O que efetivamente sustenta a tese é a convergência de três estratégias de identificação e a análise de mecanismos via medidas de rede. | O acesso ferroviário aumentou, em média, a probabilidade de mobilização separatista em cerca do dobro da média amostral. Este efeito se concentra em contextos de baixa capacidade estatal, baixo desenvolvimento econômico, grupos dominantes pequenos e minorias demograficamente grandes. Mecanicamente, a conectividade interna (M3) aumenta o separatismo; o alcance do Estado (M2) o reduz; o acesso a mercados (M1) não tem efeito independente robusto. Argumento causal heterogêneo. |
+| Métodos | O artigo é quantitativo com dados históricos geoespaciais. O ponto mais vulnerável metodológico é a análise de mecanismos (Tabela 3): sem um design DiD para as medidas contínuas de rede, a identificação causal dos mecanismos individuais é mais fraca do que a do efeito médio. O fichamento cobre o artigo inteiro (pp. 37–54). | Diferença-em-diferenças (TWFE e 2S-DiD), event study e variável instrumental baseada em redes ferroviárias simuladas. Dados geoespaciais de segmentos étnicos, fronteiras históricas, construção ferroviária (1834–1922) e eventos de separatismo (1816–1945). Unidade de análise: segmento étnico-ano. Fichamento cobre a obra completa (artigo de 18 páginas). |
+| Data Generation Process (DGP) | O DGP tem três camadas de construção: (1) mapeamento de assentamentos étnicos a partir de 73 mapas históricos, com padronização via Ethnologue; (2) digitalização de linhas ferroviárias a partir de train.eryx.net; (3) intersecção geoespacial anual. Os principais vieses introduzidos: (a) os mapas étnicos refletem percepções e convenções cartográficas de época; (b) a exclusão das Ilhas Britânicas por lacuna de dados cria truncamento amostral; (c) a definição de grupo dominante como "maior segmento étnico contendo a capital" é operacionalmente simples mas teoricamente discutível. | Fenômeno real (expansão ferroviária e mobilização étnica) → digitalização de 73 mapas históricos e de tiles online do train.eryx.net → intersecção geoespacial com fronteiras históricas (CShapes 2.0) → segmentos étnico-ano → cruzamento com dados de guerras civis (Gleditsch 2004; Sarkees e Wayman 2010), secções bem-sucedidas e claims de independência → regressões TWFE e 2S-DiD. Unidade de análise: segmento étnico-ano (não-dominante). Nível de agregação: subnacional. O DGP introduz viés de observação potencial via qualidade heterogênea dos mapas históricos em regiões periféricas, que são precisamente as mais relevantes para a hipótese. |
+| Achados e Contribuições | Os achados principais são bem suportados pelo design. A distinção entre efeitos de TWFE e 2S-DiD é transparente e esperada (downward bias do TWFE em settings de adoção escalonada). A análise de mecanismos é uma contribuição genuína mas com identificação mais fraca. | (1) Acesso ferroviário aumenta separatismo ~2x a média amostral (efeito imediato, persistente por ~50 anos). (2) Efeito maior em países pobres, de baixa capacidade fiscal, com grupos dominantes pequenos e minorias grandes. (3) Conectividade interna (M3) aumenta risco de separatismo; alcance do Estado (M2) reduz; acesso a mercados (M1) sem efeito independente robusto. Contribuição metodológica: dataset geoespacial original (HEG + ferrovias digitalizadas) e medidas de rede para mecanismos causais. |
+| Análise Crítica dos Achados | Os autores respondem adequadamente à pergunta principal. Os pontos mais vulneráveis são: (a) a análise de mecanismos (Tabela 3) não usa DiD — a identificação causal dos três mecanismos é cross-sectional com FE, logo sujeita a omitted variables time-variant; (b) a variável de outcome combina claims, guerras e secessions em um único indicador binário, o que pode mascarar heterogeneidade de efeito entre fenômenos qualitativamente distintos; (c) o instrumento (redes simuladas) assume que a distribuição populacional de 1830 é exógena ao separatismo futuro, o que é plausível mas não verificável; (d) a exclusão das Ilhas Britânicas e a cobertura de dados ferroviários apenas até 1922 criam truncamento que pode subestimar efeitos de longo prazo na fase madura das redes. A evidência para H2a (distância linguística) é fraca e os autores reconhecem isso, mas a interpretação oferecida — que, condicional à diferença cultural, processos de politização importam mais — é especulativa. | O argumento é mais vulnerável na análise de mecanismos do que no efeito médio. A convergência de DiD, event study e IV para o efeito principal é convincente. A análise de heterogeneidade (Figura 4) usa binning plots de forma cuidadosa (Hainmueller, Mummolo e Xu 2019), o que é boas práticas. Generalizabilidade: os autores são cautelosos, mas a limitação ao período pré-1945 na Europa é uma scope condition fundamental não suficientemente discutida nos termos de mecanismos contemporâneos. |
+| Limitações | **Reconhecidas pelos autores:** Exclusão das Ilhas Britânicas por lacuna de dados; cobertura ferroviária limitada a 1834–1922; impossibilidade de distinguir múltiplos caminhos para integração nacional; restrição geográfica à Europa; cautela explícita contra extrapolação para tecnologias contemporâneas. <br> **Não reconhecidas ou subestimadas:** (1) A análise de mecanismos (Tabela 3) usa modelos TWFE com variáveis contínuas de rede mas sem o mesmo rigor de identificação causal do efeito principal — isso não é explicitado como limitação; (2) a construção do outcome combinado (secession + civil war + claims) agrega fenômenos com diferentes limiares de custo e diferentes dinâmicas causais, o que pode obscurecer heterogeneidade teoricamente relevante; (3) a medida de grupo dominante ("maior segmento contendo a capital") é operacionalmente ad hoc e não discutida como fonte de incerteza de mensuração. |
+| Perspectiva Teórica | A moldura teórica é coerente com o design empírico subnacional e comparativo. A escolha de focar em separatismo como proxy de falha de nation-building é inteligente para fins de mensuração, mas deixa de lado variação nos graus e formas de integração. | Pluralismo teórico moderado dentro do paradigma modernizacionista: dialoga com Deutsch (1953), Gellner (1983), Weber (1976) para integração; Hechter (2000, 1977), Breuilly (1982) para separatismo; Mann (1993) para poder infraestrutural do Estado. A moldura de custos-benefícios da mobilização separatista é implicitamente racionalista, com ênfase em oportunidades estruturais mais do que identidades. Adequada ao tipo de pergunta e ao design quantitativo comparado. Coerência ontológica: grupos étnicos são tratados como unidades relativamente estáveis, definidas linguisticamente, o que é uma simplificação necessária mas que pode subrepresentar a fluidez identitária no período. |
+| Principais Referências | O diálogo com a literatura é extenso e equilibrado, cobrindo economia histórica (Donaldson 2018; Hornung 2015), sociologia histórica do nacionalismo (Weber 1976; Gellner 1983; Deutsch 1953; Hechter 2000), e metodologia de DiD recente (Callaway e Sant'Anna 2021; Goodman-Bacon 2021; Gardner 2022; Liu, Wang e Xu 2024). | Weber (1976), Deutsch (1953), Gellner (1983), Hechter (2000, 1977, 2013), Breuilly (1982), Mann (1993), Wimmer (2018), Cermeño, Enflo e Lindvall (2022), Müller-Crepon, Hunziker e Cederman (2021), Gardner (2022), Goodman-Bacon (2021). Diálogo ausente ou escasso: literatura sobre imperialismo e administração colonial como moldura para os Impérios Habsburgo e Russo; teoria da etnicidade como construção social e dinâmica (vs. mapeamentos fixos). |
+| Observações | O artigo tem forte coerência interna e contribuição genuína, mas a assimetria entre o rigor da identificação do efeito médio e o da análise de mecanismos é a principal lacuna analítica. Para pesquisas sobre desigualdade territorial, construção estatal e mobilização étnica, o paper oferece instrumental metodológico (HEG dataset, medidas de rede) potencialmente replicável em outros contextos históricos. A restrição à Europa histórica é simultaneamente força (comparabilidade institucional relativa) e limitação (escopo). O caso francês como outlier integrador — não como paradigma — é uma das contribuições interpretativas mais interessantes do paper para a teoria comparada do nation-building. | |
+
+:::
+
+---
+
+## Mapa Argumentativo {.unnumbered}
+
+Como se trata de um artigo único (não de livro), esta seção sintetiza a progressão argumentativa interna por grandes blocos:
+
+| Bloco | Título | Função argumentativa | Contribuição para a tese central |
+|:------|:-------|:---------------------|:---------------------------------|
+| Introdução | Railway Construction and Separatist Mobilization in Europe | Apresentação do puzzle e da tese | Estabelece a tensão entre teoria integracionista e evidência histórica de desintegração; define o objeto (separatismo étnico); anuncia os três mecanismos e os achados principais |
+| Bloco 1 | Modernization and Nationalism in the Literature | Revisão de literatura | Mapeia as duas tradições (integração vs. separatismo); identifica três lacunas que o artigo endereça (abrangência comparada, mecanismos, subnacionalidade) |
+| Bloco 2 | Railways and Nationalist Mobilization | Fundamento teórico | Desenvolve os três mecanismos (M1 mercado, M2 alcance estatal, M3 conectividade interna); deriva H1, H2 (a–f) e H3 (a–c) |
+| Bloco 3 | Data and Variables | Operacionalização | Descreve HEG, CShapes 2.0, train.eryx.net e a construção do outcome combinado; justifica a unidade de análise (segmento étnico-ano) |
+| Bloco 4 | Analyses and Results | Análise empírica principal | DiD (TWFE e 2S-DiD): confirma H1 (efeito médio positivo e imediato); event study valida tendências paralelas; IV reforça causalidade |
+| Bloco 5 | Testing Conditional Hypotheses | Análise de heterogeneidade | Marginal effects e binning: confirma H2b, H2c, H2d, H2e; H2a (distância linguística) tem suporte fraco; qualifica o efeito médio com estrutura contextual |
+| Bloco 6 | Exploring Causal Mechanisms | Extensão do argumento | Mecanismos desagregados via medidas de rede: M2 reduz separatismo, M3 aumenta; M1 sem efeito independente — explica *por quê* o efeito médio é positivo |
+| Conclusão | Conclusion | Síntese e agenda | Sintetiza que a experiência francesa é exceção, não paradigma; sinaliza agenda para tecnologias de comunicação contemporâneas; reconhece limites de generalização |
+
+---
+
+## Introdução (pp. 37–38)
+
+### Puzzle, objeto e contribuição [§1–§4]
+
+O artigo abre estabelecendo o contexto de transformação acelerada que marcou a Europa dos séculos XIX e início do XX: economias industrializando-se, mercados em expansão, Estados centralizando-se e ideologias nacionalistas remodelando a vida pública e privada. Nesse cenário, as ferrovias ocupam um papel de destaque como a inovação tecnológica definitória da Primeira Revolução Industrial, conectando regiões antes isoladas, fomentando a industrialização e ampliando a capacidade dos Estados de alcançar e governar populações periféricas. A literatura clássica — Anderson (1983), Deutsch (1953), Gellner (1983) — associa exatamente esses processos à formação de identidades nacionais integradoras.
+
+A contribuição central do artigo é investigar sistematicamente se essa expectativa integracionista se sustenta empiricamente. Os autores anunciam três mecanismos pelos quais as ferrovias podem afetar a competição entre o Estado central e grupos étnicos periféricos: (1) acesso a mercados e comunicação social (M1); (2) alcance e penetração do Estado (M2); (3) conectividade interna e capacidade de mobilização (M3). A premissa de fundo é que esses mecanismos operam em direções opostas e com diferentes temporalidades, de modo que o efeito líquido permanece uma questão empírica aberta.
+
+Os autores identificam três lacunas na literatura existente que seu trabalho endereça. Primeiro, o debate permanece não resolvido quanto a se a modernização reforça o nacionalismo pró-Estado ou o separatismo. Segundo, há pouca orientação teórica ou empírica sobre as condições contextuais que levam à integração ou à desintegração. Terceiro, enquanto as contribuições clássicas carecem de evidência sistemática, os estudos micro recentes validam partes das teorias em países isolados sem oferecer perspectiva comparada — e é precisamente esse vácuo comparativo e subnacional que o artigo propõe preencher.
+
+### Achados principais antecipados [§5]
+
+Já na introdução, os autores adiantam os três resultados centrais: em média, o acesso ferroviário está associado a um aumento de aproximadamente duas vezes na probabilidade de mobilização separatista; efeitos heterogêneos concentram-se em países com baixo desenvolvimento econômico, baixa capacidade estatal, grupos dominantes pequenos e minorias demograficamente grandes; e a análise desagregada de mecanismos mostra que a conectividade interna (M3) facilita a mobilização, enquanto o alcance estatal (M2) a inibe, e o acesso a mercados (M1) tem efeito marginal insignificante.
+
+---
+
+## Modernização e Nacionalismo na Literatura (pp. 38–39)
+
+### Tradição integracionista [§6–§9]
+
+::: {.callout-note icon=false}
+A distinção entre dois campos teóricos — integração nacional *vs.* separatismo reativo — estrutura toda a revisão de literatura e fornece as hipóteses concorrentes que o artigo se propõe a arbitrar empiricamente.
+:::
+
+A revisão da literatura identifica duas grandes correntes no estudo da relação entre modernização e nacionalismo. A corrente integracionista espera homogeneização cultural crescente e identificação com a nação dominante. As abordagens políticas destacam o Estado moderno como agente central: em Hintze (1975), Posen (1993) e Tilly (1994), os Estados concebem e implementam programas de construção nacional em resposta a ameaças internacionais e domésticas. Em complemento, a perspectiva econômica de Gellner (1983) vê a transição de economias agrárias para industriais como força integradora pela via da padronização linguística. Deutsch (1953) enfatiza as redes de comunicação ampliadas pela inovação tecnológica, migração laboral e intercâmbio mercantil como motores industriais do nacionalismo.
+
+Evidências empíricas dessa tradição incluem Weber (1976), que traça a formação da identidade nacional francesa no século XIX atribuindo papel central a industrialização, redes de transporte e políticas estatais. Estudos comparados mais recentes mostram que reformas educacionais estatais tornam-se mais prováveis quando governantes enfrentam ameaças internacionais (Aghion *et al.* 2019) ou domésticas (Alesina, Giuliano e Reich 2021; Paglayan 2022). Os autores assinalam, porém, que a mera adoção de tais políticas não garante seu sucesso — uma ressalva crítica para o desenho do artigo.
+
+### Tradição separatista e lacunas empíricas [§10–§12]
+
+Apesar de seu impulso integracionista, as teorias modernistas também iluminam a desintegração nacional. Breuilly (1982) e Hechter (2000) esperam que a transição do domínio indireto ao direto dispare mobilização reativa, especialmente onde elites periféricas gozavam de autonomia anterior à centralização estatal. Deutsch (1953) nota que onde a mobilização social supera a assimilação, o conflito nacionalista torna-se mais provável. Gellner (1983) prevê que a combinação de diferença cultural preexistente e desenvolvimento desigual aciona o separatismo.
+
+No plano empírico comparado, Wimmer e Feinstein (2010) usaram densidade ferroviária como *proxy* de modernização em amostra global de 145 territórios e encontraram nenhum efeito sobre a transição para Estados-nação. Os autores do presente artigo apontam um problema fundamental nesse design: o viés de retroprojeção (*hindsight bias*) resultante de usar unidades contemporâneas de observação que foram moldadas ao longo das fronteiras étnicas precisamente como resultado das transformações que o estudo quer explicar — citando Cederman, Girardin e Müller-Crepon (2023) e Müller-Crepon, Schvitz e Cederman (2025) como suporte. Em suma, a literatura existente oferece pouca orientação comparada e subnacional, o que motiva o design inovador do presente artigo.
+
+---
+
+## Teoria: Ferrovias e Mobilização Nacionalista (pp. 39–43)
+
+### O contexto pré-industrial e a transição [§13–§16]
+
+::: {.callout-note icon=false}
+**Conceito-chave:** *Segmentos étnicos* são definidos como as intersecções espaciais entre áreas de assentamento étnico e fronteiras estatais — unidade de análise que permite capturar a variação subnacional e superar o viés de retroprojeção de estudos centrados em Estados.
+:::
+
+O quadro teórico parte do diagnóstico de que, antes da industrialização, os governos centrais típicos da Europa governavam grupos não-dominantes de forma indireta, terceirizando tarefas governamentais a intermediários locais. Diferença cultural e formas mediadas de projetar poder significavam que a maioria dos Estados europeus operava mais como impérios do que como Estados nacionais modernos — os autores citam Burbank e Cooper (2010) e a noção historiográfica de "monarquias compostas" (Elliott 1992). A situação mudou quando industrialização, formas diretas de governo e ideologias nacionalistas varreram a Europa no século XIX.
+
+O separatismo emergiu onde elites de grupos não-dominantes conseguiram mobilizar seguidores contra o Estado. Essas elites — velhas ou novas — dispunham de motivações específicas: a independência nacional garantiria acesso exclusivo aos benefícios da governança local, ameaçados pela expansão do Estado central (Hechter 2000); o apelo à unidade cultural em nível local facilitava coalizões entre velhas elites agrárias e classes médias emergentes com interesses econômicos desalinhados (Breuilly 1982); resistir à dominação de uma elite culturalmente estranha permitia mobilizar populações locais de forma mais eficaz (Gellner 1983); e o separatismo ampliava a perspectiva de apoio de grandes potências crescentemente receptivas ao ideal de autodeterminação.
+
+### Os três mecanismos causais [§17–§22]
+
+Os autores elaboram três mecanismos pelos quais a construção ferroviária pode afetar as motivações e oportunidades para mobilização separatista, ilustrados na Figura 1 do artigo:
+
+**M1 — Acesso a Mercados e Comunicação Social.** Ferrovias aumentam os custos da secessão ao tornar a independência econômica menos atraente e ao fornecer incentivos materiais para que populações periféricas se orientem para uma economia nacional crescentemente integrada. Em alguns casos, podem até levar à assimilação cultural em identidades nacionais supralocais — processo descrito por Weber (1976) como precondição tecnológica para "mudança cultural radical" na França nacionalizadora. Maier (2016) chega a usar o termo "nacionalismo ferroviário" para descrever esses efeitos transformadores. No entanto, o mecanismo pode também operar em sentido contrário: onde grupos étnicos distintos competem pelos benefícios escassos da modernização, a integração econômica pode tornar a diferença mais saliente (Bates 1983), e Gellner (1983) descreve como fluxos de informação podem tornar periferias etnicamente distintas agudamente conscientes de seu status subordinado.
+
+**M2 — Alcance e Domínio Direto do Estado.** As ferrovias são parte do que Mann (1993) define como "poder infraestrutural" dos Estados europeus — a capacidade institucional de penetrar territórios e implementar decisões logisticamente. Ferrovias conectando a capital às regiões periféricas reduzem os tempos de deslocamento, ampliam a capacidade de monitoramento de burocratas e de repressão de elites locais, e tornam viáveis políticas de *nation-building* como educação de massa (Cermeño, Enflo e Lindvall 2022) e serviço militar. Ao mesmo tempo, o aumento da penetração estatal e do *nation-building* de cima para baixo pode acionar reações onde são percebidos como exploração — o que Hechter (1977) chama de "colonialismo interno" — alimentando o que Hechter (2000) denomina "nacionalismo reativo".
+
+**M3 — Conectividade Interna e Mobilização Social.** Ferrovias que melhoram a conectividade interna de regiões periféricas — sem necessariamente ampliar o alcance do Estado ou o acesso ao mercado nacional — reduzem os custos de coordenação e ação coletiva de movimentos separatistas. A rápida difusão de informação, ideias e laços sociais entre líderes, ativistas e cidadãos é ingrediente fundamental para mobilização bem-sucedida (Granovetter 1978; Kuran 1992). Evidências empíricas de outros contextos sustentam esse mecanismo: García-Jimeno, Iglesias e Yildirim (2022) mostram como a conectividade ferroviária contribuiu para a difusão de movimentos de oposição nos EUA do século XIX; Brooke e Ketchley (2018) encontram efeito similar no Egito do entreguerras; Melander (2021) na Suécia pré-democrática.
+
+### Hipóteses derivadas [§23–§28]
+
+> A hipótese central do artigo: **Hipótese 1.** A construção ferroviária em regiões não-dominantes aumenta a probabilidade de mobilização separatista, pelo menos no curto prazo.
+
+A lógica por trás da H1 é tripartite. Primeiro, ferrovias construídas *dentro* da área de assentamento de um grupo não-dominante melhoram inequivocamente a conectividade interna (M3), enquanto os mecanismos M1 e M2 dependem também de ferrovias fora dessa área. Segundo, tanto M1 quanto M2 podem fomentar resistência e não apenas integração. Terceiro — e crucialmente — os efeitos integradores da comunicação de mercado e do alcance estatal tendem a se desdobrar lentamente e a se materializar plenamente apenas no longo prazo, enquanto a reação ao backlash ocorre imediatamente. Na França, esse processo de integração levou um século inteiro após a Revolução Francesa (Weber 1976).
+
+As hipóteses condicionais (H2a–f) especificam que o efeito desestabilizador do acesso ferroviário é ampliado por: distância cultural entre grupo não-dominante e grupo estatal (H2a); pequeno peso demográfico do grupo nacional dominante (H2b); grande população do grupo não-dominante (H2c); baixo nível de desenvolvimento econômico do país (H2d); baixa capacidade estatal (H2e); e regime autocrático (H2f). Já as hipóteses de mecanismo (H3a–c) preveem que acesso ao mercado nacional reduz separatismo (H3a), alcance estatal reduz separatismo (H3b), e conectividade interna aumenta separatismo (H3c).
+
+> **Nota :** Weber (1976, pp. 205–7) destaca que, embora o processo geral de assimilação à identidade nacional francesa seja lento, a *primeira* chegada de uma ferrovia a uma localidade era um evento transformador abrupto que empurrava áreas rurais para fora de sua letargia pré-moderna. Em áreas etnicamente distintas, esse choque frequentemente funcionou como gatilho para a mobilização contra o Estado. [nota incluída por relevância argumentativa]
+
+---
+
+## Dados e Variáveis (pp. 43–46)
+
+### Dados de assentamentos étnicos e fronteiras históricas [§29–§32]
+
+::: {.callout-note icon=false}
+**Conceito-chave:** O dataset *Historical Ethnic Geography* (HEG) é o principal insumo original do artigo, construído a partir da seleção e padronização de 73 mapas históricos de assentamentos étnicos cobrindo o período 1816–1945.
+:::
+
+As informações sobre assentamentos étnicos históricos provêm do dataset HEG, baseado em 73 mapas históricos (ver Seção A1 do Material Suplementar). Praticamente todas as categorias étnicas nesses mapas referem-se a marcadores de identidade linguística, refletindo uma característica reconhecida do nacionalismo europeu (Barbour e Carmichael 2000). As categorias são padronizadas com o auxílio da árvore linguística do *Ethnologue* (Lewis 2009) e consolidadas em uma lista-mestra invariante no tempo. A partir da sobreposição de todos os mapas disponíveis para cada combinação grupo-período, constroem-se polígonos de assentamento que constituem a "melhor estimativa" da distribuição espacial de cada grupo.
+
+Dados espaciais sobre fronteiras estatais desde 1886 provêm do dataset CShapes 2.0 (Schvitz *et al.* 2022), com cobertura global desde a "Partilha da África". Para a Europa, esses dados foram retroestendidos até 1816 a partir de fontes não-espaciais (Gleditsch e Ward 1999; Tir *et al.* 1998; Reed 2008), incluindo dezenas de microestados que existiam antes das unificações alemã e italiana. A intersecção espacial dos polígonos étnicos agregados com os dados anuais de fronteiras europeias gera a unidade de análise principal: **segmentos étnicos-anos** de 1816 a 1945. Para cada observação, calculam-se área absoluta e população (fonte: HYDE; Goldewijk, Beusen e Janssen 2010).
+
+### Variável independente principal e variáveis de desfecho [§33–§37]
+
+Os dados geográficos sobre a rede ferroviária europeia em expansão provêm de train.eryx.net, um site construído por entusiastas ferroviários franceses (Bernard e Raymond Cima). Os autores georreferenciaram os tiles anuais do site e digitalizaram todas as linhas para construir um dataset geoespacial de ferrovias europeias de 1834 a 1922. O indicador de tratamento principal é uma variável dicotômica de *acesso ferroviário*, derivada da intersecção dos polígonos anuais de segmentos étnicos com os datasets anuais de linhas. Para operacionalizar os mecanismos M1–M3, utilizou-se a estrutura de rede para calcular proxies contínuas de conectividade do segmento com mercados econômicos nacionais, alcance do Estado e conectividade interna (ver Seção A4 do Material Suplementar).
+
+> **Nota :** A resolução anual do dataset ferroviário melhora substancialmente em relação à codificação de redes ferroviárias em nível de décadas utilizada em Martí-Henneberg (2021) e Alvarez-Palau, Díez-Minguela e Martí-Henneberg (2021). [nota incluída por relevância argumentativa]
+
+A variável de desfecho principal combina três dimensões: (1) *onset* de guerra civil etno-territorial (dummy codificada para guerras civis listadas em Gleditsch 2004 e Sarkees e Wayman 2010 que foram travadas em nome de grupos étnicos específicos); (2) secession bem-sucedida (dummy que assume valor 1 quando um segmento não-dominante se torna segmento dominante em um Estado recém-independente no ano *t+1*); e (3) uma nova medida de *claims* nacionalistas, codificando a primeira reivindicação de independência nacional plena ou autonomia regional feita por uma organização nacionalista ao nível do segmento étnico-ano. O indicador de desintegração combinado assume valor 1 se qualquer um dos três fenômenos ocorre em dado ano.
+
+---
+
+## Análises e Resultados (pp. 46–51)
+
+### Especificação principal e resultados [§38–§42]
+
+::: {.callout-note icon=false}
+**Conceito-chave:** O modelo de **diferença-em-diferenças de dois estágios** (2S-DiD) de Gardner (2022) e Liu, Wang e Xu (2024) é utilizado para corrigir os vieses mecânicos de subestimação do TWFE convencional em settings de adoção escalonada (*staggered treatment*) com efeitos de tratamento heterogêneos.
+:::
+
+A especificação de linha de base é um modelo de probabilidade linear TWFE com o indicador dicotômico de acesso ferroviário como variável de tratamento. Todos os modelos incluem efeitos fixos de segmento étnico e efeitos fixos de ano ou país-ano, além de uma variável de contagem de conflitos territoriais passados desde 1816 e dummies de *peace years* para abordar preocupações de causalidade reversa.
+
+A Tabela 1 do artigo apresenta os resultados principais:
+
+| | 100 × Secessão, Guerra Civil Territorial ou Claim |
+|:---|:---:|:---:|:---:|:---:|
+| | (1) | (2) | (3) | (4) |
+| Rails (S/N) | 1,486*** | 1,076** | 2,096*** | 1,693*** |
+| | (0,352) | (0,341) | (0,493) | (0,446) |
+| Segmento FE | Sim | Sim | Sim | Sim |
+| Ano FE | Sim | Não | Sim | Não |
+| País-Ano FE | Não | Sim | Não | Sim |
+| Estimador | TWFE | TWFE | 2S-DiD | 2S-DiD |
+| Média VD | 1,115 | 1,115 | 1,076 | 1,069 |
+| Observações | 13.007 | 13.007 | 11.711 | 9.818 |
+
+O modelo 1 indica que a probabilidade de separatismo aumenta 1,49 pp após a chegada da primeira ferrovia — aumento de mais do dobro da média amostral de 1,12 ocorrências por cem segmento-anos. O modelo 3 (2S-DiD) eleva a estimativa para 2,10 pp, equivalente a um aumento de 195% em relação à média, com a diferença em relação ao TWFE explicada pelo viés mecânico de subestimação que os modelos TWFE produzem em settings de adoção escalonada com heterogeneidade temporal de efeitos (Goodman-Bacon 2021).
+
+O event study (Figura 3 do artigo) exibe tendências pré-tratamento predominantemente paralelas entre unidades tratadas e não tratadas, com coeficientes pré-tratamento próximos de zero e conjuntamente insignificantes na maioria das especificações. Os coeficientes pós-tratamento indicam aumento imediato no risco de conflito após a construção da primeira ferrovia, com efeitos ainda maiores aproximadamente 35 anos após o tratamento e tendência de atenuação a partir do 50º ano pós-tratamento, especialmente na especificação com FE de país-ano.
+
+### Robustez: variável instrumental [§43–§45]
+
+Para endereçar o potencial de causalidade reversa (construção ferroviária motivada por considerações estratégicas relacionadas ao separatismo) e viés de variável omitida, os autores implementam uma estratégia de variável instrumental baseada em redes ferroviárias simuladas. O instrumento é construído colocando heuristicamente ferrovias para cada país-ano de forma a maximizar a conectividade da população estatal, utilizando dados populacionais invariantes no tempo estimados para 1830 (HYDE) — excluindo assim causas potencialmente enviesantes de ordem militar, demográfica ou econômica.
+
+A Tabela 2 do artigo mostra que o instrumento é fortemente preditivo da construção ferroviária efetiva (estatística F de 39). O *reduced form* e o segundo estágio são positivos e estatisticamente significativos, com a estimativa do segundo estágio (2,341) ligeiramente superior ao TWFE mas similar ao 2S-DiD.
+
+### Robustez adicional: definição de amostra e desagregação do desfecho [§46–§48]
+
+Verificações adicionais de robustez incluem: (1) censura de observações após o primeiro *onset* de separatismo, que produz estimativas menores mas positivas e significativas, interpretáveis como o efeito das ferrovias sobre o risco de separatismo dado nenhum esforço separatista anterior; (2) exclusão de unidades nunca tratadas, que produz efeitos similares ou maiores; (3) censura da amostra em 1922 (ano final dos dados ferroviários), com resultados robustos e de mesmo tamanho ou maiores. A desagregação do desfecho sugere que os resultados principais são impulsionados principalmente por guerras civis territoriais e *claims* nacionalistas; os efeitos sobre secessions bem-sucedidas (desfecho mais raro e extremo) são positivos e significativos no 2S-DiD mas pequenos e insignificantes no TWFE.
+
+### Hipóteses condicionais: moderadores contextuais [§49–§53]
+
+::: {.callout-important}
+A análise de heterogeneidade revela que o efeito desestabilizador das ferrovias não é universal — ele se concentra em contextos estruturalmente propensos à desintegração, o que requalifica a teoria modernizacionista: a experiência francesa de integração bem-sucedida não é o paradigma, mas a exceção.
+:::
+
+A Figura 4 do artigo apresenta gráficos de efeito marginal e estimativas de *binning* (Hainmueller, Mummolo e Xu 2019) para os seis moderadores contextuais. Os resultados são:
+
+- **H2a (distância linguística):** coeficiente de interação positivo mas apenas marginalmente significativo. Os autores interpretam esse não-resultado como indicação de que, condicional a alguma diferença cultural, processos de politização e mobilização de grupo importam mais do que a distância cultural em si.
+- **H2b (participação do grupo dominante):** coeficiente de interação negativo e significativo — ferrovias são particularmente prováveis de acender campanhas separatistas em países com grupos governantes relativamente pequenos. Os *binning plots* sugerem, porém, que o efeito linear é impulsionado por um pequeno número de casos com grupos dominantes especialmente pequenos.
+- **H2c (população do segmento):** ferrovias impulsionam principalmente o separatismo em segmentos étnicos demograficamente grandes. Casos ilustrativos: bielorussos, poloneses e ucranianos na Rússia, tchecos, húngaros e italianos na Áustria-Hungria. Em segmentos muito pequenos, o efeito é negativo.
+- **H2d (PIB per capita):** interação negativa e significativa — os resultados são impulsionados por país-anos relativamente pobres e menos industrializados, confirmando H2d.
+- **H2e (capacidade fiscal):** estimativas de *binning* sugerem efeito significativamente maior em valores tipicamente baixos de capacidade fiscal. Casos de separatismo em Estados de baixa capacidade concentram-se nos Impérios Russo e Otomano e seus Estados sucessores.
+- **H2f (democracia liberal):** interação negativa e significativa, mas os *binning plots* revelam que o efeito é mais alto em valores baixos a intermediários de democracia liberal, predominantemente nos Impérios Otomano e Russo durante a segunda metade do século XIX.
+
+### Mecanismos causais desagregados [§54–§57]
+
+A Tabela 3 apresenta os modelos TWFE nos quais as três medidas contínuas de rede substituem o indicador dicotômico de tratamento, testando H3a–c:
+
+| | 100 × Secessão, Guerra Civil ou Claim |
+|:---|:---:|:---:|:---:|:---:|
+| | (1) | (2) | (3) | (4) |
+| Acesso ao mercado nacional | −0,143+ | — | — | −0,001 |
+| Alcance do Estado | — | −0,008** | — | −0,008** |
+| Conectividade interna | — | — | 0,015* | 0,016* |
+
+Todos os coeficientes apontam na direção esperada. Melhorias no alcance estatal (M2) de um desvio padrão reduzem o risco de separatismo em 0,79 pp (70% da média amostral). A conectividade interna (M3) aumenta o risco em 0,34 pp por desvio padrão. O efeito do acesso ao mercado nacional torna-se pequeno e insignificante quando o alcance do Estado é controlado, sugerindo que o efeito negativo do Modelo 1 era capturado por melhores conexões com a capital — ou seja, M2 absorve M1.
+
+> **Nota :** Ver Tabela A17 na Seção A10 do Material Suplementar para resultados com medidas de rede padronizadas que facilitam a comparação de coeficientes. [nota incluída por relevância argumentativa]
+
+Os autores discutem uma interpretação alternativa: as redes ferroviárias nacionais em expansão exercem efeitos heterogêneos em diferentes contextos, e, na média, as respostas integrativas e desintegrativas se cancelam mutuamente (nota 16). O fato de que o modelo de linha de base mostra efeitos positivos da *primeira* conexão ferroviária em um segmento pode refletir que conexões periféricas na Europa histórica fortaleciam principalmente os laços locais antes de efetivamente ampliar a capacidade estatal ou integrar mercados nacionais.
+
+---
+
+## Conclusão (pp. 51–52)
+
+### Síntese e releitura da teoria modernizacionista [§58–§60]
+
+::: {.callout-tip}
+A conclusão central do artigo inverte o ônus da prova na teoria modernizacionista: a integração nacional bem-sucedida via ferrovias não é o caso típico, mas o caso excepcional — e a excepcionalidade francesa pode ter distorcido décadas de teorização.
+:::
+
+A conclusão retoma a premissa convencional de que a infraestrutura de transporte moderna fortaleceu o *nation-building* europeu, para então contrastá-la sistematicamente com a evidência produzida pelo artigo: se há algo, a construção ferroviária em regiões de minorias étnicas tendeu a ameaçar a integridade dos Estados e impérios europeus. A análise condicional revela as dimensões estruturais que dificultaram a integração nacional nos Estados multiétnicos, especialmente na Europa oriental — grupos minoritários grandes, participações populacionais pequenas dos grupos dominantes, baixa capacidade estatal e baixa renda per capita colocavam desafios formidáveis à centralização estatal e ao *nation-building* de cima para baixo.
+
+A experiência francesa, amplamente tomada como paradigma da teoria modernizacionista, emerge dos dados como exceção notável. Em sentido complementar, os autores mostram como os efeitos agregados do acesso ferroviário mascaram efeitos opostos da estrutura da rede: o separatismo torna-se mais provável onde as ferrovias facilitam a mobilização pela melhoria da conectividade interna de regiões étnicas periféricas, e menos provável onde aproximam essas regiões da capital do Estado.
+
+### Agenda de pesquisa [§61]
+
+Os autores situam o estudo em uma agenda mais ampla que analisa a integração e a desintegração nacionais por meio de diversas formas de comunicação social e mecanismos de formação de identidade: linhas telegráficas, redes viárias, educação de massa e meios de comunicação de massa. Há também uma agenda crescente sobre como processos de mobilização são influenciados por tecnologias mais recentes — rádio (Warren 2014), telefonia celular (Shapiro e Weidmann 2015), redes sociais (Gohdes 2020; Weidmann 2015). Os autores concluem com cautela explícita: embora o presente estudo sirva como lembrete de que avanços tecnológicos podem ter efeitos desintegradores, pesquisa empírica cuidadosa é necessária antes de aplicar seus achados a contextos além dos casos clássicos do *nation-building* europeu.
+
+---
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+**Tese central:** A construção ferroviária em regiões habitadas por grupos étnicos não-dominantes na Europa de 1816 a 1945 aumentou, em média, a probabilidade de mobilização separatista em cerca do dobro da média amostral — contrariando a expectativa integracionista dominante na teoria modernizacionista.
+
+**Natureza do argumento:** Causal e heterogêneo. O artigo opera em três camadas argumentativas que se reforçam mutuamente: (1) estimação do efeito médio de tratamento via DiD, event study e IV; (2) análise de moderação contextual que especifica *quando* o efeito é amplificado ou atenuado; e (3) análise de mecanismos desagregados que explica *por que* o efeito médio é positivo — com a conectividade interna (M3) e o alcance do Estado (M2) operando em direções opostas.
+
+**O que o texto demonstra vs. o que fica como hipótese ou agenda:** O efeito causal médio (H1) está bem identificado pela convergência de três estratégias empíricas. A análise de heterogeneidade (H2) está bem sustentada pela abordagem de *binning* e pela convergência dos resultados condicionais. A análise de mecanismos (H3) é sugestiva mas metodologicamente mais fraca — por não utilizar um design DiD para as medidas contínuas de rede, a identificação causal dos mecanismos individuais requer premissas mais fortes. Fica como agenda: a exploração de heterogeneidade de efeitos entre contextos (a nota 16 reconhece essa limitação) e a extrapolação para tecnologias contemporâneas.
+
+**Contribuição para o debate:** O artigo faz três contribuições ao debate sobre modernização, nacionalismo e separatismo. Metodologicamente, produz o primeiro dataset geoespacial de assentamentos étnicos históricos europeus cruzado com dados anuais de construção ferroviária, superando o viés de retroprojeção dos estudos anteriores. Teoricamente, especifica os mecanismos contraditórios pelos quais ferrovias afetam o *nation-building* e identifica as condições contextuais que determinam o resultado. Empiricamente, demonstra que a experiência francesa de integração bem-sucedida é a exceção e não o paradigma — com implicações diretas para teorias de *nation-building* que tomaram o caso francês como referência normativa.
+:::
