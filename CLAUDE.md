@@ -1,0 +1,100 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## What this repository is
+
+A Quarto website hosting Tales Mançano's annotated bibliography (*fichamentos*) — structured, paragraph-by-paragraph academic reading notes in political science, political economy, and historical sociology. Posts are generated with AI assistance using versioned prompts in `Repo-Prompts/`, reviewed, and stored as `.qmd` files in `posts/`.
+
+## Commands
+
+```bash
+# Render the full site to docs/
+quarto render
+
+# Preview with live reload (localhost)
+quarto preview
+```
+
+Requirements: Quarto CLI ≥ 1.4 and R (for the audit scripts).
+
+**R maintenance scripts** (edit the filename variable at the top of each script before running):
+
+```r
+# Fix LLM-generated formatting issues in a single post
+# Set `nome_do_qmd` inside the script, then:
+Rscript fix_spaces.R
+
+# Audit and normalize categories across all posts in posts/
+Rscript fix_categories.R   # writes category_audit.csv
+```
+
+## Architecture
+
+```
+_quarto.yml          # project config: output-dir=docs, bibliography, theme, navbar
+index.qmd            # homepage listing (reads from posts/)
+posts/               # one .qmd per annotated entry (~100+ files)
+Repo-Prompts/        # versioned LLM prompts (v2 through v17+)
+references.bib       # master BibTeX file (~2.2 MB, managed via Zotero)
+CATEGORIES.md        # canonical category taxonomy — single source of truth
+fix_spaces.R         # cleans LLM formatting artefacts (stray leading spaces, *** → ---)
+fix_categories.R     # normalises legacy/Portuguese category names to canonical English
+category_audit.csv   # output of fix_categories.R
+files/includes/      # HTML includes injected site-wide (Academicons, badge CSS)
+_extensions/         # Quarto extensions (Font Awesome, Academicons, Iconify)
+docs/                # rendered HTML output (deployed to gh-pages)
+Old_Website_Posts/   # archived legacy posts; do not add new content here
+```
+
+Deployment is automatic: GitHub Actions ([`.github/workflows/publish.yml`](.github/workflows/publish.yml)) renders the site on every push to `main` and publishes to the `gh-pages` branch.
+
+## Post format
+
+Every file in `posts/` follows this structure:
+
+```yaml
+---
+title: "Fichamento: [ARTICLE/CHAPTER TITLE]"
+subtitle: "[AUTHOR(S) (YEAR)]"
+author: "Tales Mançano"
+date: "YYYY-MM-DD"
+last-updated: "YYYY-MM-DD"
+categories: [Annotated Bibliography, THEME, OPTIONAL-THEME, OPTIONAL-GEOGRAPHY]
+tags: [kebab-case-concept, ...]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+    execute: false
+---
+```
+
+After the YAML, each post has:
+1. APA 7 citation
+2. Collapsible BibTeX callout (citekey pattern: `Author-etal2005`)
+3. Paragraph-by-paragraph summary organized by section (`##`) and subsection (`###`) with paragraph references `[§1–§5]`
+4. Synthetic Argument (`.callout-note` block)
+5. Critical Analytical Card — *Ficha Analítica Crítica* — a Markdown table evaluating research question, puzzle type, methods, DGP, findings, limitations, theoretical perspective, and key references
+
+## Category system
+
+Governed by [`CATEGORIES.md`](CATEGORIES.md). Three layers, ≤5 categories total per post:
+
+| Layer | Rule | Examples |
+|-------|------|---------|
+| **A — Post type** | Exactly 1, always first | `Annotated Bibliography`, `Essay` |
+| **B — Substantive theme** | 1–4 from the canonical list | `Political Economy`, `Higher Education`, `Inequality` |
+| **C — Geographic scope** | 0–1, only if the work is explicitly regional | `Brazil`, `Western Europe` |
+
+Fine-grained concepts go in `tags` (kebab-case), not categories. A tag may be promoted to a category only after appearing in 5+ posts. All changes to allowed categories must be made in `CATEGORIES.md` first, then reflected in `fix_categories.R`.
+
+## fix_spaces.R behaviour
+
+Runs 4 passes on a single `.qmd` to:
+- Replace `***` with `---` (LLM frontmatter delimiter artefact)
+- Strip content before the first `---` and after the last `::::`
+- Remove a single leading space from lines outside code blocks and indented YAML blocks
+- Normalise indentation of the `format:` block in the YAML to the canonical 2/4-space structure

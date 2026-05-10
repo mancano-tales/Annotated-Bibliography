@@ -7,7 +7,7 @@
 
 # ── 1. Arquivo-alvo ──────────────────────────────────────────────────────────
 
-nome_do_qmd <- "Ansell2008"   # ex: "Fernandes2005"
+nome_do_qmd <- "Pengl-etal2026"   # ex: "Fernandes2005"
 
 path <- paste0(
   "C:/Users/Mancano/Documents/MancanoSync/Annotated-Bibliography/posts/",
@@ -15,8 +15,8 @@ path <- paste0(
   ".qmd"
 )
 
-for (.pass in 1:2) {
-cat("\n── Passagem", .pass, "de 2 ──────────────────────────────────────────────\n")
+for (.pass in 1:4) {
+cat("\n── Passagem", .pass, "de 4 ──────────────────────────────────────────────\n")
 
 # ── 2. Leitura ───────────────────────────────────────────────────────────────
 
