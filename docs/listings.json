@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/Carvalho2011.html",
       "/posts/Ansell2008.html",
       "/posts/Busemeyer2015.html",
       "/posts/Carnoy1985.html",
@@ -27,6 +28,8 @@
       "/posts/Ray-Pontusson2023.html",
       "/posts/Durham2003vPerplecity.html",
       "/posts/Durham2005.html",
+      "/posts/Andersen2024vClaudeSonnet4.6.html",
+      "/posts/Andersen2024vDeepSeek.html",
       "/posts/Andersen2024.html",
       "/posts/Cunha2003.html",
       "/posts/Fairfield-Charman2017.html",
