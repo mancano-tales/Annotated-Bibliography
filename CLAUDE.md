@@ -35,6 +35,7 @@ Rscript fix_categories.R   # writes category_audit.csv
 _quarto.yml          # project config: output-dir=docs, bibliography, theme, navbar
 index.qmd            # homepage listing (reads from posts/)
 posts/               # one .qmd per annotated entry (~100+ files)
+  notes/             # Zettelkasten-style concept notes (Descriptive Note type)
 prompts/             # versioned LLM prompts (spreadsheets/, podcasts/, qmd-blog-posts/)
 references.bib       # master BibTeX file (~2.2 MB, managed via Zotero)
 CATEGORIES.md        # canonical category taxonomy — single source of truth
@@ -51,7 +52,9 @@ Deployment is automatic: GitHub Actions ([`.github/workflows/publish.yml`](.gith
 
 ## Post format
 
-Every file in `posts/` follows this structure:
+### Annotated bibliographies (`posts/*.qmd`)
+
+Every annotated bibliography in `posts/` follows this structure:
 
 ```yaml
 ---
@@ -78,6 +81,18 @@ After the YAML, each post has:
 3. Paragraph-by-paragraph summary organized by section (`##`) and subsection (`###`) with paragraph references `[§1–§5]`
 4. Synthetic Argument (`.callout-note` block)
 5. Critical Analytical Card — *Ficha Analítica Crítica* — a Markdown table evaluating research question, puzzle type, methods, DGP, findings, limitations, theoretical perspective, and key references
+
+### Zettelkasten / concept notes (`posts/notes/*.qmd`)
+
+The `posts/notes/` subfolder hosts **synthetic concept notes** — Zettelkasten-style entries about a single theoretical concept, debate, or analytical framework, rather than a single bibliographic work. These are different from annotated bibliographies:
+
+- **Layer A category:** always `Descriptive Note`
+- **Naming convention:** `ConceptOrDebate-MainAuthorYear.qmd` (e.g. `VoC-Hall-Soskice2001.qmd`)
+- **Structure:** free-form, but should include: (1) statement of the central puzzle or concept, (2) key mechanisms/pillars, (3) synthesis, (4) extensions/critiques, and (5) a reference list
+- **Tags:** use existing kebab-case tags; concept notes are a good place to synthesize tags that appear across many annotated bibliographies
+- **Purpose:** to distill cross-cutting theoretical knowledge that would otherwise be scattered across many individual fichamentos
+
+Do **not** apply `fix_spaces.R` to notes, as they are written directly (not LLM-generated from PDFs).
 
 ## Category system
 

@@ -1,0 +1,130 @@
+---
+title: "Nota: Variedades de Capitalismo (VoC) — O Puzzle da Não-Convergência"
+subtitle: "Hall & Soskice (2001) e o debate sobre divergência institucional"
+author: "Tales Mançano"
+date: "2026-05-12"
+last-updated: "2026-05-12"
+categories: [Descriptive Note, Comparative Politics/Political Economy, Institutions]
+tags: [varieties-of-capitalism, hall-soskice, institutional-complementarities, comparative-institutional-advantage, LME, CME, HME, convergence-thesis, non-convergence, coordinated-market-economy, liberal-market-economy, incremental-innovation, radical-innovation]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+    execute: false
+---
+
+> **Tipo de nota:** Síntese conceitual (*Zettelkasten*) — não é um fichamento de obra específica, mas uma nota de conceito construída a partir de Hall & Soskice (2001) e da literatura subsequente de VoC.
+
+---
+
+## O Puzzle Central
+
+O *puzzle* (enigma) central da literatura de **Variedades de Capitalismo (VoC)**, inaugurada por Peter Hall e David Soskice em *Varieties of Capitalism: The Institutional Foundations of Comparative Advantage* (2001), é a **persistência da divergência institucional em um cenário de globalização acelerada**.
+
+### Contexto intelectual
+
+Na década de 1990, a teoria econômica neoclássica e a chamada **tese da convergência** previam que, com a abertura dos mercados e a mobilidade internacional do capital, todos os países seriam gradualmente forçados a adotar o modelo anglo-saxão — as chamadas *Liberal Market Economies* (LMEs). A lógica era de seleção competitiva: apenas a desregulamentação dos mercados de trabalho e de capital, combinada com maior flexibilidade institucional, permitiria às economias nacionais competir globalmente. Qualquer desvio desse modelo seria corroído pelas forças do mercado.
+
+### O puzzle, enunciado
+
+> **Por que economias com altos salários, forte regulação trabalhista e Estados de Bem-Estar Social generosos — como a Alemanha e o Japão — continuaram competitivas e não convergiram para o modelo liberal?**
+
+O que os economistas neoclássicos liam como "distorções de mercado" (sindicatos fortes, proteção ao emprego, financiamento relacional em vez de acionista) produzia, de fato, resultados econômicos robustos em certos setores e tipos de produto. Isso exigia uma explicação alternativa.
+
+---
+
+## Os Três Pilares da Resposta
+
+### 1. A firma como unidade analítica central
+
+VoC desloca o foco analítico: em vez do Estado ou dos sindicatos (como nas tradições anteriores do corporativismo e da economia política comparada), a unidade central passa a ser a **firma**. As empresas precisam resolver problemas de coordenação em **cinco esferas institucionais** para operar:
+
+| Esfera | Exemplos de problemas de coordenação |
+|---|---|
+| **Relações industriais** | Negociação de salários, condições de trabalho, conflito capital-trabalho |
+| **Educação e formação profissional** | Oferta e tipo de habilidades (gerais vs. específicas) |
+| **Governança corporativa** | Acesso a capital (paciente vs. volátil), estrutura de propriedade |
+| **Relações inter-firmas** | Transferência de tecnologia, cooperação em P&D, supply chains |
+| **Coordenação interna** | Relação com trabalhadores dentro da firma, delegação e confiança |
+
+A forma como cada sociedade resolve esses cinco problemas define seu **tipo de capitalismo**.
+
+### 2. Complementaridades Institucionais
+
+Este é o coração explicativo da teoria. O argumento é que instituições em diferentes esferas se **reforçam mutuamente**: uma instituição em uma esfera aumenta o retorno (ou reduz o custo) de uma instituição em outra esfera. Isso cria *pacotes* institucionais coerentes e auto-sustentados — o que explica tanto a persistência da diversidade quanto a dificuldade de reformas parciais.
+
+::: {.callout-note}
+#### Exemplo canônico: A Alemanha (CME)
+
+A proteção legal ao emprego (dificulta demissões) → cria segurança para o trabalhador → **incentiva o trabalhador a investir em habilidades muito específicas** de uma indústria, pois ele sabe que não será descartado facilmente.
+
+Esse estoque de habilidades específicas (formação dual, apprenticeship) → sustenta um modelo de **governança corporativa com horizonte de longo prazo** (bancos relacionais, não acionistas dispersos) → que por sua vez financia **inovação incremental e de alta qualidade** em setores como máquinas-ferramenta, automóveis e química fina.
+
+Cada peça reforça as outras: remover a proteção ao emprego sem alterar o sistema de formação profissional e o modelo de governança corporativa destrói o pacote sem gerar o dinamismo liberal esperado.
+:::
+
+### 3. Vantagem Institucional Comparativa
+
+Hall e Soskice aplicam a lógica de David Ricardo — vantagem comparativa no comércio internacional — ao nível das instituições. Diferentes arranjos institucionais não são uniformemente bons ou ruins: eles **favorecem diferentes tipos de inovação e produção**.
+
+| Tipo de economia | Vantagem em | Setores típicos |
+|---|---|---|
+| **LME** (Liberal Market Economy) | **Inovação radical** — criação de novos produtos e mercados | Biotecnologia, software, semicondutores, finanças |
+| **CME** (Coordinated Market Economy) | **Inovação incremental** — aperfeiçoamento contínuo de produtos existentes | Máquinas-ferramenta, automóveis de alta qualidade, engenharia especializada |
+
+Inovação radical requer mobilidade rápida de capital e trabalho — trabalhadores contratáveis e demissíveis, capital disponível para *startups* arriscadas. Isso é o que as LMEs fornecem. Inovação incremental requer conhecimento acumulado, confiança de longo prazo entre firma, trabalhadores e fornecedores — o que as CMEs fornecem através das suas complementaridades institucionais.
+
+---
+
+## Síntese: Por que não há convergência?
+
+O puzzle da não-convergência se resolve assim: **não existe um único caminho ótimo para o crescimento econômico**. O que parece uma "distorção" segundo o modelo neoclássico — um sindicato forte, leis trabalhistas rígidas, bancos que não maximizam retorno acionista no curto prazo — pode ser, na verdade, um **recurso produtivo** que sustenta uma vantagem competitiva específica.
+
+Ademais, as complementaridades criam **dependência de trajetória** (*path dependence*): mudar uma instituição sem mudar o pacote inteiro pode ser contraproducente. Isso cria resistências políticas e econômicas à convergência, além de custos de transição elevados.
+
+O resultado é que **o capitalismo é resiliente em sua diversidade**.
+
+---
+
+## Extensões e Críticas Relevantes
+
+### HMEs — Hierarchical Market Economies
+
+A tipologia binária LME/CME foi criticada por deixar de fora a maioria dos países do mundo, especialmente economias em desenvolvimento. Autores como Ben Ross Schneider e Sylvia Maxfield propuseram o conceito de **Economias de Mercado Hierárquicas (HMEs)** para capturar casos como o Brasil, México e outros países latino-americanos.
+
+Nas HMEs:
+- A coordenação não se dá por mercados (como nas LMEs) nem por redes institucionais densas (como nas CMEs), mas por **hierarquia** — dentro de grupos empresariais diversificados (*business groups*) e entre Estado e grandes conglomerados.
+- Os trabalhadores tendem a ter **habilidades baixas e genéricas**, pois o ambiente institucional não incentiva o investimento em capital humano específico.
+- A inovação é limitada: nem radical (falta de capital de risco e mercado de trabalho qualificado) nem incremental (falta de estabilidade relacional e formação técnica densa).
+
+### Críticas à literatura de VoC
+
+| Crítica | Autor(es) | Argumento |
+|---|---|---|
+| Viés nos casos fundadores | Crouch, Streeck | A teoria foi construída sobre Alemanha e EUA — casos atípicos em seus próprios tipos |
+| Neglicência do conflito | Streeck, Thelen | A abordagem subestima tensões distributivas e resistência de atores ao equilíbrio institucional |
+| Análise estática | Thelen (2004, 2014) | Complementaridades não são estáticas: *layering*, *conversion*, *drift* mostram mudança gradual sem ruptura |
+| Agência e ideias | Blyth, Schmidt | A teoria subestima o papel de ideias e atores políticos na mudança institucional |
+
+---
+
+## Conexões com a Pesquisa sobre Desigualdade Educacional
+
+Para quem estuda a política da desigualdade no acesso ao ensino superior, o debate de VoC é estruturalmente relevante por uma razão: **políticas educacionais não são apenas gastos sociais — são peças de uma engrenagem macroeconômica que define o perfil produtivo de um país**.
+
+Em uma CME, o sistema de formação profissional dual (como o alemão) é funcional para a vantagem comparativa em inovação incremental — e é politicamente sustentado tanto por empregadores quanto por sindicatos. Em uma LME, o ensino superior de massa e as universidades de pesquisa de ponta (Stanford, MIT) são funcionais para a inovação radical.
+
+O que o framework de VoC sugere para o caso brasileiro (HME) é que a expansão acelerada do ensino superior privado via FIES e ProUni pode não produzir o retorno em produtividade esperado se o sistema produtivo não demandar (nem criar) habilidades especializadas que justifiquem esse capital humano — um *mismatch* estrutural entre expansão educacional e modelo de coordenação econômica.
+
+---
+
+## Referências-Chave
+
+- Hall, P. A., & Soskice, D. (Eds.). (2001). *Varieties of Capitalism: The Institutional Foundations of Comparative Advantage*. Oxford University Press.
+- Schneider, B. R., & Soskice, D. (2009). Inequality in developed countries and Latin America: Coordinated, liberal and hierarchical systems. *Economy and Society*, 38(1), 17–52.
+- Thelen, K. (2004). *How Institutions Evolve: The Political Economy of Skills in Germany, Britain, the United States, and Japan*. Cambridge University Press.
+- Thelen, K. (2014). *Varieties of Liberalization and the New Politics of Social Solidarity*. Cambridge University Press.
+- Streeck, W. (2009). *Re-Forming Capitalism: Institutional Change in the German Political Economy*. Oxford University Press.
+- Crouch, C. (2005). *Capitalist Diversity and Change: Recombinant Governance and Institutional Entrepreneurs*. Oxford University Press.
