@@ -5,6 +5,22 @@ author: "Tales Mançano"
 date: "2026-05-08"
 last-updated: "2026-05-08"
 coverage: "Obra completa"
+categories:
+  - Annotated Bibliography
+  - Sociology of Education
+  - Social Stratification
+  - Educational Inequality
+  - Higher Education
+  - United States
+tags:
+  - causal-inference
+  - directed-acyclic-graphs
+  - enrollment-rates
+  - allocation-rules
+  - maximally-maintained-inequality
+  - class-origin
+  - institutional-gatekeeping
+  - valence-model
 format:
   html:
     toc: true
@@ -21,26 +37,26 @@ Jackson, M. (2021). Expansion, enrollment, and inequality of educational opportu
 
 ```bibtex
 @article{Jackson2021,
- author  = {Jackson, Michelle},
- title   = {Expansion, Enrollment, and Inequality of Educational Opportunity},
- year    = {2021},
- journal = {Sociological Methods \& Research},
- volume  = {50},
- number  = {3},
- pages   = {1215--1242},
- doi     = {10.1177/0049124119852376},
+  author  = {Jackson, Michelle},
+  title   = {Expansion, Enrollment, and Inequality of Educational Opportunity},
+  year    = {2021},
+  journal = {Sociological Methods \& Research},
+  volume  = {50},
+  number  = {3},
+  pages   = {1215--1242},
+  doi     = {10.1177/0049124119852376},
 }
 ```
 
 :::
 
-
+```
 Última atualização: 2026-05-08
 Modelo: Claude Sonnet 4.6 (claude-sonnet-4-6)
 Prompt Version: v17.2 2026-05-08 | Ficha antes do fichamento
 Gerado em: 2026-05-08T00:00:00-03:00
-Ocasião da Leitura:
-
+Ocasião da Leitura: Escrever nota de Rodapé para o capítulo 3
+```
 
 ---
 
