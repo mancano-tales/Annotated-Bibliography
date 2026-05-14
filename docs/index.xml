@@ -10,7 +10,426 @@
 <atom:link href="https://mancano-tales.github.io/Annotated-Bibliography/index.xml" rel="self" type="application/rss+xml"/>
 <description>Fichamentos acadêmicos de Tales Mançano</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Wed, 13 May 2026 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 14 May 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Fichamento: Race and the political ecology of education in Brazil</title>
+  <dc:creator>Tales Mançano</dc:creator>
+  <link>https://mancano-tales.github.io/Annotated-Bibliography/posts/Meek-etal2024.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Informações Técnicas e BibTeX
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<pre><code>Última atualização: 2026-05-14
+Modelo: Claude claude-sonnet-4-5 (Perplexity, powered by Sonnet 4.6 Thinking)
+Prompt Version: v17.4 · 2026-05-13
+Gerado em: 2026-05-14T23:46:00-03:00
+Ocasião da Leitura:</code></pre>
+<p><strong>Entrada BibTeX → Meek-etal2024</strong></p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">Meek</span>-<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">etal2024</span>,</span>
+<span id="cb2-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span>    = {Meek, David and Daquin, Jane and Girardi, Eduardo Paulon and</span>
+<span id="cb2-3">               Fernandes, Bernardo Man{<span class="ch" style="color: #20794D;
+background-color: null;
+font-style: inherit;">\c</span>{c}}ano and Sobreiro do Filho, Jos{<span class="ch" style="color: #20794D;
+background-color: null;
+font-style: inherit;">\'</span>e} and</span>
+<span id="cb2-4">               Tarlau, Rebeca and Vuelta, Raquel},</span>
+<span id="cb2-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span>     = {Race and the political ecology of education in {Brazil}:</span>
+<span id="cb2-6">               {A} spatial analysis of rural school closures},</span>
+<span id="cb2-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span>      = {2024},</span>
+<span id="cb2-8">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">journal</span>   = {Journal of Political Ecology},</span>
+<span id="cb2-9">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">volume</span>    = {31},</span>
+<span id="cb2-10">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">doi</span>       = {não informado no PDF},</span>
+<span id="cb2-11">}</span></code></pre></div></div>
+</div>
+</div>
+</div>
+<section id="ficha-analítica-crítica" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="ficha-analítica-crítica">Ficha Analítica Crítica</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Esta seção segue o formato <em>IA Planilhando Textos v17.4</em>.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Ficha Analítica — Tabela Markdown
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 23%">
+<col style="width: 52%">
+<col style="width: 23%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Dimensão</th>
+<th style="text-align: left;">Raciocínio analítico</th>
+<th style="text-align: left;">Conteúdo</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Questão de Pesquisa</td>
+<td style="text-align: left;">A pergunta central assume que o fechamento de escolas rurais no Brasil é um fenômeno com lógica espacial e racial. Isso é uma premissa implícita que o desenho confirmatório não testou contra hipóteses alternativas igualmente plausíveis (e.g., simplesmente declínio demográfico rural).</td>
+<td style="text-align: left;">Quais são os fatores sociais, políticos e econômicos que estruturam o padrão espacial do fechamento de escolas rurais no Brasil entre 1994 e 2020, e em que medida raça e concentração fundiária são determinantes desse processo? Natureza: explicativa/descritiva.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Questões Secundárias</td>
+<td style="text-align: left;">As três subperguntas — onde as escolas fecham (espacialmente), se raça prediz os fechamentos, e se concentração fundiária os condiciona — são operacionalizadas de forma relativamente independente, mas o artigo não as integra numa única especificação causal unificada.</td>
+<td style="text-align: left;">(1) Como os fechamentos se distribuem espacialmente no Brasil? (2) A composição racial do município prediz a taxa de fechamentos? (3) A concentração fundiária (GINI) prediz a taxa de fechamentos? As três subperguntas têm relação direta e progressiva com a tese central.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Puzzle-Type</td>
+<td style="text-align: left;">O puzzle é genuíno: a escala do fenômeno (142.401 escolas, 65% do total) é empiricamente subestimada na literatura de ecologia política da educação. A generalizabilidade além do Brasil é limitada, mas o argumento conceitual sobre colonialidade e conhecimento tem alcance amplo.</td>
+<td style="text-align: left;">Puzzle descritivo-explicativo: a literatura de ecologia política da educação havia documentado pouco sobre como raça estrutura geograficamente o acesso à educação rural. O artigo trata esse silêncio como lacuna teórica e empírica.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Conclusão / Argumento Central</td>
+<td style="text-align: left;">A tese combina achados quantitativos com enquadramento normativo (coloniality, injustiça epistêmica). O “claim of discovery” — que raça e concentração fundiária causam fechamentos — é mais forte descritivamente do que causalmente, dado o design observacional.</td>
+<td style="text-align: left;">O fechamento massivo de escolas rurais no Brasil é um processo racializado e estruturado pela desigualdade fundiária: municípios com maior proporção de residentes negros e maior índice de Gini apresentam taxas significativamente mais altas de fechamento escolar, o que reflete a operação histórica e contemporânea do racismo estrutural e do capitalismo agrário sobre o acesso ao conhecimento.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Métodos</td>
+<td style="text-align: left;">O design é quantitativo-espacial com dois estágios: (a) análise geoespacial de hotspots (Getis-Ord*) com dados 1994–2020 para todos os municípios brasileiros; (b) regressão binomial negativa de painel com efeitos aleatórios para dois anos (2006 e 2017). A restrição a apenas dois pontos temporais na fase multivarida limita substancialmente as inferências sobre tendências longitudinais. O fichamento cobre a obra inteira.</td>
+<td style="text-align: left;">Estudo quantitativo com análise espacial e regressão de painel. Fontes: Censo Escolar (INEP, 1996–2021) para escolas; Censo Demográfico (IBGE 2010) para dados raciais; fontes agrárias para Gini fundiário. Ferramenta SIG: ArcMap 10.5. Análise estatística: STATA 17.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Data Generation Process (DGP)</td>
+<td style="text-align: left;">A raça é medida pelo Censo 2010 (corte único), enquanto os fechamentos cobrem 25 anos — isso introduz um problema de defasagem temporal severo: a composição racial de 2010 é usada para predizer fechamentos de 1994–2020. A unidade de análise é o município, mas o fenômeno opera no nível da escola e da comunidade, introduzindo falácia ecológica.</td>
+<td style="text-align: left;">Fenômeno real (fechamento escolar) → registros administrativos anuais do INEP → banco relacional em MS Access → operacionalização de “escola fechada” por comparação bianual (ativa/paralisada no ano t → extinta no ano t+1) → análise em dois estágios (hotspot + regressão). Unidade: município (N=5.412). Dois períodos para a regressão (2006, 2017). Viés potencial: escolas que mudam de categoria rural→urbana não são contadas como fechadas, o que pode subestimar o fenômeno em áreas de reclassificação territorial.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Achados e Contribuições</td>
+<td style="text-align: left;">Os achados descritivos (tabelas 1–3) são bem documentados e robustos. Os achados inferenciais (tabela 4) são tecnicamente sólidos mas sofrem das limitações do DGP descritas acima. A contribuição teórica — introduzir raça como dimensão central na ecologia política da educação — é genuína e bem articulada.</td>
+<td style="text-align: left;">Descritivos: 142.401 escolas rurais fechadas (65%); concentração no Nordeste (48,6% do total) e Sul (17,1%); 90% dos fechamentos em escolas municipais. Inferenciais: GINI fundiário é o preditor mais forte (IRR=3,28; p&lt;0,01); proporção de negros é o segundo (IRR=2,75; p&lt;0,001); urbanização reduz fechamentos (IRR=0,49); orientação política federal não é estatisticamente significativa. Contribuição metodológica: uso de big data censitário combinado com análise espacial para questão educacional crítica.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Análise Crítica dos Achados</td>
+<td style="text-align: left;">(a) <strong>Falácia ecológica</strong>: inferir sobre comunidades negras a partir de proporções municipais é problemático — município com 30% de negros pode ter fechamentos concentrados em bairros/assentamentos específicos, e o design não capta isso. (b) <strong>Causalidade reversa parcial</strong>: municípios onde escolas já fecharam podem ter visto evasão de populações negras (seleção amostral dinâmica não discutida). (c) <strong>Confundidores omitidos</strong>: densidade demográfica rural, distância de centros urbanos e investimento per capita em educação não aparecem como controles. (d) <strong>Dois pontos temporais</strong>: a análise de painel com apenas 2006 e 2017 não permite verificar se a associação raça-fechamentos se mantém em outros períodos; os hotspots descritivos mostram variação temporal considerável. (e) O achado de que “orientação política federal não é significativa” é empiricamente importante mas subteorizado — o artigo atribui isso à autonomia municipal sem explorar como o poder local media raça e fundiário.</td>
+<td style="text-align: left;">O design identifica com força a correlação entre Gini e fechamentos, e entre composição racial e fechamentos; identifica com menor força a direção causal e os mecanismos intermediários.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Limitações</td>
+<td style="text-align: left;"><strong>Reconhecidas pelos autores:</strong> Restrição a dois períodos na análise multivariada; inconsistências nos microdados do Censo Escolar (escolas que mudam de categoria); ausência de análise do nível municipal de decisão política. <br> <strong>Não reconhecidas ou subestimadas:</strong> Falácia ecológica na inferência sobre “comunidades negras”; mensuração de raça com dado censitário de corte único (2010) aplicado a série temporal de 25 anos; ausência de controles para densidade demográfica rural e investimento educacional per capita; possível viés de seleção por reclassificação rural-urbana; o modelo de efeitos aleatórios assume ausência de correlação entre os efeitos não observados e os regressores, o que é discutível dada a estrutura da desigualdade fundiária brasileira.</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Perspectiva Teórica</td>
+<td style="text-align: left;">A moldura da ecologia política da educação (Meek 2020) é usada com coerência: articula questões de poder, economia política e movimentos sociais. A incorporação de colonialidade do saber (Porto-Gonçalves, Santos) e de interseccionalidade é relevante e bem calibrada ao objeto. A ontologia implícita é relacional e construtivista, coerente com a estratégia qualitativo-crítica da literatura review, mas parcialmente em tensão com o positivismo inferencial do componente quantitativo.</td>
+<td style="text-align: left;">Ecologia política da educação; colonialidade do poder e do saber (Quijano/Santos); pedagogia crítica (Freire); questão agrária (Bernstein, McMichael); interseccionalidade.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Principais Referências</td>
+<td style="text-align: left;">Meek (2020) é a referência central para o quadro teórico; Dávila (2003), Winant (1992), Marcus (2013) para raça no Brasil; Bernstein (1996, 2004, 2008), McMichael (1997) para questão agrária; Tarlau (2013, 2015, 2017, 2018) para MST e educação do campo. O diálogo com literatura quantitativa sobre determinantes de fechamento escolar em outros países é praticamente ausente — uma lacuna que enfraquece a contextualização comparativa.</td>
+<td style="text-align: left;">Referências centrais bem integradas; ausência de literatura quantitativa comparada sobre fechamentos escolares.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Observações</td>
+<td style="text-align: left;">O artigo é pioneiro ao cruzar análise espacial censitária em grande escala com quadro teórico crítico de raça e ecologia política. A principal vulnerabilidade está na distância entre o “claim of discovery” (processo fundamentalmente racializado) e o que o design realmente identifica (correlação ecológica entre composição municipal e fechamentos). Para a pesquisa do leitor em políticas de ensino superior e desigualdade educacional no Brasil, o artigo oferece tanto uma metodologia de análise de dados censitários do INEP quanto um enquadramento teórico interseccional aplicável a outros níveis de ensino.</td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</section>
+<section id="mapa-argumentativo" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="mapa-argumentativo">Mapa Argumentativo</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 8%">
+<col style="width: 19%">
+<col style="width: 28%">
+<col style="width: 43%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Seção</th>
+<th style="text-align: left;">Título / Tema</th>
+<th style="text-align: left;">Função argumentativa</th>
+<th style="text-align: left;">Contribuição para a tese central</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Introdução</td>
+<td style="text-align: left;">Escopo do problema e três questões geográficas</td>
+<td style="text-align: left;">Apresentação do puzzle e das hipóteses centrais</td>
+<td style="text-align: left;">Estabelece a escala do fenômeno (142.401 escolas; 65%) e anuncia os três achados principais como antecipação da tese</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Seção 2a</td>
+<td style="text-align: left;">Geografia das categorias raciais e injustiça epistêmica</td>
+<td style="text-align: left;">Fundamento teórico-conceitual</td>
+<td style="text-align: left;">Demonstra que a distribuição geográfica de raça no Brasil é herança colonial, criando a base para a hipótese de que fechamentos seguem essa mesma lógica territorial</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Seção 2b</td>
+<td style="text-align: left;">Educação, raça e questão agrária no Brasil</td>
+<td style="text-align: left;">Revisão histórica e contextualização teórica</td>
+<td style="text-align: left;">Articula a história do uso da educação como instrumento de branqueamento e dominação agrária; introduz Freire, MST e Educação do Campo como vetores de resistência</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Seção 3</td>
+<td style="text-align: left;">Métodos e análises</td>
+<td style="text-align: left;">Fundamento metodológico</td>
+<td style="text-align: left;">Justifica as escolhas de DGP (Censo Escolar), operacionalização de “escola fechada”, análise espacial (Getis-Ord*) e regressão binomial negativa de painel</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Seção 4</td>
+<td style="text-align: left;">Resultados</td>
+<td style="text-align: left;">Análise empírica</td>
+<td style="text-align: left;">Apresenta os achados descritivos (Tabelas 1–3, Figuras 1–3) e inferenciais (Tabela 4), confirmando as três hipóteses; introduz achado sobre transição agrária como qualificação</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Seção 5</td>
+<td style="text-align: left;">Conclusões</td>
+<td style="text-align: left;">Síntese e agenda</td>
+<td style="text-align: left;">Reafirma a tese de que raça e Gini fundiário estruturam os fechamentos; propõe contribuições teóricas (interseccionalidade na ecologia política da educação) e agenda de pesquisa futura</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="sec-introducao" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="sec-introducao"><span class="header-section-number">1</span> Introdução (pp.&nbsp;1–3)</h2>
+<section id="apresentação-do-puzzle-e-das-três-questões-geográficas-16" class="level3" data-number="1.1">
+<h3 data-number="1.1" class="anchored" data-anchor-id="apresentação-do-puzzle-e-das-três-questões-geográficas-16"><span class="header-section-number">1.1</span> Apresentação do puzzle e das três questões geográficas [§1–§6]</h3>
+<p>O artigo se abre contextualizando um processo de escala extraordinária: nas últimas vinte e cinco anos, o Estado brasileiro fechou mais de 142.401 escolas rurais, o que corresponde a 65% de toda a rede escolar rural existente no período. Em 2016 isoladamente, mais de 11.732 escolas foram encerradas. Os autores enquadram esse fenômeno não como uma série de decisões administrativas pontuais, mas como um <strong>processo territorial espacialmente extenso e intensivo</strong>, cuja lógica precisa ser explicada.</p>
+<p>A contribuição teórica anunciada é dupla. No campo da ecologia política da educação — perspectiva que os autores definem, com base em Meek (2020), como “atenta à forma como a distribuição de poder e recursos entre entidades políticas e culturais interconectadas medeia processos pedagógicos” —, as questões de raça haviam permanecido largamente invisíveis. O artigo propõe preencher essa lacuna por meio de três contribuições: (1) demonstrar como uma lente histórica ilumina a inequidade racializada desde uma perspectiva de ecologia política da educação; (2) mostrar como raça, educação e formação do Estado se entrelaçam no Brasil; e (3) evidenciar como movimentos sociais de base mobilizam a educação como instrumento de resistência ao capitalismo agrário.</p>
+<p>O artigo organiza seus resultados em torno de três perguntas geográficas explícitas, que o texto antecipa com as respostas principais ainda na introdução. Primeiro, o padrão espacial dos fechamentos concentra-se em hotspots que coincidem com territórios de comunidades de cor e com presença do agronegócio — nas regiões Centro-Oeste e Sul, onde o agronegócio é mais forte, aproximadamente 80% das escolas foram fechadas; no Norte e Nordeste, com maior proporção de pessoas de cor, cerca de 60% das escolas rurais desapareceram. Segundo, a composição racial do município é preditora significativa: em municípios com maior proporção de residentes negros autodeclarados, a taxa de incidência de fechamentos é 175% maior. Terceiro, a concentração fundiária é o preditor de maior tamanho de efeito: um aumento de uma unidade no índice de Gini está associado a uma elevação de 228% na taxa de fechamentos.</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>A introdução opera como síntese antecipada: ao revelar os achados centrais já nos primeiros parágrafos, os autores estabelecem o argumento como confirmação empírica de uma denúncia dos movimentos sociais rurais — o que confere coerência normativa ao texto, mas também revela a estrutura confirmacionista do desenho de pesquisa.</p>
+</div>
+</div>
+</section>
+</section>
+<section id="sec-secao2a" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="sec-secao2a"><span class="header-section-number">2</span> Geografia Racial e Injustiça Epistêmica (pp.&nbsp;4–5)</h2>
+<section id="distribuição-demográfica-e-ambiguidade-das-categorias-de-cor-710" class="level3" data-number="2.1">
+<h3 data-number="2.1" class="anchored" data-anchor-id="distribuição-demográfica-e-ambiguidade-das-categorias-de-cor-710"><span class="header-section-number">2.1</span> Distribuição demográfica e ambiguidade das categorias de cor [§7–§10]</h3>
+<p>Os autores iniciam essa seção reconhecendo o problema semântico e político inerente ao uso de categorias de cor no Brasil. Os censos brasileiros historicamente utilizaram o termo <em>côr</em> (cor) em vez de raça ou etnia, e apenas em 1991 a categoria <em>indígena</em> foi incluída. O termo <em>pardo</em> é próximo do sem sentido analítico, abrangendo desde “meio-negro” até “moreno de pele escura” (Marcus 2013: 1290). Mesmo os termos <em>preto</em> e <em>branco</em> não são vinculantes nem binários no Brasil — são construções flexíveis, arbitrárias e de múltiplos subtextos. Reconhecendo essas ambiguidades, os autores optam por trabalhar com as categorias censitárias disponíveis, que ainda assim oferecem orientação sobre a distribuição demográfica.</p>
+<p>Os dados do IBGE 2010 mostram que a região mais populosa é o Sudeste (42,6% da população), com São Paulo e Rio de Janeiro como centros urbanos principais. O Nordeste é o segundo (28,1%), seguido do Sul (14,8%), Norte (7,6%) e Centro-Oeste (6,9%). A composição racial nacional é: brancos (53,8%), pardos (38,5%), pretos (6,2%), amarelos (0,4%), indígenas (0,4%) e não declarados (0,7%). Regionalmente, o Sul tem a maior proporção de brancos autodeclarados (84%), o Norte tem a maior proporção de pardos (64%) e o Nordeste concentra a maior proporção de pretos (8%). A região Norte também é lar da maior população indígena (1,6%).</p>
+</section>
+<section id="coloniality-injustiça-epistêmica-e-a-lógica-do-fechamento-escolar-1113" class="level3" data-number="2.2">
+<h3 data-number="2.2" class="anchored" data-anchor-id="coloniality-injustiça-epistêmica-e-a-lógica-do-fechamento-escolar-1113"><span class="header-section-number">2.2</span> Coloniality, injustiça epistêmica e a lógica do fechamento escolar [§11–§13]</h3>
+<p>Os autores argumentam que esses padrões demográficos regionais não são acidentais: são herança direta da agricultura de plantation colonial — bananas, cacau e açúcar no Nordeste — que estruturou a distribuição de populações afrodescendentes no país (Marcus 2013). Essa territorialização racializada foi reciprocamente reforçada pela <strong>coloniality do poder</strong> e pela geopolítica da produção de conhecimento. O colonialismo inscreveu a branquitude como identidade padrão associada à produção legítima de saber. A concepção de que camponeses são “desprovidos de conhecimento” é produto de um processo racializado de invisibilização.</p>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Os autores invocam Santos (2002) para afirmar que o que o cânone ocidental não reconhece como legítimo é negado e tornado invisível. O fechamento de escolas rurais é enquadrado, a partir desse raciocínio, como apagamento de <strong>epistemologias camponesas negras</strong> — um marcador de colonialidade. Em resposta, movimentos sociais agrários buscam tornar visíveis outros sistemas de saber, engajando-se no que Porto-Gonçalves (2006) denomina <em>re-existência</em>.</p>
+</div>
+</div>
+</section>
+</section>
+<section id="sec-secao2b" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="sec-secao2b"><span class="header-section-number">3</span> Educação, Raça e a Questão Agrária no Brasil (pp.&nbsp;5–10)</h2>
+<section id="o-mito-da-democracia-racial-e-o-estado-como-agente-de-branqueamento-1418" class="level3" data-number="3.1">
+<h3 data-number="3.1" class="anchored" data-anchor-id="o-mito-da-democracia-racial-e-o-estado-como-agente-de-branqueamento-1418"><span class="header-section-number">3.1</span> O mito da democracia racial e o Estado como agente de branqueamento [§14–§18]</h3>
+<p>A seção se inicia com a afirmação de que o Brasil é, para muitos, um país onde falar sobre raça “não faz sentido”. Desde a década de 1930, o país foi apresentado como democracia racial — ideia popularizada por Gilberto Freyre, sustentando que o Brasil seria único entre as antigas colônias em sua harmonia racial e aceitação da miscigenação. A partir dos anos 1950, porém, esse imaginário começou a ruir à medida que a discriminação estrutural contra afro-brasileiros tornava-se mais visível. Os autores seguem Serrão (2022), Silva (2016) e Guimarães (2001) ao rejeitar esse mito e propor que o racismo estrutural opera territorialmente.</p>
+<p>O artigo reconstrói a história da educação brasileira como instrumento de formação racial do Estado. Willinsky (1998) é mobilizado para mostrar que desde o colonialismo europeu, o “estudo, classificação e ordenamento da humanidade em contexto imperial deu origem a ideias peculiares e poderosas de raça, cultura e nação” (p.&nbsp;3). No Brasil, entre 1917 e 1945, o Estado expandiu o sistema escolar com o objetivo declarado de “aperfeiçoar a raça” — criar uma “raça brasileira” saudável, culturalmente europeia e fisicamente apta (Dávila 2003: 3). A negritude era associada ao passado e à patologia; a mistura racial simbolizava progresso rumo à branquitude; a branquitude era associada à saúde, à ciência e à modernidade. As reformas educacionais do período privilegiaram aparência, hábitos e valores da classe média branca. Como Dávila (2003) argumenta, reformar o sistema de ensino era a estratégia central para construir uma nação culturalmente branca.</p>
+<p>Durante a ditadura militar (1964–1984), o regime investiu em educação como instrumento de desenvolvimento econômico urbano, concentrando gastos no ensino médio e superior em centros urbanos e deixando as regiões rurais em situação de crônica subinvestimento. A Lei de Reforma Educacional de 1971 cedeu alguma autoridade sobre o ensino básico aos estados, mas apenas a Constituição de 1988 devolveu plenamente esse controle a estados e municípios. Ainda assim, duas décadas de política econômica urbano-industrial deixaram sequelas profundas nas regiões rurais. Entre 1980 e 1996, a proporção de alunos que concluíam a quarta série no Brasil subiu de 50% para 75%, e os que terminavam o ensino médio, de 17% para 25% (Reimers 2000: 67) — mas a vasta maioria das crianças deixadas para trás nessa expansão eram de zonas rurais.</p>
+</section>
+<section id="economia-política-da-educação-e-o-papel-dos-movimentos-sociais-1923" class="level3" data-number="3.2">
+<h3 data-number="3.2" class="anchored" data-anchor-id="economia-política-da-educação-e-o-papel-dos-movimentos-sociais-1923"><span class="header-section-number">3.2</span> Economia política da educação e o papel dos movimentos sociais [§19–§23]</h3>
+<p>Os autores articulam a economia política da educação diretamente com a questão agrária. A disparidade geográfica na oferta educacional replica a distribuição historicamente inequitativa da terra (Plank 1987). Municípios rurais no Norte e Nordeste historicamente recebiam um sexto dos recursos destinados aos municípios do Sul urbano (Gadotti 1992), e em 1990 os gastos por aluno nos estados mais pobres do Nordeste eram um terço daqueles nos estados mais ricos do Sul (Reimers 2000). Governos municipais controlados por latifundiários engajados em clientelismo são os administradores burocráticos das escolas públicas rurais (Tarlau 2013). A classe dominante brasileira governou simultaneamente a terra e a educação com o objetivo de preservar o capitalismo agro-industrial e deslocar o campesinato para áreas urbanas.</p>
+<p>Paulo Freire (1921–1997) é apresentado como ponto de viragem nessa trajetória. Seu trabalho no Nordeste — e posteriormente no Chile — articulou uma compreensão de consciência crítica e práxis diretamente conectada ao campesinato: em <em>Ação cultural para a liberdade</em> (1970), o termo “camponês” aparece mais de 70 vezes. Como Michael Apple (2003) observa, Freire sabia por experiência própria que a opressão é “codificada por cor”, e que a política de raça era arena central de contestação nas lutas dos afro-brasileiros.</p>
+<blockquote class="blockquote">
+<p><strong>Nota:</strong> Haymes (2002) realizou análise crítica detalhada sobre a presença e ausência de raça nos escritos de Freire, referência que os autores citam em nota de rodapé mas não desenvolvem no corpo do texto. <a href="https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/111334221/51a156d6-65e1-4d9a-82af-199bfdd408d1/jpe-5135-meek.pdf?AWSAccessKeyId=ASIA2F3EMEYE6HQVZ3TP&amp;Signature=uGL%2FHKq%2FDZvxiwKqqQOem%2F1101g%3D&amp;x-amz-security-token=IQoJb3JpZ2luX2VjEKD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIFOrPJNBZl31OThdxSFXP0CK73G6KTYl2AxXi1LIB8dZAiBiSGnB2852Xj26tgvbSud54PoR37YIJpbmTkKJHNVMpirzBAhpEAEaDDY5OTc1MzMwOTcwNSIMoZUFTE4o%2FTxPjNTLKtAESKH8Za007TMR0%2B4PVL%2FTDi5p6wwa254E9%2FTjiqt2wDKQgcVfykX%2FYrNXC367LcQJORpqgVda0Bc0ut88RqQIJKprW9eJtLfsRGTUAkWqOdKB0ICbDipUaqPDFrj8KwzOM6oBadRwpnqMwvTQkzKIhU9YgmazOzVgtH87swKe7pxikAb8n7S9zPckX7chQXb7Addwjiy1oowHovJrfTXHuXxLoqTaa9dke9PFY8lRZyCuiSGRrO0RISCpvAAR77KzP8iTDU7NLl84pvjnfX8f5xFvZupIL0WZLLclR1%2BK6EnzGo6udRaTNLR%2B2T1jI4PEJP1akuFGC%2BVh%2FwSGtjuGkRHMPB5Jlj85Hh6hOoh0%2FvRXbRU4e0y4eixWQBvnLv410xA67lyBw2rsfQ%2FdgZjzqw3pfnNLkZznsRzg0l0y8YGR5o74rlMdWjhcqWxz%2BoMxb6Ef3JDsF%2FwoAcSp9rftbbRnmTbMONlLy%2BI40wRqvg2sTlHjWtonPJ8IToqXJZZSydDbVTkeT8Mhw5yZ%2BTGoXzvo4q%2BmIC36wBM7CQAVOsUE4GEyMBxNb4pJuAWCAQ1WJD46KHQiYeVvhKa8JbNY0IfBaZBJScC4488koesplQkjj%2FS6xVTgJdQIFSJTpZzgxDGdxQHjGmd2oskLq6HY6y6op3nid8RP%2FZCESIQ9IaLGgRYtRTxJMTXK7qYww9Nodfki8db8Az1g9WCVQZres9zpyV%2BKRokODeT6Cr2bvra7TIqLTXtDapPJh7cLdRGV1mrKVHhQBSyUoGkhvKfUajCbspnQBjqZAatl9mVTNNs2pevj9QAW5O8loquRf0VNFNPcfgQDv0kk3MkTMc4yd1NE3XVz%2BfqwyaE7oeTWbU%2B1SyFKzQXDKY2BJ0%2BY4hOnXA9V1%2BSlM9GZIVhk23ZoGLNk%2F2tMhsjoVKwB8FQTFRpEiR%2Fp4QUOzZS%2B2M4YWf6Mxjze70vtn4Zq6qsCN77V4hxGvxLXv5hib%2FYPk%2FmIwFnnZA%3D%3D&amp;Expires=1778803218">ppl-ai-file-upload.s3.amazonaws</a></p>
+</blockquote>
+<p>O Movimento dos Trabalhadores Sem Terra (MST) é apresentado como o ator que transformou a pedagogia crítica freiriana em programa educacional organizado. Ao longo dos anos 1980, líderes do MST que ocupavam terra para conquistar direitos agrários também desenvolveram atividades pedagógicas para crianças e programas de alfabetização para adultos em acampamentos. Na Primeira Reunião Nacional de Educadores da Reforma Agrária (ENERA) em 1997, representantes de organizações internacionais como UNESCO e UNICEF incentivaram o MST a expandir seu programa educacional para incluir populações indígenas, comunidades negras e trabalhadores rurais — momento em que o conceito de <strong>Educação do Campo</strong> entrou no debate nacional.</p>
+</section>
+<section id="educação-do-campo-nucleação-e-imaginários-espaciais-em-conflito-2431" class="level3" data-number="3.3">
+<h3 data-number="3.3" class="anchored" data-anchor-id="educação-do-campo-nucleação-e-imaginários-espaciais-em-conflito-2431"><span class="header-section-number">3.3</span> Educação do Campo, nucleação e imaginários espaciais em conflito [§24–§31]</h3>
+<p>A <em>Educação do Campo</em> é definida pelos autores como educação que se origina do campo e é relevante para ele, um paradigma que valoriza a identidade agrária, as práticas agroecológicas e a soberania alimentar. Segundo o <em>Dicionário da Educação do Campo</em> (Caldart et al.&nbsp;2012), essa proposta combina a luta pela educação com a luta pela terra, reforma agrária, direito ao trabalho, cultura e soberania alimentar. Ela se opõe diametralmente à “educação rural” tradicional, que os autores descrevem como ligada aos interesses do agronegócio — denegratória das áreas rurais e orientada para encorajar estudantes a migrar para cidades. As <em>escolas do campo</em> integram <strong>formação</strong> (desenvolvimento de liderança política, educação crítica e conscientização) ao lado de oportunidades educativas convencionais.</p>
+<p>O fechamento de escolas rurais opera através de um processo espacial conhecido como <strong>nucleação</strong> (<em>nucleação</em>): escolas rurais com baixa matrícula são identificadas, seus alunos são transferidos para escolas maiores centralizadas, e as escolas esvaziadas são fechadas. Quando não há escolas suficientes para esse processo, os alunos são simplesmente levados de ônibus até a cidade mais próxima. Miguel Arroyo (2007) argumenta que as políticas de nucleação são manifestações de uma política pública inspirada pelas demandas de “modernização” da agricultura e expansão do agronegócio. O MST compartilha dessa leitura: nas palavras de Erivan Hilário, do setor de educação do MST, “o fechamento de escolas no campo não pode ser entendido apenas como tendência educacional. O que está em jogo é a escolha do governo de um modelo de desenvolvimento para as áreas rurais, que é o agronegócio.”</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>O conceito de <strong>imaginários espaciais</strong> (Wolford 2004) é central para o argumento: o agronegócio concebe o espaço rural como vazio de pessoas, homogêneo e orientado para a produção — o que legitima a consolidação de propriedades e viabiliza um modelo de alta tecnologia e baixo insumo de trabalho. Em contraste, os movimentos camponeses articulam uma visão alternativa em que os espaços rurais são produzidos por tradições agrárias e produzem vida. A Educação do Campo é, nesse sentido, um argumento espacial sobre educação.</p>
+</div>
+</div>
+<p>A seção se encerra com a discussão da dimensão etno-racial da Educação do Campo. Munanga e Gomes (2016) fornecem o conceito de “etno-racial” para capturar simultaneamente a dimensão cultural (língua, tradição, ancestralidade) e a racial (características físicas visíveis) do que significa “ser negro” no Brasil. Silva e Barbosa (1997) sugerem que a educação tornou-se espaço central tanto para denunciar a desumanização de sujeitos negros quanto para desenvolver consciência crítica. A Educação do Campo é descrita como projeto que rejeita o mito da democracia racial e constrói epistemologias baseadas nas experiências vividas pelo campesinato negro, articulando o que Walsh (2009) denomina <strong>interculturalidade crítica</strong>.</p>
+</section>
+</section>
+<section id="sec-metodos" class="level2" data-number="4">
+<h2 data-number="4" class="anchored" data-anchor-id="sec-metodos"><span class="header-section-number">4</span> Métodos e Análises (pp.&nbsp;10–12)</h2>
+<section id="banco-de-dados-e-operacionalização-do-fechamento-escolar-3236" class="level3" data-number="4.1">
+<h3 data-number="4.1" class="anchored" data-anchor-id="banco-de-dados-e-operacionalização-do-fechamento-escolar-3236"><span class="header-section-number">4.1</span> Banco de dados e operacionalização do fechamento escolar [§32–§36]</h3>
+<p>O artigo baseia-se em um banco de dados de registros escolares municipais cobrindo todos os municípios brasileiros entre 1996 e 2021. A fonte primária é o <strong>Censo Escolar</strong> (<em>Censo Escolar</em>), principal instrumento de coleta de estatísticas educacionais do país, administrado pelo INEP em colaboração com secretarias municipais, estaduais e federais. O banco contém dados sobre matrícula, professores, modalidades de ensino e localização da escola, entre mais de cem variáveis. Os dados do Censo Escolar informam a distribuição de recursos do FUNDEB (Fundo de Manutenção e Desenvolvimento da Educação Básica) aos governos estaduais e municipais.</p>
+<p>Para calcular o número de fechamentos municipais, os autores construíram um banco relacional em Microsoft Access, extraindo as seguintes variáveis: ano do censo, “variável de escola” (status operacional, localização, tipo administrativo), código de unidade federativa, sigla do estado, código e nome do município, e código da escola. O código municipal funcionou como chave relacional para integrar diversas bases.</p>
+<p>A operacionalização de “escola fechada” foi uma etapa metodologicamente crítica. Segundo o INEP, uma escola é classificada como “Extinta” quando encerrou definitivamente as atividades escolares (distinta de “Ativa” ou “Paralisada”). Para escolas rurais, indígenas e quilombolas, a Lei n.º 12.960/2014 estabeleceu que o fechamento deve ser precedido de manifestação do órgão regulador e da comunidade escolar. Os autores definiram “escola fechada” como aquela que aparece com o status “extinta” no ano t e estava “ativa” ou “paralisada” no ano t-1. Para evitar duplicações geradas por inconsistências históricas nos microdados — especialmente em censos anteriores a 2007 —, utilizaram comparações bianuais.</p>
+<blockquote class="blockquote">
+<p><strong>Nota :</strong> As notas de rodapé 5 e 6 do artigo detalham inconsistências metodológicas significativas: escolas podem mudar de localização (rural→urbana), de tipo administrativo ou de código municipal (quando um município se divide). Uma escola que era rural/paralisada/estadual em 2012 e passou a ser municipal/ativa/urbana em 2013 não é contada como fechada, mesmo que a escola original tenha efetivamente encerrado suas atividades sob aquela configuração. Isso introduz potencial subestimação sistemática em áreas de expansão urbana.</p>
+</blockquote>
+</section>
+<section id="análise-geoespacial-e-regressão-de-painel-3740" class="level3" data-number="4.2">
+<h3 data-number="4.2" class="anchored" data-anchor-id="análise-geoespacial-e-regressão-de-painel-3740"><span class="header-section-number">4.2</span> Análise geoespacial e regressão de painel [§37–§40]</h3>
+<p>Para a análise espacial, os autores utilizaram ArcMap 10.5 e calcularam o número de fechamentos/aberturas de escolas para oito períodos correspondentes aos ciclos eleitorais federais (1994, 1998, 2002, 2006, 2010, 2014, 2016, 2020). O primeiro passo foi testar a autocorrelação espacial dos fechamentos com o índice de Moran’s I. O resultado confirmou autocorrelação estatisticamente significativa (Z=31,0; p=0), justificando a aplicação do teste de hotspot <strong>Getis-Ord*</strong> — que identifica concentrações espacialmente significativas de fechamentos escolares.</p>
+<p>Na segunda etapa, os autores construíram um banco de variáveis adicionais: taxas de analfabetismo, pós-graduação e cursos de Educação do Campo; variáveis agrárias (índice de Gini fundiário, percentual de agricultores familiares, proporção de agricultores proprietários); e dados demográficos (raça e nível socioeconômico). A análise estatística usou o programa STATA 17. O modelo escolhido foi a <strong>regressão binomial negativa de painel com efeitos aleatórios</strong>, justificada por três razões: (a) variação mínima em alguns municípios; (b) sobredispersão da variável dependente (média=2,41; DP=8,19); (c) teste de Hausman não-significativo ((^2(11)=3,70); p=0,81), que justifica efeitos aleatórios sobre efeitos fixos. A análise multivariada ficou restrita a dois anos — 2006 e 2017 — por disponibilidade de dados completos, resultando em 10.824 observações (de 11.140 possíveis, com 316 excluídos por deleção listwise).</p>
+</section>
+</section>
+<section id="sec-resultados" class="level2" data-number="5">
+<h2 data-number="5" class="anchored" data-anchor-id="sec-resultados"><span class="header-section-number">5</span> Resultados (pp.&nbsp;12–20)</h2>
+<section id="padrão-regional-e-institucional-dos-fechamentos-4147" class="level3" data-number="5.1">
+<h3 data-number="5.1" class="anchored" data-anchor-id="padrão-regional-e-institucional-dos-fechamentos-4147"><span class="header-section-number">5.1</span> Padrão regional e institucional dos fechamentos [§41–§47]</h3>
+<p>Os autores apresentam os resultados descritivos agrupados geograficamente, sustentando que as disparidades regionais são empiricamente pronunciadas e teoricamente orientadas pela ecologia política regional (Blaikie e Brookfield 1987). A Tabela 1 revela que 65% de todas as escolas rurais brasileiras foram fechadas entre 1994 e 2020 — um total de 142.401 estabelecimentos. As regiões com maior percentual de fechamentos são o Sul (83%) e o Centro-Oeste (80%), onde o agronegócio tem maior controle territorial. O Nordeste e o Norte — com a maior proporção de pessoas de cor — apresentam, respectivamente, 63% e 58% de fechamentos. O Sudeste tem 59%.</p>
+<p>Institucionalmente, 90% de todos os fechamentos rurais ocorrem em escolas municipais, 9% em estaduais e aproximadamente 1% em federais e privadas. Como as escolas municipais são responsáveis pelo <strong>Ensino Fundamental</strong>, a crise de fechamentos incide precisamente na educação elementar — o que impede as comunidades rurais de obter a formação básica necessária para acessar o ensino médio e superior.</p>
+<p>A Tabela 2 detalha os fechamentos por estado. Mato Grosso do Sul encabeza o ranking nacional com 93% das escolas rurais fechadas. Rondônia, na Amazônia ocidental, fechou 89%. Os estados da Região Sul — Paraná, Santa Catarina e Rio Grande do Sul — apresentam taxas de 85%, 85% e 80%, respectivamente. Em contraste, o Distrito Federal (23%) e o Amapá (30%) têm as menores taxas.</p>
+</section>
+<section id="ciclos-políticos-e-temporalidade-dos-fechamentos-4852" class="level3" data-number="5.2">
+<h3 data-number="5.2" class="anchored" data-anchor-id="ciclos-políticos-e-temporalidade-dos-fechamentos-4852"><span class="header-section-number">5.2</span> Ciclos políticos e temporalidade dos fechamentos [§48–§52]</h3>
+<p>A Tabela 3 mostra que o fenômeno perpassa todos os governos do período, mas com intensidades muito distintas. Dos 142.401 fechamentos, 73.868 (51,8%) ocorreram durante os dois mandatos de Fernando Henrique Cardoso (FHC), a uma média de 9.233 escolas por ano. Nos dois mandatos de Lula, esse número caiu para 32.850 (23,1%), com média de 4.106 por ano. No primeiro mandato de Dilma Rousseff, a média caiu para 3.588 anuais; no segundo, o número foi de 4.151 (2,9%) antes de ser interrompido pelo golpe político de 2016. Após o golpe, durante o governo Temer, houve uma alta precipitada: 11.732 fechamentos (8,2%) somente em 2016. Sob Bolsonaro, a taxa recuou levemente para 7.670 (5,3%).</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Os autores interpretam a queda nos governos petistas como resultado de políticas favoráveis à Educação do Campo e de pressão dos movimentos sociais, em especial o MST. Contudo, como o próprio artigo reconhece, a orientação político-ideológica do partido federal <strong>não</strong> foi uma variável estatisticamente significativa no modelo de regressão — o que sugere que o mecanismo opera predominantemente no nível municipal, não federal.</p>
+</div>
+</div>
+<p>Os mapas de hotspots (Figura 3) mostram que as maiores concentrações de fechamentos nas décadas de 1990 e 2000 estavam no Nordeste e no Sul. A diferença entre os primeiros três mapas (1994–2002) e os cinco seguintes é marcante: os hotspots diminuem tanto em intensidade quanto em extensão ao longo do tempo. Rondônia, que foi um hotspot persistente nos anos 1990, deixou de sê-lo a partir de 2010 — o que os autores apontam como questão para pesquisa futura sem resposta no artigo.</p>
+</section>
+<section id="fatores-preditores-dos-fechamentos-análise-multivariada-5359" class="level3" data-number="5.3">
+<h3 data-number="5.3" class="anchored" data-anchor-id="fatores-preditores-dos-fechamentos-análise-multivariada-5359"><span class="header-section-number">5.3</span> Fatores preditores dos fechamentos: análise multivariada [§53–§59]</h3>
+<p>A Tabela 4 apresenta o modelo de regressão binomial negativa com os Incident Rate Ratios (IRR). O índice de Gini fundiário é o preditor mais forte: IRR=3,28 (p&lt;0,01), indicando que um aumento de uma unidade no Gini está associado a um aumento de 228% na taxa de fechamentos. A proporção de residentes negros no município é o segundo preditor mais forte: IRR=2,75 (p&lt;0,001), correspondendo a um aumento de 175% na taxa de incidência. A urbanização tem efeito protetor: IRR=0,49 (p&lt;0,001), reduzindo os fechamentos em cerca de 51%. O número de famílias assentadas aumenta os fechamentos em 6% (IRR=1,06; p&lt;0,001). A proporção de agricultores não-proprietários reduz os fechamentos em 31% (IRR=0,69; p&lt;0,01). A agricultura não-subsistência reduz os fechamentos em 38% (IRR=0,62; p&lt;0,05). As variáveis de orientação política (centro, direita) não são estatisticamente significativas.</p>
+<p>Os achados sobre pequenas propriedades rurais e agricultura não-subsistência parecem aparentemente contraditórios com o argumento central. Os autores interpretam esse resultado como evidência de que pequenas propriedades (menos de 200 ha) estão em transição da agricultura familiar para a agricultura comercial, com intensificação do trabalho assalariado e mecanização — um processo de <strong>despesantização</strong> em que a demanda por escolas rurais cai por substituição de força de trabalho familiar por trabalho contratado. Esse processo de diferenciação de classes é respaldado por McMichael (1997, 2012) e Bernstein (2004, 2008). O artigo exemplifica com o caso da região metropolitana de São Paulo, onde pequenas fazendas transitam para produção intensiva de plantas ornamentais com base em trabalho assalariado.</p>
+<blockquote class="blockquote">
+<p><strong>Nota :</strong> O artigo inclui um achado temporal relevante: o IRR para 2017 em relação a 2006 é 0,88 (p&lt;0,001), indicando redução significativa na taxa de fechamentos no período mais recente. Os autores atribuem isso ao aumento de municípios com zero fechamentos, o que é consistente com a leitura descritiva dos mapas de hotspots.</p>
+</blockquote>
+</section>
+</section>
+<section id="sec-conclusoes" class="level2" data-number="6">
+<h2 data-number="6" class="anchored" data-anchor-id="sec-conclusoes"><span class="header-section-number">6</span> Conclusões (pp.&nbsp;20–21)</h2>
+<section id="contribuições-teóricas-e-metodológicas-6065" class="level3" data-number="6.1">
+<h3 data-number="6.1" class="anchored" data-anchor-id="contribuições-teóricas-e-metodológicas-6065"><span class="header-section-number">6.1</span> Contribuições teóricas e metodológicas [§60–§65]</h3>
+<p>A seção conclusiva abre com Roderick Neumann (2005: 1) para reafirmar que “o ambiente e a forma como adquirimos, disseminamos e legitimamos conhecimento sobre ele são altamente politizados, reflexivos de relações de poder e contestados.” Os autores propõem ter contribuído para a ecologia política da educação em três dimensões interseccionais.</p>
+<p>A primeira contribuição é teórica: a análise demonstra que raça estrutura não apenas o acesso a recursos educacionais, mas também o conteúdo pedagógico. O movimento Educação do Campo é apresentado como modelo de resistência interseccional, articulando saberes de comunidades negras, indígenas e camponesas por meio do <em>diálogo das saberes</em> (Martínez-Torres e Rosset 2014). Os resultados empíricos confirmam que a desigualdade racial histórica é preditor estatisticamente significativo dos fechamentos — evidência de que o controle da produção de conhecimento é inseparável da questão fundiária.</p>
+<p>A segunda contribuição é metodológica: a combinação de análise geoespacial avançada e regressão de painel em dados censitários de grande escala permite responder a uma pergunta fundamentalmente espacial sobre a crise. Os autores reiteram os três eixos interseccionais que propõem para pesquisa futura: (a) como histórias de violência estrutural racializam o espaço educacional; (b) como a concentração fundiária é, em si mesma, uma forma de concentração de conhecimento; (c) como a Educação do Campo oferece um modelo de resistência interseccional a partir de posições subalternas.</p>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>O artigo termina com uma questão aberta: se os fechamentos foram maiores sob governos conservadores e menores sob governos de esquerda, mas essa variável não é estatisticamente significativa no modelo, que outros fatores — provavelmente ao nível municipal — explicam essa variação? Os autores sugerem que clientelismo e compra de votos em eleições municipais disputadas poderiam ser hipóteses relevantes para pesquisa futura, mas não as testam.</p>
+</div>
+</div>
+</section>
+</section>
+<section id="argumento-sintético" class="level2" data-number="7">
+<h2 data-number="7" class="anchored" data-anchor-id="argumento-sintético"><span class="header-section-number">7</span> Argumento Sintético</h2>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Tese central:</strong> O fechamento massivo de escolas rurais no Brasil (65% do total entre 1994 e 2020) é um processo fundamentalmente racializado e estruturado pela desigualdade fundiária, no qual municípios com maior proporção de residentes negros e maiores índices de concentração de terra apresentam taxas significativamente mais altas de encerramento escolar — configurando o que os autores denominam uma crise de ecologia política da educação em que racismo estrutural e capitalismo agrário se sobrepõem territorialmente.</p>
+<p><strong>Natureza do argumento:</strong> Misto — descritivo-explicativo na dimensão empírica (análise espacial e regressão de painel); teórico-normativo na dimensão da ecologia política da educação e da colonialidade do saber. O argumento é de contribuição teórica (integrar raça à ecologia política da educação) sustentada por evidência quantitativa.</p>
+<p><strong>O que o texto demonstra:</strong> (a) Que o fenômeno dos fechamentos tem padrão espacial não-aleatório, com hotspots identificáveis e persistentes; (b) que raça e Gini fundiário são os preditores mais robustos da variação intermunicipal nas taxas de fechamento; (c) que 90% dos fechamentos ocorrem em escolas municipais de ensino fundamental, o que revela o locus institucional da crise; (d) que o ciclo político federal afeta descritivamente a escala dos fechamentos, mas não é variável estatisticamente significativa no modelo.</p>
+<p><strong>O que fica como hipótese ou agenda:</strong> O mecanismo causal intermediário entre raça/terra e fechamentos não é identificado — o design correlacional em nível municipal não explica <em>como</em> essa relação opera (via clientelismo? via pressão do agronegócio sobre prefeitos? via lógica burocrática de nucleação?). O caso de Rondônia, que reverteu o padrão de hotspot, permanece sem explicação. A hipótese sobre clientelismo municipal é sugerida mas não testada.</p>
+<p><strong>Contribuição para o debate:</strong> O artigo inova ao deslocar a ecologia política da educação de uma agenda centrada em lugar, escala e pós-humanismo para uma que coloca raça no centro da análise. Metodologicamente, representa o uso mais sistemático de dados censitários em grande escala aplicado a questões de ecologia política educacional no Brasil. Para o campo da política educacional comparada, o artigo oferece evidência de que a gestão descentralizada (municipalização) pode amplificar desigualdades raciais quando desacompanhada de mecanismos redistributivos robustos — um resultado com implicações para debates sobre descentralização em outros países do Sul Global.</p>
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>Annotated Bibliography</category>
+  <category>Political Ecology</category>
+  <category>Education Policy</category>
+  <category>Race and Inequality</category>
+  <category>Brazil</category>
+  <category>2024</category>
+  <category>2020s</category>
+  <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Meek-etal2024.html</guid>
+  <pubDate>Thu, 14 May 2026 03:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Fichamento: Educational Expansion and Social Mobility in the 20th Century</title>
   <dc:creator>Tales Mançano</dc:creator>
@@ -9132,322 +9551,6 @@ Note
   <category>Federalism</category>
   <category>Institutional Change</category>
   <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Falleti2010.html</guid>
-  <pubDate>Fri, 08 May 2026 03:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Fichamento: Movimentos socioterritoriais e movimentos socioespaciais: contribuição teórica para uma leitura geográfica dos movimentos sociais</title>
-  <dc:creator>Tales Mançano</dc:creator>
-  <link>https://mancano-tales.github.io/Annotated-Bibliography/posts/Fernandes2005.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Fernandes, B. M. (2005). Movimentos socioterritoriais e movimentos socioespaciais: contribuição teórica para uma leitura geográfica dos movimentos sociais. <em>Revista NERA</em>, <em>8</em>(6), 14–34.</p>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Entrada BibTeX → Fernandes2005
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
-background-color: null;
-font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">Fernandes2005</span>,</span>
-<span id="cb1-2"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">author</span>  = {Fernandes, Bernardo Mançano},</span>
-<span id="cb1-3"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">title</span>   = {Movimentos socioterritoriais e movimentos socioespaciais: contribuição teórica para uma leitura geográfica dos movimentos sociais},</span>
-<span id="cb1-4"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">year</span>    = {2005},</span>
-<span id="cb1-5"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">journal</span> = {Revista NERA},</span>
-<span id="cb1-6"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">volume</span>  = {8},</span>
-<span id="cb1-7"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">number</span>  = {6},</span>
-<span id="cb1-8"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">pages</span>   = {14--34},</span>
-<span id="cb1-9">}</span></code></pre></div></div>
-</div>
-</div>
-</div>
-<p>Última atualização: 2026-05-08 Modelo: Perplexity — Claude Sonnet 4.6 Prompt Version: v13.0 2026-04-19 | 2026-04-24 “IA Blog Post QMD” Gerado em: 2026-05-08T11:04:00-03:00</p>
-<hr>
-<section id="introdução-pp.-2425" class="level2" data-number="1">
-<h2 data-number="1" class="anchored" data-anchor-id="introdução-pp.-2425"><span class="header-section-number">1</span> Introdução (pp.&nbsp;24–25)</h2>
-<section id="contextualização-do-problema-e-apresentação-do-programa-de-pesquisa-14" class="level3" data-number="1.1">
-<h3 data-number="1.1" class="anchored" data-anchor-id="contextualização-do-problema-e-apresentação-do-programa-de-pesquisa-14"><span class="header-section-number">1.1</span> Contextualização do problema e apresentação do programa de pesquisa [§1–§4]</h3>
-<p>O artigo abre posicionando o território como conceito que, embora crescentemente adotado em diversas áreas do conhecimento na última década, é utilizado de maneira redutora — como uma dimensão das relações sociais — quando, na verdade, o território é <strong>multidimensional</strong> e constitui uma totalidade. Fernandes aponta que mesmo geógrafos reproduzem essa visão unidimensional, muitas vezes importada de outras disciplinas, o que empobrece as potencialidades analíticas da Geografia.</p>
-<p>O texto se apresenta como um novo ensaio de uma reflexão em andamento no Núcleo de Estudos, Pesquisas e Projetos de Reforma Agrária (NERA), da UNESP/Presidente Prudente. O autor informa que as primeiras reflexões sobre <strong>movimentos socioterritoriais</strong> remontam à sua tese de doutorado (Fernandes, 2000a), dedicada às ações do Movimento dos Trabalhadores Rurais Sem Terra (MST) em todo o território brasileiro, e que o presente artigo busca aprofundar esse debate à luz de Santos (1988, 1996), Lefebvre (1991), Raffestin (1993), Oliveira (1991), Gonçalves (2001) e Fernandes e Martin (2004).</p>
-<p>O autor reforça que os conceitos de <strong>movimento socioterritorial</strong> e <strong>movimento socioespacial</strong> ainda estão em processo de formação, mas já se constituem como referências importantes para as leituras geográficas dos movimentos sociais. A motivação política da elaboração teórica é explicitada: diante dos intensos processos de exclusão social gerados pelas políticas neoliberais, torna-se urgente pensar espaços e territórios como ferramentas de compreensão das conflitualidades. O artigo revisita os conceitos de espaço e território e apresenta o conceito de processos geográficos como categoria intermediária entre esses dois pólos.</p>
-<hr>
-</section>
-</section>
-<section id="espaço-e-território-pp.-2628" class="level2" data-number="2">
-<h2 data-number="2" class="anchored" data-anchor-id="espaço-e-território-pp.-2628"><span class="header-section-number">2</span> Espaço e Território (pp.&nbsp;26–28)</h2>
-<section id="o-espaço-como-composicionalidade-e-completude-59" class="level3" data-number="2.1">
-<h3 data-number="2.1" class="anchored" data-anchor-id="o-espaço-como-composicionalidade-e-completude-59"><span class="header-section-number">2.1</span> O espaço como composicionalidade e completude [§5–§9]</h3>
-<p>Fernandes parte da definição de Lefebvre (1991, p.&nbsp;102): <strong>o espaço social é a materialização da existência humana</strong>. Essa amplitude, reconhece o autor, oferece desafios à Geografia, disciplina que tem o espaço como categoria de análise. Adverte que a utilização irrefletida do conceito pode torná-lo uma panacéia — espaço sem qualificação vira tudo e nada ao mesmo tempo. Para evitar equívocos, esclarece que o espaço social está contido no espaço geográfico, criado originalmente pela natureza e continuamente transformado pelas relações sociais, que geram outros tipos de espaços materiais e imateriais: políticos, culturais, econômicos e ciberespaços.</p>
-<p>O conceito-chave que o autor propõe para operacionalizar esse entendimento é o de <strong>composicionalidade</strong>: o espaço compreende e só pode ser plenamente compreendido em todas as dimensões que o compõem simultaneamente. Dessa propriedade deriva outra, a <strong>completitude</strong> (ou <em>completividade</em>): o espaço possui a qualidade de ser um todo mesmo sendo parte. O espaço geográfico, portanto, é formado pelos elementos da natureza e pelas dimensões sociais — cultura, política, economia — que as relações humanas produzem. Cada tipo de espaço (social, político, cultural) complementa o espaço geográfico sem, contudo, reduzi-lo.</p>
-<p>O espaço é descrito como <em>multidimensional, pluriescalar ou multiescalar, em intenso processo de completibilidade, conflitualidade e interação</em>. Fernandes critica as leituras fragmentárias — parciais, unidimensionais, uniescalares — que promovem desigualdades e exclusão ao apresentar o todo como parte. A superação dessa visão exige métodos que “desfragmentem” o espaço e preservem suas qualidades composicionais e completivas. Ao final, resgata a definição de Milton Santos (1996, p.&nbsp;50): o espaço é “formado por um conjunto indissociável, solidário e também contraditório, de sistemas de objetos e sistemas de ações, não considerados isoladamente, mas como o quadro único no qual a história se dá”.</p>
-</section>
-<section id="intencionalidade-poder-e-produção-de-território-1014" class="level3" data-number="2.2">
-<h3 data-number="2.2" class="anchored" data-anchor-id="intencionalidade-poder-e-produção-de-território-1014"><span class="header-section-number">2.2</span> Intencionalidade, poder e produção de território [§10–§14]</h3>
-<p>O autor argumenta que as relações sociais produzem espaços fragmentados por meio de <strong>intencionalidades</strong>: uma visão de mundo que delimita o espaço para se diferenciar e se identificar. Ao fazê-lo, transforma a parte em todo e o todo em parte — o espaço político é reduzido ao político, o econômico ao econômico. Essa operação é simultaneamente uma <em>ação propositiva</em> que interage com uma <em>ação receptiva</em>: sem receptividade, a representação do espaço como fração não se sustenta. Trata-se, portanto, de uma forma de poder.</p>
-<p>É nessa dinâmica que emerge o <strong>território</strong>: o espaço apropriado por uma determinada relação social que o produz e o mantém a partir de uma forma de poder concedida pela receptividade. O território é, ao mesmo tempo, uma convenção e uma confrontação — por possuir limites e fronteiras, é por definição um espaço de conflitualidades. Fernandes diferencia espaço de território: o espaço é <em>a priori</em> e perene; o território é <em>a posteriori</em> e intermitente. As relações sociais transformam espaço em território e vice-versa, e esses movimentos são indissociáveis.</p>
-<p>O território é descrito como multidimensional a partir do mesmo princípio da composicionalidade aplicado ao espaço: ainda que seja uma fração do espaço geográfico, carrega as mesmas qualidades completivas. Fernandes dialoga com Raffestin (1993, p.&nbsp;63), que define território como sistemas de ações e sistemas de objetos — definição próxima à de Milton Santos para o espaço geográfico, o que leva o autor a afirmar que espaço geográfico e território, ainda que diferentes, são “o mesmo” em natureza estrutural. Toda território é um espaço, mas nem todo espaço é um território. Os territórios existem em múltiplas escalas e tipos: países, estados, municípios, bairros, propriedades, corpos, pensamentos e paradigmas — concretos e imateriais.</p>
-</section>
-<section id="território-imaterial-conhecimento-e-multiterritorialidade-1518" class="level3" data-number="2.3">
-<h3 data-number="2.3" class="anchored" data-anchor-id="território-imaterial-conhecimento-e-multiterritorialidade-1518"><span class="header-section-number">2.3</span> Território imaterial, conhecimento e multiterritorialidade [§15–§18]</h3>
-<p>Fernandes amplia o conceito de território ao plano imaterial: um paradigma científico, por exemplo, constitui um território imaterial. O <strong>conhecimento</strong> é um tipo importante de território, o que torna o método essencial: os métodos de análise são espaços mentais onde os pensamentos são elaborados. A mobilidade de territórios imateriais sobre o espaço geográfico, por meio da intencionalidade, determina a construção de territórios concretos. Sem a produção de espaços e territórios, o conhecimento pode ser subordinado por outras relações sociais, espaços e territórios.</p>
-<p>O autor critica economistas que tratam o território como mera dimensão do desenvolvimento, reduzindo-o a uma relação social setorial. Essa compreensão unidimensional é, segundo Fernandes, equivocada: tanto o desenvolvimento quanto o território são multidimensionais. Dentro dos territórios nacionais existem diferentes territórios, constituindo o que Haesbaert (2004) denominou de <strong>multiterritorialidades</strong>. A conclusão da seção é que os movimentos desiguais, contraditórios e conflitivos pelos quais as relações sociais produzem espaços e territórios são denominados <strong>processos geográficos</strong>.</p>
-<hr>
-</section>
-</section>
-<section id="processos-geográficos-pp.-2830" class="level2" data-number="3">
-<h2 data-number="3" class="anchored" data-anchor-id="processos-geográficos-pp.-2830"><span class="header-section-number">3</span> Processos Geográficos (pp.&nbsp;28–30)</h2>
-<section id="os-processos-primários-espacialização-espacialidade-territorialização-e-territorialidade-1925" class="level3" data-number="3.1">
-<h3 data-number="3.1" class="anchored" data-anchor-id="os-processos-primários-espacialização-espacialidade-territorialização-e-territorialidade-1925"><span class="header-section-number">3.1</span> Os processos primários: espacialização, espacialidade, territorialização e territorialidade [§19–§25]</h3>
-<p>Os processos geográficos são também processos sociais: as relações sociais produzem espaços, lugares, territórios, regiões e paisagens ao mesmo tempo em que são produzidas por eles. Essa indissociabilidade promove os movimentos dos espaços sociais e dos territórios nos espaços geográficos. Fernandes enumera os <strong>quatro processos geográficos primários</strong>: (1) espacialização, (2) espacialidade, (3) territorialização e (4) territorialidade; e os <strong>três processos procedentes</strong>: desterritorialização, reterritorialização, desterritorialidade e reterritorialidade.</p>
-<p>A <strong>territorialização</strong> é a expansão contínua ou interrompida do território. A <strong>territorialidade</strong> é a manifestação dos movimentos das relações sociais mantenedoras dos territórios, produzindo e reproduzindo ações próprias ou apropriadas. O autor distingue dois tipos de territorialidade: a <em>local</em> (simples ou múltipla) e a <em>deslocada</em>. A territorialidade local simples ocorre quando um espaço é usado para uma única finalidade — um hospital. A territorialidade local múltipla refere-se ao uso de um mesmo território em diferentes momentos e para diferentes fins, como uma rua usada para tráfego, lazer nos fins de semana e feira livre uma vez por semana. A <strong>desterritorialidade</strong> acontece quando uma dessas ações é impedida; a <strong>reterritorialidade</strong>, quando ela retorna.</p>
-<p>Exemplos de <strong>territorialidade deslocada</strong> são as reproduções de ações, relações ou expressões próprias de um território que ocorrem em outros territórios: pessoas tomando chimarrão no Sudeste ou Nordeste, ou dançando forró, rock ou tango em São Paulo — resultados de interações e convivências com diferentes culturas.</p>
-</section>
-<section id="espacialização-espacialidade-e-o-processo-tdr-2629" class="level3" data-number="3.2">
-<h3 data-number="3.2" class="anchored" data-anchor-id="espacialização-espacialidade-e-o-processo-tdr-2629"><span class="header-section-number">3.2</span> Espacialização, espacialidade e o processo TDR [§26–§29]</h3>
-<p>A <strong>espacialização</strong> é o movimento concreto das ações e sua reprodução no espaço geográfico e no território. É circunstancial — o presente, no sentido de Santos (1988) — e irreversível: uma vez realizada, torna-se fato acontecido, impossível de destruir. Ao contrário da territorialização, não é expansão, mas fluxo e refluxo da multidimensionalidade. Por isso, “desespacialização” não existe como categoria. Exemplos: a circulação de mercadorias no comércio e as marchas do MST.</p>
-<p>A <strong>espacialidade</strong> é o movimento contínuo ou o multidimensionamento de uma ação — ela carrega o significado da ação sem que esta se concretize. É subjetiva, enquanto a espacialização é objetiva. Exemplos: propagandas e lembranças da memória. Espacialidade e espacialização podem ocorrer concomitantemente. Ao contrário da relação entre territorialização e desterritorialização — que não ocorrem ao mesmo tempo e no mesmo lugar, embora possam ocorrer simultaneamente em lugares diferentes — os processos espaciais são mais fluidos.</p>
-<p>O grande processo geográfico que envolve território é o <strong>TDR</strong>: <em>territorialização – desterritorialização – reterritorialização</em>. Nele acontecem simultaneamente expansão e destruição, criação e refluxo. Exemplos oferecidos pelo autor: empresas capitalistas que se instalam e abandonam cidades conforme conjunturas políticas e econômicas; o agronegócio e a agricultura camponesa modificando paisagens e estruturas fundiárias; a polícia prendendo traficantes que controlam bairros, com o tráfico sendo reorganizado semanas depois; ou um paradigma científico que entra em crise, é abandonado e posteriormente retomado.</p>
-<hr>
-</section>
-</section>
-<section id="movimentos-socioterritoriais-e-movimentos-socioespaciais-pp.-3032" class="level2" data-number="4">
-<h2 data-number="4" class="anchored" data-anchor-id="movimentos-socioterritoriais-e-movimentos-socioespaciais-pp.-3032"><span class="header-section-number">4</span> Movimentos Socioterritoriais e Movimentos Socioespaciais (pp.&nbsp;30–32)</h2>
-<section id="origem-do-conceito-e-superação-do-referencial-sociológico-3033" class="level3" data-number="4.1">
-<h3 data-number="4.1" class="anchored" data-anchor-id="origem-do-conceito-e-superação-do-referencial-sociológico-3033"><span class="header-section-number">4.1</span> Origem do conceito e superação do referencial sociológico [§30–§33]</h3>
-<p>As primeiras reflexões sobre o conceito de movimentos socioterritoriais datam da segunda metade da década de 1990 e foram publicadas no artigo “Movimento Social como Categoria Geográfica” (Fernandes, 2000b). Continuaram no debate com o geógrafo Jean Yves Martin (2001), resultando em publicação conjunta sobre o MST e a globalização (Fernandes; Martin, 2004). O esforço, explica o autor, foi superar os conteúdos sociológicos do conceito de movimento social, que, embora amplamente utilizado por geógrafos, contribui pouco para um estudo dos processos geográficos desenvolvidos pelos movimentos — sua produção e construção de espaços sociais e transformação de espaços em territórios.</p>
-<p>Fernandes esclarece que movimento social e movimento socioterritorial <em>não são entidades distintas</em>: trata-se do mesmo sujeito coletivo visto desde perspectivas diferentes. Desde a perspectiva sociológica, fala-se em movimento social; desde a perspectiva geográfica, em movimento socioterritorial ou socioespacial. A diferença não é ontológica, mas analítica. Isso posto, o autor define os movimentos como instituições tanto informais quanto formais (sindicatos, empresas, estados, igrejas, ONGs) que se organizam para defender interesses, em possíveis enfrentamentos, com objetivo de transformação da realidade.</p>
-</section>
-<section id="a-distinção-central-trunfo-territorial-versus-produção-de-espaço-3437" class="level3" data-number="4.2">
-<h3 data-number="4.2" class="anchored" data-anchor-id="a-distinção-central-trunfo-territorial-versus-produção-de-espaço-3437"><span class="header-section-number">4.2</span> A distinção central: trunfo territorial versus produção de espaço [§34–§37]</h3>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong>Distinção fundamental:</strong> Todo movimento produz algum tipo de espaço — por isso todos são <em>socioespaciais</em>. Mas nem todo movimento tem o <strong>território como trunfo</strong> (Raffestin, 1993). Apenas aqueles para os quais o território é essencial à sua existência são denominados <em>socioterritoriais</em>.</p>
-</div>
-</div>
-<p>Os <strong>movimentos socioterritoriais</strong> têm o território não apenas como trunfo, mas como razão de ser. São exemplos: movimentos camponeses, indígenas, empresas, sindicatos e estados — todos criam relações sociais para tratar diretamente de seus interesses, produzindo seus próprios espaços e territórios. A construção de um tipo de território implica, quase sempre, a destruição de outro, de modo que a maior parte desses movimentos se forma a partir de processos de territorialização e desterritorialização.</p>
-<p>As <strong>organizações não governamentais (ONGs)</strong> constituem-se apenas como movimentos socioespaciais: são agências de mediação que representam reivindicações de espaços e ou de territórios, mas não existem <em>a partir</em> de um território. Trabalham com representações de interesses alheios — desde multinacionais até movimentos indígenas — e produzem espaços políticos e se espacializam, mas não possuem território definido como trunfo. As <strong>igrejas</strong> podem ser tanto socioespaciais quanto socioterritoriais, dependendo se atuam como agências de mediação ou em defesa de interesses próprios.</p>
-</section>
-<section id="tipologia-dos-movimentos-e-exemplos-empíricos-3842" class="level3" data-number="4.3">
-<h3 data-number="4.3" class="anchored" data-anchor-id="tipologia-dos-movimentos-e-exemplos-empíricos-3842"><span class="header-section-number">4.3</span> Tipologia dos movimentos e exemplos empíricos [§38–§42]</h3>
-<p>Fernandes oferece uma tipologia operacional dos movimentos socioterritoriais segundo sua escala geográfica de atuação:</p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 17%">
-<col style="width: 32%">
-<col style="width: 50%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Tipo</th>
-<th style="text-align: left;">Definição</th>
-<th style="text-align: left;">Características</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Isolados</td>
-<td style="text-align: left;">Atuam em microrregião ou espaço geográfico equivalente</td>
-<td style="text-align: left;">Escala restrita; não necessariamente sem contato com outras instituições</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Territorializados</td>
-<td style="text-align: left;">Atuam em diversas macrorregiões</td>
-<td style="text-align: left;">Formam redes; estratégias políticas de territorialização; todos começaram como isolados</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Socioespaciais</td>
-<td style="text-align: left;">Agências de mediação</td>
-<td style="text-align: left;">Não possuem território como trunfo; escala variável, do local ao global</td>
-</tr>
-</tbody>
-</table>
-<p>Segundo pesquisas da Comissão Pastoral da Terra (2005, pp.&nbsp;219–224), existiam até 31 de dezembro de 2004 cerca de 240 movimentos socioespaciais e socioterritoriais atuando no território brasileiro. A maior parte era de movimentos socioterritoriais isolados, que respondiam por número menor de ações; os movimentos territorializados executavam número maior de ações; os movimentos socioespaciais apareciam como agências de mediação.</p>
-<p>No campo e na floresta, os movimentos socioterritoriais são predominantemente movimentos camponeses, camponeses-indígenas e indígenas em luta pela terra e pelo território. Na cidade, são predominantemente movimentos de sem-teto, que constroem espaços e se espacializam para conquistar o território, promovendo a territorialização da luta pela moradia. O Greenpeace é citado como exemplo de movimento socioespacial global; organizações de bairro em luta por serviços (energia elétrica, asfalto, escolas) exemplificam o socioespacial em escala local.</p>
-<p>Tanto os movimentos socioespaciais quanto os socioterritoriais enfrentam <strong>contra-espaços</strong> (Moreira, 2002), estudados por Feliciano (2003) no caso das medidas políticas do Estado como barreiras espaciais à espacialização e territorialização dos movimentos camponeses. O conflito é fato presente nas ações dos movimentos socioterritoriais, promovendo desenvolvimento e refluxo nas políticas institucionais. Exclusão, negociação e ressocialização são condições superadas por meio da construção de espaços e conquista de territórios.</p>
-<hr>
-</section>
-</section>
-<section id="considerações-finais-pp.-3233" class="level2" data-number="5">
-<h2 data-number="5" class="anchored" data-anchor-id="considerações-finais-pp.-3233"><span class="header-section-number">5</span> Considerações Finais (pp.&nbsp;32–33)</h2>
-<section id="potencial-político-e-epistemológico-dos-conceitos-4345" class="level3" data-number="5.1">
-<h3 data-number="5.1" class="anchored" data-anchor-id="potencial-político-e-epistemológico-dos-conceitos-4345"><span class="header-section-number">5.1</span> Potencial político e epistemológico dos conceitos [§43–§45]</h3>
-<p>Fernandes encerra argumentando que a construção dos conceitos é processo amplo e de debate permanente, e que compreendê-los é importante para superar preconceitos contra sujeitos que lutam pela conquista de seus territórios — frequentemente criminalizados como “baderneiros” por terem penetrado em espaços dos quais foram excluídos. A leitura geográfica é estratégica para mapear os movimentos das forças políticas sobre o espaço geográfico — transformando paisagens, criando e destruindo territórios.</p>
-<p>O autor defende que os conceitos de movimento socioespacial e socioterritorial são tentativas de <strong>desfragmentação do espaço e do território</strong>: oferecem uma leitura mais ampla do que as categorias sociológicas convencionais, embora sempre parcial — a totalidade da realidade é um processo coletivo que só pode ser compreendida no movimento de todos. A contribuição à Geografia consiste em fornecer uma leitura autônoma da disciplina, capaz de dialogar com outras áreas do conhecimento sem lhes ser subordinada.</p>
-<hr>
-</section>
-</section>
-<section id="argumento-sintético" class="level2" data-number="6">
-<h2 data-number="6" class="anchored" data-anchor-id="argumento-sintético"><span class="header-section-number">6</span> Argumento Sintético</h2>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong>Tese central:</strong> O conceito de movimento social, de origem sociológica, é insuficiente para a análise geográfica das ações coletivas porque não capta a produção, disputa e transformação de espaços e territórios que lhes são constitutivas; a substituição analítica pelos conceitos de <strong>movimento socioespacial</strong> (todo coletivo que produz espaço) e <strong>movimento socioterritorial</strong> (coletivo para o qual o território é trunfo existencial) permite uma leitura geográfica plena dessas dinâmicas.</p>
-<p><strong>Natureza do argumento:</strong> Conceitual-normativo. O autor não testa hipóteses empiricamente, mas elabora e justifica categorias teóricas a partir de revisão bibliográfica e exemplos ilustrativos, com vistas a oferecer um quadro analítico para pesquisas empíricas futuras.</p>
-<p><strong>O que o texto demonstra:</strong> A inadequação da categoria sociológica de movimento social para o trabalho geográfico; a viabilidade lógica da distinção entre socioespacial e socioterritorial a partir das propriedades composicionais do espaço e do papel do território como trunfo (Raffestin); a aplicabilidade da tipologia a casos concretos brasileiros (MST, sem-teto, ONGs, Greenpeace).</p>
-<p><strong>O que fica como hipótese ou agenda:</strong> A operacionalização rigorosa dos conceitos para análises empíricas comparadas; o estudo sistemático das transições de movimentos isolados para territorializados; a avaliação da capacidade explicativa da tipologia em contextos fora do Brasil.</p>
-<p><strong>Contribuição ao debate:</strong> O texto insere-se no esforço de autonomização teórica da Geografia brasileira frente às Ciências Sociais, propondo um vocabulário disciplinar próprio para os estudos de movimentos sociais que integra as tradições de Milton Santos, Lefebvre e Raffestin em uma síntese original voltada para realidades do Sul Global.</p>
-</div>
-</div>
-<hr>
-</section>
-<section id="ficha-analítica-crítica" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="ficha-analítica-crítica">Ficha Analítica Crítica</h2>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Esta seção segue o formato <em>IA Planilhando Textos v13.0</em>.</p>
-</div>
-</div>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Ficha Analítica — Tabela Markdown
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-5" class="callout-5-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<table class="caption-top table">
-<colgroup>
-<col style="width: 23%">
-<col style="width: 52%">
-<col style="width: 23%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Dimensão</th>
-<th style="text-align: left;">Raciocínio analítico</th>
-<th style="text-align: left;">Conteúdo</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Questão de Pesquisa</td>
-<td style="text-align: left;">A pergunta não é enunciada explicitamente, mas pode ser reconstruída a partir da crítica ao conceito sociológico de movimento social. A premissa central é que toda ação coletiva tem dimensão espacial e territorial irredutível; a interpretação alternativa — que o conceito sociológico basta para a Geografia — é descartada como insuficiente. O ponto mais vulnerável é a ausência de critérios operacionais claros para distinguir empiricamente quando um movimento “tem o território como trunfo”.</td>
-<td style="text-align: left;"><strong>Pergunta reconstruída:</strong> De que modo os conceitos de movimento socioespacial e movimento socioterritorial permitem uma leitura geográfica mais adequada dos movimentos sociais do que o referencial sociológico convencional? Natureza: conceitual-normativa.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Questões Secundárias</td>
-<td style="text-align: left;">A formulação das secundárias apoia-se nas distinções entre espaço e território, nas propriedades dos processos geográficos e na diferenciação entre tipos de movimentos. O risco é que a resposta a cada pergunta secundária depende de definições que o próprio texto está construindo simultaneamente, criando alguma circularidade.</td>
-<td style="text-align: left;">(1) O que distingue ontologicamente espaço de território? (2) Quais são os processos geográficos pelos quais movimentos produzem e disputam territórios? (3) Como diferenciar operacionalmente movimentos socioespaciais de socioterritoriais? (4) Que tipologia de movimentos socioterritoriais pode ser construída com base em sua escala geográfica de atuação? Todas as secundárias articulam-se em torno da pergunta central, operando como etapas construtivas do argumento.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Puzzle-Type</td>
-<td style="text-align: left;">O puzzle é de gap conceitual-disciplinar: a ausência de categorias geográficas próprias para a análise de movimentos sociais. É genuíno no contexto da Geografia brasileira dos anos 1990–2000, em que o referencial sociológico dominava. A generalizabilidade além do caso brasileiro depende de verificação empírica em outros contextos geopolíticos e tradições disciplinares, o que o texto não realiza.</td>
-<td style="text-align: left;">Gap conceitual-disciplinar: a Geografia carece de vocabulário próprio para analisar movimentos sociais em sua dimensão espacial e territorial. O puzzle é legítimo dentro do campo, mas é apresentado de forma normativa, sem revisão sistemática da literatura geográfica internacional sobre o tema.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Conclusão / Argumento Central</td>
-<td style="text-align: left;">A conclusão é consistente com as premissas, mas apoia-se mais na plausibilidade lógica das categorias do que em evidências empíricas sistematizadas. O <em>claim of discovery</em> — a originalidade da distinção socioespacial/socioterritorial — é sustentado principalmente pela ausência de equivalentes na literatura sociológica, não por uma demonstração comparativa com outras propostas geográficas.</td>
-<td style="text-align: left;">Todo movimento social produz espaço (logo, é socioespacial), mas apenas aqueles para os quais o território é trunfo existencial constituem movimentos socioterritoriais. O argumento é conceitual: propõe categorias analíticas derivadas das propriedades ontológicas do espaço e do território. O que sustenta o <em>claim</em> é a coerência interna das definições e a consistência com as referências teóricas mobilizadas.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Métodos</td>
-<td style="text-align: left;">Por ser ensaio teórico, a vulnerabilidade metodológica principal é a ausência de protocolo explícito de revisão de literatura e de critérios de seleção dos exemplos ilustrativos. Os exemplos são evocados ad hoc para ilustrar conceitos já definidos, não para testá-los.</td>
-<td style="text-align: left;">Ensaio teórico-conceitual. Estratégia argumentativa: (1) revisão e rearticulação de conceitos de espaço e território a partir de Santos, Lefebvre e Raffestin; (2) elaboração de conceitos intermediários (processos geográficos, TDR); (3) aplicação da moldura aos movimentos sociais; (4) ilustração com casos empíricos não sistematizados. Não há coleta de dados primários, trabalho de campo ou análise estatística.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Data Generation Process (DGP)</td>
-<td style="text-align: left;">O DGP é inteiramente textual-argumentativo. A única fonte de dados empíricos (Comissão Pastoral da Terra, 2005) é citada sem discussão metodológica sobre como foram classificados os 240 movimentos. O nível de inferência é teórico: da consistência conceitual para a aplicabilidade analítica.</td>
-<td style="text-align: left;">Fenômeno real: produção e disputa de espaços e territórios por movimentos sociais → Observação: revisão bibliográfica e experiência de pesquisa do NERA → Operacionalização: definição de categorias por propriedades ontológicas → Análise: consistência lógica das definições e exemplos ilustrativos → Inferência: proposta de quadro analítico transferível. Unidade de análise: o movimento social como coletivo.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Achados e Contribuições</td>
-<td style="text-align: left;">O ponto mais forte é a distinção analítica entre socioespacial e socioterritorial, que tem sido efetivamente incorporada à literatura geográfica brasileira. O mais especulativo é a afirmação de que ONGs são <em>apenas</em> socioespaciais — esse limite é imposto por definição, não demonstrado empiricamente.</td>
-<td style="text-align: left;">Contribuição teórico-conceitual: (1) distinção entre espaço como composicionalidade e território como espaço apropriado por relação de poder; (2) sistematização de quatro processos geográficos primários e três procedentes; (3) distinção operacional entre movimentos socioespaciais e socioterritoriais; (4) tipologia de movimentos por escala (isolados, territorializados, socioespaciais). Dado empírico: ~240 movimentos atuando no Brasil até 2004 (CPT, 2005).</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Análise Crítica dos Achados</td>
-<td style="text-align: left;">O critério “território como trunfo” (Raffestin) não é operacionalizado: quando exatamente um movimento cruza o limiar do socioespacial para o socioterritorial? A exclusão definitiva das ONGs da categoria socioterritorial é assertiva e não contempla casos limítrofes (ex.: ONGs territorialmente enraizadas). A generalizabilidade para contextos urbanos e do Norte Global não é discutida.</td>
-<td style="text-align: left;">O texto responde adequadamente à pergunta reconstruída no plano conceitual. Ponto mais forte: coerência interna entre ontologia (espaço multidimensional) e categorias analíticas derivadas. Ponto mais vulnerável: ausência de critério operacional para distinguir empiricamente os tipos de movimentos. Ameaça à identificação: circularidade — “movimento socioterritorial é aquele que tem o território como trunfo” define pelo definiendum. <em>Scope conditions</em> declaradas: contexto brasileiro pós-neoliberal; não declaradas: tradição disciplinar específica da Geografia crítica brasileira.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Limitações</td>
-<td style="text-align: left;"><strong>Reconhecidas pelos autores:</strong> As ideias estão “em processo de formação” e a leitura socioterritorial “sempre será uma leitura parcial”. <br> <strong>Não reconhecidas ou subestimadas:</strong> (1) Ausência de diálogo com a literatura internacional sobre social movements e contentious politics (Tilly, McAdam, Tarrow); (2) critério de distinção socioespacial/socioterritorial não operacionalizado; (3) único dado empírico (CPT, 2005) não discutido metodologicamente; (4) possível viés normativo em favor dos movimentos camponeses/indígenas, que pode comprometer a neutralidade analítica da tipologia.</td>
-<td style="text-align: left;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Perspectiva Teórica</td>
-<td style="text-align: left;">A ontologia implícita é relacional e materialista: espaço e território são produzidos pelas relações sociais, não dados naturalmente. Isso é coerente com as fontes mobilizadas. A ausência de diálogo com perspectivas pós-estruturalistas (Massey, Harvey, Soja) ou com a tradição anglófona de critical geography é uma limitação significativa para a validade externa dos conceitos.</td>
-<td style="text-align: left;">Geografia crítica brasileira, com influências do materialismo histórico-geográfico (Lefebvre, Santos), da geografia política do poder (Raffestin) e da tradição de estudos agrários críticos (Oliveira, Gonçalves). Adequação: a moldura é coerente com o objeto (movimentos territoriais no Brasil agrário), mas sua aplicabilidade a movimentos urbanos contemporâneos ou a contextos do Norte Global não é demonstrada.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Principais Referências</td>
-<td style="text-align: left;">O diálogo com a literatura sociológica sobre movimentos sociais é deliberadamente limitado (crítica ao referencial sociológico), o que pode ser lido como lacuna ou como escolha disciplinar consciente. A ausência de referências à geografia anglófona é a omissão mais significativa.</td>
-<td style="text-align: left;">Santos (1988, 1996); Lefebvre (1991); Raffestin (1993); Oliveira (1991); Gonçalves (2001); Haesbaert (2004); Fernandes e Martin (2004); Comissão Pastoral da Terra (2005). Referências internas ao próprio autor: Fernandes (2000a, 2000b). Diálogo restrito: sem Tilly, Tarrow, Harvey, Massey ou Soja; sem referências à geografia anglófona de movimentos sociais.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Observações</td>
-<td style="text-align: left;">A relação com a pesquisa do leitor é alta: o quadro conceitual de Fernandes é amplamente utilizado em estudos sobre MST, movimentos indígenas e sem-teto no Brasil, e serve como referência obrigatória para geógrafos e cientistas sociais que trabalham com conflitos territoriais. A distinção socioespacial/socioterritorial pode ser produtivamente articulada com abordagens de contentious politics e com a literatura sobre <em>scale</em> em Geografia política.</td>
-<td style="text-align: left;">O artigo tem valor principalmente como manifesto disciplinar: seu impacto real na literatura geográfica brasileira supera sua solidez epistemológica estrita. Para fins de uso em pesquisa empírica, recomenda-se complementá-lo com operacionalização mais precisa dos critérios de classificação dos movimentos e com diálogo explícito com a literatura internacional sobre movimentos sociais e conflitos territoriais.</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-</div>
-
-
-</section>
-
- ]]></description>
-  <category>Annotated Bibliography</category>
-  <category>Geografia Política</category>
-  <category>Movimentos Sociais</category>
-  <category>Teoria do Território</category>
-  <category>Geografias Críticas</category>
-  <category>Reforma Agrária</category>
-  <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Fernandes2005.html</guid>
   <pubDate>Fri, 08 May 2026 03:00:00 GMT</pubDate>
 </item>
 </channel>
