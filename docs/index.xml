@@ -12,6 +12,567 @@
 <generator>quarto-1.9.37</generator>
 <lastBuildDate>Thu, 14 May 2026 03:00:00 GMT</lastBuildDate>
 <item>
+  <title>Fichamento: Lei de Cotas: mudança estrutural em política pública e vitória suprapartidária da coalizão dos pés descalços no parlamento do Brasil</title>
+  <dc:creator>Tales Mançano</dc:creator>
+  <link>https://mancano-tales.github.io/Annotated-Bibliography/posts/Custodio2022.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Informações Técnicas e BibTeX
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<pre><code>Última atualização: 2026-05-14
+Modelo: Claude Sonnet 4.6 Thinking (Perplexity)
+Prompt Version: v17.4 · 2026-05-13
+Gerado em: 2026-05-14T19:15:00-03:00
+Ocasião da Leitura: [Para preenchimento manual do usuário]</code></pre>
+<p><strong>Entrada BibTeX → Custodio2022</strong></p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@phdthesis</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">Custodio2022</span>,</span>
+<span id="cb2-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span>  = {Custódio, Sérgio José},</span>
+<span id="cb2-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span>   = {Lei de Cotas: mudança estrutural em política pública e vitória suprapartidária da coalizão dos pés descalços no parlamento do Brasil},</span>
+<span id="cb2-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span>    = {2022},</span>
+<span id="cb2-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">school</span>  = {Universidade de São Paulo},</span>
+<span id="cb2-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">doi</span>     = {10.11606/T.8.2022.tde-22092022-152626},</span>
+<span id="cb2-7">}</span></code></pre></div></div>
+</div>
+</div>
+</div>
+<section id="ficha-analítica-crítica" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="ficha-analítica-crítica">Ficha Analítica Crítica</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Esta seção segue o formato <em>IA Planilhando Textos v17.4</em>.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Ficha Analítica — Tabela Markdown
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 23%">
+<col style="width: 52%">
+<col style="width: 23%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Dimensão</th>
+<th style="text-align: left;">Raciocínio analítico</th>
+<th style="text-align: left;">Conteúdo</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Questão de Pesquisa</td>
+<td style="text-align: left;">A premissa central é que a aprovação da Lei de Cotas não pode ser explicada apenas pela dinâmica do presidencialismo de coalizão, pelas elites partidárias ou pela burocracia estatal. A interpretação alternativa mais crível seria a que atribuísse a aprovação ao cálculo racional de coalizões governamentais ou à pressão de elites acadêmicas favoráveis às cotas — ambas são explicitamente refutadas pelo autor. O ponto mais vulnerável é que a pergunta tende a pressupor, antes de demonstrar, o protagonismo dos Novíssimos Movimentos Sociais (NMS), o que cria risco de viés de confirmação no processo de coleta e análise.</td>
+<td style="text-align: left;">Como a Lei n.º 12.711/2012 (Lei de Cotas), reservando 50% das vagas das universidades federais para estudantes da escola pública, negros, pardos e indígenas, foi aprovada no Congresso Nacional do Brasil, dada a sua longa e conturbada tramitação entre 1999 e 2012? Natureza explicativa e avaliativa de processo político. A pergunta é explicitada na introdução, com ênfase no protagonismo bottom-up dos NMS.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Questões Secundárias</td>
+<td style="text-align: left;">A multiplicidade de questões secundárias é tanto um ponto forte (exaustividade) quanto um risco de dispersão analítica. As questões secundárias são complementares e convergentes à pergunta central, não concorrentes, o que fortalece a coerência interna mas pode inflar o escopo da tese.</td>
+<td style="text-align: left;">(1) Quais foram as crenças e valores que estruturaram a coalizão a favor das cotas e a coalizão contrária? (2) Como o subsistema de educação brasileiro se formou historicamente e quais estruturas de exclusão racial ele reproduz? (3) Qual foi o papel do Senado e da judicialização (STF e CCJ) no processo? (4) Como o Prouni e a Lei de Cotas se relacionam como políticas articuladas no mesmo campo? (5) Quem são os atores dos NMS e como operaram no chão do parlamento?</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Puzzle-Type</td>
+<td style="text-align: left;">O puzzle é genuíno: a literatura existente até 2022 tendia a privilegiar atores institucionais (burocracia, partidos, presidência) e não explicava adequadamente por que a lei, com alta resistência, foi aprovada suprapartidariamente. O autor diagnostica corretamente esse gap empírico. O risco é que o puzzle seja parcialmente construído em contraste com uma literatura que o próprio autor caracteriza negativamente de forma generalizada, o que pode exagerar a singularidade da sua contribuição.</td>
+<td style="text-align: left;">Puzzle de mudança institucional: como uma política de cotas racial e social de alto conflito distributivo atravessou mais de uma década de tramitação e foi aprovada em um Congresso marcado pelo presidencialismo de coalizão, sem que se possa atribuir esse resultado apenas ao cálculo de partidos governistas ou a elites pró-cotas? Puzzle generalizável para casos de mudança estrutural em políticas públicas com forte componente racial em democracias do Sul Global.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Conclusão / Argumento Central</td>
+<td style="text-align: left;">A tese central é bem estruturada e sustentada por evidência de processo (process-tracing etnográfico). O argumento de vitória suprapartidária é o mais bem fundamentado. Já o claim de “mudança estrutural” depende de como se definem os limites do subsistema, pois reformas anteriores (ProUni, ações afirmativas estaduais) também promoveram mudanças incrementais.</td>
+<td style="text-align: left;">A Lei de Cotas foi o resultado de uma coalizão de defesa (no sentido do ACF) formada pelos Novíssimos Movimentos Sociais (NMS) — em particular o Movimento dos Sem Universidade (MSU) e a Educafro —, que operou no interior do Congresso Nacional em estratégia bottom-up, acumulando capital político ao longo de dez anos de tramitação (1999–2012), e cuja vitória foi suprapartidária, ou seja, transcendeu a lógica governista/oposicionista convencional. Trata-se de argumento explicativo-causal de tipo process-tracing, com contribuição à teoria de coalizões de defesa em contextos do Sul Global.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Métodos</td>
+<td style="text-align: left;">O design qualitativo é adequado à pergunta e ao nível de análise (processo político longitudinal). A escolha pelo process-tracing etnográfico é metodologicamente justificada pela posição do autor como participante-observador. O ponto mais frágil é justamente essa dupla posição: o autor é, ao mesmo tempo, um dos atores do MSU estudados, o que levanta questões sérias de reflexividade e de potencial viés de confirmação que ele reconhece de forma insuficiente. O fichamento cobre a obra inteira.</td>
+<td style="text-align: left;">Tese de doutorado qualitativa de tipo histórico-comparativo com elements de process-tracing. Fontes: (a) entrevistas com mais de 130 agentes (parlamentares, líderes de movimentos sociais, burocratas, ministros); (b) análise documental extensiva (tramitação integral do PL 73/1999, PLC 180/2008, atas de comissões, pareceres, portarias); (c) observação participante, dado que o próprio autor foi integrante do MSU e participou de eventos aqui narrados; (d) análise de imprensa e pesquisas de opinião. Período: 1994–2012, com contexto histórico desde o Império. Limitações de identificação: ausência de triangulação sistemática entre fontes e ausência de testes de hipóteses alternativas formalizados.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Data Generation Process (DGP)</td>
+<td style="text-align: left;">A combinação de observação participante com entrevistas semiestruturadas e análise documental é metodologicamente robusta para capturar mecanismos causais em processos longos. O viés mais sério é o de posição do pesquisador: o autor é um dos protagonistas da história que narra, o que torna difícil distinguir entre reconstrução analítica e memória militante. A documentação da tramitação legislativa (anexos) é a ancoragem mais objetiva da evidência.</td>
+<td style="text-align: left;">Fenômeno real (exclusão racial das universidades públicas e luta dos NMS) → observação direta e registro em diário de campo (décadas de 1990–2010) → coleta de documentos legislativos oficiais (Câmara, Senado, STF) + entrevistas (2003–2021 aprox.) → operacionalização via categorias do ACF (crenças, coalizões, subsistema) → análise de sequência de eventos e rastreamento de mecanismos → inferência: a Lei de Cotas resultou da ação estratégica acumulada dos NMS. Unidade de análise: processo político nacional. Nível de agregação: legislativo federal (Câmara e Senado), com contextualização subnacional. Vieses: (a) seleção de fontes próximas à coalizão pró-cotas; (b) viés de observação derivado da posição do pesquisador como ator; (c) potencial viés de memória nas entrevistas retrospectivas.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Achados e Contribuições</td>
+<td style="text-align: left;">Os achados empíricos sobre o dia 19 de novembro de 2008 na Câmara e a negociação final no Senado em 2012 são os mais detalhados e originais da literatura. A contribuição de mostrar que o resultado foi suprapartidário tem força analítica. A contribuição teórica — revisão do ACF para contextos do Sul Global — é mais modesta do que o autor sugere, pois a aplicação do ACF é majoritariamente descritiva e não testa suas premissas de forma sistemática.</td>
+<td style="text-align: left;">(1) Empírico: a Lei de Cotas foi resultado direto da pressão acumulada dos NMS no chão do parlamento, documentada em detalhe inédito para cada fase da tramitação (Câmara, 2003–2008; Senado, 2008–2012); (2) o resultado foi suprapartidário — partidos de governo e oposição votaram a favor e contra, desafiando a lógica do presidencialismo de coalizão convencional; (3) o ProUni e a Lei de Cotas são processos políticos articulados e não paralelos; (4) Teórico-metodológico: proposição de uso do ACF de Sabatier e Weible em contexto de movimento social bottom-up do Sul Global, com crítica à “redução sociológica” de Guerreiro Ramos como antídoto ao etnocentrismo de modelos importados; (5) Histórico: reconstituição da formação do subsistema de educação brasileiro desde o Império, mostrando a continuidade da exclusão racial como regra institucional.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Análise Crítica dos Achados</td>
+<td style="text-align: left;">O argumento sobre o papel dos NMS é convincente para as fases em que o autor documenta detalhadamente a presença e ação dos movimentos. Contém, porém, três vulnerabilidades: (a) não testa sistematicamente a hipótese alternativa de que o timing da aprovação deveu-se à janela de oportunidade gerada pelo governo Lula (variável que o autor subestima); (b) a noção de “vitória suprapartidária” precisa ser operacionalizada — a votação nominal no plenário não é apresentada de forma sistemática; (c) a reconstituição histórica (Caps. 4–5) é valiosa mas muito extensa, com risco de diluir a análise do processo político principal. A generalizabilidade é plausível para democracias multipartidárias do Sul Global com movimentos sociais de base racial, mas não formalizada.</td>
+<td style="text-align: left;">O autor responde adequadamente à pergunta central, especialmente no que diz respeito ao mecanismo de ação dos NMS no interior do Congresso. A vulnerabilidade principal reside no processo de eliminação de hipóteses alternativas: o papel do Poder Executivo (especialmente o comprometimento pessoal do Ministro Tarso Genro e do governo Lula) e das elites universitárias reformistas (ex.: UFBA, UNICAMP) é reconhecido narrativamente mas não pesado analiticamente em relação ao protagonismo dos NMS. Scope conditions: o argumento vale para políticas de alta conflituosidade distributiva com longa tramitação em sistemas presidencialistas multipartidários; não generaliza para políticas de elite ou decretadas executivamente.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Limitações</td>
+<td style="text-align: left;"><strong>Reconhecidas pelos autores:</strong> Parcialidade da perspectiva decorrente do envolvimento pessoal do autor com os NMS; extensão e complexidade da tese como “labirinto”; ausência de esgotamento da vasta literatura sobre cotas. <br> <strong>Não reconhecidas ou subestimadas:</strong> (1) O risco de viés de confirmação derivado da dupla posição de pesquisador-ator não é metodologicamente tratado (ausência de protocolo de reflexividade); (2) a operacionalização das “crenças” (deep core, policy core, secondary aspects do ACF) não é feita sistematicamente — o termo “crença” é usado de forma ampla e às vezes metafórica; (3) a tese opera com uma cronologia muito extensa (Império até 2012) que dificulta o controle analítico; (4) o silêncio sobre o papel da mídia e das pesquisas de opinião é mencionado mas não suficientemente integrado ao argumento causal.</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Perspectiva Teórica</td>
+<td style="text-align: left;">O ACF é uma escolha teoricamente justificada para análise de disputas em subsistemas de política pública ao longo de décadas. A articulação com Guerreiro Ramos (redução sociológica) é a contribuição teórica mais original, funcionando como filtro epistemológico anti-etnocêntrico. A ontologia subjacente é construtivista-relacional: crenças e identidades constituem atores, que por sua vez transformam instituições. Há coerência entre ontologia e método. A fraqueza teórica é que o ACF é mobilizado predominantemente como vocabulário descritivo (coalizão, subsistema, crença) e não como modelo explanatório testável, o que limita a contribuição teórica formal.</td>
+<td style="text-align: left;">Teoria principal: <strong>Advocacy Coalition Framework</strong> (ACF) de Sabatier e Weible, com adaptações para o contexto do Sul Global; <strong>Neoinstitucionalismo histórico</strong> (path dependence, veto players); <strong>Redução sociológica</strong> de Alberto Guerreiro Ramos como quadro epistêmico; elementos de <strong>sociologia bourdieusiana</strong> (campo, habitus, crença); teoria dos movimentos sociais (novíssimos movimentos sociais — NMS). A moldura é adequada para capturar o processo político longitudinal de formação de coalizões em disputa, embora a articulação entre ACF e neoinstitucionalismo histórico seja mais yuxtapositiva do que sintética.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Principais Referências</td>
+<td style="text-align: left;">A bibliografia é vasta e pertinente. O diálogo com a literatura internacional sobre ACF (Sabatier, Weible, Jenkins-Smith) é adequado. O diálogo com a literatura brasileira sobre relações raciais (Florestan Fernandes, Abdias Nascimento, Guerreiro Ramos) é rico. Ponto de desequilíbrio: a literatura comparada sobre políticas afirmativas em outros países (África do Sul, Índia, EUA) é mencionada mas pouco desenvolvida, o que limita o alcance comparativo das conclusões.</td>
+<td style="text-align: left;">Sabatier &amp; Weible (ACF); Guerreiro Ramos (redução sociológica); Florestan Fernandes (estrutura racial brasileira); Klein &amp; Vinson (tráfico de escravizados); Alencastro (formação brasileira); Bourdieu (campo e habitus); Bachrach &amp; Baratz (não-decisões); Lukes (poder); Colistete (história da educação); Jensen (ação afirmativa); Campos &amp; Gomes (literatura sobre relações raciais); Fernando de Azevedo et al.&nbsp;(Manifesto dos Pioneiros); Anísio Teixeira; Vanessa Silva (ciclo de políticas públicas); Tosold (retóricas das cotas).</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Observações</td>
+<td style="text-align: left;">A tese tem duas dimensões complementares mas que tensionam a coerência analítica: (1) uma dimensão de ciência política/políticas públicas, com uso do ACF e análise processual da tramitação legislativa; e (2) uma dimensão de história social e memória militante, especialmente nos capítulos 4, 5 e partes do 7. A segunda dimensão é politicamente importante e historiograficamente valiosa, mas dilui a precisão analítica da primeira. Para a pesquisa de Tales Mançano sobre desigualdades no ensino superior e causalidade em políticas educacionais, a tese oferece: (a) reconstrução histórica detalhada da exclusão racial no subsistema educacional brasileiro; (b) modelo de análise de coalizões aplicado a políticas de ensino superior; (c) documentação primária inédita do processo legislativo da Lei de Cotas; (d) crítica à “redução sociológica” como postura epistêmica relevante para pesquisas brasileiras. Inferência sobre tipo de texto: tese de doutorado, verificada pela estrutura de sumário, pela declaração explícita do autor (“pede passagem uma tese”), pela citação de orientador e pela página de aprovação implícita no PDF.</td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</section>
+<section id="mapa-argumentativo" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="mapa-argumentativo">Mapa Argumentativo</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 13%">
+<col style="width: 10%">
+<col style="width: 29%">
+<col style="width: 45%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Capítulo</th>
+<th style="text-align: left;">Título</th>
+<th style="text-align: left;">Função argumentativa</th>
+<th style="text-align: left;">Contribuição para a tese central</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Cap. 1</td>
+<td style="text-align: left;">Introdução</td>
+<td style="text-align: left;">Apresentação do puzzle e da tese</td>
+<td style="text-align: left;">Situa a pesquisa no campo de políticas públicas e relações raciais; apresenta o objeto (Lei 12.711/2012) e a lacuna empírica da literatura; enuncia a posição epistemológica e pessoal do autor</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Cap. 2</td>
+<td style="text-align: left;">Problema, Hipóteses, Objetivos, Metodologia</td>
+<td style="text-align: left;">Fundamento metodológico</td>
+<td style="text-align: left;">Formaliza o problema de pesquisa, as hipóteses (protagonismo dos NMS; caráter suprapartidário; mudança estrutural), os objetivos e os procedimentos metodológicos (entrevistas, análise documental, observação participante)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Cap. 3</td>
+<td style="text-align: left;">Balizas Teóricas</td>
+<td style="text-align: left;">Fundamento teórico</td>
+<td style="text-align: left;">Articula o ACF com o neoinstitucionalismo histórico e a redução sociológica de Guerreiro Ramos; define os conceitos operacionais de subsistema, coalizão e crença; critica o presidencialismo de coalizão como modelo explicativo suficiente</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Cap. 4</td>
+<td style="text-align: left;">O Subsistema de Educação no Brasil</td>
+<td style="text-align: left;">Revisão de literatura e análise histórica</td>
+<td style="text-align: left;">Demonstra que a exclusão racial é regra institucional fundante do subsistema de educação desde o Império, constituindo o contexto estrutural que torna a Lei de Cotas uma mudança efetivamente estrutural</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Cap. 5</td>
+<td style="text-align: left;">Crenças</td>
+<td style="text-align: left;">Análise empírica de ideias e identidades</td>
+<td style="text-align: left;">Mapeia as crenças (no sentido do ACF) que estruturam as duas coalizões em disputa — pró-cotas e anti-cotas —, incluindo racismo estrutural, meritocracia, identidades predatórias e justiça distributiva</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Cap. 6</td>
+<td style="text-align: left;">Atores nas Coalizões</td>
+<td style="text-align: left;">Análise empírica de atores</td>
+<td style="text-align: left;">Descreve e caracteriza os atores relevantes em ambas as coalizões: NMS, sindicatos, movimento negro, movimento indígena, setor privado de ensino, mídia, intelectuais, pesquisas de opinião</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Cap. 7</td>
+<td style="text-align: left;">Poder Legislativo — Câmara dos Deputados</td>
+<td style="text-align: left;">Estudo de caso / Análise empírica</td>
+<td style="text-align: left;">Reconstrói, fase a fase (2003–2005; 2005–2006; 2007–2008), a tramitação do PL 73/1999 e do PL 7399 na Câmara, documentando a ação direta dos NMS no chão do parlamento e o processo de construção da votação suprapartidária de 19/11/2008</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Cap. 8</td>
+<td style="text-align: left;">Poder Legislativo — Senado Federal</td>
+<td style="text-align: left;">Estudo de caso / Análise empírica</td>
+<td style="text-align: left;">Reconstrói a tramitação do PLC 180/2008 no Senado (2008–2012), incluindo as disputas nas comissões (CCJ, CEC, CDH) e o papel de senadores-chave</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Cap. 9</td>
+<td style="text-align: left;">A Vitória de Pirro da Coalizão Contra a Lei de Cotas</td>
+<td style="text-align: left;">Extensão do argumento</td>
+<td style="text-align: left;">Analisa os vetos e a arena judicial (STF, CCJ) como nova arena de disputa após a aprovação, mostrando os limites da vitória dos NMS e a resistência institucional persistente</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Cap. 10</td>
+<td style="text-align: left;">Considerações Finais</td>
+<td style="text-align: left;">Síntese e agenda</td>
+<td style="text-align: left;">Sintetiza as hipóteses confirmadas, reafirma a contribuição teórica (ACF adaptado ao Sul Global) e aponta agenda de pesquisa</td>
+</tr>
+</tbody>
+</table>
+<hr>
+</section>
+<section id="capítulo-1-introdução-pp.-4686" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="capítulo-1-introdução-pp.-4686"><span class="header-section-number">1</span> Capítulo 1: Introdução (pp.&nbsp;46–86)</h2>
+<section id="o-labirinto-como-metáfora-e-o-lugar-de-enunciação-do-autor-cap.1-15" class="level3" data-number="1.1">
+<h3 data-number="1.1" class="anchored" data-anchor-id="o-labirinto-como-metáfora-e-o-lugar-de-enunciação-do-autor-cap.1-15"><span class="header-section-number">1.1</span> O labirinto como metáfora e o lugar de enunciação do autor [Cap.1 §1–§5]</h3>
+<p>A tese se abre com uma declaração explícita de posição enunciativa: Sérgio José Custódio apresenta-se como natural de Itaporanga e Barão de Antonina, formado na periferia de São José dos Campos, e anuncia que o texto é herdeiro de uma ancestralidade negra, indígena e de uma “fraternidade branca de verdade”, cujos passos “vêm de longe”. Essa abertura não é ornamento retórico: ela é a demarcação epistemológica que estrutura toda a tese. O autor anuncia que escreve a partir e sobre os sujeitos que a historiografia oficial apagou — os “pés descalços” do título — e que o objeto de investigação é o processo político complexo e longo em torno da Lei n.º 12.711/2012.</p>
+<p>A metáfora do labirinto, tomada de Octavio Paz e de Waly Salomão, organiza a narrativa: a universidade brasileira é uma “fonte de poder” que funcionou historicamente como exclusão, e a lei que reserva no mínimo 50% de suas vagas para estudantes da escola pública, respeitada a proporcionalidade de pretos, pardos e indígenas segundo o censo do IBGE, é o fio condutor da investigação. O autor é explícito sobre a organização em dez capítulos, explicitando que a tese pode ser lida de forma não linear, “avulsamente”, o que reflete sua estrutura enciclopédica.</p>
+<blockquote class="blockquote">
+<p>O tema desta tese se apresenta como uma busca de melhor entendimento do processo político complexo e longo em torno da Lei n.º 12.711/2012, […] que reserva, no mínimo, 50% das vagas do ensino técnico federal e das universidades federais brasileiras […] para estudantes oriundos da escola pública, respeitando-se a proporção de pretos, pardos e indígenas presentes na população de cada unidade federativa.</p>
+</blockquote>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Conceito-chave: Novíssimos Movimentos Sociais (NMS)
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>O autor usa o termo <strong>Novíssimos Movimentos Sociais (NMS)</strong> para referir-se especificamente ao Movimento dos Sem Universidade (MSU) e à Educafro, entre outros, distinguindo-os dos “novos movimentos sociais” da teoria europeia dos anos 1970–1980. A especificidade dos NMS reside em que operam no interior das instituições (Congresso, ministérios, universidades) ao mesmo tempo em que constroem pressão de rua — estratégia que o autor denomina <em>bottom-up</em> endógena ao parlamento.</p>
+</div>
+</div>
+</section>
+<section id="diagnóstico-da-literatura-e-o-gap-empírico-cap.1-615" class="level3" data-number="1.2">
+<h3 data-number="1.2" class="anchored" data-anchor-id="diagnóstico-da-literatura-e-o-gap-empírico-cap.1-615"><span class="header-section-number">1.2</span> Diagnóstico da literatura e o gap empírico [Cap.1 §6–§15]</h3>
+<p>Custódio mapeia a produção acadêmica anterior sobre cotas e ações afirmativas para demonstrar o que chama de lacuna estrutural: os estudos existentes privilegiam elites políticas brancas (partidos, burocracia, presidência) e deixam na margem o protagonismo dos movimentos sociais no chão do parlamento. Cita o levantamento de Campos e Gomes (2016) para mostrar que, em 266 artigos sobre relações raciais publicados entre 1994 e 2013 em revistas de alto impacto, as ações afirmativas aparecem como o décimo quinto subtema mais discutido, com peso de 8% do corpus, enquanto a pesquisa empírica responde por 45,1% do total. O levantamento de Gaspar e Barbosa (2013) identificou mais de quatrocentas referências bibliográficas sobre cotas no Brasil publicadas entre 1999 e 2012, demonstrando que a literatura cresceu, mas sem adentrar no chão do parlamento.</p>
+<p>O autor critica explicitamente, por nome, estudos anteriores considerados insuficientes. O estudo de Tosold (2006), realizado na Universidade de Viena, é descrito como inovador mas limitado porque “não desce ao chão da periferia, ao chão do Congresso Nacional”. O estudo de Almeida (2014) sobre o ProUni é criticado como “laudatório” e como construtor de uma “narrativa pobre em torno dos feitos heroicos das elites”. O estudo de Guerra (2016), que também usa o ACF para analisar o ProUni, é acusado de enfatizar a malha burocrática e o discurso oficial sem dar protagonismo à sociedade civil. O estudo de Vanessa Silva (2017) é reconhecido como “brilhante” por articular processos exógenos ao Congresso com audiências públicas, mas criticado por usar o modelo de ciclos de políticas públicas, que “privilegia uma apreenção vertical” e essencializa audiências públicas como se normativas fossem.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 1:</strong> O autor menciona explicitamente Paulo Gabriel Hilu da Rocha (2006) como quem identificou a “relativa ausência de pesquisas empíricas sobre políticas de ação afirmativa no Brasil”, conferindo âncora histórica ao gap que a tese se propõe a preencher.</p>
+</blockquote>
+<p>O que distingue sua tese, afirma Custódio, é precisamente a análise endógena: o que aconteceu dentro do Congresso, no dia a dia das comissões, dos corredores, dos gabinetes, durante os dez anos de tramitação. É essa dimensão que os estudos anteriores ignoraram, especialmente o dia 19 de novembro de 2008, quando os NMS negociaram diretamente no plenário da Câmara a votação final do PL 73/1999.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>Implicação metodológica
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>A crítica à literatura serve também para justificar o método de observação participante: se o chão do parlamento não foi documentado, somente quem estava lá poderia reconstituí-lo. Essa justificativa é ao mesmo tempo legítima e arriscada, pois convida a confundir autoridade empírica com autoridade política.</p>
+</div>
+</div>
+</section>
+<section id="o-prouni-e-a-lei-de-cotas-como-par-articulado-cap.1-1620" class="level3" data-number="1.3">
+<h3 data-number="1.3" class="anchored" data-anchor-id="o-prouni-e-a-lei-de-cotas-como-par-articulado-cap.1-1620"><span class="header-section-number">1.3</span> O ProUni e a Lei de Cotas como par articulado [Cap.1 §16–§20]</h3>
+<p>Ainda na introdução, o autor enuncia um dos argumentos secundários mais originais da tese: o sistema público de bolsas de estudos em instituições privadas (ProUni) e a Lei de Cotas não são políticas paralelas ou independentes, mas processos articulados, produzidos no mesmo campo político pelos mesmos atores. Essa articulação é frequentemente invisibilizada pelos estudos que tratam as duas políticas em separado, reforçando, segundo o autor, a lógica de “compartimentos estanques” que o Manifesto dos Pioneiros já criticava em 1932. A análise do ProUni, nesse sentido, não é objeto central da tese, mas entra como referência contrastiva que ilumina as escolhas estratégicas da coalizão pró-cotas.</p>
+<hr>
+</section>
+</section>
+<section id="capítulo-2-problema-hipóteses-objetivos-metodologia-pp.-87124" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="capítulo-2-problema-hipóteses-objetivos-metodologia-pp.-87124"><span class="header-section-number">2</span> Capítulo 2: Problema, Hipóteses, Objetivos, Metodologia (pp.&nbsp;87–124)</h2>
+<section id="o-problema-e-seu-contorno-cap.2-14" class="level3" data-number="2.1">
+<h3 data-number="2.1" class="anchored" data-anchor-id="o-problema-e-seu-contorno-cap.2-14"><span class="header-section-number">2.1</span> O problema e seu contorno [Cap.2 §1–§4]</h3>
+<p>O capítulo 2 formaliza o que a introdução havia enunciado narrativamente. O <strong>problema de pesquisa</strong> é explicitado como a compreensão do processo político que levou à aprovação da Lei de Cotas, considerando a longa duração do conflito (1999–2012) e a sua aprovação suprapartidária em contexto de presidencialismo de coalizão. O “contorno do problema” — seção metodologicamente incomum — serve para delimitar o que a tese não faz: não avalia os efeitos da lei após sua aprovação, não é um estudo de implementação e não pretende generalizar suas conclusões para todos os tipos de mudança em políticas públicas.</p>
+</section>
+<section id="as-hipóteses-e-suas-justificativas-cap.2-512" class="level3" data-number="2.2">
+<h3 data-number="2.2" class="anchored" data-anchor-id="as-hipóteses-e-suas-justificativas-cap.2-512"><span class="header-section-number">2.2</span> As hipóteses e suas justificativas [Cap.2 §5–§12]</h3>
+<p>O autor apresenta um conjunto de hipóteses que ele denomina, metaforicamente, “o elefante” — o conjunto que os pequenos sábios cegos tocam sem ver inteiramente. As hipóteses centrais são: (H1) os NMS foram os protagonistas da aprovação da Lei de Cotas no Congresso Nacional; (H2) a aprovação foi suprapartidária, o que a distingue da lógica convencional do presidencialismo de coalizão; (H3) a Lei de Cotas representa uma <strong>mudança estrutural</strong> em política pública, não apenas uma mudança incremental; (H4) as crenças (no sentido do ACF) foram o aglutinante das coalizões em disputa, e não apenas os interesses materiais; (H5) o ProUni e a Lei de Cotas são processos articulados produzidos na mesma arena política pelos mesmos atores.</p>
+<p>A justificativa para cada hipótese combina evidências empíricas preliminares — dados do INEP/MEC sobre cotas em 29 IES subnacionais em 2006, o fato de apenas 9 das 105 universidades federais já atenderem ao critério de 50% em 2008 — com argumentos teóricos do ACF. O autor argumenta que a existência de experiências subnacionais de cotas antes da lei federal demonstra a formação prévia de uma coalizão com “aprendizado orientado por políticas” (<em>policy-oriented learning</em>), um dos mecanismos de mudança do ACF.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 2:</strong> O autor menciona que dados do IPEAC/UFBA e do Laboratório de Políticas Públicas da UERJ (Renato Ferreira e Anísio Borba) foram usados para o levantamento do estado das cotas nas federais em 2008, conferindo base empírica ao diagnóstico inicial.</p>
+</blockquote>
+</section>
+<section id="procedimentos-e-métodos-cap.2-1318" class="level3" data-number="2.3">
+<h3 data-number="2.3" class="anchored" data-anchor-id="procedimentos-e-métodos-cap.2-1318"><span class="header-section-number">2.3</span> Procedimentos e métodos [Cap.2 §13–§18]</h3>
+<p>A seção metodológica distingue <strong>procedimentos</strong> (o que se fez: entrevistas, análise documental, observação participante) de <strong>métodos</strong> (como se analisou: process-tracing, análise de conteúdo qualitativa). O autor realizou mais de 130 entrevistas com atores relevantes, listados nos anexos com localização física precisa no Congresso Nacional — gabinetes, corredores, cafezinhos, auditórios — o que confere à tese uma dimensão etnográfica rara na ciência política brasileira. As fontes documentais incluem as tramitações integrais do PL 73/1999, do PLC 180/2008 e de projetos correlatos, disponibilizadas como anexos. A observação participante abrange o período de 1994 (cursinho popular da UNICAMP) a 2012 (aprovação no Senado).</p>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Important</span>Reflexividade metodológica insuficiente
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>O autor reconhece sua posição de pesquisador-ator, mas não adota um protocolo explícito de reflexividade — como triangulação sistemática, auditoria por pares ou análise contrária. Essa omissão é relevante para a validade interna das inferências sobre o protagonismo dos NMS.</p>
+</div>
+</div>
+<hr>
+</section>
+</section>
+<section id="capítulo-3-balizas-teóricas-pp.-125215" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="capítulo-3-balizas-teóricas-pp.-125215"><span class="header-section-number">3</span> Capítulo 3: Balizas Teóricas (pp.&nbsp;125–215)</h2>
+<section id="estado-teorias-de-políticas-públicas-e-os-limites-do-modelo-dominante-cap.3-16" class="level3" data-number="3.1">
+<h3 data-number="3.1" class="anchored" data-anchor-id="estado-teorias-de-políticas-públicas-e-os-limites-do-modelo-dominante-cap.3-16"><span class="header-section-number">3.1</span> Estado, teorias de políticas públicas e os limites do modelo dominante [Cap.3 §1–§6]</h3>
+<p>O capítulo teórico abre com uma revisão do conceito de Estado, mobilizando perspectivas pluralistas (Dahl), marxistas e weberianas para fundar uma visão relacional do Estado como arena de disputa entre forças sociais. O autor dialoga com Bachrach e Baratz (1962) e com Lukes (1974) para introduzir a crítica das não-decisões e das faces do poder: a ideia de que o poder não opera apenas nas decisões visíveis, mas também na construção da agenda e na mobilização do viés sistêmico. Esse argumento é fundamental para compreender por que a exclusão racial das universidades permaneceu durante décadas sem ser tratada como problema de política pública — o mecanismo de não-decisão funcionou sistematicamente.</p>
+<p>Em seguida, o autor apresenta dois “caminhos analíticos” que conectam teorias do Estado a políticas públicas. O primeiro é o de sistema fechado (modelo racionalista, ciclos de políticas, garbage can), que o autor critica por sua insensibilidade às dinâmicas de baixo para cima. O segundo é o caminho com “encruzilhada trifurcada”, que abriga o ACF, o neoinstitucionalismo histórico e teorias de movimentos sociais. É nesse segundo caminho que a tese se posiciona.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 3:</strong> O autor inclui o modelo <em>garbage can</em> (Cohen, March e Olsen, 1972) explicitamente no debate, para então subvertê-lo: a Lei de Cotas e o ProUni, argumenta, “foram paridos, criados, inventados pelos NMS, pelos que estão no lixo da história” — um uso deliberadamente irônico do vocabulário teórico.</p>
+</blockquote>
+</section>
+<section id="o-advocacy-coalition-framework-e-sua-adaptação-cap.3-714" class="level3" data-number="3.2">
+<h3 data-number="3.2" class="anchored" data-anchor-id="o-advocacy-coalition-framework-e-sua-adaptação-cap.3-714"><span class="header-section-number">3.2</span> O Advocacy Coalition Framework e sua adaptação [Cap.3 §7–§14]</h3>
+<p>O <strong>Advocacy Coalition Framework (ACF)</strong>, desenvolvido por Sabatier e Jenkins-Smith (1988–1993) e revisado sistematicamente por Weible, Sabatier e McQueen (2009), é apresentado como o quadro teórico principal. Custódio descreve seus elementos centrais: subsistema de política pública, coalizões de defesa (<em>advocacy coalitions</em>), crenças (divididas em <em>deep core beliefs</em>, <em>policy core beliefs</em> e <em>secondary aspects</em>), aprendizagem orientada por política (<em>policy-oriented learning</em>) e eventos externos que perturbam o subsistema. A aplicação ao caso brasileiro implica adaptar o modelo, desenvolvido para contextos pluralistas estáveis do Norte Global, a uma democracia presidencialista multipartidária com forte componente de exclusão racial e desigualdade estrutural.</p>
+<p>A contribuição teórica do autor consiste em propor que o ACF, quando combinado com a “redução sociológica” de Guerreiro Ramos, torna-se mais sensível às especificidades do Sul Global. A <strong>redução sociológica</strong>, conforme Ramos, é o procedimento intelectual de submeter conceitos e modelos importados a um escrutínio crítico a partir da realidade local, recusando sua adoção acrítica. No plano analítico, isso significa que o ACF não pode pressupor que atores são todos equivalentes em recursos e acesso; no Brasil, a assimetria estrutural entre a coalizão da “branquitude” e a coalizão dos “pés descalços” é a condição de possibilidade do próprio conflito que a lei resolve.</p>
+</section>
+<section id="a-crítica-ao-presidencialismo-de-coalizão-como-modelo-explicativo-suficiente-cap.3-1520" class="level3" data-number="3.3">
+<h3 data-number="3.3" class="anchored" data-anchor-id="a-crítica-ao-presidencialismo-de-coalizão-como-modelo-explicativo-suficiente-cap.3-1520"><span class="header-section-number">3.3</span> A crítica ao presidencialismo de coalizão como modelo explicativo suficiente [Cap.3 §15–§20]</h3>
+<p>A seção 3.2 é dedicada a uma crítica densa ao modelo do <strong>presidencialismo de coalizão</strong> (Abranches, 1988) como chave explicativa das políticas públicas brasileiras. Custódio argumenta que o modelo, ao centrar a análise na relação Executivo-Legislativo e na lógica de distribuição de cargos e emendas, produz uma “redução sociológica às avessas”: naturaliza as elites políticas brancas como agentes exclusivos da produção de políticas e invisibiliza os movimentos sociais. O autor apresenta o que chama de “encantamento racional do mundo político” — a tendência de modelos como o presidencialismo de coalizão a tratar escolha racional e equilíbrio como pressupostos universais, obscurecendo a conflitualidade racial, de classe e regional que estrutura o processo político brasileiro.</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Conceito-chave: Redução Sociológica
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>A <strong>redução sociológica</strong>, no sentido de Alberto Guerreiro Ramos, é o procedimento de filtrar qualquer modelo teórico estrangeiro pelas condições históricas e estruturais da sociedade brasileira antes de aplicá-lo. Na tese, funciona como antídoto epistemológico ao etnocentrismo dos modelos de políticas públicas do Norte Global.</p>
+</div>
+</div>
+</section>
+<section id="a-opção-teórica-consolidada-cap.3-2124" class="level3" data-number="3.4">
+<h3 data-number="3.4" class="anchored" data-anchor-id="a-opção-teórica-consolidada-cap.3-2124"><span class="header-section-number">3.4</span> A opção teórica consolidada [Cap.3 §21–§24]</h3>
+<p>A seção 3.3 sintetiza a opção teórica da tese: ACF + neoinstitucionalismo histórico (veto players, path dependence) + redução sociológica de Guerreiro Ramos + elementos de sociologia bourdieusiana (campo, habitus, crença como doxa e heresia). O autor esclarece que não pretende testar formalmente as hipóteses do ACF, mas utilizá-las como lente para organizar a análise do processo político da Lei de Cotas. A escolha é metodologicamente defensável para um estudo de caso longitudinal qualitativo, embora implique que a contribuição teórica seja mais de <em>aplicação criativa</em> do que de <em>teste ou revisão</em> do modelo.</p>
+<hr>
+</section>
+</section>
+<section id="capítulo-4-o-subsistema-de-educação-no-brasil-pp.-216315" class="level2" data-number="4">
+<h2 data-number="4" class="anchored" data-anchor-id="capítulo-4-o-subsistema-de-educação-no-brasil-pp.-216315"><span class="header-section-number">4</span> Capítulo 4: O Subsistema de Educação no Brasil (pp.&nbsp;216–315)</h2>
+<section id="o-império-e-o-subsistema-de-educação-a-exclusão-racial-como-regra-fundante-cap.4-19" class="level3" data-number="4.1">
+<h3 data-number="4.1" class="anchored" data-anchor-id="o-império-e-o-subsistema-de-educação-a-exclusão-racial-como-regra-fundante-cap.4-19"><span class="header-section-number">4.1</span> O Império e o subsistema de educação: a exclusão racial como regra fundante [Cap.4 §1–§9]</h3>
+<p>O capítulo quatro é o mais longo da tese após o capítulo sete e funciona como reconstituição histórica do subsistema de educação brasileiro, argumentando que a exclusão racial não é uma distorção, mas a regra institucional constitutiva do sistema desde sua origem colonial e imperial. Custódio mobiliza Saviani (1988), Teixeira (2005), Colistete (2016), Klein e Vinson III (2015) e Alencastro (2000) para demonstrar que o ensino superior no Brasil nasceu como privilégio da branquitude.</p>
+<p>Em 1850, a taxa de matrícula na instrução primária no Brasil era de 8 a 10 por mil habitantes — próxima à de Portugal (11 por mil) e radicalmente inferior à dos EUA (177 por mil) e à da Argentina (54 por mil em 1870). Em 1910, o Brasil chegava a 30 matriculados por mil habitantes, contra 102 da Argentina e 197 dos EUA. Esses dados, levantados por Colistete (2016), são incorporados por Custódio como evidência de que o subsistema de educação brasileiro, ao convergir com Portugal e divergir das democracias mais consolidadas, reproduzia a lógica colonial de interdição do conhecimento documentada por Beverwijk (2005) no Moçambique português.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 4:</strong> O autor observa que, se os dados de Colistete incluírem escravizados negros e indígenas entre os matriculados, as taxas sobem “muito marginalmente”, o que reforça, paradoxalmente, a regra: a “cota da branquitude beirava os 100% das vagas”. Esta inferência é sugestiva mas não é formalmente sustentada com dados desagregados por raça para o período imperial.</p>
+</blockquote>
+<p>O Manifesto dos Pioneiros da Educação Nova de 1932, escrito por Fernando de Azevedo e assinado por intelectuais como Anísio Teixeira, é analisado com ambivalência: por um lado, afirmava o direito biológico universal à educação e propunha a escola única e gratuita para todos; por outro, a referência ao “caráter biológico” da educação introduzia um darwinismo social velado que, na prática, relativizava as desigualdades raciais e de classe. O manifesto propunha “escola para todos”, mas não questionava o ensino privado nem a seletividade racial das faculdades existentes. Custódio denuncia ainda a contradição interna do manifesto: ao recusar o monopólio do Estado sobre a educação, abria espaço permanente para a iniciativa privada, alimentando a dualidade estrutural entre ensino público (para pobres) e ensino privado (para ricos) que persiste no Brasil contemporâneo.</p>
+</section>
+<section id="república-das-elites-revolução-de-1930-e-o-estado-cap.4-1018" class="level3" data-number="4.2">
+<h3 data-number="4.2" class="anchored" data-anchor-id="república-das-elites-revolução-de-1930-e-o-estado-cap.4-1018"><span class="header-section-number">4.2</span> República das elites, Revolução de 1930 e o Estado [Cap.4 §10–§18]</h3>
+<p>A República de 1889 e sua Constituição de 1891 são descritas como uma continuidade, não uma ruptura, com o padrão educacional excludente do Império. As reformas educacionais da Primeira República — Código Epitácio Pessoa (1901), Reforma Rivadávia Corrêa (1911), Carlos Maximiliano (1915), Lei Rocha Vaz (1925) — sucederam-se como revisões parciais sem jamais enfrentar a questão da exclusão racial ou da universalização substantiva do ensino. O nome das reformas carregava o nome de seus promotores e não representava “na maioria das vezes, discussão setorial, da sociedade, democrática ou decisão legislativa consolidada”.</p>
+<p>A criação do Ministério da Educação e Saúde em 1930, com a nomeação de Francisco Campos, é tratada como o marco da setorização do campo educacional no plano nacional, em conexão com a Associação Brasileira de Educação (ABE), fundada em 1924. A ABE funcionou como grupo formulador de propostas no processo constituinte que resultou na Constituição de 1934. O autor acompanha a tensão entre centralização federal e autonomia estadual em matéria educacional como um conflito estrutural que reaparece em todas as rodadas de reforma do subsistema, inclusive na disputa pela Lei de Cotas (onde a autonomia universitária seria invocada como argumento anti-cotas).</p>
+<blockquote class="blockquote">
+<p><strong>Nota 5:</strong> Custódio cita Fernando de Azevedo (1976) descrevendo a reforma Francisco Campos como “a de maior alcance entre todas as que se realizaram, nesse domínio, em mais de quarenta anos de regime republicano”, o que coloca em perspectiva histórica a modéstia das reformas anteriores e a radicalidade da Lei de Cotas como ruptura efetiva.</p>
+</blockquote>
+</section>
+<section id="democracia-sistema-político-e-subsistema-de-educação-em-marcha-forçada-cap.4-1925" class="level3" data-number="4.3">
+<h3 data-number="4.3" class="anchored" data-anchor-id="democracia-sistema-político-e-subsistema-de-educação-em-marcha-forçada-cap.4-1925"><span class="header-section-number">4.3</span> Democracia, sistema político e subsistema de educação em marcha forçada [Cap.4 §19–§25]</h3>
+<p>Esta subseção avança do Estado Novo à redemocratização de 1985 e à Constituição de 1988, mapeando as continuidades e descontinuidades do subsistema. A LDB de 1961 e a LDB de 1996 são tratadas como marcos de consolidação institucional, mas o autor argumenta que ambas preservaram a dualidade estrutural entre ensino público e privado e não enfrentaram a exclusão racial. A criação da ANDIFES (Associação Nacional dos Dirigentes das Instituições Federais de Ensino Superior) e do CRUB são mencionadas como atores relevantes no subsistema, que virão a assumir posições ambíguas no debate das cotas.</p>
+</section>
+<section id="atualidade-e-crítica-ao-subsistema-cotas-federalismo-e-vetos-cap.4-2632" class="level3" data-number="4.4">
+<h3 data-number="4.4" class="anchored" data-anchor-id="atualidade-e-crítica-ao-subsistema-cotas-federalismo-e-vetos-cap.4-2632"><span class="header-section-number">4.4</span> Atualidade e crítica ao subsistema; cotas, federalismo e vetos [Cap.4 §26–§32]</h3>
+<p>As subseções 4.1.4 e 4.1.5 conectam a reconstituição histórica ao presente da tese. Custódio argumenta que, ao final dos anos 1990 e início dos 2000, o subsistema de educação brasileiro operava com uma “cota da branquitude próxima de 100%” nas universidades federais, resultado acumulado de mais de cento e cinquenta anos de exclusão. A presença das cotas como política subnacional (em universidades estaduais e algumas federais antes de 2012) é interpretada pelo autor como evidência de que a ACF estava correta: mudanças no subsistema começam na periferia (estados, municípios, movimentos) e avançam para o centro (legislação federal) por meio do processo de aprendizagem orientada por políticas.</p>
+<p>O federalismo brasileiro é apresentado como dupla faca: por um lado, <em>self-rule</em> (autonomia universitária) e <em>shared-rule</em> (federalismo cooperativo) funcionam como veto ao avanço das cotas nas universidades federais; por outro, a diversidade subnacional permitiu que experiências-piloto demonstrassem a viabilidade da política antes de sua nationalização. A seção 4.1.6 apresenta referências normativas nacionais de educação (PNE, SINAES) como campo institucional em que as cotas precisaram ser inseridas para ganhar legitimidade.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>Síntese interpretativa
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>A reconstituição histórica do Cap. 4 cumpre uma função argumentativa precisa: demonstrar que a aprovação da Lei de Cotas não é apenas uma mudança de política, mas uma ruptura com uma regra institucional fundante de mais de 150 anos — o que justifica o uso do conceito de <strong>mudança estrutural</strong> (e não incremental) na hipótese central da tese.</p>
+</div>
+</div>
+<hr>
+</section>
+</section>
+<section id="capítulo-5-crenças-pp.-316465" class="level2" data-number="5">
+<h2 data-number="5" class="anchored" data-anchor-id="capítulo-5-crenças-pp.-316465"><span class="header-section-number">5</span> Capítulo 5: Crenças (pp.&nbsp;316–465)</h2>
+<section id="pés-descalços-medo-e-coragem-o-substrato-histórico-das-crenças-cap.5-17" class="level3" data-number="5.1">
+<h3 data-number="5.1" class="anchored" data-anchor-id="pés-descalços-medo-e-coragem-o-substrato-histórico-das-crenças-cap.5-17"><span class="header-section-number">5.1</span> Pés descalços, medo e coragem: o substrato histórico das crenças [Cap.5 §1–§7]</h3>
+<p>O capítulo cinco é o mais teórico-analítico da segunda metade da tese. Seguindo o ACF, o autor trata as “crenças” não como meros valores subjetivos, mas como sistemas de ideias que aglutinaram coalizões objetivas de atores em disputa. A seção 5.1 abre com a tese de que as crenças da coalizão dos “pés descalços” têm raízes na estrutura da escravização — e que não é possível compreender as crenças em disputa no debate das cotas sem passar pelo que Fernando Novais (1974) chamou de crise do Antigo Sistema Colonial. O autor mobiliza Queiroz (1987) para afirmar que “a escravidão é a grande categoria explicativa da especificidade do processo histórico brasileiro”.</p>
+<p>O autor distingue a dimensão estrutural (as linhas de força que Alencastro identifica na relação bilateral Brasil-África, e que Novais interpreta como triangulação Lisboa-África-Brasil) da dimensão das crenças: são as ideologias que sustentam a estrutura que precisa ser desconstruídas para que a coalizão pró-cotas possa se formar e operar. Aqui aparece a influência de Bourdieu: as crenças são <em>doxa</em> (o que se toma como natural e dado) e <em>heresia</em> (o que desafia a doxa) — e a luta das cotas é a luta da heresia contra a doxa da meritocracia e da “cota da branquitude”.</p>
+</section>
+<section id="a-crença-no-fardo-do-homem-branco-e-o-racismo-como-estrutura-ideológica-cap.5-814" class="level3" data-number="5.2">
+<h3 data-number="5.2" class="anchored" data-anchor-id="a-crença-no-fardo-do-homem-branco-e-o-racismo-como-estrutura-ideológica-cap.5-814"><span class="header-section-number">5.2</span> A crença no fardo do homem branco e o racismo como estrutura ideológica [Cap.5 §8–§14]</h3>
+<p>A seção 5.2 analisa a crença na supremacia branca como sistema ideológico organizado — não apenas como preconceito individual. O autor usa o conceito de “fardo do homem branco” (Kipling) de forma crítica, para mostrar que o discurso anti-cotas operava frequentemente com o argumento da meritocracia como equivalente contemporâneo da ideia de que os negros e indígenas não estariam “prontos” para a universidade. A seleção 5.3 aprofunda a dimensão racial com a discussão de “a raça importa” — o autor mobiliza estudos de identidade racial no Brasil para mostrar que a classificação racial é ao mesmo tempo fluida (miscigenação) e operacional (no acesso desigual a recursos e oportunidades).</p>
+</section>
+<section id="identidades-predatórias-e-o-debate-sobre-justiça-distributiva-cap.5-1520" class="level3" data-number="5.3">
+<h3 data-number="5.3" class="anchored" data-anchor-id="identidades-predatórias-e-o-debate-sobre-justiça-distributiva-cap.5-1520"><span class="header-section-number">5.3</span> Identidades predatórias e o debate sobre justiça distributiva [Cap.5 §15–§20]</h3>
+<p>A seção 5.4 apresenta o conceito de <strong>identidades predatórias</strong>, mobilizado de Appadurai, para descrever o polo anti-cotas da disputa: identidades que se constroem pela negação e destruição do outro, operando no registro do ressentimento e do medo de perda de privilégio. Em contraste, a seção 5.5 reconstrói a crença na <strong>justiça distributiva</strong> como o núcleo normativo da coalizão pró-cotas: a ideia de que a reserva de vagas é uma correção de desequilíbrios históricos de acesso, não uma discriminação reversa.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 6:</strong> A seção 5.6 dialoga com Bourdieu e com Vera Maria Candau para construir a noção de “heresia como crença” — a posição dos NMS como portadores de uma visão de mundo que desafia a doxa meritocrática instituída. A referência a Candau é ao trabalho sobre interculturalidade e educação, que não é citado recorrentemente na literatura de políticas públicas brasileira. [nota incluída por relevância argumentativa]</p>
+</blockquote>
+</section>
+<section id="o-repertório-das-crenças-nas-coalizões-cap.5-2128" class="level3" data-number="5.4">
+<h3 data-number="5.4" class="anchored" data-anchor-id="o-repertório-das-crenças-nas-coalizões-cap.5-2128"><span class="header-section-number">5.4</span> O repertório das crenças nas coalizões [Cap.5 §21–§28]</h3>
+<p>A seção 5.7 apresenta o que o autor denomina “passos normativos para crenças na formação de coalizões sociais”: uma proposição semi-formal de como crenças de diferentes tipos (profundas, de política e instrumentais) se articulam na dinâmica do ACF. A seção 5.8 mapeia o repertório completo das crenças identificadas nas duas coalizões, organizando-as de forma implicitamente tabular (embora o autor não a apresente como tabela). A coalizão pró-cotas operava com crenças sobre: reparação histórica, diversidade como valor universitário, democracia racial como mito a ser desconstruído, direito universal à educação superior. A coalizão anti-cotas operava com crenças sobre: mérito individual, raça como categoria não científica, risco de balcanização racial, autonomia universitária como direito constitucional.</p>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Important</span>Nota normativa
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>O autor não mantém neutralidade axiológica neste capítulo — o que é coerente com sua posição de enunciação declarada. A Ficha Analítica registra isso como condição de possibilidade e como limite do argumento: a caracterização das crenças anti-cotas como “identidades predatórias” é analiticamente produtiva mas normativa, e pode subestimar as versões mais sofisticadas do argumento universalista contra cotas raciais.</p>
+</div>
+</div>
+<hr>
+</section>
+</section>
+<section id="capítulo-6-atores-nas-coalizões-pp.-466508" class="level2" data-number="6">
+<h2 data-number="6" class="anchored" data-anchor-id="capítulo-6-atores-nas-coalizões-pp.-466508"><span class="header-section-number">6</span> Capítulo 6: Atores nas Coalizões (pp.&nbsp;466–508)</h2>
+<section id="movimentos-sociais-terceiro-setor-e-os-novíssimos-movimentos-sociais-cap.6-18" class="level3" data-number="6.1">
+<h3 data-number="6.1" class="anchored" data-anchor-id="movimentos-sociais-terceiro-setor-e-os-novíssimos-movimentos-sociais-cap.6-18"><span class="header-section-number">6.1</span> Movimentos sociais, terceiro setor e os novíssimos movimentos sociais [Cap.6 §1–§8]</h3>
+<p>O capítulo seis apresenta os atores empíricos presentes nas coalizões em disputa. O autor abre com uma distinção entre movimentos sociais clássicos (sindicatos, movimentos de trabalhadores) e <strong>novíssimos movimentos sociais (NMS)</strong>, que emergem nos anos 1990–2000 em torno de pautas de direitos que combinam dimensão racial, educacional e de acesso a serviços públicos. O Terceiro Setor é apresentado como espaço ambíguo: pode ser cooptado pelo Estado (e pelo discurso da responsabilidade social empresarial) ou pode funcionar como base organizacional para movimentos genuinamente autônomos, como foi o caso da Educafro e do MSU.</p>
+<p>A seção 6.1.2 apresenta os NMS como categoria específica: organizações como o MSU (Movimento dos Sem Universidade) e a Educafro (Educação e Cidadania de Afrodescendentes e Carentes), criadas nos anos 1990 com base em experiências de cursinhos populares (o do DCE/UNICAMP em 1994 é citado como o inaugural), e que evoluíram para estratégias de advocacy no Congresso Nacional. O Frei David (Educafro) e Sérgio José Custódio (MSU) são os protagonistas centrais desta narrativa — o que reforça tanto a riqueza empírica quanto o risco de auto-representação da tese.</p>
+</section>
+<section id="movimento-sindical-negro-indígena-estudantil-cap.6-915" class="level3" data-number="6.2">
+<h3 data-number="6.2" class="anchored" data-anchor-id="movimento-sindical-negro-indígena-estudantil-cap.6-915"><span class="header-section-number">6.2</span> Movimento sindical, negro, indígena, estudantil [Cap.6 §9–§15]</h3>
+<p>As seções 6.2 a 6.5 caracterizam os demais atores da coalizão pró-cotas: o movimento sindical (CUT, em apoio, mas sem protagonismo central no processo legislativo); o Movimento Negro (CONEN, MNU, organizações de terreiro); o Movimento Indígena (FUNAI e lideranças indígenas que participaram de audiências públicas); e o Movimento Estudantil (UNE e DCEs regionais, com papel mais limitado do que se poderia supor dada sua tradição de luta pela democratização universitária). O autor observa que a coalizão pró-cotas foi mais heterogênea e menos coesa do que sugere a narrativa dominante sobre “o movimento negro e as cotas”.</p>
+</section>
+<section id="mídia-pesquisas-de-opinião-intelectuais-e-setor-privado-cap.6-1623" class="level3" data-number="6.3">
+<h3 data-number="6.3" class="anchored" data-anchor-id="mídia-pesquisas-de-opinião-intelectuais-e-setor-privado-cap.6-1623"><span class="header-section-number">6.3</span> Mídia, pesquisas de opinião, intelectuais e setor privado [Cap.6 §16–§23]</h3>
+<p>As seções 6.6 a 6.10 ampliam o mapa de atores para além dos movimentos sociais. A mídia, especialmente a grande imprensa, é descrita como majoritariamente contrária às cotas raciais nos primeiros anos do debate, com cobertura que reproduzia os argumentos da coalizão anti-cotas. As pesquisas de opinião pública, ao contrário, mostravam apoio majoritário às cotas entre a população brasileira, incluindo brancos — dado que o autor mobiliza como evidência do caráter suprapartidário e popular da demanda. Os intelectuais favoráveis, como o reitor da UFBA Naomar Monteiro de Almeida Filho, e os contrários, com destaque para parte do corpo docente das universidades públicas, formam campos intelectuais em disputa dentro do próprio subsistema de educação.</p>
+<p>O setor da educação privada (seção 6.9) é apresentado como ator com interesses ambíguos: inicialmente resistia às cotas nas federais por temer que democratizassem a concorrência, mas depois apoiou o ProUni como alternativa. O setor da educação pública (seção 6.10) inclui tanto atores favoráveis (reitores reformistas, docentes vinculados a movimentos sociais) quanto atores contrários (ANDIFES em posição ambígua, faculdades tradicionais como medicina e direito com resistência explícita).</p>
+<hr>
+</section>
+</section>
+<section id="capítulo-7-poder-legislativo-câmara-dos-deputados-pp.-509934" class="level2" data-number="7">
+<h2 data-number="7" class="anchored" data-anchor-id="capítulo-7-poder-legislativo-câmara-dos-deputados-pp.-509934"><span class="header-section-number">7</span> Capítulo 7: Poder Legislativo — Câmara dos Deputados (pp.&nbsp;509–934)</h2>
+<section id="entre-2003-e-o-começo-de-2005-cap.7-16" class="level3" data-number="7.1">
+<h3 data-number="7.1" class="anchored" data-anchor-id="entre-2003-e-o-começo-de-2005-cap.7-16"><span class="header-section-number">7.1</span> Entre 2003 e o começo de 2005 [Cap.7 §1–§6]</h3>
+<p>O capítulo 7 inicia a parte empírica central da tese, deslocando o foco do pano de fundo histórico para a arena legislativa onde a Lei de Cotas foi disputada de forma mais intensa. O autor insiste que o processo não pode ser reduzido ao comportamento do governo Lula ou ao cálculo de bancadas partidárias, porque a lei só ganha força quando os NMS passam a ocupar o “chão da Câmara”, isto é, o espaço físico e simbólico do parlamento.</p>
+<p>Entre 2003 e 2004, os NMS ainda operavam numa conjuntura ambígua: havia, de um lado, um governo eleito com apoio popular e, de outro, uma coalizão governista submetida ao tripé macroeconômico herdado de 1999 e a uma relação tensa com o parlamento. Nesse ambiente, os movimentos acumulam experiência de pressão, usando abaixo-assinados, caravanas, reuniões com lideranças e negociação direta com ministérios. O autor destaca que a estratégia não era apenas protestar, mas produzir prova política: mostrar assinaturas, presença física, capacidade de mobilização e apoio real dentro e fora do Congresso.</p>
+<p>A narrativa do capítulo é fortemente ancorada em episódios concretos, como o protesto do MSU na Assembleia Legislativa de São Paulo em 2003, com becas e abacaxis, que simbolizava o acesso negado à universidade. Esse gesto, aparentemente performático, é lido pelo autor como ação política rigorosa: não se tratava de pedir caridade, mas de exigir o direito ao vestibular, às isenções e à presença na agenda legislativa.</p>
+</section>
+<section id="tramitação-e-apensações-cap.7-714" class="level3" data-number="7.2">
+<h3 data-number="7.2" class="anchored" data-anchor-id="tramitação-e-apensações-cap.7-714"><span class="header-section-number">7.2</span> Tramitação e apensações [Cap.7 §7–§14]</h3>
+<p>A longa tramitação legislativa aparece como um verdadeiro labirinto de apensações, arquivamentos e desarquivamentos. O autor detalha que o PL 73/1999, de autoria de Nice Lobo, foi se tornando o eixo agregador de projetos correlatos, como o PL 615/2003, o PL 1313/2003, o PL 3627/2004, o PL 392/2004 e outros. Em 2005, o projeto já havia passado por pareceres na Comissão de Educação e Cultura e na Comissão de Direitos Humanos e Minorias, sempre sob relatoria de Carlos Abicalil, com substitutivos e emendas que tentavam consolidar uma posição favorável às cotas.</p>
+<p>O que importa aqui não é apenas a cronologia burocrática, mas a leitura política que o autor faz dela: cada apensação, parecer ou recurso é parte da disputa entre coalizões. O fato de o projeto sair de uma apreciação conclusiva e ir para o plenário após recurso de deputados contrários é apresentado como prova de que a coalizão contrária ainda tinha capacidade de veto. Ao mesmo tempo, a sequência de aprovações em comissão revela que a coalizão favorável já havia acumulado apoio institucional relevante.</p>
+</section>
+<section id="a-conjuntura-de-20052006-cap.7-1522" class="level3" data-number="7.3">
+<h3 data-number="7.3" class="anchored" data-anchor-id="a-conjuntura-de-20052006-cap.7-1522"><span class="header-section-number">7.3</span> A conjuntura de 2005–2006 [Cap.7 §15–§22]</h3>
+<p>Nos anos de 2005 e 2006, a tese mostra que a disputa muda de escala. A crise política do governo Lula, a reforma ministerial e a reorganização das bancadas não paralisam a tramitação; ao contrário, tornam a arena legislativa ainda mais estratégica. O autor enfatiza que os NMS percebem quando a pauta da Câmara se abre e deslocam sua atuação para o corpo-a-corpo com parlamentares, não apenas com líderes partidários. A lógica é explícita: não bastava negociar no topo, era preciso coletar assinaturas diretamente no “labirinto” da Câmara.</p>
+<p>A carta das centrais sindicais, apresentada em 2008 mas articulada nesse percurso, evidencia a ampliação da coalizão favorável. O autor usa esse documento como prova da convergência entre o movimento estudantil, o movimento negro, os NMS e setores do sindicalismo. A coalizão favorável deixa de ser apenas militante e passa a incluir apoios institucionais mais amplos, o que reforça o argumento da vitória suprapartidária.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 7:</strong> O autor registra que o recurso de Alberto Goldman e outros contra a apreciação conclusiva do PL 73/1999, em 14 de fevereiro de 2006, foi decisivo para empurrar a matéria ao plenário. Esse detalhe processual mostra que a vitória final exigiu superar não apenas resistência ideológica, mas também obstáculos regimentais.</p>
+</blockquote>
+</section>
+<section id="e-a-vitória-no-plenário-cap.7-2330" class="level3" data-number="7.4">
+<h3 data-number="7.4" class="anchored" data-anchor-id="e-a-vitória-no-plenário-cap.7-2330"><span class="header-section-number">7.4</span> 2007–2008 e a vitória no plenário [Cap.7 §23–§30]</h3>
+<p>A fase final da Câmara é o núcleo dramático da tese. Em 2007 e 2008, o autor descreve com grande riqueza etnográfica a circulação dos NMS pelos corredores, comissões, gabinetes, café e plenário da Câmara. A presença é medida até por registros de visita institucional, usados como dados objetivos para mostrar a densidade da mobilização. Essa cartografia do espaço legislativo reforça a tese de que a política se faz no corpo a corpo, e não apenas em votações formais.</p>
+<p>O ponto culminante é o dia 19 de novembro de 2008. Segundo o autor, os NMS obtêm uma combinação de fatores favoráveis: a pauta está livre, a articulação com lideranças partidárias amadureceu e a base de assinaturas parlamentares tornou-se suficientemente forte para pressionar o presidente da Câmara, Arlindo Chinaglia, a colocar o projeto em votação. A coalizão favorável amplia-se com apoio das centrais sindicais e de lideranças do PT e do PSDB, tornando a votação não apenas possível, mas politicamente custosa para quem a obstruísse.</p>
+<p>A aprovação em plenário no dia 20 de novembro de 2008 é narrada como um momento de virada. O PL 73/1999, já reconfigurado e apensado, torna-se o PLC 180/2008 e segue ao Senado. A tese insiste que a vitória não foi exclusiva do governo nem de um partido, mas resultado de uma coalizão social e parlamentar mais ampla, em que os NMS desempenharam papel de coordenação e pressão contínua.</p>
+</section>
+<section id="o-sentido-da-câmara-cap.7-3136" class="level3" data-number="7.5">
+<h3 data-number="7.5" class="anchored" data-anchor-id="o-sentido-da-câmara-cap.7-3136"><span class="header-section-number">7.5</span> O sentido da Câmara [Cap.7 §31–§36]</h3>
+<p>Em termos analíticos, a Câmara é apresentada como a arena em que o conflito sai da abstração e assume forma institucional concreta. O autor mostra que a Câmara não é mero palco de ratificação, mas espaço de disputa material, com regras, vetos, corredores e tempos próprios. A tese recusa a ideia de que a aprovação da Lei de Cotas tenha sido uma concessão graciosa do Executivo ou um produto automático da hegemonia petista; ela emerge, antes, da capacidade dos NMS de sustentar uma pressão organizada ao longo de anos.</p>
+</section>
+</section>
+<section id="capítulo-8-poder-legislativo-senado-federal-pp.-935972" class="level2" data-number="8">
+<h2 data-number="8" class="anchored" data-anchor-id="capítulo-8-poder-legislativo-senado-federal-pp.-935972"><span class="header-section-number">8</span> Capítulo 8: Poder Legislativo — Senado Federal (pp.&nbsp;935–972)</h2>
+<section id="a-tramitação-no-senado-cap.8-18" class="level3" data-number="8.1">
+<h3 data-number="8.1" class="anchored" data-anchor-id="a-tramitação-no-senado-cap.8-18"><span class="header-section-number">8.1</span> A tramitação no Senado [Cap.8 §1–§8]</h3>
+<p>O capítulo 8 desloca a análise para o Senado Federal, onde o projeto enfrenta nova rodada de disputas. O autor mostra que a tramitação não foi simples continuidade da vitória na Câmara, mas reabertura de um terreno de veto. A combinação de relatoria, comissões e lideranças mostra que, no Senado, a coalizão contrária ainda dispunha de recursos institucionais para retardar, alterar ou desidratar a proposta.</p>
+<p>A presença dos NMS no Senado é igualmente descrita em detalhe. O autor lista gabinetes, corredores e comissões como se escrevesse uma topografia política. Isso não é mero excesso descritivo: a intenção é mostrar que a política acontece na espacialidade concreta do parlamento, onde contatos informais, cafezinhos, audiências e reuniões de comissão são tão importantes quanto as votações em plenário. O Senado aparece, assim, como um espaço de negociação fina, onde cada ajuste de texto importa.</p>
+</section>
+<section id="comissões-e-liderança-política-cap.8-914" class="level3" data-number="8.2">
+<h3 data-number="8.2" class="anchored" data-anchor-id="comissões-e-liderança-política-cap.8-914"><span class="header-section-number">8.2</span> Comissões e liderança política [Cap.8 §9–§14]</h3>
+<p>A Comissão de Constituição, Justiça e Cidadania e a Comissão de Educação, Cultura e Esporte são mostradas como centros decisórios relevantes. O autor enfatiza o papel de Paulo Paim, Cristovam Buarque, Ideli Salvatti, Serys Slhessarenko, Marta Suplicy e outros senadores e senadoras que, em diferentes momentos, favoreceram a tramitação. O projeto ganha força também por sua equivalência simbólica com a versão aprovada na Câmara, o que ajuda a reduzir a resistência de setores que tentavam rediscutir a matéria.</p>
+<p>A estratégia dos NMS no Senado combina pressão externa e negociação interna. O autor relata reuniões com lideranças governistas, articulações com movimentos sociais e acompanhamento constante da pauta. O Senado, nesse sentido, é descrito como uma arena mais institucionalizada e menos permeável à mobilização direta de massas, o que exige dos NMS maior capacidade de mediação política.</p>
+</section>
+<section id="o-fechamento-da-tramitação-cap.8-1520" class="level3" data-number="8.3">
+<h3 data-number="8.3" class="anchored" data-anchor-id="o-fechamento-da-tramitação-cap.8-1520"><span class="header-section-number">8.3</span> O fechamento da tramitação [Cap.8 §15–§20]</h3>
+<p>O capítulo conclui com a aprovação definitiva e a sanção da Lei 12.711/2012. O autor destaca que o Senado não foi um mero carimbo da Câmara: foi o espaço em que a coalizão contrária ainda podia tentar derrubar ou esvaziar o texto, e onde os NMS precisaram manter vigilância permanente. O caráter suprapartidário da vitória reaparece com força aqui, porque a aprovação atravessa partidos e posições governistas/oposicionistas sem se reduzir a uma lógica de disciplina partidária.</p>
+</section>
+</section>
+<section id="capítulo-9-a-vitória-de-pirro-da-coalizão-contra-a-lei-de-cotas-pp.-9731004" class="level2" data-number="9">
+<h2 data-number="9" class="anchored" data-anchor-id="capítulo-9-a-vitória-de-pirro-da-coalizão-contra-a-lei-de-cotas-pp.-9731004"><span class="header-section-number">9</span> Capítulo 9: A Vitória de Pirro da Coalizão Contra a Lei de Cotas (pp.&nbsp;973–1004)</h2>
+<section id="veto-stf-e-nova-arena-cap.9-18" class="level3" data-number="9.1">
+<h3 data-number="9.1" class="anchored" data-anchor-id="veto-stf-e-nova-arena-cap.9-18"><span class="header-section-number">9.1</span> Veto, STF e nova arena [Cap.9 §1–§8]</h3>
+<p>O capítulo 9 mostra que a vitória legislativa não encerra o conflito. A coalizão contrária à Lei de Cotas tenta deslocar a disputa para o terreno judicial e procedimental, especialmente por meio de questionamentos à constitucionalidade no STF e de esforços para retardar a implementação. O autor descreve esse movimento como uma “vitória de Pirro” da coalizão contra as cotas: apesar de perder a batalha principal, a oposição consegue prolongar o conflito e impor custos.</p>
+<p>O foco na CCJ do Senado e no STF evidencia que a arena política não se esgota no Parlamento. A judicialização se torna uma extensão da disputa legislativa, agora sob a linguagem da constitucionalidade e da interpretação formal de direitos. O autor trata esse movimento como nova arena de veto, na qual a luta pelos sentidos da igualdade e da ação afirmativa continua.</p>
+</section>
+<section id="o-limite-da-vitória-cap.9-914" class="level3" data-number="9.2">
+<h3 data-number="9.2" class="anchored" data-anchor-id="o-limite-da-vitória-cap.9-914"><span class="header-section-number">9.2</span> O limite da vitória [Cap.9 §9–§14]</h3>
+<p>O sentido mais forte do capítulo é mostrar que a aprovação da lei não elimina resistências, mas as reorganiza. A coalizão contrária perde a possibilidade de impedir a lei, mas mantém capacidade de contestação, de reinterpretação e de atraso. Isso reforça a tese de que mudanças estruturais em políticas públicas são processuais e nunca lineares.</p>
+</section>
+</section>
+<section id="capítulo-10-considerações-finais-pp.-10051012" class="level2" data-number="10">
+<h2 data-number="10" class="anchored" data-anchor-id="capítulo-10-considerações-finais-pp.-10051012"><span class="header-section-number">10</span> Capítulo 10: Considerações Finais (pp.&nbsp;1005–1012)</h2>
+<section id="síntese-das-hipóteses-cap.10-14" class="level3" data-number="10.1">
+<h3 data-number="10.1" class="anchored" data-anchor-id="síntese-das-hipóteses-cap.10-14"><span class="header-section-number">10.1</span> Síntese das hipóteses [Cap.10 §1–§4]</h3>
+<p>Nas considerações finais, Custódio retoma as hipóteses iniciais e reafirma que a Lei de Cotas foi produto de uma coalizão social e política construída ao longo do tempo, com protagonismo dos NMS. A prova mais forte do argumento é acumulativa: não há um único evento causal, mas uma sequência de ações, negociações e pressões que transformaram uma pauta periférica em política nacional.</p>
+<p>O autor também reafirma que o ACF, combinado à redução sociológica de Guerreiro Ramos, foi o instrumento teórico mais adequado para captar a dinâmica brasileira. A tese termina, assim, com uma dupla reivindicação: uma reivindicação historiográfica, de reconhecimento dos sujeitos invisibilizados, e uma reivindicação teórico-metodológica, de adaptação dos modelos de análise às condições brasileiras.</p>
+<hr>
+</section>
+</section>
+<section id="argumento-sintético" class="level2" data-number="11">
+<h2 data-number="11" class="anchored" data-anchor-id="argumento-sintético"><span class="header-section-number">11</span> Argumento Sintético</h2>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>A tese sustenta que a Lei de Cotas foi uma mudança estrutural em política pública resultante da ação persistente e suprapartidária dos Novíssimos Movimentos Sociais no interior do Congresso Nacional, e não apenas de decisões governamentais ou de elites institucionais. O argumento é causal-processual, articulando história institucional, análise de coalizões e rastreamento de mecanismos ao longo de mais de uma década de tramitação legislativa. O texto demonstra com força o papel dos NMS, a materialidade da disputa parlamentar e a continuidade histórica da exclusão racial no sistema educacional brasileiro; fica como hipótese geral a extensão comparativa do modelo para outras políticas de ação afirmativa no Sul Global. Sua principal contribuição é deslocar a explicação da Lei de Cotas das elites político-burocráticas para a sociedade civil organizada e, ao fazê-lo, oferecer uma interpretação mais fina da mudança institucional em educação superior no Brasil.</p>
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>Annotated Bibliography</category>
+  <category>Political Science</category>
+  <category>Higher Education Policy</category>
+  <category>Racial Inequality</category>
+  <category>Affirmative Action</category>
+  <category>Brazil</category>
+  <category>2022</category>
+  <category>2020s</category>
+  <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Custodio2022.html</guid>
+  <pubDate>Thu, 14 May 2026 03:00:00 GMT</pubDate>
+</item>
+<item>
   <title>Fichamento: Race and the political ecology of education in Brazil</title>
   <dc:creator>Tales Mançano</dc:creator>
   <link>https://mancano-tales.github.io/Annotated-Bibliography/posts/Meek-etal2024.html</link>
@@ -9206,351 +9767,6 @@ Note
   <category>Inequality</category>
   <category>Comparative</category>
   <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Breen-Muller2020Incomplete.html</guid>
-  <pubDate>Fri, 08 May 2026 03:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Fichamento: Decentralization and Subnational Politics in Latin America</title>
-  <dc:creator>Tales Mançano</dc:creator>
-  <link>https://mancano-tales.github.io/Annotated-Bibliography/posts/Falleti2010.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Falleti, T. G. (2010). <em>Decentralization and subnational politics in Latin America</em>. Cambridge University Press.</p>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Entrada BibTeX → Falleti2010
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
-background-color: null;
-font-style: inherit;">@book</span>{<span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">Falleti2010</span>,</span>
-<span id="cb1-2"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">author</span>    = {Falleti, Tulia G.},</span>
-<span id="cb1-3"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">title</span>     = {Decentralization and Subnational Politics in Latin America},</span>
-<span id="cb1-4"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">year</span>      = {2010},</span>
-<span id="cb1-5"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">publisher</span> = {Cambridge University Press},</span>
-<span id="cb1-6"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">address</span>   = {Cambridge, New York},</span>
-<span id="cb1-7"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">isbn</span>      = {978-0-521-51679-2},</span>
-<span id="cb1-8">}</span></code></pre></div></div>
-</div>
-</div>
-</div>
-<p>Última atualização: 2026-05-08 Modelo: DeepSeek Chat v3 (via API) Prompt Version: v14.0 2026-05-08 | Suporte a livros Gerado em: 2026-05-08T12:00:00-03:00</p>
-<section id="capítulo-1-decentralization-and-the-revival-of-subnational-politics-pp.-130" class="level2" data-number="1">
-<h2 data-number="1" class="anchored" data-anchor-id="capítulo-1-decentralization-and-the-revival-of-subnational-politics-pp.-130"><span class="header-section-number">1</span> Capítulo 1: Decentralization and the Revival of Subnational Politics (pp.&nbsp;1–30)</h2>
-<section id="advocates-and-critics-of-decentralization-and-their-shared-assumption-cap.1-16" class="level3" data-number="1.1">
-<h3 data-number="1.1" class="anchored" data-anchor-id="advocates-and-critics-of-decentralization-and-their-shared-assumption-cap.1-16"><span class="header-section-number">1.1</span> Advocates and Critics of Decentralization and Their Shared Assumption [Cap.1 §1–§6]</h3>
-<p>A obra inicia-se com uma citação de Alexis de Tocqueville sobre a dificuldade de desmontar a centralização administrativa uma vez instalada, mas constata que, no final do século XX, processos de descentralização se tornaram uma onda global. A descentralização, definida como a transferência para baixo de recursos, responsabilidades ou autoridade dos governos nacionais para os subnacionais, seguiu o colapso de regimes centralizados em várias regiões do mundo. Essas políticas alteraram fundamentalmente governos e a política: as parcelas subnacionais de receitas e despesas aumentaram, serviços públicos importantes foram transferidos, e reformas constitucionais mudaram as relações intergovernamentais e as carreiras políticas. Como resultado, a política territorial e os interesses subnacionais ganharam proeminência, e as relações centro-periferia voltaram ao centro da análise política comparada.</p>
-<p>Contudo, os efeitos da descentralização sobre a política subnacional variaram amplamente, de forma que as teorias existentes não conseguem explicar. Enquanto em países como Brasil e Colômbia o poder de governadores e prefeitos aumentou, no México foi moderado e na Argentina insignificante. Compreender essa variação é um primeiro passo crucial antes de avaliar os impactos da descentralização sobre gestão de recursos, serviços públicos e participação local. A autora propõe uma <strong>teoria sequencial da descentralização</strong>, baseada nas literaturas de path dependence, evolução institucional e efeitos temporais (Pierson, Mahoney, Thelen), argumentando que os efeitos da descentralização sobre o equilíbrio de poder intergovernamental dependem do sequenciamento temporal de diferentes tipos de reformas (administrativas, fiscais e políticas) e que as consequências estão ligadas aos interesses territoriais nas origens do processo.</p>
-</section>
-<section id="postdevelopmental-decentralization-in-latin-america-cap.1-712" class="level3" data-number="1.2">
-<h3 data-number="1.2" class="anchored" data-anchor-id="postdevelopmental-decentralization-in-latin-america-cap.1-712"><span class="header-section-number">1.2</span> Postdevelopmental Decentralization in Latin America [Cap.1 §7–§12]</h3>
-<p>Após o fim do estado desenvolvimentista, a América Latina foi a primeira região a implementar sistematicamente políticas de descentralização, parte das reformas de segunda geração voltadas ao mercado. As reformas começaram no final dos anos 1970 e se estenderam por duas décadas, representando as mudanças mais radicais do mundo em termos de devolução de receitas e despesas. Argentina, Brasil, Colômbia e México – os quatro maiores países, com 70% da população regional – promulgaram reformas de descentralização administrativa (transferência de escolas e hospitais), fiscal (aumento das transferências de receitas) e política (eleição popular de governadores e prefeitos, criação de assembleias legislativas, reconhecimento da autonomia municipal), sumarizadas na Tabela 1.1. Apesar das semelhanças, os efeitos variaram: no Brasil e na Colômbia, houve significativa devolução de poder; no México, algo intermediário; na Argentina, praticamente nenhuma mudança, com estrutura fiscal e política permanecendo essencialmente a mesma de antes da intervenção militar de 1976.</p>
-</section>
-<section id="rethinking-the-causes-and-consequences-of-decentralization-cap.1-1318" class="level3" data-number="1.3">
-<h3 data-number="1.3" class="anchored" data-anchor-id="rethinking-the-causes-and-consequences-of-decentralization-cap.1-1318"><span class="header-section-number">1.3</span> Rethinking the Causes and Consequences of Decentralization [Cap.1 §13–§18]</h3>
-<p>A literatura existente ligou a descentralização à neoliberalização e à terceira onda de democratização, mas Kent Eaton demonstrou que, no longo prazo, nem liberalização econômica nem democratização são causas necessárias ou suficientes. Outros apontaram para tendências internacionais, globalização ou pressões de instituições financeiras internacionais, mas essas recomendações vieram depois que os governos latino-americanos já haviam iniciado as reformas. Explicações estruturais como urbanização e desenvolvimento econômico encontram respaldo nos casos brasileiro e colombiano, mas não explicam reformas como a descentralização da educação na Argentina e no México, que visavam o nível intermediário, não as cidades.</p>
-<p>No nível micro, a teoria dos incentivos eleitorais de Kathleen O’Neill explica adoção de descentralização política e fiscal em democracias eleitorais andinas, mas é silenciosa quanto à descentralização administrativa e não cobre reformas aprovadas sob regimes autoritários ou hegemônicos. Para explicar as consequências, teorias baseadas no nível inicial de descentralização ou no tipo de constituição falham: o Brasil partiu de um nível similar ao argentino e teve alto incremento; a Colômbia, unitária, teve o impacto mais significativo. A explicação baseada na estrutura partidária (Riker) também não se sustenta: a Argentina tem partido descentralizado mas pouco mudou; o México, partido centralizado, mudou consideravelmente.</p>
-</section>
-<section id="a-sequential-theory-of-decentralization-the-main-argument-in-brief-cap.1-1924" class="level3" data-number="1.4">
-<h3 data-number="1.4" class="anchored" data-anchor-id="a-sequential-theory-of-decentralization-the-main-argument-in-brief-cap.1-1924"><span class="header-section-number">1.4</span> A Sequential Theory of Decentralization: The Main Argument in Brief [Cap.1 §19–§24]</h3>
-<p>A autora propõe que as causas da evolução do equilíbrio de poder intergovernamental são endógenas ao processo de descentralização. O argumento é triplo: (a) a descentralização é um processo que engloba reformas administrativas, fiscais e políticas que precisam ser estudadas em suas interações; (b) o tipo predominante de interesses territoriais (nacionais ou subnacionais) em cada coalizão reformista determina o tipo de reforma adotada; (c) a ordem sequencial dos diferentes tipos de descentralização explica a mudança resultante no equilíbrio de poder.</p>
-<p>A taxonomia proposta distingue descentralização administrativa (transferência de serviços sociais, que pode ser financiada ou não), fiscal (aumento de receitas ou autoridade fiscal) e política (reformas constitucionais ou eleitorais que devolvem autoridade política a atores subnacionais). Quanto às preferências, o executivo nacional prefere descentralização administrativa a fiscal, e fiscal a política (A &gt; F &gt; P), enquanto governadores e prefeitos preferem o inverso (P &gt; F &gt; A). Se interesses subnacionais prevalecem na coalizão reformista, espera-se descentralização política ou fiscal; se interesses nacionais predominam, espera-se descentralização administrativa.</p>
-<p>A sequência das reformas determina o grau de mudança no equilíbrio intergovernamental. Uma trajetória A→F→P (<em>caminho da dominância nacional</em>) gera baixa mudança no poder subnacional, pois a primeira rodada de descentralização administrativa (especialmente se não financiada) fortalece o executivo nacional para as rodadas seguintes. No extremo oposto, P→F→A (<em>caminho da dominância subnacional</em>) gera alta mudança, pois a autonomia política inicial permite pressionar por mais recursos e negociar uma descentralização administrativa financiada. Sequências reativas intermediárias também são possíveis (A→P→F, com grau médio de mudança, e P→A→F, com grau baixo a médio), conforme sintetizado na Tabela 1.2.</p>
-</section>
-<section id="methodological-considerations-cap.1-2535" class="level3" data-number="1.5">
-<h3 data-number="1.5" class="anchored" data-anchor-id="methodological-considerations-cap.1-2535"><span class="header-section-number">1.5</span> Methodological Considerations [Cap.1 §25–§35]</h3>
-<p>A autora emprega o <strong>método sequencial comparativo</strong>, uma aplicação teoricamente guiada do process-tracing que especifica mecanismos causais conectando eventos ao longo de uma sequência e compara essas sequências entre casos. Diferentemente do process-tracing tradicional focado em microfundamentos individuais, este método opera no nível meso (média duração) e analisa coletivamente os atores e os efeitos de feedback das reformas anteriores sobre as posteriores. O foco recai sobre mecanismos como reprodução de poder, efeito catraca, coordenação, demonstração, compensação e incrementalismo.</p>
-<p>O período analisado é o primeiro ciclo completo de descentralização pós-desenvolvimentista — ou seja, até que reformas administrativa, fiscal e política tenham todas ocorrido. A periodização ancora-se no contexto do tipo de Estado-nação: o significado e os objetivos das políticas de descentralização diferem conforme ocorram sob um Estado oligárquico, desenvolvimentista ou orientado ao mercado. A análise começa com a primeira administração que fez a transição do desenvolvimentismo para economias de mercado e implementou uma política de descentralização: os governos militares de Videla (Argentina) e Figueiredo (Brasil), e as presidências de Betancur (Colômbia) e De la Madrid (México).</p>
-<p>A seleção dos quatro países permite controlar por diferenças institucionais importantes (grau de autonomia subnacional prévia, sistema partidário, tipo constitucional) enquanto todos adotaram reformas similares com diferentes graus de mudança no equilíbrio de poder. A pesquisa de campo de dezoito meses incluiu mais de 150 entrevistas em profundidade, análise de dados fiscais, educacionais, eleitorais, debates legislativos e legislação.</p>
-</section>
-<section id="book-overview-cap.1-3637" class="level3" data-number="1.6">
-<h3 data-number="1.6" class="anchored" data-anchor-id="book-overview-cap.1-3637"><span class="header-section-number">1.6</span> Book Overview [Cap.1 §36–§37]</h3>
-<p>O capítulo 2 apresenta a teoria sequencial completa. Os capítulos 3 a 6 analisam as sequências de descentralização na Argentina (1978–1994, caminho de dominância nacional), Colômbia (1982–1994, dominância subnacional), Brasil (1980–1988, dominância subnacional em país federal) e México (1983–1999, caminho de resposta subnacional). O capítulo 7 conclui resumindo os achados sobre os efeitos da descentralização na política subnacional e o papel dos interesses territoriais.</p>
-</section>
-</section>
-<section id="capítulo-2-a-sequential-theory-of-decentralization-and-the-intergovernmental-balance-of-power-pp.-3175" class="level2" data-number="2">
-<h2 data-number="2" class="anchored" data-anchor-id="capítulo-2-a-sequential-theory-of-decentralization-and-the-intergovernmental-balance-of-power-pp.-3175"><span class="header-section-number">2</span> Capítulo 2: A Sequential Theory of Decentralization and the Intergovernmental Balance of Power (pp.&nbsp;31–75)</h2>
-<section id="types-of-decentralization-and-recipients-cap.2-110" class="level3" data-number="2.1">
-<h3 data-number="2.1" class="anchored" data-anchor-id="types-of-decentralization-and-recipients-cap.2-110"><span class="header-section-number">2.1</span> Types of Decentralization and Recipients [Cap.2 §1–§10]</h3>
-<p>O capítulo define a política territorial como o conjunto de interesses territoriais conflitantes entre níveis de governo e unidades geopolíticas. A literatura sobre descentralização segmentou-se: políticas públicas focam a descentralização administrativa setorial, a economia foca a descentralização fiscal, e a ciência política estuda ambas, mas raramente integra a administrativa. Alguns estudos propuseram abordagens multidimensionais, mas as definições variam e frequentemente confundem descentralização com privatização, democratização ou colapsam receitas e despesas. A clareza conceitual é crucial para a aplicação do método sequencial comparativo.</p>
-<p>A autora define descentralização como o conjunto de políticas, reformas eleitorais ou constitucionais que transferem responsabilidades, recursos ou autoridade de níveis superiores para inferiores de governo, excluindo transferências para atores não estatais. As reformas são classificadas pelo tipo de autoridade devolvida: <strong>descentralização administrativa</strong> (transferência da administração de serviços sociais como educação e saúde, que pode ser financiada ou não financiada), <strong>descentralização fiscal</strong> (políticas que aumentam as receitas ou a autoridade fiscal dos governos subnacionais, seja por aumento de transferências, criação de novos impostos ou delegação de autoridade tributária) e <strong>descentralização política</strong> (reformas eleitorais ou constitucionais que devolvem autoridade política e abrem espaços de representação subnacional, como eleição popular de governantes, criação de assembleias legislativas e fortalecimento da autonomia municipal).</p>
-<p>Essa taxonomia revela que, dependendo do desenho institucional, descentralizações administrativas e fiscais podem <em>diminuir</em> a autonomia subnacional (ex.: transferências não financiadas ou aumento de capacidade tributária em jurisdições pobres), enquanto a política quase invariavelmente a aumenta. A separação analítica entre os aspectos fiscal e administrativo (receitas vs.&nbsp;despesas) permite avaliar consequências de defasagens temporais entre a transferência de responsabilidades e de recursos, indicando quem tem a vantagem na barganha.</p>
-</section>
-<section id="bargaining-actors-partisan-and-territorial-interests-cap.2-1118" class="level3" data-number="2.2">
-<h3 data-number="2.2" class="anchored" data-anchor-id="bargaining-actors-partisan-and-territorial-interests-cap.2-1118"><span class="header-section-number">2.2</span> Bargaining Actors: Partisan and Territorial Interests [Cap.2 §11–§18]</h3>
-<p>Os atores que barganham sobre descentralização têm lealdades partidárias/ideológicas e territoriais. A literatura enfatizou os incentivos eleitorais e partidários, mas negligenciou os interesses territoriais, que são definidos pelo nível de governo que representam e pelas características da unidade geopolítica. Executivos nacionais preocupam-se com estabilidade macroeconômica; governadores querem aumentar receitas de suas jurisdições; prefeitos focam políticas locais. Legisladores e constituintes de estados ricos preferem critérios de esforço fiscal para distribuição de transferências; os de estados pobres preferem critérios populacionais. Atores societais também têm interesses territoriais: o sindicato nacional de professores no México defendia a negociação salarial nacional para preservar seu poder, enquanto os movimentos cívicos na Colômbia e o movimento sanitarista no Brasil articulavam interesses subnacionais em nível municipal.</p>
-<p>A Tabela 2.2 classifica os atores conforme interesses territoriais (nacional vs.&nbsp;subnacional) e partidários (situação vs.&nbsp;oposição). Em geral, atores com interesses territoriais nacionais tendem a opor-se à descentralização (especialmente fiscal e política), enquanto aqueles com interesses subnacionais a favorecem.</p>
-</section>
-<section id="territorial-preferences-of-national-executives-governors-and-mayors-cap.2-1924" class="level3" data-number="2.3">
-<h3 data-number="2.3" class="anchored" data-anchor-id="territorial-preferences-of-national-executives-governors-and-mayors-cap.2-1924"><span class="header-section-number">2.3</span> Territorial Preferences of National Executives, Governors, and Mayors [Cap.2 §19–§24]</h3>
-<p>Com base na literatura e em entrevistas, a autora especifica as preferências induzidas dos executivos quanto ao tipo de descentralização e ao nível recipiente (Tabela 2.3). O executivo nacional prefere A &gt; F &gt; P, buscando primeiro livrar-se de responsabilidades de gasto, depois ceder autoridade fiscal e, por último, manter controle político sobre governadores e prefeitos. Governadores e prefeitos preferem o inverso, P &gt; F &gt; A, querendo primeiro autonomia política para então pressionar por mais recursos e, se possível, evitar receber novas responsabilidades administrativas sem financiamento.</p>
-<p>Quanto ao nível recipiente, o executivo nacional prefere descentralizar para o nível local (L), pois prefeitos oferecem menos ameaça eleitoral e financeira que governadores, e em segundo lugar para ambos os níveis (SL), dividindo o poder. Governadores preferem o nível estadual (S), depois ambos (SL), e resistem a dar autonomia aos municípios (L) se eles próprios não a tiverem. Prefeitos têm a preferência inversa (L &gt; SL &gt; S).</p>
-</section>
-<section id="decentralizing-coalitions-and-territorial-interests-cap.2-2530" class="level3" data-number="2.4">
-<h3 data-number="2.4" class="anchored" data-anchor-id="decentralizing-coalitions-and-territorial-interests-cap.2-2530"><span class="header-section-number">2.4</span> Decentralizing Coalitions and Territorial Interests [Cap.2 §25–§30]</h3>
-<p>Assumindo que pelo menos dois tipos de atores são necessários para formar uma coalizão descentralizadora politicamente viável, é possível distinguir seis coalizões (Figura 2.1): coalizão de nível nacional (situação e oposição nacionais), coalizão subnacional (situação e oposição subnacionais), coalizão governista (atores nacionais e subnacionais do partido no poder), coalizão oposicionista, e duas coalizões mistas: NR-SO (national-ruling com subnational-opposition) e SR-NO (subnational-ruling com national-opposition). As hipóteses sobre qual tipo de interesse territorial prevalece e qual tipo de descentralização resulta estão na Tabela 2.4.</p>
-<p>Em coalizões horizontais (nível nacional ou subnacional), os interesses territoriais coincidentes prevalecem sobre os partidários, levando respectivamente a reformas A ou P/F. Em coalizões verticais, espera-se que na governista os interesses nacionais dominem (atores nacionais têm mais recursos e coordenação), produzindo A; na oposicionista, os interesses subnacionais dominam, produzindo P ou F, pois a oposição nacional explora a descentralização para minar o poder central. Na coalizão mista NR-SO, o executivo nacional concede P ou F aos atores subnacionais de oposição para obter seu apoio; a coalizão SR-NO é considerada improvável. Ressalva-se que fatores contextuais e legados históricos podem restringir as opções estratégicas, tornando certas reformas inviáveis; contudo, uma vez implementada a primeira reforma, ela redefine o contexto intergovernamental para as seguintes.</p>
-</section>
-<section id="sequences-of-decentralization-layers-policy-effect-mechanisms-and-the-main-argument-developed-cap.2-3142" class="level3" data-number="2.5">
-<h3 data-number="2.5" class="anchored" data-anchor-id="sequences-of-decentralization-layers-policy-effect-mechanisms-and-the-main-argument-developed-cap.2-3142"><span class="header-section-number">2.5</span> Sequences of Decentralization: Layers, Policy-Effect Mechanisms, and the Main Argument Developed [Cap.2 §31–§42]</h3>
-<p>Concebendo as relações intergovernamentais como uma estrutura em camadas (fiscal, administrativa, política), uma mudança em uma camada gera consequências nas outras por meio de <strong>efeitos de feedback de políticas</strong> (policy feedbacks), que atuam como mecanismos auto-reforçadores ou reativos. Considerando a primeira política em cada camada, seis sequências são possíveis.</p>
-<p>Se interesses subnacionais prevalecem primeiro, P→F→A é o caminho esperado: a descentralização política cria um <strong>efeito catraca</strong> (policy ratchet effect) ao gerar um grupo de apoiadores (ex.: associações de prefeitos) que pressionam por mais descentralização fiscal e negociam uma descentralização administrativa financiada, resultando em alta autonomia subnacional. Se interesses nacionais prevalecem, A→F→P (caminho da dominância nacional) ocorre: a descentralização administrativa (especialmente não financiada) gera um <strong>mecanismo de reprodução de poder</strong> do executivo nacional, que controla o ritmo e conteúdo das reformas fiscais subsequentes, e a descentralização política, se ocorrer por último, tem efeito limitado, resultando em baixa mudança no equilíbrio de poder.</p>
-<p>Sequências reativas também são teorizadas: A→P→F (resposta subnacional), iniciada com dominância nacional mas revertida por fatores exógenos (como democratização) que permitem P em segundo lugar, levando a uma mudança média; e P→A→F (resposta nacional), onde interesses subnacionais prevalecem inicialmente mas um choque exógeno (como crise fiscal) ou mecanismo reativo leva à dominância nacional na segunda rodada com A, resultando em mudança baixa a média. A Tabela 2.5 sumariza as hipóteses para as seis sequências, incluindo cenários de empate inicial (F como segunda preferência de ambos) e o efeito da defasagem temporal entre as reformas. O domínio da teoria são países com ao menos dois níveis de governo e ao menos dois tipos de reforma ocorridos em momentos distintos.</p>
-</section>
-<section id="the-intergovernmental-balance-of-power-cap.2-4354" class="level3" data-number="2.6">
-<h3 data-number="2.6" class="anchored" data-anchor-id="the-intergovernmental-balance-of-power-cap.2-4354"><span class="header-section-number">2.6</span> The Intergovernmental Balance of Power [Cap.2 §43–§54]</h3>
-<p>O conceito de poder intergovernamental ancora-se em três categorias de recursos: <strong>econômicos</strong> (parcela subnacional de receitas e despesas), <strong>autoridade legal</strong> (autoridade de formulação de políticas e forma de nomeação dos governantes subnacionais) e <strong>capacidades organizacionais</strong> (representação territorial de interesses no legislativo nacional e número de associações subnacionais). A variável dependente é definida operacionalmente em seis dimensões (Tabela 2.6) e medida antes e depois do primeiro ciclo de reformas para Argentina, Brasil, Colômbia e México (1978–1999).</p>
-<p>Antes das reformas, Argentina e Brasil tinham os maiores graus absolutos de autonomia subnacional; Colômbia e México, os menores. Após as reformas, o Brasil manteve a liderança, mas a Argentina caiu para um nível similar ao da Colômbia, indicando que as reformas menos alteraram a estrutura intergovernamental argentina. A classificação da mudança relativa mostra o Brasil com a maior mudança, seguido por Colômbia e México (empate técnico) e, por último, Argentina. Em termos de receitas, a parcela subnacional caiu na Argentina e aumentou nos demais. Em autoridade legal (política educacional), o Brasil experimentou a maior devolução, seguido por México e Colômbia, com Argentina por último. A representação territorial no Congresso aumentou mais no Brasil, depois Colômbia, Argentina e México. Finalmente, o Brasil e o México viram o surgimento de associações ativas de prefeitos e governadores, diferentemente da Argentina e da Colômbia (que já possuía a FCM). O capítulo conclui que a teoria sequencial será testada nos quatro estudos de caso empíricos.</p>
-</section>
-</section>
-<section id="capítulo-3-argentina-the-national-dominance-path-to-decentralization-pp.-76121" class="level2" data-number="3">
-<h2 data-number="3" class="anchored" data-anchor-id="capítulo-3-argentina-the-national-dominance-path-to-decentralization-pp.-76121"><span class="header-section-number">3</span> Capítulo 3: Argentina: The National Dominance Path to Decentralization (pp.&nbsp;76–121)</h2>
-<section id="origins-sequence-and-coalitions-of-postdevelopmental-decentralization-in-argentina-cap.3-15" class="level3" data-number="3.1">
-<h3 data-number="3.1" class="anchored" data-anchor-id="origins-sequence-and-coalitions-of-postdevelopmental-decentralization-in-argentina-cap.3-15"><span class="header-section-number">3.1</span> Origins, Sequence, and Coalitions of Postdevelopmental Decentralization in Argentina [Cap.3 §1–§5]</h3>
-<p>A ditadura militar argentina (1976–1983) iniciou a descentralização pós-desenvolvimentista como parte de um projeto de “reorganização nacional”, impondo unilateralmente a primeira reforma: a descentralização administrativa não financiada da educação primária em 1978. O processo continuou sob a democracia, com descentralização fiscal em 1988 e política em 1994, mas o equilíbrio intergovernamental permaneceu praticamente intacto. A explicação não reside no alto nível inicial de descentralização (o Brasil partiu de nível similar e mudou radicalmente) nem na estrutura partidária ou no governo unificado. Em vez disso, o capítulo demonstra que os efeitos de política das reformas iniciais capacitaram o executivo nacional mesmo em situações de governo dividido (Alfonsín) e que, sob governo unificado (Menem), as reformas anteriores forçaram o presidente a negociar com os governadores de seu partido.</p>
-<p>A primeira reforma (1978, A) foi imposta sem coalizão. A descentralização fiscal (1988, F) foi alcançada por uma coalizão subnacional de governadores de oposição e situação que superaram suas diferenças partidárias, mas somente após o enfraquecimento eleitoral de Alfonsín. A reforma administrativa do secundário (1992, A) e o pacto fiscal recentralizador foram apoiados por uma coalizão governista. A descentralização política (1994, P) resultou de uma coalizão de nível nacional entre Menem e a oposição UCR, sendo uma moeda de troca para a reeleição presidencial (Figura 3.1 e Tabela 3.1).</p>
-</section>
-<section id="the-first-layer-administrative-decentralization-cap.3-620" class="level3" data-number="3.2">
-<h3 data-number="3.2" class="anchored" data-anchor-id="the-first-layer-administrative-decentralization-cap.3-620"><span class="header-section-number">3.2</span> The First Layer: Administrative Decentralization [Cap.3 §6–§20]</h3>
-<p>Em 1978, a junta militar transferiu todas as pré-escolas e escolas primárias federais para as províncias por decreto-lei, sem recursos, abrangendo 6.500 escolas e um terço do sistema público. Apesar da oposição dos governadores militares e de uma proposta alternativa do Conselho Federal de Educação por transferência gradual e financiada, a reforma foi imposta. A viabilidade da medida decorreu de um aumento conjuntural nas receitas provinciais em 1977 e, crucialmente, da <strong>evolução institucional do sistema educacional argentino</strong>: desde o século XIX, as províncias já geriam cerca de metade das escolas primárias (Figura 3.2). A existência de capacidades estaduais permitiu que os governadores absorvessem o choque fiscal sem devolver as escolas após a transição democrática. A descentralização administrativa não financiada de 1978 gerou três efeitos de política: (1) um <strong>efeito demonstração</strong> — mostrou que era factível em contexto de aumento de receitas; (2) <strong>incrementalismo</strong> — facilitou a aceitação da transferência do secundário em 1992; (3) <strong>reprodução de poder do executivo nacional</strong> — tornou os governadores dependentes de transferências discricionárias, permitindo ao presidente controlar o timing e conteúdo das reformas fiscais e políticas subsequentes.</p>
-<p>A descentralização do secundário em 1991–1992, proposta pelo Ministro Cavallo, aproveitou o aumento da arrecadação pós-conversibilidade e, ao contrário de 1978, foi negociada com os governadores em uma coalizão governista. A inclusão de uma cláusula de garantia financeira (gatilho caso a arrecadação caísse) foi a concessão arrancada pelos governadores. As assinaturas dos acordos bilaterais (Tabela 3.2) revelam que os governadores peronistas assinaram primeiro, indicando a coalizão governista. Contudo, a oposição também assinou, pois as escolas nacionais já estavam <em>de facto</em> sob gestão provincial há anos. A análise da evolução institucional do secundário (Figura 3.5) mostra que as províncias já administravam uma parcela maior que a federação desde os anos 1970, e a descentralização formal apenas ratificou uma situação de fato, sem transferir recursos correspondentes.</p>
-</section>
-<section id="the-second-layer-fiscal-decentralization-cap.3-2129" class="level3" data-number="3.3">
-<h3 data-number="3.3" class="anchored" data-anchor-id="the-second-layer-fiscal-decentralization-cap.3-2129"><span class="header-section-number">3.3</span> The Second Layer: Fiscal Decentralization [Cap.3 §21–§29]</h3>
-<p>A descentralização administrativa de 1978 teve consequências fiscais desastrosas: a parcela da educação nos orçamentos provinciais saltou de 14% para 20% enquanto as transferências automáticas caíram de 48,5% para 29%. Na volta à democracia, os governadores não reverteram a transferência, mas exigiram mais receitas. A lei de coparticipação de 1988 (Lei 23.548) foi uma vitória dos governadores, elevando sua parcela para 57,66% e reduzindo a discricionariedade do executivo. Todavia, a reforma só foi aprovada após a derrota eleitoral do partido de Alfonsín em 1987, que o forçou a ceder. Até então, o presidente usara transferências discricionárias para barganhar apoio político, reproduzindo o poder do executivo nacional.</p>
-<p>A vitória dos governadores foi efêmera. Após a estabilização em 1991, o governo Menem impôs o <strong>Pacto Fiscal de 1992</strong>, que reduziu a parcela da coparticipação de 57,7% para 49%, desviando 15% para a previdência. Embora garantisse um piso mínimo mensal, o pacto representou uma recentralização fiscal. Os governadores o aceitaram porque a descentralização administrativa anterior não financiada os deixara dependentes da garantia de um fluxo mínimo de recursos, e o governo ofereceu incentivos laterais (fundos discricionários). A sequência A→F resultou, assim, em mais responsabilidades com menos recursos para as províncias (Figura 3.6), forçando-as a aumentar endividamento.</p>
-</section>
-<section id="the-third-layer-political-decentralization-cap.3-3038" class="level3" data-number="3.4">
-<h3 data-number="3.4" class="anchored" data-anchor-id="the-third-layer-political-decentralization-cap.3-3038"><span class="header-section-number">3.4</span> The Third Layer: Political Decentralization [Cap.3 §30–§38]</h3>
-<p>A descentralização política na Argentina ocorreu tardiamente, na reforma constitucional de 1994, como subproduto de um pacto entre as lideranças nacionais do PJ e da UCR (Pacto de Olivos) para permitir a reeleição de Menem. A principal medida descentralizadora foi a eleição direta do prefeito da Cidade de Buenos Aires. Outras reformas, como a eleição direta de senadores e a terceira vaga para a minoria, reduziram o poder dos governadores sobre as bancadas. Propostas mais ambiciosas de fortalecimento do federalismo — aumento da coparticipação, autonomia municipal ampla, controle provincial sobre recursos naturais — foram apresentadas por constituintes de várias forças na Assembleia de 1994, mas foram derrotadas pela pressão do executivo nacional, que pressionou os convencionais do PJ a não incluir “cláusulas econômicas”. Dessa forma, os interesses territoriais foram suplantados pelos partidários no momento da votação. O capítulo conclui que a sequência A → F → P, com dominância nacional desde o início, não gerou um grupo de apoiadores subnacionais nem instituições de coordenação, resultando em nenhuma mudança significativa no equilíbrio de poder.</p>
-</section>
-</section>
-<section id="capítulo-4-colombia-the-subnational-dominance-path-to-decentralization-in-a-unitary-country-pp.-122149" class="level2" data-number="4">
-<h2 data-number="4" class="anchored" data-anchor-id="capítulo-4-colombia-the-subnational-dominance-path-to-decentralization-in-a-unitary-country-pp.-122149"><span class="header-section-number">4</span> Capítulo 4: Colombia: The Subnational Dominance Path to Decentralization in a Unitary Country (pp.&nbsp;122–149)</h2>
-<section id="origins-sequence-and-coalitions-of-postdevelopmental-decentralization-in-colombia-cap.4-16" class="level3" data-number="4.1">
-<h3 data-number="4.1" class="anchored" data-anchor-id="origins-sequence-and-coalitions-of-postdevelopmental-decentralization-in-colombia-cap.4-16"><span class="header-section-number">4.1</span> Origins, Sequence, and Coalitions of Postdevelopmental Decentralization in Colombia [Cap.4 §1–§6]</h3>
-<p>A Colômbia, apesar da estabilidade de seu regime político, enfrenta uma profunda fragmentação territorial e conflito armado. A descentralização foi vista como instrumento de integração nacional e pacificação. O processo pós-desenvolvimentista iniciou-se com a administração de Belisario Betancur (1982–1986), que teve de adotar medidas de austeridade a partir de 1984, encerrando o modelo desenvolvimentista. Em meio a uma crise de legitimidade política, a primeira reforma foi a descentralização política (1986), com a eleição popular de prefeitos, impulsionada por uma coalizão mista NR-SO (executivo nacional, jovens políticos reformistas e, crucialmente, movimentos sociais por meio de greves cívicas). Essa reforma gerou um efeito catraca, levando à criação da Federação Colombiana de Municípios (FCM), que pressionou por mais descentralização.</p>
-<p>A descentralização política continuou com a Constituição de 1991, que instituiu a eleição popular de governadores, novamente por uma coalizão NR-SO (executivo e departamentalistas). A descentralização fiscal foi incluída na mesma Constituição por uma coalizão subnacional, unindo interesses de departamentos e municípios. Por fim, a descentralização administrativa (1993–1994, Leis 60 e 115) foi iniciada pelo executivo nacional para compensar a decentralização fiscal anterior, negociada com o sindicato nacional de professores (FECODE) e o Congresso (Figura 4.1, Tabela 4.1). A sequência foi P → F → A.</p>
-</section>
-<section id="the-first-layer-political-decentralization-cap.4-716" class="level3" data-number="4.2">
-<h3 data-number="4.2" class="anchored" data-anchor-id="the-first-layer-political-decentralization-cap.4-716"><span class="header-section-number">4.2</span> The First Layer: Political Decentralization [Cap.4 §7–§16]</h3>
-<p>A eleição popular de prefeitos (Ato Legislativo No.&nbsp;1, 1986) pôs fim a um século de nomeação presidencial de governadores e, por sua vez, de prefeitos. A explicação eleitoral de O’Neill (presidente conservador buscando ganhos locais) é insuficiente, pois a reforma dividiu os dois partidos tradicionais. Mais importante foi o contexto de <strong>greves cívicas</strong> (paros cívicos): mais de 200 protestos entre 1971 e 1985, principalmente em municípios médios das regiões periféricas, paralisaram cidades em demandas por melhores serviços públicos, evidenciando o fracasso do modelo centralizado de desenvolvimento e a ilegitimidade dos prefeitos nomeados. A eleição popular de prefeitos foi uma resposta a essa pressão vinda de baixo, que expressava interesses territoriais subnacionais. A coalizão, portanto, foi uma coalizão mista NR-SO, mas com predominância dos interesses subnacionais locais.</p>
-<p>A primeira eleição de prefeitos em 1988 produziu um <strong>efeito catraca</strong>: a criação da FCM, que articulou os interesses municipais e passou a pressionar por mais recursos e autonomia, influenciando ativamente a Assembleia Constituinte de 1991. A reforma política de 1986 também teve um efeito incremental: abriu caminho para que, na Constituinte, os representantes departamentais (os “perdedores” de 1986) pressionassem com sucesso pela eleição popular de governadores em 1991, vista como o próximo passo lógico na trajetória de descentralização.</p>
-</section>
-<section id="the-second-layer-fiscal-decentralization-cap.4-1721" class="level3" data-number="4.3">
-<h3 data-number="4.3" class="anchored" data-anchor-id="the-second-layer-fiscal-decentralization-cap.4-1721"><span class="header-section-number">4.3</span> The Second Layer: Fiscal Decentralization [Cap.4 §17–§21]</h3>
-<p>A descentralização fiscal veio em segundo lugar, inscrita na Constituição de 1991. Impulsionada por uma coalizão subnacional que uniu municipalistas e departamentalistas na Assembleia, a reforma aumentou significativamente as transferências automáticas. O <em>situado fiscal</em> para departamentos passou a financiar educação e saúde com distribuição mais igualitária; as <em>participações</em> municipais subiriam de 14% para 22% da receita corrente nacional até 2002, com 60% alocados por critérios de pobreza, beneficiando municípios pequenos e pobres. A base de cálculo também foi ampliada de receita ordinária para receita corrente. Essas medidas refletiram diretamente as demandas da FCM e dos departamentalistas e foram garantidas constitucionalmente com o princípio de que não haveria descentralização de responsabilidades sem a prévia transferência de recursos. As transferências totais dobraram entre 1991 e 1998 (de 4,3% para 7,9% do PIB). A força dessas reformas é diretamente atribuível ao empoderamento político dos atores subnacionais na rodada anterior.</p>
-</section>
-<section id="the-third-layer-administrative-decentralization-cap.4-2226" class="level3" data-number="4.4">
-<h3 data-number="4.4" class="anchored" data-anchor-id="the-third-layer-administrative-decentralization-cap.4-2226"><span class="header-section-number">4.4</span> The Third Layer: Administrative Decentralization [Cap.4 §22–§26]</h3>
-<p>Em terceiro lugar, vieram as leis de descentralização administrativa (Lei 60 de 1993 e Lei 115 de 1994), propostas pelo executivo para racionalizar o duplo gasto gerado pelas transferências sem a correspondente transferência de encargos. As negociações no Congresso revelaram três grupos: políticos tradicionais de nível departamental, tecnocratas nacionais aliados aos municipalistas (FCM), e o sindicato FECODE, contrário à descentralização para municípios. O resultado foi um compromisso mediado pelo Ministério da Educação: a descentralização ocorreria para o nível departamental, com garantia de financiamento federal, preservando a negociação salarial nacional (demanda da FECODE). A Lei 60 fez dos departamentos os responsáveis pela administração e distribuição dos recursos do <em>situado fiscal</em>, com possibilidade de certificação e transferência para municípios grandes. A Lei 115 geral da educação incorporou os Fundos Educacionais Regionais (FER) às secretarias estaduais, fortalecendo o nível departamental. Embora os prefeitos tenham conseguido assegurar recursos para a FCM e um papel na gestão, o grosso da autoridade e recursos para educação ficou com os departamentos.</p>
-<p>A sequência P→F→A, em que os interesses subnacionais prevaleceram desde a primeira rodada, resultou em uma significativa alteração do equilíbrio de poder, com prefeitos e governadores ganhando autonomia política, recursos e algum controle sobre serviços. Apesar do conflito armado persistente, programas municipais inovadores em cidades como Bogotá e Medellín emergiram como resultados positivos da devolução de poder.</p>
-</section>
-</section>
-<section id="capítulo-5-brazil-the-subnational-dominance-path-to-decentralization-in-a-federal-country-pp.-150187" class="level2" data-number="5">
-<h2 data-number="5" class="anchored" data-anchor-id="capítulo-5-brazil-the-subnational-dominance-path-to-decentralization-in-a-federal-country-pp.-150187"><span class="header-section-number">5</span> Capítulo 5: Brazil: The Subnational Dominance Path to Decentralization in a Federal Country (pp.&nbsp;150–187)</h2>
-<section id="origins-sequence-and-coalitions-of-postdevelopmental-decentralization-in-brazil-cap.5-18" class="level3" data-number="5.1">
-<h3 data-number="5.1" class="anchored" data-anchor-id="origins-sequence-and-coalitions-of-postdevelopmental-decentralization-in-brazil-cap.5-18"><span class="header-section-number">5.1</span> Origins, Sequence, and Coalitions of Postdevelopmental Decentralization in Brazil [Cap.5 §1–§8]</h3>
-<p>O Brasil, partindo de uma estrutura intergovernamental inicial tão descentralizada quanto a da Argentina, experimentou uma dramática devolução adicional de poder. A transição do estado desenvolvimentista para o neoliberal foi gradual, com o declínio do modelo no final dos anos 1970. A primeira administração pós-desenvolvimentista foi a do presidente militar João Figueiredo (1979–1985), que adotou políticas ortodoxas de ajuste. A primeira reforma de descentralização do ciclo foi <strong>política</strong>: a Emenda Constitucional No.&nbsp;15 de 1980, restaurando a eleição direta de governadores, aprovada sob pressão de uma coalizão subnacional multipartidária. Essa reforma gerou um efeito catraca que fortaleceu governadores e prefeitos eleitos.</p>
-<p>A descentralização fiscal veio em seguida, com a Emenda Passos Porto (1983), que aumentou as transferências automáticas para estados e municípios contra a vontade do executivo. A Constituição de 1988 aprofundou tanto a descentralização política (reconhecendo os municípios como entes federativos) quanto a fiscal (aumentando transferências e a base tributária subnacional). A descentralização administrativa, especialmente na saúde, foi a última, inicialmente demandada por uma coalizão subnacional liderada pelo movimento sanitarista (Figura 5.1, Tabela 5.1). A sequência foi P → F → A, levando a uma alta mudança no equilíbrio de poder.</p>
-</section>
-<section id="the-first-layer-political-decentralization-cap.5-918" class="level3" data-number="5.2">
-<h3 data-number="5.2" class="anchored" data-anchor-id="the-first-layer-political-decentralization-cap.5-918"><span class="header-section-number">5.2</span> The First Layer: Political Decentralization [Cap.5 §9–§18]</h3>
-<p>Diferentemente de outras ditaduras do Cone Sul, o regime militar brasileiro manteve eleições legislativas e para prefeitos, embora manipulasse as regras. A eleição indireta de governadores desde 1966 dava ao regime controle sobre a seleção. O projeto de abertura de Figueiredo incluiu o restabelecimento da eleição direta de governadores. Embora Figueiredo tenha patrocinado o projeto para controlar a transição, uma ampla coalizão subnacional no Congresso, incluindo parlamentares do partido governista (PDS) e da oposição (PMDB), já havia proposto medidas similares (propostas de Montoro e Lobão). A manobra de Figueiredo para derrotar a proposta de Lobão e aprovar a sua própria expôs a tensão entre a disciplina partidária e os interesses regionais: muitos governistas votaram contra Lobão por obediência ao presidente, mas justificaram extensamente seu voto.</p>
-<p>A aprovação unânime da emenda e a eleição de 1982 — na qual a oposição venceu em 10 dos 22 estados e nas maiores cidades — produziu um <strong>efeito catraca</strong>: governadores e prefeitos passaram a reivindicar legitimidade eleitoral que o presidente nomeado pela ditadura não tinha. Isso os fortaleceu enormemente nas negociações fiscais subsequentes e os levou a coordenar a campanha das <em>Diretas Já</em>. A descentralização passou a ser identificada com a democratização, discurso que permeou as demandas subsequentes.</p>
-</section>
-<section id="the-second-layer-fiscal-decentralization-cap.5-1927" class="level3" data-number="5.3">
-<h3 data-number="5.3" class="anchored" data-anchor-id="the-second-layer-fiscal-decentralization-cap.5-1927"><span class="header-section-number">5.3</span> The Second Layer: Fiscal Decentralization [Cap.5 §19–§27]</h3>
-<p>A descentralização fiscal começou ainda sob o regime militar com a Emenda Passos Porto de 1983, que aumentou o Fundo de Participação dos Estados (FPE) de 10,5% para 14% e o dos Municípios (FPM) de 10,5% para 16% sobre os impostos de renda e produtos industrializados. O governo militar se opôs fortemente, mas uma coalizão multipartidária no Congresso, galvanizada pela pressão de governadores recém-eleitos e por uma marcha de 2.000 prefeitos a Brasília, aprovou a emenda com 88% dos votos. Isso demonstra a mudança na relação de forças: legisladores do partido governista passaram a atender mais às demandas subnacionais do que ao executivo.</p>
-<p>A Emenda Passos Porto (1983) e a Emenda No.&nbsp;27 (1985) foram sucedidas pelo clímax da descentralização fiscal na Constituição de 1988, que aumentou ainda mais as transferências automáticas e deu aos estados o controle sobre o ICMS. O impacto foi um aumento significativo da receita disponível subnacional (Figura 5.2), especialmente para os municípios.</p>
-</section>
-<section id="the-constitutional-reform-of-1988-deepening-political-and-fiscal-decentralization-cap.5-2831" class="level3" data-number="5.4">
-<h3 data-number="5.4" class="anchored" data-anchor-id="the-constitutional-reform-of-1988-deepening-political-and-fiscal-decentralization-cap.5-2831"><span class="header-section-number">5.4</span> The Constitutional Reform of 1988: Deepening Political and Fiscal Decentralization [Cap.5 §28–§31]</h3>
-<p>A Assembleia Constituinte de 1987–1988, dominada por interesses subnacionais (54% dos constituintes tinham experiência em cargos executivos ou legislativos subnacionais), aprofundou a descentralização política ao reconhecer os municípios como entes federativos (Art. 18) e criar o estado de Tocantins, aumentando a sobre-representação do Norte. Do lado fiscal, a Constituição garantiu maiores transferências e aboliu a parcela da União sobre diversos impostos que foram incorporados ao ICMS estadual. A administração Sarney, fraca por ser indireta, fez concessões aos constituintes, liderados por Ulysses Guimarães, que vocalizava as demandas subnacionais. A Constituição, no entanto, manteve a maioria dos serviços sociais como competências concorrentes, transferindo recursos mas não responsabilidades — exceto na saúde, com a criação do SUS.</p>
-</section>
-<section id="the-third-layer-administrative-decentralization-cap.5-3244" class="level3" data-number="5.5">
-<h3 data-number="5.5" class="anchored" data-anchor-id="the-third-layer-administrative-decentralization-cap.5-3244"><span class="header-section-number">5.5</span> The Third Layer: Administrative Decentralization [Cap.5 §32–§44]</h3>
-<p>A descentralização administrativa no Brasil difere dos outros casos: a saúde precedeu a educação, e foi demandada por uma coalizão subnacional. A educação só foi reformada nos anos 1990 (FUNDEF) porque o governo federal já geria menos de 1% das escolas primárias. Já na saúde, o <strong>movimento sanitarista</strong>, com raízes desde os anos 1960, defendia a universalização e a municipalização do sistema como forma de democratização. Na 8ª Conferência Nacional de Saúde (1986), uma coalizão de sanitaristas, profissionais de saúde, autoridades locais e movimentos populares elaborou a proposta do SUS: um sistema único, universal, participativo e descentralizado para o nível municipal.</p>
-<p>Essa proposta foi inscrita na Constituição de 1988 e, apesar da resistência do presidente Collor, foi regulamentada por leis e normas operacionais que transferiram recursos e gestão para estados e, sobretudo, municípios. As associações de secretários estaduais (CONASS) e municipais (CONASEMS) de saúde se tornaram atores-chave na implementação. Como resultado, a participação dos municípios no orçamento federal de saúde saltou de 2% para 40% entre 1994 e 2005, e eles passaram a responder por metade do gasto subnacional em saúde. O caso brasileiro evidencia que, com P e F prévios, a demanda por A pode vir dos próprios atores subnacionais, e que o legado institucional não impõe um teto para a devolução de poder — a sequência de reformas é o fator determinante.</p>
-</section>
-</section>
-<section id="capítulo-6-mexico-the-subnational-response-path-to-decentralization-pp.-188230" class="level2" data-number="6">
-<h2 data-number="6" class="anchored" data-anchor-id="capítulo-6-mexico-the-subnational-response-path-to-decentralization-pp.-188230"><span class="header-section-number">6</span> Capítulo 6: Mexico: The Subnational Response Path to Decentralization (pp.&nbsp;188–230)</h2>
-<section id="origins-sequence-and-coalitions-of-postdevelopmental-decentralization-in-mexico-cap.6-14" class="level3" data-number="6.1">
-<h3 data-number="6.1" class="anchored" data-anchor-id="origins-sequence-and-coalitions-of-postdevelopmental-decentralization-in-mexico-cap.6-14"><span class="header-section-number">6.1</span> Origins, Sequence, and Coalitions of Postdevelopmental Decentralization in Mexico [Cap.6 §1–§4]</h3>
-<p>O México iniciou a descentralização pós-desenvolvimentista de cima para baixo sob Miguel de la Madrid (1982–1988), o primeiro presidente a implementar reformas de mercado. No entanto, diferentemente da Argentina, a interação com a democratização e o desenho financiado da descentralização administrativa permitiram uma reversão que fortaleceu atores subnacionais. A primeira reforma foi a descentralização administrativa da educação (1983, A), imposta pelo executivo nacional, e a descentralização política municipal (1983, P, reforma do Art. 115), também iniciada pelo presidente. Seguiram-se novas rodadas de descentralização política (1986 e 1996, para a Cidade do México) e administrativa (1992, Acordo ANMEB para a educação básica). A descentralização fiscal veio por último (1995 e 1997), impulsionada por coalizões mistas NR-SO (Figura 6.1, Tabela 6.1). A sequência foi A → P → F, caracterizando um caminho de resposta subnacional, com mudança intermediária no equilíbrio de poder.</p>
-</section>
-<section id="ongoing-reforms-in-the-first-layer-administrative-deconcentration-and-decentralization-cap.6-517" class="level3" data-number="6.2">
-<h3 data-number="6.2" class="anchored" data-anchor-id="ongoing-reforms-in-the-first-layer-administrative-deconcentration-and-decentralization-cap.6-517"><span class="header-section-number">6.2</span> Ongoing Reforms in the First Layer: Administrative Deconcentration and Decentralization [Cap.6 §5–§17]</h3>
-<p>O processo de descentralização da educação no México foi gradual e decorreu de dois problemas gêmeos: o gigantismo da Secretaria de Educação Pública (SEP) — um “elefante artrítico e reumático” — e o poder da centralizada e monopolista união nacional de professores, o SNTE. A primeira fase, sob o estado desenvolvimentista no final dos anos 1970, foi de <strong>desconcentração</strong>: a criação de 31 delegações estaduais da SEP, que transferiram tarefas administrativas para os estados sem devolver autoridade decisória, mas tiveram o efeito auto-reforçador de criar uma nova arena política com atores estaduais e locais.</p>
-<p>A segunda fase, já pós-desenvolvimentista, foi a tentativa de de la Madrid de descentralizar a educação em 1983, criando as USEDES. A forte oposição do SNTE, temendo a fragmentação, paralisou o processo após a assinatura de alguns acordos bilaterais, e a reforma estagnou. A terceira fase ocorreu sob Salinas, que nomeou Manuel Bartlett e depois Ernesto Zedillo para o ministério, promoveu a queda do líder vitalício do SNTE, Jonguitud Barrios, e sua substituição por Elba Esther Gordillo. Após intensas negociações, em 1992 foi assinado o <strong>Acordo Nacional para a Modernização da Educação Básica (ANMEB)</strong> por Zedillo, Gordillo e os governadores. O acordo transferiu 100.000 escolas e 700.000 funcionários para os estados, com recursos federais garantidos. A negociação salarial permaneceu centralizada, mas benefícios passaram a ser negociados nos estados. A Figura 6.2 ilustra a sequência auto-reforçadora na camada administrativa. Um ponto crucial, comparado à Argentina, é que a descentralização da educação no México foi financiada. Isso se deveu, em parte, à força do SNTE na barganha, mas também à <strong>evolução institucional do sistema educacional mexicano</strong>: ao contrário da Argentina, onde as províncias já geriam grande parte das escolas, no México 80% das escolas primárias eram federais, e vários estados sequer possuíam sistemas estaduais de educação, tornando inviável uma transferência não financiada. Como resultado, o gasto nacional em educação como proporção do gasto total se manteve e até cresceu após o ANMEB.</p>
-</section>
-<section id="the-second-layer-political-decentralization-cap.6-1826" class="level3" data-number="6.3">
-<h3 data-number="6.3" class="anchored" data-anchor-id="the-second-layer-political-decentralization-cap.6-1826"><span class="header-section-number">6.3</span> The Second Layer: Political Decentralization [Cap.6 §18–§26]</h3>
-<p>Paralelamente à administração, De la Madrid promoveu a descentralização política com a reforma do Art. 115 constitucional em 1983, fortalecendo o papel dos municípios. A motivação do presidente era dupla: aliviar a pressão social e política da crise econômica permitindo contestação no nível local, enquanto mantinha controle firme sobre os governos estaduais. A reforma definiu os serviços públicos municipais, suas fontes de receita e protegeu os prefeitos de remoção arbitrária pelos governadores. Esse movimento estratégico de cima para baixo funcionou como uma “válvula de escape”, mas também gerou um <strong>efeito catraca</strong> na sociedade: a criação de centros de estudos municipais pelo governo (CNEM) e, posteriormente, de associações de prefeitos da oposição, como a AMMAC (1994).</p>
-<p>À medida que a democratização avançava (vitórias da oposição em municípios e, a partir de 1989, em governos estaduais), esses atores subnacionais se fortaleceram. As reformas políticas na Cidade do México (criação da Assembleia Legislativa em 1986 e eleição direta do prefeito em 1996) também foram conquistas da oposição em coalizões NR-SO. A democratização exógena produziu um <strong>efeito reativo</strong> na sequência: em vez de o executivo nacional manter o controle para impor uma descentralização fiscal em seus termos (como na Argentina), os atores subnacionais empoderados politicamente inverteram a ordem, pressionando por e obtendo a descentralização fiscal antes que novas rodadas de A ocorressem.</p>
-</section>
-<section id="the-third-layer-fiscal-decentralization-cap.6-2733" class="level3" data-number="6.4">
-<h3 data-number="6.4" class="anchored" data-anchor-id="the-third-layer-fiscal-decentralization-cap.6-2733"><span class="header-section-number">6.4</span> The Third Layer: Fiscal Decentralization [Cap.6 §27–§33]</h3>
-<p>A descentralização fiscal ocorreu por último, em duas ondas. Em 1995, uma reforma da Lei de Coordenação Fiscal aumentou as <em>participações</em> e criou novas opções de arrecadação para os estados. Mas a mudança radical veio em 1997, sob governo dividido, com a criação do <strong>Ramo 33</strong> no orçamento federal. Este criou transferências automáticas condicionadas (<em>aportaciones</em>) para educação (FAEB), saúde (FASSA) e, crucialmente, fundos para municípios (FAFOMUN e FAIS), fruto da pressão dos prefeitos da oposição (especialmente PAN, articulados pela AMMAC) sobre o Congresso. O Ramo 33 quase dobrou as transferências automáticas para municípios entre 1996 e 1998 e, pela primeira vez, legislou transferências diretas da federação para os municípios, reduzindo a discricionariedade dos governadores. Como consequência, o poder de barganha dos governadores também se organizou: em 1999, formou-se a Associação Nacional de Governadores (ANAGO) e, em 2002, a Conferência Nacional de Governadores (CONAGO), reunindo todos os partidos para demandar mais recursos e coordenar a descentralização. O capítulo conclui que o México representa um caso intermediário: iniciado de cima com A e P locais, a democratização gerou uma reação que inverteu a sequência esperada, resultando em um aumento significativo, embora não tão radical quanto em Brasil e Colômbia, da autonomia subnacional.</p>
-</section>
-</section>
-<section id="capítulo-7-conclusion-decentralization-temporal-analysis-and-territorial-politics-pp.-231248" class="level2" data-number="7">
-<h2 data-number="7" class="anchored" data-anchor-id="capítulo-7-conclusion-decentralization-temporal-analysis-and-territorial-politics-pp.-231248"><span class="header-section-number">7</span> Capítulo 7: Conclusion: Decentralization, Temporal Analysis, and Territorial Politics (pp.&nbsp;231–248)</h2>
-<section id="sequences-of-decentralization-policy-effects-and-their-impact-on-the-intergovernmental-balance-of-power-cap.7-112" class="level3" data-number="7.1">
-<h3 data-number="7.1" class="anchored" data-anchor-id="sequences-of-decentralization-policy-effects-and-their-impact-on-the-intergovernmental-balance-of-power-cap.7-112"><span class="header-section-number">7.1</span> Sequences of Decentralization, Policy Effects, and Their Impact on the Intergovernmental Balance of Power [Cap.7 §1–§12]</h3>
-<p>O livro demonstrou que o impacto da descentralização sobre o equilíbrio de poder intergovernamental é amplamente variável, contrariando o pressuposto comum a críticos e defensores. A teoria sequencial explica essa variação. Nos quatro casos, as reformas iniciais definiram a estrutura intergovernamental para as negociações futuras, operando por meio de mecanismos como incrementalismo, demonstração, efeito catraca, coordenação e compensação (Figuras 7.1 a 7.4).</p>
-<ul>
-<li><strong>Argentina (A→F→P)</strong>: A reforma administrativa não financiada de 1978 reproduziu o poder do executivo nacional, que atrasou a descentralização fiscal até 1987 e depois impôs uma recentralização. A descentralização política foi “residual”, fruto de uma negociação de cúpula, e não alterou o equilíbrio de poder.</li>
-<li><strong>Colômbia (P→F→A)</strong>: A eleição popular de prefeitos, resposta a pressões subnacionais, gerou um efeito catraca com a criação da FCM, que puxou a descentralização fiscal e, por incrementalismo, a eleição de governadores. A descentralização administrativa veio depois, financiada, e o poder subnacional aumentou significativamente.</li>
-<li><strong>Brasil (P→F→A)</strong>: A eleição direta de governadores empoderou atores subnacionais com legitimidade eleitoral, que arrancaram a descentralização fiscal do regime militar e aprofundaram ambas na Constituição de 1988. A descentralização administrativa da saúde foi demandada por uma coalizão subnacional, resultando em enorme transferência de recursos para os municípios.</li>
-<li><strong>México (A→P→F)</strong>: Iniciada de cima com descentralização administrativa financiada e política local, a sequência foi revertida pela intersecção com a democratização, que fortaleceu atores subnacionais (municípios, depois estados). Eles então conquistaram a descentralização fiscal, resultando em uma mudança intermediária, mas com potencial de aprofundamento.</li>
-</ul>
-<p>Essas trajetórias mostram que o sequenciamento das reformas é um determinante-chave da mudança no poder subnacional. Legados institucionais (ex.: sistema educacional) condicionaram o conteúdo das reformas (A financiada ou não), mas não determinaram o resultado final.</p>
-</section>
-<section id="territorial-interests-and-the-origins-of-decentralization-processes-cap.7-1320" class="level3" data-number="7.2">
-<h3 data-number="7.2" class="anchored" data-anchor-id="territorial-interests-and-the-origins-of-decentralization-processes-cap.7-1320"><span class="header-section-number">7.2</span> Territorial Interests and the Origins of Decentralization Processes [Cap.7 §13–§20]</h3>
-<p>A explicação baseada nos interesses territoriais das coalizões descentralizadoras teve alto poder preditivo para o tipo de reforma adotada (Tabela 7.1): 85% dos casos, e 95% quando a cronologia é considerada. Coalizões de nível nacional, governistas e reformas impostas de cima resultaram em descentralização administrativa. Coalizões subnacionais e mistas NR-SO produziram descentralização política ou fiscal. As poucas exceções — a descentralização administrativa da saúde no Brasil (coalizão subnacional) e a descentralização política da Cidade de Buenos Aires (coalizão nacional) — ocorreram tardiamente na sequência, como “políticas residuais” que refletem o fortalecimento dos interesses vitoriosos ao longo do processo. A ausência de coalizões puramente oposicionistas indica que a descentralização é uma “revolução silenciosa”, que requer negociação com o executivo.</p>
-</section>
-<section id="decentralization-subnational-politics-and-institutional-change-cap.7-2124" class="level3" data-number="7.3">
-<h3 data-number="7.3" class="anchored" data-anchor-id="decentralization-subnational-politics-and-institutional-change-cap.7-2124"><span class="header-section-number">7.3</span> Decentralization, Subnational Politics, and Institutional Change [Cap.7 §21–§24]</h3>
-<p>A descentralização é uma ferramenta maleável. Nas mãos de executivos nacionais, serve para manter poder ou transferir responsabilidades sem recursos (Argentina), e provavelmente não melhora a governança. Nas mãos de atores subnacionais, serve para democratizar e melhorar serviços (Brasil, Colômbia). Portanto, as consequências da descentralização — sobre democratização, eficiência fiscal, accountability — só podem ser adequadamente avaliadas se os casos forem classificados segundo a trajetória sequencial, distinguindo quem conduziu o processo.</p>
-</section>
-<section id="looking-back-and-ahead-cap.7-2530" class="level3" data-number="7.4">
-<h3 data-number="7.4" class="anchored" data-anchor-id="looking-back-and-ahead-cap.7-2530"><span class="header-section-number">7.4</span> Looking Back and Ahead [Cap.7 §25–§30]</h3>
-<p>O livro oferece três contribuições principais. Primeiro, uma definição clara e exaustiva das dimensões da descentralização, que facilita a mensuração e a análise de interações. Segundo, a incorporação dos interesses territoriais como lente analítica, em vez de focar apenas nos incentivos partidários. Terceiro, a abordagem temporal, que trata a descentralização como um processo de políticas interconectadas que criam política (<em>policies create politics</em>), gerando novos atores, instituições e dinâmicas de poder. Essa abordagem mostra que os processos de descentralização são <em>path-dependent</em>, com eventos iniciais mais importantes, mas não deterministicamente — a intersecção com outros processos (como a democratização) pode gerar reações. A agenda futura inclui investigar os ciclos subsequentes de reforma, as interações entre os níveis intermediário e local de governo, e as diferenças horizontais entre tipos de unidades subnacionais.</p>
-</section>
-</section>
-<section id="argumento-sintético" class="level2" data-number="8">
-<h2 data-number="8" class="anchored" data-anchor-id="argumento-sintético"><span class="header-section-number">8</span> Argumento Sintético</h2>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>A tese central do livro é que o impacto das políticas de descentralização sobre a distribuição de poder entre executivos nacionais e subnacionais na América Latina não é uniforme nem predeterminado por estruturas partidárias ou constitucionais, mas depende crucialmente do <strong>sequenciamento temporal</strong> dos diferentes tipos de reforma (administrativa, fiscal, política). A autora demonstra, por meio de uma teoria sequencial e análise histórico-comparativa de quatro países, que trajetórias iniciadas com descentralização política e dominadas por interesses subnacionais (Brasil, Colômbia) produzem uma devolução significativa de poder, enquanto trajetórias iniciadas com descentralização administrativa imposta por interesses nacionais (Argentina) preservam o status quo centralizado. O caso do México ilustra uma trajetória reativa, onde a interação com a democratização inverteu uma trajetória inicialmente dominada pelo centro. A natureza do argumento é causal e processual (path-dependent). A contribuição fundamental para o debate mais amplo é demonstrar que a descentralização é um processo endógeno que gera seus próprios efeitos de feedback, e que a política territorial — os interesses dos níveis de governo — é um fator explicativo primário, frequentemente negligenciado em favor de clivagens partidárias ou de classe.</p>
-</div>
-</div>
-<p>## Ficha Analítica Crítica {.unnumbered}</p>
-<p>::: {.callout-note} Esta seção segue o formato <em>IA Planilhando Textos v14.0</em>. :::</p>
-<p>::: {.callout-note collapse=“true” icon=false} ## Ficha Analítica — Tabela Markdown</p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 23%">
-<col style="width: 52%">
-<col style="width: 23%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Dimensão</th>
-<th style="text-align: left;">Raciocínio analítico</th>
-<th style="text-align: left;">Conteúdo</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Questão de Pesquisa</td>
-<td style="text-align: left;">A autora identifica um paradoxo empírico: a literatura assume que descentralização sempre devolve poder aos governos subnacionais, mas na América Latina os resultados variam radicalmente. A pergunta central é explicitamente causal, investigando a fonte dessa variação. O foco nos mecanismos endógenos ao processo (sequenciamento) é uma abordagem inovadora, mas que pode subestimar o peso de variáveis exógenas de longo prazo.</td>
-<td style="text-align: left;">Por que, após a implementação de reformas de descentralização semelhantes em Argentina, Brasil, Colômbia e México, o grau de mudança no equilíbrio de poder intergovernamental variou de insignificante a substancial? A pergunta é de natureza causal e explicativa, claramente explicitada.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Questões Secundárias</td>
-<td style="text-align: left;">As perguntas secundárias decompõem o puzzle central em origens e efeitos, guiando a estrutura do livro. A segunda pergunta sobre interesses territoriais é essencial para endogeneizar a formação das coalizões, mas a teoria tratada como <em>middle-range</em> e <em>time-bound</em> pode limitar sua generalização para outros tipos de estado.</td>
-<td style="text-align: left;">1. Que condições levam à adoção de diferentes <em>tipos</em> de descentralização (administrativa, fiscal, política)? 2. Qual o papel dos interesses territoriais (nacionais vs.&nbsp;subnacionais) em comparação com os partidários na formação das coalizões reformistas? 3. Como a ordem temporal das reformas afeta o equilíbrio final de poder?</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Puzzle-Type</td>
-<td style="text-align: left;">O puzzle é um claro “gap analítico” que desafia uma suposição generalizada na literatura. É genuíno e bem formulado. A autora conecta-o habilmente a um debate normativo (descentralização é boa ou ruim?), argumentando que a pergunta sobre <em>quanto</em> poder é devolvido é logicamente anterior. A generalização do puzzle para além da América Latina é plausível, mas a condicionante do tipo de estado (“pós-desenvolvimentista”) é uma escolha forte que ancora a validade externa da teoria.</td>
-<td style="text-align: left;">O puzzle é um <strong>gap explicativo</strong> que contesta um pressuposto comum. É genuíno, pois os resultados divergem de teorias estabelecidas (Riker, O’Neill). A autora mostra que a pergunta é generalizável ao apontar que a variação existe e não é explicada por fatores institucionais estáticos (federalismo, sistema partidário), mas a sua teoria sequencial é vinculada a um contexto histórico específico de estado pós-desenvolvimentista.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Conclusão / Argumento Central</td>
-<td style="text-align: left;">O argumento central é elegantemente triplo e sistêmico. O <em>claim of discovery</em> — que a sequência das reformas, e não seu mero conteúdo, determina o resultado — é robustamente sustentado pela combinação de process-tracing e comparação entre quatro casos. A distinção entre caminhos auto-reforçadores e reativos é uma sofisticação importante que afasta a teoria do determinismo simplista.</td>
-<td style="text-align: left;">A descentralização é um processo sequencial path-dependent. A sequência de reformas A→F→P (dominância nacional) resulta em baixa mudança no poder subnacional, enquanto P→F→A (dominância subnacional) resulta em alta mudança. Sequências reativas (ex.: A→P→F no México) geram resultados intermediários. O tipo de coalizão e os interesses territoriais predominantes na primeira reforma são cruciais.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Métodos</td>
-<td style="text-align: left;">A abordagem é um exemplar de <em>comparative historical analysis</em> com <em>process-tracing</em> estruturado. A força reside na clara operacionalização da variável dependente (Tabela 2.6) e na base empírica diversificada (entrevistas, arquivos, dados quantitativos). Uma limitação inerente ao <em>process-tracing</em> de quatro casos é o chamado “viés de seleção na variável dependente” ou a dificuldade de testar a teoria em casos onde a sequência não ocorreu, algo que a autora reconhece parcialmente ao listar as sequências possíveis. O fichamento cobre a obra inteira.</td>
-<td style="text-align: left;">Estudo comparativo de quatro casos (Argentina, Brasil, Colômbia, México) utilizando o <strong>método sequencial comparativo</strong>, uma forma de <em>process-tracing</em> focado em mecanismos causais e eventos de política. As fontes incluem 18 meses de trabalho de campo, mais de 150 entrevistas em profundidade, análise de dados fiscais, educacionais, eleitorais, legislação e debates constitucionais. A análise é qualitativa, visando identificar mecanismos causais (reprodução de poder, efeito catraca, etc.) dentro e entre os casos.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Data Generation Process (DGP)</td>
-<td style="text-align: left;">O DGP é transparente e bem alinhado com o argumento processual. A medição da variável dependente em seis dimensões <em>antes e depois</em> permite uma comparação estruturada da mudança. A coleta de dados primários (entrevistas) é usada para rastrear preferências e negociações, enquanto dados secundários (fiscais, legislação) ancoram a análise dos resultados. A principal fragilidade está na mensuração de “interesses territoriais”, que é inferida a partir de declarações e posições, e não medida diretamente.</td>
-<td style="text-align: left;"><strong>Fenômeno</strong>: Processos de reforma de descentralização em quatro países. <strong>Observação/Coleta</strong>: Coleta de dados primários (entrevistas com atores-chave) e secundários (legislação, estatísticas fiscais e educacionais, debates congressuais). <strong>Operacionalização</strong>: Construção de indicadores quanti-quali para o equilíbrio de poder (Tabela 2.6) e codificação de tipos de coalizão e reformas. <strong>Análise</strong>: Process-tracing da sequência de eventos de política e identificação de mecanismos causais. <strong>Tipo de Inferência</strong>: Causal (mecanismos) dentro de uma estrutura comparativa. Unidade de análise: o país (processo de reforma).</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Achados e Contribuições</td>
-<td style="text-align: left;">A principal contribuição é teórico-metodológica: mostrar que <em>timing</em> e <em>sequencing</em> são essenciais para entender reformas institucionais. A taxonomia (A, F, P) e o foco nos interesses territoriais são avanços conceituais significativos. Achados empíricos específicos, como a explicação do fracasso argentino apesar do federalismo, são valiosos. A distinção entre o que é fortemente identificado (o poder da sequência) e o que é mais especulativo (a generalização para outros contextos estatais) é honesta.</td>
-<td style="text-align: left;">1. A variação no impacto da descentralização é explicada pela sequência de reformas, não por fatores estáticos. 2. A primeira reforma é a mais importante, pois cria efeitos de feedback (ex.: efeito catraca, reprodução de poder) que moldam as rodadas seguintes. 3. Os interesses territoriais, e não apenas os partidários, são determinantes na formação das coalizões e no tipo de reforma adotada. 4. A taxonomia de descentralização (administrativa, fiscal, política) é uma ferramenta analítica superior.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Análise Crítica dos Achados</td>
-<td style="text-align: left;">A autora responde à pergunta central de forma convincente. O ponto mais forte é a demonstração de que o sequenciamento explica o resultado argentino vs.&nbsp;brasileiro, um quebra-cabeça para outras teorias. O ponto mais vulnerável é o caso mexicano, onde a “reação” é atribuída à intersecção com a democratização, um fator exógeno cuja operação poderia ser teorizada com mais precisão. A adequação do DGP ao <em>claim</em> é alta, pois os mecanismos são rastreados nos processos decisórios. As <em>scope conditions</em> (estado pós-desenvolvimentista, três níveis de governo) são declaradas, mas a condição de “ausência de ruptura revolucionária” para a formação de coalizões é implícita e deveria ser mais explícita.</td>
-<td style="text-align: left;">Sim. A autora demonstra o argumento de forma robusta. Os pontos fortes são o rastreamento detalhado dos mecanismos e a clara operacionalização do resultado. O ponto mais vulnerável é a explicação da transição de uma sequência auto-reforçadora para uma reativa no México: o gatilho exato da intersecção com a democratização e sua força causal relativa frente a outros fatores poderiam ser mais explorados. A generalizabilidade é limitada pelas <em>scope conditions</em> declaradas (contexto pós-desenvolvimentista), mas a lógica da teoria é transportável.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Limitações</td>
-<td style="text-align: left;"><strong>Reconhecidas pelos autores:</strong> A teoria tem um domínio limitado a países que realizaram ao menos dois tipos de reforma em momentos distintos e ao contexto do estado pós-desenvolvimentista. A autora também reconhece que não analisa a variação horizontal entre tipos de unidades subnacionais (ex.: estados ricos vs.&nbsp;pobres). <strong>Não reconhecidas ou subestimadas:</strong> A análise foca no primeiro ciclo de reformas, mas o que define o “fim” do primeiro ciclo (quando A, F e P ocorreram) pode ser arbitrário se novas reformas do mesmo tipo ocorrerem depois. A possibilidade de que a descentralização administrativa financiada (México) funcione de forma diferente da não financiada (Argentina) na geração de efeitos de poder é notada, mas poderia ser mais teorizada. Além disso, a variação no poder <em>de facto</em> de governadores em regimes autoritários (ex.: Argentina vs.&nbsp;Brasil) é tratada como contexto, mas pode ser um fator causal relevante não completamente endogeneizado.</td>
-<td style="text-align: left;"><strong>Reconhecidas pelos autores:</strong> A teoria é <em>middle-range</em>, aplicável ao contexto de estados pós-desenvolvimentistas. Não aborda a distinção horizontal entre interesses de unidades subnacionais (ex.: estados ricos vs.&nbsp;pobres). <br> <strong>Não reconhecidas ou subestimadas:</strong> A definição do “primeiro ciclo” de reformas é funcional, mas carrega o risco de demarcação arbitrária (quando um ciclo realmente termina?). A interação entre a força <em>de facto</em> dos governadores e o tipo de regime autoritário na primeira reforma (ex.: Brasil com legislativo funcionando vs.&nbsp;Argentina com repressão total) é uma condição inicial importante cujo peso causal frente ao sequenciamento não é totalmente isolado.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Perspectiva Teórica</td>
-<td style="text-align: left;">A filiação ao institucionalismo histórico é clara e frutífera. A metáfora das “camadas” de Skowronek e o foco em policy feedbacks (Pierson) são bem aplicados. A ontologia implícita é de que atores têm preferências estáveis (Tabela 2.3), mas que o contexto e os efeitos das reformas alteram as <em>oportunidades e constrangimentos</em>, uma visão compatível com o realismo crítico. A coerência entre ontologia e método (process-tracing) é alta.</td>
-<td style="text-align: left;"><strong>Institucionalismo histórico</strong> e <strong>path dependence</strong> (Mahoney, Pierson, Thelen), com contribuições da teoria do federalismo fiscal (Oates, Tiebout) e análise de políticas públicas. A moldura teórica é perfeitamente adequada para uma pergunta sobre processos e sequenciamento temporal. A suposição de preferências estáveis dos atores (nacionais vs.&nbsp;subnacionais) é uma simplificação útil, mas que pode obscurecer mudanças de preferência induzidas pelas próprias crises ou reformas.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Principais Referências</td>
-<td style="text-align: left;">O diálogo com a literatura é amplo e bem equilibrado. A autora engaja criticamente O’Neill, Eaton, Garman et al.&nbsp;e a literatura de path dependence, posicionando sua contribuição com precisão. Não há desequilíbrios significativos. A inclusão de autores latino-americanos e fontes em espanhol e português confere profundidade empírica.</td>
-<td style="text-align: left;">Pierson, Thelen, Mahoney (institucionalismo histórico); O’Neill, Eaton, Garman, Haggard, Willis (descentralização); Riker, Stepan (federalismo); Tarrow (política territorial). A autora dialoga criticamente com todas essas vertentes, apontando suas lacunas para construir seu argumento.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Observações</td>
-<td style="text-align: left;">A obra é uma contribuição central para o campo. A maior força é a clareza do argumento e a demonstração empírica de que a política territorial importa e de que reformas similares podem ter efeitos opostos dependendo do sequenciamento. Uma lacuna potencial para pesquisa futura, levantada pela própria autora, é a análise do “segundo ciclo” de reformas e a possibilidade de reversões ou consolidações. Para a minha pesquisa, a taxonomia e o foco no sequenciamento fornecem uma estrutura analítica poderosa para estudar outras reformas institucionais multissetoriais. A ausência de uma discussão mais profunda sobre o papel de atores internacionais (ex.: Banco Mundial, FMI) como parte das coalizões, especialmente no México e na Argentina dos anos 1990, é uma omissão notável que poderia complexificar a análise dos interesses “nacionais”.</td>
-<td style="text-align: left;">A combinação de teoria clara e rica evidência empírica torna o livro uma referência obrigatória. A distinção entre caminhos auto-reforçadores e reativos é uma contribuição importante para a teoria de path dependence, escapando do determinismo. Uma omissão significativa para o argumento sobre interesses territoriais é a falta de discussão sobre o papel das instituições financeiras internacionais (FMI, Banco Mundial) como atores com interesses “nacionais” transnacionais que podem ter influenciado o timing e o conteúdo das reformas, especialmente nos capítulos sobre Argentina e México.</td>
-</tr>
-</tbody>
-</table>
-<p>::: ```</p>
-
-
-</section>
-
- ]]></description>
-  <category>Annotated Bibliography</category>
-  <category>Comparative Politics</category>
-  <category>Decentralization</category>
-  <category>Latin American Politics</category>
-  <category>Federalism</category>
-  <category>Institutional Change</category>
-  <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Falleti2010.html</guid>
   <pubDate>Fri, 08 May 2026 03:00:00 GMT</pubDate>
 </item>
 </channel>
