@@ -10,7 +10,437 @@
 <atom:link href="https://mancano-tales.github.io/Annotated-Bibliography/index.xml" rel="self" type="application/rss+xml"/>
 <description>Fichamentos acadêmicos de Tales Mançano</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Thu, 14 May 2026 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 21 May 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Fichamento: Politics in Time: History, Institutions, and Social Analysis</title>
+  <dc:creator>Tales Mançano</dc:creator>
+  <link>https://mancano-tales.github.io/Annotated-Bibliography/posts/Pierson2004.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Informações Técnicas e BibTeX
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<pre><code>Última atualização: 2026-05-21
+Modelo: Perplexity
+Prompt Version: v17.4 · 2026-05-13
+Gerado em: 2026-05-21T21:12:00-03:00
+Ocasião da Leitura: [Para preenchimento manual do usuário]</code></pre>
+<p><strong>Entrada BibTeX → Pierson2004</strong></p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@book</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">Pierson2004</span>,</span>
+<span id="cb2-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span>    = {Pierson, Paul},</span>
+<span id="cb2-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span>     = {Politics in Time: History, Institutions, and Social Analysis},</span>
+<span id="cb2-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span>      = {2004},</span>
+<span id="cb2-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">publisher</span> = {Princeton University Press},</span>
+<span id="cb2-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">address</span>   = {Princeton and Oxford},</span>
+<span id="cb2-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">edition</span>   = {1},</span>
+<span id="cb2-8">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">isbn</span>      = {0-691-11714-4 and 0-691-11715-2}</span>
+<span id="cb2-9">}</span></code></pre></div></div>
+</div>
+</div>
+</div>
+<section id="ficha-analítica-crítica" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="ficha-analítica-crítica">Ficha Analítica Crítica</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Esta seção segue o formato <em>IA Planilhando Textos v17.4</em>.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Ficha Analítica — Tabela Markdown
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 23%">
+<col style="width: 52%">
+<col style="width: 23%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Dimensão</th>
+<th style="text-align: left;">Raciocínio analítico</th>
+<th style="text-align: left;">Conteúdo</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Questão de Pesquisa</td>
+<td style="text-align: left;">A premissa central é que grande parte da ciência política trata o tempo como ruído contextual, o que distorce explicações sobre processos políticos. A interpretação alternativa seria ler o livro como mera defesa de “história importa”, mas o texto é mais específico: quer reconstruir por que e como a temporalidade altera mecanismos causais.</td>
+<td style="text-align: left;">Pergunta reconstruída: como processos políticos diferem quando examinados em termos de duração, sequência, feedback e contexto temporal, e o que a ciência política perde ao tratá-los como snapshots?</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Questões Secundárias</td>
+<td style="text-align: left;">A obra desdobra a pergunta principal em subquestões sobre tipos de processos temporais, condições sob as quais eles surgem e implicações para pesquisa. O ponto vulnerável é que algumas subquestões são mais programáticas do que demonstradas empiricamente.</td>
+<td style="text-align: left;">Quais são os principais tipos de temporalidade causal? Quando há path dependence, sequencing, long-term processes e institutional development? Como isso muda teoria, desenho de pesquisa e inferência?</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Puzzle-Type</td>
+<td style="text-align: left;">O puzzle é explicativo e disciplinar: por que uma área empiricamente rica ainda opera com horizonte temporal estreito. A generalização é forte, mas plausível, porque o autor ancora o argumento em debates amplos da disciplina.</td>
+<td style="text-align: left;">Puzzle explicativo e meta-teórico sobre o descompasso entre processos políticos reais e os instrumentos analíticos dominantes.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Conclusão / Argumento Central</td>
+<td style="text-align: left;">O argumento central é que muitos processos políticos só se tornam inteligíveis quando analisados como sequências temporais com feedback, lags e contextos de desenvolvimento; ignorar isso produz erro substantivo, não apenas perda de nuance. A tese é sustentada por uma tipologia robusta, exemplos comparados e diálogo com literatura clássica.</td>
+<td style="text-align: left;">A ciência política deve substituir a lógica do snapshot por uma análise de processos temporalmente situados; história não é apenas evidência, mas estrutura do próprio mecanismo explicativo.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Métodos</td>
+<td style="text-align: left;">O livro é um ensaio teórico-analítico com exemplos ilustrativos e revisão seletiva da literatura, não um estudo empírico original único. A inferência é construída por tipologia, comparação entre casos e leitura crítica de pesquisas existentes; isso dá força conceitual, mas limita testes diretos.</td>
+<td style="text-align: left;">Obra completa; estratégia argumentativa teórico-comparativa, com ilustrações de casos e revisão de literatura em ciência política, sociologia histórica e economia política.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Data Generation Process (DGP)</td>
+<td style="text-align: left;">O DGP não é um levantamento de dados primários, mas um processo de abstração teórica: fenômeno social real → observação histórica comparada → seleção de casos/literatura → classificação temporal → inferência sobre mecanismos. Isso introduz vieses de seleção de exemplos canônicos e risco de superenfatizar casos que confirmam a tipologia.</td>
+<td style="text-align: left;">Fenômenos políticos e institucionais são observados historicamente e lidos por meio de categorias temporais; a unidade analítica varia entre processos, instituições e trajetórias nacionais.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Achados e Contribuições</td>
+<td style="text-align: left;">A principal contribuição é conceitual: distinguir cumulatividade, threshold effects, causal chains, structural effects e path dependence como formas distintas de temporalidade causal. O autor também mostra que o foco no curto prazo pode esconder mecanismos centrais de mudança institucional e política.</td>
+<td style="text-align: left;">Cria uma linguagem analítica para temporalidade em política, amplia o repertório de mecanismos causais e recoloca institucionalização e mudança em um mesmo quadro explicativo.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Análise Crítica dos Achados</td>
+<td style="text-align: left;">O texto responde bem ao puzzle disciplinar, mas sua sustentação empírica é desigual: os exemplos são convincentes, embora muitas vezes ilustrem mais do que testem. A vulnerabilidade maior está na generalização forte a partir de literatura seletiva e na dificuldade de delimitar quando exatamente uma temporalidade deve ser preferida a outra.</td>
+<td style="text-align: left;">O argumento é forte como programa de pesquisa e tipologia, menos forte como demonstração causal abrangente; a validade externa depende de como os mecanismos são operacionalizados em estudos subsequentes.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Limitações</td>
+<td style="text-align: left;"><strong>Reconhecidas:</strong> o autor admite que suas categorizações são sugestivas, que os quadros temporais não esgotam a complexidade dos processos e que muitos exemplos são apenas ilustrações. <br> <strong>Não reconhecidas:</strong> há seleção canônica de literatura, pouca demonstração sistemática comparativa e um risco de converter “contexto temporal” em explicação residual.</td>
+<td style="text-align: left;">A obra reconhece parcialidade programática, mas subestima a dificuldade de operacionalizar e testar de modo comparativo as categorias propostas.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Perspectiva Teórica</td>
+<td style="text-align: left;">A moldura combina institucionalismo histórico, sociologia histórica, teoria de mecanismos e uma crítica à escolha racional descontextualizada. A ontologia implícita é processual: instituições e preferências evoluem no tempo e não podem ser tratadas como constantes estáticas.</td>
+<td style="text-align: left;">Historical Institutionalism e Comparative Historical Analysis, com diálogo com sociologia histórica, teoria dos mecanismos e literatura sobre path dependence.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Principais Referências</td>
+<td style="text-align: left;">O texto dialoga intensamente com Douglass North, Kathleen Thelen, James Mahoney, Paul Collier, Theda Skocpol, Charles Tilly, Barrington Moore, Daniel Carpenter, Thomas Ertman, Doug McAdam, Peter Hall e outros. O diálogo é rico e bem escolhido, embora mais forte em ciência política e sociologia histórica do que em tradições alternativas.</td>
+<td style="text-align: left;">Referências centrais: North, Thelen, Mahoney, Collier &amp; Collier, Skocpol, Tilly, Ertman, Carpenter, McAdam, Hall, Elster, Abbott.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Observações</td>
+<td style="text-align: left;">A obra é especialmente útil para quem trabalha com instituições, causalidade histórica, reforma do Estado, welfare state e análise comparada. Como fichamento da obra completa, a leitura destaca um esforço coerente de fundar uma agenda de pesquisa; parte do poder do livro vem de sua ambição programática mais do que de evidência original.</td>
+<td style="text-align: left;">O livro é mais convincente como cartografia conceitual do tempo na política do que como prova definitiva de cada mecanismo isolado.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</section>
+<section id="mapa-argumentativo" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="mapa-argumentativo">Mapa Argumentativo</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 8%">
+<col style="width: 19%">
+<col style="width: 28%">
+<col style="width: 43%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Seção</th>
+<th style="text-align: left;">Título / Tema</th>
+<th style="text-align: left;">Função argumentativa</th>
+<th style="text-align: left;">Contribuição para a tese central</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Introdução</td>
+<td style="text-align: left;">Placing Politics in Time</td>
+<td style="text-align: left;">Apresentação do puzzle</td>
+<td style="text-align: left;">Define a crítica ao “snapshot view” e sustenta que a temporalidade é constitutiva da explicação política.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Capítulo 1</td>
+<td style="text-align: left;">Positive Feedback and Path Dependence</td>
+<td style="text-align: left;">Fundamento teórico</td>
+<td style="text-align: left;">Estabelece o conceito de path dependence e mostra como trajetórias iniciais geram auto-reforço e lock-in.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Capítulo 2</td>
+<td style="text-align: left;">Timing and Sequence</td>
+<td style="text-align: left;">Fundamento teórico</td>
+<td style="text-align: left;">Mostra que ordem, sequência e timing alteram resultados, mesmo com os mesmos elementos causais.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Capítulo 3</td>
+<td style="text-align: left;">Long-Term Processes</td>
+<td style="text-align: left;">Análise tipológica</td>
+<td style="text-align: left;">Distingue processos cumulativos, threshold effects e causal chains, ampliando o repertório analítico do tempo.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Capítulo 4</td>
+<td style="text-align: left;">The Limits of Institutional Design</td>
+<td style="text-align: left;">Análise empírica e teórica</td>
+<td style="text-align: left;">Argumenta que reformas institucionais são constrangidas por trajetórias anteriores e por efeitos indiretos de arranjos existentes.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Capítulo 5</td>
+<td style="text-align: left;">Institutional Development</td>
+<td style="text-align: left;">Extensão do argumento</td>
+<td style="text-align: left;">Articula desenvolvimento institucional, menus limitados de reforma e importância dos efeitos de longo prazo.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Conclusão</td>
+<td style="text-align: left;">Temporal Context in Social Science Inquiry</td>
+<td style="text-align: left;">Síntese e agenda</td>
+<td style="text-align: left;">Consolida a crítica ao curto prazo e propõe uma agenda de pesquisa baseada em processos temporais e contextos históricos.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="introdução-pp.-116" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="introdução-pp.-116"><span class="header-section-number">1</span> Introdução (pp.&nbsp;1–16)</h2>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Placing Politics in Time [§1–§?]
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Pierson abre a obra com a crítica ao hábito da ciência social de tratar variáveis como se fossem independentes de seu contexto temporal. A analogia do restaurante sintetiza a objeção central: não basta ter “bons ingredientes” e medi-los corretamente; o modo como os elementos são combinados ao longo do tempo altera o resultado. O autor argumenta que a prática dominante da ciência política trabalha com instantâneos, quando deveria investigar processos estendidos e sequenciais.</p>
+<p>A introdução apresenta dois exemplos ilustrativos — Daniel Carpenter e Thomas Ertman — para mostrar que a temporalidade pode reverter interpretações consolidadas. No primeiro caso, o que parece domínio congressual revela autonomia burocrática quando se observa uma cadeia causal de longo prazo; no segundo, a diferença de timing na construção estatal ajuda a explicar trajetórias divergentes de burocratização e institucionalização. Em ambos, o ponto é que a explicação não está apenas nos fatores, mas no modo como eles se desdobram no tempo.<br>
+&gt; <strong>Nota:</strong> O autor também antecipa que o livro não é um tratado de método, embora tenha fortes implicações metodológicas; essa qualificação é importante porque evita ler a obra como manual de desenho de pesquisa.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Historic turn and theoretical gap [§?]
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Pierson distingue três “historic turns” na ciência social: história como estudo do passado, como busca de ilustrações e como fonte de novos casos. Ele reconhece o valor dessas orientações, mas sustenta que nenhuma delas resolve o problema decisivo: explicar por que a temporalidade importa causalmente. Assim, a obra desloca o foco da evidência histórica para a teoria da temporalidade.</p>
+<p>O argumento avança ao propor que mecanismos com forte dimensão temporal — como path dependence, critical junctures, sequencing, duration e unintended consequences — precisam ser conceitualmente formalizados. O autor conecta essa agenda à noção elsteriana de mecanismos, defendendo que análises mais robustas devem identificar “pequenos e médios mecanismos” capazes de viajar parcialmente entre contextos, sem pretender leis gerais universalistas.<br>
+&gt; <strong>Nota :</strong> A introdução já indica a tensão entre generalização e contextualização: Pierson não abandona a aspiração a enunciados transferíveis, mas recusa reduzi-los a regularidades ahistóricas.</p>
+</div>
+</div>
+</section>
+<section id="capítulo-1-positive-feedback-and-path-dependence-pp.-1753" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="capítulo-1-positive-feedback-and-path-dependence-pp.-1753"><span class="header-section-number">2</span> Capítulo 1: Positive Feedback and Path Dependence (pp.&nbsp;17–53)</h2>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Positive feedback and increasing returns [§1–§?]
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>O capítulo desenvolve a ideia de que, em muitos processos sociais, escolhas iniciais geram efeitos auto-reforçadores. Uma vez que um caminho é adotado, custos de mudança, coordenação, aprendizado e adaptação tornam trajetórias alternativas cada vez menos plausíveis. O argumento depende da noção de retornos crescentes, que transforma pequenas vantagens iniciais em assimetrias duráveis.</p>
+<p>Pierson explora como esse tipo de dinâmica altera a interpretação da política institucional. Não se trata apenas de dizer que “a história importa”, mas de mostrar que eventos passados alteram o campo de possibilidades no presente. O ponto analítico é que a estabilidade institucional não é ausência de mudança; é frequentemente o produto de mecanismos que tornam a mudança mais cara e menos provável.</p>
+<section id="critical-junctures-and-lock-in" class="level3" data-number="2.1">
+<h3 data-number="2.1" class="anchored" data-anchor-id="critical-junctures-and-lock-in"><span class="header-section-number">2.1</span> Critical junctures and lock-in [§?]</h3>
+<p>O capítulo também esclarece por que certos momentos iniciais têm peso desproporcional. Janelas de decisão ou junctures críticas criam trajetórias cuja reversão se torna progressivamente difícil. A consequência é um tipo de dependência do caminho em que os resultados posteriores são parcialmente moldados por contingências passadas, mas não de forma aleatória: a contingência inicial se cristaliza em estrutura.</p>
+<p>Pierson enfatiza que a noção de lock-in não significa determinismo absoluto. Há espaço para mudança, mas ela exige custos, coalizões ou choques muito maiores do que aqueles que originaram o caminho. O capítulo, portanto, fornece o alicerce conceitual para a obra inteira ao mostrar como processos históricos geram desigualdade de oportunidades institucionais ao longo do tempo.<br>
+&gt; <strong>Nota :</strong> A força do capítulo está em tornar plausível o auto-reforço sem convertê-lo em inevitabilidade mecânica.</p>
+</section>
+</div>
+</div>
+</section>
+<section id="capítulo-2-timing-and-sequence-pp.-5478" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="capítulo-2-timing-and-sequence-pp.-5478"><span class="header-section-number">3</span> Capítulo 2: Timing and Sequence (pp.&nbsp;54–78)</h2>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Order effects and temporal sequence [§1–§?]
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Aqui Pierson sustenta que a ordem em que os fatores aparecem pode ser causalmente decisiva. A mesma combinação de elementos pode produzir resultados distintos quando a sequência é alterada, porque os primeiros eventos reconfiguram os recursos, expectativas e opções dos atores subsequentes. O capítulo, portanto, desloca a atenção da lista de variáveis para a gramática temporal da explicação.</p>
+<p>O autor argumenta que estudos descontextualizados frequentemente assumem equivalência entre situações que, na verdade, não são comparáveis porque ocorrem em pontos diferentes de uma trajetória. A sequência não é um detalhe narrativo, mas um componente do mecanismo causal. Isso é particularmente importante em processos institucionais, em que a própria capacidade de escolher muda conforme o passado acumulado.</p>
+<section id="temporal-ordering-and-explanation" class="level3" data-number="3.1">
+<h3 data-number="3.1" class="anchored" data-anchor-id="temporal-ordering-and-explanation"><span class="header-section-number">3.1</span> Temporal ordering and explanation [§?]</h3>
+<p>Pierson mostra que a temporalidade também afeta o tipo de inferência possível. Em muitos casos, a relação causal não se entende por um impacto isolado, mas por uma cadeia em que cada passo altera as condições do seguinte. O capítulo reforça, assim, que mecanismos políticos devem ser analisados como trajetórias ordenadas, não como efeitos instantâneos de variáveis independentes.</p>
+<p>Essa seção prepara o terreno para a tipologia mais sistemática do capítulo seguinte, ao demonstrar que o tempo não é apenas duração, mas também ordem e posição relativa dos eventos. A consequência é uma crítica direta a explicações que ignoram o sequencing e tratam o presente como se fosse independente da história que o produziu.<br>
+&gt; <strong>Nota :</strong> O capítulo é central para quem trabalha com reformas graduais, porque o timing de introdução de políticas ou instituições pode ser tão importante quanto seu conteúdo formal.</p>
+</section>
+</div>
+</div>
+</section>
+<section id="capítulo-3-long-term-processes-pp.-79102" class="level2" data-number="4">
+<h2 data-number="4" class="anchored" data-anchor-id="capítulo-3-long-term-processes-pp.-79102"><span class="header-section-number">4</span> Capítulo 3: Long-Term Processes (pp.&nbsp;79–102)</h2>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Temporal horizons and causal types [§1–§?]
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>O capítulo começa com a distinção entre diferentes horizontes temporais de causas e efeitos, ilustrada por exemplos da ciência natural e depois transposta para a análise social. Pierson mostra que causas podem ser rápidas ou lentas, assim como os desfechos, e que a combinação dessas dimensões produz quatro quadrantes analíticos. O diagnóstico é que a ciência política tende excessivamente ao quadrante de curto prazo, perdendo processos estruturais e cumulativos.</p>
+<p>A tipologia permite identificar três grandes tipos de processos lentos: causas cumulativas, efeitos de threshold e cadeias causais longas. O objetivo não é apenas classificar, mas mostrar que cada tipo levanta problemas inferenciais distintos. Em vez de tratar o tempo como pano de fundo, o capítulo o transforma em parte da arquitetura causal da explicação.</p>
+<section id="cumulative-causes-and-threshold-effects" class="level3" data-number="4.1">
+<h3 data-number="4.1" class="anchored" data-anchor-id="cumulative-causes-and-threshold-effects"><span class="header-section-number">4.1</span> Cumulative causes and threshold effects [§?]</h3>
+<p>Nas causas cumulativas, pequenas mudanças acumuladas produzem efeitos relevantes apenas no longo prazo, como ocorre com demografia, difusão tecnológica ou transformações culturais. Em seguida, Pierson explica os threshold effects: forças lentas podem permanecer latentes até cruzar um ponto crítico, quando então desencadeiam mudanças rápidas e não lineares. O autor utiliza casos como revoluções, movimentos sociais e realinhamentos partidários para mostrar que rapidez do desfecho não implica causalidade de curto prazo.</p>
+<p>O ponto analítico importante é que, nesses modelos, o tempo longo não é um adereço, mas condição de inteligibilidade. A explicação depende de perceber como pressões se acumulam, como limiares são alcançados e como pequenos gatilhos tornam-se decisivos apenas em contextos já preparados. O capítulo conclui que essas formas de temporalidade têm grande relevância para entender institucionalização, mobilização e mudança política.</p>
+</section>
+<section id="causal-chains-and-structural-effects" class="level3" data-number="4.2">
+<h3 data-number="4.2" class="anchored" data-anchor-id="causal-chains-and-structural-effects"><span class="header-section-number">4.2</span> Causal chains and structural effects [§?]</h3>
+<p>Pierson examina ainda as causal chains, nas quais um evento inicia uma sequência longa de desenvolvimentos intermediários, e os structural effects, nos quais há grande separação temporal entre causa e resultado. O interesse principal está em mostrar que processos sociais podem ser longos não apenas porque demoram a mudar, mas porque a causa relevante opera à distância. Isso é crucial para entender fenômenos como state-building, welfare retrenchment e democratization.</p>
+<p>A contribuição final do capítulo é articular essas categorias em uma tipologia mais ampla de long-term processes e demonstrar que muitas análises empíricas importantes já dependem, implicitamente, desse tipo de raciocínio. O texto também oferece uma crítica à hegemonia de estudos focados em observações sincrônicas e reforça a necessidade de desenhar pesquisas capazes de capturar trajetórias e lags.<br>
+&gt; <strong>Nota :</strong> O capítulo inclui também a discussão sobre a predominância de pesquisas em Quadrant I nos periódicos centrais, usada como evidência sugestiva e não como prova definitiva.</p>
+</section>
+</div>
+</div>
+</section>
+<section id="capítulo-4-the-limits-of-institutional-design-pp.-103132" class="level2" data-number="5">
+<h2 data-number="5" class="anchored" data-anchor-id="capítulo-4-the-limits-of-institutional-design-pp.-103132"><span class="header-section-number">5</span> Capítulo 4: The Limits of Institutional Design (pp.&nbsp;103–132)</h2>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Institutional design under temporal constraints [§1–§?]
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Este capítulo argumenta que a literatura sobre desenho institucional tende a superestimar a liberdade dos reformadores e subestimar os legados temporais herdados. Pierson mostra que instituições geram efeitos indiretos e retardados, de modo que o resultado de uma reforma não pode ser avaliado apenas por seus impactos imediatos. A lógica da análise desloca-se, então, da intenção do reformador para a trajetória subsequente da instituição.</p>
+<p>O ponto central é que muitos desenhos institucionais são avaliados como se seus efeitos fossem diretos e curtos, quando na verdade operam por meio de cadeias de consequências, reforços e bloqueios. O capítulo amplia, assim, a crítica ao presentismo: a estrutura institucional deve ser lida como processo histórico, não como arquitetura estática.</p>
+<section id="retrenchement-feedback-and-unintended-consequences" class="level3" data-number="5.1">
+<h3 data-number="5.1" class="anchored" data-anchor-id="retrenchement-feedback-and-unintended-consequences"><span class="header-section-number">5.1</span> Retrenchement, feedback and unintended consequences [§?]</h3>
+<p>Pierson usa casos de welfare retrenchment e mudanças institucionais para mostrar que reformas muitas vezes produzem efeitos indiretos maiores do que os efeitos pretendidos. Em vez de perguntar apenas se a reforma foi aprovada, é preciso investigar como ela reordena incentivos, mobilização e recursos ao longo do tempo. Essa lógica mostra que os efeitos mais importantes podem aparecer anos depois, quando a reforma já saiu da agenda política.</p>
+<p>O capítulo é especialmente forte ao mostrar que o fracasso aparente de uma reforma no curto prazo não implica ausência de consequências. Ao contrário, o próprio desenho pode facilitar mudanças ulteriores, fragilizar coalizões e alterar expectativas. Pierson também insiste que a avaliação institucional precisa considerar mecanismos de <em>positive feedback</em> e a diferença entre transformação programática e mudança sistêmica.<br>
+&gt; <strong>Nota :</strong> A discussão é particularmente importante para políticas sociais, porque seus efeitos costumam ser cumulativos e assimétricos no tempo.</p>
+</section>
+</div>
+</div>
+</section>
+<section id="capítulo-5-institutional-development-pp.-133166" class="level2" data-number="6">
+<h2 data-number="6" class="anchored" data-anchor-id="capítulo-5-institutional-development-pp.-133166"><span class="header-section-number">6</span> Capítulo 5: Institutional Development (pp.&nbsp;133–166)</h2>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Development as a historical process [§1–§?]
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>O quinto capítulo aprofunda a ideia de que desenvolvimento institucional é processo temporal e não simples evento de escolha. Pierson argumenta que reformas devem ser analisadas à luz do ponto em que o sistema se encontra em sua trajetória, pois arranjos anteriores delimitam o cardápio de opções disponíveis. Assim, a pergunta deixa de ser apenas “qual reforma foi escolhida?” e passa a ser “quais caminhos eram plausíveis naquele momento?”.</p>
+<p>O autor mostra que, em certos casos, países ou instituições chegam a um estágio em que mudanças radicais se tornam muito improváveis, ainda que pressões por reforma existam. A noção de menus limitados é central aqui: diferentes trajetórias históricas fazem com que certas soluções estejam virtualmente fora do alcance, enquanto outras se tornam politicamente mais viáveis. Isso é importante tanto para o estudo do welfare state quanto para o exame de regimes políticos.</p>
+<section id="institutional-menus-and-policy-development" class="level3" data-number="6.1">
+<h3 data-number="6.1" class="anchored" data-anchor-id="institutional-menus-and-policy-development"><span class="header-section-number">6.1</span> Institutional menus and policy development [§?]</h3>
+<p>Pierson amplia o argumento para sugerir que desenvolvimento institucional e desenvolvimento de políticas devem ser vistos em paralelo. A trajetória histórica pode tanto gerar resiliência quanto tornar gradualmente possíveis novos tipos de reforma, sobretudo quando custos de manutenção e coordenação mudam. O capítulo mostra, assim, que a temporalidade também redefine o espaço do possível.</p>
+<p>A contribuição final é colocar em relação estabilidade e mudança sem tratá-las como opostos excludentes. Instituições persistem porque se desenvolvem, e se desenvolvem porque acumulam efeitos, rotinas e dependências que alteram o horizonte de ação. Nesse sentido, o capítulo fecha o arco da obra ao ligar path dependence, institutional design e reform capacity em uma mesma teoria processual.<br>
+&gt; <strong>Nota :</strong> A seção sugere que políticas públicas podem ser tratadas como instituições, o que amplia o alcance do argumento para além de arranjos formais de governo.</p>
+</section>
+</div>
+</div>
+</section>
+<section id="conclusão-pp.-167178" class="level2" data-number="7">
+<h2 data-number="7" class="anchored" data-anchor-id="conclusão-pp.-167178"><span class="header-section-number">7</span> Conclusão (pp.&nbsp;167–178)</h2>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Temporal context and social inquiry [§1–§?]
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Na conclusão, Pierson retoma a crítica ao foco em momentos de escolha e mostra que esse viés leva a subestimar processos de institucionalização, feedback e desenvolvimento de longo prazo. O autor defende que a análise contextualizada não é um luxo interpretativo, mas uma exigência para entender como políticas e instituições efetivamente mudam. Em vez de snapshots, o pesquisador deve trabalhar com trajetórias e menus historicamente situados.</p>
+<p>A conclusão também reafirma que o objetivo não é abandonar generalização, mas reformulá-la em termos mais modestos e mais sólidos. O melhor ganho analítico, para Pierson, está em identificar condições, sequências e mecanismos que tornem os argumentos transferíveis sem apagar o contexto. A obra termina, portanto, como manifesto por uma ciência política histórica, processual e teoricamente disciplinada.<br>
+&gt; <strong>Nota :</strong> A conclusão fecha a agenda de pesquisa ao conectar instituições, políticas e contexto temporal sob uma mesma lógica explicativa.</p>
+</div>
+</div>
+</section>
+<section id="argumento-sintético" class="level2" data-number="8">
+<h2 data-number="8" class="anchored" data-anchor-id="argumento-sintético"><span class="header-section-number">8</span> Argumento Sintético</h2>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Pierson sustenta que a política só é inteligível quando tratada como processo temporalmente estruturado: sequência, duração, feedback e contexto histórico moldam causalidade, estabilidade e mudança institucional. O argumento é sobretudo <strong>teórico e metodológico</strong>, mas com fortes implicações substantivas para a análise de instituições, welfare state, state-building e mudança política. O livro demonstra com bastante força que explicações sincrônicas tendem a perder mecanismos centrais, embora deixe em aberto a tarefa de testar sistematicamente cada tipologia em estudos empíricos comparativos. Sua contribuição maior é oferecer uma gramática analítica para pensar como a história entra na explicação social sem reduzir-se nem a narrativa nem a mera coleção de exemplos.</p>
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>Annotated Bibliography</category>
+  <category>Historical Institutionalism</category>
+  <category>Institutional Change</category>
+  <category>Path Dependence</category>
+  <category>Temporal Analysis</category>
+  <category>Political Science</category>
+  <category>Comparative</category>
+  <category>2004</category>
+  <category>2000s</category>
+  <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Pierson2004.html</guid>
+  <pubDate>Thu, 21 May 2026 03:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Fichamento: Lei de Cotas: mudança estrutural em política pública e vitória suprapartidária da coalizão dos pés descalços no parlamento do Brasil</title>
   <dc:creator>Tales Mançano</dc:creator>
@@ -9241,533 +9671,6 @@ Note
   <category>Latin America</category>
   <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Veronese2024.html</guid>
   <pubDate>Sat, 09 May 2026 03:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Fichamento: Education and Intergenerational Social Mobility in Europe and the United States</title>
-  <dc:creator>Tales Mançano</dc:creator>
-  <link>https://mancano-tales.github.io/Annotated-Bibliography/posts/Breen-Muller2020Incomplete.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Breen, R., &amp; Müller, W. (Eds.). (2020). <em>Education and intergenerational social mobility in Europe and the United States</em>. Stanford University Press.</p>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Entrada BibTeX → Breen-Muller2020
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
-background-color: null;
-font-style: inherit;">@book</span>{<span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">Breen</span>-<span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">Muller2020</span>,</span>
-<span id="cb1-2"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">editor</span>    = {Breen, Richard and Müller, Walter},</span>
-<span id="cb1-3"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">title</span>     = {Education and Intergenerational Social Mobility in Europe and the United States},</span>
-<span id="cb1-4"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">year</span>      = {2020},</span>
-<span id="cb1-5"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">publisher</span> = {Stanford University Press},</span>
-<span id="cb1-6"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">address</span>   = {Stanford, California},</span>
-<span id="cb1-7"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">series</span>    = {Studies in Social inequality},</span>
-<span id="cb1-8"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">isbn</span>      = {9781503610163},</span>
-<span id="cb1-9">}</span></code></pre></div></div>
-</div>
-</div>
-</div>
-<p>Última atualização: 2026-05-08 Modelo: Perplexity — Claude Sonnet 4.6 Prompt Version: v17.2 2026-05-08 | Ficha antes do fichamento Gerado em: 2026-05-08T16:10:00-03:00 Ocasião da Leitura: O Livro é conhecido desde revisão de literatura em 2024, fichamento foi feito agora para testar novo prompt.</p>
-<section id="ficha-analítica-crítica" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="ficha-analítica-crítica">Ficha Analítica Crítica</h2>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Esta seção segue o formato <em>IA Planilhando Textos v17.2</em>.</p>
-</div>
-</div>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Ficha Analítica — Tabela Markdown
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-3" class="callout-3-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<table class="caption-top table">
-<colgroup>
-<col style="width: 23%">
-<col style="width: 52%">
-<col style="width: 23%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Dimensão</th>
-<th style="text-align: left;">Raciocínio analítico</th>
-<th style="text-align: left;">Conteúdo</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Questão de Pesquisa</td>
-<td style="text-align: left;">A premissa central é a de que mudanças educacionais ao longo do século XX (expansão e equalização) devem ter afetado os padrões de mobilidade social. O ponto mais vulnerável é que a relação entre educação e mobilidade pode ser confundida por mudanças estruturais independentes (transformações da estrutura ocupacional). Uma interpretação alternativa: a mobilidade pode ter aumentado simplesmente pela expansão das classes de serviço, sem causalidade educacional.</td>
-<td style="text-align: left;">Em que medida as mudanças na educação — expansão e equalização — foram associadas a mudanças na mobilidade social e na fluidez social entre gerações ao longo do século XX em oito países? Pergunta de natureza descritiva-explicativa: descrever tendências e avaliar a relação entre mudança educacional e fluidez social.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Questões Secundárias</td>
-<td style="text-align: left;">A diversidade de casos nacionais levanta a questão de se o padrão é uniforme ou altamente contingente ao contexto institucional. A pergunta sobre gênero é frequentemente tratada como secundária, embora seja metodologicamente problemática pela seleção amostral diferencial entre países.</td>
-<td style="text-align: left;">(1) Como mudou a mobilidade absoluta e relativa entre coortes de nascimento? (2) A fluidez social aumentou, e quando? (3) O vínculo entre origens sociais e educação enfraqueceu? (4) Há maior fluidez entre pessoas com maior nível de educação? (5) Como expansão e equalização educacional se relacionam a mudanças na fluidez? Todas as questões secundárias subordinam-se ao puzzle central da relação educação–mobilidade.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Puzzle-Type</td>
-<td style="text-align: left;">Puzzle explicativo genuíno: o debate “modernização vs.&nbsp;flutuação sem tendência” na sociologia da mobilidade é real e tem implicações empíricas e normativas. A generalizabilidade é limitada aos países com alto desenvolvimento industrial do século XX. A escolha de perspectiva de coorte (em vez de período) é um diferencial metodológico central do volume.</td>
-<td style="text-align: left;">Puzzle explicativo: o debate entre a tese da modernização (fluidez social aumenta com o desenvolvimento) e a tese da “flutuação sem tendência” (Erikson e Goldthorpe) constitui o campo de disputa. O puzzle é genuíno e atravessa a literatura de estratificação social desde os anos 1990. Generalizável para países industrializados avançados do século XX, mas com baixa validade externa para economias em desenvolvimento.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Conclusão / Argumento Central</td>
-<td style="text-align: left;">O argumento central é de natureza descritivo-explicativa: associativa, não causal em sentido estrito (os editores reconhecem isso). O <em>claim of discovery</em> é sustentado por simulações contrafactuais que estimam qual seria a trajetória da fluidez na ausência de mudanças educacionais — uma estratégia metodologicamente criativa mas que não elimina confundidores estruturais.</td>
-<td style="text-align: left;">A fluidez social aumentou em todos os oito países estudados, principalmente entre as coortes nascidas no segundo quartil do século XX (aproximadamente 1925–1955), e as mudanças educacionais — tanto a expansão quanto a equalização da relação entre origem social e escolaridade — foram mecanismos importantes para essa mudança. O aumento da fluidez foi mais pronunciado entre mulheres. Em coortes posteriores (nascidas após os anos 1950), a fluidez estagnou.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Métodos</td>
-<td style="text-align: left;">O ponto mais vulnerável é a comparabilidade entre países: as classificações de classe e educação diferem, e as amostras de mulheres são afetadas por seleção diferencial ao longo do tempo e entre países. O fichamento cobre a obra inteira (11 capítulos substantivos + introdução + capítulo metodológico + conclusão).</td>
-<td style="text-align: left;">Coletânea comparativa de estudos de caso nacionais usando dados de surveys retrospectivos. Estratégia analítica unificada: tabelas de mobilidade coorte × origem × destino × educação; modelos log-lineares e log-multiplicativos (<em>unidiff</em>); análise de decomposição via simulações contrafactuais (método de Breen 2010). Classificação de classe: esquema Erikson-Goldthorpe. Classificação de educação: esquema CASMIN. Cobertura: obra completa. Limitações: ausência de dados de painel; dificuldade de separar efeitos de coorte, idade e período; amostras de mulheres com problemas de seleção sistemática diferencial.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Data Generation Process (DGP)</td>
-<td style="text-align: left;">O DGP introduz vieses importantes. Primeiro, viés de seleção amostral em mulheres: analisar apenas aquelas na força de trabalho gera amostras positivamente selecionadas em termos de educação e origem social, especialmente nas coortes antigas. Segundo, os dados de surveys cross-seccionais retroativos dependem de autorrelato da ocupação do pai aos 15 anos — potencialmente sujeito a erros sistemáticos nas coortes mais antigas. Terceiro, coortes antigas têm amostras menores, reduzindo precisão das estimativas.</td>
-<td style="text-align: left;">Fenômeno → ocupações de pais e filhos → autorrelatos em surveys populacionais → tabulações cruzadas origem × destino × educação × coorte → modelos log-lineares e log-multiplicativos → inferências sobre fluidez e sua relação com mudança educacional. Unidade de análise: indivíduo. Nível de agregação: coorte × país. O DGP não é experimental; a sequência temporal (educação precede em ~20 anos a mensuração da classe de destino) reduz — mas não elimina — preocupações com causalidade reversa. Os dados originais por país provêm de surveys distintos conduzidos entre os anos 1970 e 2000s.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Achados e Contribuições</td>
-<td style="text-align: left;">As simulações identificam com força a direção da mudança, mas não a magnitude exata, dado que confundidores estruturais (crescimento do setor de serviços, reformas do Estado de bem-estar, guerras) coincidem temporalmente com as mudanças educacionais. O achado sobre coortes pós-1950s é robusto descritivamente mas menos explicado mecanisticamente.</td>
-<td style="text-align: left;">(1) A fluidez social aumentou em todos os países para as coortes nascidas entre ~1925 e ~1955, mas estagnou nas coortes subsequentes. (2) Expansão e equalização educacional foram os principais mecanismos identificados — relevantes em Alemanha, Suécia, França e Itália. (3) O efeito OD residual (direto, não mediado por educação) foi particularmente importante nos EUA, Espanha e Países Baixos. (4) A análise de gênero revela que o aumento da fluidez foi mais pronunciado entre mulheres, parcialmente devido à sua maior expansão educacional relativa. (5) Contribuição metodológica: uso sistemático da perspectiva de coorte (em vez de período) em análise comparativa de mobilidade.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Análise Crítica dos Achados</td>
-<td style="text-align: left;">O argumento está mais vulnerável na distinção entre o efeito da mudança educacional e o efeito de transformações estruturais da economia. As simulações contrafactuais pressupõem que a relação entre educação e destino de classe permaneceria constante na ausência de expansão/equalização, o que é duvidoso: crescimento do setor de serviços e mudanças educacionais são co-determinados. O problema de seleção amostral das mulheres é reconhecido, mas suas implicações para as tendências estimadas são difíceis de avaliar. A falta de dados de painel impede verificar se as trajetórias individuais de mobilidade seguem o padrão sugerido pelas tabelas de coorte.</td>
-<td style="text-align: left;">Os autores respondem de forma razoável às perguntas descritivas, mas a afirmação de que mudança educacional <em>causou</em> (no sentido de <em>contribuiu para</em>) a mudança na fluidez é baseada em associações temporalmente ordenadas e simulações, não em variação exógena na educação. (a) Viés de seleção amostral em mulheres reconhecido, mas consequências não quantificadas. (b) DGP compatível com o <em>claim</em> descritivo, mas não com inferência causal forte. (c) Confundidor central: expansão do setor de serviços e expansão educacional são empiricamente co-lineares; as simulações não resolvem isso. (d) Mecanismos qualitativos (por que as origens de classe afetam destinos independentemente da educação) permanecem especulativos. (e) Generalizabilidade limitada a países com alta industrialização. (f) Países do Sul Global ausentes. (g) Ausência de análise do que acontece após as coortes dos anos 1970, que é onde o debate contemporâneo sobre desigualdade se localiza.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Limitações</td>
-<td style="text-align: left;"><strong>Reconhecidas pelos autores:</strong> Problemas de seleção amostral em mulheres (trabalhistas); impossibilidade de separar efeitos de coorte, período e idade sem dados de painel; heterogeneidade nas classificações de classe e educação entre países; incapacidade de observar coortes nascidas após ~1975; caráter descritivo (e não causal) dos resultados. <strong>Não reconhecidas ou subestimadas:</strong> Co-linearidade entre expansão educacional e crescimento do setor de serviços (confundidor estrutural não tratado nas simulações); o peso analítico dado à perspectiva de coorte pode obscurecer efeitos de período relevantes (ex.: recessões, reformas institucionais súbitas); ausência de discussão sobre mediadores omitidos (redes sociais, wealth/patrimônio, capital cultural não escolarizado); variação intra-país (ex.: clivagens regionais em Itália e Espanha) ignorada.</td>
-<td style="text-align: left;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Perspectiva Teórica</td>
-<td style="text-align: left;">A moldura teórica da ação racional (RAT, na linha de Goldthorpe e Breen) subjaz à interpretação dos mecanismos educacionais. A coerência entre ontologia (indivíduos que tomam decisões educacionais dadas restrições de recursos e incentivos) e método (modelos log-lineares de associação estrutural) é razoável, mas a RAT não é testada diretamente — ela funciona como pano de fundo interpretativo. A tensão entre visão estrutural (mudança da estrutura de classes → mobilidade absoluta) e relacional (associações relativas entre origens e destinos) é gerida, mas não resolvida teoricamente.</td>
-<td style="text-align: left;">Estratificação social comparada na tradição do esquema Erikson-Goldthorpe (1992). Tese da modernização (Treiman 1970; Ganzeboom et al.&nbsp;1989) versus tese da flutuação sem tendência (Erikson e Goldthorpe 1992). Mecanismos via triângulo OED (Blau e Duncan 1967). Mecanismo composicional da educação (Breen e Jonsson 2007). Adequação da moldura ao tipo de pergunta: boa para perguntas descritivas sobre associações estruturais; limitada para perguntas causais sobre mecanismos.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Principais Referências</td>
-<td style="text-align: left;">Erikson &amp; Goldthorpe (1992) é o andaime teórico e metodológico central. Breen et al.&nbsp;(2009, 2010) fornecem o background empírico sobre equalização educacional. Breen &amp; Jonsson (2007) introduzem o mecanismo composicional. Breen (2010) desenvolve o método de simulação. Shavit &amp; Blossfeld (1993) são o ponto de partida do debate sobre persistência da desigualdade educacional. O diálogo com a literatura de bem-estar social comparado (Esping-Andersen 1990; Hall e Soskice 2003) é evocado mas pouco desenvolvido analiticamente — a tipologia de regimes é explicitamente descartada como insuficiente para explicar as diferenças encontradas.</td>
-<td style="text-align: left;">Erikson &amp; Goldthorpe (1992); Breen et al.&nbsp;(2009, 2010); Breen &amp; Jonsson (2007); Shavit &amp; Blossfeld (1993); Hout (1988); Blau &amp; Duncan (1967); Esping-Andersen (1990, 1999); Hall &amp; Soskice (2003); Müller &amp; Pollak (2004); Goldthorpe (2000, 2007).</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Observações</td>
-<td style="text-align: left;">O livro representa o estado da arte em sociologia comparada da mobilidade para o século XX, mas preenche mal a lacuna sobre o que acontece depois dos anos 1970. A abordagem é essencialmente retrospectiva: as coortes mais jovens (nascidas nos anos 1960–1970) são observadas quando jovens adultos, com destinos de classe ainda instáveis. Para pesquisa sobre desigualdade educacional contemporânea e Brasil, o livro é relevante metodologicamente (uso de CASMIN, modelos log-multiplicativos, análise de coortes) mas tem baixa transferibilidade substantiva direta. A ausência de países da América Latina, Ásia e África limita a validade externa. O tipo de texto é <strong>livro completo (coletânea)</strong> — inferido pela presença de sumário com múltiplos capítulos de autores distintos, nota de copyright da Stanford University Press, e lista de contributors independentes.</td>
-<td style="text-align: left;"></td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-</div>
-<hr>
-</section>
-<section id="mapa-argumentativo" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="mapa-argumentativo">Mapa Argumentativo</h2>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 13%">
-<col style="width: 10%">
-<col style="width: 29%">
-<col style="width: 45%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Capítulo</th>
-<th style="text-align: left;">Título</th>
-<th style="text-align: left;">Função argumentativa</th>
-<th style="text-align: left;">Contribuição para a tese central</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Introdução (Cap. 1)</td>
-<td style="text-align: left;">“Social Mobility and Education in the Twentieth Century” (Breen &amp; Müller)</td>
-<td style="text-align: left;">Apresentação do puzzle e da tese</td>
-<td style="text-align: left;">Define o triângulo OED, justifica a perspectiva de coorte (em vez de período), apresenta os oito países, discute o debate modernização vs.&nbsp;flutuação sem tendência, e formula as cinco questões analíticas centrais que guiam todos os capítulos empíricos.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Cap. 2</td>
-<td style="text-align: left;">“Methodological Preliminaries” (Breen)</td>
-<td style="text-align: left;">Fundamento metodológico</td>
-<td style="text-align: left;">Apresenta as ferramentas compartilhadas por todos os capítulos: medidas de mobilidade absoluta e relativa, modelo <em>unidiff</em> (log-multiplicativo), testes de ajuste, e a técnica de simulação contrafactual de Breen (2010) que decompõe a mudança na fluidez em contribuições de expansão, equalização, retornos educacionais e efeito direto OD.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Cap. 3</td>
-<td style="text-align: left;">“The Land of Opportunity? Trends in Social Mobility and Education in the United States” (Hertel &amp; Pfeffer)</td>
-<td style="text-align: left;">Estudo de caso — análise empírica</td>
-<td style="text-align: left;">Os EUA mostram aumento da fluidez para homens (especialmente nas quatro primeiras coortes), mas não para mulheres. O efeito residual OD — não mediado pela educação — é particularmente forte, sugerindo que fatores além da educação mantêm a rigidez americana. Contraponto ao caso sueco.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Cap. 4</td>
-<td style="text-align: left;">“Sweden, the Middle Way?” (Breen &amp; Jonsson)</td>
-<td style="text-align: left;">Estudo de caso — análise empírica</td>
-<td style="text-align: left;">A Suécia, paradigma da fluidez social, mostra que expansão e equalização educacional explicam bem a tendência de aumento da fluidez observada por coorte, confirmando o mecanismo composicional. Funciona como caso de referência positivo para o argumento central.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Cap. 5</td>
-<td style="text-align: left;">“Intergenerational Mobility and Social Fluidity in France over Birth Cohorts and Age” (Vallet)</td>
-<td style="text-align: left;">Estudo de caso — análise empírica com extensão metodológica</td>
-<td style="text-align: left;">A França apresenta aumento da fluidez, com democratização educacional como fator dominante nas coortes intermediárias e expansão educacional nas coortes mais recentes. Vallet introduz adicionalmente efeitos de <em>idade</em> — avanço na carreira aumenta a fluidez observada — como refinamento metodológico relevante para toda a coletânea.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Cap. 6</td>
-<td style="text-align: left;">“Education as an Equalizing Force: Germany” (Pollak &amp; Müller)</td>
-<td style="text-align: left;">Estudo de caso — análise empírica</td>
-<td style="text-align: left;">A Alemanha demonstra o papel da equalização educacional de forma exemplar: declínio dos “efeitos de hierarquia” no modelo de fluidez de Erikson-Goldthorpe, diretamente ligado à menor desigualdade educacional. Expansão e equalização respondem por praticamente toda a mudança observada na fluidez, com papel mínimo do efeito OD residual.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Cap. 7</td>
-<td style="text-align: left;">“The Swiss El Dorado?” (Falcon)</td>
-<td style="text-align: left;">Estudo de caso — qualificação</td>
-<td style="text-align: left;">A Suíça não apresenta tendência clara de aumento da fluidez, nem expansão ou equalização educacional significativas até as coortes mais recentes — qualificando o argumento central e indicando que as condições para o mecanismo educacional operar não foram satisfeitas.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Cap. 8</td>
-<td style="text-align: left;">“The Role of Education in the Social Mobility of Dutch Cohorts, 1908–1974” (Breen, Luijkx &amp; Berkers)</td>
-<td style="text-align: left;">Estudo de caso — anomalia e extensão</td>
-<td style="text-align: left;">Os Países Baixos apresentam forte aumento da fluidez, mas o principal mecanismo é o declínio do efeito OD residual — não a expansão ou equalização educacional. Isso constitui um “Dutch exceptionalism” analítico: o crescimento extraordinário da classe de serviço abriu posições para pessoas sem diploma terciário oriundas de classes baixas.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Cap. 9</td>
-<td style="text-align: left;">“Education and Social Fluidity in Contemporary Italy” (Barone &amp; Guetto)</td>
-<td style="text-align: left;">Estudo de caso — análise empírica</td>
-<td style="text-align: left;">A Itália mostra inércia significativa na fluidez, com algum aumento durante o boom econômico dos anos 1950–60. Expansão educacional foi modesta e os retornos educacionais permaneceram estáveis, limitando o mecanismo composicional. Os efeitos diretos de origem (não mediados pela educação) são especialmente fortes, atribuídos à herança de negócios familiares, profissões liberais reguladas e redes informais de emprego.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Cap. 10</td>
-<td style="text-align: left;">“Intergenerational Social Mobility in Twentieth-Century Spain” (Gil-Hernández, Bernardi &amp; Luijkx)</td>
-<td style="text-align: left;">Estudo de caso — análise empírica com anomalia</td>
-<td style="text-align: left;">A Espanha exibe aumento da fluidez <em>sem</em> equalização educacional significativa — anomalia em relação ao argumento central. A expansão educacional (especialmente entre mulheres) e o declínio acentuado do efeito OD residual (ligado ao declínio do setor agrícola) são os principais mecanismos. Título ironicamente alude à ausência do esperado “El Dorado” da equalização.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Cap. 11</td>
-<td style="text-align: left;">“Social Mobility in the Twentieth Century in Europe and the United States” (Breen &amp; Müller)</td>
-<td style="text-align: left;">Síntese e agenda</td>
-<td style="text-align: left;">Capítulo conclusivo que integra todos os casos em análise comparativa sistemática. Documenta padrões compartilhados (aumento da fluidez nas coortes intermediárias, estagnação nas posteriores, predomínio de mudanças educacionais como mecanismo) e variações nacionais. Avalia regressões transversais entre fluidez, equalização e expansão. Discute implicações para políticas educacionais e agenda de pesquisa.</td>
-</tr>
-</tbody>
-</table>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Important</span>Divergências internas
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>A coletânea apresenta tensões substantivas relevantes entre capítulos:</p>
-<ol type="1">
-<li><p><strong>Papel do efeito OD residual</strong>: Em Alemanha e Suécia, expansão e equalização explicam quase toda a mudança na fluidez, com papel mínimo do efeito direto de origem. Nos Países Baixos, EUA e Espanha, o efeito OD residual é dominante — indicando que mecanismos <em>não</em> educacionais têm peso muito diferente entre países, o que tensiona qualquer generalização da tese educacional.</p></li>
-<li><p><strong>Espanha sem equalização</strong>: O capítulo espanhol (Gil-Hernández et al.) mostra fluidez crescente <em>sem</em> equalização educacional significativa, contradizendo o padrão dominante. Os editores na conclusão (Cap. 11) reconhecem esse caso mas o tratam como exceção, sem desenvolvimento teórico suficiente sobre por que a expansão sem equalização pode gerar fluidez em certos contextos.</p></li>
-<li><p><strong>Suíça sem tendência</strong>: O capítulo suíço (Falcon) não encontra aumento da fluidez, nem mudança educacional robusta — posição singular que os editores usam como “controle negativo” mas que levanta questões sobre o que torna a Suíça diferente institucionalmente.</p></li>
-<li><p><strong>Gênero</strong>: Vários capítulos (EUA, Países Baixos, Itália) encontram trajetórias muito diferentes para homens e mulheres, mas a discussão dos mecanismos de gênero permanece fragmentada e sem integração teórica sistemática na conclusão.</p></li>
-</ol>
-</div>
-</div>
-<hr>
-</section>
-<section id="capítulo-1-introdução-social-mobility-and-education-in-the-twentieth-century-pp.-119" class="level2" data-number="1">
-<h2 data-number="1" class="anchored" data-anchor-id="capítulo-1-introdução-social-mobility-and-education-in-the-twentieth-century-pp.-119"><span class="header-section-number">1</span> Capítulo 1: Introdução — Social Mobility and Education in the Twentieth Century (pp.&nbsp;1–19)</h2>
-<section id="motivação-do-livro-e-relevância-política-14" class="level3" data-number="1.1">
-<h3 data-number="1.1" class="anchored" data-anchor-id="motivação-do-livro-e-relevância-política-14"><span class="header-section-number">1.1</span> Motivação do livro e relevância política [§1–§4]</h3>
-<p>Richard Breen e Walter Müller abrem o volume situando a mobilidade social no centro das preocupações tanto sociológicas quanto políticas contemporâneas. O argumento de partida é simples: taxas de mobilidade menores do que se supunha, e aparentemente em declínio, ascenderam ao topo das agendas políticas no Reino Unido e nos Estados Unidos. A solução prescrita pelos governos é invariavelmente a educação — garantir uma boa escolaridade é apresentado como a chave para melhorar as chances de mobilidade individual, enquanto reformas educacionais são promovidas como mecanismo de equalização de oportunidades entre pessoas de diferentes origens sociais.</p>
-<p>Os autores registram que o interesse na mobilidade social extrapola a sociologia acadêmica, encontrando eco em romances, filmes e expressões populares (“de pobre a rico”; “seguindo os passos do pai”). A justificativa empírica para a preocupação política é ilustrada com as palavras do presidente Barack Obama em 2013: uma criança nascida no quintil superior tem aproximadamente 2 em 3 chances de permanecer no topo; uma criança do quintil inferior tem menos de 1 em 20 chances de chegar lá — sendo dez vezes mais provável que permaneça onde está. O livro propõe precisamente examinar o papel da educação na formação das taxas e padrões de mobilidade intergeracional entre homens e mulheres ao longo do século XX.</p>
-</section>
-<section id="os-dois-conceitos-centrais-de-mobilidade-57" class="level3" data-number="1.2">
-<h3 data-number="1.2" class="anchored" data-anchor-id="os-dois-conceitos-centrais-de-mobilidade-57"><span class="header-section-number">1.2</span> Os dois conceitos centrais de mobilidade [§5–§7]</h3>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>O livro opera com a distinção fundamental entre <strong>mobilidade absoluta</strong> e <strong>mobilidade relativa (fluidez social)</strong>, que constituem fenômenos analiticamente independentes.</p>
-</div>
-</div>
-<p>A <strong>mobilidade absoluta</strong> refere-se aos padrões observados de movimento entre origens e destinos de classe. A medida mais simples é a proporção de pessoas cujo destino de classe difere de sua origem — a taxa geral de mobilidade. Dentro da mobilidade absoluta, é possível separar movimentos ascendentes de descendentes e verificar se eles são mais comuns entre pessoas de determinadas origens.</p>
-<p>A <strong>fluidez social</strong> (ou mobilidade relativa) trata da <em>força</em> da relação entre origens e destinos — capturando o grau em que o destino de classe de uma pessoa depende de sua origem. A fluidez social completa (ou mobilidade perfeita) ocorreria se destinos fossem independentes de origens, situação que nenhuma sociedade conhecida jamais aproximou. Os dois aspectos variam independentemente: a Suécia, amplamente reconhecida como de alta fluidez, tem poucas diferenças em taxas de mobilidade <em>absoluta</em> comparada com Alemanha ou França.</p>
-</section>
-<section id="o-triângulo-oed-e-os-mecanismos-813" class="level3" data-number="1.3">
-<h3 data-number="1.3" class="anchored" data-anchor-id="o-triângulo-oed-e-os-mecanismos-813"><span class="header-section-number">1.3</span> O triângulo OED e os mecanismos [§8–§13]</h3>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>O <strong>triângulo OED</strong> (Origens → Educação → Destinos) é o modelo analítico central do volume. Destinos (D) dependem de educação (E) e origens (O), enquanto educação depende de origens. A fluidez social entre origens e destinos depende de três caminhos: (a) origens → educação; (b) origens → destinos diretamente; (c) educação → destinos.</p>
-</div>
-</div>
-<p>Os autores explicam que mudanças em qualquer um desses caminhos podem alterar a fluidez social. Se a relação entre origens e educação se enfraquece (equalização educacional), isso reduz o caminho <em>a</em> e, em igualdade de condições, reduz a associação OD — aumentando a fluidez. O mesmo ocorreria se o caminho <em>c</em> declinasse (educação se torna menos associada a destinos de classe). O caminho <em>b</em> — efeito direto de origens sobre destinos, controlando por educação — representa um resíduo que captura tudo que liga origens e destinos exceto pela educação medida: redes sociais de acesso, localização regional, discriminação, herança direta de propriedades ou negócios.</p>
-<p>Um mecanismo adicional, identificado por Breen e Jonsson (2007) como <strong>efeito composicional</strong>, é explicado: se a associação entre origens e destinos é mais fraca entre pessoas com níveis mais elevados de educação, então, à medida que a educação se expande e cresce a proporção da população com qualificações mais altas, a associação global OD declina — mesmo que as associações dentro de cada nível educacional não mudem.</p>
-<blockquote class="blockquote">
-<p>A questão central do livro: as mudanças no século XX — expansão educacional e equalização educacional — foram associadas a mudanças na mobilidade social e na fluidez social?</p>
-</blockquote>
-</section>
-<section id="o-debate-sobre-tendências-na-fluidez-1417" class="level3" data-number="1.4">
-<h3 data-number="1.4" class="anchored" data-anchor-id="o-debate-sobre-tendências-na-fluidez-1417"><span class="header-section-number">1.4</span> O debate sobre tendências na fluidez [§14–§17]</h3>
-<p>Os estudos sociológicos sobre tendências na fluidez chegaram a conclusões conflitantes. A grande clivagem é entre aqueles que não encontram tendência temporal na associação entre destinos e origens de classe (Erikson e Goldthorpe 1992; Goldthorpe 2000 — “flutuação sem tendência”) e os que identificam redução gradual no grau em que a posição de classe própria depende da dos pais (teoria da modernização: Ganzeboom, Luijkx e Treiman 1989; Treiman 1970).</p>
-<p>A maioria dos estudos anteriores, independentemente do lado, adotou uma abordagem de <em>período</em> — comparando a mobilidade de toda a população em diferentes momentos. O volume propõe, em contraste, comparar a mobilidade de pessoas segundo quando nasceram: a <strong>perspectiva de coorte de nascimento</strong>. Essa escolha é justificada teoricamente: mudanças na fluidez são um fenômeno de <em>coorte</em>. Reformas educacionais, expansão ou mudanças na competição no mercado de trabalho afetam principalmente as coortes que estão na escola ou iniciando a vida profissional quando as mudanças ocorrem. Cohorts já estabelecidas no mercado de trabalho são em grande parte imunes a esses efeitos (Müller e Pollak 2004: 96). Breen e Jonsson (2007) demonstraram para a Suécia que mudanças na fluidez em períodos são explicadas pelo <em>replacement</em> de coortes: coortes mais antigas, menos fluidas, saindo do mercado de trabalho e sendo substituídas por coortes mais jovens e mais fluidas.</p>
-<blockquote class="blockquote">
-<p><strong>Nota 1:</strong> Breen e Jonsson (2005) oferecem revisão exaustiva da literatura sobre mobilidade social e desigualdade educacional. Ver também Torche (2015). [nota incluída por relevância argumentativa — estabelece a genealogia empírica do projeto]</p>
-</blockquote>
-</section>
-<section id="os-oito-países-e-os-instrumentos-de-medição-1824" class="level3" data-number="1.5">
-<h3 data-number="1.5" class="anchored" data-anchor-id="os-oito-países-e-os-instrumentos-de-medição-1824"><span class="header-section-number">1.5</span> Os oito países e os instrumentos de medição [§18–§24]</h3>
-<p>Os países escolhidos são: Estados Unidos, Suécia, Alemanha, França, Países Baixos, Itália, Espanha e Suíça — representando diferentes tipos de economias e regimes de bem-estar. Os EUA são o arquétipo do regime liberal; a Suécia, do regime social-democrata; os demais são classificados como regimes continentais conservadores, embora internamente heterogêneos. Alemanha, Países Baixos e Suíça pertencem às <strong>economias de mercado coordenadas</strong> (Hall e Soskice 2003), com sistemas de formação vocacional robustos — o sistema dual alemão e suíço divide o tempo do jovem entre escola e empresa. Itália e Espanha tendem ao regime familista, com menor suporte estatal.</p>
-<p>Para medir a classe social, todos os capítulos usam os princípios do <strong>esquema de classes Erikson-Goldthorpe</strong> (EG), com classes designadas por algarismos romanos (I a VII, com variações por país). Para medir a educação, usa-se o esquema <strong>CASMIN</strong> (<em>Comparative Analysis of Social Mobility in Industrial Nations</em>), desenvolvido por Müller e colegas, que distingue desde educação elementar (1abc) até educação terciária superior (3b), com versões de 4 a 6 categorias conforme o país.</p>
-<blockquote class="blockquote">
-<p><strong>Nota 8:</strong> A classe de uma pessoa é determinada por sua ocupação. Origens de classe são baseadas no relato do respondente sobre a ocupação do pai quando o respondente tinha ~15 anos. Dados de pai são usados (em vez de mãe) porque surveys antigos (alguns dos anos 1970) frequentemente não perguntavam sobre a ocupação da mãe. Autorrelatos da ocupação paterna são altamente confiáveis quando agregados em classes (Breen e Jonsson 1997), tornando possíveis estudos de longa duração sobre mobilidade de classe intergeneracional — diferentemente de estudos baseados em renda, para os quais o autorrelato da renda dos pais é altamente não confiável. [nota incluída por relevância argumentativa — justifica escolha metodológica fundamental]</p>
-</blockquote>
-<p>Os dados provêm de numerosos surveys realizados nos oito países ao longo de quarenta anos a partir dos anos 1970. Os dados para cada país consistem em tabelas multidimensionais cruzando origens, educação, destinos e coorte de nascimento. Análises são feitas separadamente para homens e mulheres. O intervalo de idade analisado é geralmente 35–70 anos, com o limite inferior de 35 estabelecido como “idade de maturidade ocupacional” — após a qual mudanças de posição de classe tornam-se raras (Erikson e Goldthorpe 1992).</p>
-<p>As cinco questões analíticas que todos os capítulos de países abordam são: (1) Como mudou a mobilidade de homens e mulheres ao longo do século XX? (2) A fluidez social mudou, e quando? (3) O vínculo entre origens sociais e educação enfraqueceu? (4) Há maior fluidez social entre pessoas com maiores níveis de educação? (5) Como expansão e equalização educacional se relacionam a mudanças na fluidez social?</p>
-<hr>
-</section>
-</section>
-<section id="capítulo-2-preliminares-metodológicos-pp.-2028" class="level2" data-number="2">
-<h2 data-number="2" class="anchored" data-anchor-id="capítulo-2-preliminares-metodológicos-pp.-2028"><span class="header-section-number">2</span> Capítulo 2: Preliminares Metodológicos (pp.&nbsp;20–28)</h2>
-<section id="mobilidade-absoluta-conceitos-e-medidas-13" class="level3" data-number="2.1">
-<h3 data-number="2.1" class="anchored" data-anchor-id="mobilidade-absoluta-conceitos-e-medidas-13"><span class="header-section-number">2.1</span> Mobilidade absoluta: conceitos e medidas [§1–§3]</h3>
-<p>Richard Breen estabelece as bases metodológicas compartilhadas por todos os capítulos empíricos. As medidas de mobilidade absoluta são baseadas na contagem de casos que recaem em combinações específicas de classes de origem e destino. A taxa geral de mobilidade é a proporção de pessoas cujo destino de classe difere de sua origem; a imobilidade é a proporção na diagonal principal da tabela de mobilidade. Mobilidade ascendente é definida como movimento de classe II para classe I; de classe VII/IIIb para qualquer outra classe exceto VII/IIIb; e, para todas as demais classes exceto I, movimento para as classes I ou II. Mobilidade descendente é o inverso. Movimentos que não são classificados como ascendentes ou descendentes — por exemplo, de IIIa para V+VI — são chamados de horizontais ou não-verticais.</p>
-<p>Uma medida mais simples são as distribuições marginais de origens e destinos, cuja diferença é capturada pelo <strong>índice de dissimilaridade</strong> (D ou Δ), que informa qual porcentagem de casos precisaria mudar de classe para tornar as distribuições de origem e destino idênticas. Esse índice também mede a quantidade mínima de mobilidade que uma tabela deve exibir — a mobilidade “forçada” pela diferença entre as distribuições de origens e destinos.</p>
-</section>
-<section id="fluidez-social-razões-de-chance-e-o-modelo-unidiff-48" class="level3" data-number="2.2">
-<h3 data-number="2.2" class="anchored" data-anchor-id="fluidez-social-razões-de-chance-e-o-modelo-unidiff-48"><span class="header-section-number">2.2</span> Fluidez social: razões de chance e o modelo <em>unidiff</em> [§4–§8]</h3>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>A estatística fundamental da fluidez social é a <strong>razão de chance</strong> (<em>odds ratio</em>). Em uma tabela de mobilidade com sete classes de origem e sete de destino, existem 441 razões de chance possíveis, mas todas podem ser calculadas a partir de um conjunto base de 36. Para comparar fluidez entre tabelas, o modelo <strong>unidiff</strong> (<em>uniform difference</em>; Erikson e Goldthorpe 1992; Xie 1992) é o instrumento padrão do volume.</p>
-</div>
-</div>
-<p>O modelo <em>unidiff</em> postula que os log-odds ratios no conjunto de tabelas comparadas diferem de uma maneira particular: em cada tabela, o <em>padrão</em> dos log-odds ratios é o mesmo, mas seu tamanho geral desloca-se para cima ou para baixo ao mover-se de uma tabela a outra. A fórmula é:</p>
-<p>[ _{ijk} = <em>k </em>{ij} ]</p>
-<p>onde (k) indexa tabelas (coortes), (i) origens e (j) destinos; (_k) é o parâmetro específico da tabela que escala os log-odds ratios em relação a uma tabela de referência (geralmente a coorte mais antiga). Se (_k &gt; 1), os log-odds ratios são maiores do que na tabela de referência — a fluidez é menor. Se (_k &lt; 1), a fluidez é maior. Os capítulos usam o modelo <em>unidiff</em> tanto para a associação OD ao longo de coortes quanto para as associações OE (origem-educação) e ED (educação-destino).</p>
-</section>
-<section id="a-técnica-de-simulação-contrafactual-912" class="level3" data-number="2.3">
-<h3 data-number="2.3" class="anchored" data-anchor-id="a-técnica-de-simulação-contrafactual-912"><span class="header-section-number">2.3</span> A técnica de simulação contrafactual [§9–§12]</h3>
-<p>A técnica de simulação de Breen (2010) é o instrumento central para decompor as fontes de mudança na fluidez. Parte-se de um modelo de dois estágios: na equação (1), o nível de educação depende da origem de classe; na equação (2), o destino de classe depende de origem, educação e sua interação. Adicionando progressivamente diferentes efeitos ao modelo de referência (baseline sem mudança) — expansão educacional, equalização educacional, mudança nos retornos educacionais, mudança no efeito direto de origens — e ajustando o modelo <em>unidiff</em> a cada tabela COD simulada, os pesquisadores obtêm a contribuição separada de cada mecanismo para a tendência observada na fluidez.</p>
-<p>A avaliação de modelos é feita com base no qui-quadrado de razão de verossimilhança (G²/L²), comparando desviance do modelo em relação ao número de parâmetros. O critério padrão de aceitação é que a probabilidade do qui-quadrado seja maior que 0,05.</p>
-<hr>
-</section>
-</section>
-<section id="capítulo-3-estados-unidos-the-land-of-opportunity-pp.-2968" class="level2" data-number="3">
-<h2 data-number="3" class="anchored" data-anchor-id="capítulo-3-estados-unidos-the-land-of-opportunity-pp.-2968"><span class="header-section-number">3</span> Capítulo 3: Estados Unidos — “The Land of Opportunity?” (pp.&nbsp;29–68)</h2>
-<section id="contexto-histórico-estrutura-ocupacional-mulheres-e-educação-15" class="level3" data-number="3.1">
-<h3 data-number="3.1" class="anchored" data-anchor-id="contexto-histórico-estrutura-ocupacional-mulheres-e-educação-15"><span class="header-section-number">3.1</span> Contexto histórico: estrutura ocupacional, mulheres e educação [§1–§5]</h3>
-<p>Florian R. Hertel e Fabian T. Pfeffer abrem o capítulo situando as transformações econômicas dos EUA no século XX. Em menos de quatro gerações, os EUA passaram de uma sociedade predominantemente agrária e rural a uma sociedade industrial e pós-industrial. Entre o início dos anos 1920 e os anos 2000, a participação do emprego em setores agrícolas ou extrativistas caiu de 29% para 2%. O fordismo resultou em expansão do emprego industrial até meados dos anos 1970 (cerca de 33% dos americanos em indústrias transformativas em 1970); nas décadas seguintes, o emprego em serviços produtivos (bancário, imobiliário, contabilidade: de 3% para 18%) e serviços sociais (educação, saúde, bem-estar: de 9% para 28%) cresceu substancialmente, enquanto a participação das indústrias transformativas caiu para ~19%.</p>
-<pre><code>                                                                                                                                                                                                                                                                                                                                                                                                                                                                               A participação feminina no mercado de trabalho aumentou de 19% em 1890 para 59% no final dos anos 1990. Quanto à educação, os EUA elevaram o nível médio de escolaridade acima da maioria dos outros países desenvolvidos ao longo do século — um processo descrito em detalhe por Goldin e Katz (2008). O capítulo analisa coortes de nascimento de 1908–21 a 1970–79, com dados compilados de múltiplos surveys entre 1972 e 2014 (N = 47.809 homens e 28.766 mulheres).
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ### Mobilidade absoluta: tendências por coorte [§6–§9]
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               As tendências na mobilidade absoluta mostram crescimento do emprego em classes de serviço (I+II) tanto como origens quanto como destinos ao longo das coortes. Para homens, a mobilidade vertical total aumentou ligeiramente, mas o padrão é dominado por mudanças estruturais na distribuição de classes. A taxa de imobilidade geral declinou nas coortes intermediárias, mas os autores enfatizam que parte da mobilidade observada é "forçada" — resultado de diferenças entre as distribuições de origens e destinos, não de maior abertura relativa.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               Para mulheres, a análise é mais complexa em razão da seleção amostral (apenas mulheres na força de trabalho são observadas). O capítulo identifica tendências de crescimento na mobilidade ascendente entre mulheres, refletindo em parte a própria expansão da participação feminina no mercado de trabalho e o crescimento de posições não manuais.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ### Fluidez relativa e o papel da educação [§10–§15]
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ::: {.callout-tip icon=false}
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               O resultado central para os EUA é que a fluidez social aumentou para homens — com declínio linear estimado de 5,7% por coorte na associação OD — mas de forma não monotônica: o aumento foi forte nas quatro primeiras coortes e estabilizou nas últimas. Para mulheres, o padrão não é estatisticamente significativo como tendência linear.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               :::
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                A análise da associação OD por nível de educação confirma o padrão geral: a associação entre origens e destinos é mais fraca entre pessoas com maiores qualificações, o que é condição necessária para o efeito composicional. A tabela de mediação (KHB) mostra que a educação medeia mais da metade da associação OD na maioria das células da tabela de mobilidade masculina. A imobilidade (diagonal principal) é a categoria em que a mediação pela educação é *mais baixa*, sugerindo que outros fatores — como transmissão direta de ativos ou redes — são importantes para manter as posições mais privilegiadas.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               Uma comparação de gênero revela que a educação tende a ser *mais* importante para as chances de mobilidade relativa entre mulheres do que entre homens. Muitos valores acima de 100% nas células de mobilidade ascendente feminina indicam que mulheres precisam adquirir mais educação (ou mais específica) para compensar desvantagens de gênero no acesso às classes de destino. A educação é especialmente importante para mulheres de origem agrícola que buscam posições não-manuais de rotina ou autoempregos.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               As simulações mostram que expansão e equalização educacional geraram tendência simulada de aumento da fluidez para homens, mas o ajuste é imperfeito. O efeito OD residual — direto, não mediado pela educação — é particularmente grande, indicando que fatores além da educação explicam uma parte substancial da rigidez e das mudanças na mobilidade americana.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ***
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ## Capítulo 4: Suécia — "Sweden, the Middle Way?" (pp. 69–90)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ### Contextualização e tendências de mobilidade absoluta [§1–§4]
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Richard Breen e Jan O. Jonsson analisam a Suécia, frequentemente citada como paradigma de alta fluidez social. O capítulo documenta que a estrutura de classes mudou substancialmente ao longo do século: as origens em classes manuais diminuíram, enquanto as origens e destinos na classe de serviço (I+II) aumentaram. A mobilidade absoluta cresceu para homens e mulheres, refletindo principalmente mudanças estruturais na economia sueca — expansão do setor público e dos serviços, em particular para mulheres.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               A educação expandiu-se fortemente: a proporção de suecos com nível terciário (3a+3b) passou de poucos pontos percentuais nas coortes mais antigas para ~40% nas coortes mais recentes. Ao mesmo tempo, a desigualdade educacional por origem de classe declinou — o gradiente OE enfraqueceu consistentemente ao longo das coortes.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ### Fluidez relativa e decomposição dos mecanismos [§5–§9]
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               O parâmetro *unidiff* para a associação OD declina monotonicamente ao longo das coortes para homens e mulheres suecos, confirmando aumento da fluidez. Para mulheres o declínio é particularmente pronunciado. As associações OE e ED também declinou, com o enfraquecimento da OE sendo particularmente marcante.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               A simulação contrafactual mostra que expansão e equalização educacional juntas explicam a maior parte da tendência observada na fluidez sueca — um resultado que confirma os achados anteriores de Breen e Jonsson (2007). Para mulheres, o impacto da expansão educacional foi ligeiramente mais forte do que o da equalização, dado o extraordinário crescimento da escolaridade feminina. O efeito OD residual tem papel mínimo, contrastando fortemente com o padrão americano e holandês.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ***
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ## Capítulo 5: França — Fluidez Social ao Longo de Coortes e Idade (pp. 91–121)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ### Dados, contexto e mobilidade absoluta [§1–§4]
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Louis-André Vallet analisa a França usando dados dos surveys *Formation et Qualification Professionnelle* (FQP) de 1970, 1977, 1985, 1993 e 2003. O design observacional (Tabela 5.1) mostra como cada coorte de nascimento aparece em diferentes surveys a idades diferentes — o que coloca o problema metodológico da confusão entre efeitos de coorte e de idade, especialmente porque o survey de 1970 captura a coorte mais velha em idades acima dos 45 anos.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               A estrutura de classes e a distribuição educacional na França foram profundamente transformadas: as origens rurais e manuais diminuíram, enquanto a classe de serviço cresceu. A distribuição educacional mudou radicalmente, mais para mulheres do que para homens. A mobilidade absoluta aumentou, tanto ascendente quanto descendente, ao longo das coortes.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ### A associação OE e a democratização educacional [§5–§9]
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               A associação entre origens de classe e educação (OE) enfraqueceu significativamente na França ao longo das coortes, com modelos mostrando declínio de ~30% do parâmetro *unidiff* entre a coorte de referência (1906–24) e as coortes mais recentes. O declínio da associação OE ocorreu principalmente para as coortes nadas entre os anos 1930 e 1950 — as que se beneficiaram da expansão educacional do pós-guerra e das reformas escolares do período. Vallet usa a expressão "democratização per se" para se referir à equalização educacional, distinguindo-a da mera expansão.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               Um refinamento metodológico importante do capítulo é a identificação de um **efeito de idade** na fluidez: a associação entre origem e destino é mais fraca quando os respondentes são observados em idades mais avançadas, sugerindo que a mobilidade intrageneracional (ao longo da carreira) contribui para o enfraquecimento do vínculo de classe no decorrer da vida ocupacional. Esse achado é mais pronunciado para homens do que para mulheres.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ### Simulações: mecanismos da mudança na fluidez [§10–§14]
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ::: {.callout-tip icon=false}
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               As simulações para a França revelam que a democratização educacional foi o principal fator para o aumento da fluidez na coorte 1945–54, enquanto a expansão educacional (e o efeito composicional associado) tornou-se o fator dominante nas coortes subsequentes (1955–64 e 1965–73). O declínio dos retornos educacionais (associação ED) teve papel mínimo entre homens — pois afetou homens de todas as origens de forma relativamente uniforme — e algum papel positivo modesto entre mulheres.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               :::
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                A análise de decomposição em quatro mecanismos — expansão, equalização, mudança nos retornos educacionais, mudança no efeito direto OD — mostra que o efeito direto de origem (caminho b do triângulo OED) tem contribuição ligeiramente *negativa* para a fluidez nas coortes mais recentes masculinas, ou seja, o efeito residual de origem sobre destino aumentou marginalmente nas últimas coortes observadas — resultado consistente com Bouchet-Valat, Peugny e Vallet (2016).
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               Vallet destaca a necessidade de análises com o survey FQP 2014–2015 para monitorar tendências nas coortes mais recentes, que não puderam ser observadas neste capítulo.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ***
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ## Capítulo 6: Alemanha — "Education as an Equalizing Force" (pp. 122–149)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ### Sistema educacional alemão e hipóteses [§1–§4]
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Reinhard Pollak e Walter Müller examinam a Alemanha — um caso especialmente revelador dado o papel central do sistema educacional estratificado e padronizado na estrutura de classes alemã. O **sistema dual de formação vocacional** (*Berufsschule* + empresa) é caracterizado como um elemento distintivo que garante correspondência estreita entre qualificações adquiridas e demandas dos empregadores. O capítulo estende análises anteriores de Müller e Pollak (2004) para incluir três aspectos da mudança educacional: expansão, equalização e mudança nos retornos às qualificações.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               A análise cobre homens nascidos entre 1915 e 1975 e mulheres entre 1917 e 1975, com dados de múltiplos surveys alemães (ALLBUS, GSOEP, NEPS). As análises são restritas a cidadãos alemães na Alemanha Ocidental (pré-reunificação).
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ### Mobilidade absoluta e evolução do triângulo OED [§5–§9]
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               A estrutura de classes mudou substancialmente: as origens rurais e manuais decliniram, a classe de serviço expandiu. A mobilidade ascendente cresceu, especialmente entre mulheres — refletindo a forte expansão das posições de colarinho-branco e a rápida qualificação feminina. A Alemanha não experimenta tendência marcante de mobilidade descendente, ao contrário de economias que experimentaram maior polarização.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               A associação OE declinou de forma consistente ao longo das coortes na Alemanha — evidência de equalização educacional substancial. A associação ED permaneceu relativamente estável (os retornos à educação não declinaram de forma relevante), contrastando com o caso holandês. O parâmetro *unidiff* para a associação OD declina para ambos os gêneros — com o declínio sendo mais acentuado entre mulheres.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ### Simulações: predominância de expansão e equalização [§10–§13]
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ::: {.callout-tip icon=false}
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               As simulações para a Alemanha mostram que expansão e equalização educacional juntas explicam praticamente toda a mudança observada na fluidez — com papel mínimo do efeito OD residual. Isso contrasta fortemente com os Países Baixos e os EUA, fazendo da Alemanha, junto com a Suécia, o caso "ideal" do argumento central do livro.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               :::
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Para homens, o impacto da equalização e da expansão são aproximadamente iguais nas coortes intermediárias. Para mulheres, a expansão educacional é ligeiramente mais importante do que a equalização, dado o maior crescimento relativo da escolaridade feminina. Um dado de destaque: a ligação entre educação e posição de classe é ainda mais forte quando se distingue entre destinos de classe trabalhadora qualificada e não qualificada — trabalhadores com qualificação vocacional além da educação geral básica (categoria 1c) têm riscos muito menores de serem confinados a trabalho não qualificado do que seus contrapartes sem tal qualificação.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ***
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ## Capítulo 7: Suíça — "The Swiss El Dorado?" (pp. 150–172)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ### Contexto socioeconômico suíço [§1–§4]
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Julie Falcon analisa a Suíça, um caso até então pouco investigado na literatura de mobilidade comparada (exceções: Girod 1971, 1977; Weiss 1979). A Suíça destaca-se por estabilidade política duradoura e prosperidade econômica: baixo desemprego (geralmente 3–4%, raramente acima de 5% mesmo na recessão dos anos 1990), alta demanda por mão de obra estrangeira (desde os anos 1960, ~15% de estrangeiros na população total), e uma economia baseada em serviços financeiros, multinacionais e manufatura de alto valor (relógios, high-tech).
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               O sistema educacional suíço também é fortemente vocacional, com um sistema dual análogo ao alemão, o que gera vínculos estreitos entre qualificações e mercado de trabalho.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ### Tendências de mobilidade e fluidez [§5–§9]
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               Falcon analisa quatro coortes (1912–44, 1945–54, 1955–64, 1965–74), com amostras menores do que nos demais países. Os resultados mostram que a distribuição das origens de classe mudou ao longo das coortes (declínio das origens rurais e manuais; crescimento das origens na classe de serviço), e que a distribuição educacional se expandiu, mas principalmente nas coortes mais recentes.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ::: {.callout-important icon=false}
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               O resultado central para a Suíça é negativo em relação ao argumento geral do livro: **não há tendência clara de aumento da fluidez social** entre as coortes estudadas. O parâmetro *unidiff* para a associação OD não mostra declínio consistente. Ao mesmo tempo, não há evidência robusta de equalização educacional (declínio da associação OE) até as coortes mais recentes. Isso faz da Suíça um "controle negativo" para o argumento de que mudança educacional promove fluidez: na ausência de equalização e com expansão tardia, a fluidez não aumenta.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               :::
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                As simulações confirmam esse padrão: na Suíça, expansão e equalização educacional não geraram tendência simulada de aumento da fluidez para homens — um resultado oposto ao de Alemanha e Suécia.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ***
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ## Capítulo 8: Países Baixos — "The Role of Education in the Social Mobility of Dutch Cohorts, 1908–1974" (pp. 173–195)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ### Contexto holandês e tendências de mobilidade absoluta [§1–§4]
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Richard Breen, Ruud Luijkx e Eline Berkers analisam os Países Baixos, que são conhecidos na literatura por apresentar alta fluidez social (Breen e Luijkx 2004 encontraram os Países Baixos como o país mais socialmente fluido em análise de período). Os dados combinam os surveys de Ganzeboom e Luijkx (2004), estendidos para permitir análise de coorte. O capítulo cobre coortes nascidas entre 1908 e 1974.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               A distribuição de classes mudou significativamente: as origens e destinos manuais decliniram, enquanto a classe de serviço expandiu — de forma mais pronunciada do que em qualquer outro país do volume. A mobilidade absoluta cresceu para homens e mulheres, com aumento das taxas ascendentes e declínio das taxas de imobilidade.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ### O triângulo OED: padrões de mudança [§5–§9]
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ::: {.callout-note icon=false}
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               Nos Países Baixos, todas as três associações do triângulo OED declinaram ao longo das coortes — mas com padrões distintos: a associação OD mostra a maior mudança (queda de ~50% para mulheres, ~30% para homens), seguida pela OE (~30% para ambos os gêneros até a penúltima coorte) e pela ED (~30% para ambos). A queda da associação ED — que na maioria dos outros países é pequena ou inexistente — é uma peculiaridade holandesa.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               :::
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                A associação entre origens e destinos é mais fraca entre pessoas com educação terciária (para homens), mas a relação não é monotônica para mulheres — o que sugere que o efeito composicional pode ser mais fraco do que em países como Suécia e França.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ### O "Dutch exceptionalism": o papel do efeito OD residual [§10–§16]
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               As simulações revelam que a principal fonte de crescimento na fluidez holandesa é o declínio da associação OD *condicional à educação* (o efeito OD residual) — não a expansão ou equalização educacional. Esse efeito responde por ~47–48% do declínio total da associação OD entre as coortes mais antigas e mais recentes; expansão composicional responde por ~16%; equalização por ~17% (homens) e ~33% (mulheres); e declínio da associação ED por apenas ~19% (homens) e ~3% (mulheres).
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               Análise detalhada mostra que o declínio da associação ED nos Países Baixos não se deve a *overqualification* (as chances de pessoas com educação terciária de entrar na classe de serviço permaneceram estáveis), mas sim ao crescimento da proporção de pessoas *sem* educação terciária que acessam posições na classe de serviço. Esse fenômeno é concentrado entre pessoas de origens fora da classe de serviço: a lacuna nas chances de destino na classe de serviço entre pessoas de baixa educação de origens na classe de serviço e de fora dela se estreitou de 34 para 19 pontos percentuais (homens) e de 27 para 13 pontos (mulheres).
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               A hipótese dos autores: o crescimento extraordinariamente rápido da classe de serviço nos Países Baixos criou uma demanda que só podia ser preenchida abrindo posições para pessoas sem qualificação terciária — e essas tendiam a vir de origens menos privilegiadas.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ***
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ## Capítulo 9: Itália — "Education and Social Fluidity in Contemporary Italy" (pp. 196–223)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ### Contexto institucional e hipóteses [§1–§5]
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Carlo Barone e Raffaele Guetto examinam a Itália, um caso de alto desenvolvimento tardio com peculiaridades institucionais marcantes. O "milagre econômico" das décadas de 1950–60 transformou o país de uma sociedade predominantemente rural em uma potência industrial — com crescimento do PIB de 5,8% a.a. entre 1951 e 1963. Esse boom facilitou investimentos educacionais por famílias da classe trabalhadora e rural. Reformas educacionais do período (abolição do tracking no ensino médio inferior em 1962, elevação da idade mínima de trabalho para 15 anos em 1967, abertura do acesso universitário a todos os ramos do</code></pre>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>Annotated Bibliography</category>
-  <category>Sociology of Education</category>
-  <category>Social Stratification</category>
-  <category>Inequality</category>
-  <category>Comparative</category>
-  <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Breen-Muller2020Incomplete.html</guid>
-  <pubDate>Fri, 08 May 2026 03:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

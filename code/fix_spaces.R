@@ -7,7 +7,7 @@
 
 # ── 1. Arquivo-alvo ──────────────────────────────────────────────────────────
 
-nome_do_qmd <- "Custodio2022"   # ex: "Fernandes2005"
+nome_do_qmd <- "Pierson2004"   # ex: "Fernandes2005"
 
 path <- paste0(
   "C:/Users/Mancano/Documents/MancanoSync/Annotated-Bibliography/posts/",
