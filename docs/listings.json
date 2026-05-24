@@ -2,6 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/Garay.html",
+      "/posts/Fairfield-Charman2025.html",
+      "/posts/Busemeyer-Thelen2020.html",
       "/posts/Pierson2004.html",
       "/posts/Custodio2022.html",
       "/posts/Meek-etal2024.html",
@@ -14,6 +17,7 @@
       "/posts/Iversen-Stephens2008.html",
       "/posts/notes/VoC-Hall-Soskice2001.html",
       "/posts/Carvalho2011.html",
+      "/posts/Katz2001.html",
       "/posts/Ansell2008.html",
       "/posts/Busemeyer2015.html",
       "/posts/Carnoy1985.html",
