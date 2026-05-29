@@ -7,7 +7,7 @@
 
 # ── 1. Arquivo-alvo ──────────────────────────────────────────────────────────
 
-nome_do_qmd <- "Pierson2004"   # ex: "Fernandes2005"
+nome_do_qmd <- "Fairfield2013"   # ex: "Fernandes2005"
 
 path <- paste0(
   "C:/Users/Mancano/Documents/MancanoSync/Annotated-Bibliography/posts/",
@@ -42,7 +42,7 @@ if (!is.na(first_dash) && first_dash > 1L) {
 }
 
 # Remove tudo que vem DEPOIS do último "::::" (lixo gerado pelo LLM após o conteúdo)
-last_colons <- tail(which(lines == "::::"), 1)
+last_colons <- tail(which(lines == ":::"), 1)
 if (length(last_colons) == 1 && last_colons < length(lines)) {
   cat("Linhas removidas após o último :::::", length(lines) - last_colons, "\n")
   lines <- lines[1:last_colons]

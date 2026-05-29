@@ -1,0 +1,312 @@
+---
+title: "Fichamento: Why Inequalities Persist: Parties' (Non)Responses to Economic Inequality, 1970–2020"
+subtitle: "Horn, A., Haselmayer, M., & Klüser, K. J. (2026). Why inequalities persist: Parties' (non)responses to economic inequality, 1970–2020. *American Political Science Review*, *120*(1), 346–364. https://doi.org/10.1017/S0003055425100907"
+author: "Tales Mançano"
+date: "2026-05-22"
+last-updated: "2026-05-22"
+coverage: "Obra completa"
+categories: [Annotated Bibliography, Political Economy, Comparative Politics, Inequality, Party Politics, Welfare State/Social Policy, Western Europe, 2026, 2020s]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+    execute: false
+---
+
+::: {.callout-note collapse="true" icon=false}
+## Informações Técnicas e BibTeX
+
+```
+Última atualização: 2026-05-22
+Modelo: Perplexity — Claude Sonnet 4.6 Thinking
+Prompt Version: v17.4 · 2026-05-13
+Gerado em: 2026-05-22T21:37:00-03:00
+Ocasião da Leitura:
+```
+
+**Entrada BibTeX → Horn-etal2026**
+
+```bibtex
+@article{Horn-etal2026,
+  author  = {Horn, Alexander and Haselmayer, Martin and Kl{\"u}ser, K. Jonathan},
+  title   = {Why Inequalities Persist: Parties' (Non)Responses to Economic
+             Inequality, 1970--2020},
+  year    = {2026},
+  journal = {American Political Science Review},
+  volume  = {120},
+  number  = {1},
+  pages   = {346--364},
+  doi     = {10.1017/S0003055425100907},
+}
+```
+
+:::
+
+---
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v17.4*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | A pergunta é formulada com clareza nas primeiras linhas do abstract. A premissa central é que os estudos existentes não distinguem adequadamente entre *níveis* e *mudanças* de desigualdade, nem separam igualdade econômica de igualdade de direitos — o que contamina as inferências. O ponto mais vulnerável desta formulação é que a pergunta assume que a diferenciação nível/variação é a chave para reconciliar a literatura, sem considerar que os mecanismos causais subjacentes podem ser endógenos uns aos outros. | Pergunta central: os partidos respondem programaticamente à desigualdade econômica? Pergunta de natureza causal-explicativa, com componente descritivo (identificar padrões de resposta) e explicativo (por que tais padrões ocorrem). Explicitada pelos autores. |
+| Questões Secundárias | Os autores diferenciam dois efeitos (nível e mudança) e dois tipos de partido (esquerda/direita), o que gera quatro sub-perguntas. A relação lógica entre elas é aditiva: cada sub-pergunta é necessária para derivar as expectativas teóricas centrais e para compreender por que a desigualdade não é autocorretiva. | (1) Os partidos respondem a *níveis* elevados de desigualdade? (2) Os partidos respondem a *aumentos* de desigualdade? (3) Existe heterogeneidade partidária esquerda-direita nas respostas? (4) A diferença nível/mudança explica as contradições da literatura prévia? Todas as sub-perguntas se articulam diretamente com a tese de que a desigualdade não é autocorretiva. |
+| Puzzle-Type | O puzzle é genuíno: a coexistência de resultados contraditórios na literatura não é trivialmente atribuível a diferenças de caso ou período — ela deriva de uma contaminação conceitual e de mensuração demonstrável. A contribuição é tanto puzzle explicativo quanto gap descritivo. O puzzle tem generalizabilidade para além dos 12 países estudados, na medida em que o problema de mensuração afeta toda a literatura comparada sobre responsividade partidária. | Puzzle explicativo + gap descritivo. Por que a desigualdade persiste mesmo em democracias com partidos de esquerda programáticos? E por que estudos anteriores encontraram evidências contraditórias de resposta da esquerda? O puzzle é avaliado como genuíno: os autores demonstram empiricamente que as medidas previamente usadas (índices econômicos do MARPOR, escala Rile) capturam dimensões múltiplas de igualdade sem distinguir redistribuição econômica de direitos iguais — o que cria aparência de responsividade onde não existe. |
+| Conclusão / Argumento Central | O argumento é construído sobre três pilares cumulativos (visibilidade, mobilização, viés do status quo) e sustentado por evidências empíricas de regressões de efeitos mistos. O *claim of discovery* é forte no que concerne à resposta ao aumento (bem identificada), mas mais fraco para a ausência de resposta a níveis — que pode refletir a omissão de variáveis de longo prazo ou endogeneidade entre níveis de desigualdade e composição eleitoral da esquerda. | Tese: partidos de esquerda respondem a *aumentos* de desigualdade, mas não a *níveis* elevados; partidos de direita não respondem em nenhum dos casos. Isso cria um "efeito de catraca" (*ratchet effect*): a esquerda resiste à piora, mas não combate a desigualdade já entrincheirada. Argumento de natureza causal-explicativa combinada com contribuição metodológica (nova medida). |
+| Métodos | O desenho é quantitativo com séries temporais comparadas. Para textos desta natureza (análise de manifesto + modelo de efeitos mistos), a validade interna depende criticamente da qualidade da variável dependente (medida de igualdade econômica) e da especificação do modelo. Os autores lidam com ambos de forma cuidadosa, mas os mecanismos teóricos propostos (visibilidade, mobilização, viés do status quo) não são testados diretamente — são inferidos ex-post. **O fichamento cobre a obra inteira (artigo completo, pp. 346–364).** | Estudo quantitativo, cross-national, longitudinal. Dados: 965 manifestos partidários de 12 países OCDE (1970–2020), segmentados em 850.000 quasi-frases. Variável dependente: share de referências positivas à igualdade econômica por manifesto (obtida via *crowdcoding* no Amazon Mechanical Turk com filtragem por ML). Variáveis independentes: medidas de desigualdade pré-impostos (bottom 50% share, top 1%, razões 90–10 e 90–50, Gini), partidarismo esquerda/direita, turnout, controles partidários e de país. Estimação: regressão linear de efeitos mistos com interceptos aleatórios por partido e país, interação desigualdade × partidarismo. |
+| Data Generation Process (DGP) | O DGP é bem documentado e reprodutível (dados arquivados no Harvard Dataverse). O uso de market inequality (pré-impostos e transferências) é justificado para evitar endogeneidade, mas cria uma limitação: não captura a desigualdade *percebida*, que é o canal teórico relevante nos argumentos de visibilidade e viés do status quo. O crowdcoding via AMT pode introduzir viés de seleção de codificadores (restrição geográfica por IP) e problemas de equivalência funcional entre países com tradições linguísticas distintas. | Fenômeno real (desigualdade de renda) → observação via manifestos partidários → coleta (MARPOR API + fontes manuais) → filtragem por classificador de regressão logística (recall ≥ 0.80) → revisão por assistentes de pesquisa → crowdcoding em AMT (5 codificações/unidade, voto majoritário, Krippendorff's α = 0.72) → operacionalização como share de quasi-frases sobre igualdade econômica por manifesto → desigualdade medida via WID e SWIID. Unidade de análise: partido em eleição. Nível de agregação: party-election. Inferência: correlacional com argumentação causal, sem identificação por variação exógena. |
+| Achados e Contribuições | Os achados sobre resposta a mudanças são robustos a múltiplas especificações. A ausência de resposta a níveis é mais frágil teoricamente — o coeficiente negativo de β₁ (desemphasizing em contextos de alta desigualdade) é plausível mas não permite distinguir entre mecanismo estratégico (adaptação racional) e seleção amostral (esquerda já moderada em contextos desiguais). A contribuição metodológica (nova medida) é o ponto mais sólido e duradouro do artigo. | **Empíricos:** (1) partidos de esquerda não respondem a níveis elevados de desigualdade; ao contrário, de-enfatizam igualdade econômica em contextos altamente desiguais; (2) partidos de esquerda respondem positivamente a *aumentos* de desigualdade (especialmente perda de participação dos 50% mais pobres); (3) nenhum partido responde a ganhos do top 1%; (4) partidos de direita são consistentemente não responsivos. **Metodológicos:** nova medida válida de igualdade econômica de classe (*Varieties of Egalitarianism*), distinguindo-a de igualdade de direitos; demonstração de que medidas existentes têm correlação ~0.3 com a nova medida. |
+| Análise Crítica dos Achados | (a) **Viés de seleção/composição:** o argumento de que a esquerda abandona os mais pobres em contextos de alta desigualdade poderia refletir mudança endógena na composição do eleitorado da esquerda (terciarização, Häusermann e Kitschelt 2024), não apenas resposta estratégica. (b) **Compatibilidade DGP-claim:** os mecanismos (visibilidade, mobilização, status quo bias) não são testados diretamente; os autores reconhecem isso, mas não delineiam condições falsificadoras. (c) **Confundidores:** o modelo não controla para variações na composição ideológica intrapartidária ao longo do tempo, nem para a influência de organizações externas (sindicatos, movimentos sociais). (d) **SUTVA e independência:** manifestos de eleições próximas em um mesmo país não são independentes; os interceptos aleatórios lidam com parte da não-independência, mas não com dependência temporal serial. (e) **Generalizabilidade:** limitada a 12 democracias OCDE de capitalismo avançado; os próprios autores alertam sobre Europa Oriental e do Sul. (f) **Scope conditions não declaradas:** o argumento pressupõe sistemas partidários com partidos de esquerda programáticos — o que não é universal, inclusive em algumas democracias da amostra em determinados períodos. | O artigo responde adequadamente à pergunta dentro de seu desenho, mas as afirmações causais excedem o que o design identifica com força. O argumento de "efeito de catraca" é sugestivo e plausível, mas hipotético em sua forma mais forte. |
+| Limitações | **Reconhecidas pelos autores:** (1) os mecanismos (visibilidade, mobilização, status quo bias) não são testados diretamente; (2) generalizabilidade limitada para Europa do Leste e do Sul; (3) foco em manifestos, que podem ser *window-dressing*; (4) amostra reduzida de estados de bem-estar social-democratas (apenas Dinamarca e Suécia). <br> **Não reconhecidas ou subestimadas:** (1) endogeneidade entre composição eleitoral da esquerda e níveis de desigualdade — a "adaptação" estratégica e a mudança estrutural no eleitorado são observacionalmente equivalentes; (2) a medida de desigualdade pré-impostos não alinha com o canal perceptual teórico (o que os eleitores *percebem* é desigualdade pós-transferências); (3) o crowdcoding pode ser menos válido para manifestos em idiomas não anglófonos com nuances culturais específicas na codificação de igualdade — o α de Krippendorff varia de 0.6 a 0.85 por país, o que é relevante para países não-anglófonos; (4) o artigo não discute o potencial efeito de composição entre períodos (os partidos de esquerda de 1970 são muito distintos dos de 2020 em composição e eleitorado). |
+| Perspectiva Teórica | A moldura teórica articula economia política com teoria cognitiva/comportamental (sistema justification, meritocracy beliefs) e teoria eleitoral (demobilização, competição partidária). A combinação é coerente com o tipo de pergunta, mas a pluralidade de mecanismos não testados diretamente cria um argumento *omnibus* — em que qualquer resultado negativo nos dados poderia ser explicado por ao menos um dos mecanismos. Isso reduz a falseabilidade da teoria. | Traditions: economia política comparada (Pontusson e Rueda 2010; Tavits e Potter 2015); teoria de poder de recursos (Korpi 1983); teoria de transformação de sistemas partidários (Häusermann e Kitschelt 2024); psicologia política da desigualdade (Trump 2018; Mijs 2021; Jost, Banaji e Nosek 2004); agenda-setting e gatekeeping (McCombs 2005; Galtung e Ruge 1965). A coerência ontológica é boa: o argumento é consistentemente racionalista-estratégico com reconhecimento de constrangimentos cognitivos e institucionais. |
+| Principais Referências | O diálogo com a literatura é amplo e equilibrado. Destacam-se: Pontusson e Rueda (2010) e Tavits e Potter (2015) como estudos de referência a serem corrigidos; Atkinson (1970) para justificar limites do Gini; Solt (2008; 2010) sobre mobilização e desigualdade; Mijs (2021) e Trump (2018) sobre legitimação da desigualdade; Piketty (2020) e Gilens e Page (2014) como contexto do debate público-acadêmico; Häusermann e Kitschelt (2024) sobre transformação da esquerda. O diálogo com a literatura sobre *agenda-setting* (McCall 2013; Schröder e Vietze 2015) é um ponto positivo que não encontra paralelo na maioria dos artigos desta literatura. | |
+| Observações | O artigo é uma contribuição metodológica de primeira ordem para a literatura de economia política comparada: a nova medida *Varieties of Egalitarianism* provavelmente terá uso independente de seus resultados substantivos. Para a pesquisa do leitor (sistemas de cotas e desigualdade educacional no Brasil), o mecanismo de viés do status quo e o argumento sobre *lock-in* de desigualdades entrincheiradas são diretamente relevantes — especialmente a ideia de que em contextos de alta desigualdade, os incentivos para resposta redistributiva são estruturalmente enfraquecidos, o que se aplica tanto a partidos quanto, possivelmente, a instituições de acesso à educação. O argumento sobre "efeito de catraca" merece aplicação cuidadosa em contextos não-OCDE. |
+
+:::
+
+---
+
+## Mapa Argumentativo {.unnumbered}
+
+| Seção | Título / Tema | Função argumentativa | Contribuição para a tese central |
+|:------|:--------------|:---------------------|:---------------------------------|
+| Introdução | Reações programáticas à desigualdade | Apresentação do puzzle e da tese | Estabelece a contradição entre a literatura otimista (esquerda responde) e o ceticismo amplo; formula a hipótese de reconciliação via distinção nível/mudança |
+| Seção teórica 1 | Por que partidos não respondem | Revisão de literatura — perspectiva cética | Mobiliza três tradições (morte da classe, abandono histórico da classe trabalhadora, democracia desigual) para fundar expectativas negativas |
+| Seção teórica 2 | Por que partidos respondem — respostas programáticas | Revisão de literatura — perspectiva otimista | Apresenta os estudos de Pontusson-Rueda e Tavits-Potter que encontram responsividade da esquerda como alvo a ser reavaliado |
+| Seção teórica 3 | Por que partidos respondem a mudanças, não a níveis | Fundamento teórico central | Desenvolve os três mecanismos (visibilidade, mobilização, viés do status quo) que explicam o padrão diferencial; deriva as duas expectativas formais |
+| Subseção teórica | Heterogeneidade entre países | Qualificação | Antecipa moderadores contextuais (regime de bem-estar, sistema eleitoral, competitividade) a serem tratados na análise de robustez |
+| Seção empírica 1 | Novos dados sobre conceitos de igualdade | Contribuição metodológica + análise descritiva | Demonstra que medidas existentes conflacionam igualdade econômica com direitos iguais; apresenta a trajetória em U do igualitarismo econômico (1980–2020) |
+| Seção empírica 2 | Crowdcoding em 12 países | Descrição do DGP | Detalha o pipeline de coleta e validação da variável dependente; justifica a confiabilidade do crowdcoding (α = 0.72) |
+| Seção empírica 3 | Escolhas conceituais de desigualdade | Justificação da variável independente | Argumenta pela superioridade teórica do share dos 50% inferiores sobre o Gini e o top 1% para capturar incentivos eleitorais da esquerda |
+| Seção empírica 4 | Dados e métodos | Especificação do modelo | Formaliza o modelo de efeitos mistos com interação desigualdade × partidarismo; justifica o uso de desigualdade de mercado |
+| Seção de resultados | Resultados principais | Análise empírica central | Confirma Expectativa 1 (sem resposta a níveis) e Expectativa 2 (resposta da esquerda a aumentos); documenta a exceção do top 1%; apresenta os coeficientes de Table 1 e Figure 2 |
+| Seção de robustez e análises adicionais | Robustez, heterogeneidade e exceção do 1% | Qualificação e extensão do argumento | Testa welfare states, períodos históricos, países Anglo-Saxões vs. europeus; discute a exceção dos ganhos do top 1% via visibilidade, elite bias e conhecimento da economia |
+| Conclusão | Efeito de catraca em vez de autocorreção democrática | Síntese e agenda | Nomeia o mecanismo central como *ratchet effect*; reconcilia todas as perspectivas da literatura; aponta agenda futura sobre políticas e perfis de predistribuição |
+
+---
+
+## Introdução: Reações Programáticas à Desigualdade (pp. 346–347)
+
+### O puzzle de partida e a tensão na literatura [§1–§4]
+
+O artigo abre com uma provocação direta: embora a desigualdade econômica seja um dos maiores desafios para as democracias contemporâneas, com implicações profundas para as condições de vida, representação política e equidade, a pesquisa sobre como os partidos reagem a ela permanece inconclusiva. Os autores situam a relevância do problema citando suas implicações para a qualidade da representação democrática e o bem-estar material dos cidadãos.
+
+A tensão na literatura é apresentada como um duplo impasse. Por um lado, a vasta literatura sobre transformação pós-industrial dos sistemas partidários e o enfraquecimento dos laços de classe — representada por Häusermann e Bornschier (2023) e Marks et al. (2021) — sugere que mesmo os partidos de esquerda perderam os incentivos para adotar agendas redistributivas em contextos de alta desigualdade, dado o realinhamento eleitoral em direção a uma nova classe média mais abastada e orientada a questões socioculturais. Por outro lado, estudos especificamente voltados às respostas programáticas dos partidos — especialmente Pontusson e Rueda (2010) e Tavits e Potter (2015) — encontram evidências de responsividade da esquerda, sugerindo que alta desigualdade amplia a base eleitoral receptiva a propostas redistributivas, seguindo uma lógica próxima ao teorema do eleitor mediano.
+
+Essa contradição, segundo os autores, não é apenas aparente: ela é produto de uma limitação de dados. Até o momento do artigo, a ausência de séries temporais comparáveis sobre ênfase em igualdade *econômica* nos programas partidários impediu a investigação direta das questões do lado da oferta — isto é, de como os partidos se posicionam concretamente em termos redistributivos em resposta à desigualdade.
+
+### Contribuição teórica: nível versus mudança [§5–§8]
+
+A contribuição teórica central é apresentada ainda na introdução como um argumento de reconciliação entre as perspectivas afirmativa e cética. Os autores partem da premissa básica, compartilhada com a literatura precedente, de que partidos de esquerda têm maiores incentivos para responder à desigualdade porque ela afeta e expande sua constituência menos abastada. Contudo, afirmam que é necessário diferenciar entre reações a *níveis* elevados de desigualdade e reações a *aumentos* de desigualdade.
+
+Para explicar por que mesmo a esquerda falha em responder à desigualdade entrincheirada, os autores desenvolvem e combinam três argumentos — visibilidade, mobilização e viés do status quo. O argumento da **visibilidade** apoia-se nas teorias de noticiabilidade e gatekeeping (Galtung e Ruge 1965; Shoemaker e Vos 2009) para afirmar que a mídia prioriza mudanças e eventos novos, e não níveis persistentes de desigualdade. Assim, desigualdade estruturalmente alta permanece invisível e não incentiva respostas partidárias, enquanto desigualdade *crescente* mobiliza atenção pública e política. O argumento da **mobilização** sustenta que altos níveis de desigualdade deprimem o comparecimento eleitoral dos mais pobres (Solt 2008; 2010), enfraquecendo precisamente a base da esquerda e reduzindo seus incentivos para plataformas fortemente redistributivas (Anderson e Beramendi 2012). Por fim, o argumento do **viés do status quo** recorre à psicologia política da desigualdade: mesmo quando a desigualdade é percebida, mecanismos cognitivos de justificação do sistema (Jost, Banaji e Nosek 2004) e crenças meritocráticas (Mijs 2021) levam os indivíduos a legitimar os níveis existentes de desigualdade, reduzindo a demanda por redistribuição. Por contraste, experimentos mostram que a consciência de desigualdade *crescente* — não de níveis altos — aumenta o apoio a políticas redistributivas (Kuziemko et al. 2015; McCall et al. 2017).
+
+> O argumento da introdução pode ser sintetizado assim: a desigualdade persistentemente alta é, em certo sentido, politicamente *invisível* — normalizada pela mídia, pelo viés cognitivo e pela própria demobilização que produz. Apenas a desigualdade *em movimento* aciona os mecanismos que transformam privação econômica em demanda e oferta política redistributiva.
+
+Embora os autores reconheçam que esses mecanismos não são formalmente testados — o que eles equiparam aos estudos de referência que também não os testam —, argumentam que eles, em conjunto, fornecem uma racionalidade crível para o padrão empírico esperado. Duas expectativas são formalizadas: (1) nem esquerda nem direita respondem a níveis elevados de desigualdade; (2) a esquerda responde a *aumentos* de desigualdade, enquanto a direita permanece não responsiva.
+
+### Contribuição empírica: nova medida de igualdade econômica [§9–§11]
+
+A contribuição empírica é apresentada como inseparável da teórica: sem os novos dados, a pergunta sobre responsividade a desigualdade econômica stricto sensu não seria respondível. Os estudos existentes utilizam índices excessivamente amplos derivados do MARPOR (*Manifesto Project*) que conflacionam referências positivas à igualdade econômica e redistributiva com declarações sobre igualdade de direitos e antidiscriminação — categorias conceitualmente distintas com correlação de apenas 0.19 entre si. A correlação entre os indicadores existentes e a nova medida de igualdade econômica de classe desenvolvida pelos autores gira em torno de 0.3, o que demonstra que os estudos anteriores essencialmente mensuraram outra coisa.
+
+A resposta a essa limitação é o desenvolvimento de um pipeline de coleta de dados que combina aprendizado de máquina para filtragem, validação por especialistas e crowdcoding em larga escala para classificar enunciados programáticos de partidos em 12 países OCDE entre 1970 e 2020. Esse pipeline permite distinguir referências positivas à igualdade econômica de outras categorias de igualdade — pré-requisito, segundo os autores, para explicar por que os partidos respondem ou não respondem à desigualdade econômica.
+
+---
+
+## Por que Partidos Reagem a Mudanças, Não a Níveis de Desigualdade (pp. 347–351)
+
+### Por que partidos não respondem: revisão da literatura cética [§12–§15]
+
+A seção teórica começa mapeando as tradições que levam a expectativas negativas quanto à responsividade partidária à desigualdade. Os autores identificam três corpos de literatura.
+
+O primeiro é a literatura sobre transformação dos sistemas partidários, clivagens e a "morte da classe" (Häusermann e Bornschier 2023; Marks et al. 2021). Nessa perspectiva, a tertiarização da economia reconfigurou os grupos de suporte eleitoral da esquerda: as novas classes médias educadas — os "profissionais socioculturais" (Beramendi et al. 2015) — são, em média, mais abastadas, mais escolarizadas e mais orientadas a questões socioculturais do que econômicas. Como resultado, redistribuição, nivelamento e consumo do Estado de bem-estar tornaram-se menos centrais para os grupos eleitorais nucleares da esquerda contemporânea, ainda que o foco empírico dessa tradição recaia mais sobre recalibração do que sobre desigualdade per se.
+
+> **Nota:** Os autores observam que, embora Kitschelt (1994) e Häusermann e Kitschelt (2024) sejam obras centrais nessa tradição, o foco delas recai sobre recalibração do Estado de bem-estar, e não sobre desigualdade e redistribuição diretamente. Isso implica que a evidência de "morte da resposta redistributiva" nessa tradição é inferida, não diretamente testada. [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/111334221/3d7baa52-b40c-4acb-b003-5ee05a60c75f/why_inequalities_persist_parties_nonresponses_to_economic_inequality.pdf?AWSAccessKeyId=ASIA2F3EMEYEYJZEW7W4&Signature=lU%2F7lblRrTLwJ4FTyihyf2z8FHQ%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEF4aCXVzLWVhc3QtMSJHMEUCIHy6DOxSqLPbgsN0pmDDNsM8sianNKKv4xNAu%2BaT6BwZAiEAiO7lMEyPlfDn1zjLCraHEl1Tdo%2B1BI0hRGiZKybYgSUq8wQIJxABGgw2OTk3NTMzMDk3MDUiDK0LIyRqiH%2Ft3OxGeCrQBFhCZa7C1qOn8qlSoo2CxKuImJ7d58hMGrTF1KQuzTwxt9DA0YY0PliFluj7S81DQTafwLnKGorgLgH3ZLySnYY3m5UjHY1rQj%2FPshlM2lrb0WO1p8x%2B82AAcqyGKzghI9AWrCvWKlfGf0Avlnf2fcF99kEiAcnALkZAuHbBP6y4LorfMpsflqZO4DrqRGkXw5QwqH3gRL594JpmuxA450Ked3FjIzmb7cXoA98MmZOFk6QeztnlCUbfonPR1h5LUZrP44k%2F59aGIi20FMuqD8GiufLVRghAcE10C9ZssKbYfWwvxYH7K08zc6CGMA8x5AAueMwoa5EfuKJoZ8FegeWqBKfmBzo8%2F1SR735VUdI5fF5bx8XR50l22d4beJ5qRv8xFoKUt8hS1dP1N%2F31JMJPnNVt10SHRVkznyEqNyutbjO3YQ9EOkdQ0heb0UFljkvhnE5tpaM9pA3Grjulxqqs0XeBEjuAVEBjHH6ghYqrnASwOIwLiTBucvE0R4WXe1OHJj6GgggU9h3%2Fqq1xFo%2FhEe3DSlUUskkZ0KBxMNgRrG%2BzdZUAkUgYdTjKNhyqX2pQpIM5d95tommdr3iqyEjh41LYx0LwgUxYqT%2B91ep9gRTXEX4XivSXKVV8CNJMIQuWIpoKoOMWNHfJjW00od7RI5nRxqFDTcYGbJ1fSvjoFYK4mqWTHvrvlkHx4dxVjPWu1gFgRCLmn7k6nDFz3dRKVC4qd95kpTOFPK0oF1cAoggawQZaeqrfqCbxWjTPF2rGdMDqct6MEJ21rKJCuY4w15XD0AY6mAHyfAZeLKez%2FrSTRZi2UKkTUBtcsN21WauNFBAGUyJRdPZdSmEyjs3%2FmAZWsIPPzVwT%2BMy9mJwx0wTmXs8czXvGpDVMwZ%2FC1mWO2%2BqmCk2rUH5B9iPZTUQEkSEetq%2BxSR8lpXLDRn915LNg39Noe1iRBPUH6XNRlIdTdHqQORPMvLruhm8vq59wt6nEyVkTLUIWcOD4Cdzj5w%3D%3D&Expires=1779486766)
+
+O segundo corpo é o das pesquisas histórico-comparadas que investigam as mudanças na relação entre partidos de esquerda e a classe trabalhadora. Para os Estados Unidos, trabalhos como Eidlin (2018) e Ferguson e Rogers (1986) contestam a narrativa de que os Democratas se moveram à direita por mudança nas preferências do eleitorado, enfatizando em vez disso o declínio dos sindicatos e a crescente importância das doações empresariais. Para o Reino Unido, Evans e Tilley (2017) documentam o abandono da classe trabalhadora pelo Partido Trabalhista como um processo interativo de mudança eleitoral e exclusão política. Ambos os casos ilustram como prioridades estratégicas e mudanças nos grupos de suporte enfraqueceram os incentivos da esquerda para endereçar disparidades materiais.
+
+O terceiro corpo é a literatura sobre "democracia desigual", que examina a ligação entre preferências de grupos econômicos e políticas públicas. Evidências convergentes para os Estados Unidos (Bartels 2008; Gilens 2012; Gilens e Page 2014), Europa (Elsässer, Hense e Schäfer 2021; Mathisen 2023; Schakel 2021) e comparativamente (Lefkofridi e Giger 2020; Lupu e Warner 2022) sugerem que governos produzem resultados políticos enviesados em favor dos mais ricos, com pouca ou nenhuma influência dos mais pobres. Os autores reconhecem que, embora essa literatura forneça contexto crucial, ela não avalia diretamente as respostas programáticas dos partidos — que é o que o artigo se propõe a fazer.
+
+### Por que partidos respondem: responsividade programática [§16–§18]
+
+Em contraste com a literatura cética, uma tradição específica de pesquisa em economia política argumenta que partidos de esquerda ajustam suas plataformas em resposta à desigualdade. O argumento central desta literatura parte do teorema do eleitor mediano (Meltzer e Richard 1981), mas o desloca: dado que o eleitor mediano raramente é beneficiário líquido dos sistemas de transferência (Milanovic 2000), os incentivos da esquerda são moldados pelas condições materiais de suas constituências abaixo da mediana. À medida que eleitores "caem para categorias socioeconômicas mais baixas" em contextos de alta desigualdade (Tavits e Potter 2015, 744), tornam-se mais receptivos a apelos redistributivos, gerando dois mecanismos: expansão do share do eleitorado em dificuldade (Tavits e Potter 2015) e ampliação da lacuna entre grupos de baixa e média renda (Pontusson e Rueda 2010), ambos reforçando os incentivos redistributivos da esquerda.
+
+> **Nota :** Os autores registram uma inconsistência metodológica reveladora nos estudos que afirmam basear-se em grupos abaixo da mediana: tanto Tavits e Potter (2015) quanto Pontusson e Rueda (2010) utilizam, na prática, medidas que não capturam a situação dos mais pobres — respectivamente o Gini pré-impostos e o share do top 1%. Essa inconsistência entre teoria (grupos abaixo da mediana) e operacionalização (medidas que não os capturam) é um dos argumentos centrais para justificar os novos dados introduzidos no artigo.
+
+Os autores reconhecem que a mobilização de grupos de baixa renda condiciona a responsividade da esquerda (Pontusson e Rueda 2010): alta desigualdade dificulta essa mobilização (Anderson e Beramendi 2012), o que constitui apenas um dos múltiplos fatores sistêmicos que constrangem as respostas partidárias.
+
+### Os três mecanismos: visibilidade, mobilização e viés do status quo [§19–§25]
+
+Os autores desenvolvem com mais detalhe os três argumentos já introduzidos na abertura do artigo.
+
+Para a **visibilidade**, o argumento recorre a evidências empíricas sobre cobertura midiática da desigualdade: McCall (2013) para os EUA e Schröder e Vietze (2015) para a Alemanha mostram que a atenção midiática à desigualdade não reflete seus níveis reais, focando em vez disso em *disparidades crescentes*. Isso implica que a desigualdade persistentemente alta permanece invisível ao público e, por conseguinte, não cria os incentivos para que partidos respondam via ênfase em igualdade econômica. A desigualdade em alta, ao contrário, é nova, tem maior valor-notícia e produz conflitos tangíveis — gerando cobertura que, por sua vez, cria incentivos para a resposta da esquerda.
+
+Para a **mobilização**, o argumento formaliza o mecanismo de supressão eleitoral: a desigualdade alta deprime o comparecimento entre eleitores de baixa renda (Fenzl 2018; Gallego 2015; Mahler 2008; Solt 2008), que constituem ainda o núcleo da base eleitoral da esquerda (Abou-Chadi e Hix 2021; Pontusson e Rueda 2010). Com sua base encolhida, partidos de esquerda têm incentivos para migrar para o centro e apelar a eleitores moderados (Anderson e Beramendi 2012; Barth, Finseraas e Moene 2015), abandonando plataformas redistributivas fortes. Os autores apontam em rodapé uma limitação importante: o argumento de turnout é mais evidência *contra* efeitos de nível do que *a favor* de efeitos de mudança, já que assumiria que os partidos antecipam barreiras futuras de mobilização — premissa que não é explicitada na teoria.
+
+Para o **viés do status quo**, os autores mobilizam a literatura de psicologia política. Indivíduos legitimam os níveis de desigualdade existentes por meio de justificação do sistema (Jost, Banaji e Nosek 2004) e crenças meritocráticas (Mijs 2021), ajustando suas expectativas do que constitui desigualdade "justa" ao nível real — ainda que persista uma lacuna entre ideal e real. Por contraste, experimentos de Kuziemko et al. (2015) e McCall et al. (2017) mostram que o conhecimento de desigualdade *crescente* — não de níveis — aumenta o apoio a redistribuição. Isso implica que o viés do status quo inibe respostas a níveis, mas não a aumentos.
+
+::: {.callout-note icon=false}
+## Expectativas formais
+
+**Expectativa 1:** Nem partidos de esquerda nem de direita são responsivos a níveis elevados de desigualdade.
+
+**Expectativa 2:** Partidos de esquerda enfatizam igualdade econômica de classe em resposta a desigualdade crescente. Partidos de direita permanecem não responsivos ao aumento de desigualdade.
+:::
+
+### Heterogeneidade entre países [§26–§28]
+
+Os autores reconhecem que fatores sistêmicos e contextuais modulam os efeitos esperados. Três dimensões são antecipadas para guiar as análises de robustez: (1) **regimes de bem-estar**: Estados de bem-estar universais escandinavos podem politizar a desigualdade preventivamente, mesmo quando os níveis são baixos (Svallfors 1997; Esping-Andersen 1990), ao contrário dos modelos Anglo-Saxões de mercado; (2) **competitividade do sistema partidário**: maior número de partidos efetivos e entrada de novos partidos aumentam os incentivos de resposta, especialmente sob representação proporcional (Iversen e Soskice 2006; Anderson e Beramendi 2012); (3) **sistema eleitoral**: representação proporcional tende a amplificar a responsividade da esquerda por criar pressão competitiva e ameaça de novos partidos. Estas dimensões serão retomadas na análise de robustez.
+
+---
+
+## Novos Dados: Conceitos de Igualdade Partidária versus Medidas Existentes (pp. 351–352)
+
+### O problema de mensuração dos estudos precedentes [§29–§33]
+
+Esta seção demonstra empiricamente o problema que motiva o novo conjunto de dados. Os dois estudos mais importantes sobre respostas programáticas dos partidos à desigualdade — Pontusson e Rueda (2010) e Tavits e Potter (2015) — reconhecidamente não capturaram ênfase em redistribuição e igualdade econômica stricto sensu, mas sim índices amplos que combinam múltiplas dimensões de igualdade.
+
+Os autores ilustram o problema com exemplos concretos de declarações de manifestos que foram utilizadas nesses estudos como evidência de "apelos econômicos redistributivos" (Tavits e Potter 2015, 744), mas que claramente não o são: a menção do Partido Democrata americano à eliminação de mascotes esportivas de estereótipos depreciativos (2016), a defesa do Partido Verde do Canadá da dignidade das pessoas com deficiência (2008), ou a declaração do Labour britânico de que "as diferenças das pessoas não são desculpa para tratá-las mal" (2015). Estas são claramente declarações sobre direitos iguais e antidiscriminação, não sobre redistribuição de renda ou riqueza. Os autores contrastam esses exemplos com declarações genuinamente redistributivas, como a proposta trabalhista de introduzir um imposto sobre fortunas acima de £100.000 (1974) ou de pedir apenas ao top 5% de contribuintes que pagassem mais para financiar serviços públicos (2017).
+
+A distinção conceitual remonta ao debate entre "política de redistribuição" e "política de reconhecimento" (Fraser e Honneth 2003), e os autores apontam que, no campo da pesquisa sobre desigualdade econômica, o conceito de igualdade econômica refere-se consistentemente a renda e redistribuição — não a direitos grupais. A correlação de apenas 0.19 entre as duas dimensões valida empiricamente a distinção conceitual, e as correlações de ~0.3 entre medidas existentes e a nova medida de igualdade econômica de classe evidenciam que os estudos precedentes mensuraram um constructo distinto.
+
+### O conceito de igualdade econômica de classe [§34]
+
+Os autores adotam o termo **igualdade econômica de classe** (*class-based economic equality*) para a dimensão substantiva de interesse, reconhecendo que direitos iguais podem ter dimensão econômica — mas que essa sobreposição não justifica o uso de indicadores compostos. A ênfase específica em "classe" sinaliza a filiação ao debate distributivo, em contraste com as dimensões de reconhecimento cultural e antidiscriminação.
+
+---
+
+## Crowdcoding de Conceitos de Igualdade em 12 Países (pp. 353–354)
+
+### Pipeline de coleta e validação [§35–§40]
+
+Esta seção descreve detalhadamente o processo de construção do dado. O *crowdcoding* refere-se à coleta ou anotação online de dados mediante julgamentos múltiplos de codificadores não especializados — abordagem apresentada como meio de escalar o julgamento especialista para tarefas ainda demasiado complexas para automação plena (Benoit et al. 2016). Os autores coletaram 965 manifestos partidários de 12 países OCDE (Austrália, Áustria, Canadá, Dinamarca, França, Alemanha, Irlanda, Nova Zelândia, Suíça, Suécia, Reino Unido e Estados Unidos) entre 1970 e 2020, sendo 544 recuperados via API do MARPOR e o restante coletado manualmente de arquivos e bibliotecas.
+
+O pipeline operou em três estágios. Primeiro, seguindo o MARPOR, os manifestos foram segmentados em quasi-frases como unidades de análise semântica — textos anteriores a 1998, não disponíveis em forma digitalizada, foram segmentados por um classificador binário. O processo gerou 850.000 quasi-frases. Segundo, um classificador de regressão logística foi treinado para identificar quasi-frases relacionadas a igualdade, calibrado para alta revocação (recall ≥ 0.80) ao custo de mais falsos positivos; as potencialmente relevantes foram revisadas por assistentes de pesquisa, resultando em aproximadamente 55.451 quasi-frases sobre igualdade e justiça social. Terceiro, essas quasi-frases foram distribuídas no Amazon Mechanical Turk (AMT) de fevereiro a maio de 2022, com cinco julgamentos por unidade, restrição geográfica por IP a países culturalmente similares, e controle de qualidade por conjunto de teste validado unanimemente por três especialistas.
+
+Ao todo, 293 trabalhadores contribuíram, com o trabalhador modal codificando 180 unidades. As codificações foram agregadas por voto majoritário; aproximadamente 1,5% das unidades sem categoria modal foram excluídas como indecidíveis. A qualidade foi avaliada por alfa de Krippendorff de 0.72 entre a multidão e os especialistas (2.904 unidades codificadas), com valores por país entre 0.6 e 0.85 — considerado como concordância muito boa pelos padrões da análise de conteúdo quantitativa.
+
+> **Nota :** Os autores fornecem detalhes éticos relevantes: o procedimento foi aprovado pelo data officer da Universidade de Konstanz sem preocupações éticas; não houve engano, a remuneração atendeu ao salário mínimo local, e as instruções de codificação são reproduzidas no Apêndice A4.
+
+---
+
+## Desigualdade Econômica: Escolhas Conceituais (pp. 354–355)
+
+### Limitações das medidas existentes e a escolha do share dos 50% inferiores [§41–§44]
+
+Os autores justificam a escolha de medidas de desigualdade que capturam a posição relativa de grupos em vez da dispersão geral da renda. O coeficiente de Gini, embora amplamente utilizado, é particularmente sensível a deslocamentos de renda no meio da distribuição (Atkinson 1970, 256–7), mascarando variações-chave entre grupos (Blesch, Hauser e Jachimowicz 2022) e não refletindo adequadamente a situação relativa dos eleitores de baixa renda. O share do top 1% tampouco captura se os grupos de baixa renda estão perdendo terreno em relação à classe média ou ao topo.
+
+A medida central adotada é o **share dos 50% inferiores da renda** (*below-median-income share*), derivada do World Income Database (WID), que combina contas nacionais, pesquisas e dados fiscais para a mais ampla cobertura comparativa disponível (Piketty e Saez 2014). Essa medida reflete diretamente a parcela da renda total que cabe aos grupos de baixa renda, alinhando-se ao argumento de que a esquerda responde às condições econômicas de sua constituência de baixa renda. Medidas complementares incluem as razões 90–50 e 90–10 (capturando a posição relativa das extremas e medianas do grupo abaixo da mediana) e — por razões de comparabilidade com estudos anteriores e relevância no debate público — o Gini (SWIID de Solt 2020) e o share do top 1%.
+
+---
+
+## Dados e Métodos (pp. 354–356)
+
+### Variável dependente, independentes, controles e especificação do modelo [§45–§52]
+
+A amostra cobre 12 países OCDE com variações relevantes em termos do papel do Estado, instituições e tipo de economia de mercado. A variável dependente é o share de declarações positivas de igualdade econômica como proporção do total de quasi-frases do manifesto de um partido em uma eleição. Para ilustrar a variação: em 2019, o Partido Social-Democrata dinamarquês (*Socialdemokratiet*) dedicou 8,4% (238/2.842) de suas declarações à igualdade econômica, os Conservadores dedicaram 2,5% (28/1.131), e o Partido Socialista (*Socialistisk Folkeparti*) liderou com 11,7% (84/719). A média entre os 12 países é de 3,2%.
+
+As variáveis independentes são todas as medidas de desigualdade de mercado descritas acima, mensuradas no nível do país no ano anterior à eleição (L1 para níveis) ou como primeiras diferenças entre t₀ e t₋₁ (D para mudanças). O uso de desigualdade de mercado (pré-impostos e transferências) é justificado para alinhar com estudos de referência, maior disponibilidade de dados e menor risco de endogeneizar redistribuição na explicação. O partidarismo é codificado conforme as famílias partidárias do MARPOR (Volkens et al. 2021), com partidos de esquerda incluindo social-democratas, verdes e comunistas, e partidos de direita incluindo liberais, democratas cristãos, conservadores e nacionalistas.
+
+Os controles incluem turnout eleitoral (como proxy para mobilização de eleitores de baixa renda, derivado do dataset Quality of Government de Teorell et al. 2022), além de controles partidários (idade do partido, tamanho do partido, status de partido de nicho) e de país (número efetivo de partidos — ENP, crescimento do PIB). A especificação do modelo intencional­mente imita Tavits e Potter (2015) para permitir comparação direta, estimando:
+
+\[
+\text{emphasis}_{cpe} = \beta_0 + \beta_1 \text{INEQ} + \beta_2 (\text{INEQ} \times \text{partisanship}) + \beta_3 \text{partisanship} + Z\gamma + \delta_c + \delta_p + \epsilon_{cpe}
+\]
+
+onde INEQ é um substituto para as medidas de desigualdade, *partisanship* é um dummy que denota partidos de direita, \(Z\gamma\) é uma matriz de controles com seus coeficientes, e \(\delta_c + \delta_p\) são interceptos aleatórios no nível de país e partido. Nessa especificação, \(\beta_1\) representa a resposta dos partidos de esquerda a níveis ou mudanças de desigualdade, e \(\beta_2\) captura a diferença de resposta entre partidos de direita e esquerda.
+
+---
+
+## Resultados (pp. 355–360)
+
+### Respostas a níveis de desigualdade [§53–§58]
+
+Os autores apresentam os resultados para os dois conjuntos de expectativas separadamente. Quanto aos níveis de desigualdade (coluna esquerda da Figure 2, modelos "L1" da Table 1), a evidência corrobora a Expectativa 1: não há resposta positiva de partidos de esquerda a níveis elevados de desigualdade.
+
+O resultado mais relevante diz respeito ao share dos 50% inferiores. O coeficiente positivo de \(\beta_1 = 0.15\) (se = 0.08, marginalmente significativo) indica a tendência de partidos de esquerda a *de-enfatizar* igualdade econômica de classe quando a desigualdade é alta — ou seja, quando a participação dos mais pobres na renda é baixa. O termo de interação (\(\beta_2 = -0.21\), se = 0.09) indica que esse padrão não se replica nos partidos de direita. Em termos substantivos: em contextos de alta desigualdade (10º percentil do share dos 50% inferiores), tanto partidos de esquerda quanto de direita dedicam cerca de 3% de seus manifestos a declarações igualitárias econômicas — sem diferença partidária discernível. Em contextos de baixa desigualdade (90º percentil do share), a divergência se abre: a esquerda dedica 4,9% e a direita 2,1%. A convergência em contextos de alta desigualdade é puxada pela *de-ênfase da esquerda*, não por aumento da direita.
+
+Para as razões de renda (90–50 e 90–10), o padrão é similar: em níveis baixos de desigualdade, partidos de esquerda dedicam ~4,8% dos manifestos à igualdade econômica, em contraste com ~2,3% da direita; quando a desigualdade é alta (90º percentil: o percentil 90 ganha aproximadamente o triplo do percentil 50), as diferenças desaparecem, com ambos os grupos convergindo para ~2,3%. Para o top 1%, os coeficientes são estatisticamente insignificantes. Para o Gini, contrariando evidências anteriores de Tavits e Potter (2015), não há reação da esquerda a níveis mais altos (\(\beta_1 = 1.91\), n.s.), o que os autores atribuem à insensibilidade do Gini à situação dos mais pobres.
+
+::: {.callout-important}
+## Achado crítico sobre níveis
+
+A esquerda de-enfatiza igualdade econômica precisamente quando os grupos de baixa renda mais precisariam de resposta redistributiva — em contextos de alta desigualdade. Esse resultado corrobora a visão de que a esquerda abandonou seus grupos nucleares mais marginalizados.
+:::
+
+### Respostas a mudanças de desigualdade [§59–§64]
+
+Para as mudanças de desigualdade (coluna direita da Figure 2, modelos "D" da Table 1), os resultados alinham-se com a Expectativa 2. Partidos de esquerda respondem a aumentos de desigualdade com mais ênfase em igualdade econômica, enquanto partidos de direita permanecem não responsivos.
+
+Quanto ao share dos 50% inferiores, o coeficiente de \(\beta_1 = -0.64\) (se = 0.27) indica que quando os 50% mais pobres perdem participação na renda, a esquerda aumenta sua ênfase em igualdade econômica. Em termos substantivos: uma diminuição anual de 0,7 ponto percentual no share dos 50% inferiores (10º percentil dos casos) leva os partidos de esquerda a dedicar 4,8% *a mais* de seus manifestos à igualdade econômica. Em contraste, quando os mais pobres ganham participação (90º percentil), a esquerda reduz sua ênfase em ~15% — uma mudança superior a um desvio-padrão considerando todos os partidos. O termo de interação (\(\beta_2 = 0.99\), se = 0.34) confirma que esse padrão não se aplica aos partidos de direita.
+
+Para as razões de renda, o padrão se replica: ao longo dos percentis 10 a 90 de mudança na razão 90–10, partidos de esquerda aumentam o share de declarações igualitárias em 14,1%; para a razão 90–50, o aumento é de 8% (0,3 pontos percentuais). Em ambos os casos, linhas planas para a direita confirmam a não responsividade desses partidos.
+
+A exceção notável é o top 1%: nenhum partido responde a mudanças no share do percentil mais rico (\(\beta_1 = -0.11\), n.s.; \(\beta_2 = 0.01\), n.s.). O resultado alinha-se à intuição teórica dos autores de que ganhos em um grupo pequeno e concentrado no topo são menos visíveis e menos tangíveis. Para o Gini, a ausência de resposta a mudanças (\(\beta_1 = -0.14\), n.s.) confirma a inadequação dessa medida para capturar os incentivos eleitorais relevantes — mudanças anuais típicas no Gini (~0,1 unidade) são excessivamente marginais para serem percebidas pelos partidos.
+
+Adicionalmente, os autores testam se a ênfase em direitos iguais depende de níveis ou mudanças de desigualdade econômica: os coeficientes relevantes são todos estatisticamente indistinguíveis de zero, confirmando que a dimensão de direitos iguais segue sua própria trajetória, independente dos movimentos de desigualdade econômica.
+
+### Resumo dos resultados e robustez [§65–§66]
+
+Os autores sintetizam: ao contrário dos estudos anteriores baseados em medidas multidimensionais que conflacionam igualdade econômica com outros aspectos, os resultados fornecem no máximo evidências parciais para a ideia otimista de que a desigualdade é autocorretiva nas democracias. Em contextos de alta desigualdade, esquerda e direita tornam-se indistinguíveis na ênfase à igualdade econômica — o que sugere abandono dos grupos mais marginalizados. Quando a desigualdade está em alta, a esquerda ainda reage. Nenhum partido reage a ganhos do top — o que ajuda a explicar por que a concentração de renda no topo cresce tão rapidamente.
+
+A seção de robustez (SI Apêndice C) reporta testes com diversas especificações de modelo (efeitos fixos, defasagens), controles adicionais (sistema eleitoral, redistribuição, dummies de décadas), categorizações alternativas de partidos, exclusão de observações (partidos de franja com menos de 2%, outliers, dados imputados pelo WID), estimativas de erro padrão clusterizados por país, e interações não lineares via KRLS (*Kernel Regularized Least Squares*). O procedimento Romano-Wolf foi aplicado para controlar a taxa de erro nos múltiplos testes estatísticos. Em geral, esses testes corroboram os resultados.
+
+---
+
+## Análises Adicionais (pp. 360–361)
+
+### Welfare states, indicadores alternativos, salários reais e heterogeneidade [§67–§72]
+
+::: {.callout-tip}
+## Implicação de heterogeneidade contextual
+
+Embora os resultados principais sejam robustos a diferentes recortes temporais e geográficos, a lógica preventiva dos Estados de bem-estar escandinavos — politizar a desigualdade mesmo quando baixa — não encontra confirmação estatisticamente significativa na amostra de apenas dois países social-democratas. Isso aponta para uma limitação importante da comparação com apenas 12 países.
+:::
+
+A análise adicional contempla quatro eixos. Primeiro, os autores investigam se o resultado de nível poderia refletir um padrão escandinavo de politização preventiva — isto é, Estados de bem-estar igualitários discutindo mais desigualdade quando os níveis são baixos. Duas estratégias empíricas são empregadas: inclusão de dummy para regimes social-democratas (não altera os resultados) e uso da "agenda do sistema partidário" como proxy para politização (Green-Pedersen e Mortensen 2015). Nenhuma das estratégias sugere politização preventiva em contextos igualitários — embora os autores reconheçam que, com apenas dois países social-democratas na amostra, a evidência seja tentativa.
+
+Segundo, indicadores alternativos (share dos 40% inferiores, share do top 10%, razão 60:40) produzem padrões muito similares aos da análise principal. Destaque para a razão 60:40, que exibe susceptibilidade política particularmente clara — o que os autores vinculam ao trabalho de Kevins et al. (2018), que identifica a classe média alta como principal "régua de comparação" da desigualdade nos indivíduos.
+
+Terceiro, controles para salários reais de trabalhadores de produção não alteram os resultados (Bottom 50 (D): \(\beta_1 = -0.65\), se = 0.27; \(\beta_2 = 0.32\), se = 0.29). Os coeficientes permanecem significativos e consistentes com a análise principal, sugerindo que a relação entre desigualdade e políticas públicas não é afetada por variações nos salários reais.
+
+### Ganhos do top 1% e fim da expansão [§73–§77]
+
+A análise de heterogeneidade ainda testa uma hipótese específica para os ganhos do top 1%. Os autores mostram que a ausência de resposta a aumentos na renda do 1% mais rico permanece inalterada mesmo quando se introduzem interações com período e estrutura partidária. A interpretação proposta é que ganhos no topo são politicamente menos visíveis e mais fáceis de acomodar cognitivamente do que perdas ou ganhos na base da distribuição. Em outras palavras, o topo pode enriquecer sem provocar o mesmo tipo de mobilização que uma deterioração na posição relativa dos estratos mais baixos.
+
+Os autores também verificam se os resultados seriam diferentes em períodos mais recentes, especialmente após a Grande Recessão. O padrão não muda de modo substantivo: a esquerda continua sensível a aumentos na desigualdade, mas não a seus níveis. Essa estabilidade temporal reforça a ideia de que o mecanismo não é conjuntural, mas estrutural.
+
+### Interpretação substantiva [§78–§82]
+
+A seção de discussão amarra os resultados à tese mais ampla do artigo. Os autores argumentam que a esquerda não corrige a desigualdade alta porque os contextos de alta desigualdade reduzem simultaneamente a visibilidade do problema, a mobilização da base mais pobre e a disposição cognitiva para tratá-lo como injustiça. Quando a desigualdade aumenta, porém, ela se torna mais visível, mais politizável e mais capaz de ativar respostas redistributivas.
+
+O ponto mais forte da interpretação é que ela reconcilia resultados contraditórios da literatura sem precisar escolher entre "a esquerda responde" e "a esquerda não responde". O que muda é o objeto empírico: níveis versus mudanças, e igualdade econômica versus igualdade de direitos. O ponto mais vulnerável, contudo, é que essa síntese depende de múltiplos mecanismos não identificados separadamente; assim, o artigo explica bem o padrão agregado, mas não discrimina com plena nitidez qual mecanismo pesa mais em cada contexto.
+
+---
+
+## Conclusão (pp. 361–364)
+
+### O efeito de catraca [§83–§88]
+
+A conclusão retoma a tese em forma condensada: partidos de esquerda respondem a aumentos de desigualdade, mas não a níveis altos de desigualdade; partidos de direita não respondem a nenhum dos dois. Os autores nomeiam a implicação central como um **efeito de catraca**: a desigualdade crescente pode desencadear reação política, mas a desigualdade já instalada tende a se estabilizar, porque os mecanismos que poderiam corrigi-la são enfraquecidos pela própria estrutura desigual.
+
+Essa conclusão é importante porque reposiciona o debate sobre responsividade democrática. A democracia não aparece como mecanismo autocorretivo automático, ao menos não em relação a desigualdades profundas e persistentes. Em vez disso, ela parece reagir mais facilmente a mudanças recentes do que a estruturas duráveis, o que ajuda a entender por que a desigualdade pode continuar alta por longos períodos mesmo sob competição partidária.
+
+### Contribuição para o debate [§89–§94]
+
+Os autores encerram apontando três contribuições. Primeiro, a contribuição substantiva: uma explicação para a persistência da desigualdade que não depende de cinismo democrático total, mas de um conjunto de incentivos assimétricos. Segundo, a contribuição metodológica: uma nova medida de igualdade econômica de classe, que separa redistribuição de reconhecimento e corrige um problema de mensuração que afetava a literatura. Terceiro, a contribuição teórica: a distinção entre nível e mudança de desigualdade, que ajuda a reconciliar resultados anteriores aparentemente inconsistentes.
+
+Eles também sugerem uma agenda futura sobre *predistribution* e perfis programáticos mais amplos de partidos, além de pesquisas em outros contextos para testar a generalização do padrão. O encerramento reafirma que a desigualdade persiste não porque não seja politicamente relevante, mas porque sua persistência altera os próprios incentivos de resposta.
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+A tese central do texto é que partidos — especialmente os de esquerda — respondem a *aumentos* de desigualdade econômica, mas não a seus *níveis* elevados, o que ajuda a explicar por que a desigualdade permanece alta nas democracias contemporâneas. O argumento é causal-explicativo e combina teoria de responsividade partidária, mecanismos cognitivos e um novo desenho de mensuração para mostrar que a aparente contradição da literatura decorre de distinguir mal desigualdade econômica de outras formas de igualdade e de confundir níveis com mudanças. O texto demonstra, com dados comparados de 12 países OCDE entre 1970 e 2020, que a esquerda reage ao agravamento da desigualdade, mas não corrige a desigualdade já entrincheirada; o restante fica como explicação plausível e agenda para testes mais diretos. Sua contribuição mais ampla é mostrar que democracias podem reagir a deteriorações visíveis sem produzir autocorreção estrutural, o que é central para debates sobre representação, desigualdade e persistência institucional.
+:::

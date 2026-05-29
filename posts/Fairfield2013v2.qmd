@@ -1,0 +1,212 @@
+---
+title: "Fichamento: Going Where the Money Is: Strategies for Taxing Economic Elites in Unequal Democracies"
+subtitle: "Fairfield, T. (2013). Going where the money is: Strategies for taxing economic elites in unequal democracies. *World Development, 47*, 42–57. https://doi.org/10.1016/j.worlddev.2013.02.011"
+author: "Tales Mançano"
+date: "2026-05-25"
+last-updated: "2026-05-25"
+coverage: "pp. 42–57"
+categories: [Annotated Bibliography, Political Economy, Taxation, Inequality, Comparative Politics, Latin America, 2013, 2010s]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+    execute: false
+---
+
+
+::: {.callout-note collapse="true" icon=false}
+## Informações Técnicas e BibTeX
+
+```
+Última atualização: 2026-05-25
+Modelo: Perplexity
+Prompt Version: v17.4 · 2026-05-13
+Gerado em: 2026-05-25T12:21:00-03:00
+Ocasião da Leitura: [Para preenchimento manual do usuário]
+```
+
+**Entrada BibTeX → Fairfield2013**
+
+```bibtex
+@article{Fairfield2013,
+author= {Fairfield, Tasha},
+title = {Going Where the Money Is: Strategies for Taxing Economic Elites in Unequal Democracies},
+year= {2013},
+journal = {World Development},
+volume= {47},
+pages = {42--57},
+doi = {10.1016/j.worlddev.2013.02.011}
+}
+```
+
+:::
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v17.4*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | O texto parte de um puzzle explicativo clássico da economia política tributária: por que reformas para taxar elites conseguem avançar em alguns contextos, apesar da oposição previsível dos grupos afetados? A formulação é robusta porque identifica um problema real de ação estratégica, mas a vulnerabilidade está em concentrar a explicação nas estratégias do governo sem separar completamente efeito causal de condições de contexto favoráveis. | Pergunta central reconstruída: como policy entrepreneurs conseguem contornar obstáculos políticos para taxar elites econômicas em democracias desiguais? A pergunta é explicativa e orientada a mecanismo. |
+| Questões Secundárias | As subperguntas organizam-se em torno de quais estratégias funcionam, por quais mecanismos e sob quais condições. A questão secundária mais importante é quando estratégia de design e framing se reforçam ou entram em tensão. | Quais estratégias mobilizam apoio popular ou temperam a antagonismo das elites; em que circunstâncias cada uma é mais eficaz; e quais trade-offs fiscais e políticos cada estratégia produz. |
+| Puzzle-Type | O puzzle é de mudança institucional incremental sob veto de atores poderosos. Ele é genuíno e comparável entre casos, porque o texto mostra resultados distintos sob poder empresarial alto, mas a generalização para outros domínios depende da semelhança entre os mecanismos de poder e a estrutura da coalizão. | Puzzle explicativo sobre reforma fiscal gradual, com foco em mudança institucional e avaliação de estratégia política. |
+| Conclusão / Argumento Central | A tese é clara: governos podem aprovar aumentos modestos de tributação direta sobre elites usando seis estratégias que operam por dois mecanismos, mobilização de apoio público e temperamento da animosidade das elites. O claim forte não é que estratégias superem poder estrutural, mas que alterem a margem de manobra. | Reform strategies can have an important causal effect on the fate of tax reform initiatives; elas tornam possíveis reformas incrementais que de outro modo fracassariam. |
+| Métodos | O estudo combina revisão de literaturas diversas, seleção intencional de casos e process tracing com entrevistas, documentos e notícias. A inferência é mais forte dentro dos casos do que entre países; isso é metodologicamente apropriado para mecanismos, mas limita afirmações de efeito médio e cria risco de seleção de casos positivos e de narrativas retrospectivas. | Estudo comparativo qualitativo com process tracing em Chile, Argentina e Bolívia; cobertura parcial do artigo inteiro, pp. 42–57; usa análises dentro do caso e algum raciocínio contrafactual. |
+| Data Generation Process (DGP) | O fenômeno real é a disputa sobre reformas tributárias; ele aparece nas respostas de legisladores, elites e governo, nos enquadramentos públicos e na sequência legislativa. O DGP depende fortemente de elites entrevistadas e da imprensa, o que favorece rastreamento de mecanismos discursivos, mas também pode subestimar dinâmicas informais, preferências privadas e causalidade reversa entre saliência pública e escolha estratégica. | Fenômeno político real -> campanhas, negociações, votação legislativa e protestos -> entrevistas, documentos primários e notícias -> operacionalização em estratégias de reforma -> inferência por process tracing e tests diagnósticos. |
+| Achados e Contribuições | O artigo contribui ao sistematizar seis estratégias: attenuating impact, obfuscating incidence, legitimating appeals, compensation, emphasizing stabilization e linking to popular benefits. O valor analítico está em ligar tipologia a mecanismos e a condições de sucesso, e em mostrar que reformas modestas podem ser viáveis mesmo sob forte poder empresarial. | Evidências de Chile, Argentina e Bolívia ilustram que equity appeals facilitaram reformas no Chile, obfuscation permitiu um imposto na Argentina, e erros de framing e design contribuíram para o fracasso boliviano. |
+| Análise Crítica dos Achados | O argumento responde bem à pergunta porque mostra mecanismos plausíveis e evidência temporal compatível. Ainda assim, o texto depende de inferências contrafactuais fortes: em Chile e Bolívia, parte do efeito atribuído à estratégia pode refletir saliência eleitoral, composição das coalizões e condições partidárias. Em Argentina, o sucesso inicial e o fracasso posterior sugerem que a estratégia funcionou apenas enquanto a incerteza sobre incidência permaneceu tolerável; isso fortalece a tese, mas também revela sua fragilidade temporal. | A evidência é persuasiva para mecanismos, porém a generalização além do universo de reformas tributárias com elites poderosas é limitada; o design captura bem mudanças marginais, não reformas distributivas amplas. |
+| Limitações | Os autores reconhecem o trade-off entre eficácia e custo fiscal, a raridade de algumas estratégias e a limitação do poder de reformar quando elites são muito fortes. Não reconhecem plenamente o quanto a seleção dos casos, a dependência de entrevistas e a ausência de um contrafactual sistemático podem inflar a força causal atribuída às estratégias. | **Reconhecidas:** estratégias têm custos, restrições de aplicabilidade e efeitos limitados. <br> **Não reconhecidas:** seleção de casos, dependência de memória e discurso de elites, e dificuldade de isolar estratégia de conjuntura. |
+| Perspectiva Teórica | O texto dialoga com economia política tributária, business power, fiscal bargaining, welfare-state politics e teoria da mudança institucional gradual. A ontologia implícita é relacional e estratégica: atores respondem a incentivos, enquadramentos e custos políticos, em vez de apenas a estruturas macro. | Tradição de comparative political economy, tax politics, business politics and gradual institutional change; boa adequação entre pergunta, teoria e método. |
+| Principais Referências | A literatura mobilizada é ampla e bem escolhida: Tilly, Levi, Pierson, Hacker e Pierson, Mahoney e Thelen, Collier, Weingast/Bates e autores sobre América Latina como Lieberman, Prichard, Murillo, Luna e Schamis. O diálogo é forte com política tributária e mudança institucional, mas mais seletivo com literatura quantitativa sobre distribuição fiscal e com trabalhos sobre administração tributária comparada. | Referências centrais incluem fiscal bargaining, structural/instrumental power, framing, policy design e gradual institutional change; o texto conversa de forma produtiva com debates clássicos e contemporâneos. |
+| Observações | O artigo é especialmente útil para pesquisas sobre elites, reformas incrementais e coalizões pró-tributação na América Latina. Sua principal força está em mostrar que framing e desenho de política não são ornamentos discursivos, mas variáveis politicamente operativas; sua principal lacuna está em não separar plenamente efeito estratégico, saliência do tema e estrutura partidária. | A inferência é mais convincente como teoria de mecanismos e de escopo do que como lei geral de reforma fiscal. |
+:::
+
+## Mapa Argumentativo {.unnumbered}
+
+| Seção | Título / Tema | Função argumentativa | Contribuição para a tese central |
+|:------|:--------------|:---------------------|:-------------------------------|
+| Introdução | O problema de taxar elites em democracias desiguais | Apresentação do puzzle | Define a dificuldade política central: elites concentradas são a base de arrecadação mais importante, mas também a mais capaz de bloquear a reforma. |
+| Seção 2 | Theoretical Framework | Fundamento teórico | Distingue poder político e poder de investimento das elites e mostra como esses obstáculos podem ser contornados por estratégias de desenho e framing. |
+| Seção 2 | Reform strategies | Tipologia conceitual | Organiza seis estratégias em dois mecanismos e em dois domínios de política, dando ao argumento sua arquitetura analítica central. |
+| Seção 2 | Tax-side strategies | Extensão do argumento | Explica attenuating impact, obfuscating incidence e legitimating appeals como formas de reduzir visibilidade, custo percebido e oposição elite. |
+| Seção 2 | Benefit-side strategies | Extensão do argumento | Mostra como compensation, emphasizing stabilization e linking to popular benefits deslocam a disputa para benefícios e custos mais amplos. |
+| Seção 3 | Case studies and methods | Análise empírica | Expõe o desenho de process tracing e justifica o uso de entrevistas, documentos e jornais para inferir mecanismos causais. |
+| Seção 3 | Chile | Estudo de caso | Demonstra que equity appeals e saliência eleitoral podem abrir espaço para reformas incrementais mesmo contra forte poder empresarial. |
+| Seção 3 | Argentina | Estudo de caso | Mostra que obfuscation pode viabilizar aprovação legislativa, mas também cria fragilidade quando a incidência real se torna contestada. |
+| Seção 3 | Bolívia | Estudo de caso | Ilustra como design inadequado e framing insuficiente podem transformar uma reforma tributária em alvo de protesto popular. |
+| Conclusão | Lessons for tax politics and institutional change | Síntese e agenda | Reafirma que estratégias importam, que seus efeitos são marginais porém relevantes, e que a pesquisa sobre mudança institucional precisa desagregar melhor a política tributária. |
+
+## Introdução (pp. 42–43)
+
+::: {.callout-note icon=false}
+### Puzzle e objetivo [§1–§2]
+
+O artigo começa situando a tributação como um tema politicamente sensível em democracias desiguais, especialmente na América Latina, onde a concentração de renda torna a tributação direta sobre elites uma fonte crucial de receita. A autora sustenta que, justamente porque essas reformas afetam os grupos mais poderosos, sua aprovação enfrenta obstáculos políticos previsíveis, e por isso exige análise sistemática da ação estratégica do governo. 
+
+A pergunta orientadora é como policy entrepreneurs podem contornar esses obstáculos e quanto espaço para reforma conseguem abrir. O texto enfatiza que a literatura existente explica mal a dimensão política da reforma tributária, especialmente quando a discussão se desloca de impostos indiretos para a tributação direta de elites. 
+:::
+
+::: {.callout-note icon=false}
+### Lacuna na literatura [§3–§5]
+
+A autora apresenta três famílias de explicações existentes: a literatura sobre construção estatal e capacidade tributária, a literatura sobre bargaining fiscal e a literatura sobre reformas de VAT sob ajuste estrutural. Cada uma contribui algo, mas nenhuma explica de forma satisfatória como governos contemporâneos podem aumentar a tributação direta sobre elites quando os fatores históricos clássicos já não estão presentes ou não produzem capacidade direta relevante. 
+
+A solução proposta é deslocar o foco analítico para estratégias de reforma, isto é, para variáveis que governos podem manipular diretamente. A introdução já antecipa o núcleo do argumento: reformas incrementais são possíveis mesmo diante de elites poderosas quando o governo mobiliza apoio popular ou reduz a animosidade dos próprios contribuintes de alta renda. 
+
+> **Nota:** A autora não trata a administração tributária como variável neutra: ela reconhece que melhorias institucionais tornaram certas estratégias mais viáveis, mas insiste que capacidade administrativa não explica sozinha o êxito ou fracasso das reformas [nota incluída por relevância argumentativa]. 
+:::
+
+## Quadro teórico (pp. 43–45)
+
+::: {.callout-note icon=false}
+### Poder das elites e mecanismos [§6–§9]
+
+A seção teórica distingue entre **poder de investimento** e **poder político**, equivalentes às noções de structural power e instrumental power na literatura sobre business politics. O primeiro opera quando elites antecipam fuga de capitais, retração de investimento ou efeitos negativos sobre crescimento; o segundo depende de lobby, relações partidárias, acesso institucional e capacidade organizativa. 
+
+A distinção é importante porque permite mostrar que uma mesma reforma pode ser bloqueada tanto por reações de mercado quanto por ação deliberada de grupos empresariais. A autora argumenta que governos podem enfrentar ambos os obstáculos por dois mecanismos gerais: temperar a animosidade das elites ou mobilizar apoio popular contra elas. 
+
+### Tipologia das estratégias [§10–§13]
+
+As estratégias tributárias são classificadas em dois domínios. As tax-side strategies incluem attenuating impact, obfuscating incidence e legitimating appeals; as benefit-side strategies incluem compensation, emphasizing stabilization e linking to popular benefits. Essa tipologia não é apenas descritiva: ela organiza a relação entre instrumento fiscal, mecanismo causal e efeito político. 
+
+A autora insiste que cada estratégia tem limitações próprias. Reduzir impacto pode custar receita; obscurecer incidência pode gerar incerteza; apelos de equidade podem intensificar a oposição das elites; e estratégias de benefício podem criar rigidez orçamentária ou depender de credibilidade estatal. A força do argumento está justamente em tratar as estratégias como instrumentos com alcance e custo diferenciados, e não como receitas universalmente eficazes. 
+
+### Condições de eficácia [§14–§17]
+
+O texto não apresenta as estratégias como substitutos de poder estrutural, mas como formas de operar na margem. Quando elites têm poder forte, as estratégias tendem a produzir reformas modestas, não transformações radicais. Ainda assim, essas reformas podem gerar ganhos fiscais relevantes e se acumular ao longo do tempo. 
+
+Aqui aparece um dos pontos mais fortes do artigo: a compatibilidade entre desenho de política e framing. A autora argumenta que, em muitos casos, talk e design são mutuamente reforçadores, e que a efetividade depende de saliência política, competição eleitoral, estrutura de vínculos eleitorais e capacidade de o governo tornar a reforma credível para públicos distintos. 
+:::
+
+## Estudos de caso e método (pp. 45–47)
+
+::: {.callout-note icon=false}
+### Desenho de pesquisa [§18–§21]
+
+A autora seleciona Chile, Argentina e Bolívia para mostrar como diferentes estratégias operam em contextos de poder empresarial forte, mantendo relativamente constante o tipo de obstáculo político. O método principal é process tracing, apoiado por entrevistas com autoridades, políticos e empresários, além de documentos primários e notícias. 
+
+Esse desenho é adequado para testar mecanismos, porque permite observar sequências, percepções e reações em momentos decisivos. A limitação é que a inferência depende fortemente de evidência narrativa e de contrafactuais plausíveis, o que fortalece a identificação de mecanismo, mas não substitui um teste sistemático de alternativas causais. 
+:::
+
+::: {.callout-note icon=false}
+### Chile: poder empresarial e equidade [§22–§28]
+
+No Chile, o poder empresarial era robusto por causa da organização setorial, das ligações partidárias com a direita e da capacidade de coordenação do empresariado. Diante disso, governos de centro-esquerda precisaram recorrer a apelos de equidade, especialmente vertical e horizontal, para avançar reformas modestas. 
+
+Na reforma anti-evasão de 2001, a narrativa governamental combinou combate à evasão com justiça fiscal, associando evasão à imoralidade e à violação de dever cívico. A estratégia pressionou a direita, produziu abstenções e abriu espaço para medidas de ampliação da base do imposto de renda, embora não tenha neutralizado totalmente a resistência empresarial. 
+
+> **Nota :** A evidência de que a estratégia criou “espaço político” é forte, mas a autora também mostra que o governo negociou concessões, o que indica que a equidade foi condição necessária em alguns momentos, não necessariamente condição suficiente. 
+:::
+
+::: {.callout-note icon=false}
+### Chile: 57 bis e saliência eleitoral [§29–§33]
+
+Em 2005, o caso do 57 bis mostra o efeito da saliência eleitoral. Um benefício altamente regressivo para acionistas ricos tornou-se politicamente vulnerável quando a desigualdade entrou no centro da campanha presidencial, e o presidente Lagos aproveitou essa conjuntura para desafiar a direita a eliminar o subsídio. 
+
+A estratégia funcionou porque a reforma era claramente direcionada às elites, dificultando o argumento de que atingiria a classe média. A direita, temendo custos eleitorais por defender um privilégio tão explícito, aceitou a mudança. O texto usa esse caso para mostrar que apelos de equidade são mais eficazes quando a desigualdade está politicamente saliente e quando os vínculos eleitorais tornam custoso ignorar a opinião pública. 
+
+> **Nota :** O caso sugere que o argumento moral foi fortalecido pelo timing eleitoral; sem essa janela, a própria autora indica que a reforma provavelmente teria sido bloqueada como tentativas anteriores. 
+:::
+
+## Caso argentino (pp. 47–49)
+
+::: {.callout-note icon=false}
+### Taxação da dívida corporativa [§34–§40]
+
+Na Argentina, o problema era a resistência do setor financeiro e o risco de fuga de capitais, em um contexto de mobilidade elevada da poupança e memória de instabilidade econômica. A tecnocracia do Ministério da Economia desenhou uma solução alternativa: taxar dívida corporativa em vez de incluir explicitamente os rendimentos de juros na base do imposto de renda. 
+
+A lógica era de obfuscating incidence. Ao tornar menos visível quem efetivamente arcaria com o ônus, o governo conseguiu reduzir a resistência imediata do setor financeiro e obter aprovação legislativa. O ponto decisivo é que o sucesso não dependeu de convencer todos de que a incidência era neutra, mas de introduzir suficiente opacidade para deslocar o conflito político. 
+
+### Fragilidade da estratégia [§41–§45]
+
+A própria obfuscação continha sua vulnerabilidade. Como a incidência real do imposto permanecia controversa, economistas da oposição questionaram as premissas da equivalência entre taxar a dívida e taxar os juros. Isso alimentou a percepção de que o imposto onerava indevidamente pequenas empresas e, quando a oposição venceu, a medida foi desfeita. 
+
+O caso é central para a tese porque mostra um trade-off interno da estratégia: a opacidade que viabiliza aprovação legislativa também cria instabilidade ex post quando a incidência se torna contestada. Em outras palavras, a estratégia funciona politicamente, mas pode falhar temporalmente como solução sustentável. 
+
+> **Nota :** O caso argentino é o melhor exemplo do artigo para distinguir sucesso de curto prazo e sustentabilidade de longo prazo; a autora apresenta isso explicitamente como um drawback estrutural da estratégia de obfuscação. 
+:::
+
+## Caso boliviano (pp. 49–51)
+
+::: {.callout-note icon=false}
+### Projeto fracassado e protesto [§46–§52]
+
+Na Bolívia, o governo precisava fechar o déficit sem recorrer a impostos amplos sobre consumo, que seriam politicamente explosivos. A solução foi propor um imposto de renda individual progressivo, mas o desenho foi inadequado e o governo não conseguiu enquadrá-lo como reforma claramente voltada às elites. 
+
+O resultado foi paradoxal: o projeto provocou protesto popular em vez de apoio. Trabalhadores, sindicatos e organizações indígenas interpretaram a proposta como um imposto sobre eles, ainda que a maioria não fosse de fato afetada. O artigo usa esse caso para mostrar que ausência de clareza sobre incidência pode ser fatal, sobretudo quando o governo subestima a capacidade de mobilização de setores populares. 
+
+### Incidência e erro estratégico [§53–§57]
+
+A autora sustenta que a proposta falhou por duas razões articuladas: design pouco progressivo aos olhos do público e apelos de equidade insuficientes. O governo não conseguiu assegurar que a sociedade entenderia quem seria realmente tributado, e isso permitiu que a oposição enquadrasse a reforma como uma ameaça aos trabalhadores. 
+
+O caso também serve para qualificar a tese geral. Mesmo quando elites têm forte poder político, uma reforma pode fracassar não só por oposição das elites, mas por reação popular mal administrada. Isso reforça a importância do framing e do targeting: não basta querer tributar mais; é preciso tornar politicamente legível quem paga e por quê. 
+:::
+
+## Conclusão (pp. 51–57)
+
+::: {.callout-note icon=false}
+### Síntese dos resultados [§58–§62]
+
+A conclusão reafirma que o poder empresarial foi forte nos três casos, mas também que as estratégias de reforma ajudaram a explicar diferenças nos resultados. No Chile, equity appeals criaram espaço político para reformas modestas; na Argentina, obfuscação permitiu aprovação, mas não sustentação; na Bolívia, design inadequado e apelos fracos levaram ao fracasso. 
+
+A contribuição mais geral é metodológica e teórica ao mesmo tempo. Metodologicamente, o texto mostra como process tracing pode revelar mecanismos entre discurso, percepção e votação legislativa. Teoricamente, desloca a análise da reforma tributária de determinantes estruturais amplos para estratégias concretas de policy-making. 
+
+### Implicações para agenda [§63–§67]
+
+O artigo argumenta que reformas incrementais podem acumular efeitos significativos ao longo do tempo, mesmo quando mudanças amplas são improváveis. Além disso, sugere que a pesquisa sobre tributação e mudança institucional precisa desagregar melhor o domínio tributário, em vez de tratá-lo como uma categoria homogênea. 
+
+A discussão final também critica abordagens excessivamente gerais sobre mudança gradual. O autor usa os casos para mostrar que layering e displacement não se alinham de forma simples com contextos de veto forte ou fraco, e que a política tributária combina ambos os tipos de mudança em ambientes de forte resistência. Isso amplia a utilidade do artigo para debates sobre mudança institucional comparada. 
+:::
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+O texto sustenta que governos de democracias desiguais podem aprovar aumentos modestos de tributação direta sobre elites quando combinam estratégias de desenho de política e framing que mobilizam apoio popular ou reduzem a resistência das elites, ainda que o poder estrutural e político dessas elites continue impondo limites fortes. O argumento é causal e de mecanismo, não determinista: ele demonstra como certas estratégias alteram o campo de possibilidades da reforma, mas não garante reformas amplas nem sustentáveis em qualquer contexto. A principal contribuição está em transformar “estratégia de reforma” em variável analítica central da economia política da tributação, oferecendo uma tipologia útil para entender por que alguns governos conseguem avançar onde outros fracassam. 
+:::
