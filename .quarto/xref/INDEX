@@ -418,5 +418,164 @@
   },
   "Roza2023.qmd": {
     "Roza2023.html": "24cd2a24"
+  },
+  "Jackson2021.qmd": {
+    "Jackson2021.html": "6ac7a571"
+  },
+  "Seawright-Gerring2008.qmd": {
+    "Seawright-Gerring2008.html": "42266d48"
+  },
+  "Veronese2024.qmd": {
+    "Veronese2024.html": "6caa02af"
+  },
+  "Carnoy1985.qmd": {
+    "Carnoy1985.html": "0b14d538"
+  },
+  "Tarlau2019.qmd": {
+    "Tarlau2019.html": "0f55edbc"
+  },
+  "Busemeyer2015.qmd": {
+    "Busemeyer2015.html": "82a43323"
+  },
+  "Carvalho2015.qmd": {
+    "Carvalho2015.html": "47785e27"
+  },
+  "posts/Busemeyer2015.qmd": {
+    "Busemeyer2015.html": "8676d62b"
+  },
+  "posts/Carvalho2015.qmd": {
+    "Carvalho2015.html": "437d8d1e"
+  },
+  "Garritzmann2016.qmd": {
+    "Garritzmann2016.html": "77d10407"
+  },
+  "Ansell2008.qmd": {
+    "Ansell2008.html": "2de24353"
+  },
+  "Pengl-etal2026.qmd": {
+    "Pengl-etal2026.html": "b465c808"
+  },
+  "posts/Carvalho2011.qmd": {
+    "Carvalho2011.html": "2f65cec5"
+  },
+  "VoC-Hall-Soskice2001.qmd": {
+    "VoC-Hall-Soskice2001.html": "ad94eb2b"
+  },
+  "posts/Andersen2024vClaudeSonnet4.6.qmd": {
+    "Andersen2024vClaudeSonnet4.6.html": "bef4ef2c"
+  },
+  "posts/Andersen2024vDeepSeek.qmd": {
+    "Andersen2024vDeepSeek.html": "840f4859"
+  },
+  "prompts/podcasts/v02.0_2026-03-08_analytical-podcast-script.md": {
+    "v02.0_2026-03-08_analytical-podcast-script.html": "b2964f85"
+  },
+  "prompts/qmd-blog-posts/v09.0_2026-04-18_qmd-blog-post-html-table.md": {
+    "v09.0_2026-04-18_qmd-blog-post-html-table.html": "699f73d7"
+  },
+  "prompts/qmd-blog-posts/v11.0_2026-04-18_qmd-checklist-verification.md": {
+    "v11.0_2026-04-18_qmd-checklist-verification.html": "9fe05235"
+  },
+  "prompts/qmd-blog-posts/v12.0_2026-04-19_qmd-analytical-card-json.md": {
+    "v12.0_2026-04-19_qmd-analytical-card-json.html": "39ddedad"
+  },
+  "prompts/qmd-blog-posts/v13.0_2026-04-19_qmd-analytical-card-markdown.md": {
+    "v13.0_2026-04-19_qmd-analytical-card-markdown.html": "50f5be7e"
+  },
+  "prompts/qmd-blog-posts/v13.1_2026-04-19_qmd-english-version.md": {
+    "v13.1_2026-04-19_qmd-english-version.html": "02c1498d"
+  },
+  "prompts/qmd-blog-posts/v13.2_2026-04-19_qmd-github-auto-publish.md": {
+    "v13.2_2026-04-19_qmd-github-auto-publish.html": "1037573d"
+  },
+  "prompts/qmd-blog-posts/v14.0_2026-04-19_qmd-card-first-long-texts.md": {
+    "v14.0_2026-04-19_qmd-card-first-long-texts.html": "d523df41"
+  },
+  "prompts/qmd-blog-posts/v14.1_2026-05-07_qmd-canonical-categories.md": {
+    "v14.1_2026-05-07_qmd-canonical-categories.html": "c7f7abec"
+  },
+  "prompts/qmd-blog-posts/v15.0_2026-04-19_qmd-refactored-renderable.md": {
+    "v15.0_2026-04-19_qmd-refactored-renderable.html": "12275257"
+  },
+  "prompts/qmd-blog-posts/v17.2_2026-05-08_qmd-books-map-coverage.md": {
+    "v17.2_2026-05-08_qmd-books-map-coverage.html": "77af2c45"
+  },
+  "prompts/qmd-blog-posts/v17.3_2026-05-1o_qmd-books-map-update.md": {
+    "v17.3_2026-05-1o_qmd-books-map-update.html": "16b57c3d"
+  },
+  "prompts/spreadsheets/v03.0_2026-03-07_spreadsheet-table-output.md": {
+    "v03.0_2026-03-07_spreadsheet-table-output.html": "eab6d5dc"
+  },
+  "prompts/spreadsheets/v06.0_2026-03-08_spreadsheet-citation-key.md": {
+    "v06.0_2026-03-08_spreadsheet-citation-key.html": "2447c3f2"
+  },
+  "prompts/spreadsheets/v07.0_2026-03-12_spreadsheet-llm-metadata.md": {
+    "v07.0_2026-03-12_spreadsheet-llm-metadata.html": "3cd6e423"
+  },
+  "prompts/spreadsheets/v08.0_2026-03-13_spreadsheet-bibtex-institution.md": {
+    "v08.0_2026-03-13_spreadsheet-bibtex-institution.html": "07b9325d"
+  },
+  "prompts/spreadsheets/v08.1_2026-03-13_spreadsheet-ontological-check.md": {
+    "v08.1_2026-03-13_spreadsheet-ontological-check.html": "398374be"
+  },
+  "README.pt-br.md": {
+    "README.pt-br.html": "064b0eaf"
+  },
+  "Iversen-Stephens2008.qmd": {
+    "Iversen-Stephens2008.html": "ff6ea3fe"
+  },
+  "posts/Huber-Stephens2001.qmd": {
+    "Huber-Stephens2001.html": "37e90e79"
+  },
+  "Leao2022.qmd": {
+    "Leao2022.html": "d726e721"
+  },
+  "prompts/qmd-blog-posts/v17.42026-05-13_qmd_general.md": {
+    "v17.42026-05-13_qmd_general.html": "d6974e11"
+  },
+  "Leao-Eyal2022.qmd": {
+    "Leao-Eyal2022.html": "aa09453d"
+  },
+  "Breen2010.qmd": {
+    "Breen2010.html": "8e5fdd4b"
+  },
+  "Gomes-etal2019.qmd": {
+    "Gomes-etal2019.html": "6e1665c7"
+  },
+  "Fairfield-Garay2017.qmd": {
+    "Fairfield-Garay2017.html": "e12796b1"
+  },
+  "posts/Jackson2021.qmd": {
+    "Jackson2021.html": "6399703b"
+  },
+  "Meek-etal2024.qmd": {
+    "Meek-etal2024.html": "1361c62e"
+  },
+  "Custodio2022.qmd": {
+    "Custodio2022.html": "81d5d7b1"
+  },
+  "Pierson2004.qmd": {
+    "Pierson2004.html": "5cdbe522"
+  },
+  "Busemeyer-Thelen2020.qmd": {
+    "Busemeyer-Thelen2020.html": "7fae681c"
+  },
+  "Katz2001.qmd": {
+    "Katz2001.html": "a785eea9"
+  },
+  "posts/Garay.qmd": {
+    "Garay.html": "b30c1e8e"
+  },
+  "posts/Katz2001.qmd": {
+    "Katz2001.html": "23a1557e"
+  },
+  "Fairfield-Charman2025.qmd": {
+    "Fairfield-Charman2025.html": "7690141b"
+  },
+  "Horn-etal2026.qmd": {
+    "Horn-etal2026.html": "11ea1a9f"
+  },
+  "Fairfield2013,.qmd": {
+    "Fairfield2013,.html": "faa9e0a1"
   }
 }

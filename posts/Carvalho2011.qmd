@@ -1,0 +1,109 @@
+---
+title: "Fichamento: A política pública para a educação superior no Brasil (1995-2008)"
+subtitle: "Carvalho, C. H. A. de. (2011). A política pública para a educação superior no Brasil (1995-2008): ruptura e/ou continuidade [Tese de Doutorado]. Universidade Estadual de Campinas."
+author: "Tales Mançano"
+date: "2026-05-10"
+last-updated: "2026-05-10"
+coverage: "Obra completa"
+categories: [Annotated Bibliography, Political Economy, Welfare State/Social Policy, Brazil, 2011, 2010s]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+    execute: false
+---
+
+::: {.callout-note collapse="true" icon=false}
+## Informações Técnicas e BibTeX
+
+**1. Linha de modelo e timestamp:**
+
+```
+Última atualização: 2026-05-10
+Modelo: Gemini 3.1 Pro (High)
+Prompt Version: v17.3 · 2026-05-10
+Gerado em: 2026-05-11T01:10:00-03:00
+Ocasião da Leitura: [Para preenchimento manual do usuário]
+```
+
+**Entrada BibTeX → Carvalho2011**
+
+```bibtex
+@phdthesis{Carvalho2011,
+  author    = {Carvalho, Cristina Helena Almeida de},
+  title     = {A política pública para a educação superior no Brasil (1995-2008): ruptura e/ou continuidade},
+  year      = {2011},
+  school    = {Universidade Estadual de Campinas},
+}
+```
+:::
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v17.3*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | A premissa central é de que houve alteração de governo e agenda; o ponto vulnerável é distinguir o que é mera retórica do que é mudança substantiva na policy. | Como a política pública de educação superior se comportou na transição e ao longo dos governos FHC (1995-2002) e Lula (2003-2008) considerando as continuidades e descontinuidades entre eles? |
+| Questões Secundárias | Necessidade de avaliar a autonomia do Estado na formulação. | Há semelhança entre a agenda sistêmica (BM, UNESCO) e a agenda governamental? A ação estatal foi resultado exclusivo da intervenção externa? |
+| Puzzle-Type | Gap explicativo sobre a transição governamental e mudança institucional (path dependence vs mudança de rota). | Puzzle explicativo sobre mudança institucional. O texto questiona a narrativa binária (tudo mudou vs nada mudou) e busca nuances. |
+| Conclusão / Argumento Central | A tese identifica o hibridismo entre inércia institucional (via path dependence) e escolhas políticas inovadoras do governo Lula. | A política pública do período apresenta forte continuidade legislativa focada na expansão via setor privado (PROUNI), marcada por path dependence, mas exibe rupturas significativas no governo Lula, com retomada do protagonismo da União via expansão das IFES e alteração no padrão de financiamento. |
+| Métodos | Estudo histórico-comparativo e documental. | Análise documental tridimensional (polity, politics e policy), focada em 7 pilares analíticos. Avaliação histórico-comparativa (neo-institucionalismo histórico) baseada em dados secundários (INEP, MEC, SIAFI). Cobertura da obra é parcial no fichamento (com foco nas bases do argumento). |
+| Data Generation Process (DGP) | Análise macro da "Arena Decisória de Educação Superior". | Nível de agregação nacional; análise da disputa de interesses (atores governamentais e sociais como FNDEP, ANDES, ANDIFES, setor privado). Riscos de viés de fonte pela dependência de dados oficiais de execução orçamentária. |
+| Achados e Contribuições | O trabalho mapeia a disputa de agenda. | O estudo contribui demonstrando empiricamente (com dados orçamentários) que o governo Lula aumentou o repasse às IFES enquanto manteve as bases da expansão privada (PROUNI). |
+| Análise Crítica dos Achados | O argumento da dependência de trajetória justifica as continuidades; no entanto, o conceito de ruptura focado no financiamento pode subestimar as similaridades nas coalizões de poder. | A autora responde satisfatoriamente. O ponto mais forte é a comprovação documental do jogo de forças na formulação da LDB e do PNE; a vulnerabilidade reside na dificuldade de isolar o efeito das crises econômicas (contingenciamento) das puras "escolhas" institucionais na gestão FHC. |
+| Limitações | Limitações normais de estudos de policy analysis. | **Reconhecidas pelos autores:** Foco exclusivo nas esferas macroinstitucionais (MEC, Presidência). <br> **Não reconhecidas ou subestimadas:** A generalização de tendências do segundo mandato de Lula que ainda estavam em curso ao final do recorte (2008). |
+| Perspectiva Teórica | O quadro é apropriado para evitar o determinismo (onde o Estado atende passivamente ao mercado ou a organismos externos). | Neo-institucionalismo histórico. Adequada para explicar inércia institucional (path dependence) e mudanças contingentes. |
+| Principais Referências | Diálogo centrado em teóricos de public policy e de economia política. | Thelen, Steinmo, Skocpol, Hall, e Taylor (neo-institucionalismo); Bourdieu (educação). |
+| Observações | Texto foca no nível federal. | O argumento fortalece o debate de que os relatórios do Banco Mundial orientaram a agenda sistêmica, mas a implementação sofreu mediação direta do jogo político interno. |
+
+:::
+
+## Mapa Argumentativo {.unnumbered}
+
+| Capítulo | Título | Função argumentativa | Contribuição para a tese central |
+|:---------|:-------|:---------------------|:---------------------------------|
+| Introdução | Apresentação | Apresentação do puzzle e da tese | Delimita as hipóteses de trabalho e o referencial neo-institucionalista. |
+| Cap. 1 | Arena Decisória e Atores: Jogo de Interesses em Torno da Política Educacional | Fundamento teórico e histórico | Mapeia os atores (governo, entidades sindicais, setor privado) e seus recursos de poder na Arena da Educação Superior. |
+| Cap. 2 | Formulação da Política para a Educação Superior nos Governos de FHC (1995-2002) | Estudo de caso (Período 1) | Demonstra como o governo FHC operou a LDB e o contingenciamento orçamentário. |
+| Cap. 3 | Formulação da Política para a Educação Superior no Governo Lula (2003-2008) | Estudo de caso (Período 2) | Analisa a mudança discursiva e os novos programas na gestão Lula. |
+| Cap. 4 | Implementação da Política de Expansão para a Educação Superior (1995-2008) | Análise empírica (Expansão) | Compara a evolução de matrículas e IFES versus IES privadas. |
+| Cap. 5 | Financiamento Federal da Política para a Educação Superior (1995-2008) | Análise empírica (Finanças) | Comprova a tese através de dados fiscais (PROUNI, FIES, orçamento das IFES). |
+| Conclusão | Conclusão | Síntese e implicações | Afirma o hibridismo (path dependence no privado, ruptura no financiamento público federal). |
+
+## Apresentação (pp. 1-43)
+
+### O Puzzle e o Neo-Institucionalismo Histórico [Apresentação §1–§20]
+
+A educação superior no Brasil passou por seu primeiro grande surto expansivo durante o regime militar, consolidado na Reforma Universitária de 1968, com forte subsídio indireto estatal ao setor privado. Durante os anos 1980 e início dos 1990, o cenário foi de frustração de reformas mais profundas e deterioração econômico-financeira de IES particulares, ao mesmo tempo que se garantiu a gratuidade no ensino superior público pela Constituição de 1988. A autora argumenta que, com a chegada de Fernando Henrique Cardoso (FHC) ao poder, uma agenda governamental pautada pelas reformas liberais foi instalada, seguida posteriormente pelos mandatos de Luiz Inácio Lula da Silva.
+
+> **Nota 1:** A autora utiliza a expressão "Arena Decisória de Educação Superior" para denotar o espaço institucional onde as regras e recursos de poder são disputados pelos atores sociais e estatais.
+
+O estudo baseia-se na teoria do **neo-institucionalismo histórico**, uma abordagem que resgata o Estado como um ator central (inspirado no conceito de *Bringing the State back in* de Skocpol). Em contraposição a perspectivas estruturalistas ou marxistas clássicas, as instituições aqui são vistas não como reflexos passivos da sociedade ou ferramentas de elites econômicas, mas como estruturas que moldam o próprio comportamento e as preferências dos atores. A autora salienta que o Estado tem certa "autonomia" ou *insulamento*, o que explica por que a política pública não é apenas a transposição direta das vontades do Banco Mundial, mas resulta das capacidades administrativas estatais e do embate na arena política.
+
+### A Política Econômica como Condicionante [Apresentação §21–§35]
+
+As políticas macroeconômicas restritivas adotadas ao longo dos anos 1990 (Fundo Social de Emergência, DRU, metas de inflação e superávit primário) funcionaram como camisas de força institucionais. O compromisso com a estabilidade e com a manutenção da relação dívida/PIB provocou o contingenciamento sistemático das despesas discricionárias, atingindo pesadamente os orçamentos de custeio e investimento das Instituições Federais de Ensino Superior (IFES). 
+
+::: {.callout-note icon=false}
+A autora afirma que a crise econômica no primeiro mandato de FHC limitou o financiamento público e fortaleceu a lógica da expansão via setor privado, um exemplo de *path dependence* cujos ecos permanecerão nas gestões futuras.
+:::
+
+O desenvolvimento de novas políticas reestrutura a política propriamente dita: a trajetória da política educacional é marcada por fortes traços de *path dependence* (dependência da trajetória percorrida). No entanto, o referencial também abre espaço para compreender a mudança institucional através da agência dos atores sociais ("aprendizado social" e pressões na Arena Decisória), permitindo investigar onde houve ruptura durante o governo Lula.
+
+## Capítulo I: Arena Decisória e Atores (pp. 45-92)
+
+### A Disputa entre Projetos Educacionais [Cap.1 §1–§15]
+
+Diferentemente do regime militar, onde as decisões eram centralizadas e ditadas de cima para baixo, a redemocratização trouxe uma multiplicidade de atores que passaram a atuar na Arena Decisória da Educação Superior (Congresso Nacional, burocracia do MEC, Fórum Nacional em Defesa da Escola Pública - FNDEP). Pela primeira vez, a sociedade civil organizada pautou o início das reformas, como visto nas disputas pelo projeto da Lei de Diretrizes e Bases da Educação Nacional (LDB).
+
+A autora narra o embate feroz entre dois projetos de LDB: o da Câmara (que espelhava as demandas do FNDEP, ANDES, UNE e ANDIFES, focado em educação pública, democrática e gratuita) e o projeto do Senado (de Darcy Ribeiro, fortemente apoiado pelo MEC e pela iniciativa privada). O Poder Executivo utilizou seu poder político para esvaziar o projeto da Câmara e aprovar o texto do Senado em 1996, demonstrando a assimetria na distribuição de poder e os mecanismos institucionais usados pelo Estado para barrar demandas da comunidade acadêmica.
+
+[CONTINUAÇÃO — solicite "continue"]

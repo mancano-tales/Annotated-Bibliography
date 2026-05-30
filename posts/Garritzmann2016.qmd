@@ -1,0 +1,335 @@
+---
+title: "Fichamento: The Political Economy of Higher Education Finance"
+subtitle: "Garritzmann, Julian L. (2016) — Palgrave Macmillan"
+author: "Tales Mançano"
+date: "2026-05-09"
+last-updated: "2026-05-09"
+coverage: "Obra completa"
+categories: [Annotated Bibliography, Political Economy, Comparative Politics, Higher Education Policy, Welfare State/Social Policy, Historical Institutionalism]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+    execute: false
+---
+
+Garritzmann, J. L. (2016). *The political economy of higher education finance: The politics of tuition fees and subsidies in OECD countries, 1945–2015*. Palgrave Macmillan. https://doi.org/10.1007/978-3-319-29913-6
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → Garritzmann2016
+
+```bibtex
+@book{Garritzmann2016,
+ author    = {Garritzmann, Julian L.},
+ title     = {The Political Economy of Higher Education Finance: The Politics of Tuition Fees and Subsidies in OECD Countries, 1945--2015},
+ year      = {2016},
+ publisher = {Palgrave Macmillan},
+ address   = {Cham},
+ isbn      = {978-3-319-29912-9},
+ doi       = {10.1007/978-3-319-29913-6},
+}
+```
+
+:::
+
+Última atualização: 2026-05-09
+Modelo: Perplexity, powered by Claude Sonnet 4.6
+Prompt Version: v17.2 2026-05-08 | Ficha antes do fichamento
+Gerado em: 2026-05-09T20:35:00-03:00
+Ocasião da Leitura: Releitura para escrita do capítulo 3 da dissertação.
+
+---
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v17.2*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | A premissa central é que a variação observada nos sistemas de financiamento do ensino superior é politicamente determinada, não estruturalmente. Isso exige que o livro demonstre tanto que os fatores estruturais são insuficientes quanto que partidos têm efeitos mensuráveis. A pergunta é genuinamente explicativa mas contém uma ambiguidade: explica *origens* ou *trajetórias*? O autor desloca o foco das origens para a sustentabilidade ao longo da obra. | Três perguntas encadeadas: (1) Como os sistemas de taxas e subsídios diferem entre as democracias avançadas? (2) Por que países desenvolveram sistemas distintos a partir de um ponto de partida comum no pós-guerra? (3) Por que os sistemas permanecem imunes a mudanças radicais? Natureza predominantemente explicativa-causal, com componente descritivo na questão 1. |
+| Questões Secundárias | O texto trabalha de forma relativamente integrada, de modo que as questões secundárias emergem da necessidade de sustentar a questão central. O risco é que cada sub-hipótese seja testada de forma isolada, fragmentando a coerência do argumento causal principal. | (a) As posições dos partidos sobre financiamento do ensino superior diferem conforme o espectro esquerda-direita? (b) Os regimes de taxas-subsídios geram efeitos de retroalimentação (*feedback*) nas preferências individuais? (c) Esses feedbacks constrangem os partidos eleitoralmente ao longo do tempo? Todas as questões secundárias são subsidiárias e necessárias à tese central. |
+| Puzzle-Type | O puzzle é genuíno e generalizável: países com estruturas econômicas e instituições similares no imediato pós-guerra divergiram drasticamente em 70 anos, sem que as explicações estruturais disponíveis na literatura consigam dar conta disso. O ponto mais vulnerável é a seleção do ponto de partida: a afirmação de que todos os países eram homogeneamente *low-tuition–low-subsidy* em 1945 é empiricamente contestável e reconhecida pelo próprio autor como uma simplificação. | Puzzle explicativo combinado com avaliação de política (*policy evaluation*): (a) por que países que partiram de um ponto comum chegaram a regimes tão distintos? (b) por que os regimes são resilientes a mudanças radicais? O puzzle é generalizável além do caso específico do ensino superior e é apresentado como aplicável a outras políticas de bem-estar. |
+| Conclusão / Argumento Central | A conclusão é causal, mas não estritamente no sentido de identificação por variação exógena. O autor combina argumento histórico-institucionalista com teste quantitativo. O claim central — de que *sequência e duração* importam, não apenas composição — é original e teoricamente sofisticado, mas a força da evidência varia consideravelmente entre os capítulos. | A tese central é que apenas uma análise *tempo-sensível* da composição partidária dos governos pode explicar a origem dos Quatro Mundos do Financiamento Estudantil. Partidos importam, mas o que realmente diferencia os regimes é *quanto tempo* e *em que sequência* partidos de esquerda e direita governaram, combinado com os feedbacks positivos gerados pelas políticas instaladas. Natureza do argumento: causal-histórico com extensão normativa implícita. |
+| Métodos | O multi-método é uma escolha defensável aqui porque nenhum método isolado pode capturar os mecanismos históricos de longa duração E testar implicações em grande-n. O risco é que cada nível use critérios de validade distintos e os achados não se integrem de forma cumulativa. O fichamento cobre a obra inteira (7 capítulos + introdução + conclusão). | Desenho multi-método: (1) análise descritiva comparativa com dataset original de 70+ variáveis em 33 países; (2) estudos de caso qualitativos de 4 países usando *systematic process analysis* (Hall 2003); (3) regressões OLS e TSCS em dados macro para 21 democracias; (4) análise de posições partidárias via *expert survey* e codificação de manifestos; (5) regressões multinível ordinal em dados de survey individual em 22 países. O fichamento cobre a obra inteira. |
+| Data Generation Process (DGP) | O DGP é heterogêneo por design (multi-método), o que cria riscos de inconsistência entre níveis. Para o nível macro (Cap. 5), a principal preocupação é a direção de causalidade: composição partidária pode ser endógena ao sistema de financiamento existente (partidos formam preferências *em resposta* ao regime, que é justamente o que o Cap. 6 argumenta). A fusão de dados macro longitudinais com variáveis de curto prazo é problemática. Para o nível individual (Cap. 6), o problema é inferência causal a partir de dados de corte transversal repetido sem possibilidade de separar efeito de maturação, coorte e período. | Nível macro: dados compilados pelo autor a partir de fontes OCDE e estudos nacionais; operacionalização de regimes via cluster analysis; variável de tratamento (composição partidária) medida por *cabinet seat shares* acumulados. Unidade de análise: país-ano e governo. Nível micro: dados de survey do ISSP e Eurobarometer em 22 países ao longo de duas décadas. Nível meso: expert survey (Rohrschneider e Whitefield 2012) + codificação de manifestos britânicos. Potenciais vieses: seleção de casos no Cap. 3 (casos "diversos" foram selecionados para ilustrar a teoria, não para testá-la); dados de preferências individuais não permitem estabelecer causalidade das preferências à política; confundidores institucionais omitidos nas regressões TSCS. |
+| Achados e Contribuições | Os achados quantitativos (Caps. 5 e 6) fornecem suporte correlacional consistente com a teoria, mas os efeitos causais são mais robustamente estabelecidos nos estudos de caso (Cap. 3). A contribuição mais sólida do livro é a descritiva (tipologia dos Quatro Mundos) e a teórica (refinamento temporal da hipótese partidária). | (1) Descritivo: identificação de quatro regimes distintos de financiamento (low-low, low-high, high-high, high-low). (2) Explicativo: a sequência e duração de partidos no governo, não a composição média, explicam a trajetória dos regimes. (3) Mecanístico: feedbacks positivos dos regimes nas preferências individuais tornam mudança radical eleitoralmente custosa ao longo do tempo. (4) Teórico: refinamento da hipótese partidária por meio de sensibilidade temporal, com potencial de generalização para outras políticas sociais. Contribuição metodológica menor: compilação do dataset mais abrangente sobre sistemas de financiamento estudantil. |
+| Análise Crítica dos Achados | O argumento temporal é o ponto mais original mas também o mais vulnerável. O problema central de identificação é que "sequência e duração" de partidos no governo são quase impossíveis de separar de outras características nacionais estáveis (tipo de capitalismo, sistemas eleitorais, religião). A estratégia multi-método é apresentada como mutuamente reforçadora, mas os casos do Cap. 3 foram selecionados *depois* de formulada a teoria (illustrative cases), o que os torna evidência fraca para confirmação. (a) *Vieses de seleção*: os quatro países do Cap. 3 são "diverse cases" selecionados para representar os quatro regimes — o método não permite identificar casos que contradigam a teoria. (b) *Compatibilidade DGP–claim*: o claim causal sobre sequência temporal não pode ser testado adequadamente com TSCS de curto prazo (1995–2010), que é justamente o período em que o argumento prevê estabilidade. (c) *Confundidores*: sistemas eleitorais, tipos de capitalismo e legados religiosos são candidatos a confundir a relação entre composição partidária e regime, mas nenhuma das especificações do Cap. 5 os inclui sistematicamente. (d) *Feedbacks*: o mecanismo de feedback do Cap. 6 é apresentado como causal, mas os dados de survey são cross-sectional repetidos — não há como descartar que preferências individuais pré-existam ao regime ou que o regime e as preferências sejam codeterminados. (e) *Generalização*: o próprio autor reconhece que o argumento pressupõe democracia consolidada, excluindo casos relevantes da América Latina e Ásia que integram a tipologia descritiva. | O autor responde de forma parcialmente convincente à pergunta explicativa central. A teoria é coerente e bem derivada, e os achados qualitativos (Cap. 3) são os mais persuasivos. Os testes quantitativos fornecem plausibilidade adicional mas não identificação causal. O ponto genuinamente fraco é a operacionalização do argumento temporal em modelos TSCS: o autor usa *cabinet seat shares* acumulados historicamente (Cap. 5), o que é uma escolha criativa mas não robusta, pois a alocação de pesos para décadas anteriores é arbitrária. |
+| Limitações | **Reconhecidas pelos autores:** ausência de dados comparativos sobre atitudes em relação a taxas; heterogeneidade interna dos clusters; impossibilidade de determinar *a priori* o ponto de inflexão em que feedbacks "travam" o regime; cobertura desigual de países entre capítulos. <br> **Não reconhecidas ou subestimadas:** (1) endogeneidade entre composição partidária e regime: o argumento de que partidos formam preferências *em resposta* ao regime (Cap. 6) contradiz parcialmente a premissa de que partidos causam regimes (Caps. 3 e 5); (2) ausência de tratamento sistemático de fatores confundidores institucionais nas análises quantitativas; (3) os estudos de caso não têm poder de discriminar entre a teoria do autor e alternativas como path dependence institucional sem agência partidária; (4) a seleção do período histórico de referência (imediato pós-guerra como ponto de partida comum) é contestável, especialmente para os países asiáticos e latino-americanos. |
+| Perspectiva Teórica | A combinação rational choice + historical institutionalism é produtiva mas produz tensões não resolvidas no texto: a premissa de que partidos são agentes estratégicos e racionais (rational choice) colide com a premissa de que preferências são moldadas pelos regimes (socialization/feedback), pois isso implica que os atores não têm preferências exógenas estáveis. O autor reconhece essa tensão brevemente mas não a resolve. | Combinação de hipótese partidária clássica (Hibbs, Alt, Tufte), historical institutionalism (Pierson, Thelen, Mahoney), teorias de path dependence e positive feedback-effects (Pierson 1993, 2000, 2004), e literatura de formação de habilidades/skill formation (Busemeyer, Iversen, Estevez-Abe). A moldura é adequada ao tipo de pergunta (explicação histórica de longa duração), mas a coerência ontológica entre agência racional e preferências endógenas não é plenamente trabalhada. |
+| Principais Referências | Pierson (1993, 2004) — path dependence e feedback-effects; Hibbs (1977) e Alt (1985) — partisan hypothesis; Ansell (2008, 2010) — conditional partisan hypothesis aplicada ao ensino superior; Busemeyer (2009a, 2015) — determinantes do gasto público em educação; Iversen e Stephens (2008) — skill formation e partidos; Busemeyer e Iversen (2014) — sistemas eleitorais e educação; Hall (2003, 2008) — systematic process analysis; Seawright e Gerring (2008) — seleção de casos. O diálogo com a literatura de welfare state comparado (Esping-Andersen, Hacker, Streeck-Thelen) é presente mas superficial, especialmente no que diz respeito às tipologias de mudança institucional incremental. | O texto dialoga bem com a literatura de skill formation e party politics, mas subutiliza a literatura de mudança institucional incremental (Streeck e Thelen 2005; Hacker 2004), que seria altamente relevante para o argumento de como os regimes se transformam dentro de trajetórias sem mudança radical. |
+| Observações | (1) A obra é claramente derivada de uma tese de doutoramento, o que confere coerência interna mas também uma tendência a excessiva extensão nos estudos de caso (Cap. 3 compreende mais de 100 páginas). (2) A ausência de dados para a América Latina e Ásia nas análises quantitativas é um gap significativo, dado que a tipologia descritiva inclui esses casos. (3) Para o pesquisador interessado em desigualdade educacional no Brasil, o livro oferece moldura teórica útil para entender por que sistemas de financiamento divergem entre países, mas a teoria não aborda os determinantes da composição interna dos subsídios (progressividade vs. regressividade), o que limita sua aplicabilidade direta ao caso brasileiro. (4) A cobertura é da obra inteira. |
+
+:::
+
+---
+
+## Mapa Argumentativo {.unnumbered}
+
+| Capítulo | Título | Função argumentativa | Contribuição para a tese central |
+|:---------|:-------|:---------------------|:---------------------------------|
+| Cap. 1 | The Politics of Higher Education Tuition Fees and Subsidies | Fundamento teórico + apresentação do puzzle | Apresenta os Quatro Mundos, os três puzzles de pesquisa, a Time-Sensitive Partisan Theory e as hipóteses testáveis; é o núcleo argumentativo do livro |
+| Cap. 2 | The Four Worlds of Student Finance: A Comparative Descriptive Overview | Análise empírica descritiva | Estabelece a variável dependente: demonstra a existência e a natureza dos quatro regimes em 33 países por meio de análise de cluster com mais de 70 variáveis originais |
+| Cap. 3 | Adding "Some Flesh to the Bones": Illustrative Case Studies | Estudo de caso | Rastreia os mecanismos causais da teoria em quatro casos diversificados (Finlândia, Japão, Alemanha, EUA) ao longo de sete décadas; fornece a evidência processual mais detalhada do livro |
+| Cap. 4 | What Do Parties Want? Parties' Positions and Issue Emphasis | Análise empírica (nível meso) | Testa se partidos efetivamente têm posições distintas sobre financiamento do ensino superior, se estas variam por família partidária, e se feedbacks alteram posições ao longo do tempo |
+| Cap. 5 | Testing the Time-Sensitive Partisan Theory in Large-n Analyses | Análise empírica (nível macro) | Teste quantitativo amplo em 21 democracias com regressões TSCS; fornece suporte estatístico para a relação entre composição partidária histórica e regimes |
+| Cap. 6 | Individual-Level Attitudes Towards Subsidies | Análise empírica (nível micro) | Testa o mecanismo de feedback positivo via regressões multinível em dados de survey de 22 países; mostra que regimes moldam preferências individuais e tornam mudança radical eleitoralmente custosa |
+| Cap. 7 | Conclusion and Outlook | Síntese e agenda | Resume os achados, avalia a contribuição da Time-Sensitive Partisan Theory, discute limitações e propõe extensões para outras políticas sociais e contextos regionais |
+
+::: {.callout-important}
+## Divergências internas
+
+Nenhuma divergência substantiva identificada. O livro é uma obra de autor único e mantém coerência argumentativa entre capítulos, embora exista uma tensão não resolvida entre o argumento de agência partidária (Caps. 3 e 5) e o argumento de preferências endógenas (Cap. 6), como anotado na Ficha Analítica.
+:::
+
+---
+
+## Capítulo 1: The Politics of Higher Education Tuition Fees and Subsidies (pp. 1–56)
+
+### O puzzle e as três perguntas de pesquisa [Cap.1 §1–§4]
+
+O capítulo abre com uma vinheta pedagógica comparando quatro trajetórias hipotéticas de uma mesma estudante ("Hannah") em quatro países: nos EUA, ela se formaria com uma dívida de US$ 40.000 ou mais; na Finlândia, estudaria gratuitamente e receberia bolsa governamental para cobrir despesas de subsistência; na Alemanha, não pagaria taxas, mas tampouco receberia auxílio financeiro; no Japão, pagaria taxas comparáveis às americanas, porém sem acesso a subsídios públicos. Essa comparação condensada serve para apresentar o puzzle central do livro: por que existem variações tão dramáticas nos sistemas de financiamento do ensino superior entre países que compartilham níveis semelhantes de desenvolvimento econômico e democrático?
+
+A partir desse puzzle, Garritzmann enuncia três perguntas de pesquisa encadeadas. A primeira é descritiva: *como* os sistemas de taxas e subsídios diferem entre as democracias avançadas? A segunda, e a mais central, é explicativa: *por que* países desenvolveram sistemas tão distintos, tendo partido de um ponto de partida muito similar no imediato pós-Segunda Guerra Mundial, quando em todos os países as taxas eram baixas e os subsídios inexistentes? A terceira pergunta aborda a sustentabilidade dos regimes: *por que* as democracias avançadas não experimentam mudanças radicais em seus sistemas de financiamento nas últimas duas décadas?
+
+> O puzzle central do livro está formulado nos seguintes termos: como países que em meados do século XX possuíam sistemas de ensino superior amplamente similares — baixas taxas, ausência de subsídios sistemáticos, matrículas ínfimas — desenvolveram, ao longo de sete décadas, quatro configurações radicalmente distintas?
+
+### Os Quatro Mundos do Financiamento Estudantil [Cap.1 §5–§7]
+
+::: {.callout-note icon=false}
+O principal resultado descritivo do livro é a tipologia dos **Quatro Mundos do Financiamento Estudantil** (*Four Worlds of Student Finance*): (1) *baixa-taxa–baixo-subsídio* (Europa continental, ex.: Alemanha); (2) *baixa-taxa–alto-subsídio* (Europa nórdica, ex.: Finlândia); (3) *alta-taxa–alto-subsídio* (países anglo-saxões, ex.: EUA, Reino Unido); (4) *alta-taxa–baixo-subsídio* (Ásia Oriental e América Latina, ex.: Japão, Coreia, Chile).
+:::
+
+A tipologia é apresentada como o "mapa" do fenômeno que o livro busca explicar. O autor destaca que a quarta combinação — altas taxas acompanhadas de poucos subsídios — é a *prima facie* mais surpreendente, uma vez que intuitivamente se esperaria que países com alta dependência de contribuições privadas ao menos compensassem os estudantes de baixa renda com auxílio financeiro. A Figura 1.1 ilustra os quatro regimes usando duas variáveis: a proporção de estudantes que pagam taxas e a proporção que recebe subsídios públicos, revelando de forma visual a ausência de correlação simples entre esses dois indicadores.
+
+O fato de todos os países terem partido, em 1945, de um ponto de partida muito semelhante — taxa baixa, sem subsídios sistemáticos, matrículas inferiores a 5% de cada coorte — é o elemento contrafactual que confere força ao puzzle: não se trata de explicar diferenças que sempre existiram, mas diferenças que *emergiram* a partir de um ponto comum. Isso exclui imediatamente explicações puramente estruturais baseadas em herança histórica de longo prazo.
+
+### Revisão da literatura: explicações estruturais das taxas [Cap.1 §8–§15]
+
+Garritzmann organiza a revisão das explicações existentes em dois grandes blocos: explicações estruturais e explicações político-econômicas. No bloco estrutural, ele identifica quatro tradições. Os **"Funcionalistas"** (Johnstone, Marcucci, Jongbloed) argumentam que a austeridade fiscal força governos a buscar fontes alternativas de receita, levando à introdução ou elevação de taxas. O autor critica esse argumento em três pontos: primeiro, ele não explica a variação cross-national, pois países escandinavos mantiveram gratuidade mesmo durante crises fiscais severas; segundo, não explica a variação temporal (por que o Japão introduziu taxas em meados do século XX com uma economia em crescimento, enquanto outros países as resistiram em meio a constrangimentos fiscais?); terceiro, carece de mecanismo micro, tratando governos como meras correias de transmissão das pressões econômicas.
+
+Os **"Críticos da Ineficiência"** (Vedder 2004; Brandon 2010) atribuem a existência de taxas à ineficiência das instituições de ensino superior, que sem disciplina de mercado desperdiçariam recursos. Garritzmann aplica a mesma crítica: a abordagem não pode explicar por que Alemanha e Dinamarca — supostamente mais eficientes — seriam gratuitas enquanto os EUA — presumivelmente menos eficientes — cobrariam taxas crescentes. Os **"Baumolistas"** (Archibald e Feldman 2011) aplicam o argumento da "doença dos custos" de Baumol e Bowen (1966) ao ensino superior: como um serviço intensivo em mão de obra qualificada, a produtividade estagnaria enquanto os custos cresceriam, sendo repassados aos estudantes via taxas. Embora o diagnóstico sobre a "doença dos custos" seja plausível, a conclusão de que isso necessariamente se traduz em taxas mais altas não se segue, pois maior gasto público seria igualmente possível. Por fim, os **"Cost Sharers"** (Johnstone 1986; Barr 2004) argumentam que a percepção de que o ensino superior é um bem privado — que beneficia o indivíduo com salários maiores e melhores condições de vida — justificaria que os estudantes contribuíssem para seu próprio financiamento. O Banco Mundial e a Comissão Europeia adotaram essa retórica. Garritzmann contra-argumenta que essa perspectiva não explica por que o discurso de "cost sharing" foi dominante no Japão e nos EUA desde os anos 1950, mas nunca ganhou terreno nos países escandinavos ou na Europa continental.
+
+### Revisão da literatura: explicações político-econômicas [Cap.1 §16–§22]
+
+No bloco das explicações político-econômicas, três contribuições recebem atenção detalhada. Wolf e Zohlnhöfer (2009) foram dos primeiros a examinar determinantes políticos do gasto privado em educação, testando quase 20 fatores potenciais em dados cross-sectionais de 26 países em 2002. Encontram efeitos de federalismo, proporção de católicos e nível de matrícula, mas não efeitos robustos dos partidos governantes. Garritzmann critica: a variável dependente mistura taxas com doações empresariais, os dados são de um único ano sem defasagem temporal, impossibilitando inferências causais.
+
+Förster (2012) propõe que a criação do Espaço Europeu de Ensino Superior gerou convergência entre países membros da UE, mas encontra, ao contrário, divergência: Inglaterra aumentou taxas enquanto Alemanha e Áustria as aboliram. Ele atribui isso a "lógicas de adequação" distintas entre regimes de welfare, com taxas sendo incompatíveis com estados de welfare conservadores. Garritzmann critica que esse argumento não pode explicar o universo completo de casos (apenas dois regimes de welfare são investigados) e que a escolha do período 1999–2009 é enganosa, pois os Quatro Mundos foram moldados muito antes disso.
+
+> **Nota [5]:** O autor registra em nota de rodapé que, até o momento de escrita do livro, não existia nenhuma análise unificada de taxas e subsídios como fenômenos interligados — lacuna que o próprio livro pretende preencher. [nota incluída por relevância argumentativa]
+
+A contribuição mais sofisticada revisada é a de Busemeyer e Iversen (2014), que argumentam que sistemas eleitorais moldam os regimes de financiamento: representação proporcional (RP) favorece coalizões de baixa e média renda que estabelecem sistemas públicos, enquanto sistemas majoritários favorecem coalizões de média e alta renda que preferem financiamento privado. Garritzmann reconhece o avanço, mas aponta três limitações: o modelo não explica variação *dentro* de sistemas eleitorais (Escandinávia e Europa continental ambas usam RP, mas têm regimes opostos nos subsídios); a dicotomia majoritário-proporcional é estilizada demais; e o uso de TSCS para uma variável praticamente estática no tempo (sistema eleitoral) infla artificialmente o número de casos.
+
+Para os subsídios, Garritzmann documenta uma lacuna ainda mais expressiva: nenhum estudo comparativo buscou explicar a variação em auxílio financeiro estudantil entre países ou ao longo do tempo. A literatura existente foca em gasto público total em educação ou em variação nos estados americanos.
+
+### A Time-Sensitive Partisan Theory [Cap.1 §23–§42]
+
+::: {.callout-note icon=false}
+O **argumento central** do livro é a **Time-Sensitive Partisan Theory**: apenas uma análise *tempo-sensível* da composição partidária dos governos — que considere não apenas *quais* partidos governam, mas *por quanto tempo* e *em que sequência* — pode explicar a origem e a sustentabilidade dos Quatro Mundos do Financiamento Estudantil.
+:::
+
+Garritzmann parte da hipótese partidária clássica (Hibbs 1977; Alt 1985; Tufte 1978), que em sua forma simples prevê que partidos de esquerda favorecem mais gasto público redistributivo e partidos de direita menos. A inovação analítica começa com uma distinção crucial que a literatura negligenciara: os efeitos partidários sobre o ensino superior dependem se consideramos gasto em *instituições* (redistributivamente regressivo, pois beneficia sobretudo filhos de classes altas) ou gasto em *subsídios a estudantes* (redistributivamente progressivo, pois beneficia filhos de classes baixas). Essa distinção resolve a aparente contradição na literatura entre estudos que encontram efeitos positivos de partidos de esquerda e estudos que encontram efeitos de partidos de direita: cada grupo está olhando para uma dimensão diferente do financiamento.
+
+Garritzmann deriva, de perspectivas tanto *top-down* (ideologia) quanto *bottom-up* (constituencies), que partidos de esquerda sempre buscarão expandir subsídios e minimizar taxas, enquanto partidos de direita farão o inverso. A esquerda vê subsídios como instrumento de igualdade de oportunidades e mobilidade social ascendente para suas bases eleitorais de menor renda. A direita opõe subsídios por quatro razões: sua constituency de alta renda financia desproporcionalmente sem se beneficiar; teme a "massificação" e perda de exclusividade do bem ensino superior; valoriza qualidade sobre acesso; e interpreta o princípio de subsidiariedade familiar como responsabilidade dos pais pelo financiamento dos filhos.
+
+A hipótese partidária simples, porém, explica apenas dois dos quatro regimes: predomínio constante da esquerda gera *baixa-taxa–alto-subsídio* (Finlândia), e predomínio constante da direita gera *alta-taxa–baixo-subsídio* (Japão). Os dois regimes "off-diagonal" — *baixa-taxa–baixo-subsídio* e *alta-taxa–alto-subsídio* — exigem introduzir o tempo.
+
+Usando a analogia de Pierson (2004) sobre a diferença entre a cozinheira que acha que a *sequência* dos ingredientes não importa e a cozinheira tradicional que sabe que importa, Garritzmann argumenta que o *timing*, particularmente a sequência e a duração dos partidos no governo, determina fundamentalmente os resultados de política. O mecanismo é o seguinte: quando a esquerda governa por *pouco tempo*, tenta estabelecer subsídios generosos, mas o governo de direita subsequente os desmantela antes que gerem *feedbacks positivos* suficientes. O resultado é o regime *baixa-taxa–baixo-subsídio* (exemplo: Alemanha, onde o governo SPD-FDP dos anos 1970 introduziu o *Bundesausbildungsförderungsgesetz* — BAföG — mas o governo Kohl retrocedeu o sistema quase inteiramente nos anos 1980). Quando a esquerda governa por *tempo suficiente* para que os subsídios gerem apoio público amplo, a direita não pode mais desmontá-los sem custo eleitoral; ela então migra para sua segunda preferência: aceita os subsídios e simultaneamente introduz taxas para financiar qualidade. O resultado é o regime *alta-taxa–alto-subsídio* (exemplo: EUA, onde os *G.I. Bills* e legislações subsequentes tornaram os subsídios politicamente intocáveis, e a direita respondeu com o aumento das taxas).
+
+::: {.callout-tip}
+A lógica da teoria pode ser resumida em quatro caminhos históricos a partir do ponto de partida pós-guerra (baixa-taxa, sem subsídios, matrículas ~5%):
+- **Esquerda constante** → baixa-taxa–alto-subsídio (Finlândia)
+- **Direita constante** → alta-taxa–baixo-subsídio (Japão)
+- **Esquerda breve + direita duradoura** → baixa-taxa–baixo-subsídio (Alemanha)
+- **Esquerda duradoura + feedback + direita responde com taxas** → alta-taxa–alto-subsídio (EUA)
+:::
+
+### Feedbacks positivos e sustentabilidade dos regimes [Cap.1 §43–§53]
+
+A terceira pergunta do livro — por que os regimes são imunes a mudanças radicais nas últimas décadas — é respondida pela teoria dos feedbacks positivos. Garritzmann argumenta, em linha com Pierson (1993, 2000, 2004) e a literatura de path dependence, que os regimes de taxas e subsídios geram seu próprio suporte ao moldar as atitudes das pessoas.
+
+A lógica opera por dois mecanismos complementares: a perspectiva de escolha racional e a perspectiva sociológica. Do ponto de vista racional, indivíduos que pagaram por sua própria educação têm incentivo para que futuros estudantes também paguem — caso contrário, pagariam duplamente (primeiro via taxas, depois via impostos financiando a gratuidade dos outros), o que Pierson (1993) denomina "double-payment problem". Do ponto de vista sociológico, o sistema estabelecido molda percepções de justiça e normas sociais via socialização: quem cresceu num ambiente de taxas tende a considerá-las normais e justas.
+
+O argumento sobre feedbacks é que eles se intensificam ao longo do tempo, à medida que a proporção da população que frequentou o ensino superior cresce exponencialmente. Na maioria dos países da OCDE, as matrículas saíram de menos de 5% de cada coorte nos anos 1950 para 40–60% nos anos 2000 (Trow 1972; Windolf 1997). Com isso, um número crescente de cidadãos tem experiências pessoais com o sistema, opiniões mais consolidadas e maior disposição para se mobilizar politicamente. Consequentemente, a margem de manobra dos partidos para reformar radicalmente os sistemas diminui progressivamente: antes os partidos moldavam os sistemas (anos 1950–1980), depois os sistemas moldam as preferências dos partidos e eleitores (1990 em diante). A Figura 1.3 representa esquematicamente essa inversão de influência ao longo do tempo.
+
+### Consequências socioeconômicas das taxas e dos subsídios [Cap.1 §54–§60]
+
+A Seção 1.4 apresenta evidências da literatura sobre os efeitos reais dos sistemas de financiamento, respondendo à possível objeção de que taxas e subsídios não importam tanto assim. Garritzmann documenta que taxas de matrícula têm efeitos dissuasivos sobre a participação de estudantes de menor renda: crianças de famílias de baixa renda são mais avessas ao risco e à dívida, superestimam os custos e subestimam os benefícios do ensino superior. Consequentemente, mesmo a existência de subsídios compensatórios não elimina completamente os efeitos negativos de taxas elevadas sobre estudantes de menor SES. Inversamente, subsídios generosos aumentam as matrículas especialmente desse grupo. Esses efeitos são assimetricamente distribuídos: crianças de famílias de alta renda são menos sensíveis a taxas porque têm suporte familiar, enquanto as de baixa renda são muito mais responsivas. O capítulo encerra com um esquema das hipóteses testáveis derivadas da teoria (Seção 1.3.3), divididas em três níveis: individual (H1–H2), meso-partidário (H3–H5) e macro-governamental (H6).
+
+---
+
+## Capítulo 2: The Four Worlds of Student Finance (pp. 57–98)
+
+### Dataset e panorama descritivo das taxas [Cap.2 §1–§8]
+
+O capítulo 2 é dedicado a estabelecer a variável dependente do livro — os Quatro Mundos do Financiamento Estudantil — a partir de um dataset original compilado pelo autor com mais de 70 características dos sistemas de taxas e subsídios em 33 países da OCDE ao longo do tempo. Trata-se da mais abrangente compilação comparativa disponível sobre o tema até aquela data.
+
+A análise descritiva das taxas revela uma diversidade considerável. Em 1997, aproximadamente metade dos países da OCDE cobrava taxas da maioria dos estudantes; em 2010, esse percentual permaneceu relativamente estável, com variações nacionais consideráveis. As taxas médias anuais em instituições públicas de nível A variaram de zero (Finlândia, Noruega, Suécia, Alemanha) a mais de US$ 5.000 anuais (Coreia do Sul, Japão, EUA, Inglaterra, Austrália) no período 2003–2009 (Fig. 2.2). O gasto das famílias como proporção do total gasto em instituições de ensino superior seguiu padrão similar, com os países anglófonos e asiáticos liderando (Fig. 2.3). A Tabela 2.1 sumariza as características dos sistemas de taxas em 33 países ao longo do tempo.
+
+### Panorama descritivo dos subsídios [Cap.2 §9–§14]
+
+::: {.callout-note icon=false}
+O capítulo documenta que os **subsídios públicos aos estudantes** variam de forma não trivial e em parte independente das taxas, o que justifica a análise conjunta das duas dimensões como componentes do regime de financiamento.
+:::
+
+O gasto público em subsídios — medido tanto como percentagem do gasto público total em ensino superior quanto como percentagem do PIB — varia substancialmente, com os países nórdicos e anglófonos liderando e os países da Europa continental e Ásia Oriental apresentando os menores valores (Fig. 2.4). A Figura 2.5 demonstra a estabilidade dos padrões de subsídio ao longo do período 1995–2010: países de alto subsídio mantêm ou expandem o nível, enquanto países de baixo subsídio permanecem estáveis em patamares reduzidos — evidência preliminar de path dependence. Em 2008, a proporção de estudantes recebendo subsídios variava de 0–5% (países do cluster *baixa-taxa–baixo-subsídio*) a mais de 60–80% (países nórdicos e anglófonos) (Fig. 2.6). A composição dos subsídios (bolsas vs. empréstimos) também varia: a Tabela 2.2 mostra que países nórdicos oferecem proporcionalmente mais bolsas, enquanto países anglófonos dependem mais de empréstimos subsidiados.
+
+### Análise de clusters e os Quatro Mundos [Cap.2 §15–§24]
+
+A segunda metade do capítulo aplica análise de cluster hierárquico (método de Ward, distância L2 quadrada) e k-means a um conjunto de variáveis selecionadas por relevância teórica, qualidade dos dados e ausência de multicolinearidade severa. O autor apresenta três especificações: o "Modelo Parcimonioso" (4 variáveis), o "Modelo All-In" (todas as variáveis disponíveis) e o "Modelo Significant Only" (apenas as variáveis que discriminam significativamente os clusters por ANOVA).
+
+Os três modelos convergem para a mesma solução de quatro clusters (dendrogramas nas Figs. 2.9, 2.10, 2.11). O "Modelo Significant Only" é o apresentado em maior detalhe. O teste de Duda-Hart sugere soluções de 3, 4 ou 5 clusters; por razões teóricas, o autor opta pela solução de 4 clusters. A ANOVA (Tabela 2.4) revela que as variáveis que melhor discriminam os grupos são: proporção de estudantes sem pagar taxas, gasto das famílias como percentagem, percentagem de estudantes recebendo subsídios, gasto público em subsídios, proporção de estudantes recebendo bolsas, proporção recebendo empréstimos, taxas médias em instituições públicas, e proporção do gasto em subsídios destinada a empréstimos. Quatro variáveis — índices de diferenciação de taxas, governança das taxas e variação nos valores de taxas — não discriminam os grupos (p > 0.60).
+
+| Regime | Países representativos | Taxas | Subsídios |
+|:-------|:-----------------------|:------|:----------|
+| Baixa-taxa–baixo-subsídio | Alemanha, Áustria, Bélgica, França, Espanha, Itália, México | Baixas ou nulas | Escassos |
+| Baixa-taxa–alto-subsídio | Finlândia, Suécia, Noruega, Dinamarca | Nulas | Generosos |
+| Alta-taxa–alto-subsídio | EUA, Reino Unido, Austrália, Nova Zelândia, Holanda | Altas | Generosos |
+| Alta-taxa–baixo-subsídio | Japão, Coreia, Chile | Altas | Escassos |
+
+O autor reconhece que o "Modelo All-In" gera algumas reclassificações (EUA e Canadá migram para o cluster *alta-taxa–baixo-subsídio* quando mais variáveis de taxas do que de subsídios são incluídas), o que indica sensibilidade a como as dimensões são ponderadas. O cluster *baixa-taxa–baixo-subsídio* é o mais numeroso e internamente heterogêneo, congregando tanto países da Europa central e do leste quanto países da Europa do Sul e México.
+
+---
+
+## Capítulo 3: Adding "Some Flesh to the Bones": Illustrative Case Studies (pp. 99–208)
+
+### Metodologia dos estudos de caso [Cap.3 §1–§6]
+
+O capítulo 3 é o mais extenso do livro (aproximadamente 110 páginas) e apresenta quatro estudos de caso históricos (Finlândia, Japão, Alemanha, EUA) ao longo de sete décadas pós-guerra. A metodologia aplicada é a *systematic process analysis* (Hall 2003, 2008), que em quatro passos — (1) formulação do framework teórico, (2) derivação de implicações observáveis, (3) investigação empírica das implicações, (4) julgamento sobre a superioridade de uma teoria — busca avaliar se as evidências são consistentes com a teoria proposta e inconsistentes com alternativas rivais.
+
+A seleção de casos segue o princípio de *diverse cases* (Seawright e Gerring 2008): um caso por regime, selecionados por serem representativos de seu cluster e permitir generalização para países do mesmo grupo. Finlândia representa o *baixa-taxa–alto-subsídio*; Japão, o *alta-taxa–baixo-subsídio*; Alemanha, o *baixa-taxa–baixo-subsídio*; EUA, o *alta-taxa–alto-subsídio*. A estrutura de cada estudo de caso é idêntica: contexto histórico, análise das *critical junctures* e das mudanças incrementais, rastreamento das posições e ações partidárias, e avaliação do resultado final.
+
+> **Nota [2]:** Garritzmann reconhece em nota que o ponto de partida pós-guerra como "homogêneo" é uma simplificação: já existiam diferenças entre países, especialmente no que diz respeito à tradição universitária e às estruturas de financiamento pré-guerra. O argumento é que essas diferenças eram muito menores do que as observadas hoje. [nota incluída por relevância argumentativa]
+
+### Finlândia: o caminho da esquerda duradoura [Cap.3 §7–§18]
+
+A Finlândia exemplifica o regime *baixa-taxa–alto-subsídio* resultante da predominância contínua de partidos de esquerda (social-democratas e comunistas/esquerda aliada) no governo, especialmente nas décadas de 1960 a 1980. Partindo de um sistema de ensino superior mínimo e sem subsídios sistemáticos no imediato pós-guerra, o governo finlandês expandiu progressivamente as matrículas e estabeleceu um sistema de subsídios generoso que combina bolsas e empréstimos subsidiados. A Figura 3.1 mostra a participação de partidos de esquerda nos assentos do gabinete finlandês entre 1945 e 2010, demonstrando predominância clara no período formativo do sistema.
+
+O mecanismo documentado é preciso: os partidos de esquerda finlandeses identificaram os subsídios como instrumentos de igualdade de oportunidades e os expandiram progressivamente (Fig. 3.2 mostra a composição da renda dos estudantes finlandeses entre 1964 e 1994, com crescimento das bolsas e empréstimos governamentais). Quando partidos de direita participaram de coalizões governamentais, não reverteram os subsídios já estabelecidos — evidência do feedback positivo previsto pela teoria. As taxas nunca foram introduzidas.
+
+### Japão: o caminho da direita duradoura [Cap.3 §19–§28]
+
+O Japão representa o caso diametralmente oposto: predomínio contínuo do Partido Liberal Democrata (PLD) de viés conservador desde o pós-guerra resultou no regime *alta-taxa–baixo-subsídio*. A expansão do ensino superior japonês no período do alto crescimento econômico foi gerida predominantemente pelo setor privado, com taxas crescentes cobradas nas instituições privadas (que concentram a maioria dos estudantes) e nas públicas (Tabela 3.1: taxas nas instituições privadas japonesas cresceram muito acima da inflação entre 1960 e a década de 1990). O Estado japonês estabeleceu uma agência de empréstimos estudantis (*Japan Scholarship Foundation*), mas não um sistema de bolsas generosas.
+
+A Figura 3.3 compara as matrículas no ensino superior na Alemanha, Japão e EUA entre 1850 e 1992, e a Figura 3.4 mostra o crescimento das matrículas japonesas entre 1970 e 2010. Garritzmann documenta que o PLD consistentemente se opôs a subsídios públicos generosos, favorecendo a expansão via setor privado e taxas, mesmo durante os períodos de grande prosperidade econômica que poderiam ter financiado um sistema mais generoso. A breve participação da esquerda em alguns governos de coalizão não foi suficiente para estabelecer um sistema alternativo antes de ser revertida.
+
+### Alemanha: o caminho da esquerda breve [Cap.3 §29–§43]
+
+O caso alemão é central para a teoria porque ilustra exatamente o mecanismo do regime *baixa-taxa–baixo-subsídio*: uma janela de governo de esquerda suficientemente longa para instalar subsídios, mas não suficiente para consolidá-los antes da reversão pela direita. O governo social-democrata (SPD-FDP) de Willy Brandt e Helmut Schmidt nos anos 1970 introduziu o *Bundesausbildungsförderungsgesetz* (BAföG) em 1971, um sistema abrangente de auxílio financeiro para estudantes de baixa renda, como parte de um programa mais amplo de reforma social. A Figura 3.5 mostra a proporção de estudantes recebendo BAföG entre 1972 e 2012: o pico foi atingido nos anos 1970–80, seguido de queda acentuada.
+
+Quando a coalizão CDU/CSU-FDP de Helmut Kohl chegou ao poder em 1982, reverteu o BAföG de forma substancial, convertendo grande parte das bolsas em empréstimos e reduzindo o número de beneficiários (Fig. 3.6 mostra os diferentes tipos de subsídio recebidos em função do contexto familiar entre 1970 e 1990). O sistema alemão permaneceu desde então em seu modo *baixa-taxa–baixo-subsídio*, com a tentativa breve de introdução de taxas universitárias entre 2005 e 2007/2014 (dependendo do *Land*) que foi subsequentemente revertida sob pressão de movimentos estudantis, consistente com o argumento de que feedbacks antiticipavam o custo eleitoral de taxas.
+
+::: {.callout-important}
+O caso alemão também revela a importância do federalismo para os sistemas de ensino superior, uma variável que a teoria de Garritzmann não incorpora sistematicamente: a introdução e posterior abolição das taxas ocorreu no nível dos *Länder*, não federal, o que complica a análise da composição partidária do governo central como variável explicativa principal.
+:::
+
+### EUA: o caminho da esquerda duradoura seguida de taxas [Cap.3 §44–§60]
+
+O caso americano é o mais complexo e o mais extenso do capítulo. Garritzmann documenta como os *G.I. Bills* de 1944 e 1952, implementados sob administração democrata, estabeleceram um sistema de subsídios generosos para veteranos de guerra que, ao ser expandido para a população geral nas décadas seguintes (especialmente com o *Higher Education Act* de 1965 e o estabelecimento das *Pell Grants* em 1972 pela administração Nixon), criou uma base de apoio político ampla e duradoura para os subsídios.
+
+A Tabela 3.2 apresenta um panorama das maiorias governamentais e das principais reformas do ensino superior nos EUA entre 1933 e 2014. A Figura 3.7 mostra o número de beneficiários das *Pell Grants* e o volume de gasto entre 1973 e 2004: o programa cresceu substancialmente mesmo sob administrações republicanas, evidenciando os feedbacks positivos que tornaram sua redução eleitoralmente custosa. A Figura 3.8 documenta o apoio da opinião pública ao gasto em educação entre 1973 e 2006. A Figura 3.9 mostra como as taxas cresceram como proporção da receita total das instituições de ensino superior (públicas e privadas) entre 1940 e 2000, demonstrando que a estratégia republicana de longo prazo foi justamente o aumento das taxas como fonte de financiamento alternativa — não a eliminação dos subsídios.
+
+O caso americano também documenta o papel do setor bancário como grupo de interesse: bancos que lucravam com os empréstimos estudantis subsidiados tornaram-se aliados do sistema de subsídios, uma dimensão dos feedbacks de interesse que Garritzmann reconhece como exceção à sua desatenção com grupos de interesse.
+
+---
+
+## Capítulo 4: What Do Parties Want? (pp. 209–236)
+
+### Posições e ênfase partidária: survey de especialistas [Cap.4 §1–§8]
+
+O capítulo 4 testa os pressupostos fundamentais do modelo: que partidos têm posições distintas sobre o financiamento do ensino superior, que essas posições variam conforme o espectro esquerda-direita, e que os feedbacks dos regimes alteram as posições ao longo do tempo. Para tanto, utiliza o *expert survey* de Rohrschneider e Whitefield (2012) — que pergunta a especialistas sobre as posições de partidos em 14 democracias da Europa Ocidental em 2008 — e uma codificação original de todos os manifestos dos partidos britânicos entre 1964 e 2005.
+
+A Figura 4.1 mostra as posições e a ênfase dos partidos sobre financiamento do ensino superior nas 14 democracias em 2008, e a Tabela 4.1 apresenta as médias por país. A Figura 4.2 apresenta as posições por família partidária: partidos social-democratas e verdes favorecem financiamento público, enquanto conservadores e partidos de direita religiosa favorecem financiamento privado. A Figura 4.3 detalha o caso peculiar dos partidos liberais: partidos liberais do leste europeu (pró-mercado) favorecem financiamento privado, enquanto liberais do oeste europeu se dividem — evidência de que a família "liberal" abriga subtipos com posições opostas.
+
+### Feedback-effects nas posições partidárias [Cap.4 §9–§15]
+
+A evidência mais original do capítulo são as Tabelas 4.2 e 4.3, que testam se os regimes de financiamento vigentes feedbackam nas posições partidárias. Os resultados mostram que o status quo do sistema (alto vs. baixo subsídio, altas vs. baixas taxas) afeta as posições dos partidos: em países com subsídios generosos, até partidos de direita tendem a posições mais favoráveis ao financiamento público, enquanto em países com altas taxas, partidos de esquerda tendem a posições menos radicalmente antitixa. Isso confirma a Hipótese 5 do modelo.
+
+A análise dos manifestos britânicos (1964–2005) mostra como o Partido Trabalhista britânico gradualmente moderou sua oposição às taxas, ao passo que os Conservadores moderaram sua oposição aos subsídios — ambos convergindo para posições intermediárias que refletem o regime híbrido *alta-taxa–alto-subsídio* do Reino Unido. A Figura 4.6 resume os achados sobre posições e ênfase dos partidos *mainstream* por família, confirmando diferenças sistemáticas.
+
+---
+
+## Capítulo 5: Testing the Time-Sensitive Partisan Theory in Large-n Analyses (pp. 237–266)
+
+### Estratégia empírica e dados [Cap.5 §1–§5]
+
+O capítulo 5 testa a Time-Sensitive Partisan Theory em 21 democracias com análises quantitativas de longo prazo. Os dados de composição governamental (mensurada como *cabinet seat shares* por família partidária) são combinados com dados de gasto em subsídios (variável dependente proxy para o regime de subsídios) e gasto privado das famílias (proxy para taxas) ao longo de seis décadas.
+
+As Figuras 5.1 a 5.6 apresentam diagramas de dispersão bivariados entre gasto em subsídios e participação de partidos de esquerda no gabinete, e entre gasto privado e participação de conservadores, para três subperíodos (1945–1965, 1966–1985, 1986–2005). As correlações confirmam as previsões teóricas de forma consistente: em períodos anteriores (1945–1965 e 1966–1985), há correlação positiva entre predominância de esquerda e subsídios generosos; em períodos posteriores (1986–2005), a correlação enfraquece, consistente com o argumento de que feedbacks tornaram os sistemas mais autossustentados.
+
+### Resultados das regressões TSCS [Cap.5 §6–§14]
+
+As Tabelas 5.1 e 5.2 apresentam regressões OLS com *cabinet seat shares* históricos acumulados (ponderados por período) como variável explicativa principal e gasto em subsídios/privado como variável dependente. Os coeficientes são estatisticamente significativos e na direção prevista. As Tabelas 5.3 a 5.6 aplicam regressões TSCS (dados país-ano e por governo) para o período 1995–2010, controlando por variáveis econômicas. Os resultados em nível de governo (Tabelas 5.5 e 5.6) são mais robustos do que os resultados em nível país-ano (Tabelas 5.3 e 5.4).
+
+::: {.callout-important}
+O autor reconhece que o período 1995–2010 é justamente aquele em que a teoria prevê *estabilidade* dos regimes (devido aos feedbacks consolidados), o que torna o teste TSCS de curto prazo metodologicamente subótimo para confirmar o argumento causal sobre *formação* dos regimes. O teste mais adequado seria justamente o período 1945–1985, mas os dados de subsídio comparativos para esse período são escassos.
+:::
+
+A Tabela 5.A apresenta estatísticas descritivas das variáveis macro utilizadas no capítulo. Os resultados quantitativos são consistentes com a teoria, mas o autor é cuidadoso ao enfatizar que eles *corroboram* — e não *provam* — a causalidade estabelecida pelos estudos de caso qualitativos.
+
+---
+
+## Capítulo 6: Individual-Level Attitudes Towards Subsidies (pp. 267–300)
+
+### Dados, variáveis e hipóteses [Cap.6 §1–§6]
+
+O capítulo 6 testa o mecanismo de feedback positivo no nível individual: os regimes de financiamento moldam as preferências dos cidadãos, tornando-os mais ou menos favoráveis a subsídios conforme o sistema que experimentaram. Os dados provêm de surveys comparativos do *International Social Survey Programme* (ISSP) e Eurobarômetro, cobrindo 22 países ao longo de aproximadamente duas décadas.
+
+A variável dependente é a atitude dos respondentes em relação à expansão dos subsídios públicos aos estudantes, medida em escala ordinal. O autor opta por focar nos subsídios (e não nas taxas) porque, como argumenta, o mecanismo de feedback é teoricamente mais difícil de estabelecer para subsídios do que para taxas (por razões de escolha racional), tornando a confirmação empírica um teste mais robusto. A Figura 6.1 mostra a distribuição das atitudes ao longo do tempo, e a Figura 6.2 apresenta a variação por país.
+
+### Resultados dos modelos multinível [Cap.6 §7–§14]
+
+A Tabela 6.1 apresenta modelos multinível de logit ordinal com determinantes individuais das atitudes: renda, posição ideológica (esquerda-direita), nível educacional, ter frequentado ou não o ensino superior, e variáveis de contexto macro. Os resultados confirmam a Hipótese 1: apoio a subsídios decresce com a renda e com posições ideológicas mais à direita. A Tabela 6.2 reporta efeitos marginais para ser "definitivamente" favorável a subsídios, revelando diferenças substantivas entre perfis socioeconômicos.
+
+A Tabela 6.3 (modelo "keep significant only") apresenta os resultados do teste central do capítulo: os efeitos dos regimes macro nas atitudes individuais, controlando por características individuais. Os coeficientes das variáveis macro — generosidade do sistema de subsídios e tendência temporal dos subsídios — são positivos e estatisticamente significativos: em países com subsídios mais generosos, os respondentes são mais favoráveis à expansão dos subsídios, mesmo após controlar por renda e ideologia. Isso confirma a Hipótese 2b do modelo e oferece suporte ao mecanismo de feedback positivo.
+
+::: {.callout-tip}
+A evidência do Cap. 6 é a mais diretamente relevante para o argumento de path dependence: ela demonstra empiricamente que cidadãos internalizaram as características de seus respectivos sistemas, gerando apoio ao status quo que constrange electoralmente qualquer governo que deseje reforma radical.
+:::
+
+---
+
+## Capítulo 7: Conclusion and Outlook (pp. 301–314)
+
+### Síntese dos achados e contribuição teórica [Cap.7 §1–§7]
+
+O capítulo de conclusão retoma os três puzzles de pesquisa e avalia em que medida o livro os respondeu. Em relação à pergunta descritiva, Garritzmann conclui que os Quatro Mundos do Financiamento Estudantil são uma tipologia robusta, replicada em múltiplas especificações de cluster. Em relação à pergunta explicativa, a Time-Sensitive Partisan Theory é avaliada como bem-suportada pelo conjunto da evidência multi-método: os estudos de caso rastrearam os mecanismos; as análises de posição partidária confirmaram os pressupostos; as regressões macro confirmaram os padrões; e os dados de survey individual confirmaram o mecanismo de feedback. Em relação à pergunta sobre sustentabilidade, os feedbacks positivos documentados nos três níveis de análise — individual, partidário e macro — são apresentados como explicação suficiente para a imunidade dos regimes a mudanças radicais nas últimas duas décadas.
+
+Garritzmann avalia que a contribuição mais duradoura do livro opera em dois níveis simultâneos. No nível empírico, o livro fornece a primeira análise sistemática e comparativa conjunta de taxas e subsídios como fenômenos interdependentes, identificando e caracterizando os Quatro Mundos com um dataset original de mais de 70 variáveis. Nenhum estudo anterior havia tentado explicar *tanto* a variação cross-national *quanto* a trajetória temporal desses dois componentes como um regime integrado. No nível teórico, a Time-Sensitive Partisan Theory representa um refinamento da hipótese partidária clássica ao incorporar *sequência* e *duração* como dimensões analíticas autônomas — não apenas como covariáveis de controle —, fundindo a lógica de escolha racional com o argumento histórico-institucionalista sobre feedbacks e path dependence.
+
+O capítulo reconhece limites importantes: os dados comparativos sobre subsídios são muito mais limitados do que os dados sobre taxas, o que restringiu os testes quantitativos; os estudos de caso são "diversos" e ilustrativos, não confirmatórios em sentido estrito; a teoria pressupõe um contexto de democracia consolidada que não se aplica a todos os países da tipologia descritiva; e a mensuração do argumento temporal nas regressões TSCS (via ponderação de *cabinet seat shares* históricos acumulados) é necessariamente arbitrária em algum grau. O autor também admite que o mecanismo de feedback foi testado apenas para subsídios e não para taxas — a ausência de dados de survey comparativos sobre atitudes em relação a taxas é apontada como a principal lacuna para esse segundo teste.
+
+### Extensão da teoria e agenda de pesquisa [Cap.7 §8–§14]
+
+::: {.callout-tip}
+A contribuição metodológica do argumento — que *sequência* e *duração* importam para os efeitos dos partidos — é apresentada pelo autor como potencialmente generalizável a outras políticas de bem-estar onde feedbacks de longo prazo moldam a sustentabilidade dos regimes.
+:::
+
+O capítulo de conclusão esboça explicitamente uma agenda de pesquisa em três direções. A primeira é a *extensão substantiva*: a Time-Sensitive Partisan Theory poderia ser aplicada a outros domínios de política social onde os efeitos dos partidos dependem do tempo — candidatos óbvios incluem políticas de cuidado infantil, pensões, políticas de saúde e habitação, cujos regimes também foram formados em *critical junctures* do pós-guerra e parecem igualmente resistentes a mudanças radicais. O autor argumenta que a teoria é potencialmente mais informativa do que a hipótese partidária simples justamente porque esses outros domínios são igualmente marcados por feedbacks e path dependence.
+
+A segunda direção é a *extensão geográfica*: o livro se concentrou nos países da OCDE com democracia consolidada, mas os padrões descritos também aparecem em países da América Latina e Ásia, sugerindo que a teoria pode operar em democracias mais recentes — embora com condições de escopo diferentes, pois nessas democracias os períodos de formação institucional foram mais curtos e frequentemente interrompidos por regimes autoritários. Garritzmann sugere que analisar como regimes autoritários moldaram as condições de partida dos sistemas de financiamento seria uma extensão promissora. A terceira direção é a *extensão dinâmica*: as análises quantitativas são limitadas a 1995–2010, justamente o período em que a teoria prevê estabilidade. Novos dados que permitissem testar o argumento sobre a *formação* dos regimes em grande-n para o período 1945–1985 seriam altamente valiosos para discriminar entre a teoria do autor e explicações alternativas.
+
+O capítulo encerra com uma reflexão normativa implícita: se os regimes são altamente path dependent e resistentes a mudanças radicais, então mudanças incrementais em subsídios nos países do cluster *alta-taxa–baixo-subsídio* — como os países da Ásia Oriental e da América Latina — seriam o mecanismo mais promissor para melhorar as condições de acesso de estudantes de baixa renda, em vez de apostas em reformas estruturais radicais que enfrentariam resistência eleitoral nos países onde as preferências já foram moldadas pelo regime existente.
+
+---
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+**Tese central:** A diversidade dos sistemas de financiamento do ensino superior entre as democracias avançadas — sintetizada nos Quatro Mundos do Financiamento Estudantil (baixa-taxa–baixo-subsídio; baixa-taxa–alto-subsídio; alta-taxa–alto-subsídio; alta-taxa–baixo-subsídio) — não pode ser explicada por fatores estruturais socioeconômicos, mas apenas por uma análise *tempo-sensível* da composição partidária dos governos, que considera a sequência e a duração dos partidos no poder, combinada com os feedbacks positivos gerados pelos regimes instalados nas preferências individuais e partidárias ao longo do tempo.
+
+**Natureza do argumento:** Causal-histórico com extensão comparativa. O argumento não é experimental nem identifica variação exógena; é uma inferência causal histórica fundamentada em rastreamento de mecanismo (estudos de caso), corroborada por testes quantitativos correlacionais (regressões TSCS e multinível).
+
+**O que o texto demonstra vs. o que fica como hipótese ou agenda:**
+- *Demonstrado com força*: a existência robusta dos Quatro Mundos como tipologia (análise de cluster com múltiplas especificações); a distinção analítica entre gasto em instituições vs. gasto em subsídios como chave para resolver contradições da literatura; a consistência do argumento temporal com os quatro estudos de caso; a correlação entre composição partidária histórica e regimes nos dados de survey macro.
+- *Demonstrado com plausibilidade, mas não identificação causal*: o mecanismo de feedback positivo nos dados de survey individual (correlação, não experimento); a relação entre sequência/duração partidária e regime nos dados TSCS (período pós-1995, exatamente quando a teoria prevê estabilidade).
+- *Fica como hipótese/agenda*: a generalização da teoria para outros domínios de política social; a aplicabilidade a democracias não-OCDE; o teste da teoria no período formativo 1945–1985 em grande-n; os determinantes das atitudes em relação a taxas (não apenas subsídios).
+
+**Contribuição para o debate mais amplo:** O livro insere-se no debate sobre determinantes políticos do welfare state e da skill formation, respondendo à lacuna documentada sobre o ensino superior como componente esquecido da literatura de *Varieties of Capitalism* e de social investment. Sua contribuição teórica central — a Time-Sensitive Partisan Theory — qualifica a hipótese partidária clássica ao demonstrar que o *quando* e por *quanto tempo* um partido governa pode ser mais determinante do que a simples composição média, uma revisão com potencial de viajar para outros domínios de política comparada. A contribuição descritiva (tipologia dos Quatro Mundos com dataset original) é independentemente valiosa para qualquer pesquisa comparativa sobre financiamento do ensino superior.
+:::

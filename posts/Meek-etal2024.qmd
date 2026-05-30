@@ -1,0 +1,218 @@
+---
+title: "Fichamento: Race and the political ecology of education in Brazil"
+subtitle: "Meek, D., Daquin, J., Girardi, E. P., Fernandes, B. M., Sobreiro do Filho, J., Tarlau, R., & Vuelta, R. (2024). Race and the political ecology of education in Brazil: A spatial analysis of rural school closures. *Journal of Political Ecology*, *31*. https://doi.org/[não informado no PDF]"
+author: "Tales Mançano"
+date: "2026-05-14"
+last-updated: "2026-05-14"
+coverage: "Obra completa"
+categories: [Annotated Bibliography, Political Ecology, Education Policy, Race and Inequality, Brazil, 2024, 2020s]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+    execute: false
+---
+
+::: {.callout-note collapse="true" icon=false}
+## Informações Técnicas e BibTeX
+
+```
+Última atualização: 2026-05-14
+Modelo: Claude claude-sonnet-4-5 (Perplexity, powered by Sonnet 4.6 Thinking)
+Prompt Version: v17.4 · 2026-05-13
+Gerado em: 2026-05-14T23:46:00-03:00
+Ocasião da Leitura:
+```
+
+**Entrada BibTeX → Meek-etal2024**
+
+```bibtex
+@article{Meek-etal2024,
+  author    = {Meek, David and Daquin, Jane and Girardi, Eduardo Paulon and
+               Fernandes, Bernardo Man{\c{c}}ano and Sobreiro do Filho, Jos{\'e} and
+               Tarlau, Rebeca and Vuelta, Raquel},
+  title     = {Race and the political ecology of education in {Brazil}:
+               {A} spatial analysis of rural school closures},
+  year      = {2024},
+  journal   = {Journal of Political Ecology},
+  volume    = {31},
+  doi       = {não informado no PDF},
+}
+```
+
+:::
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v17.4*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | A pergunta central assume que o fechamento de escolas rurais no Brasil é um fenômeno com lógica espacial e racial. Isso é uma premissa implícita que o desenho confirmatório não testou contra hipóteses alternativas igualmente plausíveis (e.g., simplesmente declínio demográfico rural). | Quais são os fatores sociais, políticos e econômicos que estruturam o padrão espacial do fechamento de escolas rurais no Brasil entre 1994 e 2020, e em que medida raça e concentração fundiária são determinantes desse processo? Natureza: explicativa/descritiva. |
+| Questões Secundárias | As três subperguntas — onde as escolas fecham (espacialmente), se raça prediz os fechamentos, e se concentração fundiária os condiciona — são operacionalizadas de forma relativamente independente, mas o artigo não as integra numa única especificação causal unificada. | (1) Como os fechamentos se distribuem espacialmente no Brasil? (2) A composição racial do município prediz a taxa de fechamentos? (3) A concentração fundiária (GINI) prediz a taxa de fechamentos? As três subperguntas têm relação direta e progressiva com a tese central. |
+| Puzzle-Type | O puzzle é genuíno: a escala do fenômeno (142.401 escolas, 65% do total) é empiricamente subestimada na literatura de ecologia política da educação. A generalizabilidade além do Brasil é limitada, mas o argumento conceitual sobre colonialidade e conhecimento tem alcance amplo. | Puzzle descritivo-explicativo: a literatura de ecologia política da educação havia documentado pouco sobre como raça estrutura geograficamente o acesso à educação rural. O artigo trata esse silêncio como lacuna teórica e empírica. |
+| Conclusão / Argumento Central | A tese combina achados quantitativos com enquadramento normativo (coloniality, injustiça epistêmica). O "claim of discovery" — que raça e concentração fundiária causam fechamentos — é mais forte descritivamente do que causalmente, dado o design observacional. | O fechamento massivo de escolas rurais no Brasil é um processo racializado e estruturado pela desigualdade fundiária: municípios com maior proporção de residentes negros e maior índice de Gini apresentam taxas significativamente mais altas de fechamento escolar, o que reflete a operação histórica e contemporânea do racismo estrutural e do capitalismo agrário sobre o acesso ao conhecimento. |
+| Métodos | O design é quantitativo-espacial com dois estágios: (a) análise geoespacial de hotspots (Getis-Ord*) com dados 1994–2020 para todos os municípios brasileiros; (b) regressão binomial negativa de painel com efeitos aleatórios para dois anos (2006 e 2017). A restrição a apenas dois pontos temporais na fase multivarida limita substancialmente as inferências sobre tendências longitudinais. O fichamento cobre a obra inteira. | Estudo quantitativo com análise espacial e regressão de painel. Fontes: Censo Escolar (INEP, 1996–2021) para escolas; Censo Demográfico (IBGE 2010) para dados raciais; fontes agrárias para Gini fundiário. Ferramenta SIG: ArcMap 10.5. Análise estatística: STATA 17. |
+| Data Generation Process (DGP) | A raça é medida pelo Censo 2010 (corte único), enquanto os fechamentos cobrem 25 anos — isso introduz um problema de defasagem temporal severo: a composição racial de 2010 é usada para predizer fechamentos de 1994–2020. A unidade de análise é o município, mas o fenômeno opera no nível da escola e da comunidade, introduzindo falácia ecológica. | Fenômeno real (fechamento escolar) → registros administrativos anuais do INEP → banco relacional em MS Access → operacionalização de "escola fechada" por comparação bianual (ativa/paralisada no ano t → extinta no ano t+1) → análise em dois estágios (hotspot + regressão). Unidade: município (N=5.412). Dois períodos para a regressão (2006, 2017). Viés potencial: escolas que mudam de categoria rural→urbana não são contadas como fechadas, o que pode subestimar o fenômeno em áreas de reclassificação territorial. |
+| Achados e Contribuições | Os achados descritivos (tabelas 1–3) são bem documentados e robustos. Os achados inferenciais (tabela 4) são tecnicamente sólidos mas sofrem das limitações do DGP descritas acima. A contribuição teórica — introduzir raça como dimensão central na ecologia política da educação — é genuína e bem articulada. | Descritivos: 142.401 escolas rurais fechadas (65%); concentração no Nordeste (48,6% do total) e Sul (17,1%); 90% dos fechamentos em escolas municipais. Inferenciais: GINI fundiário é o preditor mais forte (IRR=3,28; p<0,01); proporção de negros é o segundo (IRR=2,75; p<0,001); urbanização reduz fechamentos (IRR=0,49); orientação política federal não é estatisticamente significativa. Contribuição metodológica: uso de big data censitário combinado com análise espacial para questão educacional crítica. |
+| Análise Crítica dos Achados | (a) **Falácia ecológica**: inferir sobre comunidades negras a partir de proporções municipais é problemático — município com 30% de negros pode ter fechamentos concentrados em bairros/assentamentos específicos, e o design não capta isso. (b) **Causalidade reversa parcial**: municípios onde escolas já fecharam podem ter visto evasão de populações negras (seleção amostral dinâmica não discutida). (c) **Confundidores omitidos**: densidade demográfica rural, distância de centros urbanos e investimento per capita em educação não aparecem como controles. (d) **Dois pontos temporais**: a análise de painel com apenas 2006 e 2017 não permite verificar se a associação raça-fechamentos se mantém em outros períodos; os hotspots descritivos mostram variação temporal considerável. (e) O achado de que "orientação política federal não é significativa" é empiricamente importante mas subteorizado — o artigo atribui isso à autonomia municipal sem explorar como o poder local media raça e fundiário. | O design identifica com força a correlação entre Gini e fechamentos, e entre composição racial e fechamentos; identifica com menor força a direção causal e os mecanismos intermediários. |
+| Limitações | **Reconhecidas pelos autores:** Restrição a dois períodos na análise multivariada; inconsistências nos microdados do Censo Escolar (escolas que mudam de categoria); ausência de análise do nível municipal de decisão política. <br> **Não reconhecidas ou subestimadas:** Falácia ecológica na inferência sobre "comunidades negras"; mensuração de raça com dado censitário de corte único (2010) aplicado a série temporal de 25 anos; ausência de controles para densidade demográfica rural e investimento educacional per capita; possível viés de seleção por reclassificação rural-urbana; o modelo de efeitos aleatórios assume ausência de correlação entre os efeitos não observados e os regressores, o que é discutível dada a estrutura da desigualdade fundiária brasileira. |
+| Perspectiva Teórica | A moldura da ecologia política da educação (Meek 2020) é usada com coerência: articula questões de poder, economia política e movimentos sociais. A incorporação de colonialidade do saber (Porto-Gonçalves, Santos) e de interseccionalidade é relevante e bem calibrada ao objeto. A ontologia implícita é relacional e construtivista, coerente com a estratégia qualitativo-crítica da literatura review, mas parcialmente em tensão com o positivismo inferencial do componente quantitativo. | Ecologia política da educação; colonialidade do poder e do saber (Quijano/Santos); pedagogia crítica (Freire); questão agrária (Bernstein, McMichael); interseccionalidade. |
+| Principais Referências | Meek (2020) é a referência central para o quadro teórico; Dávila (2003), Winant (1992), Marcus (2013) para raça no Brasil; Bernstein (1996, 2004, 2008), McMichael (1997) para questão agrária; Tarlau (2013, 2015, 2017, 2018) para MST e educação do campo. O diálogo com literatura quantitativa sobre determinantes de fechamento escolar em outros países é praticamente ausente — uma lacuna que enfraquece a contextualização comparativa. | Referências centrais bem integradas; ausência de literatura quantitativa comparada sobre fechamentos escolares. |
+| Observações | O artigo é pioneiro ao cruzar análise espacial censitária em grande escala com quadro teórico crítico de raça e ecologia política. A principal vulnerabilidade está na distância entre o "claim of discovery" (processo fundamentalmente racializado) e o que o design realmente identifica (correlação ecológica entre composição municipal e fechamentos). Para a pesquisa do leitor em políticas de ensino superior e desigualdade educacional no Brasil, o artigo oferece tanto uma metodologia de análise de dados censitários do INEP quanto um enquadramento teórico interseccional aplicável a outros níveis de ensino. |
+
+:::
+
+## Mapa Argumentativo {.unnumbered}
+
+| Seção | Título / Tema | Função argumentativa | Contribuição para a tese central |
+|:------|:--------------|:---------------------|:---------------------------------|
+| Introdução | Escopo do problema e três questões geográficas | Apresentação do puzzle e das hipóteses centrais | Estabelece a escala do fenômeno (142.401 escolas; 65%) e anuncia os três achados principais como antecipação da tese |
+| Seção 2a | Geografia das categorias raciais e injustiça epistêmica | Fundamento teórico-conceitual | Demonstra que a distribuição geográfica de raça no Brasil é herança colonial, criando a base para a hipótese de que fechamentos seguem essa mesma lógica territorial |
+| Seção 2b | Educação, raça e questão agrária no Brasil | Revisão histórica e contextualização teórica | Articula a história do uso da educação como instrumento de branqueamento e dominação agrária; introduz Freire, MST e Educação do Campo como vetores de resistência |
+| Seção 3 | Métodos e análises | Fundamento metodológico | Justifica as escolhas de DGP (Censo Escolar), operacionalização de "escola fechada", análise espacial (Getis-Ord*) e regressão binomial negativa de painel |
+| Seção 4 | Resultados | Análise empírica | Apresenta os achados descritivos (Tabelas 1–3, Figuras 1–3) e inferenciais (Tabela 4), confirmando as três hipóteses; introduz achado sobre transição agrária como qualificação |
+| Seção 5 | Conclusões | Síntese e agenda | Reafirma a tese de que raça e Gini fundiário estruturam os fechamentos; propõe contribuições teóricas (interseccionalidade na ecologia política da educação) e agenda de pesquisa futura |
+
+## Introdução (pp. 1–3) {#sec-introducao}
+
+### Apresentação do puzzle e das três questões geográficas [§1–§6]
+
+O artigo se abre contextualizando um processo de escala extraordinária: nas últimas vinte e cinco anos, o Estado brasileiro fechou mais de 142.401 escolas rurais, o que corresponde a 65% de toda a rede escolar rural existente no período. Em 2016 isoladamente, mais de 11.732 escolas foram encerradas. Os autores enquadram esse fenômeno não como uma série de decisões administrativas pontuais, mas como um **processo territorial espacialmente extenso e intensivo**, cuja lógica precisa ser explicada.
+
+A contribuição teórica anunciada é dupla. No campo da ecologia política da educação — perspectiva que os autores definem, com base em Meek (2020), como "atenta à forma como a distribuição de poder e recursos entre entidades políticas e culturais interconectadas medeia processos pedagógicos" —, as questões de raça haviam permanecido largamente invisíveis. O artigo propõe preencher essa lacuna por meio de três contribuições: (1) demonstrar como uma lente histórica ilumina a inequidade racializada desde uma perspectiva de ecologia política da educação; (2) mostrar como raça, educação e formação do Estado se entrelaçam no Brasil; e (3) evidenciar como movimentos sociais de base mobilizam a educação como instrumento de resistência ao capitalismo agrário.
+
+O artigo organiza seus resultados em torno de três perguntas geográficas explícitas, que o texto antecipa com as respostas principais ainda na introdução. Primeiro, o padrão espacial dos fechamentos concentra-se em hotspots que coincidem com territórios de comunidades de cor e com presença do agronegócio — nas regiões Centro-Oeste e Sul, onde o agronegócio é mais forte, aproximadamente 80% das escolas foram fechadas; no Norte e Nordeste, com maior proporção de pessoas de cor, cerca de 60% das escolas rurais desapareceram. Segundo, a composição racial do município é preditora significativa: em municípios com maior proporção de residentes negros autodeclarados, a taxa de incidência de fechamentos é 175% maior. Terceiro, a concentração fundiária é o preditor de maior tamanho de efeito: um aumento de uma unidade no índice de Gini está associado a uma elevação de 228% na taxa de fechamentos.
+
+::: {.callout-note icon=false}
+A introdução opera como síntese antecipada: ao revelar os achados centrais já nos primeiros parágrafos, os autores estabelecem o argumento como confirmação empírica de uma denúncia dos movimentos sociais rurais — o que confere coerência normativa ao texto, mas também revela a estrutura confirmacionista do desenho de pesquisa.
+:::
+
+## Geografia Racial e Injustiça Epistêmica (pp. 4–5) {#sec-secao2a}
+
+### Distribuição demográfica e ambiguidade das categorias de cor [§7–§10]
+
+Os autores iniciam essa seção reconhecendo o problema semântico e político inerente ao uso de categorias de cor no Brasil. Os censos brasileiros historicamente utilizaram o termo *côr* (cor) em vez de raça ou etnia, e apenas em 1991 a categoria *indígena* foi incluída. O termo *pardo* é próximo do sem sentido analítico, abrangendo desde "meio-negro" até "moreno de pele escura" (Marcus 2013: 1290). Mesmo os termos *preto* e *branco* não são vinculantes nem binários no Brasil — são construções flexíveis, arbitrárias e de múltiplos subtextos. Reconhecendo essas ambiguidades, os autores optam por trabalhar com as categorias censitárias disponíveis, que ainda assim oferecem orientação sobre a distribuição demográfica.
+
+Os dados do IBGE 2010 mostram que a região mais populosa é o Sudeste (42,6% da população), com São Paulo e Rio de Janeiro como centros urbanos principais. O Nordeste é o segundo (28,1%), seguido do Sul (14,8%), Norte (7,6%) e Centro-Oeste (6,9%). A composição racial nacional é: brancos (53,8%), pardos (38,5%), pretos (6,2%), amarelos (0,4%), indígenas (0,4%) e não declarados (0,7%). Regionalmente, o Sul tem a maior proporção de brancos autodeclarados (84%), o Norte tem a maior proporção de pardos (64%) e o Nordeste concentra a maior proporção de pretos (8%). A região Norte também é lar da maior população indígena (1,6%).
+
+### Coloniality, injustiça epistêmica e a lógica do fechamento escolar [§11–§13]
+
+Os autores argumentam que esses padrões demográficos regionais não são acidentais: são herança direta da agricultura de plantation colonial — bananas, cacau e açúcar no Nordeste — que estruturou a distribuição de populações afrodescendentes no país (Marcus 2013). Essa territorialização racializada foi reciprocamente reforçada pela **coloniality do poder** e pela geopolítica da produção de conhecimento. O colonialismo inscreveu a branquitude como identidade padrão associada à produção legítima de saber. A concepção de que camponeses são "desprovidos de conhecimento" é produto de um processo racializado de invisibilização.
+
+::: {.callout-important}
+Os autores invocam Santos (2002) para afirmar que o que o cânone ocidental não reconhece como legítimo é negado e tornado invisível. O fechamento de escolas rurais é enquadrado, a partir desse raciocínio, como apagamento de **epistemologias camponesas negras** — um marcador de colonialidade. Em resposta, movimentos sociais agrários buscam tornar visíveis outros sistemas de saber, engajando-se no que Porto-Gonçalves (2006) denomina *re-existência*.
+:::
+
+## Educação, Raça e a Questão Agrária no Brasil (pp. 5–10) {#sec-secao2b}
+
+### O mito da democracia racial e o Estado como agente de branqueamento [§14–§18]
+
+A seção se inicia com a afirmação de que o Brasil é, para muitos, um país onde falar sobre raça "não faz sentido". Desde a década de 1930, o país foi apresentado como democracia racial — ideia popularizada por Gilberto Freyre, sustentando que o Brasil seria único entre as antigas colônias em sua harmonia racial e aceitação da miscigenação. A partir dos anos 1950, porém, esse imaginário começou a ruir à medida que a discriminação estrutural contra afro-brasileiros tornava-se mais visível. Os autores seguem Serrão (2022), Silva (2016) e Guimarães (2001) ao rejeitar esse mito e propor que o racismo estrutural opera territorialmente.
+
+O artigo reconstrói a história da educação brasileira como instrumento de formação racial do Estado. Willinsky (1998) é mobilizado para mostrar que desde o colonialismo europeu, o "estudo, classificação e ordenamento da humanidade em contexto imperial deu origem a ideias peculiares e poderosas de raça, cultura e nação" (p. 3). No Brasil, entre 1917 e 1945, o Estado expandiu o sistema escolar com o objetivo declarado de "aperfeiçoar a raça" — criar uma "raça brasileira" saudável, culturalmente europeia e fisicamente apta (Dávila 2003: 3). A negritude era associada ao passado e à patologia; a mistura racial simbolizava progresso rumo à branquitude; a branquitude era associada à saúde, à ciência e à modernidade. As reformas educacionais do período privilegiaram aparência, hábitos e valores da classe média branca. Como Dávila (2003) argumenta, reformar o sistema de ensino era a estratégia central para construir uma nação culturalmente branca.
+
+Durante a ditadura militar (1964–1984), o regime investiu em educação como instrumento de desenvolvimento econômico urbano, concentrando gastos no ensino médio e superior em centros urbanos e deixando as regiões rurais em situação de crônica subinvestimento. A Lei de Reforma Educacional de 1971 cedeu alguma autoridade sobre o ensino básico aos estados, mas apenas a Constituição de 1988 devolveu plenamente esse controle a estados e municípios. Ainda assim, duas décadas de política econômica urbano-industrial deixaram sequelas profundas nas regiões rurais. Entre 1980 e 1996, a proporção de alunos que concluíam a quarta série no Brasil subiu de 50% para 75%, e os que terminavam o ensino médio, de 17% para 25% (Reimers 2000: 67) — mas a vasta maioria das crianças deixadas para trás nessa expansão eram de zonas rurais.
+
+### Economia política da educação e o papel dos movimentos sociais [§19–§23]
+
+Os autores articulam a economia política da educação diretamente com a questão agrária. A disparidade geográfica na oferta educacional replica a distribuição historicamente inequitativa da terra (Plank 1987). Municípios rurais no Norte e Nordeste historicamente recebiam um sexto dos recursos destinados aos municípios do Sul urbano (Gadotti 1992), e em 1990 os gastos por aluno nos estados mais pobres do Nordeste eram um terço daqueles nos estados mais ricos do Sul (Reimers 2000). Governos municipais controlados por latifundiários engajados em clientelismo são os administradores burocráticos das escolas públicas rurais (Tarlau 2013). A classe dominante brasileira governou simultaneamente a terra e a educação com o objetivo de preservar o capitalismo agro-industrial e deslocar o campesinato para áreas urbanas.
+
+Paulo Freire (1921–1997) é apresentado como ponto de viragem nessa trajetória. Seu trabalho no Nordeste — e posteriormente no Chile — articulou uma compreensão de consciência crítica e práxis diretamente conectada ao campesinato: em *Ação cultural para a liberdade* (1970), o termo "camponês" aparece mais de 70 vezes. Como Michael Apple (2003) observa, Freire sabia por experiência própria que a opressão é "codificada por cor", e que a política de raça era arena central de contestação nas lutas dos afro-brasileiros.
+
+> **Nota:** Haymes (2002) realizou análise crítica detalhada sobre a presença e ausência de raça nos escritos de Freire, referência que os autores citam em nota de rodapé mas não desenvolvem no corpo do texto. [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/111334221/51a156d6-65e1-4d9a-82af-199bfdd408d1/jpe-5135-meek.pdf?AWSAccessKeyId=ASIA2F3EMEYE6HQVZ3TP&Signature=uGL%2FHKq%2FDZvxiwKqqQOem%2F1101g%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEKD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIFOrPJNBZl31OThdxSFXP0CK73G6KTYl2AxXi1LIB8dZAiBiSGnB2852Xj26tgvbSud54PoR37YIJpbmTkKJHNVMpirzBAhpEAEaDDY5OTc1MzMwOTcwNSIMoZUFTE4o%2FTxPjNTLKtAESKH8Za007TMR0%2B4PVL%2FTDi5p6wwa254E9%2FTjiqt2wDKQgcVfykX%2FYrNXC367LcQJORpqgVda0Bc0ut88RqQIJKprW9eJtLfsRGTUAkWqOdKB0ICbDipUaqPDFrj8KwzOM6oBadRwpnqMwvTQkzKIhU9YgmazOzVgtH87swKe7pxikAb8n7S9zPckX7chQXb7Addwjiy1oowHovJrfTXHuXxLoqTaa9dke9PFY8lRZyCuiSGRrO0RISCpvAAR77KzP8iTDU7NLl84pvjnfX8f5xFvZupIL0WZLLclR1%2BK6EnzGo6udRaTNLR%2B2T1jI4PEJP1akuFGC%2BVh%2FwSGtjuGkRHMPB5Jlj85Hh6hOoh0%2FvRXbRU4e0y4eixWQBvnLv410xA67lyBw2rsfQ%2FdgZjzqw3pfnNLkZznsRzg0l0y8YGR5o74rlMdWjhcqWxz%2BoMxb6Ef3JDsF%2FwoAcSp9rftbbRnmTbMONlLy%2BI40wRqvg2sTlHjWtonPJ8IToqXJZZSydDbVTkeT8Mhw5yZ%2BTGoXzvo4q%2BmIC36wBM7CQAVOsUE4GEyMBxNb4pJuAWCAQ1WJD46KHQiYeVvhKa8JbNY0IfBaZBJScC4488koesplQkjj%2FS6xVTgJdQIFSJTpZzgxDGdxQHjGmd2oskLq6HY6y6op3nid8RP%2FZCESIQ9IaLGgRYtRTxJMTXK7qYww9Nodfki8db8Az1g9WCVQZres9zpyV%2BKRokODeT6Cr2bvra7TIqLTXtDapPJh7cLdRGV1mrKVHhQBSyUoGkhvKfUajCbspnQBjqZAatl9mVTNNs2pevj9QAW5O8loquRf0VNFNPcfgQDv0kk3MkTMc4yd1NE3XVz%2BfqwyaE7oeTWbU%2B1SyFKzQXDKY2BJ0%2BY4hOnXA9V1%2BSlM9GZIVhk23ZoGLNk%2F2tMhsjoVKwB8FQTFRpEiR%2Fp4QUOzZS%2B2M4YWf6Mxjze70vtn4Zq6qsCN77V4hxGvxLXv5hib%2FYPk%2FmIwFnnZA%3D%3D&Expires=1778803218)
+
+O Movimento dos Trabalhadores Sem Terra (MST) é apresentado como o ator que transformou a pedagogia crítica freiriana em programa educacional organizado. Ao longo dos anos 1980, líderes do MST que ocupavam terra para conquistar direitos agrários também desenvolveram atividades pedagógicas para crianças e programas de alfabetização para adultos em acampamentos. Na Primeira Reunião Nacional de Educadores da Reforma Agrária (ENERA) em 1997, representantes de organizações internacionais como UNESCO e UNICEF incentivaram o MST a expandir seu programa educacional para incluir populações indígenas, comunidades negras e trabalhadores rurais — momento em que o conceito de **Educação do Campo** entrou no debate nacional.
+
+### Educação do Campo, nucleação e imaginários espaciais em conflito [§24–§31]
+
+A *Educação do Campo* é definida pelos autores como educação que se origina do campo e é relevante para ele, um paradigma que valoriza a identidade agrária, as práticas agroecológicas e a soberania alimentar. Segundo o *Dicionário da Educação do Campo* (Caldart et al. 2012), essa proposta combina a luta pela educação com a luta pela terra, reforma agrária, direito ao trabalho, cultura e soberania alimentar. Ela se opõe diametralmente à "educação rural" tradicional, que os autores descrevem como ligada aos interesses do agronegócio — denegratória das áreas rurais e orientada para encorajar estudantes a migrar para cidades. As *escolas do campo* integram **formação** (desenvolvimento de liderança política, educação crítica e conscientização) ao lado de oportunidades educativas convencionais.
+
+O fechamento de escolas rurais opera através de um processo espacial conhecido como **nucleação** (*nucleação*): escolas rurais com baixa matrícula são identificadas, seus alunos são transferidos para escolas maiores centralizadas, e as escolas esvaziadas são fechadas. Quando não há escolas suficientes para esse processo, os alunos são simplesmente levados de ônibus até a cidade mais próxima. Miguel Arroyo (2007) argumenta que as políticas de nucleação são manifestações de uma política pública inspirada pelas demandas de "modernização" da agricultura e expansão do agronegócio. O MST compartilha dessa leitura: nas palavras de Erivan Hilário, do setor de educação do MST, "o fechamento de escolas no campo não pode ser entendido apenas como tendência educacional. O que está em jogo é a escolha do governo de um modelo de desenvolvimento para as áreas rurais, que é o agronegócio."
+
+::: {.callout-note icon=false}
+O conceito de **imaginários espaciais** (Wolford 2004) é central para o argumento: o agronegócio concebe o espaço rural como vazio de pessoas, homogêneo e orientado para a produção — o que legitima a consolidação de propriedades e viabiliza um modelo de alta tecnologia e baixo insumo de trabalho. Em contraste, os movimentos camponeses articulam uma visão alternativa em que os espaços rurais são produzidos por tradições agrárias e produzem vida. A Educação do Campo é, nesse sentido, um argumento espacial sobre educação.
+:::
+
+A seção se encerra com a discussão da dimensão etno-racial da Educação do Campo. Munanga e Gomes (2016) fornecem o conceito de "etno-racial" para capturar simultaneamente a dimensão cultural (língua, tradição, ancestralidade) e a racial (características físicas visíveis) do que significa "ser negro" no Brasil. Silva e Barbosa (1997) sugerem que a educação tornou-se espaço central tanto para denunciar a desumanização de sujeitos negros quanto para desenvolver consciência crítica. A Educação do Campo é descrita como projeto que rejeita o mito da democracia racial e constrói epistemologias baseadas nas experiências vividas pelo campesinato negro, articulando o que Walsh (2009) denomina **interculturalidade crítica**.
+
+## Métodos e Análises (pp. 10–12) {#sec-metodos}
+
+### Banco de dados e operacionalização do fechamento escolar [§32–§36]
+
+O artigo baseia-se em um banco de dados de registros escolares municipais cobrindo todos os municípios brasileiros entre 1996 e 2021. A fonte primária é o **Censo Escolar** (*Censo Escolar*), principal instrumento de coleta de estatísticas educacionais do país, administrado pelo INEP em colaboração com secretarias municipais, estaduais e federais. O banco contém dados sobre matrícula, professores, modalidades de ensino e localização da escola, entre mais de cem variáveis. Os dados do Censo Escolar informam a distribuição de recursos do FUNDEB (Fundo de Manutenção e Desenvolvimento da Educação Básica) aos governos estaduais e municipais.
+
+Para calcular o número de fechamentos municipais, os autores construíram um banco relacional em Microsoft Access, extraindo as seguintes variáveis: ano do censo, "variável de escola" (status operacional, localização, tipo administrativo), código de unidade federativa, sigla do estado, código e nome do município, e código da escola. O código municipal funcionou como chave relacional para integrar diversas bases.
+
+A operacionalização de "escola fechada" foi uma etapa metodologicamente crítica. Segundo o INEP, uma escola é classificada como "Extinta" quando encerrou definitivamente as atividades escolares (distinta de "Ativa" ou "Paralisada"). Para escolas rurais, indígenas e quilombolas, a Lei n.º 12.960/2014 estabeleceu que o fechamento deve ser precedido de manifestação do órgão regulador e da comunidade escolar. Os autores definiram "escola fechada" como aquela que aparece com o status "extinta" no ano t e estava "ativa" ou "paralisada" no ano t-1. Para evitar duplicações geradas por inconsistências históricas nos microdados — especialmente em censos anteriores a 2007 —, utilizaram comparações bianuais.
+
+> **Nota :** As notas de rodapé 5 e 6 do artigo detalham inconsistências metodológicas significativas: escolas podem mudar de localização (rural→urbana), de tipo administrativo ou de código municipal (quando um município se divide). Uma escola que era rural/paralisada/estadual em 2012 e passou a ser municipal/ativa/urbana em 2013 não é contada como fechada, mesmo que a escola original tenha efetivamente encerrado suas atividades sob aquela configuração. Isso introduz potencial subestimação sistemática em áreas de expansão urbana.
+
+### Análise geoespacial e regressão de painel [§37–§40]
+
+Para a análise espacial, os autores utilizaram ArcMap 10.5 e calcularam o número de fechamentos/aberturas de escolas para oito períodos correspondentes aos ciclos eleitorais federais (1994, 1998, 2002, 2006, 2010, 2014, 2016, 2020). O primeiro passo foi testar a autocorrelação espacial dos fechamentos com o índice de Moran's I. O resultado confirmou autocorrelação estatisticamente significativa (Z=31,0; p=0), justificando a aplicação do teste de hotspot **Getis-Ord\*** — que identifica concentrações espacialmente significativas de fechamentos escolares.
+
+Na segunda etapa, os autores construíram um banco de variáveis adicionais: taxas de analfabetismo, pós-graduação e cursos de Educação do Campo; variáveis agrárias (índice de Gini fundiário, percentual de agricultores familiares, proporção de agricultores proprietários); e dados demográficos (raça e nível socioeconômico). A análise estatística usou o programa STATA 17. O modelo escolhido foi a **regressão binomial negativa de painel com efeitos aleatórios**, justificada por três razões: (a) variação mínima em alguns municípios; (b) sobredispersão da variável dependente (média=2,41; DP=8,19); (c) teste de Hausman não-significativo (\(\chi^2(11)=3,70\); p=0,81), que justifica efeitos aleatórios sobre efeitos fixos. A análise multivariada ficou restrita a dois anos — 2006 e 2017 — por disponibilidade de dados completos, resultando em 10.824 observações (de 11.140 possíveis, com 316 excluídos por deleção listwise).
+
+## Resultados (pp. 12–20) {#sec-resultados}
+
+### Padrão regional e institucional dos fechamentos [§41–§47]
+
+Os autores apresentam os resultados descritivos agrupados geograficamente, sustentando que as disparidades regionais são empiricamente pronunciadas e teoricamente orientadas pela ecologia política regional (Blaikie e Brookfield 1987). A Tabela 1 revela que 65% de todas as escolas rurais brasileiras foram fechadas entre 1994 e 2020 — um total de 142.401 estabelecimentos. As regiões com maior percentual de fechamentos são o Sul (83%) e o Centro-Oeste (80%), onde o agronegócio tem maior controle territorial. O Nordeste e o Norte — com a maior proporção de pessoas de cor — apresentam, respectivamente, 63% e 58% de fechamentos. O Sudeste tem 59%.
+
+Institucionalmente, 90% de todos os fechamentos rurais ocorrem em escolas municipais, 9% em estaduais e aproximadamente 1% em federais e privadas. Como as escolas municipais são responsáveis pelo **Ensino Fundamental**, a crise de fechamentos incide precisamente na educação elementar — o que impede as comunidades rurais de obter a formação básica necessária para acessar o ensino médio e superior.
+
+A Tabela 2 detalha os fechamentos por estado. Mato Grosso do Sul encabeza o ranking nacional com 93% das escolas rurais fechadas. Rondônia, na Amazônia ocidental, fechou 89%. Os estados da Região Sul — Paraná, Santa Catarina e Rio Grande do Sul — apresentam taxas de 85%, 85% e 80%, respectivamente. Em contraste, o Distrito Federal (23%) e o Amapá (30%) têm as menores taxas.
+
+### Ciclos políticos e temporalidade dos fechamentos [§48–§52]
+
+A Tabela 3 mostra que o fenômeno perpassa todos os governos do período, mas com intensidades muito distintas. Dos 142.401 fechamentos, 73.868 (51,8%) ocorreram durante os dois mandatos de Fernando Henrique Cardoso (FHC), a uma média de 9.233 escolas por ano. Nos dois mandatos de Lula, esse número caiu para 32.850 (23,1%), com média de 4.106 por ano. No primeiro mandato de Dilma Rousseff, a média caiu para 3.588 anuais; no segundo, o número foi de 4.151 (2,9%) antes de ser interrompido pelo golpe político de 2016. Após o golpe, durante o governo Temer, houve uma alta precipitada: 11.732 fechamentos (8,2%) somente em 2016. Sob Bolsonaro, a taxa recuou levemente para 7.670 (5,3%).
+
+::: {.callout-tip}
+Os autores interpretam a queda nos governos petistas como resultado de políticas favoráveis à Educação do Campo e de pressão dos movimentos sociais, em especial o MST. Contudo, como o próprio artigo reconhece, a orientação político-ideológica do partido federal **não** foi uma variável estatisticamente significativa no modelo de regressão — o que sugere que o mecanismo opera predominantemente no nível municipal, não federal.
+:::
+
+Os mapas de hotspots (Figura 3) mostram que as maiores concentrações de fechamentos nas décadas de 1990 e 2000 estavam no Nordeste e no Sul. A diferença entre os primeiros três mapas (1994–2002) e os cinco seguintes é marcante: os hotspots diminuem tanto em intensidade quanto em extensão ao longo do tempo. Rondônia, que foi um hotspot persistente nos anos 1990, deixou de sê-lo a partir de 2010 — o que os autores apontam como questão para pesquisa futura sem resposta no artigo.
+
+### Fatores preditores dos fechamentos: análise multivariada [§53–§59]
+
+A Tabela 4 apresenta o modelo de regressão binomial negativa com os Incident Rate Ratios (IRR). O índice de Gini fundiário é o preditor mais forte: IRR=3,28 (p<0,01), indicando que um aumento de uma unidade no Gini está associado a um aumento de 228% na taxa de fechamentos. A proporção de residentes negros no município é o segundo preditor mais forte: IRR=2,75 (p<0,001), correspondendo a um aumento de 175% na taxa de incidência. A urbanização tem efeito protetor: IRR=0,49 (p<0,001), reduzindo os fechamentos em cerca de 51%. O número de famílias assentadas aumenta os fechamentos em 6% (IRR=1,06; p<0,001). A proporção de agricultores não-proprietários reduz os fechamentos em 31% (IRR=0,69; p<0,01). A agricultura não-subsistência reduz os fechamentos em 38% (IRR=0,62; p<0,05). As variáveis de orientação política (centro, direita) não são estatisticamente significativas.
+
+Os achados sobre pequenas propriedades rurais e agricultura não-subsistência parecem aparentemente contraditórios com o argumento central. Os autores interpretam esse resultado como evidência de que pequenas propriedades (menos de 200 ha) estão em transição da agricultura familiar para a agricultura comercial, com intensificação do trabalho assalariado e mecanização — um processo de **despesantização** em que a demanda por escolas rurais cai por substituição de força de trabalho familiar por trabalho contratado. Esse processo de diferenciação de classes é respaldado por McMichael (1997, 2012) e Bernstein (2004, 2008). O artigo exemplifica com o caso da região metropolitana de São Paulo, onde pequenas fazendas transitam para produção intensiva de plantas ornamentais com base em trabalho assalariado.
+
+> **Nota :** O artigo inclui um achado temporal relevante: o IRR para 2017 em relação a 2006 é 0,88 (p<0,001), indicando redução significativa na taxa de fechamentos no período mais recente. Os autores atribuem isso ao aumento de municípios com zero fechamentos, o que é consistente com a leitura descritiva dos mapas de hotspots.
+
+## Conclusões (pp. 20–21) {#sec-conclusoes}
+
+### Contribuições teóricas e metodológicas [§60–§65]
+
+A seção conclusiva abre com Roderick Neumann (2005: 1) para reafirmar que "o ambiente e a forma como adquirimos, disseminamos e legitimamos conhecimento sobre ele são altamente politizados, reflexivos de relações de poder e contestados." Os autores propõem ter contribuído para a ecologia política da educação em três dimensões interseccionais.
+
+A primeira contribuição é teórica: a análise demonstra que raça estrutura não apenas o acesso a recursos educacionais, mas também o conteúdo pedagógico. O movimento Educação do Campo é apresentado como modelo de resistência interseccional, articulando saberes de comunidades negras, indígenas e camponesas por meio do *diálogo das saberes* (Martínez-Torres e Rosset 2014). Os resultados empíricos confirmam que a desigualdade racial histórica é preditor estatisticamente significativo dos fechamentos — evidência de que o controle da produção de conhecimento é inseparável da questão fundiária.
+
+A segunda contribuição é metodológica: a combinação de análise geoespacial avançada e regressão de painel em dados censitários de grande escala permite responder a uma pergunta fundamentalmente espacial sobre a crise. Os autores reiteram os três eixos interseccionais que propõem para pesquisa futura: (a) como histórias de violência estrutural racializam o espaço educacional; (b) como a concentração fundiária é, em si mesma, uma forma de concentração de conhecimento; (c) como a Educação do Campo oferece um modelo de resistência interseccional a partir de posições subalternas.
+
+::: {.callout-important}
+O artigo termina com uma questão aberta: se os fechamentos foram maiores sob governos conservadores e menores sob governos de esquerda, mas essa variável não é estatisticamente significativa no modelo, que outros fatores — provavelmente ao nível municipal — explicam essa variação? Os autores sugerem que clientelismo e compra de votos em eleições municipais disputadas poderiam ser hipóteses relevantes para pesquisa futura, mas não as testam.
+:::
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+**Tese central:** O fechamento massivo de escolas rurais no Brasil (65% do total entre 1994 e 2020) é um processo fundamentalmente racializado e estruturado pela desigualdade fundiária, no qual municípios com maior proporção de residentes negros e maiores índices de concentração de terra apresentam taxas significativamente mais altas de encerramento escolar — configurando o que os autores denominam uma crise de ecologia política da educação em que racismo estrutural e capitalismo agrário se sobrepõem territorialmente.
+
+**Natureza do argumento:** Misto — descritivo-explicativo na dimensão empírica (análise espacial e regressão de painel); teórico-normativo na dimensão da ecologia política da educação e da colonialidade do saber. O argumento é de contribuição teórica (integrar raça à ecologia política da educação) sustentada por evidência quantitativa.
+
+**O que o texto demonstra:** (a) Que o fenômeno dos fechamentos tem padrão espacial não-aleatório, com hotspots identificáveis e persistentes; (b) que raça e Gini fundiário são os preditores mais robustos da variação intermunicipal nas taxas de fechamento; (c) que 90% dos fechamentos ocorrem em escolas municipais de ensino fundamental, o que revela o locus institucional da crise; (d) que o ciclo político federal afeta descritivamente a escala dos fechamentos, mas não é variável estatisticamente significativa no modelo.
+
+**O que fica como hipótese ou agenda:** O mecanismo causal intermediário entre raça/terra e fechamentos não é identificado — o design correlacional em nível municipal não explica *como* essa relação opera (via clientelismo? via pressão do agronegócio sobre prefeitos? via lógica burocrática de nucleação?). O caso de Rondônia, que reverteu o padrão de hotspot, permanece sem explicação. A hipótese sobre clientelismo municipal é sugerida mas não testada.
+
+**Contribuição para o debate:** O artigo inova ao deslocar a ecologia política da educação de uma agenda centrada em lugar, escala e pós-humanismo para uma que coloca raça no centro da análise. Metodologicamente, representa o uso mais sistemático de dados censitários em grande escala aplicado a questões de ecologia política educacional no Brasil. Para o campo da política educacional comparada, o artigo oferece evidência de que a gestão descentralizada (municipalização) pode amplificar desigualdades raciais quando desacompanhada de mecanismos redistributivos robustos — um resultado com implicações para debates sobre descentralização em outros países do Sul Global.
+:::
