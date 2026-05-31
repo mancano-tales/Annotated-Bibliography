@@ -29,10 +29,7 @@ jobs:
       - name: Install R runtime
         run: |
           sudo apt-get update
-          sudo apt-get install -y r-base
-      - name: Install R packages required by Quarto
-        run: |
-          Rscript -e 'install.packages(c("knitr", "rmarkdown"), repos = "https://cloud.r-project.org")'
+          sudo apt-get install -y r-base r-cran-knitr r-cran-rmarkdown
       - uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
