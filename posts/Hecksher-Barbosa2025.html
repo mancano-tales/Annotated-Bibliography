@@ -1,0 +1,1159 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.38">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Tales Mançano">
+<meta name="dcterms.date" content="2026-05-08">
+<meta name="description" content="Tales Mançano — Annotated Bibliography">
+
+<title>Fichamento: Estimação de meses exatos para os microdados e as séries por trimestre móvel da PNAD Contínua – Annotated Bibliography</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-de63f62b328812d8e578a4d74e282472.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-eae02f4fa95dcb10ef93ab0ebebf5ad0.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+<!-- 
+Load Academicons v1: https://jpswalsh.github.io/academicons/
+-->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+
+<!---
+The following code are needed to show dimension citation and altmetrics.
+https://api.altmetric.com/embeds.html
+https://badge.dimensions.ai/
+--->
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../styles.css">
+<meta property="og:title" content="Fichamento: Estimação de meses exatos para os microdados e as séries por trimestre móvel da PNAD Contínua – Annotated Bibliography">
+<meta property="og:description" content="Hecksher, M. &amp; Barbosa, R. J. (2025) — SocArXiv preprint / REBEP">
+<meta property="og:site_name" content="Annotated Bibliography">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Annotated Bibliography</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="https://mancano-tales.github.io" target="_blank"> 
+<span class="menu-text">← Tales Mançano</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">Bibliography</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/mancano-tales/Annotated-Bibliography" target="_blank"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://bsky.app" target="_blank"> 
+<span class="menu-text"><i class="fa-brands fa-bluesky" aria-label="bluesky"></i></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+  <div class="quarto-reader-toggle-btn">
+  <i class="bi"></i>
+  </div>
+</a>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#ficha-analítica-crítica" id="toc-ficha-analítica-crítica" class="nav-link active" data-scroll-target="#ficha-analítica-crítica">Ficha Analítica Crítica</a></li>
+  <li><a href="#introdução-pp.-15" id="toc-introdução-pp.-15" class="nav-link" data-scroll-target="#introdução-pp.-15"><span class="header-section-number">1</span> Introdução (pp.&nbsp;1–5)</a>
+  <ul class="collapse">
+  <li><a href="#o-problema-da-temporalidade-na-pnadc-14" id="toc-o-problema-da-temporalidade-na-pnadc-14" class="nav-link" data-scroll-target="#o-problema-da-temporalidade-na-pnadc-14"><span class="header-section-number">1.1</span> O problema da temporalidade na PNADC [§1–§4]</a></li>
+  <li><a href="#a-distorção-introduzida-pelos-trimestres-móveis-57" id="toc-a-distorção-introduzida-pelos-trimestres-móveis-57" class="nav-link" data-scroll-target="#a-distorção-introduzida-pelos-trimestres-móveis-57"><span class="header-section-number">1.2</span> A distorção introduzida pelos trimestres móveis [§5–§7]</a></li>
+  <li><a href="#contexto-histórico-e-lacuna-comparativa-810" id="toc-contexto-histórico-e-lacuna-comparativa-810" class="nav-link" data-scroll-target="#contexto-histórico-e-lacuna-comparativa-810"><span class="header-section-number">1.3</span> Contexto histórico e lacuna comparativa [§8–§10]</a></li>
+  <li><a href="#as-duas-estratégias-propostas-e-contribuições-do-artigo-1114" id="toc-as-duas-estratégias-propostas-e-contribuições-do-artigo-1114" class="nav-link" data-scroll-target="#as-duas-estratégias-propostas-e-contribuições-do-artigo-1114"><span class="header-section-number">1.4</span> As duas estratégias propostas e contribuições do artigo [§11–§14]</a></li>
+  </ul></li>
+  <li><a href="#identificação-de-períodos-nos-microdados-pp.-615" id="toc-identificação-de-períodos-nos-microdados-pp.-615" class="nav-link" data-scroll-target="#identificação-de-períodos-nos-microdados-pp.-615"><span class="header-section-number">2</span> Identificação de períodos nos microdados (pp.&nbsp;6–15)</a>
+  <ul class="collapse">
+  <li><a href="#o-painel-rotativo-como-recurso-os-três-fatos-estruturais-1519" id="toc-o-painel-rotativo-como-recurso-os-três-fatos-estruturais-1519" class="nav-link" data-scroll-target="#o-painel-rotativo-como-recurso-os-três-fatos-estruturais-1519"><span class="header-section-number">2.1</span> O painel rotativo como recurso: os três fatos estruturais [§15–§19]</a></li>
+  <li><a href="#semanas-de-referência-e-a-regra-da-parada-técnica-2024" id="toc-semanas-de-referência-e-a-regra-da-parada-técnica-2024" class="nav-link" data-scroll-target="#semanas-de-referência-e-a-regra-da-parada-técnica-2024"><span class="header-section-number">2.2</span> Semanas de referência e a regra da Parada Técnica [§20–§24]</a></li>
+  <li><a href="#o-algoritmo-de-identificação-três-passos-encadeados-2532" id="toc-o-algoritmo-de-identificação-três-passos-encadeados-2532" class="nav-link" data-scroll-target="#o-algoritmo-de-identificação-três-passos-encadeados-2532"><span class="header-section-number">2.3</span> O algoritmo de identificação: três passos encadeados [§25–§32]</a></li>
+  <li><a href="#exceções-à-regra-da-parada-técnica-3336" id="toc-exceções-à-regra-da-parada-técnica-3336" class="nav-link" data-scroll-target="#exceções-à-regra-da-parada-técnica-3336"><span class="header-section-number">2.4</span> Exceções à regra da Parada Técnica [§33–§36]</a></li>
+  <li><a href="#identificação-de-quinzenas-e-semanas-3740" id="toc-identificação-de-quinzenas-e-semanas-3740" class="nav-link" data-scroll-target="#identificação-de-quinzenas-e-semanas-3740"><span class="header-section-number">2.5</span> Identificação de quinzenas e semanas [§37–§40]</a></li>
+  <li><a href="#calibragem-dos-pesos-amostrais-4146" id="toc-calibragem-dos-pesos-amostrais-4146" class="nav-link" data-scroll-target="#calibragem-dos-pesos-amostrais-4146"><span class="header-section-number">2.6</span> Calibragem dos pesos amostrais [§41–§46]</a></li>
+  </ul></li>
+  <li><a href="#identificação-de-meses-exatos-nos-dados-do-sidra-pp.-1619" id="toc-identificação-de-meses-exatos-nos-dados-do-sidra-pp.-1619" class="nav-link" data-scroll-target="#identificação-de-meses-exatos-nos-dados-do-sidra-pp.-1619"><span class="header-section-number">3</span> Identificação de meses exatos nos dados do SIDRA (pp.&nbsp;16–19)</a>
+  <ul class="collapse">
+  <li><a href="#a-lógica-da-inversão-do-trimestre-móvel-4752" id="toc-a-lógica-da-inversão-do-trimestre-móvel-4752" class="nav-link" data-scroll-target="#a-lógica-da-inversão-do-trimestre-móvel-4752"><span class="header-section-number">3.1</span> A lógica da inversão do trimestre móvel [§47–§52]</a></li>
+  <li><a href="#calibração-dos-pontos-iniciais-5358" id="toc-calibração-dos-pontos-iniciais-5358" class="nav-link" data-scroll-target="#calibração-dos-pontos-iniciais-5358"><span class="header-section-number">3.2</span> Calibração dos pontos iniciais [§53–§58]</a></li>
+  </ul></li>
+  <li><a href="#estratégias-experimentais-para-granularidades-submensais-pp.-1920" id="toc-estratégias-experimentais-para-granularidades-submensais-pp.-1920" class="nav-link" data-scroll-target="#estratégias-experimentais-para-granularidades-submensais-pp.-1920"><span class="header-section-number">4</span> Estratégias experimentais para granularidades submensais (pp.&nbsp;19–20)</a>
+  <ul class="collapse">
+  <li><a href="#atribuição-probabilística-e-agregação-por-upa-5962" id="toc-atribuição-probabilística-e-agregação-por-upa-5962" class="nav-link" data-scroll-target="#atribuição-probabilística-e-agregação-por-upa-5962"><span class="header-section-number">4.1</span> Atribuição probabilística e agregação por UPA [§59–§62]</a></li>
+  </ul></li>
+  <li><a href="#validação-o-mês-de-ajuste-do-salário-mínimo-pp.-2022" id="toc-validação-o-mês-de-ajuste-do-salário-mínimo-pp.-2022" class="nav-link" data-scroll-target="#validação-o-mês-de-ajuste-do-salário-mínimo-pp.-2022"><span class="header-section-number">5</span> Validação: o mês de ajuste do Salário Mínimo (pp.&nbsp;20–22)</a>
+  <ul class="collapse">
+  <li><a href="#o-teste-de-validação-e-seus-resultados-6368" id="toc-o-teste-de-validação-e-seus-resultados-6368" class="nav-link" data-scroll-target="#o-teste-de-validação-e-seus-resultados-6368"><span class="header-section-number">5.1</span> O teste de validação e seus resultados [§63–§68]</a></li>
+  </ul></li>
+  <li><a href="#o-pacote-pnadcperiods-modos-de-usar-pp.-2223" id="toc-o-pacote-pnadcperiods-modos-de-usar-pp.-2223" class="nav-link" data-scroll-target="#o-pacote-pnadcperiods-modos-de-usar-pp.-2223"><span class="header-section-number">6</span> O pacote {PNADCperiods}: modos de usar (pp.&nbsp;22–23)</a>
+  <ul class="collapse">
+  <li><a href="#dois-workflows-complementares-6973" id="toc-dois-workflows-complementares-6973" class="nav-link" data-scroll-target="#dois-workflows-complementares-6973"><span class="header-section-number">6.1</span> Dois workflows complementares [§69–§73]</a></li>
+  </ul></li>
+  <li><a href="#alguns-exemplos-e-aplicações-pp.-2431" id="toc-alguns-exemplos-e-aplicações-pp.-2431" class="nav-link" data-scroll-target="#alguns-exemplos-e-aplicações-pp.-2431"><span class="header-section-number">7</span> Alguns exemplos e aplicações (pp.&nbsp;24–31)</a>
+  <ul class="collapse">
+  <li><a href="#pobreza-mensal-a-partir-dos-dados-anuais-7479" id="toc-pobreza-mensal-a-partir-dos-dados-anuais-7479" class="nav-link" data-scroll-target="#pobreza-mensal-a-partir-dos-dados-anuais-7479"><span class="header-section-number">7.1</span> Pobreza mensal a partir dos dados anuais [§74–§79]</a></li>
+  <li><a href="#a-recessão-de-20142017-deterioração-mês-a-mês-8083" id="toc-a-recessão-de-20142017-deterioração-mês-a-mês-8083" class="nav-link" data-scroll-target="#a-recessão-de-20142017-deterioração-mês-a-mês-8083"><span class="header-section-number">7.2</span> A recessão de 2014–2017: deterioração mês a mês [§80–§83]</a></li>
+  <li><a href="#indicadores-mensalizados-do-sidra-8487" id="toc-indicadores-mensalizados-do-sidra-8487" class="nav-link" data-scroll-target="#indicadores-mensalizados-do-sidra-8487"><span class="header-section-number">7.3</span> Indicadores mensalizados do SIDRA [§84–§87]</a></li>
+  <li><a href="#resolução-semanal-o-efeito-do-carnaval-8893" id="toc-resolução-semanal-o-efeito-do-carnaval-8893" class="nav-link" data-scroll-target="#resolução-semanal-o-efeito-do-carnaval-8893"><span class="header-section-number">7.4</span> Resolução semanal: o efeito do carnaval [§88–§93]</a></li>
+  </ul></li>
+  <li><a href="#discussão-e-conclusão-pp.-3133" id="toc-discussão-e-conclusão-pp.-3133" class="nav-link" data-scroll-target="#discussão-e-conclusão-pp.-3133"><span class="header-section-number">8</span> Discussão e Conclusão (pp.&nbsp;31–33)</a>
+  <ul class="collapse">
+  <li><a href="#relação-com-métodos-clássicos-de-desagregação-temporal-9499" id="toc-relação-com-métodos-clássicos-de-desagregação-temporal-9499" class="nav-link" data-scroll-target="#relação-com-métodos-clássicos-de-desagregação-temporal-9499"><span class="header-section-number">8.1</span> Relação com métodos clássicos de desagregação temporal [§94–§99]</a></li>
+  </ul></li>
+  <li><a href="#argumento-sintético" id="toc-argumento-sintético" class="nav-link" data-scroll-target="#argumento-sintético"><span class="header-section-number">9</span> Argumento Sintético</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Fichamento: Estimação de meses exatos para os microdados e as séries por trimestre móvel da PNAD Contínua</h1>
+<p class="subtitle lead">Hecksher, M. &amp; Barbosa, R. J. (2025) — SocArXiv preprint / REBEP</p>
+  <div class="quarto-categories">
+    <div class="quarto-category">Annotated Bibliography</div>
+    <div class="quarto-category">Survey Methodology</div>
+    <div class="quarto-category">Applied Statistics</div>
+    <div class="quarto-category">Labor Markets</div>
+    <div class="quarto-category">Temporal Disaggregation</div>
+    <div class="quarto-category">Brazil</div>
+  </div>
+  </div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Tales Mançano </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 8, 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>Hecksher, M., &amp; Barbosa, R. J. (2025). <em>Estimação de meses exatos para os microdados e as séries por trimestre móvel da PNAD Contínua</em> [Estimation of exact months for the microdata and rolling quarter series from PNAD Contínua]. SocArXiv. https://doi.org/10.31235/osf.io/[preprint]</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Entrada BibTeX → Hecksher-Barbosa2025
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">@article</span>{<span class="ot">Hecksher</span>-<span class="ot">Barbosa2025</span>,</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>  <span class="dt">author</span>    = {Hecksher, Marcos and Barbosa, Rogério J.},</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>  <span class="dt">title</span>     = {Estimação de meses exatos para os microdados e as séries por trimestre móvel da {PNAD} Contínua},</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>  <span class="dt">year</span>      = {2025},</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>  <span class="dt">journal</span>   = {SocArXiv preprint},</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  <span class="dt">note</span>      = {Submetido à Revista Brasileira de Estudos de População (REBEP). Disponível em: https://osf.io/preprints/socarxiv},</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+</div>
+</div>
+<p>Última atualização: 2026-05-08<br>
+Modelo: Claude Sonnet 4.6<br>
+Prompt Version: v17.2 2026-05-08 | Ficha antes do fichamento<br>
+Gerado em: 2026-05-08T00:00:00-03:00<br>
+Ocasião da Leitura: Publicação de novo pacote por Hecksher-Barbosa2025</p>
+<hr>
+<section id="ficha-analítica-crítica" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="ficha-analítica-crítica">Ficha Analítica Crítica</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Esta seção segue o formato <em>IA Planilhando Textos v17.2</em>.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Ficha Analítica — Tabela Markdown
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 23%">
+<col style="width: 52%">
+<col style="width: 23%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Dimensão</th>
+<th style="text-align: left;">Raciocínio analítico</th>
+<th style="text-align: left;">Conteúdo</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Questão de Pesquisa</td>
+<td style="text-align: left;">A pergunta não é formulada como hipótese, mas como problema de mensuração: o IBGE estruturalmente oculta o mês de coleta; a vulnerabilidade do argumento está em saber se a solução proposta suprime ou apenas desloca o problema de identificação.</td>
+<td style="text-align: left;">Como é possível recuperar o mês exato de referência de cada entrevista da PNAD Contínua, dado que o IBGE divulga apenas trimestres móveis, tanto nos microdados quanto nos agregados do SIDRA? A pergunta é <strong>descritivo-metodológica</strong>: não busca estimar um efeito causal, mas desenvolver e validar um procedimento de identificação temporal.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Questões Secundárias</td>
+<td style="text-align: left;">A questão de validação é a mais crítica: ela transforma um argumento de plausibilidade em um teste genuinamente falsificável; as questões de granularidade submensal e de cobertura de indicadores são extensões naturais da pergunta central, mas com menor poder de identificação.</td>
+<td style="text-align: left;">(i) Como calibrar os pesos amostrais de modo que as subamostras mensais representem corretamente a população? (ii) É possível estender o algoritmo para quinzenas e semanas? (iii) A inversão matemática das médias móveis do SIDRA permite recuperar séries mensais sem acesso a microdados? (iv) O método pode ser validado empiricamente sem dados de referência externos?</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Puzzle-Type</td>
+<td style="text-align: left;">O puzzle é genuíno e tem impacto direto para avaliação de políticas públicas com timing preciso — em especial no contexto brasileiro pós-2016, em que políticas de transferência de renda e reformas trabalhistas exigem identificação mensal dos efeitos. A generalização metodológica é limitada a pesquisas domiciliares com painel rotativo e coleta de datas de nascimento, mas o princípio da inversão de médias móveis é universal.</td>
+<td style="text-align: left;"><strong>Gap descritivo-metodológico</strong>: a PNADC é a principal pesquisa domiciliar brasileira, mas sua estrutura de divulgação trimestral introduz atenuação, defasagem e autocorrelação espúria nas séries. A ausência de dados mensais — contrariando a prática de países como EUA, membros da UE, Japão e Canadá, e a tradição histórica brasileira da PME (1980–2016) — constitui uma desvantagem comparativa real para monitoramento conjuntural e avaliação de políticas. O puzzle é genuíno e generalizável a outras pesquisas com painel rotativo.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Conclusão / Argumento Central</td>
+<td style="text-align: left;">O argumento central é sólido em seu núcleo (a estrutura do painel rotativo combinada a datas de nascimento permite identificação determinística), mas a taxa de 97% encobre os 3% não identificados, cujo tratamento por exclusão requer a hipótese de que essa seleção é controlável pelo ajuste hierárquico de pesos — hipótese plausível mas não inteiramente demonstrada.</td>
+<td style="text-align: left;">Os autores demonstram que é possível identificar deterministicamente o mês exato de referência de 97% das observações dos microdados da PNADC (2012–2025, 28,4 milhões de obs.) explorando três fatos estruturais do desenho amostral: (i) co-residentes compartilham a semana de referência; (ii) domicílios do mesmo grupo de rotação compartilham o mês; (iii) a posição mensal relativa é invariante entre visitas. A combinação com a inversão matemática das médias móveis do SIDRA permite reconstruir mais de 80 séries mensais de indicadores oficiais. Ambos os métodos estão implementados no pacote R <code>{PNADCperiods}</code>, disponível no CRAN.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Métodos</td>
+<td style="text-align: left;">O ponto mais fraco metodológico não é o algoritmo em si, mas a estratégia de calibração dos pesos para os 3% não identificados: o ajuste hierárquico busca corrigir desequilíbrios, mas a natureza não aleatória da não-identificação não é demonstrada como MAR (<em>missing at random</em>). O fichamento cobre a obra completa (artigo integral).</td>
+<td style="text-align: left;"><strong>Tipo</strong>: Desenvolvimento e validação de algoritmo determinístico, com aplicações empíricas ilustrativas. <strong>Fontes</strong>: Microdados trimestrais e anuais da PNADC/IBGE (2012–2025); dados agregados do SIDRA (80+ séries). <strong>Técnicas</strong>: (i) Restrições de intervalo de datas por aniversário; (ii) propagação inter-trimestres via invariância do painel rotativo; (iii) inversão algébrica de médias móveis trimestrais; (iv) calibração hierárquica de pesos amostrais em quatro níveis; (v) adaptação de pesos bootstrap para variância mensal. <strong>Validação</strong>: exploração da assimetria entre rendimento habitual (mês corrente) e efetivo (mês anterior) frente a 16 transições do salário mínimo. O fichamento cobre a obra completa.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Data Generation Process (DGP)</td>
+<td style="text-align: left;">O DGP é incomum: não é gerado pelo pesquisador, mas <em>descoberto</em> na estrutura da pesquisa. Isso é ao mesmo tempo a força e a fragilidade do método — a identificação é exata condicionalmente às regras operacionais do IBGE, mas qualquer desvio não documentado dessas regras produz erros de classificação silenciosos. O viés de observação mais relevante é a não-divulgação do mês pelo IBGE: os autores inferem o que o IBGE sabe mas não publica.</td>
+<td style="text-align: left;"><strong>Fenômeno real</strong>: mês exato de cada entrevista domiciliar. <strong>Observação</strong>: data de nascimento e idade calculada pelo DMC do IBGE na data de referência (o sábado que encerra a semana de referência). <strong>Coleta</strong>: microdados trimestrais e anuais disponibilizados pelo IBGE. <strong>Operacionalização</strong>: restrição de intervalos de datas possíveis por aniversário, com interseção intra- e inter-trimestres; para o SIDRA, diferença entre trimestres móveis consecutivos. <strong>Unidade de análise</strong>: domicílio (para identificação do grupo de rotação) e indivíduo (para restrições de aniversário). <strong>Inferência</strong>: determinística (não probabilística) para a identificação mensal; calibração de pesos para representatividade. O viés central é o <strong>viés de regra operacional</strong>: a identificação presume cumprimento fiel da documentação do IBGE (IBGE, 2018).</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Achados e Contribuições</td>
+<td style="text-align: left;">Os achados substantivos (COVID, pobreza, carnaval) têm força ilustrativa, não confirmatória — são aplicações demonstrativas, não testes de hipóteses. A contribuição genuinamente nova em relação a Hecksher (2020b) é a formalização dos três fatos estruturais e a propagação inter-trimestres, que eleva a taxa de 40% para 97%.</td>
+<td style="text-align: left;"><strong>Empíricos</strong>: (i) taxa de desemprego no pico da COVID-19 foi 2 p.p. superior ao indicado pelos dados trimestrais; (ii) o Auxílio Emergencial reduziu a pobreza abaixo dos níveis pré-pandêmicos já em maio/2020; (iii) Salvador e Rio de Janeiro apresentam reduções de 4–5 horas trabalhadas na semana de carnaval, com variação regional significativa. <strong>Metodológicos</strong>: formalização do algoritmo com 97% de determinação; validação por 16 transições do salário mínimo sem nenhuma borrada; cobertura de 80+ séries do SIDRA; pacote R <code>{PNADCperiods}</code> no CRAN.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Análise Crítica dos Achados</td>
+<td style="text-align: left;">O argumento metodológico é sólido onde mais importa (identificação mensal), mais frágil nas extensões (quinzenal, semanal) e parcialmente incompleto na justificação da exclusão dos 3% não identificados. A validação pelo salário mínimo é engenhosa, mas identifica apenas erros <em>grosseiros</em> de classificação (desvio de ±1 mês ou mais); erros de menor magnitude dentro do mês identificado não são detectáveis por esse teste.</td>
+<td style="text-align: left;"><strong>Pontos fortes</strong>: (a) o teste de validação via salário mínimo é genuinamente falsificável — um algoritmo incorreto produziria transições borradas, não abruptas; (b) a propagação inter-trimestres é matematicamente impecável dado os três fatos estruturais; (c) a distinção entre identificação determinística e interpolação estatística é clara e bem-motivada. <strong>Pontos vulneráveis</strong>: (a) os 3% não identificados são excluídos com base em ajuste de pesos, mas a natureza da não-identificação (domicílios sem datas de nascimento completas) pode ser sistematicamente correlacionada com variáveis de interesse (populações mais vulneráveis tendem a ter registros mais incompletos); (b) as extensões submensais (~3% semanal, ~9% quinzenal) têm utilidade limitada fora de choques de grande magnitude e acúmulo de múltiplos anos; (c) o método depende da documentação do IBGE ser cumprida fielmente — os próprios autores identificam seis trimestres excepcionais (2016-T3, 2016-T4, 2017-T2, 2022-T3, 2023-T2, 2024-T1), o que sugere que a regra operacional pode continuar a produzir exceções não antecipadas.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Limitações</td>
+<td style="text-align: left;"><strong>Reconhecidas pelos autores:</strong> taxas de determinação submensal baixas (9% quinzenal, 3% semanal); 3% das observações mensais permanecem indeterminadas; a calibração de pesos para os não identificados introduz incerteza adicional; os pontos iniciais das séries do SIDRA têm ruído estatístico que pode gerar discrepâncias de centenas de milhares de pessoas em séries de nível. <br> <strong>Não reconhecidas ou subestimadas:</strong> (a) a hipótese de MAR (<em>missing at random</em>) para os 3% excluídos não é testada formalmente; (b) a validação pelo salário mínimo cobre apenas trabalhadores formais recebendo exatamente o mínimo — subpopulação específica que pode não representar os padrões de identificação do universo da pesquisa; (c) o método é sensível a mudanças futuras nos procedimentos operacionais do IBGE, sem mecanismo de detecção automática além da verificação de contradições lógicas entre restrições de aniversário.</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Perspectiva Teórica</td>
+<td style="text-align: left;">A ausência de moldura teórica substantiva é intencional e adequada ao tipo de contribuição (metodológica). O diálogo com a literatura de desagregação temporal (Chow-Lin, Denton, Fernández, Litterman) é correto e cumpre sua função de posicionamento, mas poderia ser aprofundado com referências à literatura de <em>indirect sampling</em> e <em>weight calibration</em> em amostragem complexa.</td>
+<td style="text-align: left;">O artigo não adota moldura teórica substantiva — trata-se de contribuição primariamente metodológica. A filiação intelectual está na estatística de pesquisas domiciliares e na econometria de avaliação de políticas com timing preciso (Callaway &amp; Sant’Anna, 2021; Chaisemartin &amp; D’Haultfœuille, 2020). A ontologia implícita é realista: os meses de referência existem como fatos objetivos, ocultos pela divulgação agregada, e podem ser recuperados deterministicamente.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Principais Referências</td>
+<td style="text-align: left;">O diálogo com a literatura internacional de desagregação temporal é adequado mas poderia ser mais extenso, especialmente quanto a métodos de <em>small area estimation</em> mensais. As referências brasileiras são completas e incluem os usos já feitos do método pelo Banco Central e pelo Banco Mundial.</td>
+<td style="text-align: left;">Chow &amp; Lin (1971), Denton (1971), Fernández (1981), Litterman (1983) — métodos clássicos de desagregação temporal; Callaway &amp; Sant’Anna (2021), Chaisemartin &amp; D’Haultfœuille (2020) — DiD com heterogeneidade de timing; Giannone, Reichlin &amp; Small (2008) — nowcasting; Gonçalves et al.&nbsp;(2022; 2025) — abordagem por modelos de séries temporais para estimação mensal da PNADC; Lumley (2010) — amostragem complexa; Hecksher (2020b) — versão original do método (~40% de determinação).</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Observações</td>
+<td style="text-align: left;">O artigo é relevante para pesquisadores que trabalham com microdados da PNADC em qualquer análise que exija precisão temporal — avaliações de políticas, estudos de mercado de trabalho, pobreza e desigualdade. A disponibilidade do pacote <code>{PNADCperiods}</code> no CRAN reduz substancialmente o custo de adoção. A dependência da documentação interna do IBGE é ao mesmo tempo a maior força e o maior risco de longo prazo do método.</td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<hr>
+</section>
+<section id="introdução-pp.-15" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="introdução-pp.-15"><span class="header-section-number">1</span> Introdução (pp.&nbsp;1–5)</h2>
+<section id="o-problema-da-temporalidade-na-pnadc-14" class="level3" data-number="1.1">
+<h3 data-number="1.1" class="anchored" data-anchor-id="o-problema-da-temporalidade-na-pnadc-14"><span class="header-section-number">1.1</span> O problema da temporalidade na PNADC [§1–§4]</h3>
+<p>O artigo abre identificando um problema estrutural de mensuração: fenômenos sociais e econômicos operam em tempo contínuo, mas a PNADC — principal pesquisa domiciliar brasileira — publica seus indicadores exclusivamente como <strong>trimestres móveis</strong>, ocultando a magnitude e o momento exato de choques econômicos. Hecksher e Barbosa inserem esse problema em um debate metodológico internacional mais amplo, citando Giannone, Reichlin e Small (2008) sobre as perdas de conteúdo em tempo real introduzidas por defasagens de publicação, e Choi e Varian (2012) sobre o uso de fontes de alta frequência (como Google Trends) para contornar essas limitações.</p>
+<p>A relevância do ponto temporal é reforçada por um argumento econométrico: estimadores de diferenças-em-diferenças podem atribuir pesos negativos a efeitos individuais quando o <em>timing</em> do tratamento é heterogêneo — o que pode inverter o sinal estimado mesmo quando todas as unidades respondem positivamente à política (Chaisemartin &amp; D’Haultfœuille, 2020). Arcabouços que tratam rigorosamente essa heterogeneidade, como o de Callaway e Sant’Anna (2021), exigem precisamente a identificação do mês em que cada unidade passa a ser tratada. A imprecisão temporal da PNADC, portanto, não é apenas um inconveniente prático, mas uma limitação com implicações diretas para a validade da avaliação de políticas.</p>
+<blockquote class="blockquote">
+<p><strong>Questão central</strong>: Como recuperar estimativas mensais genuínas a partir de uma pesquisa estruturalmente divulgada em trimestres móveis, sem recorrer a modelos estatísticos, interpolação ou fontes externas?</p>
+</blockquote>
+</section>
+<section id="a-distorção-introduzida-pelos-trimestres-móveis-57" class="level3" data-number="1.2">
+<h3 data-number="1.2" class="anchored" data-anchor-id="a-distorção-introduzida-pelos-trimestres-móveis-57"><span class="header-section-number">1.2</span> A distorção introduzida pelos trimestres móveis [§5–§7]</h3>
+<p>Os autores formalizam matematicamente a distorção produzida pelos trimestres móveis. A fórmula básica para estoques populacionais e massas de rendimentos é: <span class="math inline">\(x_t = (y_{t-2} + y_{t-1} + y_t)/3\)</span>, onde <span class="math inline">\(y_t\)</span> é o valor mensal verdadeiro. Se a população ocupada for 103, 103 e 100 milhões em três meses consecutivos, o trimestre móvel reportará 102 milhões — subestimando o choque real em dois terços de sua magnitude. Além da atenuação, os trimestres móveis consecutivos geram <strong>defasagem</strong> e <strong>autocorrelação espúria</strong>, distorções especialmente problemáticas para avaliação de políticas, comparação internacional e o trabalho do Comitê de Datação de Ciclos Econômicos (Codace).</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Conceito-chave — trimestre móvel:</strong> Média aritmética simples de três meses consecutivos (<span class="math inline">\(x_t = (y_{t-2} + y_{t-1} + y_t)/3\)</span>), aplicável a estoques populacionais e massas de rendimentos. Para taxas (razões entre estoques) e rendimentos médios (razões entre massas e populações), o trimestre móvel é uma <strong>média móvel ponderada</strong>, em que o peso de cada mês é proporcional ao tamanho mensal da força de trabalho — grandeza não divulgada pelo IBGE.</p>
+</div>
+</div>
+</section>
+<section id="contexto-histórico-e-lacuna-comparativa-810" class="level3" data-number="1.3">
+<h3 data-number="1.3" class="anchored" data-anchor-id="contexto-histórico-e-lacuna-comparativa-810"><span class="header-section-number">1.3</span> Contexto histórico e lacuna comparativa [§8–§10]</h3>
+<p>Os autores situam a limitação brasileira em perspectiva comparada: Estados Unidos (CPS, desde 1940), União Europeia (cerca de dez países com dados mensais de LFS), Japão, Canadá e Austrália produzem estimativas mensais do mercado de trabalho. No Brasil, a Pesquisa Mensal de Emprego (PME) publicou indicadores mensais por 36 anos (1980–2016). Ao migrar para a PNADC, o IBGE ampliou e nacionalizou as amostras, mas optou por suprimir a divulgação mensal, fundamentando-se em evidências de que oscilações mensais frequentemente não eram estatisticamente significativas (IBGE, 2015; Lila &amp; Freitas, 2007). A urgência da questão é exemplificada pela pandemia de COVID-19: estimativas não oficiais para meses exatos, publicadas em junho de 2020, foram fundamentais para revelar que — pela primeira vez na história estatística do país — a maioria absoluta da população em idade de trabalhar estava sem trabalho algum (Hecksher, 2020a).</p>
+</section>
+<section id="as-duas-estratégias-propostas-e-contribuições-do-artigo-1114" class="level3" data-number="1.4">
+<h3 data-number="1.4" class="anchored" data-anchor-id="as-duas-estratégias-propostas-e-contribuições-do-artigo-1114"><span class="header-section-number">1.4</span> As duas estratégias propostas e contribuições do artigo [§11–§14]</h3>
+<p>O artigo apresenta duas estratégias complementares de <strong>mensalização</strong> da PNADC. A primeira opera sobre os <strong>microdados</strong>: explorando o desenho de painel rotativo e as datas de nascimento dos respondentes, desenvolve um algoritmo determinístico que identifica o mês de cada observação sem interpolações estatísticas, indicadores externos ou hipóteses sobre a estrutura temporal das séries. A segunda opera sobre os <strong>agregados do SIDRA</strong>: inverte matematicamente a fórmula da média móvel trimestral a partir da relação exata entre trimestres móveis consecutivos.</p>
+<p>O artigo reúne cinco contribuições em relação à versão preliminar (Hecksher, 2020b, que havia obtido ~40% de determinação para 28 indicadores sem propagação inter-trimestres): (i) formalização de um algoritmo aperfeiçoado que alcança <strong>97% de determinação</strong> em 28,4 milhões de observações (2012–2025); (ii) método de inversão de trimestres móveis para mais de 80 séries do SIDRA; (iii) validação empírica via transições do salário mínimo; (iv) aplicações em pobreza mensal e resolução semanal; (v) implementação como pacote R <code>{PNADCperiods}</code>, de código aberto e aprovado no CRAN.</p>
+<hr>
+</section>
+</section>
+<section id="identificação-de-períodos-nos-microdados-pp.-615" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="identificação-de-períodos-nos-microdados-pp.-615"><span class="header-section-number">2</span> Identificação de períodos nos microdados (pp.&nbsp;6–15)</h2>
+<section id="o-painel-rotativo-como-recurso-os-três-fatos-estruturais-1519" class="level3" data-number="2.1">
+<h3 data-number="2.1" class="anchored" data-anchor-id="o-painel-rotativo-como-recurso-os-três-fatos-estruturais-1519"><span class="header-section-number">2.1</span> O painel rotativo como recurso: os três fatos estruturais [§15–§19]</h3>
+<p>A PNADC emprega amostragem por conglomerados em dois estágios: Unidades Primárias de Amostragem (UPAs — setores censitários ou agregados de setores) no primeiro estágio, e domicílios selecionados dentro de cada UPA no segundo. Cada UPA contém oito <strong>grupos de rotação</strong>, indexados pela variável <span class="math inline">\(V1014 \in \{1,2,...,8\}\)</span>. A cada trimestre, um grupo entra na amostra pela primeira vez e outro a deixa definitivamente. Cada grupo permanece na amostra por cinco trimestres consecutivos.</p>
+<p>O algoritmo se fundamenta em três fatos estruturais do desenho operacional da PNADC:</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Fato 1 (Compartilhamento da semana de referência):</strong> Todos os moradores de um mesmo domicílio (identificado por <span class="math inline">\(V1008\)</span> dentro da UPA) são entrevistados na mesma semana de referência.</p>
+<p><strong>Fato 2 (Compartilhamento do mês de referência):</strong> Todos os domicílios pertencentes ao mesmo grupo de rotação <span class="math inline">\((UPA, V1014)\)</span> dentro de um trimestre compartilham o mesmo mês de referência.</p>
+<p><strong>Fato 3 (Invariância da posição mensal entre visitas):</strong> A posição mensal relativa <span class="math inline">\(m^* \in \{1,2,3\}\)</span> de cada grupo <span class="math inline">\((UPA, V1014)\)</span> é invariante entre trimestres: se o grupo é entrevistado no segundo mês do trimestre em uma visita, será entrevistado no segundo mês em todas as demais visitas.</p>
+</div>
+</div>
+<p>O Fato 1 permite usar informações individuais de moradores para restringir o escopo de datas da entrevista do domicílio. O Fato 2 permite cruzar informação entre domicílios do mesmo grupo de rotação, restringindo ainda mais os meses possíveis. O Fato 3 — a <strong>propagação inter-trimestres</strong> — é descrito pelos autores como a principal fonte de poder do algoritmo: uma restrição informativa em qualquer dos até cinco trimestres de presença do grupo é suficiente para resolver a ambiguidade em todos os demais. É esse mecanismo que eleva a taxa de determinação de ~40% (Hecksher, 2020b, sem propagação) para ~97% com o histórico completo de 55 trimestres.</p>
+</section>
+<section id="semanas-de-referência-e-a-regra-da-parada-técnica-2024" class="level3" data-number="2.2">
+<h3 data-number="2.2" class="anchored" data-anchor-id="semanas-de-referência-e-a-regra-da-parada-técnica-2024"><span class="header-section-number">2.2</span> Semanas de referência e a regra da Parada Técnica [§20–§24]</h3>
+<p>A coleta da PNADC é organizada em <strong>semanas de referência</strong> de domingo a sábado. A regra geral de classificação determina que uma semana pertence ao mês <span class="math inline">\(m\)</span> se possuir pelo menos 4 dias dentro de <span class="math inline">\(m\)</span>. Cada semana é identificada pelo sábado que a encerra (a <strong>data de referência</strong>). Se o primeiro sábado do mês civil cair no dia 4 ou posterior, a semana que termina nesse sábado é a primeira do mês de referência; se cair nos dias 1, 2 ou 3, a primeira semana de referência é a seguinte.</p>
+<p>Cada <strong>mês de referência do IBGE</strong> compreende exatamente quatro semanas consecutivas — sempre 28 dias — raramente coincidindo com o mês civil. Os períodos entre dois meses de referência são chamados de <strong>Parada Técnica</strong>: nesses intervalos, não há coleta, e os sábados correspondentes não são utilizados como datas de referência.</p>
+<p>O sistema de coleta usa um dispositivo móvel (DMC) que calcula automaticamente a idade dos moradores na data de referência (o sábado final da semana de referência), desde que datas de nascimento exatas tenham sido informadas. Apenas quando não se obtém a data de nascimento de alguma pessoa é que a idade é perguntada diretamente ou estimada. O primeiro passo do algoritmo consiste em identificar os <strong>sábados válidos</strong> dentro de cada trimestre — excluindo os de Parada Técnica — e usar as idades calculadas e as datas de aniversário para restringir as datas possíveis de cada entrevista.</p>
+</section>
+<section id="o-algoritmo-de-identificação-três-passos-encadeados-2532" class="level3" data-number="2.3">
+<h3 data-number="2.3" class="anchored" data-anchor-id="o-algoritmo-de-identificação-três-passos-encadeados-2532"><span class="header-section-number">2.3</span> O algoritmo de identificação: três passos encadeados [§25–§32]</h3>
+<p>O algoritmo opera em três mecanismos encadeados:</p>
+<p><strong>Passo 1 — Restrições de aniversário.</strong> Para cada morador <span class="math inline">\(i\)</span> com data de nascimento conhecida, calcula-se:</p>
+<p><span class="math display">\[b_i = (\text{Ano} - \text{AnoNasc}_i) - \text{Idade}_i\]</span></p>
+<p>Se <span class="math inline">\(b_i = 0\)</span>, a entrevista ocorreu <em>após</em> o aniversário: a data mínima possível é deslocada para o primeiro sábado válido em ou após o aniversário. Se <span class="math inline">\(b_i = 1\)</span>, a entrevista ocorreu <em>antes</em> do aniversário: a data máxima possível é restringida ao sábado imediatamente anterior.</p>
+<p>Os autores ilustram com dois exemplos concretos para o 1º trimestre de 2023:</p>
+<ul>
+<li><em>Exemplo 1</em>: pessoa nascida em 15/03/1990 com idade 33. Como <span class="math inline">\(2023 - 1990 = 33\)</span>, <span class="math inline">\(b_i = 0\)</span>: a entrevista ocorreu após 15 de março, restringindo-a ao mês 3.</li>
+<li><em>Exemplo 2</em>: pessoa nascida em 17/02/1990 com idade 32 no mesmo trimestre. Como <span class="math inline">\(2023 - 1990 = 33 \neq 32\)</span>, <span class="math inline">\(b_i = 1\)</span>: a entrevista ocorreu antes de 17 de fevereiro, restringindo-a a janeiro ou início de fevereiro.</li>
+</ul>
+<p>A <strong>interseção</strong> das restrições de múltiplos moradores pode determinar o mês mesmo quando nenhuma restrição individual é suficiente. Se três moradores do mesmo grupo de rotação têm intervalos Jan–Fev, Jan–Mar e Fev–Mar, a interseção <span class="math inline">\([\max(1,1,2) = 2, \min(2,3,3) = 2]\)</span> identifica fevereiro como único mês compatível.</p>
+<p><strong>Passo 2 — Agregação intratrimestre.</strong> A interseção dos intervalos de todos os indivíduos do mesmo grupo <span class="math inline">\((UPA, V1014)\)</span> dentro do trimestre é computada. Pelo Fato 2, todos os domicílios compartilham o mesmo mês; pelo Fato 1, todos os moradores de cada domicílio compartilham a mesma semana. O mês verdadeiro deve satisfazer simultaneamente todas as restrições individuais.</p>
+<p><strong>Passo 3 — Propagação inter-trimestres.</strong> Pelo Fato 3, a posição mensal relativa é invariante entre visitas, de modo que as restrições de todos os trimestres em que o grupo aparece podem ser combinadas. Uma restrição informativa em qualquer um dos cinco trimestres de presença é suficiente para resolver a ambiguidade nos demais. Por exemplo: se um indivíduo é identificado como entrevistado em setembro de 2022 (terceiro mês relativo), isso determina automaticamente o mês de todos os domicílios da mesma UPA-painel em todos os cinco trimestres: setembro em T3/2022, dezembro em T4/2022, março em T1/2023, e assim por diante.</p>
+<p>A taxa de determinação cresce com o número de trimestres empilhados: <strong>~72%</strong> com um trimestre, <strong>~95%</strong> com oito, e <strong>~97%</strong> com o histórico completo de 55 trimestres (2012–2025, 28,4 milhões de observações). Cada trimestre específico esgota suas possibilidades de determinação quando o processo inclui microdados dos quatro trimestres anteriores e dos quatro posteriores — cobrindo a janela completa das cinco visitas possíveis ao mesmo grupo.</p>
+</section>
+<section id="exceções-à-regra-da-parada-técnica-3336" class="level3" data-number="2.4">
+<h3 data-number="2.4" class="anchored" data-anchor-id="exceções-à-regra-da-parada-técnica-3336"><span class="header-section-number">2.4</span> Exceções à regra da Parada Técnica [§33–§36]</h3>
+<p>Em seis trimestres entre 2012 e 2025 (2016-T3, 2016-T4, 2017-T2, 2022-T3, 2023-T2 e 2024-T1), a regra padrão (mínimo de 4 dias no mês) produz <strong>impossibilidades lógicas</strong>: as restrições de aniversário de indivíduos do mesmo grupo se tornam mutuamente incompatíveis, gerando intervalos vazios. Esses conflitos surgem em meses cujo primeiro sábado cai exatamente no dia 4 — posição limítrofe em que a classificação da semana como pertencente ao mês corrente ou ao anterior afeta encadeadamente todas as restrições do grupo.</p>
+<p>A solução é relaxar o critério para um mínimo de <strong>3 dias</strong> (<span class="math inline">\(k = 3\)</span> em vez de <span class="math inline">\(k = 4\)</span>), reclassificando a semana ambígua e restaurando a compatibilidade. O algoritmo detecta essas situações automaticamente: quando a regra geral implica impossibilidade em qualquer grupo, o trimestre é recalculado com o critério permissivo. Em todos os seis casos detectados, a exceção afeta apenas um dos três meses do trimestre.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 1:</strong> A documentação do IBGE admite explicitamente essa tolerância: “existe uma tolerância de que [o dia 1º] esteja até quarta-feira ou no limite na quinta-feira, desta forma garantimos que pelo menos 3 ou 4 dias da 1ª semana de referência do mês estejam dentro do mês corrente” (IBGE, 2018, p.&nbsp;32). [nota incluída por relevância argumentativa — confirma a base documental das exceções detectadas pelo algoritmo]</p>
+</blockquote>
+</section>
+<section id="identificação-de-quinzenas-e-semanas-3740" class="level3" data-number="2.5">
+<h3 data-number="2.5" class="anchored" data-anchor-id="identificação-de-quinzenas-e-semanas-3740"><span class="header-section-number">2.5</span> Identificação de quinzenas e semanas [§37–§40]</h3>
+<p>O algoritmo se estende para granularidades submensais com a mesma lógica, mas com uma diferença estrutural decisiva: a agregação opera no nível do domicílio <span class="math inline">\((Ano, Trimestre, UPA, V1008)\)</span>, não no nível do grupo de rotação <span class="math inline">\((UPA, V1014)\)</span> entre trimestres. Isso ocorre porque a posição quinzenal e semanal relativa dentro do mês pode <em>variar</em> entre visitas — ao contrário da posição mensal (Fato 3). Sem a propagação inter-trimestres, as taxas de determinação caem drasticamente: <strong>~9%</strong> para quinzenas e <strong>~3%</strong> para semanas pelo algoritmo estrito.</p>
+<p>Os autores recomendam cautela nessas extensões: exceto em choques de magnitude excepcional (como a COVID-19) ou em análises de eventos semanais/quinzenais repetidos ao longo de múltiplos anos (como o carnaval), a imprecisão das estimativas submensais limita sua utilidade. Imputações probabilísticas — descartadas como desnecessárias no caso mensal — são apontadas como alternativa razoável para análises submensais.</p>
+</section>
+<section id="calibragem-dos-pesos-amostrais-4146" class="level3" data-number="2.6">
+<h3 data-number="2.6" class="anchored" data-anchor-id="calibragem-dos-pesos-amostrais-4146"><span class="header-section-number">2.6</span> Calibragem dos pesos amostrais [§41–§46]</h3>
+<p>Os pesos amostrais originais do IBGE (<span class="math inline">\(V1028\)</span> para dados trimestrais, <span class="math inline">\(V1032\)</span> para dados anuais) são calibrados para reproduzir totais populacionais trimestrais ou anuais. Para produzir estimativas mensais válidas, é necessário redistribuir esses pesos de modo que a subamostra mensal represente corretamente a população.</p>
+<p>O procedimento aplica um <strong>ajuste hierárquico em quatro níveis progressivamente mais finos</strong>: (i) faixa etária (0–13, 14–29, 30–59, 60+); (ii) pós-estrato geográfico agrupado; (iii) unidade da federação; (iv) pós-estrato detalhado. Em cada nível, para cada célula demográfico-geográfica e subperíodo, aplica-se um fator multiplicativo que garante que a composição da subamostra mensal reproduza proporcionalmente a do período-âncora (trimestre ou ano). Quando uma célula tem observações insuficientes, o ajuste se interrompe naquele nível. Ao final, os pesos são rescalonados para que o total ponderado de cada subperíodo reproduza exatamente o total populacional mensal obtido da <strong>tabela 6022 do SIDRA</strong>.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 2:</strong> O total populacional da tabela 6022 do SIDRA é uma estimativa para o mês <em>central</em> de cada trimestre móvel (e.g., fevereiro de 2012 para o 1º trimestre de 2012). Para os dois meses extremos da série (janeiro de 2012 e o último mês do último trimestre disponível), os autores usam extrapolação quadrática baseada nas estimativas do SIDRA para os 24 meses mais próximos. [nota incluída por relevância argumentativa — explicita a base dos totais populacionais usados na calibração]</p>
+</blockquote>
+<p>Os aproximadamente <strong>3% de observações com mês indeterminado</strong> são excluídos da análise mensal. Os autores reconhecem que essa exclusão não constitui subamostragem aleatória simples, e que o ajuste hierárquico de pesos busca corrigir eventuais desequilíbrios demográficos e geográficos introduzidos pela seleção.</p>
+<p><strong>Estimação de variância.</strong> Dois caminhos estão disponíveis: (i) <strong>linearização de Taylor</strong>, especificando o desenho com variáveis originais de estrato e UPA e os pesos mensais calibrados — rápida e adequada para médias e proporções; (ii) <strong>pesos de replicação bootstrap</strong>, disponibilizados pelo IBGE em 200 réplicas (<span class="math inline">\(V1028001\)</span> a <span class="math inline">\(V1028200\)</span>), adaptados para pesos mensais pela fórmula:</p>
+<p><span class="math display">\[w_{i,k}^{(m)} = w_{i,k} \times \frac{w_i^{(m)}}{w_i}\]</span></p>
+<p>onde <span class="math inline">\(w_{i,k}\)</span> é o <span class="math inline">\(k\)</span>-ésimo peso de replicação original, <span class="math inline">\(w_i\)</span> é o peso trimestral original (V1028) e <span class="math inline">\(w_i^{(m)}\)</span> é o peso mensal calibrado. Essa adaptação preserva a estrutura de variabilidade do desenho amostral.</p>
+<hr>
+</section>
+</section>
+<section id="identificação-de-meses-exatos-nos-dados-do-sidra-pp.-1619" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="identificação-de-meses-exatos-nos-dados-do-sidra-pp.-1619"><span class="header-section-number">3</span> Identificação de meses exatos nos dados do SIDRA (pp.&nbsp;16–19)</h2>
+<section id="a-lógica-da-inversão-do-trimestre-móvel-4752" class="level3" data-number="3.1">
+<h3 data-number="3.1" class="anchored" data-anchor-id="a-lógica-da-inversão-do-trimestre-móvel-4752"><span class="header-section-number">3.1</span> A lógica da inversão do trimestre móvel [§47–§52]</h3>
+<p>A segunda abordagem opera exclusivamente sobre os <strong>agregados publicados pelo IBGE no SIDRA</strong>, dispensando acesso a microdados. Ela tem duas vantagens próprias: (i) as variações mensais recuperadas derivam diretamente dos dados oficiais do IBGE, com publicação que antecede os microdados em até três meses; (ii) pesquisadores sem infraestrutura para processar microdados podem obter estimativas mensais para mais de 80 indicadores.</p>
+<p>A chave está na sobreposição entre trimestres móveis consecutivos. Dois trimestres consecutivos (<span class="math inline">\(x_t\)</span> e <span class="math inline">\(x_{t-1}\)</span>) compartilham os meses <span class="math inline">\(y_{t-2}\)</span> e <span class="math inline">\(y_{t-1}\)</span>. Sua diferença isola exatamente o que mudou — o mês que entrou menos o que saiu:</p>
+<p><span class="math display">\[d_{3t} \equiv 3(x_t - x_{t-1}) = (y_{t-2} + y_{t-1} + y_t) - (y_{t-3} + y_{t-2} + y_{t-1}) = y_t - y_{t-3}\]</span></p>
+<p>Portanto, <span class="math inline">\(d_{3t}\)</span> corresponde à variação entre dois meses separados por três posições, e é exatamente três vezes a subtração entre dois trimestres móveis consecutivos. Sob essa lógica, os meses se organizam em <strong>três subsequências independentes</strong> conforme suas posições relativas nos trimestres — posição <span class="math inline">\(j \in \{1, 2, 3\}\)</span>, correspondendo respectivamente a jan/abr/jul/out, fev/mai/ago/nov e mar/jun/set/dez. Dentro de cada subsequência, o valor mensal é a soma telescópica das variações a partir de um ponto inicial:</p>
+<p><span class="math display">\[y_t = y_0^{(j)} + \sum_{\substack{s \leq t \\ s \equiv j \pmod{3}}} d_{3s}\]</span></p>
+<p>Três pontos iniciais — um por posição — são suficientes para recuperar toda a série histórica. A inversão resolve as variações exatas, mas não os níveis iniciais. Para taxas e rendimentos médios (razões entre grandezas), é necessário mensalizar numerador e denominador separadamente, pois a média de uma razão não é igual à razão das médias.</p>
+</section>
+<section id="calibração-dos-pontos-iniciais-5358" class="level3" data-number="3.2">
+<h3 data-number="3.2" class="anchored" data-anchor-id="calibração-dos-pontos-iniciais-5358"><span class="header-section-number">3.2</span> Calibração dos pontos iniciais [§53–§58]</h3>
+<p>Os três pontos iniciais <span class="math inline">\(y_0^{(j)}\)</span> — os valores em nível de janeiro, fevereiro e março de 2012 — não podem ser recuperados a partir dos dados agregados. É aqui que as duas abordagens se tornam <strong>mutuamente complementares</strong>: os microdados mensalizados fornecem esses pontos iniciais.</p>
+<p>O procedimento se dá em quatro passos: (1) calcular <span class="math inline">\(d_{3t} = 3(x_t - x_{t-1})\)</span> para cada par consecutivo de trimestres móveis do SIDRA; (2) acumular as variações dentro de cada subsequência <span class="math inline">\(j\)</span>; (3) usar os microdados mensalizados para estimar os valores em nível de janeiro, fevereiro e março de 2012, gerando estimativas para os três <span class="math inline">\(y_0^{(j)}\)</span>; (4) somar as variações acumuladas aos pontos iniciais para reconstruir as séries completas.</p>
+<p>Alternativamente, qualquer mês disponível nos microdados pode servir como ponto inicial, gerando versões alternativas da série. Em princípio idênticas, elas diferem numericamente devido a ruídos estatísticos da incompletude da mensalização — discrepâncias que podem alcançar centenas de milhares de pessoas em indicadores de nível. Os autores recomendam calcular a <strong>média simples</strong> dessas estimativas usando <strong>2013–2019 como janela de calibração</strong>, período com as mais altas taxas de identificação (~98%). O pacote <code>{PNADCperiods}</code> armazena internamente os pontos iniciais pré-calculados para todas as séries do SIDRA, de modo que o usuário pode obter estimativas mensais para mais de 80 indicadores sem executar todas essas etapas.</p>
+<hr>
+</section>
+</section>
+<section id="estratégias-experimentais-para-granularidades-submensais-pp.-1920" class="level2" data-number="4">
+<h2 data-number="4" class="anchored" data-anchor-id="estratégias-experimentais-para-granularidades-submensais-pp.-1920"><span class="header-section-number">4</span> Estratégias experimentais para granularidades submensais (pp.&nbsp;19–20)</h2>
+<section id="atribuição-probabilística-e-agregação-por-upa-5962" class="level3" data-number="4.1">
+<h3 data-number="4.1" class="anchored" data-anchor-id="atribuição-probabilística-e-agregação-por-upa-5962"><span class="header-section-number">4.1</span> Atribuição probabilística e agregação por UPA [§59–§62]</h3>
+<p>Com taxas de determinação estrita baixas (~3% semanal, ~9% quinzenal), os autores propõem duas estratégias opcionais que elevam essas taxas sem comprometer a integridade da identificação mensal.</p>
+<p><strong>Atribuição probabilística:</strong> Quando o intervalo de datas possíveis de uma observação abrange exatamente dois períodos consecutivos, ela é atribuída ao período que contém o ponto médio do intervalo. Um <strong>índice de confiança</strong> — definido como a proporção do intervalo contida no período atribuído — acompanha cada atribuição. Com limiar de confiança de 0,75, a taxa de quinzenas sobe para <strong>~13,5%</strong> e a de semanas para <strong>~7,5%</strong>. Para uso robusto, recomenda-se filtrar observações com confiança <span class="math inline">\(\geq 0,7\)</span>.</p>
+<p><strong>Agregação por UPA:</strong> Se todos os domicílios com quinzena ou semana determinada dentro de uma UPA apontam para o mesmo período, os domicílios indeterminados da mesma UPA podem herdar essa atribuição. A homogeneidade intra-UPA é de 100% para os 55 trimestres analisados (9,6 milhões de observações). Na prática, o ganho marginal é limitado, pois a maioria das UPAs já possui todos os domicílios determinados ou todos indeterminados.</p>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Os autores recomendam cautela substancial nas análises submensais: exceto em choques de magnitude excepcional ou em eventos semanais/quinzenais analisados ao longo de múltiplos anos empilhados, a incerteza adicional das atribuições probabilísticas e os intervalos de confiança amplos limitam a utilidade prática dessas extensões.</p>
+</div>
+</div>
+<hr>
+</section>
+</section>
+<section id="validação-o-mês-de-ajuste-do-salário-mínimo-pp.-2022" class="level2" data-number="5">
+<h2 data-number="5" class="anchored" data-anchor-id="validação-o-mês-de-ajuste-do-salário-mínimo-pp.-2022"><span class="header-section-number">5</span> Validação: o mês de ajuste do Salário Mínimo (pp.&nbsp;20–22)</h2>
+<section id="o-teste-de-validação-e-seus-resultados-6368" class="level3" data-number="5.1">
+<h3 data-number="5.1" class="anchored" data-anchor-id="o-teste-de-validação-e-seus-resultados-6368"><span class="header-section-number">5.1</span> O teste de validação e seus resultados [§63–§68]</h3>
+<p>A validação enfrenta um problema fundamental: os meses verdadeiros de referência não são observados nos dados públicos. A estratégia proposta explora uma <strong>assimetria temporal estrutural</strong> da PNADC combinada a uma regularidade institucional do mercado de trabalho brasileiro.</p>
+<p>A PNADC contém duas variáveis de rendimento com temporalidades distintas: o <strong>rendimento habitual</strong> (<span class="math inline">\(VD4016\)</span>) refere-se ao mês da entrevista, enquanto o <strong>rendimento efetivo</strong> (<span class="math inline">\(VD4017\)</span>) refere-se ao mês anterior. O salário mínimo é reajustado por decreto, tipicamente em 1º de janeiro. Se a identificação mensal for precisa, o rendimento habitual dos entrevistados de janeiro deve refletir o novo valor, enquanto o efetivo só o refletirá em fevereiro (cujo “mês anterior” é janeiro). Essa <strong>defasagem de exatamente um mês</strong> funciona como teste falsificável: um algoritmo incorreto produziria uma transição borrada em vez de abrupta.</p>
+<p>A análise abrange <strong>16 transições</strong> entre 2012 e 2025, incluindo reajustes intra-anuais como o de maio de 2023. O teste mais exigente ocorre em 2020, quando houve dois reajustes em rápida sucessão: de R$ 998 para R$ 1.039 em 1º de janeiro, e de R$ 1.039 para R$ 1.045 em 1º de fevereiro. O valor de R$ 1.039 foi o salário mínimo oficial por exatamente um mês — um <strong>teste de estresse natural</strong>: qualquer erro de atribuição de uma pequena fração de observações diluiria esse valor nos meses vizinhos.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Resultado da validação:</strong> Em todas as 16 transições, o rendimento habitual apresenta mudança abrupta no mês do reajuste e o rendimento efetivo replica o mesmo padrão com defasagem de exatamente um mês — sem exceção. A transição de dois reajustes em 2020 é identificada com precisão. Valores anteriores não desaparecem completamente (fração residual reflete ajustes graduais de empregadores), mas a transição majoritária é abrupta em um único mês, como previsto. A regularidade ao longo de 13 anos (2012–2025) é, nas palavras dos autores, “notável”.</p>
+</div>
+</div>
+<hr>
+</section>
+</section>
+<section id="o-pacote-pnadcperiods-modos-de-usar-pp.-2223" class="level2" data-number="6">
+<h2 data-number="6" class="anchored" data-anchor-id="o-pacote-pnadcperiods-modos-de-usar-pp.-2223"><span class="header-section-number">6</span> O pacote {PNADCperiods}: modos de usar (pp.&nbsp;22–23)</h2>
+<section id="dois-workflows-complementares-6973" class="level3" data-number="6.1">
+<h3 data-number="6.1" class="anchored" data-anchor-id="dois-workflows-complementares-6973"><span class="header-section-number">6.1</span> Dois workflows complementares [§69–§73]</h3>
+<p>Ambas as abordagens estão implementadas no pacote R <code>{PNADCperiods}</code>, disponível em código aberto no CRAN. O uso típico segue dois fluxos complementares:</p>
+<p><strong>Workflow por microdados (3 passos).</strong> O <em>crosswalk</em> de identificação de períodos é construído uma única vez a partir de dados empilhados e pode ser reutilizado para qualquer divulgação trimestral ou anual. A função <code>pnadc_identify_periods()</code> recebe os microdados empilhados e retorna o <em>crosswalk</em>; <code>pnadc_apply_periods()</code> aplica o <em>crosswalk</em> a uma divulgação específica e calibra os pesos mensais. A variável resultante <code>weight_monthly</code> é o peso amostral calibrado para totais populacionais mensais; <code>ref_month_yyyymm</code> identifica o mês exato no formato AAAAMM.</p>
+<p><strong>Workflow SIDRA (3 linhas).</strong> Dispensa microdados — o pacote já traz pontos iniciais pré-calculados para mais de 80 indicadores. <code>fetch_sidra_rolling_quarters()</code> baixa as séries de trimestres móveis do SIDRA; <code>mensalize_sidra_series()</code> executa a inversão e retorna as séries mensais. As colunas <code>m_*</code> contêm as estimativas mensais recuperadas; <code>anomesexato</code> é o equivalente de <code>ref_month_yyyymm</code>.</p>
+<p>O artigo destaca que os dois workflows podem ser combinados: o microdados fornece os pontos iniciais para calibrar as séries do SIDRA, e o SIDRA fornece estimativas rápidas antes da disponibilidade dos microdados.</p>
+<hr>
+</section>
+</section>
+<section id="alguns-exemplos-e-aplicações-pp.-2431" class="level2" data-number="7">
+<h2 data-number="7" class="anchored" data-anchor-id="alguns-exemplos-e-aplicações-pp.-2431"><span class="header-section-number">7</span> Alguns exemplos e aplicações (pp.&nbsp;24–31)</h2>
+<section id="pobreza-mensal-a-partir-dos-dados-anuais-7479" class="level3" data-number="7.1">
+<h3 data-number="7.1" class="anchored" data-anchor-id="pobreza-mensal-a-partir-dos-dados-anuais-7479"><span class="header-section-number">7.1</span> Pobreza mensal a partir dos dados anuais [§74–§79]</h3>
+<p>A primeira aplicação demonstra o uso dos dados <strong>anuais</strong> da PNADC, que contêm variáveis abrangentes de rendimento domiciliar per capita (<span class="math inline">\(VD5008\)</span>) não disponíveis nas divulgações trimestrais. O pipeline opera em dois passos: o <em>crosswalk</em> é construído a partir dos microdados trimestrais empilhados (2015–2024); essa tabela é então aplicada aos dados anuais com âncora anual (<span class="math inline">\(V1032\)</span>) e calibração mensal pelo procedimento hierárquico. A chave é que as divulgações trimestral e anual da PNADC compartilham a mesma estrutura de painel <span class="math inline">\((UPA, V1014, V1008)\)</span>, de modo que o <em>crosswalk</em> construído com dados trimestrais se aplica diretamente aos anuais.</p>
+<p>Utilizando a linha de pobreza de R$ 624/mês per capita (preços de dezembro de 2023) e a medida FGT-0, os autores estimam taxas mensais de pobreza com intervalos de confiança de 95% para 2015–2024, incorporando o desenho amostral complexo via <code>svydesign()</code> do pacote <code>{survey}</code>. Três padrões emergem que os dados anuais não capturam:</p>
+<ol type="1">
+<li><strong>Salto abrupto</strong> da pobreza entre março e abril de 2020, diluído na média anual.</li>
+<li><strong>Queda abaixo dos níveis pré-pandêmicos</strong> já em maio de 2020, com o início do Auxílio Emergencial — estatisticamente significativa segundo as bandas de confiança.</li>
+<li><strong>Repique parcial</strong> com a redução do auxílio e sua extinção em 2021, com <em>timing</em> exato agora mensurável.</li>
+</ol>
+</section>
+<section id="a-recessão-de-20142017-deterioração-mês-a-mês-8083" class="level3" data-number="7.2">
+<h3 data-number="7.2" class="anchored" data-anchor-id="a-recessão-de-20142017-deterioração-mês-a-mês-8083"><span class="header-section-number">7.2</span> A recessão de 2014–2017: deterioração mês a mês [§80–§83]</h3>
+<p>A segunda aplicação examina a recessão prolongada de 2014–2017, durante a qual a taxa de desocupação mais que dobrou (de 6,6% para 13,9%). Os dados trimestrais apresentam essa deterioração como trajetória relativamente suave e contínua. Os dados mensais, em contraste, revelam que a piora ocorreu em <strong>episódios discretos</strong>: diversos meses registraram aumentos superiores a 1 ponto percentual na taxa de desocupação — choques abruptos invisíveis nas médias trimestrais. O código demonstrativo usa <code>data.table</code> para calcular as variações mensais (<code>delta</code>) e identificar os meses com saltos expressivos.</p>
+</section>
+<section id="indicadores-mensalizados-do-sidra-8487" class="level3" data-number="7.3">
+<h3 data-number="7.3" class="anchored" data-anchor-id="indicadores-mensalizados-do-sidra-8487"><span class="header-section-number">7.3</span> Indicadores mensalizados do SIDRA [§84–§87]</h3>
+<p>A terceira aplicação demonstra a versatilidade da inversão de trimestres móveis para quatro indicadores selecionados por diversidade temática: <strong>taxa de participação</strong> na força de trabalho, <strong>empregados sem carteira</strong> no setor privado, <strong>subocupação por insuficiência de horas</strong>, e <strong>alojamento e alimentação</strong>. Em todos os quatro painéis, a série mensal recuperada (linha vermelha) contrasta com a série de trimestres móveis publicada (linha azul tracejada), revelando dinâmicas distintas ocultas pela média trimestral: a queda abrupta da participação em março de 2020, a volatilidade mensal da informalidade, a sensibilidade extrema do setor de alojamento e alimentação aos ciclos de restrição sanitária, e os picos sazonais de subocupação.</p>
+</section>
+<section id="resolução-semanal-o-efeito-do-carnaval-8893" class="level3" data-number="7.4">
+<h3 data-number="7.4" class="anchored" data-anchor-id="resolução-semanal-o-efeito-do-carnaval-8893"><span class="header-section-number">7.4</span> Resolução semanal: o efeito do carnaval [§88–§93]</h3>
+<p>A quarta aplicação ilustra o uso da identificação semanal experimental. Embora a taxa de determinação pelo algoritmo estrito seja de apenas ~3%, o empilhamento de múltiplos anos permite acumular observações suficientes para análises em nível de grandes agregados. O carnaval é uma aplicação ideal: a semana de carnaval reduz as horas efetivamente trabalhadas (<span class="math inline">\(VD4035\)</span>), mas esse efeito é completamente diluído em dados trimestrais e até mensais.</p>
+<p>Os autores empilham 12 primeiros trimestres (2012–2019, 2022–2025, excluindo o período COVID) com identificação semanal probabilística (confiança 0,75), comparando horas trabalhadas na semana do carnaval versus demais semanas por região metropolitana (RM). Estratos independentes por ano garantem independência entre ondas; cada RM serve como baseline próprio. Os resultados mostram redução de horas em todas as RMs, com maior magnitude em Salvador e Rio de Janeiro (4–5 horas), consistente com a intensidade da tradição carnavalesca nessas regiões. O padrão é estatisticamente significativo nas RMs de maior efeito, com intervalos de confiança não sobrepostos.</p>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Os autores ressaltam as limitações desta aplicação: intervalos de confiança amplos, amostras pequenas e atribuições probabilísticas incertas. A validade da análise repousa sobre a comparação intra-RM (que elimina confundidores fixos) e o empilhamento multianual (que aumenta a precisão). O exemplo demonstra utilidade prática da resolução semanal, mas apenas sob condições específicas de acumulação de dados.</p>
+</div>
+</div>
+<hr>
+</section>
+</section>
+<section id="discussão-e-conclusão-pp.-3133" class="level2" data-number="8">
+<h2 data-number="8" class="anchored" data-anchor-id="discussão-e-conclusão-pp.-3133"><span class="header-section-number">8</span> Discussão e Conclusão (pp.&nbsp;31–33)</h2>
+<section id="relação-com-métodos-clássicos-de-desagregação-temporal-9499" class="level3" data-number="8.1">
+<h3 data-number="8.1" class="anchored" data-anchor-id="relação-com-métodos-clássicos-de-desagregação-temporal-9499"><span class="header-section-number">8.1</span> Relação com métodos clássicos de desagregação temporal [§94–§99]</h3>
+<p>A literatura de desagregação temporal se desenvolve desde a década de 1970, com contribuições de Chow e Lin (1971), Denton (1971), Fernández (1981) e Litterman (1983), implementadas computacionalmente no pacote <code>tempdisagg</code> (Sax &amp; Steiner, 2013). Esses métodos foram concebidos para o problema clássico de interpolação de séries de contas nacionais — sistemas subdeterminados (mais incógnitas do que equações) resolvidos mediante hipóteses de suavidade ou correlação com indicadores externos de alta frequência.</p>
+<p>A abordagem por microdados proposta por Hecksher e Barbosa <strong>difere fundamentalmente</strong>: não é interpolação estatística, mas <strong>identificação determinística</strong> que explora a estrutura interna da própria pesquisa — informações de nascimento e idade dos respondentes e a invariância do painel rotativo — sem indicadores externos nem hipóteses sobre a estrutura temporal das séries. A abordagem por agregados (inversão das médias móveis do SIDRA) constitui um sistema <strong>exatamente determinado</strong> condicionado a três pontos iniciais, diferindo dos sistemas subdeterminados dos métodos clássicos.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Posicionamento na literatura:</strong> O método não compete com as abordagens por modelos de séries temporais (Gonçalves et al., 2022; 2025), mas as complementa: enquanto essas abordagens produzem estimativas probabilísticas a partir de hipóteses sobre a estrutura temporal das séries, o método aqui descrito produz identificação determinística a partir da estrutura interna da pesquisa, sem hipóteses sobre a dinâmica das variáveis de interesse. A principal vantagem comparativa é a aplicabilidade a todos os microdados individuais e a todas as variáveis disponíveis, não apenas às séries de indicadores publicados.</p>
+</div>
+</div>
+<p>Os autores listam as aplicações potenciais do método: avaliação de políticas com timing preciso (transferências de renda, reformas trabalhistas, pisos salariais); análise de choques imprevistos (pandemia, eventos climáticos); comparação internacional; emprego em modelos com outras séries mensais; detecção antecipada de pontos de inflexão; e estudos populacionais de pobreza, desigualdade e participação feminina. Com o pacote <code>{PNADCperiods}</code> no CRAN, os autores expressam a expectativa de que outros usuários encontrem novas aplicações.</p>
+<hr>
+</section>
+</section>
+<section id="argumento-sintético" class="level2" data-number="9">
+<h2 data-number="9" class="anchored" data-anchor-id="argumento-sintético"><span class="header-section-number">9</span> Argumento Sintético</h2>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Tese central:</strong> Hecksher e Barbosa demonstram que o mês exato de referência de cada entrevista da PNAD Contínua pode ser identificado deterministicamente para 97% das observações (2012–2025, 28,4 milhões de obs.) a partir de três fatos estruturais do desenho amostral — compartilhamento de semana e mês dentro de grupos de rotação, e invariância da posição mensal relativa entre visitas —, combinados com as datas de nascimento e idades calculadas dos respondentes. A inversão algébrica das médias móveis trimestrais do SIDRA complementa esse resultado, permitindo a reconstrução de mais de 80 séries mensais de indicadores oficiais sem acesso a microdados.</p>
+<p><strong>Natureza do argumento:</strong> Primariamente metodológico e descritivo-instrumental. O argumento não é causal — não estima efeitos de tratamento — mas demonstra a viabilidade e a validade de um procedimento de identificação temporal que habilita análises causais mais precisas por terceiros.</p>
+<p><strong>O que o texto demonstra:</strong> (i) Que a identificação é factível com taxa de 97% e cresce sistematicamente com o número de trimestres empilhados; (ii) que a identificação é válida, demonstrada por 16 transições do salário mínimo sem nenhuma borrada ao longo de 13 anos; (iii) que o método revela dinâmicas substantivamente relevantes ocultas pelos dados trimestrais — o pico de desemprego na COVID-19 foi 2 p.p. superior ao indicado pelos dados trimestrais; o Auxílio Emergencial reduziu a pobreza abaixo dos níveis pré-pandêmicos já em maio de 2020.</p>
+<p><strong>O que fica como hipótese ou agenda:</strong> (i) O comportamento dos 3% não identificados e a validade da hipótese de MAR para esse grupo; (ii) a robustez do método frente a mudanças futuras nos procedimentos operacionais do IBGE; (iii) a extensão a granularidades submensais (quinzenal, semanal) como instrumento analítico regular, não apenas exploratório.</p>
+<p><strong>Contribuição para o debate mais amplo:</strong> O artigo resolve um problema prático de longa data na pesquisa empírica brasileira sobre mercado de trabalho e pobreza, aproximando o Brasil das práticas internacionais de divulgação mensal. Ao fazê-lo sem interpolação estatística nem indicadores externos, o método preserva a integridade dos dados originais e se posiciona como alternativa determinística às abordagens por modelos de séries temporais existentes na literatura. A disponibilidade do pacote <code>{PNADCperiods}</code> no CRAN democratiza o acesso ao método e abre agenda de pesquisa para análises de timing preciso de políticas públicas no Brasil.</p>
+</div>
+</div>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/mancano-tales\.github\.io\/Annotated-Bibliography");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<a href="https://mancano-tales.github.io">Tales Mançano</a> ©
+<script>document.write(new Date().getFullYear())</script>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/mancano-tales/Annotated-Bibliography" target="_blank">
+      <i class="bi bi-github" role="img">
+</i> 
+    </a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
