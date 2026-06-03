@@ -1,0 +1,352 @@
+---
+title: "Fichamento: Coffee Planters, Workers and Wives"
+subtitle: "Stolcke, V. (1988). *Coffee planters, workers and wives: Class conflict and gender relations on São Paulo plantations, 1850–1980*. St. Martin's Press."
+author: "Tales Mançano"
+date: "2026-06-02"
+last-updated: "2026-06-02"
+coverage: "Obra completa"
+categories: [Annotated Bibliography, Historical Sociology, Historical Political Economy, Gender and Labor Markets, Brazil, 1988, 1980s]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+    execute: false
+---
+
+::: {.callout-note collapse="true" icon=false}
+## Informações Técnicas e BibTeX
+Última atualização: 2026-06-02
+Modelo: Claude Sonnet 4.6
+Prompt Version: v17.4 · 2026-05-13
+Gerado em: 2026-06-02T12:00:00-03:00
+Ocasião da Leitura: Pesquisa falecimento Leonor
+
+**Entrada BibTeX → Stolcke1988**
+
+```bibtex
+@book{Stolcke1988,
+  author    = {Stolcke, Verena},
+  title     = {Coffee Planters, Workers and Wives: Class Conflict and
+               Gender Relations on {S\~ao Paulo} Plantations, 1850--1980},
+  year      = {1988},
+  publisher = {St. Martin's Press},
+  address   = {New York},
+  isbn      = {0-312-01693-X},
+  note      = {DOI n\~ao dispon\'ivel. Vers\~ao em portugu\^es:
+               \textit{Cafeicultura: homens, mulheres e capital
+               (1850--1980)}. Brasiliense, 1986.},
+}
+```
+
+:::
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v17.4*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | A premissa central é que a transformação dos sistemas de trabalho nas fazendas de café paulistas — da parceria ao colonato, e do colonato ao trabalho assalariado casual — só pode ser explicada pela interação dinâmica entre estratégias de exploração patronal e padrões de resistência operária, mediada tanto por relações de classe quanto por relações de gênero. Uma interpretação alternativa plausível seria a estrutural-funcionalista: o colonato teria sido substituído simplesmente por imperativo de acumulação capitalista, sem necessidade de agência dos trabalhadores. O ponto mais vulnerável é que a tese da "mediação de gênero" na consciência de classe pode ser lida como funcionalista — como se o capital "soubesse" explorar a ideologia familiar. | *Pergunta central (reconstruída):* Por que os sistemas de trabalho nas fazendas de café de São Paulo assumiram as formas históricas que assumiram — e por que se transformaram quando se transformaram? Natureza: explicativa e interpretativa. A pergunta dupla integra economia política histórica com análise de gênero. |
+| Questões Secundárias | Cada questão secundária opera num nível de análise distinto — econômico, político, cultural — e sua articulação é o que distingue o livro de uma mera história do trabalho agrícola. | (1) Como a estrutura familiar específica dos imigrantes europeus possibilitou e restringiu a exploração do trabalho no colonato? (2) Como a memória histórica dos trabalhadores constitui e é constituída por sua consciência de classe? (3) O que explica o "paradoxo econômico" de um sistema mais eficiente (colonato) ser substituído por um menos eficiente (trabalho assalariado casual)? (4) De que modo a transição para o trabalho assalariado individual afetou diferentemente as posições de mulheres e homens? |
+| Puzzle-Type | O puzzle é genuíno e generalizável: a substituição de sistemas de trabalho por formas aparentemente menos eficientes é um fenômeno recorrente em transições agrárias capitalistas. A resposta política (conflito de classe mediado pelo Estado) é mais convincente do que qualquer explicação tecnológica ou de mercado, e tem validade comparada para outras formações agroexportadoras periféricas. | Puzzle explicativo duplo: (a) por que o colonato — identificado pela autora como um sistema de incentivos laborais *mais* eficiente que o salário direto — foi abandonado pelos fazendeiros nos anos 1960? (b) por que a resistência dos trabalhadores produziu, paradoxalmente, formas de exploração ainda mais precarizadas (o *boia-fria*)? Ambos são genuínos e não triviais. |
+| Conclusão / Argumento Central | O argumento articula três planos que a maior parte da literatura trata separadamente: (1) lógica econômica do colonato como sistema de flexibilidade de custos; (2) política do conflito agrário e o papel do Estatuto do Trabalhador Rural; (3) ideologia familiar de gênero como mecanismo de extração de mais-valia não remunerada. O *claim* de descoberta mais forte é a demonstração de que a transição para o trabalho assalariado casual foi politicamente produzida, não tecnologicamente determinada. | O colonato foi simultaneamente uma forma eficiente de exploração do trabalho e um terreno de resistência organizada. Sua substituição pelo trabalho assalariado casual não foi ditada por racionalização tecnológica — a mecanização foi mínima — mas pelo confronto entre fazendeiros e trabalhadores mediado pelo Estado, especialmente via Estatuto do Trabalhador Rural de 1963. As relações de gênero não são variável secundária: a exploração da moralidade familiar — a ideologia de solidariedade doméstica — foi condição material para o funcionamento do colonato, e sua erosão sob o trabalho assalariado individual criou novas contradições e novos conflitos. |
+| Métodos | O livro é classificável como antropologia histórica de métodos mistos. Para os capítulos históricos (1–3), o desenho é documental-comparativo; para os capítulos etnográficos (4–6), é qualitativo-interpretativo com história oral. O fichamento cobre a obra inteira (372 pp.). A principal limitação de identificação é o fato de a etnografia de base (capítulos 4–6) apoiar-se em um único grupo de trabalho (turma permanente), o que cria risco de viés de seleção na representatividade dos achados culturais e identitários. | Pesquisa documental extensa (contratos, registros de fazendas, relatórios do Patronato Agrícola, imprensa, dados censitários e estatísticas de produção), combinada com etnografia de trabalho de campo conduzida em uma turma permanente de trabalhadores rurais temporários na região de Ribeirão Preto nos anos 1970. Também inclui histórias de vida e entrevistas individuais, particularmente com mulheres trabalhadoras. A colaboração com o historiador Michael Hall aprofundou a cobertura do período 1850–1920 (capítulo 1 é co-autoria). |
+| Data Generation Process (DGP) | O DGP introduz vieses específicos: (a) as fontes documentais dos séculos XIX e início do XX são predominantemente produzidas pelo Estado e pelos fazendeiros, sub-representando a perspectiva dos trabalhadores; (b) a história oral retrospectiva está sujeita a distorções de memória e efeito do entrevistador; (c) a turma estudada é uma turma *permanente*, tipicamente mais organizada e politicamente consciente do que o universo dos trabalhadores temporários. O nível de análise oscila entre a fazenda individual, o estado de São Paulo e o Brasil, com generalizações nem sempre suficientemente qualificadas. | Fenômeno real → sistemas de trabalho e suas transformações (1850–1980) → observação via fontes primárias documentais + trabalho de campo etnográfico → coleta de contratos, relatórios, registros de fazendas, estatísticas estatais + entrevistas e observação participante → operacionalização das relações de classe via contratos de trabalho e padrões de resistência; do gênero via divisão sexual do trabalho e depoimentos femininos → análise histórico-comparativa + interpretação etnográfica → inferência explicativa não causal-quantitativa. Unidade de análise: o grupo de trabalho e a fazenda cafeeira; nível de agregação: regional (São Paulo) com ambições nacionais pontuais. |
+| Achados e Contribuições | Os achados empíricos mais robustos são os de estrutura histórica (capítulos 1–3), sustentados por fontes documentais diversas. Os achados sobre consciência de classe e identidade (capítulo 5) são mais especulativos — a interpretação do mito Vargas e da memória seletiva é convincente mas dependente da subjetividade interpretativa da autora. A contribuição teórico-metodológica mais durável é a integração da análise de gênero à economia política do trabalho agrário, algo raro na literatura sobre cafeicultura paulista até 1988. | (1) O colonato foi um sistema de *custo flexível*, não uma forma de transição para o salário: ao combinar salário monetário com produção de subsistência, oferecia aos fazendeiros a possibilidade de comprimir salários em crises sem perder mão-de-obra. (2) A transição para o trabalho assalariado casual nos anos 1960 foi politicamente produzida pelo Estatuto do Trabalhador Rural de 1963, que ameaçava convertir os colonos em trabalhadores com direitos; fazendeiros optaram pela dispensa massiva como resposta. (3) O sistema de família laboral foi ativo e ideologicamente sustentado, não mera conveniência econômica: a "solidariedade familiar" foi deliberadamente explorada pelos fazendeiros. (4) Mulheres eram duplamente exploradas — como membros da classe trabalhadora e como sujeitos generificados cujo trabalho doméstico e extradoméstico era subsumido à autoridade do marido. |
+| Análise Crítica dos Achados | (a) O risco de funcionalismo no argumento do "gênero como instrumento do capital" é real: Stolcke oscila entre mostrar que os fazendeiros *aproveitaram* uma ideologia familiar pré-existente e sugerir que o capitalismo *produziu* essa ideologia, sem resolver a tensão. (b) A afirmação de que o colonato era *mais eficiente* do que o trabalho assalariado carece de formalização econométrica — o argumento é plausível mas baseado em evidências qualitativas. (c) O estudo de campo em uma única turma limita severamente a generalização das conclusões sobre consciência de classe e identidade cultural. (d) A quase ausência de vozes masculinas no trabalho de campo (a maior parte dos interlocutores são mulheres) pode enviesar a análise das relações de gênero intradomésticas. | O livro responde adequadamente à sua pergunta central de modo comparativo-histórico (capítulos 1–3), menos adequadamente no tocante às questões sobre consciência de classe e identidade (capítulo 5), onde a base empírica é mais restrita. A integração analítica entre classe e gênero é a contribuição mais duradoura e é sustentada com força. O argumento político para a transição (Estatuto do Trabalhador Rural → dispensa → boia-fria) é o mais robusto do livro e a contribuição mais original em relação ao debate brasileiro da época. |
+| Limitações | **Reconhecidas pelos autores:** Dependência da história oral como fonte de "fatos duros" sobre grupos dominados; limitações epistemológicas da memória retrospectiva; escopo geográfico restrito ao estado de São Paulo. <br> **Não reconhecidas ou subestimadas:** (1) Viés de seleção do campo: turma permanente não representa o conjunto dos trabalhadores temporários. (2) Possível efeito do(a) pesquisador(a): Stolcke era mulher estrangeira de status universitário; sua presença certamente moldou diferentemente o acesso às perspectivas masculinas e femininas. (3) A relação entre a versão portuguesa de 1986 e esta edição inglesa de 1988 nunca é explicitada: as diferenças entre as edições (incluindo o posfácio das greves de 1984) não são discutidas metodologicamente. (4) O argumento sobre o mito Vargas (capítulo 5) é apresentado como evidência de falsa consciência, mas uma leitura alternativa — de que os trabalhadores tinham avaliações politicamente racionais do período — não é suficientemente considerada. |
+| Perspectiva Teórica | A coerência ontológica é forte: classe como processo dinâmico (à la Thompson) é consistente com a metodologia histórico-etnográfica. A articulação com o feminismo materialista poderia ser mais explícita — Stolcke usa Barrett & McIntosh mas não desenvolve a teoria feminist de reprodução social. | Marxismo histórico-antropológico, com ênfase na agência dos trabalhadores na transformação das relações de produção (diálogo implícito com E. P. Thompson). Crítica do funcionalismo estrutural-marxista (Althusser, Poulantzas) e do desenvolvimentismo (CEPAL). Integração com feminismo materialista (Barrett e McIntosh) para a análise da família. Crítica das interpretações "feudalistas" e "capitalistas" da agricultura brasileira (diálogo com Caio Prado Jr., André Gunder Frank, José Graziano da Silva). |
+| Principais Referências | O diálogo com a literatura brasileira é rico mas seletivo: Martins (*O cativeiro da terra*) é referenciado principalmente para ser criticado. A ausência de engajamento com a literatura demográfica sobre imigração (Holloway, Bassanezi) é uma lacuna para os capítulos 1–2. O diálogo com a teoria feminista é pioneiro para o contexto, mas hoje evidentemente datado. | Marx (*O capital*); E. P. Thompson (*The Making of the English Working Class*); Caio Prado Jr. (história agrária brasileira); André Gunder Frank (capitalismo periférico); Juan Martínez-Alier (economia política do trabalho rural); Bogdanov (parceria como venda disfarçada da força de trabalho); Barrett e McIntosh (*The Anti-Social Family*); Michael Hall (colaborador histórico, coautor do capítulo 1). |
+| Observações | Esta é a edição em inglês de *Cafeicultura: homens, mulheres e capital (1850–1980)* (Brasiliense, 1986). A edição inglesa inclui o posfácio sobre as greves de Guariba (1984), ausente na versão portuguesa. O PDF é digitalização do Internet Archive com OCR (GlyphLessFont), de qualidade variável. Para o projeto do usuário sobre desigualdade no ensino superior brasileiro (1994–2024), o livro estabelece a estrutura de classes rurais da qual emergiu a demanda por expansão do ensino superior nas décadas seguintes — a geração dos netos dos colonos é, em grande medida, a primeira a chegar às universidades via PROUNI e Lei de Cotas. A analítica de Stolcke sobre como a exploração da família operária articulou reprodução social e acumulação de capital tem eco direto nas discussões sobre capital humano intergeracional relevantes para a pesquisa em andamento. |
+
+:::
+
+## Mapa Argumentativo {.unnumbered}
+
+| Capítulo | Título | Função argumentativa | Contribuição para a tese central |
+|:---------|:-------|:---------------------|:---------------------------------|
+| Prefácio | *Class Conflict and Gender Relations on São Paulo Plantations* | Apresentação do puzzle e da tese | Enuncia o paradoxo central (colonato mais eficiente substituído por salário), justifica a perspectiva de gênero e apresenta o design metodológico misto; estabelece o diálogo com o debate sobre proletarização rural |
+| Cap. 1 | *The Introduction of Free Labour on São Paulo Coffee Plantations, 1850–90* | Fundamento histórico e analítico | Demonstra que a escolha do sistema de trabalho pelos fazendeiros foi determinada não por ideologia "atrasada" mas pela ausência de um mercado de trabalho constituído; a parceria fracassa por insuficiência de oferta de trabalho; o colonato emerge como solução ao disciplinar o trabalho via incentivos mistos e controle da produção alimentar |
+| Cap. 2 | *The Symbiosis of Coffee and Food Crops* | Análise empírica da lógica do colonato | Comprova que o colonato não era monocultura; a simbiose café-alimentos era o mecanismo central de flexibilidade de custos; documenta empiricamente como os fazendeiros comprimiram salários monetários nas crises de 1897–1906 e 1929–35 sem perder mão-de-obra, e como os trabalhadores resistiram por dentro do sistema |
+| Cap. 3 | *The Transition: From Colonos to Wage Labour* | Análise do colapso do colonato | Refuta explicações tecnológicas; demonstra que o Estatuto do Trabalhador Rural de 1963 foi o gatilho da dispensa em massa dos colonos; o Estado emerge como árbitro contraditório do conflito agrário, simultaneamente mobilizando trabalhadores e depois reprimindo-os com o golpe de 1964 |
+| Cap. 4 | *New Forms of Labour Exploitation and New Conflicts* | Estudo de caso etnográfico | Documenta o sistema de empreitada (*turmeiro*) como dispositivo para ocultar a responsabilidade patronal e negar direitos; as autodesignações dos trabalhadores revelam consciência aguda da exploração; as mulheres aparecem como o segmento mais vulnerável da força de trabalho casual |
+| Cap. 5 | *Memory and Myth in the Making of Workers' Identity* | Análise da consciência histórica | Demonstra que a consciência de classe é historicamente constituída — a memória coletiva seleciona, omite e reelabora o passado de modo a fazer sentido do presente; o "mito Vargas" não é falsa consciência ingênua mas uma avaliação comparativa racional do período de proteção trabalhista |
+| Cap. 6 | *The Exploitation of Family Morality* | Extensão do argumento para o gênero | Demonstra que o capitalismo agrário não criou a estrutura familiar mas a instrumentalizou; a transição para o salário individual não emancipou as mulheres — criou novas tensões dentro de uma hierarquia de gênero que permaneceu intacta, gerando conflitos conjugais específicos |
+| Posfácio | *The Limits of Exploitation* | Síntese e agenda | As greves de Guariba e Bebedouro (1984) confirmam a tese central: o conflito entre exploração e resistência é permanente; a mecanização aparece como resposta patronal à organização espontânea, não como imperativo técnico autônomo |
+
+---
+
+## Prefácio (pp. xiii–xvii)
+
+### O puzzle da obra e os fundamentos teórico-metodológicos [§1–§6]
+
+O prefácio situa o livro no interior de um debate comparado sobre as "cafeiculturas" capitalistas: Stolcke menciona os estudos então recentes sobre Colômbia (Palacios), Porto Rico (Bergad), Venezuela (Roseberry) e Colômbia/Nova Granada (LeGrand), ressaltando que eles avançaram na iluminação das relações de classe nas economias cafeeiras mas deixaram sem resposta a questão de *por que* a capitalização da agricultura assumiu as formas históricas específicas que assumiu em cada contexto.
+
+O prefácio enuncia o paradoxo que orienta toda a obra: o **colonato** — sistema misto de tarefa e peça com produção de subsistência — pode ser demonstrado como uma forma de uso do trabalho mais eficiente do que o salário direto. Se é assim, por que foi substituído no início dos anos 1960 por uma forma de trabalho aparentemente menos eficiente (o assalariamento casual via empreiteiro)? A resposta que o livro persegue é política, não tecnológica: foi a confrontação entre o poder dos fazendeiros paulistas e os diferentes modos de resistência dos trabalhadores — às vezes individuais, às vezes coletivos e organizados — que forneceu a força transformadora das relações produtivas.
+
+::: {.callout-note icon=false}
+**Tese metodológica central do prefácio:** "This book shows how the confrontation between the power of São Paulo coffee growers and the different modes of worker resistance to exploitation — at times individual, at other times collective and organised — provided the force that transformed productive relations on São Paulo coffee plantations."
+:::
+
+Stolcke assinala que uma característica do colonato quase inteiramente negligenciada pela literatura é a **exploração do trabalho familiar**. Diferentemente da visão simplista que interpreta a família como estratégia preconcebida do capital para reduzir os custos de reprodução da força de trabalho, a autora argumenta que os fazendeiros de São Paulo *aproveitaram* uma estrutura familiar e um conjunto de valores morais pré-existentes — e que mais tarde os ameaçaram quando, ao perderem o controle sobre o trabalho, optaram pelo salário individual. Para compreender o colonato e sua substituição, é necessário analisar os vínculos entre os processos político-econômicos mais amplos e a estrutura familiar dos trabalhadores, seus ideais e sua consciência de gênero.
+
+O prefácio descreve o design metodológico: a pesquisa começou no início dos anos 1970 com um estudo de campo sobre uma turma de trabalhadores rurais temporários em uma grande fazenda de café, a maioria mulheres. A intenção inicial era compreender, pelas histórias de vida dos próprios trabalhadores, os processos que os haviam convertido em assalariados. A colaboração do historiador Michael Hall foi decisiva para dar profundidade histórica ao livro. Stolcke explicita o conceito epistemológico central: a memória histórica é construto social, não fonte de "fatos duros" — as omissões e ênfases nos relatos do passado são tão analiticamente relevantes quanto os eventos recordados, pois revelam a razão sociopolítica da memória específica de uma classe.
+
+> **Questão de pesquisa (formulação do prefácio):** "If, as I suggest, the colonato system can be shown to be a particularly efficient form of labour use, then the replacement of colonos by wage workers in the early 1960s seemed to be an economic paradox."
+
+> **Nota 1:** Stolcke esclarece que os trabalhadores *preferiam* o colonato ao salário direto porque o primeiro lhes conferia relativa autonomia na provisão da subsistência; o salário puro os tornava inteiramente dependentes das oscilações do mercado. Essa preferência subjetiva documentada pela etnografia é teoricamente importante: ela afasta leituras que atribuem a persistência do colonato apenas à vontade dos fazendeiros. [nota incluída por relevância argumentativa]
+
+---
+
+## Capítulo 1: A Introdução do Trabalho Livre nas Fazendas de Café de São Paulo, 1850–90 (pp. 1–22)
+
+### Escravidão, fronteira do trabalho livre e o problema da disciplina [Cap.1 §1–§4]
+
+O capítulo abre com a premissa estrutural do problema: o Brasil era um país de terra abundante e população relativamente escassa. Até os anos 1850, os escravos constituíam o grosso da força de trabalho da grande lavoura de exportação. À medida que a escravidão entrava sob pressão crescente, alguns fazendeiros paulistas começaram a experimentar com o trabalho livre. A abolição do tráfico negreiro em 1850 coincidiu com a expansão do café no Oeste Paulista, impulsionada tanto pelo declínio da outra grande região cafeeira — o Vale do Paraíba — quanto pela demanda internacional crescente.
+
+A questão decisiva que os fazendeiros enfrentavam não era apenas encontrar uma nova fonte de trabalho para substituir os escravos, mas também como **organizar e controlar o trabalho livre eficientemente**. Isso era um processo tanto econômico quanto político, resultante da busca de lucro dos fazendeiros e do poder de barganha disponível aos trabalhadores para resistir às imposições patronais. A ausência de um mercado de trabalho estabelecido em São Paulo influenciou decisivamente as escolhas e a evolução dos sistemas de trabalho.
+
+::: {.callout-note icon=false}
+**Argumento estrutural do capítulo:** A sequência histórica parceria → arrendamento de serviços → colonato não foi ditada por uma racionalidade capitalista unilinear, mas pela confrontação entre as tentativas de extração de trabalho pelos fazendeiros e as respostas — incluindo restrição deliberada do esforço, rebelião e mobilidade — dos trabalhadores.
+:::
+
+### A parceria de Vergueiro e o fracasso do primeiro experimento [Cap.1 §5–§10]
+
+Em 1847, o Senador Vergueiro, proprietário de grande fazenda perto de Limeira, trouxe trabalhadores alemães e suíços sob um contrato de **meação** (*parceria*): os colonos receberiam metade do rendimento líquido do café e cultivariam suas próprias roças de alimentos. Os custos de transporte seriam antecipados pelo fazendeiro como dívida a ser quitada pelo trabalhador. No início os fazendeiros esperavam que o sistema de incentivo asseguraria disciplina e maior produtividade do que o trabalho escravo.
+
+O sistema fracassou repetidamente, culminando na rebelião de Thomas Davatz na Fazenda Ibicaba em 1856–57, quando os colonos protestaram contra fraudes na contabilidade e condições de semi-escravidão. O problema fundamental não era a "ideologia atrasada" dos fazendeiros — como argumentavam interpretações convencionais — mas a ausência de um excedente de população livre que mantivesse os trabalhadores intimidados e sujeitos à exploração. Como a mão-de-obra era escassa, os colonos podiam desviar parte de sua capacidade produtiva para as roças alimentares, além do necessário para a subsistência, privando os fazendeiros de parte de seu trabalho.
+
+> **Nota 2:** Stolcke rejeita explicitamente as interpretações que atribuem o fracasso da parceria ao "atraso" ou "mentalidade escravista" dos fazendeiros. Seu argumento é que fazendeiros racionalmente calculadores testavam um sistema desconhecido em condições de trabalho escasso; quando o sistema revelou-se incapaz de assegurar produtividade e disciplina sem uma reserva de mão-de-obra abundante, os próprios fazendeiros concluíram que "ao custo de qualquer sacrifício o trabalho de um escravo é preferível ao de um homem livre". [nota incluída por relevância argumentativa]
+
+### O arrendamento de serviços e a emergência do colonato [Cap.1 §11–§16]
+
+A solução de compromisso tentada na década de 1860 foi o **arrendamento de serviços** (*locação de serviços*): o trabalhador vendia seu trabalho por um período fixo em troca de salário. A restrição da produção alimentar foi introduzida como mecanismo de disciplina — ao limitar o que os colonos podiam plantar por conta própria, os fazendeiros pretendiam forçá-los a dedicar mais tempo ao café. O resultado foi o inverso do esperado: sem a produção alimentar como suporte de subsistência, os trabalhadores tornavam-se mais, não menos, vulneráveis às pressões e mais inclinados ao conflito aberto quando os salários não eram pagos.
+
+O sistema que finalmente emergiu como dominante na virada para o século XX foi o **colonato**: uma combinação de salário anual por tarefa (limpas) com pagamento por peça na colheita, acrescido de um lote para produção alimentar própria e habitação. Este arranjo, que prevaleceu até os anos 1960, representava a solução definitiva dos fazendeiros para o problema da produtividade e disciplina. A Tabela 1.1 do original documenta que na Fazenda Martyrios em 1869, o número de cafeeiros por família variava de acordo com a razão consumidor/trabalhador — evidência de que desde o início o colonato era concebido como um sistema de trabalho *familiar*, não individual.
+
+### O mercado de trabalho abundante e a disciplina intensificada [Cap.1 §17–§21]
+
+A partir de meados dos anos 1880, o governo estadual de São Paulo passou a subsidiar ativamente a imigração europeia em massa, criando as condições para um mercado de trabalho efetivamente capitalista. Com oferta abundante de trabalho, os fazendeiros puderam introduzir regulação mais estrita das tarefas e multas por não-cumprimento. Até o final dos anos 1880, um homem adulto cuidava de 2.000 a 3.000 cafeeiros; as mulheres, tipicamente, da metade desse número. Os obstáculos à resistência coletiva eram imensos: qualquer associação ou organização de trabalhadores era proibida.
+
+No entanto, apesar do controle severo, trabalhadores individuais eram frequentemente turbulentos e violentos, e greves ocorriam com alguma frequência. A transição da parceria para o colonato foi um processo de exploração sistematicamente intensificada. Uma vez criado um mercado de trabalho capitalista, com direitos de plantio restritos ao mínimo e disciplina crescentemente severa, as condições para a luta individual no plano do trabalho desapareceram praticamente. Ao aumentar a disciplina, os fazendeiros criaram paradoxalmente as condições para a ação coletiva — potencialmente muito mais prejudicial — por parte dos imigrantes.
+
+### Conclusão do capítulo 1: fundamentos para uma releitura do colonato [Cap.1 §22–§25]
+
+A conclusão do capítulo oferece uma interpretação sistemática que rejeita tanto a "tese feudal" quanto a "tese capitalista" no debate sobre a agricultura brasileira. A tese feudal enfatizava as características distintivas dos sistemas de trabalho como prova do caráter não-capitalista da agricultura brasileira. A tese capitalista tomava como referência o sistema econômico mais amplo e argumentava pela identidade subjacente entre esses sistemas e o trabalho assalariado — mas sem explicar suas transformações. Ambas aplicavam macro-modelos aos sistemas de trabalho examinados sem formular a questão crucial de *por que* os fazendeiros optaram por cada arranjo em primeiro lugar.
+
+::: {.callout-tip}
+A contribuição analítica deste capítulo para o argumento do livro é a demonstração de que a escolha e a transformação dos sistemas de trabalho foram determinadas pela interação entre as estratégias de maximização de lucro dos fazendeiros e a resistência dos trabalhadores às condições impostas — não por nenhuma lógica estrutural unilinear. Este enquadramento será aplicado recursivamente a cada crise e transformação subsequente dos capítulos 2 e 3.
+:::
+
+---
+
+## Capítulo 2: A Simbiose do Café com as Culturas Alimentares (pp. 23–67)
+
+### A lógica econômica do colonato como sistema de flexibilidade de custos [Cap.2 §1–§6]
+
+No início do século XX, aproximadamente 80% da força de trabalho agrícola do estado de São Paulo estava empregada na cafeicultura sob o sistema de colonato. A produção de café do estado quintuplicou entre 1890 e 1907, tornando São Paulo o principal produtor mundial. A Tabela 2.1 documenta que a produção paulista passou de 28% da produção brasileira em 1886 para 59% em 1910/11 e 47% do total mundial em 1919/20 — confirmando a posição hegemônica do estado no mercado internacional.
+
+O argumento central deste capítulo é que o colonato não era monocultura em sentido estrito: ao contrário, à medida que o café se expandia, as culturas alimentares se expandiam junto. A combinação de café com culturas alimentares cultivadas pelos colonos conferia aos fazendeiros uma **flexibilidade de custos** decisiva para resistir às crises de superprodução. Como o café era combinado com a produção alimentar, os fazendeiros podiam comprimir os salários monetários quando os preços do café caíam — sem comprometer a oferta de trabalho, pois os colonos mantinham sua subsistência parcialmente autônoma.
+
+::: {.callout-note icon=false}
+**Mecanismo central do capítulo:** A simbiose café-alimentos não era apenas uma característica técnica da lavoura; era o dispositivo estrutural que tornava o colonato um sistema *resiliente às crises* do ponto de vista patronal. Ao mesmo tempo, era o espaço de relativa autonomia que os trabalhadores defendiam ativamente contra as restrições impostas pelos fazendeiros.
+:::
+
+### A primeira crise do café e a intervenção do Estado [Cap.2 §7–§14]
+
+A crise de superprodução de 1895–1906 foi a primeira grande prova do sistema. O preço do café desabou de cerca de 4 cents por libra em 1895 para 1,5 cent em 1906. Os fazendeiros responderam, sistematicamente, comprimindo os salários monetários dos colonos. A resposta dos trabalhadores foi desviar trabalho das limpas para as roças alimentares — uma forma de resistência individual e difusa que enfraquecia a produção cafeeira sem desencadear greve aberta.
+
+O Estado de São Paulo interveio com o **Convênio de Taubaté** em 1906: o governo federal compraria estoques excedentes de café para sustentar preços. Esta foi a primeira de uma série de valorizações estatais que reconfiguraram a economia cafeeira e redefiniriam os incentivos dos fazendeiros. Mas o Convênio tinha um efeito secundário crucial: ao garantir preços mínimos, reduzia a pressão sobre os fazendeiros para eficiência interna — e assim reduzia o incentivo para renegociar as condições do colonato em favor dos trabalhadores.
+
+### A resistência dos colonos e o debate sobre mobilidade social [Cap.2 §15–§23]
+
+A **resistência dos colonos** ao colonato assumiu formas variadas. Além do desvio de trabalho para as roças, havia a mobilidade laboral: na virada do século o movimento entre fazendas era considerável, assim como o abandono completo da agricultura pela cidade de São Paulo ou pela Argentina. Greves coletivas ocorreram com frequência, especialmente nas décadas de 1900–1910, e eram deflagradas tipicamente por não-pagamento de salários, proibição das roças alimentares ou redução unilateral das tabelas de remuneração.
+
+O chamado **"debate sobre mobilidade social"** é criticamente avaliado por Stolcke. A tese de Thomas Holloway — de que os imigrantes europeus tornaram-se pequenos proprietários e representaram a "democratização da terra" — é acolhida apenas parcialmente. Stolcke reconhece que houve mobilidade ascendente, especialmente nas primeiras décadas do século XX, quando a fronteira cafeeira ainda se expandia e parcelas de terra podiam ser adquiridas após alguns anos de trabalho. Contudo, essa mobilidade foi seletiva, temporária e dependente das condições específicas da fronteira agrícola: à medida que a terra se concentrou e as crises se aprofundaram, o caminho do colono ao sitiante tornou-se progressivamente bloqueado.
+
+> **Nota 3:** Stolcke documenta que a Tabela 2.3 (coeficiente de assentamento permanente dos imigrantes, 1908–33) mostra declínio acentuado do percentual de imigrantes que permaneciam em agricultura após a chegada — evidência de que a mobilidade para fora da lavoura, mais do que a ascensão intrasetorial, foi a trajetória dominante. Isso contraria a narrativa de Holloway sobre democratização da terra como experiência generalizada. [nota incluída por relevância argumentativa]
+
+### A crise de 1929 e os desdobramentos dos anos 1930 [Cap.2 §24–§33]
+
+O colapso de 1929 foi qualitativamente diferente das crises anteriores. O preço do café desabou de 22,5 centavos por libra em 1929 para 8 centavos em 1931. A produção brasileira tinha chegado a 29 milhões de sacas em 1929 — mais do que o dobro do consumo mundial. O governo Vargas instituiu a queima de estoques excedentes: entre 1931 e 1945, mais de 70 milhões de sacas seriam destruídas.
+
+Para os colonos, a crise significou compressão salarial severa: a Tabela 2.4 documenta que os salários nominais nas fazendas cafeeiras paulistas caíram de índice 100 em 1929 para cerca de 65 em 1931. Como os preços dos alimentos não caíram proporcionalmente, isso representou deterioração real das condições de vida. A resposta patronal foi também restringir ainda mais as roças alimentares para forçar os colonos a dedicar mais horas ao café — o que produziu o efeito contrário ao esperado, aumentando o conflito.
+
+### Diversificação, algodão e o início do fim do colonato clássico [Cap.2 §34–§41]
+
+Os anos 1930 viram a fragmentação da propriedade fundiária e a diversificação das culturas — em parte como estratégia de sobrevivência dos fazendeiros, em parte como resultado das políticas de Vargas que buscavam reduzir a dependência do café. O **algodão** emergiu como alternativa: a Tabela 2.6 documenta a expansão de culturas selecionadas em São Paulo entre 1901 e 1938, com o algodão crescendo de forma expressiva a partir dos anos 1930. A Tabela 2.7 mostra que no período 1930/31–1937/38 houve reorganização significativa da produção regional, com maior fragmentação nas zonas tradicionais e expansão para o Oeste.
+
+A conclusão do capítulo articula o argumento fundamental: o colonato resistiu a todas as crises do período 1890–1940 precisamente porque sua estrutura de flexibilidade de custos permitia aos fazendeiros absorver choques de preço sem colapso imediato da oferta de trabalho. Mas essa mesma estrutura — ao incorporar relativa autonomia dos trabalhadores na produção alimentar — continha em si as sementes do conflito que eventualmente o destruiria. Os trabalhadores resistiram sistematicamente às tentativas de restringir as roças, e essa resistência impôs limites reais à capacidade patronal de intensificar a extração de mais-valia.
+
+::: {.callout-tip}
+O capítulo 2 é o mais rico em dados quantitativos do livro: sete tabelas documentam produção, preços, salários, distribuição fundiária e composição da força de trabalho entre 1886 e 1938. Para fins de análise comparativa com a expansão posterior da educação superior, importa registrar que é nesse período que se consolida a estrutura de classes rural-urbana de São Paulo que irá gerar, nas décadas seguintes, a demanda diferenciada por escolaridade.
+:::
+
+## Capítulo 3: A Transição — De Colonos ao Trabalho Assalariado (pp. 68–120)
+
+### A ideologia do desenvolvimento e a postergação da questão agrária [Cap.3 §1–§7]
+
+O capítulo 3 abre com a virada político-econômica que, a partir de meados dos anos 1940, reconfigurou o lugar da agricultura na estratégia de desenvolvimento do Brasil. O projeto desenvolvimentista emergente — codificado no Plano de Metas de Kubitschek (1956–61) — deu prioridade à industrialização por substituição de importações, relegando a agricultura ao segundo plano. A questão fundiária foi sistematicamente adiada. O Plano de Metas comprometia-se retoricamente com a "extinção dos latifúndios" e a extensão das leis trabalhistas ao campo, mas nenhuma medida concreta foi tomada. A aliança eleitoral entre o PSD (representante dos grandes proprietários rurais) e o PTB manteve intocadas as estruturas agrárias em troca de apoio político.
+
+O argumento de Stolcke nesta seção é que a postergação da reforma agrária não foi acidente político, mas resultado estrutural do pacto de acumulação que sustentava a industrialização. Interesses industriais e agrários convergiam na oposição a qualquer reforma que perturbasse a disponibilidade de mão-de-obra barata, os fluxos cambiais derivados das exportações cafeeiras e a estrutura de propriedade da terra. A constituição do **Bloco Ruralista** na Câmara Federal em 1955 — composto majoritariamente por deputados do PSD — formalizou esse poder de veto, bloqueando sistematicamente qualquer legislação que desafiasse os privilégios fundiários.
+
+### Café, industrialização e a "confiscação cambial" [Cap.3 §8–§14]
+
+A relação entre café e industrialização nos anos 1950 era simultaneamente simbiótica e contraditória. O café continuava a ser a principal fonte de divisas do país — divisas que financiavam as importações de bens de capital necessárias à industrialização. Em 1954, o preço do tipo Santos 4 chegou a quase um dólar por libra, o nível mais alto desde os anos 1920. Mas a política cambial do período — chamada pejorativamente de "confiscação cambial" pelos cafeicultores — impunha taxas de câmbio desfavoráveis às exportações de café para subsidiar as importações industriais.
+
+A Figura 3.1 e as Tabelas 3.2 e 3.3 documentam a deterioração do poder de compra do setor cafeeiro entre 1953 e 1961, comparando o valor das exportações com os preços recebidos pelos fazendeiros e os salários rurais. Stolcke demonstra que, apesar da "confiscação", o setor cafeeiro manteve influência política suficiente para proteger seus interesses: os créditos do Banco do Brasil para o café continuaram a absorver 50% dos créditos agrícolas concedidos a São Paulo na segunda metade dos anos 1950. A capacidade de proteção revelava a assimetria de recursos políticos entre grandes cafeicultores e trabalhadores rurais.
+
+::: {.callout-note icon=false}
+**Argumento estrutural do capítulo:** A mecanização insuficiente da lavoura cafeeira nos anos 1950 e 1960 não refletia "atraso tecnológico" dos fazendeiros, mas uma escolha racional: com trabalho abundante e barato, investir em maquinário não compensava economicamente. A transição para o trabalho assalariado casual foi, portanto, politicamente induzida — não tecnologicamente determinada.
+:::
+
+### Conflito de classes e relações produtivas em mudança [Cap.3 §15–§23]
+
+A partir do início dos anos 1960, a conjuntura política acelerou a crise do colonato. A mobilização de trabalhadores rurais ganhava força em todo o país: as Ligas Camponesas no Nordeste (analisadas por Alcântara de Camargo), os sindicatos rurais apoiados pelo PCB e as federações de trabalhadores vinculadas à Igreja Católica competiam pela representação de uma classe que, pela primeira vez, tornava-se sujeito político reconhecível. No estado de São Paulo, conflitos e associações de trabalhadores rurais multiplicaram-se entre 1960 e 1964, ainda que o movimento fosse numericamente menor do que no Nordeste.
+
+A Tabela 3.4 documenta que a população residente nas fazendas cafeeiras paulistas ainda chegava a expressivos contingentes em 1958, mas já havia declínio visível em relação às décadas anteriores — evidência de que a dispensa havia começado antes mesmo do Estatuto. O Estatuto do Trabalhador Rural, aprovado em março de 1963 sob o governo Goulart, foi o catalisador decisivo. Ele estendia ao trabalhador rural os direitos já garantidos ao urbano pela CLT de 1943: salário mínimo, férias remuneradas, indenização por dispensa sem justa causa, estabilidade após dez anos de serviço. A implicação para os fazendeiros era imediata: colonos com mais de dez anos de casa teriam estabilidade virtual no emprego — o que tornava a relação de trabalho radicalmente mais custosa e menos flexível do ponto de vista patronal.
+
+### O Estatuto do Trabalhador Rural como gatilho e o fim do colonato [Cap.3 §24–§33]
+
+A resposta dos fazendeiros paulistas ao Estatuto foi imediata e massiva: a dispensa em massa dos colonos residentes. As Tabelas 3.5 e 3.6 documentam a queda abrupta da população residente nas fazendas e a mudança na composição da força de trabalho entre 1958 e 1970 — com o trabalho temporário substituindo o permanente em ritmo acelerado. A lógica era direta: ao converter colonos residentes em trabalhadores temporários contratados por empreiteiros, os fazendeiros eliminavam tanto a obrigação de registrá-los quanto o risco de acumulação de direitos trabalhistas.
+
+Stolcke demonstra que o golpe militar de 1964 não interrompeu esse processo — ao contrário, o consolidou. O regime militar reprimiu as organizações de trabalhadores rurais que haviam pressionado pela aprovação do Estatuto, mas não revogou a legislação. Os fazendeiros haviam obtido o que precisavam pela via dos fatos: a conversão dos colonos em *boias-frias* estava consumada antes que qualquer governo pudesse revertê-la. A Tabela 3.7 mostra que entre 1958 e 1970 a parcela do trabalho temporário na força de trabalho das fazendas cafeeiras paulistas mais do que dobrou.
+
+::: {.callout-tip}
+Este capítulo contém o argumento mais robusto e empiricamente fundamentado do livro. A cadeia causal Estatuto do Trabalhador Rural → dispensa preventiva → boia-fria é documentada com fontes diversas e resistiria a testes contrafactuais razoáveis. É o núcleo de originalidade da obra em relação ao debate brasileiro sobre proletarização rural dos anos 1970–80.
+:::
+
+> **Nota 4:** Stolcke cita o trabalho de Caldeira Brant ("Do colono ao boia-fria", *Estudos CEBRAP*, 1977) como provavelmente o único autor anterior que tentou levar em conta a política da proletarização e, em particular, as reações dos proprietários ao Estatuto do Trabalhador Rural. A maioria dos estudos brasileiros da época explicava a transição por fatores tecnológicos ou de mercado, sem o mecanismo político central que Stolcke identifica. [nota incluída por relevância argumentativa]
+
+---
+
+## Capítulo 4: Novas Formas de Exploração do Trabalho e Novos Conflitos (pp. 121–158)
+
+### O empreiteiro como instrumento de capital [Cap.4 §1–§8]
+
+A transição do colonato para o trabalho assalariado casual produziu uma nova figura mediadora: o **empreiteiro** (*turmeiro* ou *gato*). Esse intermediário contratava grupos de trabalhadores nas cidades e os levava de caminhão às fazendas, assumindo formalmente a responsabilidade pelo pagamento dos salários e pelo cumprimento da legislação. A função real do empreiteiro, no entanto, era outra: ocultar a responsabilidade jurídica do fazendeiro perante a Justiça do Trabalho, impedindo que os trabalhadores acumulassem *tempo de serviço* reconhecível com um único empregador.
+
+Stolcke documenta com detalhe a estrutura triangular de exploração que esse sistema criava: fazendeiro → empreiteiro → trabalhador. O fazendeiro pagava ao empreiteiro por produção (alqueires colhidos, hectares limpos); o empreiteiro pagava aos trabalhadores uma parte desse valor, retendo sua própria margem; os trabalhadores arcavam com os riscos de produtividade variável e não tinham registro formal. O intermediário servia para tornar difuso o ponto de imputação da responsabilidade patronal. Uma trabalhadora entrevistada por Stolcke sintetizou a estrutura com precisão: "o patrão, o administrador, o feitor, eles só olham. [...] O turmeiro disse que o trabalho dele é só com os olhos. O administrador manda pra ele e ele manda pra nós."
+
+### O povo dos caminhões de turma: identidade e direitos negados [Cap.4 §9–§16]
+
+As **autodesignações** dos trabalhadores revelam uma consciência política aguda da sua situação. O livro documenta a rejeição generalizada do termo *volante* — "aquele que vai onde pode, sem direitos" — pelos próprios trabalhadores, que preferiam se identificar como "povo dos caminhões de turma" (*gente de caminhão de turma*), *camaradas* ou *lavradores*. A distinção não era semântica: ao recusar o rótulo de *volante*, os trabalhadores afirmavam que tinham direitos, ainda que sistematicamente negados.
+
+Outros termos pejorativos — *boia-fria*, *pau-de-arara*, *birola* — são analisados como descrições que, embora factualmente precisas (a marmita fria pela manhã, o caminhão de estrado, a roupa surrada), eram recebidas como insultos de classe quando proferidas por superiores. Stolcke registra o caso de trabalhadores que foram ao tribunal trabalhista e venceram — às vezes três ou mais vezes contra o mesmo empregador — apesar das pressões para não fazê-lo. O caso mais emblemático envolvia quatro colonos residentes que haviam trabalhado por mais de vinte anos na fazenda do ex-ministro da Fazenda Sebastião Pais de Almeida: dispensados para evitar a estabilidade, processaram o empregador e ganharam em primeira instância. O episódio circulava amplamente entre os trabalhadores da região como prova de que os direitos existiam e podiam ser reivindicados.
+
+> **Nota 5:** A tensão entre o empreiteiro e o fazendeiro sobre a imputação de responsabilidade jurídica é documentada num caso paradoxal: um empreiteiro ameaçou processar o fazendeiro ao lado de sua turma quando ambos foram dispensados. Ao insistir na responsabilidade última do fazendeiro, o empreiteiro inadvertidamente solidarizou os trabalhadores contra o patrão, confirmando que o "intermediário" era, na percepção dos trabalhadores, apenas mais um agente patronal. [nota incluída por relevância argumentativa]
+
+### As mulheres trabalhadoras: dupla vulnerabilidade e resistência cotidiana [Cap.4 §17–§26]
+
+A seção sobre trabalhadoras é, junto com o capítulo 6, a contribuição mais original do livro ao debate sobre trabalho agrário. A Tabela 4.1 documenta que em 1975 e 1980 o trabalho temporário assalariado na agricultura paulista tinha composição por sexo e faixa etária marcadamente diferente do trabalho permanente: mulheres e jovens eram desproporcionalmente representados no segmento temporário, recebendo salários inferiores e com menor acesso aos instrumentos jurídicos de reivindicação.
+
+Stolcke demonstra que as mulheres enfrentavam duas formas sobrepostas de exploração e dominação. Enquanto trabalhadoras assalariadas, sofriam os mesmos problemas que os homens — salários irregulares, ausência de registro, exposição à arbitrariedade do empreiteiro. Enquanto mulheres, sofriam vulnerabilidades específicas: assédio sexual por parte de empreiteiros (documentado com casos concretos), exclusão das posições de liderança nas disputas trabalhistas formais, e pressão para que não litigassem porque "criar caso dá má fama". Uma trabalhadora resumiu a condição com precisão: "os dias dos escravos trabalhando o dia inteiro já acabaram." A resistência cotidiana das mulheres — ainda que difusa e raramente organizada — era real e documentável.
+
+---
+
+## Capítulo 5: Memória e Mito na Construção da Identidade dos Trabalhadores (pp. 159–208)
+
+### Método e premissa epistemológica: a história oral como fonte de consciência [Cap.5 §1–§5]
+
+O capítulo 5 é metodologicamente o mais arriscado e teoricamente o mais ambicioso do livro. Stolcke parte de uma premissa epistemológica clara: a história oral tem utilidade limitada como fonte de "fatos duros" sobre a história não-documentada de grupos dominados, mas pode avançar nossa compreensão de suas experiências de outros modos. As imagens que um grupo forma sobre o passado são parte constitutiva do próprio passado — o presente condiciona a memória assim como a memória condiciona o presente.
+
+A pesquisa de campo trouxe uma revelação inicial surpreendente: em 1974, às vésperas de uma eleição nacional, os trabalhadores mostravam-se completamente alheios ao golpe militar de 1964 — o evento que havia abolido as liberdades democráticas e cassado os direitos trabalhistas duramente conquistados. Perguntados sobre a "revolução", os trabalhadores mais velhos descreviam invariavelmente a revolução constitucionalista de 1932, quando São Paulo se levantou contra o primeiro governo Vargas. Uma mulher recordava ainda a passagem da Coluna Prestes em 1924, como evento de um imaginário mítico repleto de presságios e personagens sobrenaturais. O presente reformula o passado e o passado reformula o presente: a memória de classe é seletiva porque é funcional.
+
+### A escravidão como marco originário e a identificação de classe [Cap.5 §6–§12]
+
+O fim da escravidão em 1888 era o **primeiro marco** na memória histórica dos trabalhadores, independentemente de sua origem étnica. A turma estudada incluía trabalhadores de extração portuguesa, italiana, espanhola, africana e suas misturas — mas era a posição de classe, não a herança étnica, que levava esses trabalhadores a se identificarem com os escravos e com seu destino. "Nós somos escravos, só que não nos batem mais. Antes nos batiam, para o resto é tudo igual." A dominação mudou de forma, mas o mundo continuava dividido entre "nós, os pobres" (*nós, os pobres*) e "eles, os ricos" (*eles, os ricos*), oposição fundada, como antes, nas relações de propriedade.
+
+Parte dos trabalhadores atribuía a existência de ricos e pobres ao desígnio divino — uma interpretação que Stolcke analisa não como resignação passiva mas como enquadramento moral que simultaneamente explica a desigualdade e preserva a dignidade dos dominados: se a pobreza é destino, não é culpa. Mas esse enquadramento coexistia com análises muito mais seculares e críticas, especialmente entre os trabalhadores mais jovens. A contradição não era incoerência — era a tensão interna de uma consciência de classe em formação, que incorporava múltiplas linguagens morais disponíveis.
+
+### Da época da fartura ao tempo do dinheiro: o colonato como paraíso perdido [Cap.5 §13–§19]
+
+A memória do colonato pelos próprios ex-colonos e seus filhos era profundamente ambivalente. Por um lado, reconheciam as condições de exploração e a subordinação — contratos violados, acesso restrito às roças, salários comprimidos nas crises. Por outro, comparando com o presente do *boia-fria*, o colonato parecia uma "época de fartura": havia casa, roça, continuidade, alguma segurança. Esse contraste produz o que Stolcke chama de "mito da época de fartura" — não uma falsidade, mas uma reelaboração que usa o passado menos mau para criticar o presente ainda pior.
+
+::: {.callout-note icon=false}
+**Paradoxo analítico central do capítulo:** A mesma relação de trabalho (o colonato) que os trabalhadores resistiram ativamente quando vigente tornou-se, na memória retrospectiva, um padrão de comparação positivo frente à precarização que a substituiu. Isso não revela inconsistência, mas a lógica específica da memória de classe: ela compara não com um ideal abstrato, mas com as alternativas reais disponíveis em cada momento.
+:::
+
+As Figuras 5.1 e 5.2, e as Tabelas 5.1 a 5.4, documentam a deterioração dos salários rurais reais em São Paulo ao longo dos anos 1960 e 1970: os preços recebidos pelos cafeicultores, os salários diários do trabalho casual e o salário mínimo legal mostram trajetórias divergentes, com os trabalhadores rurais temporários sistematicamente abaixo do mínimo e com poder de compra em declínio. A memória da "fartura" tinha portanto base material: as condições presentes eram objetivamente piores do que as do colonato.
+
+### O mito Vargas e a consciência de classe sem política [Cap.5 §20–§26]
+
+O **"mito Vargas"** é o achado mais controverso do capítulo. Os trabalhadores — que haviam esquecido o golpe de 1964 — lembravam vividamente de Vargas como o presidente que "deu direitos aos trabalhadores". A legislação trabalhista, a carteira assinada, o salário mínimo: esses eram os legados varguistas que os trabalhadores identificavam como marcos civilizatórios. O golpe de 1964, que cassou esses direitos, era lembrado, quando era, como "a revolução que tirou tudo que Getúlio tinha dado".
+
+Stolcke analisa esse mito não como falsa consciência ingênua, mas como avaliação comparativa racionalmente fundada: do ponto de vista dos trabalhadores rurais, o período Vargas havia produzido ganhos reais (urbanização com direitos, salário mínimo, INPS) que o regime militar havia erodido. O esquecimento do golpe de 1964 era seletivo e funcional — preservar a memória de Vargas como protetor era mais útil politicamente do que processar o trauma da repressão. Isso levava à "consciência de classe sem política": uma visão clara da exploração e das responsabilidades dos patrões, mas sem tradução em organização formal ou ação coletiva sustentada.
+
+> **Nota 6:** A interpretação do mito Vargas como avaliação racional e não como "falsa consciência" coloca Stolcke em diálogo tácito com a tradição thompsoniana: a consciência de classe não é uma forma superior de conhecimento aguardando ser despertada, mas a elaboração culturalmente específica de uma experiência historicamente determinada. A ausência de referência explícita a Thompson neste ponto é uma lacuna teórica do texto. [nota incluída por relevância argumentativa]
+
+---
+
+## Capítulo 6: A Exploração da Moralidade Familiar (pp. 209–241)
+
+### O trabalho familiar como condição estrutural do colonato [Cap.6 §1–§8]
+
+O capítulo 6 é o núcleo da contribuição feminista do livro. Stolcke parte de uma questão teórica fundamental: o que há no avanço do capitalismo que, embora desafiando papéis de gênero e formas familiares, torna a família e a hierarquia de gênero extraordinariamente resilientes? Sua resposta rejeita tanto o determinismo econômico (a família como simples instrumento de redução dos custos de reprodução da força de trabalho) quanto o culturalismo (a família como sobrevivência pré-capitalista independente da economia).
+
+Desde as primeiras experiências com trabalho livre em São Paulo, os fazendeiros preferiam contratar famílias inteiras — não indivíduos. Essa preferência é geralmente explicada pela literatura como estratégia para reter trabalhadores (famílias são menos móveis do que indivíduos). Stolcke demonstra que essa explicação é apenas parcialmente verdadeira e serve para ocultar a lógica real: a família constituía uma **reserva de trabalho** que podia ser adquirida bem abaixo do preço de mercado. Uma observação de 1877 citada no texto é especialmente reveladora — o colono alemão com família numerosa era valorizado porque todos — mulher, filhos, o próprio colono — trabalhavam incessantemente, inclusive nas horas de descanso, produzindo para o fazendeiro e para si mesmo simultaneamente.
+
+### Da cooperação familiar ao salário individual: contradições de gênero [Cap.6 §9–§16]
+
+O colonato reforçava uma organização familiar em que a cooperação laboral era pressuposta e o chefe do domicílio coordenava e mobilizava a força de trabalho familiar. A divisão sexual do trabalho dava preeminência ao marido/pai sobre todos os demais membros. Os contratos especificavam as funções econômicas do domicílio como unidade — cultivo conjunto do café e produção alimentar estritamente necessária ao consumo — mas não reconheciam juridicamente o trabalho das mulheres e filhos, que era subsumido ao contrato do chefe de família.
+
+A transição para o trabalho assalariado individual não emancipou as mulheres — criou novas tensões e novos conflitos. A individualização formal do trabalho (cada membro da família contratado separadamente) confrontou-se com a não-redefinição dos papéis de gênero: os homens continuaram a reclamar autoridade sobre o trabalho e a sexualidade das mulheres, mas já não podiam exercê-la pelo controle espacial contínuo que o colonato propiciava. As mulheres que saíam para trabalhar nas turmas estavam "fora do alcance do olho vigilante do marido", produzindo ciúme, suspeita e conflito doméstico.
+
+::: {.callout-important}
+**Argumento normativo:** Stolcke é explícita sobre as implicações políticas: a subordinação das mulheres não pode ser adequadamente compreendida medindo apenas seu acesso a privilégios masculinos (como o trabalho remunerado). Subordinação é uma relação social e política historicamente determinada pelas circunstâncias dos homens *em relação às mulheres* na sociedade. A emancipação pelo trabalho assalariado individual, sem redefinição da hierarquia de gênero, é ilusória.
+:::
+
+### O contexto cultural da mudança econômica e a família como arena de conflito [Cap.6 §17–§26]
+
+A mudança econômica não ocorre num vácuo ideológico. Os ex-colonos não experimentaram a transição como indivíduos autônomos no mercado de trabalho, mas como atores sociais enredados em relações de obrigações e direitos recíprocos historicamente específicos. A moralidade familiar que o colonato havia forjado — lealdade conjugal, autoridade patriarcal, solidariedade doméstica — persistia como referência normativa mesmo quando as condições materiais que a haviam produzido haviam sido destruídas.
+
+As contradições são múltiplas. As mulheres precisavam trabalhar para garantir a sobrevivência da família, mas o trabalho assalariado extradoméstico era percebido como ameaça à integridade familiar e à autoridade masculina. Os homens receavam que as mulheres, "sem proteção", sucumbissem aos avanços de outros homens — em particular, dos empreiteiros. O alcoolismo masculino, a deserção do lar e as relações extraconjugais desviavam a renda familiar, alimentando conflitos que as mulheres descreviam com cinismo calculado: "os homens não casam mais por beleza, casam para ter quem trabalhe pra eles." A família permanecia simultaneamente fonte de apoio mútuo e arena de subordinação e violência — uma contradição que o capitalismo agravava mas não havia criado.
+
+> **Nota 7:** Barrett e McIntosh (*The Anti-Social Family*, 1982) são citados para a proposição de que "a família" é não apenas uma unidade econômica mas uma configuração ideológica com ressonância que vai muito além dessas definições estreitas. Stolcke usa essa moldura para argumentar que a hegemonia cultural da família é uma variável independente com consequências materiais reais — não mero epifenômeno das relações de produção. [nota incluída por relevância argumentativa]
+
+---
+
+## Posfácio: Os Limites da Exploração (pp. 242–250)
+
+### As greves de Guariba e Bebedouro (1984): a tese confirmada [Posfácio §1–§10]
+
+O posfácio — ausente na edição portuguesa de 1986 e exclusivo da edição inglesa — atualiza o argumento do livro com os acontecimentos de 1984. A lavoura cafeeira havia cedido espaço, nas décadas de 1970–80, a outras culturas de exportação: cana-de-açúcar (impulsionada pelo Proálcool de 1975), soja e laranja. A região de Ribeirão Preto, antes principal produtora de café do estado, converteu-se no maior produtor nacional de etanol. Cerca de 150 mil trabalhadores rurais temporários concentravam-se nas pequenas cidades do entorno dos canaviais e laranjais.
+
+Em maio de 1984, os 10 mil cortadores de cana de Guariba — entre eles muitas mulheres e crianças — entraram em greve ao descobrir que o novo sistema de corte introduzido no ano anterior reduzia sua produção diária sem aumento correspondente da peça. A greve deflagrou um motim: edifícios da companhia de águas foram incendiados (após aumento abusivo nas tarifas), um supermercado foi saqueado e a polícia militar abriu fogo, matando um e ferindo catorze. Simultaneamente, 12 mil apanhadores de laranja de Bebedouro também paralisaram.
+
+### A racionalidade da resistência espontânea e os limites da organização [Posfácio §11–§18]
+
+Stolcke analisa os eventos de Guariba como confirmação empírica de seu argumento central: os trabalhadores atacaram os três responsáveis concretos pela deterioração de seu padrão de vida — a empresa de água (que aumentou tarifas), os usineiros (que cortaram salários) e o supermercado (onde os preços subiam diariamente). Não havia presença de lideranças sindicais no início da greve; a ausência de organização formal tornava o movimento ainda mais difícil de conter, e líderes sindicais e advogados trabalhistas aparecem apenas no dia seguinte, numa tentativa de estruturar as demandas.
+
+As reivindicações formuladas após o motim incluíam: retorno ao sistema de corte anterior, fornecimento de recibos para controle dos ganhos, aumento da peça, pagamento de horas-extras de deslocamento, licença-saúde remunerada e fornecimento de ferramentas pelo usineiro. Os usineiros cederam ao principal ponto em três dias, e os trabalhadores voltaram ao trabalho. Mas nos meses seguintes a concessão foi parcialmente desfeita, e novas greves se espalharam por outras regiões do estado, acompanhadas de incêndios em canaviais. A resposta patronal foi imediata: reuniões para coordenar a repressão e discussão de maior mecanização da colheita.
+
+::: {.callout-tip}
+O posfácio confirma um dos argumentos metodológicos centrais do livro: a mecanização aparece como resposta *política* à organização dos trabalhadores, não como imperativo técnico autônomo. Em 1984, como em 1963, a decisão de mudar o sistema de trabalho foi politicamente produzida pelo conflito — não por uma lógica imanente da modernização.
+:::
+
+---
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+
+**Tese central:** O colonato — sistema misto de tarefa, peça e subsistência que organizou o trabalho nas fazendas de café de São Paulo entre meados do século XIX e os anos 1960 — foi simultaneamente uma forma eficiente de exploração do trabalho e um terreno permanente de resistência operária; sua substituição pelo trabalho assalariado casual não foi determinada por racionalização tecnológica, mas politicamente produzida pelo confronto entre fazendeiros, trabalhadores e Estado, mediado por relações de gênero que estruturavam a família trabalhadora como unidade produtiva e moral.
+
+**Natureza do argumento:** Explicativo-histórico com dimensão interpretativa. O argumento é causal no sentido fraco: demonstra mecanismos (não regularidades estatísticas) que conectam a lógica do colonato, o conflito agrário dos anos 1960 e a transição para o *boia-fria*. A dimensão de gênero opera em chave interpretativa — Stolcke demonstra a relevância da família e da hierarquia de gênero para o funcionamento do sistema, mas não formaliza a relação de modo a permitir teste independente.
+
+**O que o texto demonstra com força:** (1) A lógica econômica do colonato como sistema de flexibilidade de custos, sustentada por sete tabelas de dados históricos; (2) o mecanismo político da transição — o Estatuto do Trabalhador Rural como gatilho da dispensa em massa —, documentado com fontes diversas e qualitativas; (3) a consciência de direitos dos trabalhadores, evidenciada por casos concretos de litígio trabalhista bem-sucedido; (4) a dupla exploração das mulheres, documentada por história oral densa.
+
+**O que fica como hipótese ou agenda:** (1) A afirmação de que o colonato era *mais eficiente* do que o salário direto é plausível mas não formalizada — requer modelagem econométrica para ser confirmada; (2) a relação entre memória de classe e ação coletiva (capítulo 5) permanece sugestiva mas não suficientemente operacionalizada; (3) a extensão dos achados para além de São Paulo é assertada mas não demonstrada.
+
+**Contribuição para o debate mais amplo:** O livro insere-se no debate sobre proletarização rural no Brasil dos anos 1970–80, mas o transcende em duas direções. Em direção à teoria do trabalho agrário comparado, propõe que sistemas como o colonato não são formas de transição ao capitalismo pleno, mas modos específicos de organização do trabalho capitalista com lógicas próprias — contribuição para o debate internacional sobre sharecropping iniciado por Bogdanov e retomado por Martínez-Alier. Em direção à teoria feminista, integra pela primeira vez na literatura brasileira sobre cafeicultura a análise sistemática do trabalho feminino e da ideologia familiar como variáveis constitutivas — e não residuais — da economia política do trabalho agrário.
+
+**Posição na historiografia:** *Coffee Planters, Workers and Wives* ocupa posição singular na historiografia da cafeicultura paulista. Em relação a Holloway (*Imigrantes para o café*, 1984), oferece perspectiva mais conflitiva e menos otimista sobre mobilidade social dos imigrantes. Em relação a Martins (*O cativeiro da terra*, 1979), rejeita o caráter não-capitalista das relações agrárias mas incorpora a centralidade do conflito de classe. Em relação ao debate estrutural-marxista (Graziano da Silva), desloca a explicação do nível das forças produtivas para o nível da política e da agência. O livro estabelece o referencial empírico e analítico sobre cuja base a geração seguinte de historiadores da cafeicultura — inclusive Faleiros (*Fronteiras do café*, 2010) — irá trabalhar.
+
+:::

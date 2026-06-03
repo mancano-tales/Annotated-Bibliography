@@ -1,0 +1,313 @@
+---
+title: "Fichamento: International political context and institutional authority over the curriculum: Cross-national trends in curricular centralization, 1960-2020"
+subtitle: "Furuta, J., & Yang, M. (2024). International political context and institutional authority over the curriculum: Cross-national trends in curricular centralization, 1960-2020. *International Journal of Comparative Sociology*, 1–26."
+author: "Tales Mançano"
+date: "2025-01-15"
+last-updated: "2025-01-15"
+coverage: "Artigo completo"
+categories: [Annotated Bibliography, Sociology of Education, Political Sociology, Curriculum Centralization, Institutional Theory, Comparative Education, Comparative, 2024, 2020s]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+    execute: false
+---
+
+::: {.callout-note collapse="true" icon=false}
+## Informações Técnicas e BibTeX
+
+```
+Última atualização: 2025-01-15
+Modelo: Anthropic Claude 3.5 Sonnet
+Prompt Version: v17.4 · 2026-05-13
+Gerado em: 2025-01-15T14:30:00-03:00
+Ocasião da Leitura: [Para preenchimento manual do usuário]
+```
+
+**Entrada BibTeX → Furuta-Yang2024**
+
+```bibtex
+@article{Furuta-Yang2024,
+  author    = {Furuta, Jared and Yang, Marcia},
+  title     = {International political context and institutional authority over the curriculum: Cross-national trends in curricular centralization, 1960-2020},
+  journal   = {International Journal of Comparative Sociology},
+  year      = {2024},
+  pages     = {1--26},
+}
+```
+
+:::
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v17.4*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | Premissas relevantes: (1) a centralização curricular é um fenômeno que varia sistematicamente entre países e ao longo do tempo; (2) fatores macro-históricos internacionais, e não apenas condições domésticas, explicam essa variação. Interpretação alternativa considerada: poderia ser que características domésticas estáveis (tamanho populacional, grau de federalismo, tradições legais) explicassem a variação – os autores controlam várias delas. Ponto mais vulnerável: a direção da causalidade entre democratização e descentralização curricular pode ser reversa (sistemas descentralizados poderiam fomentar democracia) ou espúria (ambas causadas por modernização). | Como as decisões sobre o currículo escolar são delegadas nos sistemas educacionais nacionais? Quais fatores em nível nacional, moldados pelo contexto político internacional do pós-guerra, explicam os níveis de centralização curricular no ensino primário e secundário em uma amostra global de países entre 1960 e 2020? [Pergunta explicitada no abstract e na introdução] |
+| Questões Secundárias | Premissas: as três ondas de mudança internacional (descolonização, democratização, fim da Guerra Fria) são tratadas como eventos exógenos aos sistemas educacionais. Ponto vulnerável: a relação entre independência pós-1945 e centralização pode ser um artefato do período específico de fundação, mas os autores argumentam que é um efeito de *imprinting* institucional que persiste; no entanto, não testam se países que se tornaram independentes em outros períodos (ex.: século XIX) também apresentam maior centralização. | (1) Países que conquistaram independência entre 1945 e 1990 apresentam maior centralização curricular? (2) Quanto maior o nível de democracia, menor a centralização curricular? (3) Países comunistas têm maior centralização curricular? (4) Países pós-soviéticos têm menor centralização curricular? |
+| Puzzle-Type | O puzzle é genuíno: há uma lacuna descritiva na literatura (ausência de dados longitudinais globais) e um puzzle explicativo sobre quais fatores macro-históricos moldam a centralização. A generalização é plausível porque a amostra cobre 130 países e 60 anos, mas a generalizabilidade para além do período pós-1945 é limitada (os próprios autores reconhecem a contingência histórica). | Gap descritivo (falta de dados sistemáticos longitudinais sobre centralização curricular) + puzzle explicativo (por que países variam em centralização curricular, e qual o papel do contexto político internacional?). O artigo não se propõe a resolver um debate normativo, mas a explicar padrões causais históricos. |
+| Conclusão / Argumento Central | Premissas: a lógica institucional que liga características nacionais à centralização curricular é culturalmente construída pelo contexto internacional, não inevitável. Ponto vulnerável: embora os autores mostrem correlações, a evidência de que a *construção cultural* é o mecanismo causal é indireta – eles não rastreiam discursos, agências internacionais ou processos de difusão. A “construção cultural” funciona mais como uma interpretação pós-hoc do que como um mecanismo demonstrado. | Países que se tornaram independentes entre 1945 e 1990 têm currículos mais centralizados; países mais democráticos e países pós-soviéticos têm currículos menos centralizados. Essas relações não são universais ou necessárias, mas sim moldadas pelo contexto internacional do pós-guerra, que definiu quais políticas curriculares eram legítimas em cada momento histórico. O argumento é causal-explicativo, mas com forte ênfase na contingência histórica. |
+| Métodos | O desenho é quantitativo longitudinal com dados em painel (1960-2013, N=130 países). A unidade de análise é país-ano. A técnica principal é regressão de efeitos aleatórios com erros padrão clusterizados por país. Variável dependente: índice de centralização curricular (0-1) construído a partir de duas perguntas a especialistas (V-Dem). A estratégia de identificação é correlacional, com controle de diversos confundidores (PIB per capita, população, fractionalização étnica, clientelismo, projetos do Banco Mundial, etc.). Limitação principal: não estabelece causalidade de forma robusta (endogeneidade potencial, variáveis invariantes no tempo não podem ser controladas por efeitos fixos). O fichamento cobre o artigo completo. | Tipo de estudo: quantitativo longitudinal (painel). Fonte de dados: Varieties of Indoctrination dataset (Neundorf et al., 2024), V-Dem, Colonial History Dataset, Penn World Tables, World Development Indicators, etc. Técnicas: modelos de regressão de efeitos aleatórios. A escolha de efeitos aleatórios em vez de fixos é justificada pela necessidade de explorar variação entre países e testar hipóteses com variáveis invariantes no tempo (ex.: independência 1945-1990). Limitação reconhecida: possibilidade de endogeneidade; os autores incluem múltiplos controles e testes de robustez, mas não afirmam causalidade definitiva. |
+| Data Generation Process (DGP) | O DGP do artigo é indireto – os autores não geram dados primários, mas agregam dados de especialistas. O fenômeno real (centralização curricular) é observado por especialistas que respondem a questionários sobre (1) nível em que o framework curricular é definido e (2) aprovação nacional de livros didáticos. Essas respostas são transformadas por um modelo bayesiano de teoria de resposta ao item em uma variável contínua. Viés potencial: especialistas podem ter conhecimento desigual entre países; o número de codificadores por país varia (1 a 20). Os autores fazem robustez restringindo a amostra a países com ≥3 codificadores e encontram resultados similares. Unidade de análise final: país-ano, com agregação das respostas dos especialistas. | Fenômeno real: grau em que autoridade sobre o conteúdo curricular está concentrada no nível nacional versus delegada a governos regionais, distritos ou escolas. Observação: questionários respondidos por especialistas em sistemas educacionais. Coleta: Varieties of Indoctrination project (760 codificadores em 160 países). Operacionalização: duas questões transformadas por modelo IRT bayesiano em índice 0-1. Análise: regressão de efeitos aleatórios com defasagem de 1 ano. Tipo de inferência: correlacional, com alegação de que as associações são culturalmente construídas pelo contexto internacional. |
+| Achados e Contribuições | Achados robustos: países pós-independência (1945-1990) apresentam centralização 0,26 pontos maior (escala 0-1) que não-independentes; aumento de 0,6 no escore de democracia (de 0,2 para 0,8) reduz centralização em 0,13; países pós-soviéticos têm centralização 0,19 menor. Achado não significante: comunismo (coeficiente positivo, mas p>0,05). Contribuição teórica: aplicação da teoria institucional (Jepperson & Meyer, 2021) à centralização curricular, demonstrando que as relações observadas são historicamente contingentes, não universais. Contribuição empírica: primeiro estudo longitudinal global com dados sistemáticos sobre centralização curricular (130 países, 1960-2020). | Achados principais suportam H1 (independência pós-1945 → + centralização, p<0,01), H2 (democracia → - centralização, p<0,001) e H3b (pós-soviético → - centralização, p<0,001). H3a (comunismo → + centralização) não é estatisticamente significante. Contribuições: (1) disponibiliza nova medida longitudinal de centralização curricular; (2) mostra que o contexto político internacional (descolonização, democratização, queda da URSS) molda a legitimidade de diferentes graus de centralização; (3) argumenta que essas relações são culturalmente construídas, não determinísticas. |
+| Análise Crítica dos Achados | O artigo responde adequadamente à pergunta de pesquisa no sentido descritivo-correlacional. O ponto mais vulnerável é o salto de correlações para alegações sobre “construção cultural” e “legitimidade política”. Os autores mostram que democracia se correlaciona com descentralização, mas não demonstram *que* atores (cidadãos, partidos, burocratas) *interpretam* a descentralização como legítima em contextos democráticos – é uma inferência plausível, mas não testada. Além disso, o uso de efeitos aleatórios pressupõe que os efeitos não-observados específicos dos países não são correlacionados com os regressores – uma suposição forte que os autores não testam formalmente (ex.: teste de Hausmann não reportado). A ausência de significância para a variável “comunista” pode ser devida à absorção pela região (Leste Europeu), mas os autores não exploram essa interação. A generalizabilidade é limitada ao período 1960-2013 (embora estendam até 2020 em análises não reportadas). | Os achados são robustos em múltiplas especificações (controles, subamostras, desagregação da VD). No entanto, a alegação central de que as relações são “culturalmente construídas” não é diretamente testada – é uma interpretação qualitativa sobreposta aos resultados quantitativos. Os autores apresentam evidências descritivas (queda abrupta na centralização no Leste Europeu após 1989) que apoiam essa interpretação, mas não descartam explicações alternativas (ex.: mudanças econômicas, pressões da UE). O desenho não permite distinguir entre difusão cultural e imposição coercitiva (ex.: condicionalidades do Banco Mundial ou da UE). Além disso, a medida de centralização é limitada a duas dimensões (framework e livros didáticos), ignorando avaliação, formação de professores e financiamento – os autores reconhecem essa limitação. |
+| Limitações | **Reconhecidas pelos autores:** (1) a medida captura apenas duas dimensões da centralização curricular (framework e aprovação de livros), não avaliação, exames finais ou formação de professores; (2) possível endogeneidade entre preditores macro e centralização; (3) dados de especialistas com número variável de codificadores por país; (4) uso de efeitos aleatórios impede alegações causais fortes; (5) a amostra termina em 2013 em algumas especificações devido à disponibilidade de dados de fractionalização étnica. <br> **Não reconhecidas ou subestimadas:** (1) a variável “democracia” é de V-Dem, que já incorpora aspectos de accountability e participação – pode haver sobreposição conceitual com a noção de descentralização como “responsividade local”; (2) não há discussão sobre como sistemas federais (ex.: Alemanha, EUA) podem ter “centralização” em nível estadual que o índice captura como descentralização – os autores usam casos como EUA e Canadá como exemplos de descentralização, mas nesses países há forte centralização estadual/provincial, não ausência de centralização; (3) o argumento da “construção cultural” não é operacionalizado, permanecendo no nível da narrativa histórica; (4) não exploram heterogeneidade entre níveis de ensino (primário vs. secundário), que podem ter dinâmicas diferentes. |
+| Perspectiva Teórica | A adequação da moldura teórica (institucionalismo sociológico) ao tipo de pergunta é boa: a pergunta é sobre difusão de políticas e legitimidade, domínio clássico da teoria institucional. No entanto, há uma tensão entre a ênfase institucionalista na difusão cultural e o uso de métodos quantitativos que tratam países como unidades independentes – a teoria institucional frequentemente usa métodos de redes ou análise de eventos históricos. A ontologia implícita é construcionista (instituições como construções culturais), mas a metodologia é positivista (busca por regularidades empíricas). Essa combinação é viável, mas os autores não refletem sobre a possível incomensurabilidade entre explicar por “causas eficientes” (correlações) e por “causas constitutivas” (significados culturais). | Tradição teórica: institucionalismo sociológico (Jepperson & Meyer, 2021; Meyer et al., 1997). Conceitos centrais: legitimidade política, modelos institucionais culturalmente construídos, *imprinting* de condições de fundação, normas de soberania nacional, ondas de democratização. A perspectiva é adequada para explicar por que certas políticas curriculares se tornam dominantes em períodos históricos específicos. Coerência ontológica: moderada – definem centralização como “autoridade sobre o currículo” e a operacionalizam como nível de definição de frameworks e aprovação de livros, o que é razoável, mas ignoram dimensões de implementação. |
+| Principais Referências | Os autores dialogam com a literatura clássica e contemporânea da sociologia da educação comparada (Ramirez & Rubinson, 1979; Benavot et al., 1992; Astiz et al., 2002) e da teoria institucional (Meyer & Jepperson, 2000; Jepperson & Meyer, 2021). Referências a Stinchcombe (1965) para *imprinting*. O diálogo com a literatura sobre descentralização e Banco Mundial (Hossain, 2024) é atualizado. **Diálogo pobre ou desequilibrado:** há pouca interação com a literatura da ciência política comparada sobre federalismo e descentralização (ex.: Rodden, Wibbels) e com a literatura crítica sobre a “falsa dicotomia” centralização/descentralização (ex.: Faguet, 2014). A discussão sobre países pós-soviéticos não cita a literatura sobre path dependence em sistemas educacionais pós-comunistas (ex.: Silova & Steiner-Khamsi). | Autores centrais: Jepperson & Meyer (teoria institucional), Ramirez & Rubinson (centralização curricular), Benavot et al. (currículo global), Stinchcombe (imprinting), Huntington (ondas de democratização). Referências metodológicas: Wooldridge (painel), Pemstein et al. (modelo IRT). O artigo situa-se na interseção da sociologia da educação comparada com a sociologia política global. |
+| Observações | Vulnerabilidade adicional: o tratamento da variável “países pós-independência” como dicotômica (1945-1990 vs. outros) pode esconder heterogeneidade importante – países que se tornaram independentes nos anos 1960 (África) podem ter dinâmicas diferentes dos que se tornaram independentes nos anos 1980 (Pacífico Sul). Lacuna teórica: não discutem a possibilidade de que a centralização curricular possa ser tanto um instrumento de *nation-building* (argumento deles) quanto um instrumento de controle autoritário (também mencionado), mas não distinguem empiricamente esses dois mecanismos. Relação com pesquisa do leitor: o artigo é útil para quem estuda reformas educacionais, federalismo e difusão de políticas, mas deve ser lido com cautela quanto à inferência causal. Omissão relevante: não avaliam se as mudanças na centralização curricular estão associadas a mudanças no desempenho educacional ou na igualdade de oportunidades – isso fica para “pesquisa futura”. | Cobertura do fichamento: artigo completo, incluindo abstract, introdução, todas as seções, resultados, conclusão, referências (estas apenas mencionadas, não fichadas parágrafo a parágrafo). O fichamento cobre todas as páginas (1-26). |
+
+:::
+
+## Mapa Argumentativo {.unnumbered}
+
+| Seção | Título / Tema | Função argumentativa | Contribuição para a tese central |
+|:------|:--------------|:---------------------|:---------------------------------|
+| pp. 1-2 | Introdução | Apresentação do puzzle | Define centralização curricular como objeto, destaca ausência de dados longitudinais globais, anuncia as três hipóteses principais. |
+| p. 3 | Background (definição e debate) | Fundamentação conceitual | Especifica o conceito de centralização curricular, distingue de outros tipos de centralização educacional, revisa brevemente o debate normativo. |
+| pp. 3-5 | Political and historical context after World War II | Desenvolvimento teórico | Apresenta as três transformações macro-históricas (descolonização, democratização, queda da URSS) e formula as hipóteses H1, H2, H3a, H3b. Argumenta que as relações são historicamente contingentes. |
+| pp. 6-9 | Data and variables | Descrição da estratégia empírica | Apresenta a variável dependente (índice de centralização, 0-1), as variáveis independentes (independência 1945-1990, democracia, comunista, pós-soviético) e os controles. Justifica a escolha de efeitos aleatórios. |
+| pp. 9-10 | Methods | Especificação do modelo | Detalha o modelo de regressão de efeitos aleatórios com erros clusterizados, justifica o uso de between-country variation para testar hipóteses com variáveis invariantes no tempo. |
+| pp. 10-15 | Results | Análise empírica | Apresenta estatísticas descritivas (Figs. 1-3) e resultados das regressões (Tabela 2). Mostra suporte para H1, H2, H3b; H3a não significante. Interpreta a magnitude dos efeitos com comparações entre países. |
+| p. 15 | Additional analyses | Qualificação e robustez | Testa controles adicionais (orientação política do executivo, globalização econômica) e encontra resultados não significantes. Reforça a robustez. |
+| pp. 16-17 | Conclusion | Síntese e agenda | Reafirma a tese central, destaca a contribuição (dados novos, papel do contexto internacional), sugere pesquisas futuras sobre efeitos da centralização em desigualdades. |
+| Apêndices (pp. 23-26) | Apêndices 1-4 | Documentação suplementar | Fornece matriz de correlação, resultados desagregados (framework vs. aprovação de livros) e análises de robustez com amostra restrita (≥3 codificadores). |
+
+## Introdução e Abstract (p. 1)
+
+### Abstract e apresentação do problema [§1-§2]
+
+O artigo de Furuta e Yang investiga como as decisões sobre o currículo escolar são delegadas nos sistemas educacionais nacionais. Os autores argumentam que a **centralização curricular** – definida como o grau em que a autoridade sobre o conteúdo formal do currículo é controlada no nível nacional, em vez de delegada a governos regionais, distritos ou escolas – tem implicações políticas substantivas, pois molda a socialização dos alunos e a distribuição de resultados educacionais. A principal lacuna identificada é a ausência de dados longitudinais sistemáticos para uma amostra global de países. Para preencher essa lacuna, os autores utilizam dados recém-disponibilizados do projeto *Varieties of Indoctrination* para 130 países entre 1960 e 2020.
+
+> **Nota 1:** O projeto *Varieties of Indoctrination* é parte do *Varieties of Democracy* (V-Dem), coordenado por Coppedge et al. (2024) e Neundorf et al. (2024). Os dados são construídos a partir de questionários respondidos por especialistas nacionais sobre políticas educacionais.
+
+A tese central é que o contexto político e histórico internacional – especialmente as normas difusas de soberania nacional após a Segunda Guerra Mundial, as ondas globais de democratização e a queda da União Soviética – define quais políticas curriculares têm legitimidade política em cada período. Os autores propõem três hipóteses principais: (H1) países que conquistaram independência entre 1945 e 1990 tendem a ter currículos mais centralizados; (H2) países mais democráticos tendem a ter currículos menos centralizados; (H3a) países comunistas têm maior centralização; (H3b) países pós-soviéticos têm menor centralização.
+
+Os resultados indicam suporte para H1, H2 e H3b, mas H3a não é estatisticamente significante. A contribuição teórica é mostrar que a lógica institucional que liga essas características nacionais à centralização curricular é **culturalmente construída** pelo contexto internacional em evolução, e não uma inevitabilidade histórica.
+
+### Importância e lacuna na literatura [§3-§5]
+
+Os autores argumentam que, embora a centralização curricular possa ter efeitos significativos sobre *nation-building* e igualdade educacional (Channa, 2015; Hannaway & Carnoy, 1993), poucos estudos examinaram a variação cross-nacional de forma sistemática. A maioria dos estudos existentes concentra-se em estudos de caso específicos (ex.: Indonésia, Colômbia, Mongólia) ou em argumentos teóricos abstratos. A ausência de dados longitudinais globais tem limitado a capacidade de examinar os processos macro-históricos que moldam a evolução dos sistemas educacionais no período pós-guerra. O artigo propõe-se a preencher essa lacuna usando dados do *Varieties of Indoctrination* para 130 países entre 1960 e 2020.
+
+::: {.callout-note icon=false}
+**Conceito-chave:** *Curricular centralization* – extensão em que a autoridade sobre o que os alunos aprendem formalmente é controlada no nível nacional, em oposição a governos regionais, distritos locais ou escolas individuais. É distinta da *standardization* (padronização), pois é possível ter objetivos de aprendizagem padronizados nacionalmente sem que a autoridade sobre livros didáticos ou métodos seja centralizada.
+:::
+
+## Background e definições conceituais (p. 3)
+
+### Definição de centralização curricular e debates normativos [§6-§7]
+
+Os autores definem **centralização curricular** como uma das várias áreas que moldam a autoridade institucional em sistemas educacionais nacionais (outras áreas incluem alocação de funding, contratação de professores, governança escolar e sistemas de certificação). A centralização curricular influencia o conhecimento formal que os alunos encontram em sala de aula e o grau de uniformidade ou diversidade no conteúdo instrucional.
+
+O debate normativo sobre centralização curricular é longo. Proponentes argumentam que a centralização ajuda a garantir padrões consistentes de aprendizagem em todo o país, especialmente porque os inputs curriculares vêm de múltiplas fontes (editoras de livros didáticos, legislação, organizações profissionais, comunidades locais) que exigem coordenação. Críticos, por outro lado, notam que o excesso de centralização pode limitar a participação local, ignorar diferenças culturais e históricas e dificultar a adaptação do ensino às necessidades de comunidades diversas.
+
+A partir da década de 1980, o discurso de política educacional mudou em direção a preocupações com *accountability* e qualidade escolar, com a descentralização sendo enquadrada como uma forma de dar mais influência a professores e partes interessadas locais. Organizações internacionais como o Banco Mundial promoveram esses argumentos, contribuindo para uma onda de reformas que buscavam expandir a autonomia local no design e implementação do currículo.
+
+### Indicadores utilizados no estudo [§8]
+
+O estudo foca em duas dimensões-chave da centralização curricular: (1) o nível em que os **frameworks curriculares** são formalmente definidos (se por órgãos locais, autoridades subnacionais ou autoridades nacionais); e (2) se os **livros didáticos** exigem aprovação por um órgão nacional. Os autores reconhecem que esses indicadores não capturam todos os componentes da governança curricular (ex.: avaliação, exames finais, formação de professores), mas argumentam que refletem inputs centrais que moldam o conteúdo formal que os alunos aprendem.
+
+## Contexto político e histórico após a Segunda Guerra Mundial (pp. 3-5)
+
+### Fundamentação teórica institucional [§9]
+
+Os autores adotam a perspectiva da **teoria institucional de estados e organizações** (DiMaggio & Powell, 1983; Meyer et al., 1997; Jepperson & Meyer, 2021), que enfatiza como os sistemas educacionais nacionais são construções culturais moldadas pelo ambiente institucional externo. As estruturas estatais refletem normas, modelos institucionais e esquemas cognitivos desse ambiente externo que definem o que é racional, moderno ou legítimo. Estados e outros atores que operam dentro desses frameworks culturais são vistos como atores legítimos, o que é crucial para a sobrevivência organizacional.
+
+### Descolonização e independência pós-1945 [§10-§12]
+
+A primeira transformação macro-histórica é a rápida taxa de **descolonização** após 1945. Mais de 60% dos países reconhecidos pela ONU em 2024 conquistaram independência após 1945. O sistema internacional que se desenvolveu após a Segunda Guerra Mundial foi construído em torno de normas liberais de soberania nacional e autodeterminação. Entre esses países recém-independentes, a educação foi vista como uma instituição especialmente importante tanto para estabelecer a identidade do estado-nação na esfera internacional quanto para incorporar os cidadãos na nova política domesticamente. A educação de massa expandiu-se rapidamente em todo o mundo, juntamente com leis de educação compulsória e ministérios da educação.
+
+::: {.callout-note icon=false}
+**Hipótese 1 (H1):** Países que conquistaram independência entre 1945 e 1990 têm níveis mais altos de centralização curricular.
+
+O mecanismo proposto é de *imprinting* (Stinchcombe, 1965): as estruturas de autoridade curricular adotadas no momento da independência persistem muito depois do período de fundação. Os novos estados recorreram a modelos institucionais internacionais que promoviam burocracias estatais centralizadas para gerir a educação de massa.
+:::
+
+### Democratização [§13-§15]
+
+A segunda transformação é o aumento do número de países que estabeleceram processos políticos formalmente democráticos nas **segunda e terceira ondas de democratização** (Huntington, 1991). Menos de 9% dos países podiam ser classificados como democráticos em 1950, mas quase metade eram democracias em 2000.
+
+Os autores esperam que países mais democráticos tenham níveis mais baixos de centralização curricular. Instituições democráticas em expansão empoderam indivíduos com direitos, capacidades e demandas por *accountability*, inclusão e representação no processo político (Meyer & Jepperson, 2000). Normas democráticas deslegitimam o controle *top-down* sobre conteúdo cultural contestado, e os públicos locais demandam mais representação nas decisões educacionais. Países autoritários, em contraste, enfrentam menos pressões por representação e são mais propensos a centralizar o currículo para exercer controle ideológico ou administrativo.
+
+::: {.callout-note icon=false}
+**Hipótese 2 (H2):** O nível de democratização de um país está associado a níveis mais baixos de centralização curricular.
+:::
+
+### Queda da União Soviética [§16-§19]
+
+A terceira transformação é a queda rápida e inesperada da União Soviética no final dos anos 1980 e início dos anos 1990. De 1945 ao final dos anos 1980, a política internacional foi dominada pela rivalidade entre URSS e EUA – e especificamente entre modelos institucionais concorrentes de capitalismo liberal e comunismo. A ideologia socialista estatal enfatizava os méritos do **planejamento centralizado**, com políticas sociais consolidadas *top-down* em todo o estado.
+
+Os autores esperam que países comunistas tenham níveis mais altos de centralização curricular, enquanto países pós-soviéticos tenham níveis mais baixos. A educação em países socialistas era frequentemente moldada por ideologias mais coletivistas de planejamento de mão-de-obra. Após a queda do comunismo nos anos 1990, políticas liberais que moldavam as normas institucionais dominantes do ambiente político global varreram os países que antes faziam parte da União Soviética, incluindo ênfase na *accountability* local em educação.
+
+::: {.callout-note icon=false}
+**Hipótese 3a (H3a):** Países comunistas têm níveis mais altos de centralização curricular.  
+**Hipótese 3b (H3b):** Países pós-soviéticos têm níveis mais baixos de centralização curricular.
+:::
+
+### Contingência histórica das relações [§20-§22]
+
+Os autores enfatizam que as relações entre características nacionais e centralização curricular são **historicamente contingentes**. Países recém-independentes nem sempre centralizaram seus sistemas educacionais – antes do século XIX, a escolarização era tipicamente um empreendimento privado ligado à religião, e países como os EUA não incluíram a educação em sua constituição nacional ao conquistar independência. No contexto pós-Segunda Guerra Mundial, no entanto, a lógica que liga independência nacional e centralização curricular é construída pela suposição de que a educação está ligada a noções mais amplas de progresso societal. Da mesma forma, democracias no contexto do período pós-guerra desenvolveram sistematicamente instituições curriculares menos centralizadas por causa do caráter liberal e individualista das normas que se difundiram durante essas décadas. Países pós-soviéticos adotaram currículos menos centralizados não por um processo inevitável, mas porque estavam inseridos em um ambiente político global onde o individualismo liberal moldava os modelos institucionais dominantes.
+
+## Dados e variáveis (pp. 6-9)
+
+### Variável dependente: centralização curricular [§23-§25]
+
+A variável dependente é o nível de **centralização curricular** de um país, extraída do *Varieties of Indoctrination dataset* (Coppedge et al., 2024; Neundorf et al., 2024). A medida é construída a partir de duas perguntas a especialistas:
+
+1.  O framework curricular do país é definido inteiramente por órgãos locais, autoridades subnacionais ou autoridades nacionais?
+2.  Os livros didáticos são aprovados centralmente ou não por uma autoridade nacional?
+
+As respostas são tratadas como manifestações de um conceito latente de centralização curricular, e o V-Dem usa um modelo bayesiano de **teoria de resposta ao item** para converter cada questão em uma variável intervalar contínua de 0 a 1 (onde 1 = altamente centralizado, 0 = altamente descentralizado). A correlação entre as duas questões é moderada (\(r = 0,61\)), refletindo que países podem centralizar autoridade e implementação em diferentes graus.
+
+> **Nota 2:** O número de codificadores por país varia de 1 a 20, com média e mediana de 5,0 e desvio padrão de 3,1-3,2. Os autores realizam análises de robustez restringindo a amostra a países com três ou mais codificadores (Apêndice 4), com resultados similares.
+
+**Exemplos:** Canadá, EUA e Austrália (sistemas descentralizados) têm escores médios de 0,002, 0,012 e 0,001, respectivamente. Singapura (0,83) e Chipre (0,85) são altamente centralizados. A Finlândia caiu de 0,68 antes dos anos 1990 para 0,13 depois das reformas de descentralização.
+
+### Variáveis independentes [§26-§29]
+
+1.  **Independência pós-guerra:** variável dicotômica indicando se o país foi fundado entre 1945 e 1990 (dados do *Colonial History Dataset* – Hensel, 2018).
+2.  **Democracia:** índice de democracia liberal do V-Dem (0-1), capturando eleições, liberdades civis, independência judicial e freios ao poder executivo.
+3.  **Comunista:** variável dicotômica indicando se o país é comunista durante o período da análise.
+4.  **Pós-soviético:** variável dicotômica identificando se o país fez parte da esfera de influência da União Soviética após seu colapso (inclui repúblicas soviéticas, países do Pacto de Varsóvia e ex-Iugoslávia).
+
+### Variáveis de controle [§30-§36]
+
+Os autores incluem um conjunto abrangente de controles para evitar viés de variável omitida:
+
+- **Desenvolvimento econômico:** PIB per capita (*Penn World Tables*, log)
+- **Tamanho populacional:** log da população (*World Development Indicators*)
+- **Governo local existente:** variável dicotômica (V-Dem) – captura capacidade administrativa subnacional
+- **Ministério da educação:** variável dicotômica indicando existência de ministério (*Statesman's Yearbook*)
+- **Taxa bruta de matrícula primária:** (*World Development Indicators* e Meyer et al., 1992)
+- **Fractionalização etnolinguística:** (*Historical Index of Ethnolinguistic Fractionalization* – Drazanova, 2020)
+- **Clientelismo:** índice do V-Dem (0-1)
+- **Funding do Banco Mundial:** número de projetos educacionais do Banco Mundial financiados nos últimos 5 anos (escalado por 10)
+
+A amostra final consiste em 130 países de 1960 a 2013 (construída por *listwise deletion*). A Tabela 1 (p. 10) fornece estatísticas descritivas.
+
+## Métodos (pp. 9-10)
+
+### Especificação econométrica [§37-§39]
+
+Os autores estimam **modelos de regressão em painel com efeitos aleatórios** e erros padrão clusterizados por país (Wooldridge, 2009). A escolha de efeitos aleatórios em vez de efeitos fixos é justificada pela necessidade de explorar a variação *between-country* e testar hipóteses que envolvem variáveis invariantes no tempo (ex.: independência 1945-1990). Efeitos fixos não permitiriam estimar o efeito dessas variáveis.
+
+O modelo geral é:
+\[
+Y_{it} = \mu + \beta X_{it} + \alpha_i + \varepsilon_{it}
+\]
+Onde \(Y_{it}\) é a centralização curricular do país \(i\) no tempo \(t\), \(X_{it}\) é o vetor de variáveis independentes e de controle (defasadas em 1 ano), \(\alpha_i\) é o termo de erro invariante no tempo específico do país, e \(\varepsilon_{it}\) é o termo de erro variante no tempo.
+
+Os autores também incluem uma **tendência temporal linear** (1960-2020) e controles para região geográfica (não mostrados nas tabelas principais por não serem foco do argumento).
+
+### Pressupostos e limitações [§40-§41]
+
+Os autores reconhecem a possibilidade de endogeneidade entre os preditores macro e a centralização curricular. Para mitigar esse problema, incluem um amplo conjunto de variáveis de controle, realizam múltiplos testes de robustez e especificam defasagens temporais. No entanto, interpretam os resultados como **associações consistentes com as expectativas teóricas**, não como efeitos causais definitivos. A decisão de usar efeitos aleatórios pressupõe que os efeitos não-observados específicos dos países não são correlacionados com os regressores – uma suposição que não é testada formalmente (ex.: teste de Hausmann não reportado).
+
+## Resultados (pp. 10-15)
+
+### Estatísticas descritivas globais [§42-§45]
+
+A Figura 1 (p. 11) mostra a média global da centralização curricular de 1960 a 2021. A tendência geral é de **aumento gradual** ao longo de todo o período, o que os autores consideram surpreendente dado que muitos países implementaram políticas de descentralização a partir dos anos 1980. A Figura 2 (p. 12) mostra a mudança média de 5 anos: a taxa de aumento foi mais rápida antes dos anos 1990 e mais lenta depois.
+
+Há uma **queda abrupta** no início dos anos 1990 na média global. A Figura 3 (p. 12), que desagrega por região, revela que essa queda é impulsionada quase inteiramente pela **Europa Central e Oriental**, onde a centralização curricular caiu de uma das mais altas do mundo para uma das mais baixas. Exemplos: a República Tcheca caiu de 0,88 em 1989 para 0,44 em 1990; a Rússia caiu de 0,81 em 1989 para 0,51 em 1992.
+
+::: {.callout-important}
+A queda abrupta na Europa Central e Oriental após 1989 é consistente com a H3b (países pós-soviéticos → menor centralização). No entanto, os autores notam que, além dessa região, Oriente Médio/Norte da África e Ásia têm as maiores médias de centralização, enquanto América do Sul/Central tem as menores fora do Ocidente industrializado.
+:::
+
+### Resultados das regressões em painel [§46-§48]
+
+A Tabela 2 (p. 14) apresenta os resultados dos modelos de regressão de efeitos aleatórios. O modelo 4 (com todas as variáveis independentes e controles) mostra:
+
+- **Democracia:** coeficiente de **-0,21** (p < 0,001) – suporte para H2.
+- **Pós-soviético:** coeficiente de **-0,19** (p < 0,001) – suporte para H3b.
+- **País pós-independência (1945-1990):** coeficiente de **0,26** (p < 0,01) – suporte para H1.
+- **Comunista:** coeficiente de 0,02 (não significante) – H3a não suportada.
+
+> **Nota 3:** A não-significância da variável "comunista" pode ser devida à absorção pelo controle regional (Leste Europeu), como os próprios autores sugerem. Modelos sem controle regional (não mostrados) poderiam produzir resultados diferentes, mas os autores não reportam essa especificação.
+
+### Magnitude dos efeitos (Figura 4, p. 15) [§49-§50]
+
+Os autores calculam as **diferenças preditas** na centralização como efeitos marginais médios com base no modelo 4.
+
+- Um país pós-independência tem escore predito de **0,71**, contra 0,45 para um país não-pós-independência – diferença de **0,26**. Isso equivale à diferença entre Noruega (0,36) e Uganda (0,62) ou entre Nova Zelândia (0,29) e Guiné Equatorial (0,55) em 2010.
+- Um país com alta democracia (escore 0,80) tem escore predito de **0,47**, contra 0,60 para um país com baixa democracia (escore 0,20) – diferença de **0,13**. Isso equivale à diferença entre África do Sul (0,65) e Azerbaijão (0,78) ou entre Peru (0,53) e Zimbábue (0,66) em 2010.
+
+### Resultados das variáveis de controle [§51-§52]
+
+- **População:** positivamente associada à centralização (p < 0,01) – países maiores tendem a centralizar mais, possivelmente para facilitar o *nation-building*.
+- **Fractionalização etnolinguística:** negativamente associada (p < 0,10, mas nem sempre significante ao nível de 5%).
+- **Existência de governo local:** associada a *mais* centralização (p < 0,05) – resultado surpreendente, possivelmente porque governos locais existem para implementar políticas centralizadas de forma mais eficaz, não para descentralizar.
+- **PIB per capita, matrículas primárias, clientelismo e funding do Banco Mundial:** não consistentemente significantes.
+
+> **Nota 4:** A ausência de efeito significativo do funding do Banco Mundial é consistente com achados recentes de Hossain (2024), que questiona se os empréstimos do Banco Mundial realmente induzem descentralização curricular. Os próprios autores notam que as ideologias de descentralização propagadas por organizações internacionais podem ter enfatizado mais a descentralização econômica do que a curricular.
+
+## Análises adicionais e robustez (p. 15)
+
+### Testes de controles adicionais [§53]
+
+Em análises suplementares (disponíveis mediante solicitação), os autores testaram duas variáveis adicionais: (1) orientação política do chefe do executivo (conservadora/direita → maior propensão à descentralização neoliberal); (2) globalização econômica (índice KOF). Nenhuma dessas variáveis mostrou efeitos significativos ou alterou os resultados principais. A inclusão dessas variáveis restringia o tamanho da amostra, então os autores optaram por não incluí-las nos modelos finais.
+
+### Desagregação da variável dependente (Apêndice 3, p. 25) [§54]
+
+O Apêndice 3 reporta os resultados quando as duas componentes do índice de centralização são tratadas como variáveis dependentes separadas: (1) autoridade nacional sobre decisões curriculares; (2) aprovação nacional de livros didáticos. Os coeficientes para as variáveis independentes são amplamente similares, mas há uma diferença interessante: para países comunistas, o coeficiente é positivo (+0,27, p < 0,10) para autoridade sobre o framework, mas negativo (-0,07, não significante) para aprovação de livros. Os autores especulam que, em países comunistas, o framework curricular pode ser dirigido pelo estado enquanto tarefas mais específicas (aprovação de livros) são delegadas a autoridades subnacionais.
+
+### Restrição a países com ≥3 codificadores (Apêndice 4, p. 26) [§55]
+
+O Apêndice 4 restringe a amostra a países com três ou mais codificadores por ano (reduzindo para 101-102 países). Os resultados para as variáveis independentes são amplamente similares aos da amostra completa: democracia (-0,21, p < 0,001), pós-soviético (-0,18, p < 0,001) e pós-independência (0,31, p < 0,01) mantêm significância e magnitude semelhantes.
+
+## Conclusão (pp. 16-17)
+
+### Síntese das contribuições [§56-§57]
+
+Os autores concluem que o contexto histórico e político global molda a **centralização curricular** no nível nacional. Usando novos dados para 130 países entre 1960 e 2020, mostram que:
+
+- Países que conquistaram independência após a Segunda Guerra Mundial (1945-1990) têm currículos mais centralizados.
+- Países mais democráticos têm currículos menos centralizados.
+- Países pós-soviéticos têm currículos menos centralizados.
+
+A contribuição teórica central é que essas relações não são universais ou necessárias, mas sim **culturalmente construídas** pelo contexto internacional em evolução. O que é considerado legítimo em termos de política curricular varia historicamente: após 1945, estados recém-independentes adotaram modelos centralizados como marcadores de soberania; nas décadas recentes, democracias e ex-estados socialistas adotaram descentralização como resposta a normas liberais de direitos individuais e *accountability* local.
+
+### Implicações para a pesquisa sociológica [§58-§59]
+
+Os autores contribuem para a pesquisa sociológica sobre educação e instituições ao examinar as forças macro que moldam o controle político sobre o que os alunos aprendem na escola. A educação é uma instituição que transmite valores, normas e habilidades, e a forma como os alunos são socializados é moldada pelas instituições políticas que determinam o currículo. Em países com instituições curriculares altamente descentralizadas (como os EUA), as desigualdades no que os alunos aprendem podem ser acentuadas. Esses países também podem experimentar mais contestações sobre o significado da identidade nacional (ex.: proibições de livros, infusão de retórica religiosa).
+
+### Agenda de pesquisa futura [§60-§61]
+
+Os autores sugerem três direções para pesquisas futuras:
+
+1.  Explorar como a centralização curricular afeta **resultados educacionais** (desigualdades de desempenho, incorporação política).
+2.  Investigar se outras dimensões da centralização educacional (funding, avaliação, controle político geral) evoluem em conjunto com a centralização curricular ou divergem dela.
+3.  Coletar dados mais sistemáticos sobre um conceito mais expansivo de **centralização educacional** para compreender melhor as mudanças ao longo do tempo.
+
+## Referências (pp. 17-22) e Apêndices (pp. 23-26)
+
+As referências (não fichadas parágrafo a parágrafo conforme instrução do prompt para não incluir listas de referências no fichamento detalhado) incluem literatura clássica e contemporânea da sociologia da educação comparada, teoria institucional, ciência política comparada e fontes dos dados utilizados.
+
+Os apêndices fornecem:
+
+- **Apêndice 1 (p. 23):** Matriz de correlação entre todas as variáveis dependentes e independentes.
+- **Apêndice 2 (não mostrado no PDF fornecido):** Discussão das fontes das variáveis-chave.
+- **Apêndice 3 (p. 25):** Resultados desagregados para as duas componentes da variável dependente.
+- **Apêndice 4 (p. 26):** Resultados com amostra restrita a países com ≥3 codificadores.
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+**Tese central (uma frase):** A centralização curricular em nível nacional é moldada por três transformações políticas internacionais do pós-guerra (descolonização, democratização e queda da URSS), e as relações observadas – ex-colônias pós-1945 com mais centralização, democracias com menos centralização, países pós-soviéticos com menos centralização – são culturalmente construídas e historicamente contingentes, não inevitabilidades universais.
+
+**Natureza do argumento:** Causal-explicativo com forte ênfase na contingência histórica. O argumento é causal no sentido de que os autores afirmam que o contexto internacional *molda* (i.e., influencia causalmente) as escolhas de política curricular, mas reconhecem que a causalidade é mediada por processos culturais de legitimidade, não por mecanismos determinísticos. Trata-se, portanto, de um argumento de *causalidade constitutiva* (o contexto internacional constitui o que conta como política legítima) combinado com análise correlacional quantitativa.
+
+**O que o texto demonstra vs. o que fica como hipótese ou agenda:** O texto *demonstra* associações robustas entre independência 1945-1990, democracia, status pós-soviético e centralização curricular, controlando por uma série de fatores alternativos. Ficam como *hipóteses não testadas*: (a) o mecanismo de "construção cultural" (os autores inferem, mas não rastreiam processos de difusão ou legitimação); (b) os efeitos da centralização curricular sobre desigualdades ou resultados educacionais (indicados como pesquisa futura); (c) a relação entre centralização curricular e outras dimensões da centralização educacional (funding, avaliação). Fica como *agenda* a coleta de dados mais abrangentes sobre governança curricular.
+
+**Contribuição para o debate mais amplo:** O artigo insere-se no debate sobre a relação entre globalização, Estado-nação e políticas educacionais. Ele oferece a primeira evidência longitudinal global sistemática sobre centralização curricular, desafiando tanto as narrativas teleológicas de descentralização inevitável (mostrando que a média global de centralização aumentou) quanto as explicações puramente domésticas (mostrando o papel do contexto internacional). A contribuição mais original é teórica: a alegação de que as associações empíricas são *contingentes* e *culturalmente construídas*, não leis universais. Isso abre espaço para pesquisas comparativas históricas que examinem como a legitimidade de diferentes arranjos curriculares varia entre épocas e regiões.
+
+**Progressão argumentativa:** O artigo move-se de uma lacuna empírica (falta de dados) para a construção de um quadro teórico institucionalista, passando pela formulação de hipóteses derivadas de três eventos macro-históricos, testando essas hipóteses com dados originais e, finalmente, interpretando os resultados como evidência de processos de legitimidade culturalmente construídos. A conclusão recapitula as contribuições e aponta para desdobramentos futuros, mantendo a ênfase na contingência histórica.
+:::
