@@ -10,7 +10,483 @@
 <atom:link href="https://mancano-tales.github.io/Annotated-Bibliography/index.xml" rel="self" type="application/rss+xml"/>
 <description>Fichamentos acadêmicos de Tales Mançano</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Tue, 02 Jun 2026 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 06 Jun 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Fichamento: The comparative political economy of inequality: the maturation of an emerging field</title>
+  <dc:creator>Tales Mançano</dc:creator>
+  <link>https://mancano-tales.github.io/Annotated-Bibliography/posts/Busemeyer2026.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Informações Técnicas e BibTeX
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<pre><code>Última atualização: 2026-06-06
+Modelo: DeepSeek (versão mais recente)
+Prompt Version: v17.4 · 2026-05-13
+Gerado em: 2026-06-06T14:30:00-03:00
+Ocasião da Leitura: [para preenchimento manual]</code></pre>
+<p><strong>Entrada BibTeX → Busemeyer2026</strong></p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">Busemeyer2026</span>,</span>
+<span id="cb2-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span>    = {Busemeyer, Marius R.},</span>
+<span id="cb2-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span>     = {The comparative political economy of inequality: the maturation of an emerging field},</span>
+<span id="cb2-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">journal</span>   = {West European Politics},</span>
+<span id="cb2-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span>      = {2026},</span>
+<span id="cb2-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">pages</span>     = {1--31},</span>
+<span id="cb2-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">doi</span>       = {10.1080/01402382.2026.2662882},</span>
+<span id="cb2-8">}</span></code></pre></div></div>
+</div>
+</div>
+</div>
+<section id="ficha-analítica-crítica" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="ficha-analítica-crítica">Ficha Analítica Crítica</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Esta seção segue o formato <em>IA Planilhando Textos v17.4</em>.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Ficha Analítica — Tabela Markdown
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 23%">
+<col style="width: 52%">
+<col style="width: 23%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Dimensão</th>
+<th style="text-align: left;">Raciocínio analítico</th>
+<th style="text-align: left;">Conteúdo</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Questão de Pesquisa</td>
+<td style="text-align: left;">Premissa: a literatura de CPEI está madura o suficiente para uma síntese que conecte causas e consequências da desigualdade. Interpretação alternativa: o autor poderia ter focado apenas em um dos lados (causas ou consequências). Ponto mais vulnerável: a noção de “self-reinforcing inequality” como padrão dominante pode ser uma construção do recorte amostral da literatura, não necessariamente um achado empírico agregado.</td>
+<td style="text-align: left;">Reconstruída: Como o campo da economia política comparada da desigualdade (CPEI) evoluiu nos últimos 25 anos, quais são seus principais achados sobre as causas e consequências da desigualdade, e quais questões devem orientar a pesquisa futura para escapar da “dinâmica de auto-reforço da desigualdade”?</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Questões Secundárias</td>
+<td style="text-align: left;">O autor conecta as questões secundárias à agenda futura. Vulnerabilidade: a agenda é ambiciosa, mas carece de priorização explícita.</td>
+<td style="text-align: left;">(1) Qual o papel dos partidos políticos na mitigação ou exacerbação das desigualdades na capacidade de resposta (<em>responsiveness</em>)? (2) Existem trade-offs entre capacidade de resposta a demandas de curto prazo e a desafios de longo prazo (ex.: mudança climática, investimento social)? (3) Como desigualdades locais (“place-based”) e a multidimensionalidade da desigualdade afetam a política da desigualdade?</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Puzzle-Type</td>
+<td style="text-align: left;">O puzzle é de tipo <em>explicativo</em> e <em>avaliativo</em>: por que, apesar da expectativa teórica do modelo Meltzer-Richard, o aumento da desigualdade não gerou demanda proporcional por redistribuição? O autor reconhece que o puzzle já é estabelecido na literatura, mas o artigo o utiliza como ponto de partida para revisar mecanismos (percepções viesadas, fairness, mobilização desigual). O puzzle é genuíno e generalizável para democracias avançadas.</td>
+<td style="text-align: left;">Puzzle explicativo (desvio do modelo Meltzer-Richard) combinado com uma avaliação do estado do campo.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Conclusão / Argumento Central</td>
+<td style="text-align: left;">Premissa: a literatura aponta para um padrão dominante de desigualdade auto-reforçadora. Interpretação alternativa: o autor poderia argumentar que há evidências de ciclos de mitigação. O argumento central é que o campo amadureceu mostrando que a política importa tanto nas causas quanto nas consequências da desigualdade, mas que para romper o “doom loop” é preciso mais pesquisa sobre partidos e trade-offs temporais. Ponto vulnerável: a evidência de auto-reforço é agregada de estudos com desenhos diferentes, e o autor não apresenta uma meta-análise ou teste empírico novo.</td>
+<td style="text-align: left;">O campo da CPEI demonstrou que a desigualdade é moldada por fatores políticos (instituições, recursos de poder) e, por sua vez, retroalimenta a política (participação, preferências, responsiveness desigual), gerando um ciclo de auto-reforço. Para transformar esse ciclo em mitigação, a pesquisa futura deve focar no papel dos partidos políticos e nos trade-offs entre responsiveness de curto e longo prazo.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Métodos</td>
+<td style="text-align: left;">O artigo é uma <em>revisão seletiva da literatura</em> (não sistemática). O autor explicita que adota uma “perspectiva mais ampla” em termos de período e escopo analítico. Estratégia argumentativa: qualitativa, baseada em síntese interpretativa de achados de primeira e segunda geração da CPEI. O fichamento cobre a obra completa. Limitação relevante: a seletividade da revisão pode introduzir viés de confirmação; não há critérios explícitos de inclusão/exclusão de estudos.</td>
+<td style="text-align: left;">Revisão narrativa seletiva da literatura. Fonte principal: artigos e livros publicados entre o final dos anos 1990 e 2025, com ênfase em estudos quantitativos cross-nacionais, experimentos de survey, e análises de responsiveness. O autor não apresenta dados originais, mas sintetiza achados empíricos de terceiros. Limitação: ausência de protocolo sistemático pode levar a omissões ou ênfase excessiva em certas tradições (ex.: abordagem Gilens vs.&nbsp;teoria partidária).</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Data Generation Process (DGP)</td>
+<td style="text-align: left;">Não se aplica diretamente por ser uma revisão. O DGP dos estudos revisados varia: (a) dados LIS para desigualdade de renda; (b) surveys para percepções e preferências; (c) dados de políticas públicas e plataformas eleitorais para responsiveness. Unidade de análise: países (macronível) e indivíduos (micronível). Viés potencial: a maioria dos estudos foca em democracias ocidentais ricas (EUA e Europa Ocidental), limitando a generalização.</td>
+<td style="text-align: left;">O autor não gera dados novos. Ele revisa estudos cujo DGP inclui: (i) dados do Luxembourg Income Studies (LIS) para medidas objetivas de desigualdade; (ii) experimentos de survey e surveys representativos para percepções e preferências; (iii) dados de políticas (gastos sociais, reformas) e plataformas partidárias para responsiveness. A comparação entre níveis (macro e micro) é uma força do campo, mas cria problemas de agregação e inferência ecológica que o autor menciona apenas indiretamente.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Achados e Contribuições</td>
+<td style="text-align: left;">O autor identifica que a contribuição central do campo é ter mostrado que a política (instituições, recursos de poder, partidos) afeta a desigualdade e que a desigualdade retroalimenta a política (participação, preferências, responsiveness). A contribuição do artigo em si é a proposta de agenda de pesquisa (partidos, trade-offs temporais). Vulnerabilidade: a agenda é pouco inovadora – a literatura sobre partidos e desigualdade já existe (Haselmayer &amp; Horn, 2025).</td>
+<td style="text-align: left;">Achados da literatura revisada: (1) Instituições de mercado de trabalho (negociação coletiva, sindicatos) e recursos de poder da esquerda reduzem a desigualdade. (2) Percepções viesadas da desigualdade (viés centrista) atenuam a demanda por redistribuição. (3) A desigualdade reduz a participação eleitoral dos mais pobres e favorece o populismo de direita. (4) Há um viés sistemático de responsiveness a favor dos ricos na formulação de políticas. Contribuições do artigo: (a) oferece uma síntese integrada das causas e consequências; (b) propõe uma agenda de pesquisa focada em partidos e trade-offs temporais; (c) contrasta perspectivas americana (dynamic representation) e europeia (party government) sobre responsiveness.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Análise Crítica dos Achados</td>
+<td style="text-align: left;">O autor responde adequadamente à pergunta de revisão, mas a análise crítica revela pontos vulneráveis. Primeiro, o argumento do “doom loop” é plausível, mas o autor não pondera a possibilidade de que a literatura sofra de viés de publicação (publication bias) em favor de resultados negativos sobre responsiveness. Segundo, a distinção entre perspectivas americana e europeia sobre partidos é útil, mas o autor não explora como desenhos institucionais (sistemas eleitorais, federalismo) podem moderar as diferenças. Terceiro, a seção sobre trade-offs temporais é conceitualmente rica, mas carece de exemplos empíricos concretos de estudos que já tenham testado esses trade-offs. Quarto, a generalização para além de democracias ocidentais ricas é frágil – o próprio autor reconhece que os dados vêm majoritariamente de países da OCDE.</td>
+<td style="text-align: left;">O artigo é bem-sucedido em mapear a evolução do campo e em identificar um padrão de auto-reforço. Contudo, a análise crítica aponta: (a) a evidência de responsiveness desigual é contestada por autores como Branham et al.&nbsp;(2017) e Elkjær &amp; Iversen (2020), que o autor menciona mas não resolve a controvérsia; (b) o autor não discute se o “doom loop” é inevitável ou contingente a regimes específicos de bem-estar social; (c) a proposta de focar em partidos políticos é um tanto óbvia, dado que a primeira geração da CPEI já tinha os partidos como atores centrais – o autor não explica por que os partidos desapareceram da agenda intermediária; (d) a ausência de uma discussão sobre o papel dos movimentos sociais e da sociedade civil organizada fora dos partidos é uma lacuna.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Limitações</td>
+<td style="text-align: left;"><strong>Reconhecidas pelos autores:</strong> O autor admite que a revisão é “seletiva” e “incompleta”. Reconhece que a literatura tem foco na dimensão econômica da desigualdade (renda), embora haja conexões com outras dimensões. Reconhece que o padrão de auto-reforço pode ser dependente de contexto histórico e de país. <br> <strong>Não reconhecidas ou subestimadas:</strong> (1) O viés geográfico: quase todos os estudos citados são de democracias ocidentais ricas; a generalização para países em desenvolvimento ou regimes não democráticos não é discutida. (2) O viés de publicação: estudos que não encontram viés de responsiveness ou que encontram efeitos mobilizadores da desigualdade podem estar sub-representados. (3) A definição de “responsiveness” é operacionalizada de forma diferente nos estudos citados, e o autor não problematiza a comparabilidade. (4) A literatura sobre populismo de direita é tratada de forma assimétrica em relação à esquerda radical. (5) Não há menção ao papel da tecnologia e da automação como fatores estruturais que interagem com a política, embora haja referência a Kurer &amp; Häusermann (2022).</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Perspectiva Teórica</td>
+<td style="text-align: left;">O autor se situa na tradição da <em>economia política comparada</em> institucionalista, com forte influência da <em>power resource theory</em> (Korpi, Stephens) e da <em>varieties of capitalism</em> (Hall &amp; Soskice). A ontologia implícita é estruturalista-moderada: instituições e atores coletivos (sindicatos, partidos) são vistos como mediadores de forças estruturais (globalização, mudança tecnológica). Há coerência entre essa ontologia e o método de revisão seletiva. Contudo, o autor também incorpora perspectivas da psicologia social (teoria da justificação do sistema, viés centrista), o que cria uma tensão não resolvida entre explicações estruturais e cognitivo-comportamentais.</td>
+<td style="text-align: left;">Tradição eclética: power resource theory, variedades do capitalismo, teorias da escolha racional (Meltzer-Richard) e psicologia social (percepções viesadas). A principal contribuição teórica do artigo é integrar essas tradições em um ciclo de feedback (auto-reforço). A adequação da moldura é alta para o propósito de revisão. Contudo, a ontologia é instável: ora o autor trata a desigualdade como resultado de estruturas objetivas (poder de barganha, instituições), ora como resultado de percepções subjetivas viesadas. A interação entre esses níveis não é formalizada.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Principais Referências</td>
+<td style="text-align: left;">Gilens (2005, 2012), Bartels (2008), Pontusson &amp; Rueda (2010), Lupu &amp; Pontusson (2023), Haselmayer &amp; Horn (2025), Piketty (2014, 2020), Esping-Andersen (1990), Hall &amp; Soskice (2001). O diálogo com a literatura é amplo, mas há um desequilíbrio: a literatura europeia sobre party government (Castles, Schmidt) é mencionada, mas não integrada com a mesma profundidade da literatura americana sobre dynamic representation (Stimson, Soroka).</td>
+<td style="text-align: left;">Referências centrais: Meltzer &amp; Richard (1981) como modelo canônico; Gilens (2012) e Bartels (2008) para responsiveness; Korpi (1983) e Stephens (1979) para power resources; Hall &amp; Soskice (2001) para VoC. O autor também dialoga com críticas (Branham et al., 2017; Elkjær &amp; Iversen, 2020). O diálogo pobre ou desequilibrado: a literatura latino-americana ou do Sul Global sobre desigualdade e política está ausente; a literatura sobre “democracia desigual” (Schäfer, 2013) é citada, mas não aprofundada.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Observações</td>
+<td style="text-align: left;">Vulnerabilidade adicional: o artigo foi publicado em 2026, mas cita trabalhos de 2025 e 2026 (ex.: Beiser-McGrath &amp; Busemeyer, 2026), indicando atualidade. No entanto, a dependência de preprints ou aceitos pode gerar instabilidade na replicabilidade. Lacuna teórica: o autor não discute como a <em>desigualdade multidimensional</em> (interseção com raça, gênero, educação) interage com os mecanismos políticos – embora mencione a necessidade de pesquisas futuras. Relevância para o leitor: o artigo é fundamental para quem pesquisa desigualdade e política comparada, especialmente se interessado por responsiveness e partidos. Omissão: o papel da mídia e da comunicação política na formação de percepções de desigualdade é apenas tangencialmente mencionado (legacy media).</td>
+<td style="text-align: left;">O artigo representa uma contribuição de síntese madura de um campo que o próprio autor ajudou a construir. A cobertura é abrangente até 2025-2026. A principal originalidade está na articulação entre causas e consequências da desigualdade em um ciclo de feedback e na proposição de uma agenda focada em partidos e temporalidade. No entanto, a falta de uma meta-análise ou de critérios sistemáticos de revisão limita a pretensão de “estado da arte”. O artigo seria mais robusto se incluísse uma seção sobre vieses de publicação e uma discussão explícita de escopo geográfico e temporal.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</section>
+<section id="mapa-argumentativo" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="mapa-argumentativo">Mapa Argumentativo</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 8%">
+<col style="width: 19%">
+<col style="width: 28%">
+<col style="width: 43%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Seção</th>
+<th style="text-align: left;">Título / Tema</th>
+<th style="text-align: left;">Função argumentativa</th>
+<th style="text-align: left;">Contribuição para a tese central</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Introdução (pp.&nbsp;2–3)</td>
+<td style="text-align: left;">Apresentação do campo e objetivos do artigo</td>
+<td style="text-align: left;">Apresentação do puzzle e da tese</td>
+<td style="text-align: left;">Define o escopo da revisão (causas e consequências da desigualdade) e anuncia a tese do ciclo de auto-reforço e a agenda de pesquisa.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">The comparative political economy of inequality: a short review of a maturing field (pp.&nbsp;3–6)</td>
+<td style="text-align: left;">Primeira onda: causas macroinstitucionais da desigualdade</td>
+<td style="text-align: left;">Revisão de literatura (fundamento empírico)</td>
+<td style="text-align: left;">Mostra que a política (recursos de poder, instituições trabalhistas, welfare state) molda a desigualdade, contrariando explicações puramente estruturais.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">From causes to consequences: exploring the micro-foundations (pp.&nbsp;6–8)</td>
+<td style="text-align: left;">Segunda onda: consequências micro da desigualdade (percepções, preferências, participação)</td>
+<td style="text-align: left;">Revisão de literatura (extensão do argumento)</td>
+<td style="text-align: left;">Demonstra que a desigualdade afeta percepções (viés centrista), reduz a demanda por redistribuição e a participação eleitoral dos pobres, e alimenta o populismo de direita.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">…and back to policies: inequalities in the responsiveness of policy-making (pp.&nbsp;8–10)</td>
+<td style="text-align: left;">Terceira onda: responsiveness desigual e mecanismos</td>
+<td style="text-align: left;">Revisão de literatura (fechamento do ciclo)</td>
+<td style="text-align: left;">Mostra que políticas públicas são enviesadas a favor dos ricos (Gilens, Bartels), completando o ciclo de auto-reforço: desigualdade → baixa participação dos pobres → políticas que beneficiam os ricos → mais desigualdade.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Preliminary summary: a dynamic of self-reinforcing inequality? (pp.&nbsp;10–11)</td>
+<td style="text-align: left;">Síntese do padrão de “doom loop” e possíveis exceções</td>
+<td style="text-align: left;">Síntese e qualificação</td>
+<td style="text-align: left;">Resume o argumento central do ciclo auto-reforçador e sugere que houve momentos históricos (pós-guerra) e exemplos atuais (social investment) de mitigação, abrindo espaço para a agenda futura.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Looking ahead: the contours of a research agenda (pp.&nbsp;11–19)</td>
+<td style="text-align: left;">Agenda de pesquisa: partidos e trade-offs temporais</td>
+<td style="text-align: left;">Extensão do argumento e proposição normativa</td>
+<td style="text-align: left;">Propõe dois eixos prioritários: (1) o papel dos partidos políticos (contrastando as tradições americana e europeia de responsiveness); (2) trade-offs entre responsiveness de curto e longo prazo.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Do political parties mitigate or exacerbate inequalities in responsiveness? (pp.&nbsp;12–15)</td>
+<td style="text-align: left;">Papel dos partidos na responsiveness</td>
+<td style="text-align: left;">Análise teórica e proposição</td>
+<td style="text-align: left;">Critica a abordagem da “dynamic representation” (Gilens) por ignorar a função agregadora dos partidos; defende a perspectiva da “party government” como forma de compensar desigualdades de recursos individuais.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Trade-offs in responsiveness to short- and long-term challenges (pp.&nbsp;15–17)</td>
+<td style="text-align: left;">Tensão entre curto e longo prazo</td>
+<td style="text-align: left;">Análise conceitual</td>
+<td style="text-align: left;">Argumenta que maximizar a responsiveness de curto prazo pode comprometer a capacidade de resolver problemas de longo prazo (clima, investimento social), e que isso tem implicações distributivas (os ricos tendem a apoiar mais políticas de longo prazo).</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Further emerging topics (pp.&nbsp;17–19)</td>
+<td style="text-align: left;">Desigualdades locais e multidimensionalidade</td>
+<td style="text-align: left;">Extensão da agenda</td>
+<td style="text-align: left;">Aponta duas áreas emergentes: (1) desigualdades entre regiões (place-based inequalities) e seu papel no populismo; (2) a interação entre dimensões econômicas e culturais da desigualdade.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Conclusion (pp.&nbsp;19–21)</td>
+<td style="text-align: left;">Síntese e reflexão final</td>
+<td style="text-align: left;">Síntese e agenda</td>
+<td style="text-align: left;">Reitera os dois principais achados do campo (a política importa; ciclo de auto-reforço) e a agenda futura (partidos, trade-offs temporais). Reconhece que a estabilização recente da desigualdade em alguns países pode tornar o “doom loop” menos pessimista.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="introdução-pp.-23" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="introdução-pp.-23"><span class="header-section-number">1</span> Introdução (pp.&nbsp;2–3)</h2>
+<section id="apresentação-do-campo-e-objetivos-15" class="level3" data-number="1.1">
+<h3 data-number="1.1" class="anchored" data-anchor-id="apresentação-do-campo-e-objetivos-15"><span class="header-section-number">1.1</span> Apresentação do campo e objetivos [§1–§5]</h3>
+<p>O artigo se abre com a constatação de que a desigualdade econômica está no centro dos debates acadêmicos e públicos, sendo amplamente percebida como crescente. O autor destaca que, embora as ciências sociais tenham inicialmente atribuído a desigualdade a forças socioeconômicas exógenas (mudança tecnológica, demografia, desenvolvimento econômico), o interesse em fatores políticos tem aumentado significativamente, inclusive na economia (Atkinson, Piketty, Stiglitz). Esse movimento reflete as aspirações do campo da <strong>Economia Política Comparada da Desigualdade (CPEI)</strong> , que desde suas origens tem apontado para o papel crucial da política e das políticas públicas na dinâmica da desigualdade.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 1:</strong> A sigla CPEI é introduzida pelo autor para se referir ao campo (<em>comparative political economy of inequality</em>). Ele a utiliza ao longo do artigo, mas não é uma sigla consagrada na literatura – trata-se de uma convenção adotada para este artigo de revisão.</p>
+</blockquote>
+<p>O autor define o primeiro objetivo do artigo: revisar seletivamente o campo da CPEI nos últimos 25 anos, adotando uma perspectiva mais ampla do que revisões anteriores (Elsasser &amp; Schafer 2023; Lupu &amp; Pontusson 2023; Pontusson 2025; Rosset et al.&nbsp;2025). A revisão foca na dimensão econômica da desigualdade (especialmente desigualdade de renda), mas reconhece as conexões com outras dimensões não econômicas.</p>
+<p>O artigo traça a conexão entre a primeira onda de estudos (causas macro da desigualdade) e a literatura mais recente (consequências micro, como participação e formação de preferências). O objetivo é considerar causas e consequências como parte de um ciclo de <em>feedback</em> entre nível micro (percepções, preferências) e nível macro (instituições, políticas). O argumento central que emerge da revisão é a identificação de um padrão dominante de <strong>desigualdade auto-reforçadora</strong> (<em>self-reinforcing inequality</em>).</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Tese central do artigo</strong>: O campo da CPEI amadureceu ao mostrar que a desigualdade é moldada por fatores políticos e, por sua vez, retroalimenta a política (participação, preferências, responsiveness), gerando um ciclo de auto-reforço. Para escapar desse ciclo, a pesquisa futura deve focar no papel dos partidos políticos e nos trade-offs entre responsiveness de curto e longo prazo.</p>
+</div>
+</div>
+<p>O segundo objetivo do artigo é esboçar uma agenda de pesquisa, com ênfase em: (i) o papel da política partidária, subapreciado nas fases intermediárias do campo; (ii) os trade-offs entre responsiveness democrática de curto e longo prazo; e (iii) tópicos emergentes como desigualdades locais e a multidimensionalidade da desigualdade.</p>
+</section>
+</section>
+<section id="the-comparative-political-economy-of-inequality-a-short-review-of-a-maturing-field-pp.-36" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="the-comparative-political-economy-of-inequality-a-short-review-of-a-maturing-field-pp.-36"><span class="header-section-number">2</span> The comparative political economy of inequality: a short review of a maturing field (pp.&nbsp;3–6)</h2>
+<section id="explorando-o-nível-macro-instituições-e-recursos-de-poder-612" class="level3" data-number="2.1">
+<h3 data-number="2.1" class="anchored" data-anchor-id="explorando-o-nível-macro-instituições-e-recursos-de-poder-612"><span class="header-section-number">2.1</span> Explorando o nível macro: instituições e recursos de poder [§6–§12]</h3>
+<p>A primeira onda da CPEI, no final dos anos 1990 e início dos 2000, focou na explicação das tendências da desigualdade em nível macro de países. Essa onda foi impulsionada pela disponibilidade de dados comparativos, especialmente do <strong>Luxembourg Income Studies (LIS)</strong> , que forneceu medidas de desigualdade de renda para um conjunto amplo de países e períodos. Diferentemente da pesquisa anterior sobre welfare state, que se concentrava em gastos sociais ou generosidade de benefícios (Esping-Andersen 1990; Wilensky 1975), a CPEI passou a analisar a desigualdade como <em>outcome</em> socioeconômico.</p>
+<p>Teoricamente, a CPEI desafiou o consenso predominante na economia e na sociologia, que apontava para fatores estruturais exógenos (mudança tecnológica, globalização) como causas últimas da desigualdade. O campo argumentou que a extensão em que essas forças se traduzem em maior desigualdade no mercado de trabalho depende de <strong>contextos políticos e instituições</strong>.</p>
+<p>Empiricamente, os primeiros trabalhos destacaram a influência de instituições do mercado de trabalho – negociação coletiva, regulação salarial e capacidade organizacional dos sindicatos – na redução das desigualdades de renda (Pontusson et al.&nbsp;2002; Wallerstein 1999). Com base na <strong>teoria dos recursos de poder</strong> (<em>power resource theory</em>), desenvolvida na pesquisa sobre welfare state (Korpi 1983; Stephens 1979), os estudiosos da CPEI apontaram que o equilíbrio de poder entre empregadores e sindicatos, bem como entre atores partidários, afeta as tendências de desigualdade (Bradley et al.&nbsp;2003; Huber &amp; Stephens 2014; Mahler 2004; Rueda 2008). A conclusão é que fortes recursos de poder para a esquerda (sindicatos centralizados e poderosos, partidos social-democratas bem-sucedidos eleitoralmente) estão associados a um welfare state mais generoso e a níveis mais baixos de desigualdade socioeconômica (Kenworthy &amp; Pontusson 2005; Pontusson 2005). Uma revisão sistemática recente de Haselmayer &amp; Horn (2025) confirmou a significância dos efeitos partidários.</p>
+<p>No debate sobre <strong>variedades do capitalismo (VoC)</strong> (Hall &amp; Soskice 2001), a desigualdade foi um tema menos central do que questões como formação de habilidades, inovação ou crescimento econômico. Contudo, estudiosos da CPEI estabeleceram conexões entre tendências de desigualdade e regimes de economia política e welfare state (Iversen &amp; Soskice 2009; Pontusson 2005). Por exemplo, instituições bem estabelecidas de <strong>educação e treinamento vocacional (VET)</strong> foram associadas a menores níveis de desigualdade econômica (Busemeyer 2014; Estévez-Abe et al.&nbsp;2001), especialmente quando combinadas com forte negociação coletiva (Busemeyer &amp; Iversen 2012).</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Conceito-chave</strong>: <em>Power resource theory</em> – abordagem que atribui a variação na desigualdade e no welfare state à força relativa de atores coletivos (sindicatos, partidos de esquerda) e ao seu acesso ao poder estatal. Opõe-se a explicações puramente funcionalistas ou estruturais.</p>
+</div>
+</div>
+<p>Assim, a primeira geração da CPEI concentrou-se em destacar o papel dos recursos de poder, da política partidária, das instituições do mercado de trabalho e de outras instituições político-econômicas como determinantes influentes da desigualdade socioeconômica. À medida que o campo amadureceu, os estudiosos passaram a se interessar pelas <strong>consequências políticas da desigualdade</strong> – participação, formação de preferências e percepções – movendo-se do nível macro para o micro.</p>
+</section>
+</section>
+<section id="das-causas-às-consequências-explorando-as-microfundações-da-política-da-desigualdade-pp.-68" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="das-causas-às-consequências-explorando-as-microfundações-da-política-da-desigualdade-pp.-68"><span class="header-section-number">3</span> Das causas às consequências: explorando as microfundações da política da desigualdade (pp.&nbsp;6–8)</h2>
+<section id="percepções-viesadas-e-o-puzzle-meltzer-richard-1318" class="level3" data-number="3.1">
+<h3 data-number="3.1" class="anchored" data-anchor-id="percepções-viesadas-e-o-puzzle-meltzer-richard-1318"><span class="header-section-number">3.1</span> Percepções viesadas e o puzzle Meltzer-Richard [§13–§18]</h3>
+<p>Para muitos estudiosos, o ponto de partida para explorar as microfundações da política da desigualdade tem sido o <strong>modelo canônico de Meltzer-Richard (MR)</strong> (Meltzer &amp; Richard 1981), que prevê que o aumento da desigualdade eleva a demanda por redistribuição. O puzzle motivador é que a desigualdade crescente não desencadeou, na maioria das vezes, um aumento proporcional na demanda por redistribuição (Kenworthy &amp; McCall 2007; Lupu &amp; Pontusson 2023).</p>
+<p>A decomposição do modelo MR revela a premissa de que os indivíduos têm percepções precisas da desigualdade. No entanto, pesquisas recentes, inspiradas pela psicologia social, identificaram uma série de <strong>percepções equivocadas e vieses</strong> (Cruces et al.&nbsp;2013; Engelhardt &amp; Wagener 2018; Gimpelson &amp; Treisman 2018; Kuziemko et al.&nbsp;2015; Norton &amp; Ariely 2011). Um viés proeminente é a <strong>tendência centrista</strong> (<em>centrist bias</em>): indivíduos tendem a se localizar no meio da distribuição de renda, de modo que os de alta renda subestimam sua riqueza relativa e os de baixa renda subestimam sua pobreza relativa. Esse viés foi observado em vários países, incluindo Alemanha (Engelhardt &amp; Wagener 2018), Suíça (Weisstanner &amp; Armingeon 2022), Espanha (Fernández-Albertos &amp; Kuo 2018) e em um conjunto mais amplo de países da OCDE (Bublitz 2022). O que é mais contestado na literatura é se o fornecimento seletivo de informações (correção de percepções) tem efeitos significativos e duradouros sobre as preferências. Alguns estudos encontram tais efeitos (Alesina et al.&nbsp;2018; Fernández-Albertos &amp; Kuo 2018; Kuziemko et al.&nbsp;2015), enquanto outros não (Bublitz 2022; Sachweh &amp; Eicher 2025; Weisstanner &amp; Armingeon 2022).</p>
+<p>Uma perspectiva ligeiramente diferente é perseguida por estudos que explicam a reação moderada dos eleitores ao aumento da desigualdade apontando para <strong>percepções de justiça e aceitação da desigualdade</strong>. Indivíduos que vivem em países de alta desigualdade tornam-se mais tolerantes com esses níveis (Mijs 2021; Mijs &amp; Savage 2020; Schröder 2017; Trump 2018, 2023). A <strong>teoria da justificação do sistema</strong> (<em>system justification theory</em>) (Jost et al.&nbsp;2004; Trump 2018) foca em fatores psicológicos que tornam os indivíduos mais aceitáveis do <em>status quo</em>, mesmo quando objetivamente desigual. Mijs (2021; Mijs &amp; Savage 2020), por outro lado, aponta para a <strong>ideologia dominante da meritocracia</strong>, que legitima as desigualdades existentes como justas se percebidas como resultado do trabalho duro.</p>
+<p>Sobre a ligação entre percepções e formação de preferências, uma questão central é o quão importantes são as percepções subjetivas em comparação com as desigualdades objetivas. A maioria dos estudos encontra que as percepções subjetivas desempenham um papel significativo na formação das preferências, especialmente no apoio geral à redistribuição e a políticas relacionadas (Ahrens 2022; Bobzien 2020; Burgoon et al.&nbsp;2023; Cansunar 2021; Condon &amp; Wichowsky 2020; Dallinger 2021; García-Sánchez et al.&nbsp;2020; Gimpelson &amp; Treisman 2018; Kim &amp; Lee 2018; Sachweh &amp; Eicher 2025). Uma perspectiva contrastante é fornecida por Weisstanner &amp; Armingeon (2022) e Kevins et al.&nbsp;(2019), que argumentam que as percepções subjetivas importam menos do que fatores objetivos. Evidências adicionais de que a desigualdade objetiva importa vêm de estudos que fornecem suporte empírico para o argumento básico do modelo MR (Finseraas 2009; Johnston &amp; Newman 2016; Kevins et al.&nbsp;2018; Lupu &amp; Pontusson 2011; Schmidt-Catran 2016).</p>
+</section>
+<section id="desigualdade-econômica-e-participação-política-1921" class="level3" data-number="3.2">
+<h3 data-number="3.2" class="anchored" data-anchor-id="desigualdade-econômica-e-participação-política-1921"><span class="header-section-number">3.2</span> Desigualdade econômica e participação política [§19–§21]</h3>
+<p>Um tópico adicional na literatura é a ligação entre desigualdade econômica e <strong>participação política</strong>. No modelo MR, a etapa de percepções e preferências para a participação não é explicitamente modelada, pois se presume que os indivíduos elegíveis votam. Contribuições iniciais focaram no impacto da desigualdade na participação política, descobrindo que ela tem um efeito depressivo na <strong>participação eleitoral</strong> (Mahler 2008; Schäfer 2013; Solt 2008, 2010). Trabalhos mais recentes confirmaram a associação entre maior desigualdade e menor participação para conjuntos mais amplos de países e períodos (Polacko 2022; Rosset 2023; Schäfer &amp; Schwander 2019; Schwander et al.&nbsp;2020). No entanto, há evidências de que níveis mais altos de desigualdade – ou queixas econômicas mais intensas – podem desencadear <strong>protestos políticos e contramobilização</strong> sob certas circunstâncias (Cederman et al.&nbsp;2011; Kurer et al.&nbsp;2019; Newman et al.&nbsp;2015). O autor observa que ainda não está claro quais fatores decidem se as queixas relacionadas à desigualdade têm efeitos desmobilizadores ou mobilizadores.</p>
+<p>Sobre a política partidária, Pontusson &amp; Rueda (2010) argumentaram que a desigualdade também afeta a dinâmica da competição partidária: “a desigualdade de renda não apenas é moldada pela política, mas também molda a política”, levando os partidos de esquerda a se moverem para a esquerda se a participação eleitoral for suficientemente alta (ver também Anderson &amp; Singer 2008). Tavits &amp; Potter (2015) descobrem que o sucesso eleitoral dos partidos de esquerda depende da medida em que eles conseguem manter o foco da competição partidária em questões econômicas. Contribuições à literatura sobre <strong>dualização do mercado de trabalho</strong> (Emmenegger et al.&nbsp;2012) mostraram como as desigualdades no mercado de trabalho podem levar os “outsiders” a abandonar os partidos mainstream de centro-esquerda e optar por alternativas populistas mais radicais (Lindvall &amp; Rueda 2012). Trabalhos mais recentes de Horn et al.&nbsp;(2026) estudam o impacto da desigualdade nas posições dos partidos, descobrindo que os partidos de esquerda em particular ajustam suas posições políticas em resposta ao aumento da desigualdade, mas são menos responsivos a níveis persistentemente altos de desigualdade.</p>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Implicação normativa</strong>: A literatura mostra que a desigualdade econômica tende a deprimir a participação dos mais pobres e a redirecionar o voto para partidos populistas de direita, o que, por sua vez, reduz a capacidade de políticas redistributivas. Isso constitui um mecanismo central do ciclo de auto-reforço.</p>
+</div>
+</div>
+<p>Uma literatura vibrante tem surgido nos últimos anos estudando a conexão entre desigualdade e <strong>ascensão do populismo</strong> (Burgoon et al.&nbsp;2019; Engler &amp; Weisstanner 2021; Filsinger 2023; Gidron &amp; Hall 2020; Hartmann et al.&nbsp;2022; Iversen &amp; Soskice 2019; Kurer &amp; van Staalduinen 2022; Norris &amp; Inglehart 2019; Schäfer 2022; Stoetzer et al.&nbsp;2023). Uma questão central é se fatores socioeconômicos ou culturais são mais importantes na formação do apoio ao populismo. Uma percepção central é que as <strong>percepções subjetivas de privação relativa</strong> parecem ser uma força motriz poderosa do apoio ao populismo (Burgoon et al.&nbsp;2019; Kurer &amp; van Staalduinen 2022). Estudos recentes confirmaram que a desigualdade e as políticas relacionadas permanecem no cerne dos conflitos partidários entre esquerda e direita (Gethin et al.&nbsp;2021; Horn et al.&nbsp;2026; Jahn 2023; Piketty 2020), incluindo tanto a clivagem tradicional esquerda-direita centrada na redistribuição econômica quanto a nova clivagem universalista-particularista (Zollinger 2024). A desigualdade econômica também tem sido associada a níveis mais baixos de <strong>confiança política</strong> (Bobzien 2023; Lipps &amp; Schraff 2021) e a percepções de responsiveness desigual (Rosset 2023).</p>
+</section>
+</section>
+<section id="e-de-volta-às-políticas-desigualdades-na-responsiveness-da-formulação-de-políticas-pp.-810" class="level2" data-number="4">
+<h2 data-number="4" class="anchored" data-anchor-id="e-de-volta-às-políticas-desigualdades-na-responsiveness-da-formulação-de-políticas-pp.-810"><span class="header-section-number">4</span> … e de volta às políticas: desigualdades na responsiveness da formulação de políticas (pp.&nbsp;8–10)</h2>
+<section id="evidências-de-viés-a-favor-dos-ricos-2227" class="level3" data-number="4.1">
+<h3 data-number="4.1" class="anchored" data-anchor-id="evidências-de-viés-a-favor-dos-ricos-2227"><span class="header-section-number">4.1</span> Evidências de viés a favor dos ricos [§22–§27]</h3>
+<p>Ligando de volta o nível micro (percepções, preferências, comportamento político) ao nível macro da formulação de políticas, estão os estudos sobre <strong>desigualdades persistentes na responsiveness da formulação de políticas</strong>. Do ponto de vista do modelo MR canônico, “não há nada para ver”, pois o modelo assume que os governos, por interesse próprio na reeleição, seguirão e implementarão as demandas políticas do eleitor mediano. A maioria dos estudos, no entanto, encontra evidências de que a transmissão de preferências para políticas não funciona tão suavemente.</p>
+<p>Com base no trabalho pioneiro de <strong>Gilens</strong> (2005, 2012; Gilens &amp; Page 2014; ver também Bartels 2008), muitos estudos se concentraram na associação entre opinião pública medida por surveys e mudanças políticas subsequentes. Os estudos de Gilens revelaram um forte viés na responsiveness da formulação de políticas em favor de indivíduos de alta renda nos EUA. Complementando esse trabalho, muitos estudos em outros países e amostras mais amplas confirmaram que a responsiveness enviesada é generalizada (Elkjær 2020; Elkjær &amp; Klitgaard 2024; Elsässer et al.&nbsp;2021; Erikson 2015; Lupu &amp; Warner 2022; Schakel 2021; Schakel et al.&nbsp;2020; Schakel &amp; Hakhverdian 2018). Alguns estudos também começaram a rastrear vieses relacionados à renda em estágios iniciais do ciclo de formulação de políticas: posições partidárias, plataformas eleitorais, seleção de candidatos e agenda-setting (Horn et al.&nbsp;2026; Schakel &amp; Burgoon 2022; Traber et al.&nbsp;2022; Weber 2020; Wüest &amp; Pontusson 2022). Rosset &amp; Kurella (2021) argumentam que o estágio eleitoral amplifica ainda mais as desigualdades relacionadas à renda na responsiveness, pois os indivíduos de baixa renda são pior representados nos sistemas partidários europeus. Trabalhos relacionados sobre diferenças potenciais na responsiveness entre partidos políticos confirmaram que políticos de esquerda podem ser um pouco mais responsivos às preocupações da classe média, mas os estudos ainda encontram um viés geral a favor dos interesses dos indivíduos com mais recursos (Elsässer et al.&nbsp;2021; Grossmann et al.&nbsp;2021; Mathisen et al.&nbsp;2023; Schakel &amp; Burgoon 2022).</p>
+</section>
+<section id="críticas-e-mecanismos-subjacentes-2832" class="level3" data-number="4.2">
+<h3 data-number="4.2" class="anchored" data-anchor-id="críticas-e-mecanismos-subjacentes-2832"><span class="header-section-number">4.2</span> Críticas e mecanismos subjacentes [§28–§32]</h3>
+<p>Há, no entanto, críticos da abordagem de Gilens. Eles apontam, por exemplo, que as preferências das classes média e alta são fortemente correlacionadas (Branham et al.&nbsp;2017; Enns &amp; Wlezien 2011), de modo que a responsiveness aos ricos também implica coincidentemente responsiveness à classe média (embora os pobres ainda tendam a ser menos bem representados). Assim, para alguns, a <strong>classe média</strong> (eleitor mediano) permanece no centro da competição política, fortalecendo a confiança na viabilidade da tomada de decisão democrática (Elkjær &amp; Iversen 2020, 2023; Pontusson 2025). Outros apontaram que, mesmo quando existe um viés para os interesses dos ricos, os formuladores de políticas ainda podem ser amplamente responsivos à dinâmica geral da opinião pública, em um padrão de “representação real, mas desigual” (Schakel et al.&nbsp;2020; ver também Stimson 2011).</p>
+<p>Além disso, Pontusson &amp; Weisstanner (2018) argumentaram que a capacidade redistributiva declinante de muitos welfare states em países da OCDE pode ter menos a ver com o declínio da responsiveness, mas sim estar associada ao <strong>declínio real do apoio à redistribuição nas classes médias</strong>, à medida que os riscos econômicos se concentram mais em grupos marginalizados. Outros trabalhos recentes também apontam para restrições exógenas, como condições macroeconômicas, paradigmas econômicos vigentes ou austeridade fiscal, como fatores que podem impedir a responsiveness do governo (Elsasser &amp; Haffert 2022; Rosset et al.&nbsp;2025; Tober &amp; Busemeyer 2022).</p>
+<p>Uma área emergente de pesquisa inovadora é o estudo das <strong>percepções das elites</strong> como um mecanismo potencial explicativo da responsiveness seletiva. Estudos recentes mostram que políticos geralmente são ruins em estimar corretamente a opinião pública (Walgrave et al.&nbsp;2023) e que os legisladores tendem a ter visões geralmente mais conservadoras do que os cidadãos (Broockman &amp; Skovron 2018; Pereira 2021; Helfer et al.&nbsp;2024; Pilet et al.&nbsp;2024). O viés conservador é um pouco menos pronunciado para políticos de esquerda, mas ainda existe (Broockman &amp; Skovron 2018). O viés nas percepções e preferências das elites pode estar relacionado à exposição seletiva de membros do parlamento a cidadãos de alta renda e alta escolaridade em suas redes pessoais (Helfer et al.&nbsp;2024; Pereira 2021) ou a maiores esforços de mobilização de grupos partidários de direita (Broockman &amp; Skovron 2018). Apesar desses avanços, muito ainda permanece obscuro sobre os mecanismos subjacentes à responsiveness desigual.</p>
+</section>
+</section>
+<section id="resumo-preliminar-uma-dinâmica-de-desigualdade-auto-reforçadora-pp.-1011" class="level2" data-number="5">
+<h2 data-number="5" class="anchored" data-anchor-id="resumo-preliminar-uma-dinâmica-de-desigualdade-auto-reforçadora-pp.-1011"><span class="header-section-number">5</span> Resumo preliminar: uma dinâmica de desigualdade auto-reforçadora? (pp.&nbsp;10–11)</h2>
+<section id="duas-mensagens-principais-3335" class="level3" data-number="5.1">
+<h3 data-number="5.1" class="anchored" data-anchor-id="duas-mensagens-principais-3335"><span class="header-section-number">5.1</span> Duas mensagens principais [§33–§35]</h3>
+<p>O autor resume a revisão de 25 anos da CPEI com duas mensagens fundamentais. A primeira é que a CPEI demonstrou claramente que e como a <strong>política importa</strong> para a dinâmica da desigualdade. A primeira onda concentrou-se nas causas políticas (políticas, recursos de poder); a pesquisa posterior focou nas consequências micro (percepções, preferências, participação) e, por extensão, nas desigualdades persistentes na responsiveness da formulação de políticas.</p>
+<p>A segunda mensagem, mais substantiva, é que a essência de grande parte da CPEI é a identificação de uma forte dinâmica de <strong>desigualdade auto-reforçadora</strong>. Mais concretamente: (1) níveis declinantes de redistribuição via welfare state (Pontusson &amp; Weisstanner 2018) estão associados ao aumento da desigualdade e do emprego precário; (2) o aumento da desigualdade real e percebida leva à abstenção política ou ao apoio a alternativas radicais, principalmente de direita (Burgoon et al.&nbsp;2019; Kurer &amp; van Staalduinen 2022); (3) a participação eleitoral deprimida entre os eleitores de baixa renda está associada à diminuição da responsiveness dos formuladores de políticas às preocupações dos menos privilegiados (Pontusson &amp; Rueda 2010); (4) os populistas de direita se beneficiam do declínio eleitoral dos partidos de centro-esquerda, mas, no poder, não buscam políticas que mitigariam a desigualdade (Hacker &amp; Pierson 2020; Rathgeb 2024); (5) as capacidades econômicas e fiscais dos governos de esquerda para promover políticas de welfare state expansivas são ainda mais restringidas pela globalização e integração europeia (Kwon &amp; Pontusson 2010; Tober &amp; Busemeyer 2022).</p>
+<div class="callout callout-style-default callout-tip no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Síntese interpretativa</strong>: O “doom loop” da desigualdade auto-reforçadora opera da seguinte forma: desigualdade crescente → menor participação dos pobres e ascensão da direita populista → políticas menos redistributivas e enviesadas a favor dos ricos → mais desigualdade. As restrições externas (globalização, austeridade) reforçam o ciclo.</p>
+</div>
+</div>
+</section>
+<section id="possibilidades-de-saída-do-doom-loop-3637" class="level3" data-number="5.2">
+<h3 data-number="5.2" class="anchored" data-anchor-id="possibilidades-de-saída-do-doom-loop-3637"><span class="header-section-number">5.2</span> Possibilidades de saída do “doom loop” [§36–§37]</h3>
+<p>O autor pergunta como escapar desse ciclo e quais devem ser as prioridades da pesquisa futura. Ele sugere que a pesquisa futura deve esclarecer até que ponto a dinâmica de feedback de auto-reforço depende de contextos específicos (períodos históricos, países). No <strong>pós-guerra (“trente glorieuses”)</strong> , uma dinâmica mitigadora pode ter estado em ação, com expansão educacional e reformas progressivas do welfare state criando oportunidades de mobilidade social ascendente, apoiadas pela abertura e democratização do sistema político. O autor questiona se essa dinâmica foi autodestrutiva no sentido de que a virada para o “doom loop” era inevitável, ou se fatores específicos desencadearam a reversão. E, por contraste, há exemplos no presente que sinalizam oportunidades de saída do “doom loop”? O autor menciona a <strong>recalibração incremental, mas persistente, dos welfare states existentes em direção ao modelo de “investimento social”</strong> (Hemerijck 2018), que contribuiu para reduzir as desigualdades de gênero no mercado de trabalho (Pavolini &amp; Van Lancker 2018), e a expansão cautelosa de políticas sociais no nível da UE (Ferrera &amp; Burelli 2019). Esses exemplos são “marginais” (“wallflowers”) em vez de um “prado totalmente crescidos”, mas indicam que pode haver limiares em que os efeitos colaterais negativos da desigualdade persistente se tornam tão grandes que desencadeiam efeitos de feedback contramobilizadores ao <em>status quo</em> (Weaver 2010).</p>
+</section>
+</section>
+<section id="olhando-adiante-os-contornos-de-uma-agenda-de-pesquisa-pp.-1119" class="level2" data-number="6">
+<h2 data-number="6" class="anchored" data-anchor-id="olhando-adiante-os-contornos-de-uma-agenda-de-pesquisa-pp.-1119"><span class="header-section-number">6</span> Olhando adiante: os contornos de uma agenda de pesquisa (pp.&nbsp;11–19)</h2>
+<section id="dois-eixos-prioritários-38" class="level3" data-number="6.1">
+<h3 data-number="6.1" class="anchored" data-anchor-id="dois-eixos-prioritários-38"><span class="header-section-number">6.1</span> Dois eixos prioritários [§38]</h3>
+<p>O autor foca em duas questões específicas que merecem atenção nos próximos anos: (1) o papel dos partidos políticos na economia política da desigualdade; e (2) a questão dos potenciais trade-offs na responsiveness a desafios de curto e longo prazo. Essas questões são cruciais porque estão relacionadas a diferentes concepções normativas de boa democracia, mais inspiradas por perspectivas europeias. Muitos estudos pioneiros (EUA) carregam pressupostos normativos implícitos sobre democracia (modelo termostático, representação dinâmica). Abordar essas questões é importante para avançar o conhecimento comparativo e para uma reflexão mais profunda sobre as ramificações normativas e políticas dos achados.</p>
+</section>
+</section>
+<section id="os-partidos-políticos-mitigam-ou-exacerbam-as-desigualdades-na-responsiveness-pp.-1215" class="level2" data-number="7">
+<h2 data-number="7" class="anchored" data-anchor-id="os-partidos-políticos-mitigam-ou-exacerbam-as-desigualdades-na-responsiveness-pp.-1215"><span class="header-section-number">7</span> Os partidos políticos mitigam ou exacerbam as desigualdades na responsiveness? (pp.&nbsp;12–15)</h2>
+<section id="perspectiva-americana-partidos-como-distratores-3942" class="level3" data-number="7.1">
+<h3 data-number="7.1" class="anchored" data-anchor-id="perspectiva-americana-partidos-como-distratores-3942"><span class="header-section-number">7.1</span> Perspectiva americana: partidos como distratores [§39–§42]</h3>
+<p>Os estudos pioneiros sobre vieses e desigualdades na responsiveness democrática focaram nos EUA (Bartels 2008; Gilens 2005, 2012). Esse foco veio acompanhado de uma compreensão particular da versão ideal-típica de uma democracia responsiva, resumida no <strong>“modelo termostático”</strong> de feedback e responsiveness (Soroka &amp; Wlezien 2010: 15; Wlezien &amp; Soroka 2012). Nesse modelo, o público responde imediatamente às mudanças políticas ajustando suas preferências, e os formuladores de políticas traduzem rapidamente essas preferências atualizadas em mudanças políticas reais. Na <strong>“representação dinâmica”</strong> (Stimson et al.&nbsp;1995), os formuladores de políticas respondem o mais rápido possível às mudanças no humor público dominante.</p>
+<p>Dessa perspectiva, a responsiveness é maximizada se os formuladores de políticas respondem rapidamente às mudanças na opinião pública geral. Sobre o papel dos partidos políticos, a teoria da representação dinâmica vê os partidos como potenciais distratores: eles podem “quando no poder, promulgar políticas favorecidas por seus apoiadores mais fervorosos, em vez do público em geral” (Burstein 2003: 30). Essa “responsiveness partidária” pode ser mitigada por um alto grau de competição interpartidária, que força os partidos a se moverem em direção ao eleitor mediano. Gilens (2012: 163) considera os partidos como “maximizadores de políticas”, respondendo às preferências do público (e desproporcionalmente ao segmento mais abastado) quando necessário, mas perseguindo suas próprias agendas políticas quando podem. Consequentemente, Gilens espera menos responsiveness quando um partido domina, e mais responsiveness no caso de um Congresso dividido. Assim, a responsiveness democrática é aprimorada quando os partidos são forçados (pela competição eleitoral) a apelar para a opinião pública geral.</p>
+</section>
+<section id="perspectiva-europeia-partidos-como-agregadores-essenciais-4346" class="level3" data-number="7.2">
+<h3 data-number="7.2" class="anchored" data-anchor-id="perspectiva-europeia-partidos-como-agregadores-essenciais-4346"><span class="header-section-number">7.2</span> Perspectiva europeia: partidos como agregadores essenciais [§43–§46]</h3>
+<p>Uma perspectiva muito diferente e contrastante sobre o papel dos partidos políticos é desenvolvida nas teorias de <strong>“governo partidário”</strong> ou <strong>“teoria partidária”</strong> (Castles 1982; Hibbs 1977; Schmidt 1996; Stephens 1979). Essa perspectiva, mais enraizada em perspectivas europeias sobre responsiveness democrática, não apenas espera diferenças notáveis entre as demandas e interesses dos eleitorados de diferentes partidos – ela postula que essas diferenças se refletem em variações nos manifestos eleitorais dos partidos e, em última análise, em suas políticas de governo (Schmidt 1996). Portanto, uma <strong>convergência das posições políticas em direção à posição do eleitor mediano</strong> – embora entendida como próxima do modelo ideal-típico de responsiveness democrática dinâmica na tradição pluralista – é realmente considerada um defeito na responsiveness, pois leva à eliminação de uma escolha efetiva entre alternativas. Kirchheimer (1966) falou famosamente sobre o efeito da “oposição que desaparece” no contexto da primeira Grande Coalizão formal na Alemanha nos anos 1960.</p>
+<p>Da perspectiva da teoria partidária, os partidos políticos não são distrações que impedem legisladores e formuladores de políticas individuais de implementar a vontade do povo. Em vez disso, são considerados elementos de construção integrais e importantes, com a tarefa de agregar as diversas preferências e demandas de diferentes eleitorados em programas eleitorais (mais ou menos) coerentes e – subsequentemente – acordos de coalizão, que são instrumentos cruciais para manter a responsabilização dos formuladores de políticas perante seus eleitores. Um exemplo complementar da literatura mais recente é o estudo de O’Grady (2019) sobre a influência da origem socioeconômica nas posições e no comportamento legislativo de membros do parlamento no Reino Unido. O’Grady argumenta que o deslocamento gradual de parlamentares da classe trabalhadora por “carreiristas” “enfraqueceu consideravelmente a representação dos interesses dos eleitores da classe trabalhadora” (Carnes &amp; Lupu 2023: 546), embora os carreiristas provavelmente sejam mais responsivos às mudanças gerais na opinião pública.</p>
+<p>Esse exemplo destaca as visões quase diametralmente opostas sobre o papel dos partidos políticos em diferentes literaturas. O autor observa que a maioria das pesquisas empíricas existentes sobre responsiveness enviesada adotou pelo menos implicitamente a perspectiva teórica da <strong>representação dinâmica</strong>. Poucos estudos analisaram os “vieses partidários” na responsiveness, especialmente no contexto europeu (ex.: Elsasser et al.&nbsp;2017; Mathisen et al.&nbsp;2023). Estudos nos EUA exploraram diferenças na responsiveness entre democratas e republicanos (Bartels 2008; Ellis 2013; Grossmann et al.&nbsp;2021; Lax et al.&nbsp;2019; Rhodes &amp; Schaffner 2017; Rigby &amp; Wright 2013).</p>
+<p>Da perspectiva da teoria partidária, as <strong>diferenças partidárias na responsiveness</strong> são criticamente importantes para dar peso às escolhas de voto do indivíduo. Igualmente, a questão de saber se e sob quais condições o governo partidário realmente afeta os níveis e as mudanças em diferentes manifestações da desigualdade econômica permanece central (Haselmayer &amp; Horn 2025), pois indica a relevância contínua (ou não) da tomada de decisão democrática na formação de forças estruturais de mudança socioeconômica.</p>
+</section>
+<section id="integrando-as-perspectivas-4750" class="level3" data-number="7.3">
+<h3 data-number="7.3" class="anchored" data-anchor-id="integrando-as-perspectivas-4750"><span class="header-section-number">7.3</span> Integrando as perspectivas [§47–§50]</h3>
+<p>A tarefa teórica à frente é integrar teorias inspiradas nos EUA sobre responsiveness democrática (que enfatizam a opinião pública como força motriz da mudança política) com teorias sobre governo partidário. A questão fundamental de pesquisa é entender melhor o papel dos partidos políticos como contribuintes ou mitigadores das desigualdades na responsiveness. Teorias e desenhos de pesquisa que levam em conta apenas a associação entre preferências individuais e posições políticas dos políticos falham em reconhecer os potenciais efeitos colaterais da <strong>mobilização coletiva</strong>, que pode ser particularmente benéfica para indivíduos com poucos recursos.</p>
+<p>A mobilização efetiva de indivíduos com poucos recursos por meio de partidos de esquerda, sindicatos ou organizações similares poderia, até certo ponto, mitigar e compensar as desvantagens na eficácia política relacionadas aos recursos individuais (Elsasser &amp; Schafer 2023). Evidências indicativas de tal efeito de compensação são dadas pelo fato de que as desigualdades na responsiveness parecem menos pronunciadas em sistemas eleitorais de <strong>representação proporcional (RP)</strong> (Bernauer et al.&nbsp;2015; Huber &amp; Bingham Powell 1994; Kang &amp; Powell 2010), que também são conhecidos por favorecer governos de esquerda e welfare states mais generosos (Iversen &amp; Soskice 2006). Da mesma forma, a configuração institucional dos sistemas de mediação de interesses (corporativismo vs.&nbsp;pluralismo) tem implicações importantes para a responsiveness democrática (Busemeyer 2020), pois instituições corporativistas podem equilibrar desigualdades nas capacidades de mobilização entre interesses especiais e interesses mais difusos e gerais (Kluver &amp; Pickup 2019).</p>
+<p>Prestar mais atenção ao papel da política partidária e das ideologias relacionadas também pode gerar novas perspectivas sobre como a <strong>representação descritiva e substantiva</strong> (Pitkin 1967) se relacionam. A literatura atual sobre desigualdades na responsiveness identificou um viés geral a favor de indivíduos ricos e explica esse viés apontando a falta de representação descritiva nos parlamentos, porque mesmo entre os partidos de esquerda, os membros do parlamento geralmente são altamente educados e têm renda acima da média (Elsasser et al.&nbsp;2021; Grossmann et al.&nbsp;2021). No entanto, embora o background socioeconômico tenha se mostrado com alguns efeitos sobre preferências e decisões políticas entre as elites políticas (Alexiadou 2022; Carnes &amp; Lupu 2023; O’Grady 2019), a <strong>ideologia partidária ainda importa</strong> para os políticos (Pinggera 2021; Wenzelburger &amp; Zohlnhöfer 2021). Mas se a ideologia importa, não está claro se e até que ponto ela pode supercompensar os efeitos de background socioeconômico dos tomadores de decisão individuais, de modo que, no agregado, políticos com diferentes backgrounds partidários continuem a buscar diferentes programas políticos, mesmo que seus perfis socioeconômicos se tornem cada vez mais semelhantes. Além disso, as respostas a essas perguntas provavelmente variam sistematicamente entre diferentes tipos de sistemas políticos, economias políticas e welfare states.</p>
+</section>
+</section>
+<section id="trade-offs-na-responsiveness-a-desafios-de-curto-e-longo-prazo-pp.-1517" class="level2" data-number="8">
+<h2 data-number="8" class="anchored" data-anchor-id="trade-offs-na-responsiveness-a-desafios-de-curto-e-longo-prazo-pp.-1517"><span class="header-section-number">8</span> Trade-offs na responsiveness a desafios de curto e longo prazo (pp.&nbsp;15–17)</h2>
+<section id="o-problema-da-temporalidade-5153" class="level3" data-number="8.1">
+<h3 data-number="8.1" class="anchored" data-anchor-id="o-problema-da-temporalidade-5153"><span class="header-section-number">8.1</span> O problema da temporalidade [§51–§53]</h3>
+<p>Um segundo tópico digno de exploração é o estudo dos <strong>trade-offs na responsiveness a desafios de curto e longo prazo</strong>. Tanto o modelo MR canônico quanto a maioria dos estudos sobre responsiveness focam na responsiveness de curto prazo, negligenciando que a formulação de políticas também se desenrola ao longo de uma dimensão temporal (Jacobs 2016). Isso é importante porque há situações em que a falta de responsiveness a urgências presentes e de curto prazo envolve, na verdade, a maximização da responsiveness a necessidades de longo prazo. Peter Mair (2013) falou sobre a justaposição entre governo “responsivo” e “responsável”. Além do fato de que continua sendo desafiador identificar quais políticas devem ser consideradas “responsáveis”, uma abordagem mais normativa sugere que a tomada de decisão democrática também deve ser responsiva no longo prazo. A questão crucial é como os trade-offs entre a perspectiva de curto e longo prazo são abordados e resolvidos. Dado que a maior parte dos estudos se concentra na responsiveness dinâmica no curto prazo, há pouco conhecimento sobre essa questão.</p>
+</section>
+<section id="conexões-com-a-desigualdade-5456" class="level3" data-number="8.2">
+<h3 data-number="8.2" class="anchored" data-anchor-id="conexões-com-a-desigualdade-5456"><span class="header-section-number">8.2</span> Conexões com a desigualdade [§54–§56]</h3>
+<p>A questão dos trade-offs entre responsiveness de curto e longo prazo está relacionada à desigualdade de diferentes maneiras. Primeiro, respostas políticas mais eficazes à desigualdade, como a <strong>expansão de investimentos educacionais</strong>, são frequentemente prejudicadas por urgências de curto prazo, como priorizar cortes fiscais ou gastos em políticas compensatórias (Bremer &amp; Bürgisser 2023; Busemeyer &amp; Garritzmann 2017). Em segundo lugar, ao examinar as desigualdades na responsiveness da formulação de políticas, a <strong>busca de objetivos políticos de longo prazo</strong> (ex.: expansão de políticas de investimento social ou investimento em mitigação das mudanças climáticas) pode reforçar ou até exacerbar as desigualdades na responsiveness de curto prazo. Há evidências indicativas iniciais de que indivíduos altamente educados e de alta renda tendem a ser mais favoráveis ao investimento social (Beramendi et al.&nbsp;2015; Garritzmann et al.&nbsp;2018) e a políticas orientadas para o futuro em geral (Busemeyer 2024). Se confirmado em pesquisas futuras, um maior grau de responsiveness às demandas políticas focadas no longo prazo poderia reforçar os vieses existentes contra grupos de baixa renda.</p>
+<p>Todos os estudos citados acima têm em comum que estão preocupados em medir a responsiveness a preocupações de curto prazo no presente, o que pode estar relacionado à influência teórica das teorias de representação dinâmica. De uma perspectiva um pouco diferente, uma questão interessante para pesquisas futuras é se a <strong>maximização da responsiveness democrática no curto prazo</strong> poderia levar a uma diminuição da capacidade de solução de problemas dos sistemas políticos no longo prazo, o que poderia ser interpretado como uma diminuição da responsiveness de longo prazo. A questão das mudanças climáticas é um bom exemplo: se os formuladores de políticas maximizam a responsiveness no curto prazo, promulgando políticas menos rigorosas de mitigação climática, essas ações podem diminuir a capacidade de solução de problemas do sistema no longo prazo ou levar a custos de adaptação mais altos. No entanto, buscar políticas mais rigorosas de mitigação climática pode exacerbar as desigualdades na responsiveness no curto prazo. O apoio a políticas climáticas mais ambiciosas é positivamente correlacionado com a renda individual, mas o apoio a tais políticas pode ser aumentado entre indivíduos de baixa renda se vinculado a questões de redistribuição e desigualdade (Beiser-McGrath &amp; Busemeyer 2024; Hedegaard &amp; Kongshoj 2026).</p>
+</section>
+<section id="dimensões-normativa-e-empírica-5760" class="level3" data-number="8.3">
+<h3 data-number="8.3" class="anchored" data-anchor-id="dimensões-normativa-e-empírica-5760"><span class="header-section-number">8.3</span> Dimensões normativa e empírica [§57–§60]</h3>
+<p>A questão dos trade-offs na responsiveness a desafios de curto e longo prazo tem um componente normativo e um componente empírico. Do ponto de vista normativo, requer relatos teóricos de como os interesses divergentes e potencialmente conflitantes das gerações presentes e futuras podem ser equilibrados, mantendo os princípios da tomada de decisão democrática (MacKenzie 2016; Thompson 2010). Responder a essa questão é desafiador porque levar em conta as necessidades de gerações futuras que podem nem ter nascido ainda exige “porta-vozes honestos” para essas necessidades futuras, que podem, no entanto, ser percebidos como tecnocratas antidemocráticos ou representantes de interesses de elite no curto prazo.</p>
+<p>Do ponto de vista empírico, os estudiosos começaram a explorar trade-offs em atitudes de nível individual entre políticas de curto e longo prazo (Bremer &amp; Bürgisser 2023; Busemeyer 2024; Busemeyer &amp; Beiser-McGrath 2024; Busemeyer &amp; Garritzmann 2017; Häusermann et al.&nbsp;2019; Jacobs &amp; Matthews 2012, 2017), em parte com o objetivo de avaliar o grau de “curtoprazismo” na tomada de decisão política. Outros trabalhos focaram mais no nível da formulação de políticas real (Jacobs 2011, 2016). Até agora, essa literatura nascente sobre a “Política do Quando” (Jacobs 2008) não prestou muita atenção à questão da desigualdade, no entanto, embora haja vários pontos de conexão interessantes que merecem exploração adicional.</p>
+<p>O primeiro ponto de conexão é a questão de saber se a maximização da responsiveness a desafios de longo prazo está associada a <strong>desigualdades acentuadas na responsiveness a preocupações de curto prazo</strong>, como mencionado acima. Por exemplo, indivíduos de alta renda e alta escolaridade são mais propensos a apoiar ações decisivas contra as mudanças climáticas (Beiser-McGrath &amp; Busemeyer 2024) e políticas de investimento social (Busemeyer &amp; Tober 2023) – ambas políticas que provavelmente terão efeitos positivos na capacidade de solução de problemas do sistema político para lidar com desafios de longo prazo. No entanto, de uma perspectiva de curto prazo, priorizar políticas ambientais e de investimento social poderia ser percebido como (e de fato é) uma responsiveness enviesada em favor das demandas de indivíduos de alto status socioeconômico.</p>
+<p>Uma segunda questão relacionada é se a existência de um alto grau de desigualdade no presente tem um efeito sobre o <strong>apoio público a políticas orientadas para o longo prazo</strong>. Os indivíduos podem estar mais inclinados a priorizar preocupações de curto prazo em contextos de alta desigualdade, especialmente na metade inferior da distribuição de renda, de modo que a desigualdade se torna um obstáculo efetivo à mobilização de apoio para políticas de investimento de longo prazo. Essas últimas políticas (educação ou outras políticas de investimento social) podem ser mais eficazes na mitigação da desigualdade no longo prazo, mas sua implementação pode ser dificultada pela maximização de urgências de curto prazo em contextos precários – outro exemplo de como o “doom loop” da desigualdade auto-reforçadora se manifesta, desta vez levando em conta a dimensão temporal. Indicações da existência de tal dinâmica são fornecidas por estudos recentes sobre a consequência da rápida mudança tecnológica, que mostram que indivíduos cujos empregos estão sob alto risco de automação preferem políticas sociais compensatórias com efeitos de compensação imediata em vez de políticas de investimento social orientadas para o longo prazo (Busemeyer &amp; Tober 2023; Kurer &amp; Häusermann 2022). A implicação macro dessa relação micro é a existência de uma <strong>relação negativa entre o grau de desigualdade e a provisão em nível nacional de políticas de investimento social orientadas para o longo prazo</strong>.</p>
+</section>
+</section>
+<section id="tópicos-emergentes-adicionais-pp.-1719" class="level2" data-number="9">
+<h2 data-number="9" class="anchored" data-anchor-id="tópicos-emergentes-adicionais-pp.-1719"><span class="header-section-number">9</span> Tópicos emergentes adicionais (pp.&nbsp;17–19)</h2>
+<section id="desigualdades-locais-place-based-inequalities-6163" class="level3" data-number="9.1">
+<h3 data-number="9.1" class="anchored" data-anchor-id="desigualdades-locais-place-based-inequalities-6163"><span class="header-section-number">9.1</span> Desigualdades locais (“place-based inequalities”) [§61–§63]</h3>
+<p>Além dos dois tópicos discutidos extensivamente, há várias outras questões importantes de pesquisa. A primeira é o papel dos <strong>contextos locais e das desigualdades baseadas no lugar</strong> na formação das respostas políticas à desigualdade. Como observado por Pontusson (2025: 30), a estabilização das tendências gerais de desigualdade na última década veio acompanhada de um aumento da desigualdade entre diferentes regiões dentro dos países, especialmente na Europa Ocidental. Trabalhos anteriores já haviam argumentado fortemente a favor do foco no nível local (Newman et al.&nbsp;2015). Pesquisas mais recentes começaram a explorar as conexões profundas entre privação econômica local e percepções de declínio cultural como fatores que impulsionam conjuntamente o apoio ao populismo de direita (Arzheimer et al.&nbsp;2024; Huijsmans 2023). Outras pesquisas na tradição da economia política estudam as implicações políticas das economias de conhecimento locais para percepções de mobilidade social e política partidária (Iversen &amp; Soskice 2019; Berriochoa &amp; Busemeyer 2026).</p>
+<p>A disponibilidade crescente de dados mais granulares (surveys, administrativos) fornece meios empíricos para prestar mais atenção aos contextos locais. Questões teóricas: (a) <strong>quais tipos de contextos são mais importantes</strong>? Há um argumento de que os contextos de desigualdade local são particularmente influentes, pois os indivíduos têm maior probabilidade de perceber seus arredores imediatos. No entanto, a política partidária da desigualdade ainda se desenrola principalmente no palco da política nacional, e diferentes tipos de mídia (social, legada) podem desempenhar um papel significativo na ampliação da visibilidade das manifestações da desigualdade acima do nível local. (b) <strong>A relação entre desigualdade local e privação regional</strong>: a importância dos contextos locais está mais relacionada à exposição a diferentes níveis de desigualdade dentro de localidades específicas ou às desigualdades entre diferentes localidades? A literatura sobre desigualdade baseada no lugar está mais preocupada com desigualdades crescentes entre regiões em declínio e prósperas, enquanto a literatura sobre desigualdade local argumenta mais a favor da atenção aos níveis locais de desigualdade. Ambas são questões em aberto.</p>
+</section>
+<section id="multidimensionalidade-da-desigualdade-6466" class="level3" data-number="9.2">
+<h3 data-number="9.2" class="anchored" data-anchor-id="multidimensionalidade-da-desigualdade-6466"><span class="header-section-number">9.2</span> Multidimensionalidade da desigualdade [§64–§66]</h3>
+<p>Um tópico mais amplo, relacionado à discussão sobre desigualdade baseada no lugar, é a <strong>natureza multidimensional da desigualdade</strong> e suas implicações políticas. Mesmo mantendo o foco nas dimensões econômicas da desigualdade, os estudiosos apontam cada vez mais as relações complexas e profundas entre dimensões econômicas e culturais da desigualdade, especialmente na literatura sobre populismo de direita (Arzheimer et al.&nbsp;2024; Gidron &amp; Hall 2020). Essa complexidade se reflete no trabalho sobre a natureza multidimensional da política partidária (Häusermann et al.&nbsp;2013): a competição partidária na dimensão econômica da redistribuição não pode mais ser analisada separadamente e isoladamente dos conflitos ao longo da segunda linha principal de conflito partidário em democracias economicamente avançadas, que se concentra mais em conflitos relacionados a valores e não econômicos (Horn et al.&nbsp;2026; Tavits &amp; Potter 2015). Mesmo no nível das preferências individuais, trabalhos recentes mostraram que o autointeresse econômico pode ser um determinante poderoso, mas não o único, das preferências, pois normas e valores sobre a merecimento de determinados beneficiários do welfare state e ideologias relacionadas também moldam fortemente as preferências (Attewell 2022).</p>
+<p>Uma questão crucial para pesquisas futuras é obter insights mais gerais sobre a <strong>importância relativa dos aspectos econômicos versus não econômicos</strong> na formação da política da desigualdade. Potencialmente, é possível identificar condições de contexto que afetam essa importância relativa. Alguns pesquisadores começaram a explorar framing partidário e discursos de elite (Horn et al.&nbsp;2026; Tavits &amp; Potter 2015), mas os próprios fatores econômicos também podem ser um fator condicionante. Por exemplo, vinculando essa discussão à acima sobre desigualdades baseadas no lugar, a privação econômica local e queixas relacionadas podem desencadear contrarreações políticas e protestos motivados por (auto)interesse econômico (Newman et al.&nbsp;2015), enquanto a afluência econômica local pode aumentar a saliência de questões não econômicas relacionadas a valores sociais e identidade (Zollinger 2024). Pesquisas futuras poderiam explorar esses tópicos.</p>
+</section>
+</section>
+<section id="conclusão-pp.-1921" class="level2" data-number="10">
+<h2 data-number="10" class="anchored" data-anchor-id="conclusão-pp.-1921"><span class="header-section-number">10</span> Conclusão (pp.&nbsp;19–21)</h2>
+<section id="síntese-e-reflexão-final-6770" class="level3" data-number="10.1">
+<h3 data-number="10.1" class="anchored" data-anchor-id="síntese-e-reflexão-final-6770"><span class="header-section-number">10.1</span> Síntese e reflexão final [§67–§70]</h3>
+<p>O artigo retoma os dois objetivos. Na primeira parte, forneceu uma visão geral densa (mas necessariamente incompleta) do desenvolvimento da CPEI nas últimas décadas: desde a pesquisa sobre a importância dos recursos de poder e instituições como determinantes políticos da desigualdade até pesquisas mais recentes sobre percepções e preferências sobre a desigualdade, bem como desigualdades na responsiveness. Na segunda parte, discutiu duas questões que, em sua opinião, são prementes para o desenvolvimento da agenda de pesquisa da CPEI: (1) o papel dos partidos políticos na influência da responsiveness da formulação de políticas; (2) a questão dos trade-offs entre curto e longo prazo na responsiveness democrática. A pesquisa existente é quase exclusivamente focada em questões de responsiveness a demandas e necessidades presentes. No entanto, dadas as prementes desafios de longo prazo (mudança climática, economia do conhecimento), é importante refletir sobre como os formuladores de políticas <em>deveriam</em> (normativo) e <em>como</em> (empírico) responder a esses desafios. A seção de agenda também comentou brevemente sobre tópicos adicionais (desigualdades baseadas no lugar, multidimensionalidade).</p>
+<p>O autor reflete sobre essas prioridades de pesquisa no contexto das tendências atuais da desigualdade. Como Pontusson (2025: 28-30) e outros notaram, as trajetórias de desenvolvimento dessas tendências na última década apontam mais para uma <strong>estabilização dos níveis de desigualdade</strong> do que para uma tendência ascendente contínua, pelo menos para a maioria dos países europeus. Tendências estáveis de desigualdade no nível do país podem esconder desigualdades regionais significativas, e as percepções subjetivas da tendência da desigualdade podem divergir significativamente dos desenvolvimentos objetivos. Apesar dessas ressalvas, a perspectiva do “doom loop” da desigualdade auto-reforçadora pode ser considerada pessimista demais, especialmente quando se olha para o futuro.</p>
+<p>O autor concorda com a aspiração de desenvolver novas questões de pesquisa mais preocupadas em identificar instâncias e exemplos empíricos de como a dinâmica auto-reforçadora da desigualdade foi transformada em uma <strong>dinâmica política de mitigação da desigualdade</strong>. Essa aspiração provavelmente exigirá ir além da desigualdade econômica estritamente definida e prestar mais atenção à natureza multidimensional da desigualdade. Também levanta a questão de como a confiança dos eleitores preocupados com o declínio econômico e a privação relativa nas instituições da democracia partidária representativa pode ser restaurada ou pelo menos mantida. E exige prestar mais atenção à capacidade das democracias de lidar efetivamente com desafios de longo prazo, como as mudanças climáticas e o avanço da economia do conhecimento.</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Encerramento</strong>: O estudo da economia política comparada da desigualdade evoluiu de um campo emergente para um campo bastante maduro nos últimos 25 anos, e a <em>West European Politics</em> como periódico desempenhou um papel importante nesse processo. O autor prevê que o periódico continuará sendo um fórum de discussão influente nos próximos anos, pois a CPEI continua a produzir questões de pesquisa novas e interessantes.</p>
+</div>
+</div>
+</section>
+</section>
+<section id="argumento-sintético" class="level2" data-number="11">
+<h2 data-number="11" class="anchored" data-anchor-id="argumento-sintético"><span class="header-section-number">11</span> Argumento Sintético</h2>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Tese central</strong>: O campo da economia política comparada da desigualdade (CPEI) amadureceu ao demonstrar que (a) a desigualdade é moldada por fatores políticos (instituições, recursos de poder, partidos) e (b) a desigualdade, por sua vez, retroalimenta a política (percepções viesadas, redução da participação dos pobres, responsiveness enviesada a favor dos ricos), gerando um ciclo de auto-reforço (“doom loop”). Para transformar esse ciclo em um de mitigação, a pesquisa futura deve focar no papel dos partidos políticos (contrastando as tradições americana e europeia de responsiveness) e nos trade-offs entre responsiveness de curto e longo prazo.</p>
+<p><strong>Natureza do argumento</strong>: O artigo é uma <strong>revisão seletiva da literatura</strong> com uma <strong>proposição de agenda normativa e empírica</strong>. O autor não testa hipóteses, mas sintetiza achados de primeira e segunda geração da CPEI para extrair um padrão dominante (auto-reforço) e identificar lacunas (papel dos partidos, temporalidade).</p>
+<p><strong>O que o artigo demonstra</strong>: (1) A política importa para a desigualdade – instituições de mercado de trabalho, recursos de poder da esquerda e welfare states reduzem a desigualdade. (2) A desigualdade afeta percepções (viés centrista, aceitação da meritocracia), reduz a demanda por redistribuição e a participação eleitoral dos pobres, e alimenta o populismo de direita. (3) A responsiveness da formulação de políticas é enviesada a favor dos ricos, e esse viés é parcialmente explicado por percepções viesadas das elites. (4) Existe um ciclo de feedback que perpetua a desigualdade.</p>
+<p><strong>O que fica como hipótese ou agenda</strong>: (1) A proposição de que os partidos políticos podem mitigar desigualdades na responsiveness (via mobilização coletiva, representação proporcional, corporativismo) não é testada, mas sim sugerida como hipótese. (2) A existência de trade-offs sistemáticos entre responsiveness de curto e longo prazo, e a possibilidade de que políticas de longo prazo (investimento social, clima) possam exacerbar vieses de curto prazo, são hipóteses a serem exploradas. (3) A importância relativa de desigualdades locais vs.&nbsp;nacionais na formação de preferências é uma questão em aberto.</p>
+<p><strong>Contribuição para o debate mais amplo</strong>: O artigo avança em relação a revisões anteriores ao (i) integrar explicitamente as causas e consequências da desigualdade em um ciclo de feedback, (ii) contrastar as tradições americana (dynamic representation) e europeia (party government) sobre responsiveness, e (iii) trazer a temporalidade (trade-offs curto/longo prazo) para o centro da agenda da CPEI. A principal contribuição normativa é questionar a suposição implícita de que maximizar a responsiveness de curto prazo é sempre desejável, abrindo espaço para discutir “governo responsável” (Mair) e necessidades de gerações futuras.</p>
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>Annotated Bibliography</category>
+  <category>Political Economy</category>
+  <category>Inequality</category>
+  <category>Welfare State/Social Policy</category>
+  <category>Political Parties</category>
+  <category>2026</category>
+  <category>2020s</category>
+  <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Busemeyer2026.html</guid>
+  <pubDate>Sat, 06 Jun 2026 03:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Fichamento: Coffee Planters, Workers and Wives</title>
   <dc:creator>Tales Mançano</dc:creator>
@@ -8924,608 +9400,6 @@ Note
   <category>Higher Education Policy</category>
   <category>Welfare State/Social Policy</category>
   <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Ansell2008.html</guid>
-  <pubDate>Sat, 09 May 2026 03:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Fichamento: Skills and Inequality: Partisan Politics and the Political Economy of Education Reforms in Western Welfare States</title>
-  <dc:creator>Tales Mançano</dc:creator>
-  <link>https://mancano-tales.github.io/Annotated-Bibliography/posts/Busemeyer2015.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Busemeyer, M. R. (2015). <em>Skills and inequality: Partisan politics and the political economy of education reforms in Western welfare states</em>. Cambridge University Press.</p>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Entrada BibTeX → Busemeyer2015
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
-background-color: null;
-font-style: inherit;">@book</span>{<span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">Busemeyer2015</span>,</span>
-<span id="cb1-2"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">author</span>    = {Busemeyer, Marius R.},</span>
-<span id="cb1-3"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">title</span>     = {Skills and Inequality: Partisan Politics and the Political Economy of Education Reforms in Western Welfare States},</span>
-<span id="cb1-4"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">year</span>      = {2015},</span>
-<span id="cb1-5"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">publisher</span> = {Cambridge University Press},</span>
-<span id="cb1-6"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">address</span>   = {Cambridge},</span>
-<span id="cb1-7"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">isbn</span>      = {978-1-107-06293-1},</span>
-<span id="cb1-8">}</span></code></pre></div></div>
-</div>
-</div>
-</div>
-<p>Última atualização: 2026-05-09 Modelo: Perplexity, powered by Claude Sonnet 4.6 Prompt Version: v17.2 2026-05-08 | Ficha antes do fichamento Gerado em: 2026-05-09T20:00:00-03:00 Ocasião da Leitura:</p>
-<hr>
-<section id="ficha-analítica-crítica" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="ficha-analítica-crítica">Ficha Analítica Crítica</h2>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Esta seção segue o formato <em>IA Planilhando Textos v17.2</em>.</p>
-</div>
-</div>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Ficha Analítica — Tabela Markdown
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-3" class="callout-3-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<table class="caption-top table">
-<colgroup>
-<col style="width: 23%">
-<col style="width: 52%">
-<col style="width: 23%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Dimensão</th>
-<th style="text-align: left;">Raciocínio analítico</th>
-<th style="text-align: left;">Conteúdo</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Questão de Pesquisa</td>
-<td style="text-align: left;">A premissa central é que a educação foi negligenciada como componente integral do Estado de bem-estar, em parte por tratar-se de um bem com lógica redistributiva ambígua (Wilensky 1975). O ponto vulnerável está em como a pergunta se desdobra em dois subproblemas analiticamente distintos — determinantes e consequências — que o livro costura via ciclo de políticas públicas. Interpretação alternativa: a divergência entre regimes poderia ser atribuída prioritariamente a legados pré-industriais ou dotações de recursos, não a escolhas partidárias postguerra.</td>
-<td style="text-align: left;">Por que países com pontos de partida institucionais similares no pós-guerra desenvolveram regimes de educação e formação profissional tão distintos, e quais as consequências dessas escolhas institucionais para a desigualdade socioeconômica e as atitudes populares em relação ao Estado de bem-estar?</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Questões Secundárias</td>
-<td style="text-align: left;">Os subproblemas são funcionalmente complementares, não concorrentes. O risco é que a terceira questão (atitudes) tenha um alcance causal mais limitado do que as duas primeiras, dada a disponibilidade restrita de dados longitudinais de opinião pública.</td>
-<td style="text-align: left;">(1) Que coalizões político-econômicas explicam a expansão e o formato institucional da educação pós-secundária? (2) Como o design institucional do sistema educacional afeta a desigualdade socioeconômica contemporânea? (3) Como as instituições educacionais moldam as preferências individuais sobre gastos com educação e redistribuição?</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Puzzle-Type</td>
-<td style="text-align: left;">Puzzle explicativo com forte componente descritivo-comparativo. O paradoxo entre desigualdade <em>educacional</em> alta (Alemanha) e desigualdade <em>socioeconômica</em> moderada é genuíno e generalizável além dos três casos selecionados. Contudo, sua resolução por meio da distinção escola×empresa na VET é uma hipótese parcialmente já desenvolvida em Busemeyer &amp; Iversen (2012); o caráter de “descoberta” do livro reside na escala e na integração dos três eixos.</td>
-<td style="text-align: left;">Puzzle explicativo combinado com gap descritivo-interdisciplinar: a desigualdade educacional não se traduz automaticamente em desigualdade socioeconômica, e esse paradoxo — ignorado pela economia política por tratar educação como variável de controle e pela sociologia educacional por não observar resultados de mercado de trabalho — estrutura a segunda parte do livro.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Conclusão / Argumento Central</td>
-<td style="text-align: left;">O argumento é causal-comparativo com mecanismo mediado: política partidária → design institucional → desigualdade e atitudes. O <em>claim of discovery</em> mais robusto é a distinção tripartite entre social-democratas, democratas-cristãos e conservadores na explicação da VET, e o efeito diferenciado de VET escola-base vs.&nbsp;empresa-base sobre a desigualdade. O que <em>efetivamente</em> sustenta o argumento é a combinação de estudos de caso históricos com regressões de painel e multinível.</td>
-<td style="text-align: left;">A tese central é que os regimes educacionais dos países ocidentais espelham os mundos do capitalismo de bem-estar porque foram forjados pelas mesmas coalizões políticas no pós-guerra; que a política partidária — em contexto institucional — explica a variação nos regimes de formação de habilidades; e que as escolhas institucionais passadas estruturam padrões contemporâneos de desigualdade e atitudes populares, gerando dependências de trajetória.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Métodos</td>
-<td style="text-align: left;">O design multimétodo é uma força, mas cria tensões internas. Os estudos de caso são mais convincentes como ilustração do que como testes de mecanismo (process-tracing não formalizado). As regressões de painel com PCSE enfrentam o problema clássico de muitas poucas observações e forte dependência histórica das variáveis de VET. O fichamento cobre a <strong>obra completa</strong> (Introdução + 6 capítulos + Apêndice de dados).</td>
-<td style="text-align: left;">Multi-método: (1) Estudos de caso histórico-comparados (Suécia, Alemanha, Reino Unido); (2) Análise quantitativa de dados agregados cross-nacionais (regressões cross-seccionais e de painel com PCSE, período 1993–2008, amostra de democracias industriais da OCDE); (3) Análise quantitativa de microdados de surveys (regressões multinível com dados ISSP 2006 e Eurobarômetro 62.1, 2004).</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Data Generation Process (DGP)</td>
-<td style="text-align: left;">As variáveis-chave de VET (matrícula, proporção de aprendizes) são agregadas por país e dependem de como a OCDE classifica diferentes sistemas nacionais, introduzindo erro de mensuração não aleatório. Os dados de opinião pública cobrem apenas os últimos 10–15 anos (2004–2006), o que impede testar diretamente o mecanismo de feedback ao longo do tempo. A seleção dos três estudos de caso (Suécia, Alemanha, RU) privilegia casos “limpos” do argumento, excluindo casos desviantes como Itália ou os países nórdicos além da Suécia.</td>
-<td style="text-align: left;">Fenômeno: variação institucional em regimes de educação e formação → Observação: dados de matrículas, gastos públicos/privados (OCDE, 1997–2008), histórico legislativo nos estudos de caso, e respostas de surveys (ISSP, Eurobarômetro) → Operacionalização: VET share, apprenticeship share, private share of education spending, Gini, wage dispersion, preferências por gasto público → Inferência: regressional (associação) nos caps. 3–5; causal-histórica nos estudos de caso do cap. 2. Unidade de análise: país-ano (caps. 3–4) e indivíduo aninhado em país (cap. 5).</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Achados e Contribuições</td>
-<td style="text-align: left;">Os achados do cap. 3 são fortes com relação à variável de gasto privado (bem mensurada e com variação clara). Os do cap. 4 sobre desigualdade de salários são mais convincentes do que os sobre desemprego juvenil, cujos resultados divergem conforme a especificação. O cap. 5 avança genuinamente ao mostrar que os microfundamentos das preferências variam de forma sistemática com o contexto institucional macronível.</td>
-<td style="text-align: left;">Empiricamente: (1) democracias-cristãs governando com altas doses de coordenação econômica produzem VET coletiva; social-democratas produzem VET estatal-escolar; conservadores promovem ensino superior privado. (2) VET pública reduz desigualdade salarial; VET por aprendizagem reduz desemprego juvenil, mas não desigualdade. (3) Alta estratificação educacional eleva suporte dos ricos por gasto público em educação; maior gasto privado reduz apoio à redistribuição. Contribuição teórica: extensão contextualizada da teoria partidária; distinção tripartite de famílias partidárias; integração do ciclo de políticas da política comparada.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Análise Crítica dos Achados</td>
-<td style="text-align: left;">(a) <strong>Viés de seleção de casos</strong>: os três países (Suécia, Alemanha, RU) são casos prototípicos dos três regimes, não casos “difíceis”; a teoria não é testada contra desvios. (b) <strong>Confundidores</strong>: o longo período histórico analisado torna difícil controlar industrialização diferencial, estrutura religiosa, federalismo, sem que as variáveis de controle nas regressões de painel o façam adequadamente. (c) <strong>Reversão causal</strong>: no cap. 4, é plausível que países com maior desigualdade de renda optem por sistemas educacionais mais estratificados (não o inverso), e as especificações cross-seccionais não resolvem esse problema. (d) <strong>Causalidade vs.&nbsp;associação</strong>: a linguagem causal usada ao longo do livro (“institutional choices shape inequality”) vai além do que os designs de regressão identificam; o autor reconhece parcialmente isso. (e) <strong>Generalizabilidade</strong>: os scope conditions são limitados à Europa Ocidental do pós-guerra; o próprio autor exclui Europa Oriental, América Latina e Leste Asiático. (f) <strong>Feedback de atitudes</strong>: o cap. 5 mostra associações cross-sectionais de preferências com contexto institucional, mas o mecanismo de retroalimentação que estabiliza trajetórias ao longo do tempo fica como agenda, não demonstração.</td>
-<td style="text-align: left;">O autor responde razoavelmente bem à pergunta central para o caso europeu ocidental, com o argumento teórico sobre democracias-cristãs sendo o ponto mais original e bem sustentado. Os elos mais vulneráveis são: (1) a inferência causal nos caps. 4–5, que permanece fundamentalmente correlacional; (2) a ausência de um teste de mecanismo formal nos estudos de caso históricos do cap. 2.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Limitações</td>
-<td style="text-align: left;"><strong>Reconhecidas pelos autores:</strong> Cobertura geográfica limitada à OCDE ocidental; dados de aprendizagem disponíveis apenas para subconjunto de países; inexistência de surveys de opinião pública para o período histórico de formação dos regimes; escopo da teoria não inclui Europa Oriental. <strong>Não reconhecidas ou subestimadas:</strong> A ausência de tratamento da endogeneidade das variáveis educacionais em relação à desigualdade (cap. 4); a ausência de análise de casos desviantes como Itália dentro do universo europeu ocidental (mencionada brevemente, mas não desenvolvida); o problema de que os dados de matrícula da OCDE capturam sobretudo insumos (quantidade), não qualidade dos sistemas de VET, o que compromete a validade de conteúdo da variável central.</td>
-<td style="text-align: left;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Perspectiva Teórica</td>
-<td style="text-align: left;">A moldura é coerente: o autor transita entre institucionalismo histórico (path dependency, Pierson, Thelen) e teoria partidária (Hibbs, Schmidt, Van Kersbergen), integrando elementos de VoC (Hall &amp; Soskice). A ontologia é moderadamente estruturalista — as coalizões importam, mas dentro de contextos institucionais que constrangem as opções. A principal coerência interna é que a mesma lógica de “partisan politics in context” é aplicada tanto à formação do regime (caps. 1–3) quanto ao seu sustento (caps. 4–5 via feedback de atitudes).</td>
-<td style="text-align: left;">Institucionalismo histórico + teoria partidária contextualizada + fragmentos de VoC. A moldura é adequada ao tipo de pergunta comparativa-histórica. Coerência entre ontologia implícita (agência dentro de estrutura; legados institucionais importam) e método (estudos de caso + painel).</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Principais Referências</td>
-<td style="text-align: left;">Esping-Andersen (1990) é o principal interlocutor estruturante; Thelen (2004), Hall &amp; Soskice (2001) e Iversen &amp; Stephens (2008) são os diálogos centrais. O livro dialoga de forma equilibrada com a literatura, embora a interface com a sociologia educacional (Blossfeld &amp; Shavit, Pfeffer) seja instrumentalizada na Parte II mas não aprofundada teoricamente.</td>
-<td style="text-align: left;">Esping-Andersen (1990); Thelen (2004); Hall &amp; Soskice (2001); Iversen &amp; Stephens (2008); Pierson (2004); Van Kersbergen (1995, 1999); Bradley et al.&nbsp;(2003); Est´evez-Abe et al.&nbsp;(2001); Pfeffer (2008); Goldin &amp; Katz (2008).</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Observações</td>
-<td style="text-align: left;">O PDF cobre a obra completa. A principal vulnerabilidade teórica adicional é que o argumento sobre democracias-cristãs, embora original, depende da tripartição SDem/DCristã/Conservador que pode ser difícil de operacionalizar em sistemas multipartidários fora da Europa continental. Para a pesquisa do leitor (políticas de ensino superior brasileiro), o livro é diretamente relevante para discutir como a ausência de um sistema de VET robusto no Brasil se articula com a expansão massiva do ensino superior privado e com padrões de desigualdade salarial — embora o argumento de Busemeyer seja estritamente válido para democracias industriais ocidentais do pós-guerra.</td>
-<td style="text-align: left;"></td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-</div>
-<hr>
-</section>
-<section id="mapa-argumentativo" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="mapa-argumentativo">Mapa Argumentativo</h2>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 13%">
-<col style="width: 10%">
-<col style="width: 29%">
-<col style="width: 45%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Capítulo</th>
-<th style="text-align: left;">Título</th>
-<th style="text-align: left;">Função argumentativa</th>
-<th style="text-align: left;">Contribuição para a tese central</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Introdução</td>
-<td style="text-align: left;"><em>Skills and Inequality: Common Origins, Different Paths</em></td>
-<td style="text-align: left;">Apresentação do puzzle e da tese</td>
-<td style="text-align: left;">Estabelece o ponto de partida empírico (similaridade institucional pós-guerra, divergência posterior), enuncia a tese tripartite (política, resultados, atitudes), apresenta estrutura do livro</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Cap. 1</td>
-<td style="text-align: left;"><em>Theoretical Framework: Partisan Politics in Context</em></td>
-<td style="text-align: left;">Fundamento teórico</td>
-<td style="text-align: left;">Desenvolve a moldura analítica: dimensões de de-commodification e estratificação na educação; revisão crítica de VoC, institucionalismo histórico e teoria de recursos de poder; extensão contextualizada da teoria partidária com distinção tripartite SDem/DCristão/Conservador</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Cap. 2</td>
-<td style="text-align: left;"><em>The Politics of Education and Training Reform: Case Studies</em></td>
-<td style="text-align: left;">Estudo de caso comparativo</td>
-<td style="text-align: left;">Aplica o framework a Suécia (regime estatista), Reino Unido (regime liberal) e Alemanha (regime coletivo), rastreando como coalizões do pós-guerra moldaram trajetórias institucionais divergentes</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Cap. 3</td>
-<td style="text-align: left;"><em>Worlds of Skill Formation: Cross-National Quantitative Analysis</em></td>
-<td style="text-align: left;">Análise empírica — quantitativa macro</td>
-<td style="text-align: left;">Confirma via regressões cross-seccionais e de painel (OCDE) a centralidade da política partidária e da coordenação econômica nos determinantes de VET e financiamento privado; identifica três clusters de países</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Cap. 4</td>
-<td style="text-align: left;"><em>Educational Institutions and Socioeconomic Inequality</em></td>
-<td style="text-align: left;">Análise empírica — resultados</td>
-<td style="text-align: left;">Demonstra que instituições educacionais (VET pública vs.&nbsp;aprendizagem; divisão público/privado no financiamento) são determinantes relevantes da desigualdade salarial e do desemprego juvenil, unindo literatura de economia política com sociologia educacional</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Cap. 5</td>
-<td style="text-align: left;"><em>The Impact of Educational Institutions on Popular Attitudes and Preferences</em></td>
-<td style="text-align: left;">Análise empírica — micro-fundamentos</td>
-<td style="text-align: left;">Documenta efeitos de feedback das instituições educacionais sobre preferências individuais por gasto em educação e redistribuição, fornecendo micro-fundamentos para a estabilidade das trajetórias institucionais</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Cap. 6</td>
-<td style="text-align: left;"><em>Conclusion</em></td>
-<td style="text-align: left;">Síntese e agenda</td>
-<td style="text-align: left;">Sintetiza a contribuição da obra ao debate sobre Estado de investimento social e “corrida entre educação e tecnologia”; aponta lacunas em educação infantil e aprendizagem ao longo da vida como agenda futura</td>
-</tr>
-</tbody>
-</table>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Important</span>Divergências internas
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Nenhuma divergência substantiva identificada. Trata-se de monografia de autor único com argumento internamente consistente. A principal tensão interna é metodológica, não substantiva: a Parte I usa inferência causal histórica (estudos de caso), enquanto a Parte II usa regressões correlacionais, e a integração entre essas duas estratégias é anunciada pelo autor como contribuição inovadora, mas o elo formal entre os dois conjuntos de análise permanece implícito.</p>
-</div>
-</div>
-<hr>
-</section>
-<section id="prefácio-e-agradecimentos" class="level2" data-number="1">
-<h2 data-number="1" class="anchored" data-anchor-id="prefácio-e-agradecimentos"><span class="header-section-number">1</span> Prefácio e Agradecimentos</h2>
-<section id="origem-intelectual-e-motivação-13" class="level3" data-number="1.1">
-<h3 data-number="1.1" class="anchored" data-anchor-id="origem-intelectual-e-motivação-13"><span class="header-section-number">1.1</span> Origem intelectual e motivação [§1–§3]</h3>
-<p>O prefácio descreve o livro como síntese de aproximadamente cinco anos de pesquisa sobre política educacional, articulando duas tradições intelectuais que Busemeyer absorveu em etapas distintas de sua carreira. Em sua tese doutoral na Universidade de Heidelberg, sob orientação de Manfred G. Schmidt, desenvolveu o interesse na política partidária como fator explicativo das diferenças nos produtos de política pública. No período de pós-doutorado no Instituto Max Planck para o Estudo das Sociedades em Colônia, a colaboração com Wolfgang Streeck e Kathleen Thelen ampliou sua perspectiva, levando-o a levar a sério o papel da educação e formação profissional (VET) e o impacto das instituições socioeconômicas.</p>
-<p>A motivação declarada do livro é precisamente reunir essas duas perspectivas teóricas — teoria partidária e institucionalismo histórico — e, indo além delas, incluir os efeitos das instituições educacionais sobre a desigualdade e as atitudes individuais. O autor reconhece que as pesquisas sobre esses dois últimos tópicos dominaram sua agenda nos dois anos anteriores à redação do livro e continuarão a fazê-lo. O prefácio ainda registra os principais interlocutores intelectuais e os apoios institucionais recebidos (DFG, Center for European Studies da Harvard University, Nuffield College de Oxford, Institute for Advanced Study Konstanz).</p>
-<hr>
-</section>
-</section>
-<section id="introdução-pp.-127" class="level2" data-number="2">
-<h2 data-number="2" class="anchored" data-anchor-id="introdução-pp.-127"><span class="header-section-number">2</span> Introdução (pp.&nbsp;1–27)</h2>
-<section id="o-problema-de-wilensky-e-a-proposta-de-reintegração-14" class="level3" data-number="2.1">
-<h3 data-number="2.1" class="anchored" data-anchor-id="o-problema-de-wilensky-e-a-proposta-de-reintegração-14"><span class="header-section-number">2.1</span> O problema de Wilensky e a proposta de reintegração [§1–§4]</h3>
-<blockquote class="blockquote">
-<p>A afirmação de Harold Wilensky de que “education is special” (1975: 3) — no sentido de que a educação contribui primariamente para a igualdade de oportunidades, não para a igualdade absoluta — serve como ponto de partida crítico para o livro. Wilensky argumentara que a educação, ao ser um bem meritocrático, diferia funcionalmente das transferências sociais redistributivas do Estado de bem-estar, e por isso deveria ser analisada separadamente.</p>
-</blockquote>
-<p>Busemeyer reconhece que a posição de Wilensky não é inteiramente injustificada, mas argumenta que ela contribuiu para o neglect da educação na pesquisa comparada de Estado de bem-estar e na ciência política comparada em geral (Busemeyer &amp; Nikolai 2010; Busemeyer &amp; Trampusch 2011; Iversen &amp; Stephens 2008). O objetivo declarado do livro é precisamente reintegrar a análise dos sistemas de educação e formação à pesquisa comparada de Estado de bem-estar — não comparando desenvolvimentos educacionais com outras políticas sociais, mas identificando múltiplas conexões entre educação e o Estado de bem-estar. Essas conexões se distribuem em três domínios: (1) <strong>política</strong>, no sentido de que as mesmas coalizões político-econômicas que sustentaram a expansão do Estado de bem-estar no pós-guerra também moldaram o design institucional dos sistemas educacionais; (2) <strong>resultados</strong>, no sentido de que a distribuição de renda e riqueza é afetada pelo formato institucional do sistema de educação, em particular a importância da VET vis-à-vis a educação acadêmica e a divisão entre fontes públicas e privadas de financiamento; e (3) <strong>atitudes dos cidadãos</strong>, no sentido de que as instituições educacionais moldam preferências individuais em relação ao Estado de bem-estar.</p>
-</section>
-<section id="origens-comuns-trajetórias-divergentes-58" class="level3" data-number="2.2">
-<h3 data-number="2.2" class="anchored" data-anchor-id="origens-comuns-trajetórias-divergentes-58"><span class="header-section-number">2.2</span> Origens comuns, trajetórias divergentes [§5–§8]</h3>
-<p>O ponto de partida empírico do livro é a observação de que no imediato pós-guerra as democracias industriais avançadas — em especial os países da Europa Ocidental — compartilhavam um design institucional similar em seus sistemas de educação e formação, mas logo passaram a se desenvolver por trajetórias muito diferentes (Ansell 2010: 164). No período imediatamente anterior a esse processo, Suécia, Alemanha e Reino Unido apresentavam similaridades notáveis: todos tinham um setor de ensino superior elitista, um sistema de ensino médio segregado e uma forte herança de aprendizagem profissional voluntarista (Heidenheimer 1981: 296, 298).</p>
-<p>Hoje, contudo, os três sistemas apresentam perfis radicalmente distintos. O sistema britânico é caracterizado por um viés em favor do ensino superior acadêmico, com a VET percebida como opção pouco atraente para jovens que não ingressaram na universidade, dominada pelos empregadores e de caráter voluntarista. Na Alemanha, a VET permanece como alternativa popular às universidades, sustentada pelo sistema dual de aprendizagem que combina formação prática nas empresas com ensino teórico nas escolas vocacionais, enquanto o ensino superior permanece relativamente subdesenvolvido em termos de matrícula. Na Suécia, o ensino superior expandiu-se rapidamente nas últimas décadas, e a VET é ainda relevante, mas organizada de forma escola-baseada, com a participação dos empregadores marginalizada.</p>
-<p>Busemeyer sublinha que essas diferenças nos regimes educacionais espelham claramente os “mundos do capitalismo de bem-estar” de Esping-Andersen (1990): o sistema sueco espelha o modelo socialdemocrata universalista; o alemão o modelo conservador-corporatista; o britânico o modelo liberal.</p>
-</section>
-<section id="o-argumento-central-915" class="level3" data-number="2.3">
-<h3 data-number="2.3" class="anchored" data-anchor-id="o-argumento-central-915"><span class="header-section-number">2.3</span> O argumento central [§9–§15]</h3>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>O argumento central do livro desdobra-se em dois movimentos analíticos: (1) os regimes educacionais divergiram por razões políticas — especificamente, a política partidária <em>em contexto</em> institucional explica as escolhas sobre design educacional no pós-guerra; (2) as escolhas institucionais do passado condicionam os padrões contemporâneos de desigualdade socioeconômica e as atitudes populares em relação ao Estado de bem-estar.</p>
-</div>
-</div>
-<p>As diferenças no equilíbrio de poder entre social-democratas, democrata-cristãos e conservadores explicam as escolhas divergentes sobre o design dos sistemas de educação e formação no período pós-guerra. Em contraste com a teoria partidária tradicional, Busemeyer enfatiza que a disputa partidária precisa ser contextualizada, levando em conta a importância das instituições socioeconômicas e dos interesses organizados do mercado de trabalho. Nas economias de mercado coordenadas (CMEs), formas não mercantis de coordenação entre atores econômicos facilitam a formação de <strong>coalizões interclasses</strong> que sustentam a VET. Mas, ao contrário da perspectiva de <em>Varieties of Capitalism</em> (Hall &amp; Soskice 2001), Busemeyer argumenta que essas coalizões têm uma natureza ainda <em>partidária</em>: dependem de qual força partidária as lidera. É por isso que coalizões de esquerda de social-democratas e sindicatos nos países escandinavos pressionaram pela integração da VET ao sistema escolar geral, marginalizando o papel dos empregadores. Em contrapartida, a dominância de partidos democrata-cristãos em CMEs continentais como a Alemanha contribuiu para manter os empregadores no sistema, construindo uma estrutura corporatista em torno da aprendizagem. Nas economias de mercado liberais (LMEs) como o Reino Unido, o compromisso interclasses se mostrou esquivo, e o declínio da VET canalizou a expansão educacional para o ensino superior acadêmico privado.</p>
-<p>Busemeyer estende o argumento para duas consequências fundamentais. Primeira: a sobrevivência ou não da VET como alternativa viável ao ensino superior tem implicações profundas para os padrões de desigualdade socioeconômica, pois a VET abre rotas de acesso a formação qualificada e emprego bem remunerado para indivíduos na metade inferior da distribuição de habilidades acadêmicas. Segunda: a sobrevivência da VET molda também as percepções populares sobre as alternativas educacionais e as atitudes em relação ao Estado de bem-estar, gerando efeitos de retroalimentação (<em>policy feedback</em>) que consolidam as trajetórias de desenvolvimento.</p>
-</section>
-<section id="extensões-à-teoria-partidária-padrão-e-estrutura-do-livro-1620" class="level3" data-number="2.4">
-<h3 data-number="2.4" class="anchored" data-anchor-id="extensões-à-teoria-partidária-padrão-e-estrutura-do-livro-1620"><span class="header-section-number">2.4</span> Extensões à teoria partidária padrão e estrutura do livro [§16–§20]</h3>
-<p>O autor identifica os dois grandes eixos da literatura existente — VoC e teoria partidária — e aponta seus limites. O VoC subestima o papel da política em geral e da política partidária em particular; a teoria partidária standard negligencia o contexto institucional e as diferenças entre famílias partidárias. Em resposta, Busemeyer propõe três extensões ao modelo partidário padrão: (1) reconhecer que os partidos democrata-cristãos perseguem uma ideologia distinta tanto do conservadorismo quanto da social-democracia, exercendo uma “politics of mediation” (Van Kersbergen 1999: 356) que promove o compromisso interclasses e a delegação de responsabilidades públicas a corpos corporatistas; (2) levar em conta o contexto socioeconômico institucional em que a política partidária se desenrola, incorporando a distinção LME/CME do VoC; (3) enfatizar o equilíbrio de poder de <em>longo prazo</em> entre famílias partidárias, em vez dos efeitos de curto prazo do governo partidário.</p>
-<p>O livro divide-se em duas partes: a Parte I (Capítulos 1–3) trata a política educacional como variável dependente, explicando como a política partidária e as instituições produziram escolhas diferentes de design institucional; a Parte II (Capítulos 4–6) inverte a lógica, tratando as instituições educacionais como variáveis independentes que explicam a desigualdade socioeconômica e as atitudes populares. A moldura unificadora é o modelo heurístico do ciclo de políticas públicas (Easton 1965; Sabatier 1991).</p>
-<hr>
-</section>
-</section>
-<section id="capítulo-1-quadro-teórico-política-partidária-em-contexto-pp.-2957" class="level2" data-number="3">
-<h2 data-number="3" class="anchored" data-anchor-id="capítulo-1-quadro-teórico-política-partidária-em-contexto-pp.-2957"><span class="header-section-number">3</span> Capítulo 1: Quadro Teórico — Política Partidária em Contexto (pp.&nbsp;29–57)</h2>
-<section id="de-commodification-e-estratificação-em-sistemas-educacionais-cap.1-14" class="level3" data-number="3.1">
-<h3 data-number="3.1" class="anchored" data-anchor-id="de-commodification-e-estratificação-em-sistemas-educacionais-cap.1-14"><span class="header-section-number">3.1</span> De-commodification e estratificação em sistemas educacionais [Cap.1 §1–§4]</h3>
-<p>O capítulo abre recuperando a tipologia de Esping-Andersen (1990), cujas duas dimensões de variação do Estado de bem-estar — de-commodification e estratificação — Busemeyer adapta para os sistemas de educação. A <strong>de-commodification</strong> na educação refere-se ao grau em que o acesso à educação é desvinculado da capacidade de pagar, capturado operacionalmente pela divisão entre financiamento público e privado. A <strong>estratificação educacional</strong> refere-se ao grau em que o sistema de educação diferencia os alunos em trajetórias distintas de qualidade e prestígio — em particular, a presença ou ausência de tracking precoce e de uma distinção marcante entre educação acadêmica e VET.</p>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>A Figura 1.1 do capítulo — reproduzida no Capítulo 3 como Figura 3.1 — situa os países da OCDE ao longo dessas duas dimensões, mostrando o agrupamento esperado: países escandinavos (alto envolvimento público, baixa estratificação), países continentais europeus (estratificação moderada a alta, financiamento predominantemente público), e países anglo-saxônicos (baixo envolvimento público, estratificação variável). Essa figura serve como âncora empírica para o argumento ao longo do livro.</p>
-</div>
-</div>
-<p>A distinção entre estratificação <em>educacional</em> (distribuição desigual de oportunidades educacionais) e estratificação <em>socioeconômica</em> (distribuição desigual de renda e riqueza) é central para o argumento desenvolvido na Parte II. Busemeyer destaca que as duas formas de estratificação não se traduzem automaticamente uma na outra: países com alta estratificação educacional (como Alemanha e Suíça) apresentam desigualdade socioeconômica moderada, ao passo que países com baixa estratificação educacional (como Estados Unidos) apresentam alta desigualdade socioeconômica. Esse paradoxo, que a literatura da sociologia educacional e da economia política tratou separadamente, é o ponto de partida do Capítulo 4.</p>
-</section>
-<section id="revisão-crítica-das-abordagens-existentes-cap.1-512" class="level3" data-number="3.2">
-<h3 data-number="3.2" class="anchored" data-anchor-id="revisão-crítica-das-abordagens-existentes-cap.1-512"><span class="header-section-number">3.2</span> Revisão crítica das abordagens existentes [Cap.1 §5–§12]</h3>
-<p>Busemeyer distingue três correntes teóricas de referência para explicar a variação nos regimes de formação de habilidades: (1) modernização e sociedade mundial, (2) VoC e institucionalismo histórico, e (3) teoria de recursos de poder e teoria partidária.</p>
-<p>As teorias de modernização (Wilensky 2002) e da sociedade mundial (Meyer et al.&nbsp;1992) explicam adequadamente a expansão massiva das oportunidades educacionais ao longo do século XX, mas são menos capazes de dar conta das diferenças mais finas no design institucional dos sistemas educacionais na Europa Ocidental.</p>
-<p>O institucionalismo histórico (Pierson 2004; Thelen 1999) oferece ferramentas poderosas para explicar por que países seguem trajetórias distintas. A teoria da dependência de trajetória (<em>path dependency</em>) explica os custos de transação associados à mudança institucional e os efeitos de retroalimentação sobre o processo político. Busemeyer enfatiza, contudo, que nem tudo foi predeterminado pelos processos da Revolução Industrial: as lutas políticas da metade do século XX tiveram consequências enormes para a conformação dos regimes de educação e formação, porque esses sistemas entraram em nova fase de desenvolvimento à medida que a educação primária universal se consolidou.</p>
-<p>A teoria de recursos de poder (Stephens 1979; Korpi 1983) está muito consciente da formação de coalizões entre interesses organizados do mercado de trabalho e partidos políticos, mas assume uma luta de classes pervasiva entre capital e trabalho, negando a possibilidade de coalizões interclasses sustentáveis, apesar de elas serem uma realidade empírica em muitos CMEs.</p>
-</section>
-<section id="o-framework-teórico-extensões-ao-modelo-partidário-padrão-cap.1-1320" class="level3" data-number="3.3">
-<h3 data-number="3.3" class="anchored" data-anchor-id="o-framework-teórico-extensões-ao-modelo-partidário-padrão-cap.1-1320"><span class="header-section-number">3.3</span> O framework teórico: extensões ao modelo partidário padrão [Cap.1 §13–§20]</h3>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Important
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>A contribuição teórica central do capítulo é a proposta de que a teoria partidária standard precisa ser estendida em três direções: (1) reconhecer a ideologia distintiva dos democrata-cristãos; (2) contextualizar a política partidária no quadro institucional socioeconômico; (3) enfatizar o equilíbrio de poder de <em>longo prazo</em> em vez dos efeitos de curto prazo do governo partidário.</p>
-</div>
-</div>
-<p>A primeira extensão é a distinção entre <strong>social-democratas</strong>, <strong>democrata-cristãos</strong> e <strong>conservadores</strong>. Os democrata-cristãos são diferentes dos conservadores seculares em que perseguem uma “politics of mediation” (Van Kersbergen 1999: 356): promovem o compromisso interclasses entre sindicatos e empregadores e delegam responsabilidades públicas a corpos corporatistas. O princípio da <strong>subsidiariedade</strong> — delegar o máximo de autonomia possível a atores societais, em particular associações — é central a essa ideologia. Por isso, os democrata-cristãos apoiam as formas coletivas de VET na política educacional, mesmo que isso imponha custos de curto prazo aos empregadores. Os conservadores, ao contrário, favorecem o ensino superior acadêmico e elitista e a educação secundária voltada para as classes médias e altas.</p>
-<p>A segunda extensão diz respeito à contextualização institucional da política partidária. A distinção LME/CME do VoC é útil na medida em que a estrutura institucional existente da economia molda o menu de opções políticas viáveis — menos nas fases iniciais de formação de trajetória e cada vez mais ao longo do tempo. As tentativas repetidas de vários governos britânicos de introduzir e revitalizar a aprendizagem fracassaram, em geral, porque os empregadores não puderam ser convencidos a participar de esquemas coletivos. Mas, ao contrário do funcionalismo econômico, Busemeyer enfatiza que os efeitos das instituições econômicas são sempre mediados por fatores políticos — em particular, o equilíbrio de poder prevalecente entre as forças partidárias.</p>
-<p>A terceira extensão é o foco no equilíbrio de poder de <strong>longo prazo</strong> entre famílias partidárias. A implementação de reformas educacionais frequentemente leva décadas, de tal modo que a ausência de efeitos de curto prazo não deve levar a subestimar a ideologia partidária como força motriz da mudança de política. Essa perspectiva de longo prazo é uma das contribuições centrais do institucionalismo histórico (Pierson 2004; Thelen 1999), pois mesmo mudanças institucionais de grande escala podem ocorrer de forma gradual (Streeck &amp; Thelen 2005).</p>
-<hr>
-</section>
-</section>
-<section id="capítulo-2-a-política-das-reformas-de-educação-e-formação-estudos-de-caso-pp.-58122" class="level2" data-number="4">
-<h2 data-number="4" class="anchored" data-anchor-id="capítulo-2-a-política-das-reformas-de-educação-e-formação-estudos-de-caso-pp.-58122"><span class="header-section-number">4</span> Capítulo 2: A Política das Reformas de Educação e Formação — Estudos de Caso (pp.&nbsp;58–122)</h2>
-<section id="o-regime-estatista-suécia-cap.2-112" class="level3" data-number="4.1">
-<h3 data-number="4.1" class="anchored" data-anchor-id="o-regime-estatista-suécia-cap.2-112"><span class="header-section-number">4.1</span> O regime estatista: Suécia [Cap.2 §1–§12]</h3>
-<p>O capítulo aplica o framework teórico do Capítulo 1 a três estudos de caso histórico-comparados: Suécia (regime estatista), Reino Unido (regime liberal) e Alemanha (regime coletivo). No caso sueco, Busemeyer rastreia como uma poderosa aliança entre social-democratas e interesses rurais, formada nos anos 1930 (Anderson 2009: 216–17), estabeleceu as bases para o modelo universal de Estado de bem-estar. O Acordo de Saltsjöbaden de 1938, pelo qual capital e trabalho encerraram um período de intenso conflito industrial, consolidou esses padrões de coalizão para o período pós-guerra.</p>
-<p>As reformas educacionais dos anos 1950 e 1960 — em particular a introdução gradual da escola secundária abrangente (<em>grundskola</em>) a partir de 1962 — foram promovidas por uma coalizão universalista entre interesses rurais e a classe trabalhadora urbana (Husén 1965), cujo objetivo declarado era a comprensivização plena do sistema de educação. O passo crucial nesse processo foi a integração da VET ao sistema de ensino secundário geral, o que ocorreu no início dos anos 1970 (Lundahl 1997), colocando o sistema numa trajetória escola-baseada. A reforma de 1969, que entrou em vigor em 1972, estabeleceu a escola superior abrangente (<em>Gymnasieskola</em>), integrando as várias partes da educação secundária superior numa única instituição. Todos os programas do ensino secundário superior sueco — incluindo os vocacionais — habilitavam, em princípio, ao prosseguimento dos estudos no nível terciário, expressando o objetivo socialdemocrata de maximizar a mobilidade educacional.</p>
-<blockquote class="blockquote">
-<p><strong>Nota [3 cap.2]:</strong> Segundo Busemeyer, um jogo “battle of the sexes” captura adequadamente a dinâmica de negociação na Suécia: os empregadores teriam preferido um sistema mais centrado na empresa, mas preferiram a VET escolar à educação geral não vocacional. No longo prazo, a liderança de social-democratas e sindicatos na promoção da VET escola-baseada levou à marginalização do papel dos empregadores na formação profissional. Isso explica por que as tentativas do governo não-socialista do início dos anos 1990 de expandir a aprendizagem fracassaram em grande medida (Lundahl 1997: 98).</p>
-</blockquote>
-</section>
-<section id="o-regime-liberal-reino-unido-cap.2-1322" class="level3" data-number="4.2">
-<h3 data-number="4.2" class="anchored" data-anchor-id="o-regime-liberal-reino-unido-cap.2-1322"><span class="header-section-number">4.2</span> O regime liberal: Reino Unido [Cap.2 §13–§22]</h3>
-<p>O sistema educacional britânico até o período pós-guerra seguia uma trajetória de desenvolvimento bastante similar à da Alemanha e da Suécia, mas seu registro pós-guerra de governo partidário e governança econômica é menos claro. Embora o Partido Conservador tenha estado mais tempo no poder do que o Trabalhista, mudanças significativas no Estado de bem-estar foram iniciadas durante o breve domínio trabalhista após a Segunda Guerra Mundial — mas não na educação.</p>
-<p>O Reino Unido tinha um sistema de aprendizagem bem estabelecido (Gospel 1994), e a Lei de Formação Industrial de 1964 (<em>Industrial Training Act</em>) chegou a estabelecer um quadro institucional corporatista sob a forma de Juntas de Formação Industrial (<em>Industrial Training Boards</em>, ITBs), embora com um grau muito menor de comprometimento estatutário do que na Alemanha. A tentativa mais ambiciosa de direcionamento corporatista, a Comissão de Serviços de Mão de Obra (<em>Manpower Services Commission</em>, MSC), estabelecida pelos governos trabalhistas nos anos 1970, também fracassou em consolidar o comprometimento dos empregadores com a formação, em parte porque os sindicatos de ofício usavam o sistema para limitar o acesso ao trabalho qualificado (Finegold &amp; Soskice 1988; Ryan 2000).</p>
-<p>A virada decisiva foi o governo Thatcher, que deliberada e sistematicamente eliminou os remanescentes institucionais do capitalismo coordenado e das abordagens coletivas de formação de habilidades. O governo conservador buscou abolir as juntas de formação (Finn 1987: 135) e expandir medidas de treinamento com forte foco no combate ao desemprego juvenil. Em particular, ao abolir o sistema tradicional de aprendizagem e substituí-lo pelo “quasi-mercado” voluntarista do <em>Youth Training Scheme</em> (YTS) subvencionado pelo Estado, o governo Thatcher destruiu efetivamente qualquer base para o compromisso interclasses. O YTS provia aos empregadores fundos para treinar jovens abaixo de 18 anos por um ano (estendido a dois em 1986), mas sofria de problemas sérios de qualidade: ausência de padrões definidos de conteúdo de formação (“black boxing”), enorme variação qualitativa e uso de jovens como mão de obra barata sem investimento real em habilidades (“bogus training”, Lee 1989: 165). No pico de sua relevância, em 1986, a MSC tinha um orçamento de mais de £2 bilhões, dos quais cerca de £850 milhões eram gastos no YTS (Evans 1992: 83).</p>
-<p>O declínio do sistema tradicional de aprendizagem foi acompanhado pela expansão explosiva do ensino superior. As cortes de financiamento do ensino superior do início do governo Thatcher foram seguidas de um aumento no número de estudantes no final dos anos 1980 e início dos 1990, impulsionado pela competição entre universidades por receita de mensalidades. A Lei de Educação e Ensino Superior de 1992 aboliu a estrutura binária do sistema, equiparando politécnicos e universidades, mas uma hierarquia de fato entre instituições rapidamente se estabeleceu. Tanto os governos conservadores quanto o Novo Trabalhista tentaram revitalizar a aprendizagem nos anos 1990, sem sucesso.</p>
-</section>
-<section id="o-regime-coletivo-alemanha-cap.2-2332" class="level3" data-number="4.3">
-<h3 data-number="4.3" class="anchored" data-anchor-id="o-regime-coletivo-alemanha-cap.2-2332"><span class="header-section-number">4.3</span> O regime coletivo: Alemanha [Cap.2 §23–§32]</h3>
-<p>Os regimes coletivos de formação de habilidades diferem dos outros dois tipos porque empregadores, sindicatos e Estado estão todos altamente e conjuntamente comprometidos com a promoção da formação em nível intermediário de habilidades — isto é, via aprendizagem (Busemeyer &amp; Trampusch 2012: 14). Um fator de suporte crucial para essas coalizões interclasses, que foi severamente subestimado até aqui, é o papel dos partidos democrata-cristãos no governo.</p>
-<p>Os democrata-cristãos foram a força política dominante no governo alemão de 1949 até o advento do governo Brandt em 1969. O peça legislativa crítica foi a Lei Federal de Formação Profissional de 1969 (<em>Berufsbildungsgesetz</em>, BBiG), que criou um quadro estatutário para a aprendizagem e assegurou a participação de sindicatos e outros atores. Essa lei foi de facto apoiada e aprovada pelo governo formal de grande coalizão de social e democrata-cristãos em vigor de 1966 a 1969. A institucionalização de um sistema de formação baseado em empresas bem desenvolvido teve implicações enormes para o desenvolvimento futuro do sistema. Mais importante, reprimiu a demanda por ensino superior acadêmico (Ansell 2010: 191), tanto entre jovens e seus pais quanto entre empregadores que ajustaram suas estratégias de produção em conformidade.</p>
-<p>Ao contrário dos conservadores liberais, os democrata-cristãos não adotaram uma abordagem voluntarista da formação. A subsidiariedade implica delegar obrigações quasi-públicas a associações, mas essa delegação de autoridade tem um preço: os atores econômicos espera-se que cumpram sua parte do acordo, ou seja, fornecer lugares de formação suficientes para os jovens. Em suma, as origens políticas dos regimes coletivos de formação de habilidades no período pós-guerra residem em coalizões interclasses dominadas pelo governo democrata-cristão, em combinação com altos níveis de coordenação econômica.</p>
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Tip
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>A principal implicação comparativa dos três estudos de caso é que a mesma força expansiva da educação pós-secundária — a necessidade crescente de habilidades em economias industriais avançadas — produziu resultados institucionalmente muito distintos dependendo de quais atores políticos lideraram o processo. Onde os social-democratas lideraram, a VET foi integrada ao sistema escolar universal. Onde os democrata-cristãos dominaram, a VET foi institucionalizada como regime coletivo corporatista. Onde os conservadores prevaleceram em contextos institucionais voluntaristas, a VET declinou e o ensino superior privado expandiu-se.</p>
-</div>
-</div>
-<hr>
-</section>
-</section>
-<section id="capítulo-3-mundos-de-formação-de-habilidades-análise-quantitativa-cross-nacional-pp.-123176" class="level2" data-number="5">
-<h2 data-number="5" class="anchored" data-anchor-id="capítulo-3-mundos-de-formação-de-habilidades-análise-quantitativa-cross-nacional-pp.-123176"><span class="header-section-number">5</span> Capítulo 3: Mundos de Formação de Habilidades — Análise Quantitativa Cross-Nacional (pp.&nbsp;123–176)</h2>
-<section id="estatísticas-descritivas-e-cluster-analysis-cap.3-16" class="level3" data-number="5.1">
-<h3 data-number="5.1" class="anchored" data-anchor-id="estatísticas-descritivas-e-cluster-analysis-cap.3-16"><span class="header-section-number">5.1</span> Estatísticas descritivas e cluster analysis [Cap.3 §1–§6]</h3>
-<p>O capítulo expande a perspectiva comparativa dos estudos de caso para o conjunto mais amplo das democracias industriais avançadas da OCDE. A seção de estatísticas descritivas retoma a Figura 1.1 (reproduzida como Figura 3.1), que distribui os países ao longo das dimensões de de-commodification e estratificação educacional, confirmando visualmente o agrupamento em três clusters (Tabela 3.1): <strong>liberal</strong> (EUA, Austrália, Nova Zelândia, Reino Unido, Irlanda, Canadá), <strong>coletivo</strong> (Alemanha, Áustria, Suíça, Dinamarca, Países Baixos) e <strong>estatista</strong> (Suécia, Finlândia, Noruega, Bélgica, França). Países do Sul da Europa (Espanha, Itália, Portugal) constituem um grupo <strong>misto</strong>, com características do regime liberal e do regime coletivo.</p>
-<p>A Tabela 3.2 apresenta indicadores quantitativos detalhados sobre matrículas em VET e ensino superior, gastos públicos e privados em educação e outros indicadores institucionais, confirmando os padrões qualitativos descritos no Capítulo 2. Uma análise de cluster hierárquica (Figura 3.2) confirma a existência de três agrupamentos distintos de países, embora com alguma ambiguidade nas margens — particularmente para o caso italiano, que tem longa história de governo democrata-cristão mas sem forte sistema de aprendizagem, explicado pela política territorial conflituosa da Itália.</p>
-</section>
-<section id="análises-de-regressão-cross-seccionais-cap.3-713" class="level3" data-number="5.2">
-<h3 data-number="5.2" class="anchored" data-anchor-id="análises-de-regressão-cross-seccionais-cap.3-713"><span class="header-section-number">5.2</span> Análises de regressão cross-seccionais [Cap.3 §7–§13]</h3>
-<p>A segunda seção apresenta scatterplots e regressões cross-seccionais sobre os determinantes políticos e institucionais das características dos regimes educacionais. Os resultados confirmam o papel central da política partidária e da coordenação econômica. A Tabela 3.3 mostra que o governo socialdemocrata está associado a maiores níveis de envolvimento público na educação — tanto no ensino superior quanto na VET —, enquanto o governo conservador está associado a maiores parcelas privadas no financiamento educacional e menores gastos em VET. A Figura 3.5 ilustra visualmente a associação negativa entre a parcela acumulada de governos de esquerda (1945–2000) e a parcela privada do financiamento educacional (1997–2008).</p>
-<p>A Tabela 3.6 e a Figura 3.7 documentam a relação entre a política partidária e os padrões de matrícula em VET e ensino superior: o governo democrata-cristão correlaciona-se positivamente com maior proporção de estudantes em VET relativamente ao ensino superior, ao passo que o governo socialdemocrata está positivamente associado à expansão do ensino superior, mas também à VET quando esta está integrada ao sistema escolar. Há uma forte associação positiva entre coordenação econômica e a importância da aprendizagem (Figura 3.9), particularmente para formas de VET com alto grau de envolvimento dos empregadores.</p>
-</section>
-<section id="análises-de-regressão-multivariadas-com-dados-de-painel-cap.3-1422" class="level3" data-number="5.3">
-<h3 data-number="5.3" class="anchored" data-anchor-id="análises-de-regressão-multivariadas-com-dados-de-painel-cap.3-1422"><span class="header-section-number">5.3</span> Análises de regressão multivariadas com dados de painel [Cap.3 §14–§22]</h3>
-<p>A terceira seção apresenta análises de regressão de séries temporais cross-seccionais (1993–2008) com erros padrão corrigidos por painel (<em>panel-corrected standard errors</em>, PCSE) e correção AR(1) da correlação serial, seguindo Beck &amp; Katz (1995, 1996). A Tabela 3.8 — sobre os determinantes da parcela privada do financiamento educacional — confirma que o governo conservador aumenta a parcela privada, enquanto o governo socialdemocrata a reduz. O resultado é robusto a múltiplas especificações, incluindo modelos de erro de correção com efeitos fixos de país.</p>
-<p>As Tabelas 3.9–3.12 apresentam análises sobre os determinantes das matrículas no ensino superior, na VET e na aprendizagem. O governo socialdemocrata está associado a maiores níveis de matrícula no ensino superior (Tabela 3.10), mas os efeitos de curto prazo são mais fracos do que os efeitos de longo prazo medidos pelo equilíbrio histórico de poder. O governo democrata-cristão está positivamente associado à aprendizagem (Tabela 3.12), confirmando o argumento da Parte I. Busemeyer discute extensamente os problemas metodológicos desses modelos — correlação serial, contemporânea e heterocedasticidade de painel — e justifica suas escolhas de especificação.</p>
-<blockquote class="blockquote">
-<p><strong>Nota [3 cap.3]:</strong> A disponibilidade de dados sobre a parcela de aprendizagem é significativamente limitada a um subconjunto de países da OCDE, em parte por causa da complexidade dos esquemas de VET em comparação a outros setores do sistema de educação. Isso reduz substancialmente o número de casos nos modelos sobre aprendizagem.</p>
-</blockquote>
-<hr>
-</section>
-</section>
-<section id="capítulo-4-instituições-educacionais-e-desigualdade-socioeconômica-pp.-177214" class="level2" data-number="6">
-<h2 data-number="6" class="anchored" data-anchor-id="capítulo-4-instituições-educacionais-e-desigualdade-socioeconômica-pp.-177214"><span class="header-section-number">6</span> Capítulo 4: Instituições Educacionais e Desigualdade Socioeconômica (pp.&nbsp;177–214)</h2>
-<section id="o-puzzle-entre-desigualdade-educacional-e-socioeconômica-cap.4-17" class="level3" data-number="6.1">
-<h3 data-number="6.1" class="anchored" data-anchor-id="o-puzzle-entre-desigualdade-educacional-e-socioeconômica-cap.4-17"><span class="header-section-number">6.1</span> O puzzle entre desigualdade educacional e socioeconômica [Cap.4 §1–§7]</h3>
-<p>O capítulo abre com um puzzle empírico: não há uma relação simples (linear) entre desigualdade educacional e desigualdade socioeconômica. Países com alta estratificação educacional não apresentam automaticamente alta desigualdade de renda e salários. Busemeyer documenta quatro tipos de casos:</p>
-<ul>
-<li><strong>EUA</strong>: baixa desigualdade <em>educacional</em> (ensino médio abrangente, vasta oferta de ensino superior), alta desigualdade <em>socioeconômica</em>.</li>
-<li><strong>Países Escandinavos</strong>: baixa desigualdade educacional, baixa desigualdade socioeconômica.</li>
-<li><strong>Alemanha/Suíça</strong>: alta desigualdade educacional (rastreamento precoce, forte influência do background familiar), desigualdade socioeconômica <em>moderada</em>.</li>
-<li><strong>Reino Unido</strong>: estratificação educacional moderada a alta, desigualdade socioeconômica alta.</li>
-</ul>
-<p>Esse paradoxo aponta para um blind spot na literatura — agravado pela falta de troca interdisciplinar. A sociologia educacional documenta extensamente o impacto das instituições educacionais sobre as escolhas educacionais e a desigualdade de oportunidades (Allmendinger 1989; Blossfeld &amp; Shavit 1993; Pfeffer 2008), mas não observa a relação entre desigualdade educacional e estratificação do mercado de trabalho. A literatura de economia política sobre os determinantes da desigualdade socioeconômica, por sua vez, raramente inclui as instituições educacionais como variáveis independentes (Bradley et al.&nbsp;2003; Rueda 2008; Wallerstein 1999; Iversen &amp; Soskice 2006, 2009).</p>
-</section>
-<section id="expectativas-teóricas-contraditórias-sobre-o-papel-da-vet-cap.4-813" class="level3" data-number="6.2">
-<h3 data-number="6.2" class="anchored" data-anchor-id="expectativas-teóricas-contraditórias-sobre-o-papel-da-vet-cap.4-813"><span class="header-section-number">6.2</span> Expectativas teóricas contraditórias sobre o papel da VET [Cap.4 §8–§13]</h3>
-<p>Busemeyer registra expectativas teóricas conflitantes sobre o papel da VET na desigualdade. Do lado da economia política (Estévez-Abe et al.&nbsp;2001): a VET abre rotas de acesso a formação de alta qualidade e emprego bem remunerado para estudantes com poucas habilidades acadêmicas, contribuindo para a compressão da distribuição de rendimentos. Do lado da sociologia educacional (Shavit &amp; Müller 2000): a VET pode ser uma “rede de segurança” para os com habilidades acadêmicas mais fracas, mas também uma “diversão” que desencoraja jovens de backgrounds não acadêmicos a prosseguirem carreiras acadêmicas, consolidando padrões existentes de estratificação social. A conclusão de Bradley et al.&nbsp;(2003) e Lupu &amp; Pontusson (2011) — que testaram a hipótese de Estévez-Abe et al.&nbsp;(2001) de forma mais rigorosa — foi de não encontrar apoio para a afirmação original. Um shortcoming importante desse trabalho, segundo Busemeyer, é não distinguir entre diferentes tipos de VET (escola-baseada vs.&nbsp;local de trabalho).</p>
-<p>Busemeyer &amp; Iversen (2012) abordaram esse problema distinguindo entre o investimento público em VET e o envolvimento dos empregadores na formação. Essa distinção mostrou que o investimento público em VET de fato reduz a desigualdade salarial, mas não o desemprego juvenil, enquanto o forte envolvimento dos empregadores na formação (isto é, maior parcela de estudantes em aprendizagem baseada no local de trabalho) reduz o desemprego juvenil, mas não tem efeito significativo na desigualdade. O Capítulo 4 estende esse trabalho ao introduzir a divisão público/privado no financiamento da educação como segunda dimensão importante de variação.</p>
-</section>
-<section id="análise-empírica-regressões-cross-seccionais-e-de-painel-cap.4-1422" class="level3" data-number="6.3">
-<h3 data-number="6.3" class="anchored" data-anchor-id="análise-empírica-regressões-cross-seccionais-e-de-painel-cap.4-1422"><span class="header-section-number">6.3</span> Análise empírica: regressões cross-seccionais e de painel [Cap.4 §14–§22]</h3>
-<p>A seção empírica apresenta regressões cross-seccionais (Tabelas 4.1 e 4.2) e de painel com PCSE e AR(1) (Tabelas 4.2–4.6) sobre os determinantes da desigualdade socioeconômica (Gini, dispersão salarial) e do desemprego juvenil, utilizando dados da OCDE para 1997–2008. Os principais achados são:</p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 23%">
-<col style="width: 42%">
-<col style="width: 34%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Variável independente</th>
-<th style="text-align: left;">Efeito sobre Gini/desigualdade salarial</th>
-<th style="text-align: left;">Efeito sobre desemprego juvenil</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">VET share (total)</td>
-<td style="text-align: left;">Negativo e significativo (reduz)</td>
-<td style="text-align: left;">Sem efeito significativo</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Aprendizagem share</td>
-<td style="text-align: left;">Sem efeito significativo</td>
-<td style="text-align: left;">Negativo (reduz)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Gasto privado em educação</td>
-<td style="text-align: left;">Positivo (aumenta desigualdade)</td>
-<td style="text-align: left;">Positivo (aumenta)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Gasto público em ensino superior</td>
-<td style="text-align: left;">Ambíguo, dependendo de interações</td>
-<td style="text-align: left;">Ambíguo</td>
-</tr>
-</tbody>
-</table>
-<p>A Figura 4.7 mostra o efeito previsto sobre a desigualdade de um aumento de um desvio padrão em cada variável independente relevante. O resultado mais robusto é que maiores níveis de envolvimento público no financiamento da educação superior e vocacional estão associados a menores níveis de desigualdade salarial (Tabela 4.3). Contudo, um alto grau de estatismo na provisão de educação tem efeitos colaterais negativos: nos países como Suécia e Finlândia (mas não na Dinamarca, cujo sistema de formação é mais similar ao alemão), o afastamento dos empregadores da provisão de formação contribuiu para altos níveis de desemprego juvenil. A Tabela 4.5 documenta interações entre envolvimento privado e padrões de matrícula.</p>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>A Tabela 4.4 testa se o nível absoluto de gasto em educação (como % do PIB) está associado à desigualdade, e os resultados são em geral não significativos. Isso indica que o que importa não é <em>quanto</em> se gasta, mas <em>como</em> o sistema é organizado — a estrutura público/privado e a presença ou ausência de VET robusta.</p>
-</div>
-</div>
-<hr>
-</section>
-</section>
-<section id="capítulo-5-o-impacto-das-instituições-educacionais-sobre-atitudes-e-preferências-pp.-215252" class="level2" data-number="7">
-<h2 data-number="7" class="anchored" data-anchor-id="capítulo-5-o-impacto-das-instituições-educacionais-sobre-atitudes-e-preferências-pp.-215252"><span class="header-section-number">7</span> Capítulo 5: O Impacto das Instituições Educacionais sobre Atitudes e Preferências (pp.&nbsp;215–252)</h2>
-<section id="feedback-de-políticas-e-preferências-individuais-cap.5-16" class="level3" data-number="7.1">
-<h3 data-number="7.1" class="anchored" data-anchor-id="feedback-de-políticas-e-preferências-individuais-cap.5-16"><span class="header-section-number">7.1</span> Feedback de políticas e preferências individuais [Cap.5 §1–§6]</h3>
-<p>O capítulo examina o terceiro elo entre educação e o Estado de bem-estar: o efeito das instituições educacionais sobre as preferências individuais e atitudes populares. Trata-se de investigar os efeitos de retroalimentação (<em>policy feedback effects</em>) das instituições sobre as atitudes, um tema associado ao trabalho de Pierson (1993), que destacou os efeitos de recursos e interpretativos das políticas existentes.</p>
-<p>A motivação para incluir esse elo é que, para compreender plenamente o desenvolvimento das dependências de trajetória ao longo do tempo, não basta estudar os determinantes do produto da política e seus efeitos nos resultados: é também crucial entender como as políticas moldam as expectativas populares sobre o papel do Estado. Sem levar em conta os efeitos de feedback, seria difícil entender por que em alguns países as altas propinas universitárias são uma parte aceite da vida, enquanto em outros o Estado é esperado a prover e financiar a educação.</p>
-<p>A limitação empírica central é que grandes bases de dados cross-nacionais sobre opiniões públicas estão disponíveis apenas para os últimos 10–15 anos, o que impede tracejar os efeitos de feedback ao longo do período histórico completo. O capítulo usa o <em>ISSP Role of Government IV</em> (2006) e o <em>Eurobarômetro 62.1</em> (2004) como bases de dados.</p>
-</section>
-<section id="determinantes-individuais-das-preferências-por-gasto-em-educação-cap.5-714" class="level3" data-number="7.2">
-<h3 data-number="7.2" class="anchored" data-anchor-id="determinantes-individuais-das-preferências-por-gasto-em-educação-cap.5-714"><span class="header-section-number">7.2</span> Determinantes individuais das preferências por gasto em educação [Cap.5 §7–§14]</h3>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Um achado central das Tabelas 5.1 e 5.2 é que as preferências por gasto em educação têm uma estrutura de determinantes distinta das preferências por outros gastos sociais. Para políticas sociais em geral, a renda individual e o background educacional são determinantes negativos significativos do apoio, em linha com o modelo de Meltzer &amp; Richard (1981): os mais ricos e mais educados tendem a se opor à expansão do Estado de bem-estar porque serão os que mais pagarão via impostos mais elevados. No caso da educação, contudo, <em>não</em> há associação estatisticamente significativa entre renda individual e apoio a mais gastos públicos em educação. Busemeyer encontra inclusive um efeito <em>positivo</em> do background educacional individual sobre o apoio a gastos em educação — o que indica que a educação pode de fato ser menos redistributiva do que outras políticas sociais, e que o contexto institucional é primordial na mediação do impacto das variáveis de nível individual.</p>
-</div>
-</div>
-<p>A Figura 5.1 documenta variação substancial cross-nacional no apoio a mais gastos públicos em educação (dados ISSP 2006), e a Figura 5.2 documenta variação no percentual de respondentes que recomendam estudos gerais e acadêmicos em vez de VET para jovens (Eurobarômetro 62.1, 2004). Essas variações cross-nacionais são o objeto de análise das regressões multinível.</p>
-</section>
-<section id="análise-multinível-contexto-institucional-e-preferências-cap.5-1522" class="level3" data-number="7.3">
-<h3 data-number="7.3" class="anchored" data-anchor-id="análise-multinível-contexto-institucional-e-preferências-cap.5-1522"><span class="header-section-number">7.3</span> Análise multinível: contexto institucional e preferências [Cap.5 §15–§22]</h3>
-<p>As Tabelas 5.3 e 5.4 apresentam regressões multinível (<em>multilevel regressions</em>) do apoio individual a gastos públicos em educação (ISSP 2006), com variáveis contextuais macronível incluindo a parcela de VET, a parcela privada de financiamento educacional e o nível de desigualdade socioeconômica. Os principais achados são expostos em sequência nas análises bi e multivariadas.</p>
-<p>A Figura 5.4 mostra que maiores níveis de desigualdade socioeconômica estão associados a maior apoio popular a gastos em educação — um achado coerente com a ideia de que em sociedades mais desiguais a educação é percebida como mecanismo de promoção social individual. A lógica subjacente é que, quando a dispersão de rendimentos é elevada, o retorno esperado do investimento educacional é mais alto para os que estão abaixo da mediana, o que aumenta o suporte difuso por maior provisão pública.</p>
-<p>A Figura 5.5 documenta a interação entre renda individual e parcela de VET no nível do país: em países com maior proporção de VET, o efeito negativo da renda sobre o apoio a gastos <em>públicos</em> em educação é mais fraco. Em sistemas com baixa proporção de VET — típicos dos regimes liberais, onde o ensino superior privado e seletivo é a trajetória dominante —, o efeito da renda é mais fortemente positivo, porque os indivíduos de maior renda percebem o sistema educacional como canal de reprodução de vantagens para seus filhos e, portanto, favorecem mais intensamente o gasto público nessa área. Inversamente, em sistemas com alta proporção de VET, os ricos não se diferenciam tanto dos demais na intensidade de seu apoio, porque a VET reduz o caráter excludente do investimento educacional e redistribui os benefícios esperados ao longo da distribuição de habilidades acadêmicas.</p>
-</section>
-<section id="interações-cross-nível-e-redistribuição-cap.5-2330" class="level3" data-number="7.4">
-<h3 data-number="7.4" class="anchored" data-anchor-id="interações-cross-nível-e-redistribuição-cap.5-2330"><span class="header-section-number">7.4</span> Interações cross-nível e redistribuição [Cap.5 §23–§30]</h3>
-<p>A Tabela 5.4 aprofunda essas análises com interações <em>cross-nível</em> formais entre variáveis individuais (renda, escolaridade) e variáveis contextuais macronível (parcela de VET, parcela privada de financiamento). A Figura 5.6 documenta a interação entre renda e a parcela privada do financiamento educacional: em países onde a parcela privada é alta, o efeito negativo da renda sobre o apoio a gastos públicos em educação é mais pronunciado, indicando que os ricos em sistemas de financiamento privado percebem o gasto público como substituto — e não complemento — ao investimento privado que já realizam diretamente. A implicação é que a privatização progressiva do financiamento educacional cria uma clivagem de interesses que enfraquece a coalizão política em favor da provisão pública.</p>
-<p>A Tabela 5.6 e a Figura 5.7 estendem a análise para o apoio à redistribuição em geral (não apenas educacional), usando o ISSP 2006. O achado central é que uma maior parcela privada do financiamento do ensino superior está associada a menor apoio individual à redistribuição. Esse resultado sugere que o legado institucional do financiamento privado da educação penetra as atitudes redistributivas para além do campo educacional estrito, produzindo um efeito de <strong>erosão da solidariedade</strong>: indivíduos que arcaram com custos elevados de seu próprio capital humano são menos dispostos a apoiar transferências que redistribuiriam os prêmios salariais resultantes. O mecanismo interpretativo proposto por Busemeyer é que a privatização do financiamento educacional induz uma lógica de “mérito individual” que se generaliza para além da educação, corroendo as bases normativas do Estado de bem-estar redistributivo.</p>
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Tip
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>A contribuição mais relevante do Capítulo 5 para o argumento geral do livro é documentar os microfundamentos das trajetórias institucionais: o mesmo design institucional forjado por coalizões políticas no pós-guerra (Parte I) produz estruturas de incentivo e de interpretação que, no nível individual, reproduzem preferências favoráveis à manutenção do status quo. A VET sobrevive em parte porque os cidadãos em sistemas de VET robusta a percebem positivamente e se mobilizam em sua defesa; o financiamento público sustenta-se politicamente onde as preferências por redistribuição são mais amplas. Essas associações formam a “cola” microfundacional que explica a estabilidade das dependências de trajetória documentadas na Parte I.</p>
-</div>
-</div>
-</section>
-<section id="preferências-por-tipo-de-educação-vet-vs.-acadêmica-cap.5-3135" class="level3" data-number="7.5">
-<h3 data-number="7.5" class="anchored" data-anchor-id="preferências-por-tipo-de-educação-vet-vs.-acadêmica-cap.5-3135"><span class="header-section-number">7.5</span> Preferências por tipo de educação — VET vs.&nbsp;acadêmica [Cap.5 §31–§35]</h3>
-<p>A Tabela 5.5, que utiliza o Eurobarômetro 62.1 (2004), analisa os determinantes individuais da preferência por estudos gerais e acadêmicos <em>versus</em> VET para jovens que terminam o ensino médio. Os resultados confirmam que a preferência por educação acadêmica é mais forte em países com menor parcela de VET no sistema (regimes liberais), e que o background educacional individual está positivamente correlacionado com a preferência pela rota acadêmica — refletindo tanto a posição de classe quanto a experiência prévia com o sistema. Nos países com forte VET, a preferência por essa rota é mais equitativamente distribuída ao longo da hierarquia de renda, corroborando o argumento de que a VET funciona como alternativa genuinamente atrativa — e não como segunda opção de baixo prestígio — quando está bem institucionalizada e conta com o apoio ativo dos empregadores.</p>
-<hr>
-</section>
-</section>
-<section id="capítulo-6-conclusão-pp.-253265" class="level2" data-number="8">
-<h2 data-number="8" class="anchored" data-anchor-id="capítulo-6-conclusão-pp.-253265"><span class="header-section-number">8</span> Capítulo 6: Conclusão (pp.&nbsp;253–265)</h2>
-<section id="síntese-dos-achados-e-contribuição-à-pesquisa-comparada-cap.6-17" class="level3" data-number="8.1">
-<h3 data-number="8.1" class="anchored" data-anchor-id="síntese-dos-achados-e-contribuição-à-pesquisa-comparada-cap.6-17"><span class="header-section-number">8.1</span> Síntese dos achados e contribuição à pesquisa comparada [Cap.6 §1–§7]</h3>
-<p>O capítulo de conclusão estrutura-se em torno de três tarefas: (1) sintetizar as principais contribuições empíricas e teóricas do livro; (2) dialogar com dois debates contemporâneos — a “corrida entre educação e tecnologia” (<em>race between education and technology</em>, Goldin &amp; Katz 2008) e o Estado de investimento social (<em>social investment state</em>, Morel et al.&nbsp;2012); e (3) identificar lacunas e agendar investigações futuras, em particular sobre educação na primeira infância e aprendizagem ao longo da vida.</p>
-<p>Busemeyer retoma a afirmação inicial de Wilensky para avaliá-la à luz dos achados do livro. A conclusão é que, embora a educação difira das políticas sociais redistributivas em certos aspectos — nomeadamente o caráter meritocrático de seus benefícios —, ela está profundamente interconectada ao Estado de bem-estar por meio de três elos: a política (as mesmas coalizões que fizeram o Estado de bem-estar fizeram os regimes educacionais), os resultados (as instituições educacionais determinam padrões de desigualdade socioeconômica) e as atitudes (as instituições educacionais moldam preferências individuais que estabilizam ou desafiam as trajetórias). Neglecionar esses elos impede o desenvolvimento de uma compreensão adequada das forças motrizes das reformas do Estado de bem-estar e da educação, bem como dos determinantes da desigualdade socioeconômica e das atitudes cidadãs.</p>
-</section>
-<section id="o-debate-sobre-a-corrida-entre-educação-e-tecnologia-cap.6-812" class="level3" data-number="8.2">
-<h3 data-number="8.2" class="anchored" data-anchor-id="o-debate-sobre-a-corrida-entre-educação-e-tecnologia-cap.6-812"><span class="header-section-number">8.2</span> O debate sobre a corrida entre educação e tecnologia [Cap.6 §8–§12]</h3>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>O argumento central de Goldin &amp; Katz (2008) é que o aumento da desigualdade nos EUA é consequência da demanda crescente por indivíduos altamente qualificados em razão da mudança tecnológica (<em>skill-biased technological change</em>, SBTC), de modo que a influência mediadora das políticas sobre a desigualdade seria limitada porque os efeitos estruturais dominariam. Busemeyer contrapõe que essa perspectiva descuida da variação institucional cross-nacional: se a tecnologia fosse o único motor, deveríamos observar convergência na desigualdade entre países com dinâmicas tecnológicas similares, o que não ocorre.</p>
-</div>
-</div>
-<p>O livro contribui para esse debate ao mostrar que a variação nas instituições educacionais, moldada pela política, explica uma parte significativa da variação observada na desigualdade de salários e rendas entre as democracias industriais. Os países com sistemas de VET robustos e financiamento público dominante conseguiram comprimir a distribuição de habilidades e rendimentos de formas que os mercados, per se, não o fariam. A implicação normativa é direta: as escolhas políticas sobre o design dos sistemas educacionais <em>importam</em> para a igualdade, e a “fatalidade” tecnológica da crescente desigualdade não é inescapável.</p>
-<p>Busemeyer, contudo, reconhece que os sistemas de VET baseados em habilidades específicas (em particular os regimes coletivos de aprendizagem) enfrentam desafios crescentes diante da mudança tecnológica acelerada, porque a depreciação das habilidades específicas se acelera e a demanda por habilidades mais gerais e flexíveis aumenta. Esse é um dos argumentos centrais do debate sobre a sustentabilidade dos regimes coletivos de formação de habilidades (Busemeyer &amp; Trampusch 2012), ao qual o livro contribui mas não resolve definitivamente.</p>
-</section>
-<section id="o-estado-de-investimento-social-e-a-agenda-futura-cap.6-1318" class="level3" data-number="8.3">
-<h3 data-number="8.3" class="anchored" data-anchor-id="o-estado-de-investimento-social-e-a-agenda-futura-cap.6-1318"><span class="header-section-number">8.3</span> O Estado de investimento social e a agenda futura [Cap.6 §13–§18]</h3>
-<p>O diálogo com o debate sobre o <strong>Estado de investimento social</strong> (<em>social investment state</em>, Morel et al.&nbsp;2012; Giddens 1998) é o segundo eixo do capítulo conclusivo. A perspectiva do investimento social enfatiza a educação como política social preventiva que aumenta a empregabilidade dos cidadãos — o que potencialmente eleva o consenso político em torno do gasto educacional. Busemeyer mostra que os achados do Capítulo 5 fornecem suporte parcial a essa perspectiva: o apoio popular a gastos em educação é de fato relativamente elevado e pouco sensível à renda individual, o que o distingue do apoio a políticas sociais redistributivas tradicionais. Contudo, o autor adverte que a lógica do investimento social pode inadvertidamente reforçar a hierarquia entre educação acadêmica (percebida como produtiva e habilitadora) e VET (por vezes tratada como segunda opção), ao invés de promover a integração entre as duas.</p>
-<p>O capítulo aponta duas lacunas importantes que o livro não preenche e que constituem agenda para pesquisas futuras. A primeira é a <strong>educação na primeira infância</strong>: Busemeyer reconhece que a expansão dos serviços de cuidado e educação infantil é um componente crescentemente central do Estado de bem-estar contemporâneo (Esping-Andersen 2002; Morgan 2012), com efeitos demonstrados sobre a desigualdade de oportunidades que se acumulam ao longo do ciclo de vida — e que interagem com os regimes de educação pós-secundária que o livro analisa. A segunda é a <strong>aprendizagem ao longo da vida</strong> (<em>lifelong learning</em>): à medida que a mudança tecnológica acelera a depreciação das habilidades, os sistemas de requalificação de trabalhadores adultos tornam-se mais centrais para a manutenção da igualdade no mercado de trabalho — e sua análise requer um framework comparativo que o presente livro não desenvolve, mas que os achados sobre regimes de habilidades e suas implicações para a desigualdade tornam mais urgente.</p>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Important
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>A nota de encerramento do livro é de um moderado otimismo institucionalista: as trajetórias herdadas são difíceis de mudar, mas não imutáveis. As junctures críticas do passado foram momentos de genuína escolha entre alternativas; o presente oferece novas pressões que podem abrir espaço para reformas. O livro é menos uma narrativa de determinismo de trajetória do que um argumento de que a política <em>deliberada</em> — em contexto — faz diferença, e de que compreender as origens das instituições educacionais é indispensável para reformá-las com eficácia.</p>
-</div>
-</div>
-<hr>
-</section>
-</section>
-<section id="argumento-sintético" class="level2" data-number="9">
-<h2 data-number="9" class="anchored" data-anchor-id="argumento-sintético"><span class="header-section-number">9</span> Argumento Sintético</h2>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong>Tese central:</strong> Os regimes educacionais das democracias industriais ocidentais espelham os mundos do capitalismo de bem-estar porque foram moldados, no período pós-guerra, pelas mesmas coalizões político-econômicas que construíram o Estado de bem-estar; a sobrevivência ou o declínio da educação e formação profissional (VET) como alternativa ao ensino superior acadêmico — e a divisão resultante entre fontes públicas e privadas de financiamento — são os principais mecanismos que conectam essas escolhas políticas históricas a padrões contemporâneos de desigualdade socioeconômica e às atitudes populares que estabilizam ou desafiam as trajetórias institucionais.</p>
-<p><strong>Natureza do argumento:</strong> Causal-histórico com elementos descritivos e microfundamentais. O eixo causal principal é: política partidária contextualizada → design institucional do sistema educacional (dependente, Parte I) → desigualdade socioeconômica e atitudes populares (dependentes, Parte II). O mecanismo é mediado pelas trajetórias de desenvolvimento institucional e pelos efeitos de retroalimentação.</p>
-<p><strong>O que o texto demonstra vs.&nbsp;o que fica como hipótese:</strong></p>
-<ul>
-<li><p><em>Demonstrado com força</em>: (a) a tripartição social-democrata/democrata-cristão/conservador explica padrões cross-nacionais de VET, aprendizagem e financiamento privado melhor do que a dicotomia esquerda-direita; (b) o governo democrata-cristão é o principal fator político que distingue regimes coletivos de aprendizagem dos demais; (c) a VET pública reduz desigualdade salarial e a aprendizagem reduz desemprego juvenil; (d) o contexto institucional macronível modera sistematicamente o efeito da renda individual sobre preferências educacionais.</p></li>
-<li><p><em>Fica como hipótese ou agenda</em>: (a) o mecanismo de feedback ao longo do tempo — que as atitudes formadas pelas instituições realimentam a estabilidade das trajetórias — é plausível mas não diretamente testado com dados longitudinais; (b) a sustentabilidade dos regimes de VET diante da mudança tecnológica acelerada é reconhecida como ameaça mas não modelada; (c) as implicações para além da Europa ocidental industrial são especulativas.</p></li>
-</ul>
-<p><strong>Contribuição ao debate mais amplo:</strong> O livro avança em três frentes simultaneamente: (1) reintegra a educação à pesquisa comparada de Estado de bem-estar, preenchendo o vazio deixado pela afirmação de Wilensky (1975); (2) estende a teoria partidária ao incorporar a distinção democrata-cristã e o contexto de VoC, superando tanto o funcionalismo econômico do VoC puro quanto a simplificação da teoria de recursos de poder; (3) propõe um framework analítico que atravessa os níveis macro (política partidária, design institucional, desigualdade agregada) e micro (preferências individuais, efeitos de contexto), contribuindo para integrar a pesquisa em política comparada, economia política e sociologia educacional.</p>
-</div>
-</div>
-
-
-</section>
-
- ]]></description>
-  <category>Annotated Bibliography</category>
-  <category>Comparative Politics</category>
-  <category>Political Economy</category>
-  <category>Welfare State/Social Policy</category>
-  <category>Inequality</category>
-  <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Busemeyer2015.html</guid>
   <pubDate>Sat, 09 May 2026 03:00:00 GMT</pubDate>
 </item>
 </channel>
