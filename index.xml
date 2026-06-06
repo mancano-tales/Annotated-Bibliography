@@ -488,6 +488,655 @@ Note
   <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
 </item>
 <item>
+  <title>Fichamento: Fronteiras do café: fazendeiros e ‘colonos’ no interior paulista (1917-1937)</title>
+  <dc:creator>Tales Mançano</dc:creator>
+  <link>https://mancano-tales.github.io/Annotated-Bibliography/posts/Faleiros2007.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Informações Técnicas e BibTeX
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<pre><code>Última atualização: 2026-06-06
+Modelo: GPT-5.1 (OpenAI) DeepSeek
+Prompt Version: v17.4 · 2026-05-13
+Gerado em: 2026-06-06T20:45:00-03:00
+Ocasião da Leitura: [Para preenchimento manual do usuário]</code></pre>
+<p><strong>Entrada BibTeX → Faleiros2007</strong></p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@phdthesis</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">Faleiros2007</span>,</span>
+<span id="cb2-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span>    = {Faleiros, Rogério Naques},</span>
+<span id="cb2-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span>     = {Fronteiras do café: fazendeiros e “colonos” no interior paulista (1917-1937)},</span>
+<span id="cb2-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span>      = {2007},</span>
+<span id="cb2-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">school</span>    = {Universidade Estadual de Campinas},</span>
+<span id="cb2-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">address</span>   = {Campinas},</span>
+<span id="cb2-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">type</span>      = {Tese de Doutorado},</span>
+<span id="cb2-8">}</span></code></pre></div></div>
+</div>
+</div>
+</div>
+<section id="ficha-analítica-crítica" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="ficha-analítica-crítica">Ficha Analítica Crítica</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Esta seção segue o formato <em>IA Planilhando Textos v17.4</em>.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Ficha Analítica — Tabela Markdown
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 23%">
+<col style="width: 52%">
+<col style="width: 23%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Dimensão</th>
+<th style="text-align: left;">Raciocínio analítico</th>
+<th style="text-align: left;">Conteúdo</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Questão de Pesquisa</td>
+<td style="text-align: left;">Premissas: (a) a cafeicultura estava em expansão no período, (b) as formas de remuneração variavam conforme o estágio de desenvolvimento, (c) documentação comum permite comparação. Alternativa: poder-se-ia partir de mudanças institucionais ou demográficas para explicar as relações de trabalho. O ponto mais vulnerável é a impossibilidade de medir o peso da amostra (escrituras) em relação ao total de contratos informais, o que o autor reconhece.</td>
+<td style="text-align: left;">Quais foram as formas de contratação de mão-de-obra predominantes num contexto de avanço da fronteira agrícola no estado de São Paulo em suas distintas regiões entre 1917 e 1937? (pergunta explícita, de caráter descritivo-explicativo).</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Questões Secundárias</td>
+<td style="text-align: left;">Derivam logicamente da pergunta central: Como variou o número de contratos de formação/trato de café ao longo do tempo e entre regiões? Quais as diferenças nas condições de acesso ao plantio intercafeeiro? Qual a relação entre produtividade, preços e remuneração dos trabalhadores?</td>
+<td style="text-align: left;">(1) Comparar regiões de cafeicultura antiga (Central, Mogiana, Paulista) e de fronteira (Alta Araraquarense, Noroeste, Douradense, Alta Sorocabana); (2) Identificar os tipos de contrato dominantes (empreitada vs.&nbsp;parceria) e sua evolução; (3) Avaliar como o estágio de desenvolvimento da cafeicultura afetava a remuneração e as possibilidades de plantio de alimentos; (4) Discutir os mecanismos de exploração e desigualdade nas relações contratuais.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Puzzle-Type</td>
+<td style="text-align: left;">O puzzle é descritivo e explicativo: há uma variação regional nas relações de trabalho que a literatura reconhece de forma fragmentada, e o autor propõe uma análise sistemática e comparada para identificar padrões. É genuíno porque a literatura anterior (Holloway, Font, Martins, Sallum Jr.) apontava diferenças entre fronteira e zonas antigas, mas sem um exame conjunto de todas as regiões e sem utilizar sistematicamente as escrituras cartoriais como fonte primária.</td>
+<td style="text-align: left;">Gap descritivo + puzzle explicativo (como explicar a variação regional das relações de trabalho?). A generalização é limitada ao caso paulista, mas a abordagem comparativa é válida para o período e a região.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Conclusão / Argumento Central</td>
+<td style="text-align: left;">O autor argumenta que a remuneração pelo trabalho estava diretamente ligada ao estágio de desenvolvimento da cafeicultura, com contratos mais atraentes para os trabalhadores nas zonas novas (fronteira) devido ao acesso mais amplo a culturas intercalares. Em todas as regiões, as relações de trabalho eram marcadas pela desigualdade, com mecanismos contratuais que favoreciam os fazendeiros. A claim of discovery é a demonstração empírica, por meio de 2.047 escrituras, de que a predominância de parcerias (vs.&nbsp;empreitadas) é um indicador de maturidade/decadência regional, e que a fronteira atraía mão de obra não só por salários mais altos, mas sobretudo por maior acesso à terra para subsistência.</td>
+<td style="text-align: left;">A tese central é que a expansão da fronteira cafeeira entre 1917-1937, estimulada pelas políticas de defesa do café, produziu diferentes regimes contratuais (empreitadas nas zonas novas, parcerias nas antigas), e que o acesso à terra para culturas intercalares foi o principal diferencial de atratividade para os trabalhadores, embora em todos os casos as relações fossem profundamente desiguais e exploratórias.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Métodos</td>
+<td style="text-align: left;">O estudo é de história econômica com método comparativo e análise documental quantitativa e qualitativa. A fonte principal são 2.047 escrituras de formação e trato de cafeeiros lavradas em 14 municípios, divididos em 7 regiões. Complementa com boletins estatísticos da Secretaria da Agricultura (produtividade, número de cafeeiros), cadernetas de colonos (registros contábeis de uma fazenda), almanaques, jornais e bibliografia. A análise é longitudinal (1917-1937) e cross-sectional (comparação entre regiões). Limitações: as escrituras não captam todo o universo de relações de trabalho (colonos com cadernetas, acordos informais). O fichamento cobre a obra completa.</td>
+<td style="text-align: left;">Tipo de estudo: história econômica comparada. Fonte: escrituras cartoriais (2.047), boletins oficiais, cadernetas de colonos, jornais, bibliografia. Técnicas: tabulação, construção de séries históricas, análise de conteúdo de cláusulas contratuais, simulações de rendimentos. Estratégia argumentativa geral: partir da documentação primária para construir evidências sobre a dinâmica regional, contrastando com hipóteses da literatura. Unidade de análise: contratos de trabalho e indicadores agregados por município/região. Limitação: amostra não representa a totalidade das relações de trabalho.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Data Generation Process (DGP)</td>
+<td style="text-align: left;">Fenômeno real: relações de trabalho na cafeicultura. Observação: registros em cartórios (escrituras) e cadernetas. Coleta: pesquisa exaustiva folha por folha de 1.030 livros de notas em 14 cartórios. Operacionalização: classificação dos contratos por tipo (empreitada/parceria/misto), por localização da lavoura, por presença de cláusulas monetárias, por quantidade de cafeeiros. Análise: construção de gráficos e tabelas, comparação regional, simulação de rendimentos com base em produtividade e preços de Ribeirão Preto. Tipo de inferência: descritiva (evolução temporal e distribuição regional) e causal fraca (associação entre estágio de desenvolvimento e tipo de contrato, controle por variáveis observadas). Vieses possíveis: seleção das escrituras (apenas as lavradas, não todos os contratos), viés de fonte (cartórios com conservação variável), viés de observação (ausência de dados sobre comercialização de excedentes).</td>
+<td style="text-align: left;">Fenômeno: relações de trabalho formalizadas ou semiformais. Unidade de análise: contrato, município, região. Nível de agregação: municipal e regional. Operacionalização: contagem de contratos por ano, tipo, faixa de cafeeiros; cálculo de produtividade a partir de dados oficiais; simulação de rendimentos. Vieses identificados: a documentação não capta contratos de colonato típico (registrados em cadernetas, não em escrituras), nem acordos verbais; as escrituras de compra e venda de café usadas para preços são de Ribeirão Preto, não necessariamente os preços efetivamente pagos aos trabalhadores.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Achados e Contribuições</td>
+<td style="text-align: left;">Achados empíricos: (1) O número de contratos cresce nas zonas novas na década de 1920 (pico em 1928-29) e cai após 1929; (2) Nas zonas antigas predominam parcerias (divisão da produção), nas fronteiras predominam empreitadas (formação de novas lavouras); (3) A produtividade média das regiões novas é superior apenas nos primeiros anos, decaindo rapidamente; (4) Cláusulas de pagamento em dinheiro por cova formada são mais frequentes na Noroeste (48-58% das empreitadas) do que na Alta Araraquarense (12%); (5) Mecanismos de exploração (preferência de venda, taxas de beneficiamento, construção de benfeitorias pelo trabalhador, multas rescisórias unilaterais) são recorrentes em todas as regiões. Contribuições teórico-metodológicas: uso sistemático de escrituras cartoriais como fonte para história econômica; demonstração de que o tipo de contrato (empreitada/parceria) é um indicador do estágio de desenvolvimento regional; qualificação do debate sobre ascensão social: as possibilidades eram limitadas, e os trabalhadores não comercializavam livremente seus excedentes.</td>
+<td style="text-align: left;">Achados: (i) 66,5% das escrituras não envolviam pagamento em dinheiro, mas sim participação na produção; (ii) em regiões antigas (Central), parcerias representavam 84% dos contratos; na Noroeste, empreitadas 69%; (iii) produtividade de Jaú (65,06 arrobas/mil pés média 1909-38) superou a de Catanduva (52,08); (iv) a área cultivada em Lins saltou de 3.977 alqueires (1920) para 31.325 (1934); (v) a fronteira atraiu mão de obra principalmente pela disponibilidade de terra para culturas intercalares, não por salários mais altos (valores por mil pés eram similares). Contribuição: fornece base empírica robusta para a tese da heterogeneidade regional e do caráter desigual das relações de trabalho.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Análise Crítica dos Achados</td>
+<td style="text-align: left;">O autor responde adequadamente à pergunta central? Sim, no sentido de descrever e comparar as formas contratuais. No entanto, o argumento sobre a atratividade da fronteira (acesso à terra) é bem estabelecido, mas a evidência de que os trabalhadores efetivamente se beneficiavam mais (excedentes comercializáveis) é inferencial, pois faltam dados sobre os preços reais recebidos e as quantidades vendidas. Os cálculos de rendimento são simulados com preços de Ribeirão Preto, que podem não refletir as condições reais de venda dos trabalhadores (sujeitos a arbitragens e endividamento). O autor critica Holloway e Font por superestimarem a livre comercialização, mas não oferece dados quantitativos alternativos sobre os preços nas vendas das fazendas. A análise das cadernetas da Fazenda Pau d’Alho (Campinas) é rica, mas limitada a uma propriedade e a um período de crise (1929-31). As simulações de rendimento são úteis como exercício, mas a ausência de dados sobre gastos reais dos trabalhadores torna qualquer conclusão sobre “ascensão social” especulativa. O ponto forte é a documentação dos mecanismos contratuais de exploração (multas, cauções, trabalho gratuito, monopólio do beneficiamento). O argumento de que as empreitadas eram preferidas pelos trabalhadores é plausível, mas não há evidência direta de preferência (apenas inferência a partir da maior oferta de contratos na fronteira).</td>
+<td style="text-align: left;">Vulnerabilidades: (1) A inferência sobre a atratividade da fronteira baseia-se em oferta de contratos, não em dados de migração ou depoimentos de trabalhadores. (2) As simulações de rendimento assumem que o trabalhador vende a produção ao preço de mercado de Ribeirão Preto, o que contradiz a própria evidência do autor sobre “estreitamento de mercado”. (3) O autor afirma que os trabalhadores preferiam lavouras conjugadas (café + alimentos), mas não mensura o ganho de produtividade do trabalho familiar nesse arranjo. (4) A crítica aos autores que defendem a ascensão social (Font, Holloway) é pertinente, mas a evidência contrária também é limitada (poucas cadernetas, sem acompanhamento longitudinal de trajetórias). (5) O DGP tem um viés de seleção importante: as escrituras representam apenas contratos formalizados; muitos trabalhadores (colonos stricto sensu, camaradas) não aparecem. (6) O autor não explora a possibilidade de que as diferenças regionais fossem também afetadas por fatores políticos (atuação do Patronato Agrícola) ou por características dos imigrantes (origem, capital social).</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Limitações</td>
+<td style="text-align: left;"><strong>Reconhecidas pelos autores:</strong> (1) A amostra de escrituras não apreende toda a mão de obra arregimentada, pois contratos de colonato eram registrados em cadernetas, não em escrituras. (2) Muitas relações de trabalho não deixaram registro público. (3) Dificuldades de conservação e acesso aos livros cartoriais. (4) Impossibilidade de mensurar o impacto das culturas intercalares na renda dos trabalhadores por falta de dados. (5) Dificuldade de comparar remunerações devido às diferentes formas de pagamento (café vs.&nbsp;dinheiro). <br> <strong>Não reconhecidas ou subestimadas:</strong> (1) O uso dos preços de Ribeirão Preto para todas as simulações ignora a possibilidade de diferenciais regionais significativos. (2) A análise não considera a sazonalidade da demanda por trabalho (colheita vs.&nbsp;trato) e como isso afetava a renda anual. (3) Não há discussão sobre o papel do gênero e da idade na divisão do trabalho familiar, embora o autor mencione que a família era a unidade de contrato. (4) A hipótese de que os trabalhadores não comercializavam livremente os excedentes é plausível, mas não é testada empiricamente (falta comparação entre preços da fazenda e preços de mercado). (5) O estudo não explora a relação entre os fazendeiros e os compradores/comissários, que também influenciava as condições de exploração. (6) A amostra de cadernetas é pequena (20) e restrita a uma fazenda em Campinas (zona antiga), o que limita a generalização sobre a situação dos colonos na fronteira.</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Perspectiva Teórica</td>
+<td style="text-align: left;">O autor se situa na tradição da história econômica e social brasileira, dialogando com autores como José de Souza Martins (Cativeiro da Terra), Brasílio Sallum Jr.&nbsp;(Capitalismo e Cafeicultura), Thomas Holloway, Verena Stolcke. A perspectiva é materialista, focada nas relações de produção e nas formas de exploração. A noção de “fronteira” é tomada de Maria da Conceição Tavares e Lígia Osório Silva, com ênfase na reprodução de desigualdades. O autor não adota explicitamente um quadro teórico único, mas opera com conceitos de “relações capitalistas e pré-capitalistas” (Sallum Jr.), “cativeiro da terra” (Martins), e “complexo cafeeiro”. A ontologia é realista: o autor acredita que as escrituras documentam práticas reais e que os padrões observáveis correspondem a estruturas subjacentes (estágios de desenvolvimento). A coerência entre ontologia e método é adequada: a análise documental quantitativa e qualitativa busca capturar regularidades objetivas.</td>
+<td style="text-align: left;">Tradição: história econômica, sociologia rural. Referências: Martins (1979), Sallum Jr.&nbsp;(1982), Holloway (1984), Stolcke (1986), Font (1985), Tavares (2000). Conceitos-chave: fronteira agrícola, colonato, empreitada, parceria, culturas intercalares, estreitamento de mercado. Adequação: a moldura é apropriada para a pergunta sobre variação regional das relações de trabalho. Coerência: a operacionalização dos conceitos (empreitada vs.&nbsp;parceria como indicadores de estágio) é consistente com a ontologia (relações de produção determinadas pelo desenvolvimento das forças produtivas).</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Principais Referências</td>
+<td style="text-align: left;">Martins (1979), Sallum Jr.&nbsp;(1982), Holloway (1984), Stolcke (1986), Font (1985), Vangelista (1991), Milliet (1939, 1982), Camargo (1981), Monbeig (1984), Dean (1977), Tavares (2000), Osório Silva (1996, 2001). O diálogo com a literatura brasileira é amplo, mas há pouca referência a trabalhos internacionais recentes sobre história do trabalho e fronteira fora do Brasil (exceto menções a Turner). O autor também dialoga com economistas como Delfim Netto, Furtado, Cardoso de Mello. A bibliografia é adequada para o objeto, mas a discussão sobre “ascensão social” poderia ter se beneficiado de referências a estudos de mobilidade social quantitativos.</td>
+<td style="text-align: left;">A obra se apoia fortemente nos clássicos da história econômica paulista (Milliet, Camargo, Monbeig) e nos debates dos anos 1970-80 sobre colonato. A novidade está no uso das escrituras cartoriais e na análise comparativa regional. A crítica a Font e Holloway é um ponto de diálogo importante.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Observações</td>
+<td style="text-align: left;">Vulnerabilidade adicional: o autor não apresenta um índice de Gini ou outra medida estatística para comparar a concentração fundiária entre regiões, embora use dados de Milliet. A análise das cadernetas é qualitativa e não permite inferências robustas sobre a população de colonos. A ausência de dados sobre os preços efetivamente pagos pelos fazendeiros aos trabalhadores (e não os preços de mercado) é uma lacuna que o autor reconhece, mas não preenche. Relevância para a pesquisa do leitor: a tese é uma referência obrigatória para quem estuda história do trabalho rural no Brasil, especialmente para o uso de fontes cartoriais. O argumento sobre a relação entre tipo de contrato e estágio de desenvolvimento é exportável para outros contextos de fronteira agrícola.</td>
+<td style="text-align: left;">O fichamento cobre a obra completa (introdução, 8 capítulos e considerações finais). O autor demonstra domínio da documentação e uma capacidade de síntese comparativa notável. A principal contribuição é empírica, mais do que teórica. O trabalho é um exemplo de como fontes notariais podem ser usadas para reconstituir dinâmicas econômicas e sociais.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</section>
+<section id="mapa-argumentativo" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="mapa-argumentativo">Mapa Argumentativo</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 13%">
+<col style="width: 10%">
+<col style="width: 29%">
+<col style="width: 45%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Capítulo</th>
+<th style="text-align: left;">Título</th>
+<th style="text-align: left;">Função argumentativa</th>
+<th style="text-align: left;">Contribuição para a tese central</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Introdução (pp.&nbsp;1-18)</td>
+<td style="text-align: left;">Apresentação do problema, metodologia e revisão de literatura</td>
+<td style="text-align: left;">Apresentação do puzzle, definição do recorte, exposição da metodologia e das fontes</td>
+<td style="text-align: left;">Estabelece a pergunta de pesquisa, os pressupostos, o recorte temporal (1917-1937) e espacial (7 regiões, 14 municípios), a fonte principal (2.047 escrituras) e a discussão com a literatura (Martins, Sallum, Holloway, Font, Stolcke, Vangelista).</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Capítulo I (pp.&nbsp;19-50)</td>
+<td style="text-align: left;">A defesa do café e o avanço da fronteira agrícola</td>
+<td style="text-align: left;">Contextualização histórica e análise das políticas de valorização</td>
+<td style="text-align: left;">Discute as políticas de defesa do café (1917-20, 1921-24, defesa permanente a partir de 1924), seus efeitos na expansão da oferta, e as características da ocupação da fronteira (grilagem, posseiros, bugreiros, heterogeneidade fundiária). Fornece o cenário macro para a análise micro das relações de trabalho.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Capítulo II (pp.&nbsp;51-106)</td>
+<td style="text-align: left;">Região Central: Campinas e Rio Claro</td>
+<td style="text-align: left;">Estudo de caso de região antiga / decadente</td>
+<td style="text-align: left;">Mostra o baixo número de contratos (apenas 44), predominância de parcerias (84%) e reduzida formação de novas lavouras (10,3% em Campinas). Utiliza cadernetas de colonos da Fazenda Pau d’Alho para evidenciar saldos baixos e endividamento. Demonstra que a atratividade da fronteira se deveu à estagnação local.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Capítulo III (pp.&nbsp;107-165)</td>
+<td style="text-align: left;">Região Mogiana: Ribeirão Preto e Franca</td>
+<td style="text-align: left;">Comparação dentro de uma mesma região entre grande propriedade (Rib. Preto) e propriedade mais fragmentada (Franca)</td>
+<td style="text-align: left;">Mostra que em Ribeirão Preto predominavam grandes fazendas, com poucos contratos (66) e queda de produtividade; em Franca, propriedades menores e mais numerosas, com 188 contratos e expansão na década de 1920. Destaca que 80% das empreitadas de Ribeirão Preto eram para formar lavouras em outros municípios (fronteira).</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Capítulo IV (pp.&nbsp;167-222)</td>
+<td style="text-align: left;">Região Paulista: São Carlos e Araraquara</td>
+<td style="text-align: left;">Estudo de caso de região intermediária/antiga com diferenciação interna</td>
+<td style="text-align: left;">Mostra que São Carlos (mais concentrado) teve menor capacidade de resposta (52 contratos) e queda acentuada após 1929; Araraquara (mais fragmentado) teve 53 contratos e alguma reação. Predominância de parcerias (54%). Explora mecanismos de exploração contratual.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Capítulo V (pp.&nbsp;223-264)</td>
+<td style="text-align: left;">Região Alta Sorocabana: Botucatu e São Manuel</td>
+<td style="text-align: left;">Estudo de caso de região híbrida (antiga e nova)</td>
+<td style="text-align: left;">Baixo número de contratos (116), predominância de parcerias (66%). São Manuel, apesar de ter grandes fazendas e alta produtividade, teve apenas 20 contratos, sugerindo que a maior parte das relações de trabalho não era registrada em cartório.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Capítulo VI (pp.&nbsp;265-310)</td>
+<td style="text-align: left;">Região Douradense: Jaú e Novo Horizonte</td>
+<td style="text-align: left;">Contraste entre município antigo (Jaú) e novo (Novo Horizonte)</td>
+<td style="text-align: left;">Jaú: 171 contratos, predominância de parcerias (56%), mas com muitas empreitadas (32%) indicando alguma renovação. Novo Horizonte: 122 contratos, predominância de empreitadas (62%), típica de fronteira. Mostra que a expansão da cafeicultura em Jaú na década de 1920 foi puxada por pequenos e médios produtores.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Capítulo VII (pp.&nbsp;311-353)</td>
+<td style="text-align: left;">Região Alta Araraquarense: São José do Rio Preto e Catanduva</td>
+<td style="text-align: left;">Estudo de caso de região de fronteira (década de 1910-20)</td>
+<td style="text-align: left;">Alto número de contratos (501), predominância de empreitadas (60% em Rio Preto, 50% em Catanduva). A maioria dos contratos não envolvia pagamento em dinheiro (apenas 10-14% tinham cláusulas monetárias). Mostra a importância do acesso à terra como remuneração e a atuação de empreiteiros japoneses.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Capítulo VIII (pp.&nbsp;355-398)</td>
+<td style="text-align: left;">Região Noroeste: Lins e Pirajuí</td>
+<td style="text-align: left;">Estudo de caso da última fronteira (década de 1920)</td>
+<td style="text-align: left;">Maior número de contratos (734), predominância de empreitadas (69%), e maior frequência de pagamentos em dinheiro (48% em Lins, 58% em Pirajuí). Mostra o auge da expansão em 1928-29 e o colapso após a crise. Produtividade elevada nos primeiros anos, mas queda rápida.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Considerações finais (pp.&nbsp;399-430)</td>
+<td style="text-align: left;">Síntese dos resultados e conclusões</td>
+<td style="text-align: left;">Reafirma a tese central e apresenta gráficos de dispersão correlacionando idade dos municípios com contratos, empreitadas e parcerias</td>
+<td style="text-align: left;">Conclui que (1) a fronteira avançou em função dos preços, da queda de produtividade nas áreas antigas e da necessidade de reduzir custos monetários; (2) nas zonas novas predominaram empreitadas, nas antigas parcerias; (3) a produtividade das zonas novas era alta apenas nos primeiros anos, declinando rapidamente; (4) as relações de trabalho eram profundamente desiguais, com mecanismos contratuais que exploravam os trabalhadores; (5) o acesso à terra (culturas intercalares) foi o principal atrativo da fronteira, mais do que salários monetários.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="fichamento-detalhado" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="fichamento-detalhado"><span class="header-section-number">1</span> Fichamento Detalhado</h2>
+<section id="introdução-pp.-1-18" class="level3" data-number="1.1">
+<h3 data-number="1.1" class="anchored" data-anchor-id="introdução-pp.-1-18"><span class="header-section-number">1.1</span> Introdução (pp.&nbsp;1-18)</h3>
+<section id="apresentação-do-problema-e-justificativa-18" class="level4" data-number="1.1.1">
+<h4 data-number="1.1.1" class="anchored" data-anchor-id="apresentação-do-problema-e-justificativa-18"><span class="header-section-number">1.1.1</span> Apresentação do problema e justificativa [§1–§8]</h4>
+<p>O autor inicia situando sua pesquisa no debate sobre as relações de trabalho na cafeicultura paulista durante a República Velha e anos subsequentes. A literatura (Martins, Sallum Jr., Holloway, Stolcke, Font, Vangelista) já havia discutido aspectos dessas relações, mas nenhum trabalho se propôs a fazer uma análise conjunta das distintas regiões do chamado “oeste paulista”. Holloway e Font destacaram que nas regiões de fronteira as formas de remuneração foram mais favoráveis aos colonos do que nas regiões de desenvolvimento mais antigo (Campinas, Ribeirão Preto na década de 1920).</p>
+<blockquote class="blockquote">
+<p><strong>Puzzle central (reconstruído):</strong> Quais foram as formas de contratação de mão-de-obra predominantes num contexto de avanço da fronteira agrícola em São Paulo, e como elas variaram entre as distintas regiões?</p>
+</blockquote>
+<p>Os pressupostos da pesquisa são: (a) a cafeicultura estava em expansão no período, incorporando novas áreas; (b) a análise deve incluir tanto regiões antigas quanto de fronteira para permitir comparação; (c) é necessária uma documentação comum para estabelecer séries evolutivas; (d) dados de produtividade são indispensáveis.</p>
+</section>
+<section id="periodização-e-recorte-espacial-915" class="level4" data-number="1.1.2">
+<h4 data-number="1.1.2" class="anchored" data-anchor-id="periodização-e-recorte-espacial-915"><span class="header-section-number">1.1.2</span> Periodização e recorte espacial [§9–§15]</h4>
+<p>O intervalo de 1917-1937 foi escolhido por dois motivos: (1) vigoraram programas de defesa dos preços do café (permanentes a partir de 1924); (2) novas zonas foram abertas (Alta Araraquarense, Douradense, Noroeste, Alta Sorocabana), enquanto zonas antigas (Central, Mogiana, Paulista) com solos desgastados foram aproveitadas mais intensamente. A produção paulista subiu de 14,1 milhões de sacas em 1914/15 para 24,2 milhões em 1929/30. O marco final de 1937 corresponde ao estabelecimento da “política da concorrência”, abolindo a sustentação dos preços.</p>
+<p>Foram selecionados 14 municípios representativos de 7 regiões, com base nos dados de José Francisco de Camargo:</p>
+<ul>
+<li><strong>Região Central:</strong> Campinas e Rio Claro</li>
+<li><strong>Região Mogiana:</strong> Ribeirão Preto e Franca</li>
+<li><strong>Região Paulista:</strong> São Carlos e Araraquara</li>
+<li><strong>Região Alta Sorocabana:</strong> Botucatu e São Manuel</li>
+<li><strong>Região Douradense:</strong> Jaú e Novo Horizonte</li>
+<li><strong>Região Alta Araraquarense:</strong> São José do Rio Preto e Catanduva</li>
+<li><strong>Região Noroeste:</strong> Lins e Pirajuí</li>
+</ul>
+<p>O autor justifica pequenas modificações em relação à regionalização clássica (Milliet, Camargo): Rio Claro é alocado na Central (não na Paulista) por ter desenvolvimento mais antigo e próximo ao de Campinas; a Douradense é desmembrada da Alta Araraquarense; a Noroeste é estudada separadamente.</p>
+</section>
+<section id="fonte-documental-e-metodologia-1623" class="level4" data-number="1.1.3">
+<h4 data-number="1.1.3" class="anchored" data-anchor-id="fonte-documental-e-metodologia-1623"><span class="header-section-number">1.1.3</span> Fonte documental e metodologia [§16–§23]</h4>
+<p>A fonte principal são as escrituras de formação e/ou trato de café lavradas nos Livros de Notas dos Cartórios dos municípios selecionados. Esses livros constituíam a única forma de registro público à época. Foram pesquisados 1.030 livros, resultando em 2.047 escrituras. As escrituras fornecem: nomes das partes, quantidade e estado dos cafeeiros, formas de remuneração, nome das fazendas, cláusulas sobre acesso a culturas intercafeeiras, multas rescisórias, termos de garantia, adiantamentos e duração dos contratos.</p>
+<p>Os dois tipos predominantes de escritura são:</p>
+<ul>
+<li><strong>Empreitadas:</strong> trabalhadores contratados para formar novos cafeeiros, recebendo como pagamento a totalidade da produção das árvores contratadas (geralmente após 4 anos) e, em alguns casos, uma quantia por cova formada.</li>
+<li><strong>Parcerias:</strong> trabalhadores recebem metade da produção de cafeeiros já formados ou com formação quase concluída.</li>
+</ul>
+<p><strong>Nota 1:</strong> A documentação tem a limitação de não apreender toda a mão de obra, pois os colonos <em>stricto sensu</em> (contratos de colonato) eram registrados em cadernetas, não em escrituras. Além disso, muitas relações de trabalho não deixaram qualquer registro público ou privado. O autor reconhece que não é possível mensurar o que a amostra representa em relação ao total, mas defende sua significância pela metodologia adotada.</p>
+</section>
+<section id="revisão-de-literatura-e-debate-sobre-ascensão-social-2433" class="level4" data-number="1.1.4">
+<h4 data-number="1.1.4" class="anchored" data-anchor-id="revisão-de-literatura-e-debate-sobre-ascensão-social-2433"><span class="header-section-number">1.1.4</span> Revisão de literatura e debate sobre ascensão social [§24–§33]</h4>
+<p>O autor resume as principais posições do debate:</p>
+<ul>
+<li><p><strong>Martins (1979):</strong> O colonato é uma relação “não-capitalista” produzida e organizada a partir dos interesses da produção capitalista (“produção capitalista de relações não capitalistas de produção”). As possibilidades de ascensão social eram muito reduzidas devido ao endividamento inicial, às economias de caderneta e à monopolização do potencial de compra dos colonos. O acesso à terra construía a ilusão de que trabalhavam para si.</p></li>
+<li><p><strong>Sallum Jr.&nbsp;(1982):</strong> Os fazendeiros são ao mesmo tempo proprietários territoriais e capitalistas; os colonos são assalariados e arrendatários em regime de subsistência. O colonato constitui uma dupla vinculação (capitalista e pré-capitalista), mais latente nas fazendas de fronteira com maior disponibilidade de terras para culturas intercalares.</p></li>
+<li><p><strong>Vangelista (1991):</strong> É necessário discriminar as ofertas e demandas por trabalho, dada a complexidade das etapas de produção do café (derrubada, formação, trato, colheita, beneficiamento). A ascensão social não pode ser discutida de forma homogênea.</p></li>
+<li><p><strong>Stolcke (1986):</strong> Os proprietários empregavam núcleos familiares para explorar ao máximo toda a família, com a autoridade do pai/marido sendo central. A remuneração era coletiva, não individual.</p></li>
+<li><p><strong>Holloway (1984) e Font (1985):</strong> A fronteira agrícola em expansão criava instabilidade nas zonas antigas, com intenso deslocamento de colonos para as regiões mais novas. Os contratos de formação (empreitadas) eram mais atraentes devido à maior disponibilidade de terras para culturas intercalares. Font argumenta que a combinação própria do colonato permitiu a alguns trabalhadores tornarem-se produtores independentes.</p></li>
+</ul>
+<p>O autor se posiciona como alguém que vai examinar a documentação para agregar novas informações a esse debate, partindo da constatação de Holloway e Font sobre as diferenças entre fronteira e zonas antigas, mas sem assumir acriticamente a tese da ascensão social.</p>
+</section>
+</section>
+<section id="capítulo-i-a-defesa-do-café-e-o-avanço-da-fronteira-agrícola-pp.-19-50" class="level3" data-number="1.2">
+<h3 data-number="1.2" class="anchored" data-anchor-id="capítulo-i-a-defesa-do-café-e-o-avanço-da-fronteira-agrícola-pp.-19-50"><span class="header-section-number">1.2</span> Capítulo I — A defesa do café e o avanço da fronteira agrícola (pp.&nbsp;19-50)</h3>
+<section id="políticas-de-valorização-do-café-1917-1930-122" class="level4" data-number="1.2.1">
+<h4 data-number="1.2.1" class="anchored" data-anchor-id="políticas-de-valorização-do-café-1917-1930-122"><span class="header-section-number">1.2.1</span> Políticas de valorização do café (1917-1930) [§1–§22]</h4>
+<p>O capítulo inicia com uma visão geral da década de 1920 como momento privilegiado para observar as relações de trabalho na cafeicultura. A produção média cresceu de 14,1 milhões de sacas (1914/15-1918/19) para 24,2 milhões (1929/30-1933/34). A receita das exportações pulou de 527 mil contos de réis (1910-1918) para mais de 2 milhões de contos (1919-1929).</p>
+<p>As políticas de valorização do café foram implementadas em três momentos:</p>
+<ol type="1">
+<li><p><strong>1917-20:</strong> Intervenção do estado de São Paulo para sustentar os preços diante da safra volumosa (15 milhões de sacas) e da queda do consumo devido à Primeira Guerra. A geada de 1918 reduziu a oferta, elevando os preços. O estado lucrou com as operações.</p></li>
+<li><p><strong>1921-24:</strong> Depressão pós-guerra nos EUA levou à queda dos preços. O governo federal interveio, levantando empréstimo externo de 9 milhões de libras. A safra de 1921/22 e 1922/23 foi das menores, e o estoque mundial caiu de 10 para 5,3 milhões de sacas.</p></li>
+<li><p><strong>Defesa permanente (a partir de 1924):</strong> Criou-se o Instituto do Café (depois Instituto de Defesa do Café). Uma taxa de 1 mil-réis por saca serviu de garantia para empréstimos externos. Os fazendeiros depositavam o café nos armazéns e recebiam “conhecimentos de depósito” que podiam descontar nos bancos. O objetivo era regular a entrada da safra no porto de Santos.</p></li>
+</ol>
+<blockquote class="blockquote">
+<p><strong>Nota 2:</strong> A defesa permanente tinha três pressupostos: (a) a safras excepcionais são seguidas de safras menores; (b) com recursos, é possível reter o excesso para defender os preços; (c) a regularização dos despachos impede que importadores façam estoques a preços baixos. Na prática, a política encorajou novos plantios, aumentando os estoques e agravando a superprodução.</p>
+</blockquote>
+</section>
+<section id="consequências-da-crise-de-1929-e-a-queima-do-café-2334" class="level4" data-number="1.2.2">
+<h4 data-number="1.2.2" class="anchored" data-anchor-id="consequências-da-crise-de-1929-e-a-queima-do-café-2334"><span class="header-section-number">1.2.2</span> Consequências da crise de 1929 e a queima do café [§23–§34]</h4>
+<p>Com a crise de 1929, os bancos americanos restringiram o crédito. O preço do café Santos tipo 4 caiu de 22,4 centavos/libra (setembro de 1929) para 12,0 centavos (segundo semestre de 1930). Washington Luís abandonou o Instituto do Café, apostando que uma baixa dos preços aumentaria as exportações. Celso Furtado argumenta que a crise foi sobretudo uma crise de oferta, gestada na década de 1920. A solução encontrada foi a queima de café, financiada pelo governo federal, para manter o emprego e a renda no setor exportador.</p>
+<p>De 1931 a 1933, o Conselho Nacional do Café (CNC) e depois o Departamento Nacional do Café (DNC) adotaram cotas de exportação e destruição de excedentes. A partir de 1937, estabeleceu-se a “política de concorrência”, abandonando a sustentação dos preços. O autor termina a seção assinalando a importância estratégica do café para o processo de industrialização brasileiro, mesmo após a crise.</p>
+</section>
+<section id="a-fronteira-agrícola-grileiros-posseiros-e-estrutura-fundiária-3550" class="level4" data-number="1.2.3">
+<h4 data-number="1.2.3" class="anchored" data-anchor-id="a-fronteira-agrícola-grileiros-posseiros-e-estrutura-fundiária-3550"><span class="header-section-number">1.2.3</span> A fronteira agrícola: grileiros, posseiros e estrutura fundiária [§35–§50]</h4>
+<p>O autor discute o conceito de fronteira como “faixa territorial continuamente em movimento” (Lígia Osório Silva). No Brasil, diferentemente dos EUA (mito turneriano das oportunidades), a fronteira foi palco de grilagem, violência contra índios, e concentração fundiária. A década de 1920 ficou conhecida como o “Jubileu do Grileiro”, com a lei n.&nbsp;1.844 de 1921 legalizando posses irregulares entre 1895 e 1921.</p>
+<p>A região de São José do Rio Preto, por exemplo, estava dividida em cerca de doze glebas de trinta mil alqueires cada, em média. O grileiro precedia o colonizador, e a terra era especulada antes mesmo de ser cultivada. Pierre Monbeig destaca que a fronteira oeste de São Paulo foi palco tanto da grande fazenda quanto da pequena propriedade, especialmente a partir da fragmentação das grandes propriedades após a crise.</p>
+<p>O autor apresenta uma tabela (Tabela 1, p.&nbsp;48-49) com faixas de propriedade em diversas regiões paulistas entre 1930-31 e 1935-36, mostrando que o crescimento das pequenas propriedades foi mais acentuado na Noroeste (de 6.505 para 28.641) e na Alta Araraquarense (de 15.997 para 24.540) do que na Paulista e Mogiana.</p>
+<p><strong>Nota 3:</strong> Monbeig alerta que a condição de pequeno proprietário não é sinônimo de ascensão social. Os pequenos proprietários muitas vezes careciam de técnica, capital e acesso a mercados, e suas lavouras eram menos produtivas. O autor conclui que nunca existiram projetos amplos de consolidação da pequena agricultura em São Paulo.</p>
+</section>
+</section>
+</section>
+<section id="capítulo-ii-região-central-campinas-e-rio-claro-pp.-51-106" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="capítulo-ii-região-central-campinas-e-rio-claro-pp.-51-106"><span class="header-section-number">2</span> Capítulo II — Região Central: Campinas e Rio Claro (pp.&nbsp;51-106)</h2>
+<section id="caracterização-da-região-e-escassez-de-contratos-cap.2-18" class="level3" data-number="2.1">
+<h3 data-number="2.1" class="anchored" data-anchor-id="caracterização-da-região-e-escassez-de-contratos-cap.2-18"><span class="header-section-number">2.1</span> Caracterização da região e escassez de contratos [Cap.2 §1–§8]</h3>
+<p>O autor inicia caracterizando Campinas e Rio Claro como as zonas mais antigas da pesquisa, com desenvolvimento da cafeicultura remontando à época da escravidão. A produtividade já estava em queda contínua, e o reduzido número de escrituras (29 em Campinas, 15 em Rio Claro) reflete essa decadência. Em Campinas, foram vasculhados 126 livros de notas; em Rio Claro, 94 livros — o esforço foi significativo, mas os resultados são escassos.</p>
+<p>A região Central foi o berço da transição do trabalho escravo para o trabalho livre na cafeicultura paulista. Congresso Agrícola de 1878, com forte participação campineira, discutiu as formas de transição. A elite campineira produziu lideranças como Campos Salles. A estrutura produtiva das fazendas campineiras era mais moderna que a do Vale do Paraíba: terreiros de tijolos ou cimento, máquinas de beneficiamento importadas, plantio acompanhando curvas de nível.</p>
+<p><strong>Nota 4:</strong> O Instituto Agronômico de Campinas (IAC), fundado em 1887, tornou Campinas o maior centro de pesquisa em cafeicultura do país. No entanto, a produção de café no município caiu de 1.227.460 arrobas em 1905 para 260.852 em 1940. Em Rio Claro, a queda foi de 233.000 para 155.982 no mesmo período.</p>
+</section>
+<section id="a-cafeicultura-em-campinas-e-rio-claro-apogeu-e-declínio-cap.2-921" class="level3" data-number="2.2">
+<h3 data-number="2.2" class="anchored" data-anchor-id="a-cafeicultura-em-campinas-e-rio-claro-apogeu-e-declínio-cap.2-921"><span class="header-section-number">2.2</span> A cafeicultura em Campinas e Rio Claro: apogeu e declínio [Cap.2 §9–§21]</h3>
+<p>O autor revisita a literatura sobre os dois municípios. Warren Dean (1977) mostra que Rio Claro teve experiências com trabalho livre na década de 1870, mas as condições de ascensão social dos imigrantes eram reduzidas. Diana Diniz (1973) aponta que a crise de superprodução de 1898-1906 foi o momento definitivo de declínio da cafeicultura em grande escala em Rio Claro. Em 1905, havia 761.000 pés de café abandonados. Fábio Santos (2001) destaca que a cidade perdeu a condição de “ponta de trilho” após a ferrovia avançar para São Carlos, mas manteve-se como centro logístico devido à baldeação entre bitolas.</p>
+<p>Em Campinas, a queda da produção foi ainda mais acentuada. Em 1909, produzia-se 45,5 arrobas por mil pés; em 1938, apenas 29. O número de cafeeiros caiu de quase 30 milhões para 16,7 milhões entre 1920 e 1934. A região Central foi a que teve a menor capacidade de resposta às políticas de defesa do café. O gráfico 2 (p.&nbsp;68) mostra o baixo número de contratos, com pico de apenas 6 escrituras em 1924.</p>
+</section>
+<section id="contratos-e-condições-de-trabalho-na-região-central-cap.2-2235" class="level3" data-number="2.3">
+<h3 data-number="2.3" class="anchored" data-anchor-id="contratos-e-condições-de-trabalho-na-região-central-cap.2-2235"><span class="header-section-number">2.3</span> Contratos e condições de trabalho na Região Central [Cap.2 §22–§35]</h3>
+<p>O autor reproduz uma escritura de parceria de 1923 (p.&nbsp;71-72) entre Sylvio de Oliveira Andrade e quatro colonos italianos (Santo Massa, João Marin, Joaquim Marin, Angelo Hen). O contrato envolvia 58.500 pés de café, com os colonos responsáveis por parte já formada e parte a formar. A remuneração era metade da produção. A quarta cláusula definia o plantio intercafeeiro: apenas uma carreira de milho nas replantas até dois anos, duas carreiras de milho nos cafezais novos até três anos, e três carreiras de feijão nos cafezais formados. A disponibilidade de espaço era muito reduzida em comparação com zonas novas como Franca.</p>
+<p>O Gráfico 5 (p.&nbsp;75) mostra a situação dos cafeeiros na Região Central: 59% já estavam formados, 27% em formação, 14% mistos. Isso contrasta com Franca (41% em formação) e Pirajuí (69% empreitadas). A predominância de parcerias (84%) é um atestado da maturidade/decadência regional.</p>
+<blockquote class="blockquote">
+<p><strong>Conceito-chave:</strong> O cultivo intercafeeiro conjugado (plantar alimentos entre as fileiras do café) era preferido pelos trabalhadores porque permitia que a família cuidasse das duas atividades simultaneamente, otimizando a força de trabalho. Quando o terreno extra era fornecido fora do cafezal, a família tinha que dividir seu tempo entre duas áreas, reduzindo a produtividade.</p>
+</blockquote>
+</section>
+<section id="simulações-de-rendimento-e-comparação-com-outras-regiões-cap.2-3648" class="level3" data-number="2.4">
+<h3 data-number="2.4" class="anchored" data-anchor-id="simulações-de-rendimento-e-comparação-com-outras-regiões-cap.2-3648"><span class="header-section-number">2.4</span> Simulações de rendimento e comparação com outras regiões [Cap.2 §36–§48]</h3>
+<p>O autor realiza simulações de rendimento para parceiros e empreiteiros em Campinas, Rio Claro, Ribeirão Preto e Pirajuí, utilizando preços de Ribeirão Preto e produtividades dos boletins oficiais. Os resultados são expressivos:</p>
+<ul>
+<li><strong>Rio Claro (parceria, 24.000 pés, 1924-28):</strong> receberia 50.499$540 (Tabela 2, p.&nbsp;78)</li>
+<li><strong>Campinas (parceria, 24.000 pés, 1924-28):</strong> receberia 67.140$280 (Tabela 3, p.&nbsp;79)</li>
+<li><strong>Ribeirão Preto (parceria, 24.000 pés, 1924-28):</strong> receberia 80.555$020 (Tabela 4, p.&nbsp;79)</li>
+<li><strong>Pirajuí (parceria, 24.000 pés, 1924-28):</strong> receberia 94.653$660 (Tabela 5, p.&nbsp;80)</li>
+</ul>
+<blockquote class="blockquote">
+<p><strong>Nota 5:</strong> Esses valores são brutos, desconsiderando gastos com adubação, ferramentas, transporte, beneficiamento, e endividamento. O autor adverte que “fatalmente dívidas entre os parceiros e os fazendeiros seriam registradas, o que certamente diminuiria a sua efetiva remuneração anual” (p.&nbsp;78-79).</p>
+</blockquote>
+<p>A diferença de produtividade explica a variação. O parceiro em Pirajuí receberia praticamente o dobro do que em Rio Claro. O autor conclui que “o sonho estava na fronteira”.</p>
+</section>
+<section id="preços-do-café-e-circuito-comercial-cap.2-4952" class="level3" data-number="2.5">
+<h3 data-number="2.5" class="anchored" data-anchor-id="preços-do-café-e-circuito-comercial-cap.2-4952"><span class="header-section-number">2.5</span> Preços do café e circuito comercial [Cap.2 §49–§52]</h3>
+<p>O Gráfico 7 (p.&nbsp;84) mostra a evolução dos preços do café em Campinas entre 1917 e 1937, com pico em 1925 (cerca de 50 mil-réis por arroba) e queda acentuada após 1929. As escrituras de compra e venda revelam que Campinas mantinha-se como um dos principais núcleos de comercialização, com compradores e vendedores de diversas regiões (Jacutinga-MG, Itapira, São Carlos, Pirajuí, etc.). O tipo mais comum negociado era o tipo 4 da Bolsa de Santos.</p>
+</section>
+<section id="cadernetas-de-colonos-da-fazenda-pau-dalho-1927-1931-cap.2-5368" class="level3" data-number="2.6">
+<h3 data-number="2.6" class="anchored" data-anchor-id="cadernetas-de-colonos-da-fazenda-pau-dalho-1927-1931-cap.2-5368"><span class="header-section-number">2.6</span> Cadernetas de colonos da Fazenda Pau d’Alho (1927-1931) [Cap.2 §53–§68]</h3>
+<p>Esta é uma das seções mais ricas do capítulo. O autor analisa 20 cadernetas de colonos da Fazenda Pau d’Alho (Campinas), registradas no 4º Ofício Civil. As cadernetas eram reguladas pela Lei n.&nbsp;1.299 de 1911 (Lei do Patronato Agrícola) e continham o contrato padrão da Agência Oficial de Colocação.</p>
+<p>O contrato padrão (reproduzido nas p.&nbsp;93-94) previa: moradia gratuita, pasto para animais, terreno para mantimentos (proporcional ao número de cafeeiros), e a obrigação do colono de tratar dos cafeeiros (carpa, replanta, desbrote, colheita, esparramamento do cisco). O artigo 3º proibia adiantamentos, exceto para alimentação de recém-chegados ou em caso de moléstia — uma tentativa de evitar o endividamento.</p>
+<p>As cadernetas analisadas pertenciam a colonos que tratavam de lavouras já formadas. A remuneração era: 37$000 por mil pés tratados na seção “Palmeiras”, 32$000 na “Terra Roxa”, 1$500 por alqueire (50 litros) colhido, e 4$500 por diária. Com a crise de 1929, os valores foram reduzidos.</p>
+<p>O caso do colono Aurélio Benedicto (Gráfico 8, p.&nbsp;100) mostra saldos muito baixos: em quatro anos de trabalho de toda sua família, recebeu cerca de 1.200$000, o “necessário para sua reprodução e perpetuação como colono”. O caso do colono Ceccato José (Gráfico 9, p.&nbsp;102) foi uma exceção: uma família mais extensa conseguiu acumular saldos maiores, corroborando a tese de Stolcke de que as melhores possibilidades de acúmulo estavam nas famílias maiores.</p>
+<p><strong>Nota 6:</strong> O autor identifica um mecanismo de “estreitamento de mercado” através das “ordens” (débitos na mercearia da fazenda). Os fazendeiros criavam moedas locais (vales, bilhetes) que só eram aceitas nas vendas da propriedade, e os saldos em dinheiro raramente eram pagos — transformavam-se em créditos na mercearia. O artigo 13º do contrato padrão (que permitia ao colono comprar onde quisesse) era provavelmente inaplicável na prática.</p>
+<p>O autor conclui que “as cadernetas parecem denunciar que as possibilidades de acúmulo de dinheiro por parte dos colonos eram diminutas” (p.&nbsp;104), e que as regiões de fronteira ofereciam contratos mais atrativos não tanto por salários monetários mais altos, mas pela maior disponibilidade de terra para culturas intercalares.</p>
+</section>
+</section>
+<section id="capítulo-iii-região-mogiana-ribeirão-preto-e-franca-pp.-107-165" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="capítulo-iii-região-mogiana-ribeirão-preto-e-franca-pp.-107-165"><span class="header-section-number">3</span> Capítulo III — Região Mogiana: Ribeirão Preto e Franca (pp.&nbsp;107-165)</h2>
+<section id="contrastes-dentro-da-mogiana-cap.3-17" class="level3" data-number="3.1">
+<h3 data-number="3.1" class="anchored" data-anchor-id="contrastes-dentro-da-mogiana-cap.3-17"><span class="header-section-number">3.1</span> Contrastes dentro da Mogiana [Cap.3 §1–§7]</h3>
+<p>A região Mogiana, representada por Ribeirão Preto e Franca, revelou duas situações distintas. Em Ribeirão Preto, onde predominavam grandes propriedades, foram encontradas apenas 66 escrituras. Em Franca, com propriedades mais modestas, foram 188 escrituras. A hipótese do autor é que a grande propriedade ribeirãopretana não resistiu à continuada queda de produtividade, enquanto as pequenas e médias propriedades francanas mostraram-se mais resistentes.</p>
+<p>Ribeirão Preto respondia por quase um quinto da produção cafeeira paulista em 1913, mas a partir daí começou a declinar. A produtividade (Gráfico 1, p.&nbsp;108) caiu de 114,7 arrobas por mil pés em 1890 para 30,0 em 1940. O número de cafeeiros produtivos reduziu-se de 31,4 milhões em 1920 para 22,4 milhões em 1940. A população cresceu apenas 34,7% entre 1900 e 1940 (de 59.195 para 79.783), contra 468% entre 1886 e 1900.</p>
+</section>
+<section id="estrutura-fundiária-concentração-em-ribeirão-preto-cap.3-818" class="level3" data-number="3.2">
+<h3 data-number="3.2" class="anchored" data-anchor-id="estrutura-fundiária-concentração-em-ribeirão-preto-cap.3-818"><span class="header-section-number">3.2</span> Estrutura fundiária: concentração em Ribeirão Preto [Cap.3 §8–§18]</h3>
+<p>O autor apresenta tabelas demonstrando a alta concentração da propriedade em Ribeirão Preto. Em 1924, havia 15 produtores com mais de 500 mil pés de café, incluindo a Cia. Agrícola Fazenda Dumont (2,5 milhões de pés) e a Cia. Agrícola Guatapará (1,6 milhão). A média de cafeeiros por propriedade em 1933 era de 152.480 em Ribeirão Preto, contra 20.382 em Franca. Em Ribeirão Preto, 39,7% das propriedades tinham menos de 10 mil pés; em Franca, 63,1%.</p>
+<blockquote class="blockquote">
+<p><strong>Conceito-chave:</strong> O Índice de Gini para distribuição de cafeeiros em Ribeirão Preto era 0,812 em 1916-17, caindo para 0,750 em 1934 — ainda muito alto, mas indicando uma leve desconcentração devido à fragmentação de grandes propriedades e ao abandono de pequenas lavouras.</p>
+</blockquote>
+<p>O autor cita o estudo de Silvio Zamboni sobre a Fazenda Dumont, que foi loteada pela CAIC a partir de 1940. Os compradores foram, em sua maioria, os próprios colonos da fazenda (86 dos 110 lotes). Em tese, isso abriu possibilidades de ascensão social, mas o autor nota que a compra de um lote não garantia melhoria de vida, dadas as dificuldades técnicas e a descapitalização.</p>
+</section>
+<section id="contratos-e-investimentos-na-fronteira-a-partir-de-ribeirão-preto-cap.3-1927" class="level3" data-number="3.3">
+<h3 data-number="3.3" class="anchored" data-anchor-id="contratos-e-investimentos-na-fronteira-a-partir-de-ribeirão-preto-cap.3-1927"><span class="header-section-number">3.3</span> Contratos e investimentos na fronteira a partir de Ribeirão Preto [Cap.3 §19–§27]</h3>
+<p>O Gráfico 2 (p.&nbsp;123) mostra a evolução dos contratos na Mogiana: pico em 1918 (21 contratos), secundado por 1925-28. O autor explica que o pico de 1918-19 se deveu em grande parte a renegociações após a geada, e não necessariamente à expansão. O Gráfico 3 (p.&nbsp;125) mostra que 69% dos contratos em Ribeirão Preto eram empreitadas, mas o Gráfico 4 (p.&nbsp;126) revela que 80% dessas empreitadas eram para formar lavouras <strong>em outros municípios</strong> (Avanhandava, Araçatuba, São José do Rio Preto, Catanduva, etc.). Ou seja, os cafeicultores de Ribeirão Preto investiam na fronteira, não na própria região.</p>
+<p>Um exemplo emblemático é o contrato de 1922 entre o Cel. João Ferreira Penteado e oito colonos para formar 48.500 cafeeiros em Catanduva (fazenda Buenos Aires). Os empreiteiros receberiam 0$500 por cova formada, além do plantio intercafeeiro. Eles tiveram que depositar 2:000$000 como garantia, o que sugere que já haviam acumulado alguma poupança trabalhando nas fazendas de Ribeirão Preto.</p>
+</section>
+<section id="franca-pequena-propriedade-e-expansão-na-década-de-1920-cap.3-2842" class="level3" data-number="3.4">
+<h3 data-number="3.4" class="anchored" data-anchor-id="franca-pequena-propriedade-e-expansão-na-década-de-1920-cap.3-2842"><span class="header-section-number">3.4</span> Franca: pequena propriedade e expansão na década de 1920 [Cap.3 §28–§42]</h3>
+<p>Franca apresentou um perfil diferente. A produtividade média entre 1909-38 foi de 56,59 arrobas por mil pés (contra 58,44 em Ribeirão Preto), mas o número de cafeeiros produtivos cresceu de 11,7 milhões (1920) para 16,8 milhões (1934). A área cultivada saltou de 5.907 para 10.902 alqueires no mesmo período. O número de contratos foi 188, muito superior ao de Ribeirão Preto.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 7:</strong> A qualidade do café francano, devido à altitude (996m) e ao solo arenoso que proporciona inverno seco, produz grãos de baixa acidez, valorizados no mercado. No entanto, isso só se tornou um diferencial competitivo após a crise de 1929, quando os compradores passaram a privilegiar cafés finos.</p>
+</blockquote>
+<p>O autor reproduz uma escritura de empreitada de 1920 (p.&nbsp;144-146) entre Manoel Cardoso Queiroz Jr.&nbsp;e três empreiteiros (Sebastião Alves da Silva, Augusto Cardoso de Souza, Luiz Gonzaga de Souza) para formar 20 mil pés de café na fazenda Pitangueiras, em São José da Bela Vista. O contrato não previa pagamento em dinheiro: a remuneração era o desfrute do terreno por seis anos e toda a produção do cafezal no período. As cláusulas sobre plantio intercafeeiro eram generosas: no primeiro ano, podiam plantar “picado” (sem alinhamento) feijão, arroz, milho, batata e fumo; no segundo e terceiro anos, duas carreiras de milho, quatro de feijão e arroz; do quarto ao sexto ano, quatro carreiras de arroz, quatro de feijão ou uma de milho.</p>
+</section>
+<section id="comparação-entre-franca-e-ribeirão-preto-pós-crise-cap.3-4354" class="level3" data-number="3.5">
+<h3 data-number="3.5" class="anchored" data-anchor-id="comparação-entre-franca-e-ribeirão-preto-pós-crise-cap.3-4354"><span class="header-section-number">3.5</span> Comparação entre Franca e Ribeirão Preto pós-crise [Cap.3 §43–§54]</h3>
+<p>A Tabela 8 (p.&nbsp;141) mostra as perspectivas de expansão da lavoura cafeeira em 1932-33. Franca tinha 1.884.656 pés novos não produtivos (12,8% dos produtivos) e ainda mais 1.201.250 no ano seguinte. Ribeirão Preto tinha apenas 44.200 pés novos (0,1%). Enquanto a produção de café em Franca cresceu 279,6% entre 1920 e 1950, em Ribeirão Preto diminuiu 59,4%.</p>
+<p>O autor atribui essa diferença à estrutura fundiária: as pequenas propriedades eram mais flexíveis para suportar a queda de produtividade e diversificar para outras culturas em momentos de crise. As grandes propriedades, com altos custos fixos (salários de colonos, manutenção de maquinário, financiamentos), tornaram-se inviáveis.</p>
+</section>
+<section id="simulações-de-rendimento-e-mecanismos-de-exploração-cap.3-5562" class="level3" data-number="3.6">
+<h3 data-number="3.6" class="anchored" data-anchor-id="simulações-de-rendimento-e-mecanismos-de-exploração-cap.3-5562"><span class="header-section-number">3.6</span> Simulações de rendimento e mecanismos de exploração [Cap.3 §55–§62]</h3>
+<p>O autor realiza simulações de rendimento para uma família de cinco membros tratando de 7 mil cafeeiros em parceria em Ribeirão Preto (Tabelas 6 e 7, p.&nbsp;131). No período de 1921-25, a renda teria sido de 19.503$280; em 1930-35, caiu para 8.176$180 — uma redução de 58%, refletindo a queda dos preços após a crise.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 8:</strong> O autor discute os mecanismos de exploração que reduziam a renda efetiva dos trabalhadores: moedas locais (taldezinhos) que circulavam apenas na fazenda, preferência de venda ao fazendeiro, taxas de beneficiamento, e a obrigação de construir casas e benfeitorias sem remuneração. Na Fazenda Dumont, os taldezinhos eram aceitos até em algumas casas comerciais de Ribeirão Preto, mas foram abolidos em 1928 devido a falsificações.</p>
+</blockquote>
+<p>O autor conclui o capítulo afirmando que a viabilidade da cafeicultura em Franca pós-crise se deveu à combinação de (a) pequena propriedade, (b) qualidade do grão, e (c) estratégia de rebeneficiamento e classificação local do café, transferindo de Santos para Franca a definição dos tipos.</p>
+</section>
+</section>
+<section id="capítulo-iv-região-paulista-são-carlos-e-araraquara-pp.-167-222" class="level2" data-number="4">
+<h2 data-number="4" class="anchored" data-anchor-id="capítulo-iv-região-paulista-são-carlos-e-araraquara-pp.-167-222"><span class="header-section-number">4</span> Capítulo IV — Região Paulista: São Carlos e Araraquara (pp.&nbsp;167-222)</h2>
+<section id="caracterização-da-região-e-diferenciação-interna-cap.4-112" class="level3" data-number="4.1">
+<h3 data-number="4.1" class="anchored" data-anchor-id="caracterização-da-região-e-diferenciação-interna-cap.4-112"><span class="header-section-number">4.1</span> Caracterização da região e diferenciação interna [Cap.4 §1–§12]</h3>
+<p>A região Paulista (Baixa Paulista) era de cafeicultura mais antiga, com produção decaindo em São Carlos mas ainda com alguma expansão em Araraquara. Em 1905, havia 150 milhões de cafeeiros plantados, produzindo 7,5 milhões de arrobas; em 1920, o número de cafeeiros havia aumentado, mas a produção caiu pela metade, evidenciando perda de produtividade.</p>
+<p>O autor compara a produtividade de São Carlos (42,53 arrobas/mil pés média 1909-38), Araraquara (43,58), Barretos (52,32) e Olímpia (46,85). A produtividade superior nos municípios novos deve-se à idade dos cafeeiros, não necessariamente à melhor qualidade do solo. Em solos piores (arenito), os cafeeiros degradam-se mais rapidamente.</p>
+<p>São Carlos e Araraquara tiveram trajetórias distintas na transição do trabalho escravo. São Carlos teve um crescimento de 137,6% no plantel de escravos entre 1874 e 1887 (de 1.568 para 3.726), enquanto Araraquara permaneceu estável (1.626 para 1.627). A explicação está na estrutura fundiária: São Carlos tinha propriedades maiores, capazes de adquirir escravos mesmo com preços crescentes. A média de cafeeiros por propriedade em 1905 era 80.029 em São Carlos e 40.292 em Araraquara.</p>
+<blockquote class="blockquote">
+<p><strong>Conceito-chave:</strong> O autor argumenta que a cafeicultura não substituiu as atividades pretéritas (cana, criação de gado, produção de alimentos), mas dividiu espaço com elas. As fazendas não eram especializadas apenas em café; tinham também pastos, canaviais, e destinavam terras para culturas de subsistência dos colonos.</p>
+</blockquote>
+</section>
+<section id="expansão-e-crise-em-são-carlos-e-araraquara-cap.4-1326" class="level3" data-number="4.2">
+<h3 data-number="4.2" class="anchored" data-anchor-id="expansão-e-crise-em-são-carlos-e-araraquara-cap.4-1326"><span class="header-section-number">4.2</span> Expansão e crise em São Carlos e Araraquara [Cap.4 §13–§26]</h3>
+<p>O Gráfico 2 (p.&nbsp;190) mostra a evolução do número de cafeeiros e arrobas em São Carlos: pico em 1915-16 (cerca de 1,6 milhão de arrobas), depois declínio acentuado a partir de 1926. Em 1937, São Carlos tinha apenas 11,5 milhões de cafeeiros (menos da metade de 1927). Araraquara (Gráfico 3, p.&nbsp;190) teve um comportamento diferente: o número de cafeeiros aumentou até 1934 (quase 30 milhões), e a produção caiu abruptamente apenas após 1931.</p>
+<p>A Tabela 3 (p.&nbsp;185) mostra que a estrutura fundiária de São Carlos pouco se alterou entre 1916 e 1928: o número de propriedades aumentou de 292 para 329, e as proporções por faixa de cafeeiros se mantiveram semelhantes. O autor argumenta que a rigidez da estrutura fundiária (predomínio de grandes propriedades) impediu uma reestruturação mais vigorosa. Em 1939, Araraquara produzia muito mais gêneros alimentícios que São Carlos (Tabela 4, p.&nbsp;186), evidenciando maior capacidade de diversificação.</p>
+<p>O Gráfico 4 (p.&nbsp;193) mostra o número de contratos na Paulista: 105 no total, com picos em 1918 (devido a recontratações após a geada) e 1927 (doze contratos em Araraquara). O número é muito inferior ao das regiões de fronteira (734 na Noroeste).</p>
+</section>
+<section id="tipos-de-contrato-e-condições-de-trabalho-cap.4-2738" class="level3" data-number="4.3">
+<h3 data-number="4.3" class="anchored" data-anchor-id="tipos-de-contrato-e-condições-de-trabalho-cap.4-2738"><span class="header-section-number">4.3</span> Tipos de contrato e condições de trabalho [Cap.4 §27–§38]</h3>
+<p>Na Região Paulista, predominaram as parcerias (54% dos contratos), seguidas por empreitadas (39%) e contratos mistos (7%) — Gráfico 5 (p.&nbsp;197). O autor argumenta que a predominância de parcerias é um indicador de região antiga, onde as lavouras já estão formadas e o fazendeiro busca reduzir custos monetários dividindo a produção com o trabalhador.</p>
+<p>O autor reproduz uma escritura de parceria de 1918 (p.&nbsp;219-221) entre a Companhia Fazendas Reunidas “Irmãos Camargo” e 12 empreiteiros/parceiros para formar 79 mil cafeeiros na Fazenda Salto (São Carlos). O contrato é exemplar dos mecanismos de exploração: os empreiteiros não recebiam remuneração em dinheiro, apenas o usufruto do terreno e a produção de café; tinham que construir suas próprias casas e benfeitorias; eram obrigados a beneficiar o café nas máquinas da fazenda (pagando 0$400 por arroba); e em caso de incêndio ou outras emergências, deveriam trabalhar gratuitamente.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 9:</strong> O autor lista vários mecanismos de expropriação identificados nas escrituras da Paulista: (a) preferência de venda ao fazendeiro com deságio de 20% em relação ao preço de mercado; (b) taxas de beneficiamento (0$400 a 1$000 por arroba); (c) construção de benfeitorias sem indenização; (d) cauções (depósitos em garantia) que podiam chegar a 30% da produção; (e) cláusulas que permitiam ao fazendeiro rescindir o contrato a qualquer momento, sem justa causa, se encontrasse quem oferecesse melhores condições.</p>
+</blockquote>
+</section>
+<section id="simulações-de-rendimento-e-a-atratividade-da-fronteira-cap.4-3948" class="level3" data-number="4.4">
+<h3 data-number="4.4" class="anchored" data-anchor-id="simulações-de-rendimento-e-a-atratividade-da-fronteira-cap.4-3948"><span class="header-section-number">4.4</span> Simulações de rendimento e a atratividade da fronteira [Cap.4 §39–§48]</h3>
+<p>O autor realiza simulações comparativas de rendimento entre parcerias em São Carlos e empreitadas em Pirajuí (Tabela 6, p.&nbsp;203). Para 5 mil cafeeiros, no período 1925-29, o parceiro em São Carlos teria recebido 16.730$320, enquanto o empreiteiro em Pirajuí teria recebido 18.785$000 (considerando que ele ficaria com toda a produção do último ano e receberia pagamento por cova formada). A diferença não é enorme, mas a empreitada oferecia maior segurança (renda fixa por cova) e maior espaço para culturas intercalares.</p>
+<blockquote class="blockquote">
+<p><strong>Conceito-chave:</strong> A “dissociação do espaço” nas parcerias (terreno extra para alimentos separado do cafezal) era prejudicial porque dividia a força de trabalho familiar e geralmente a terra extra era de pior qualidade (capoeiras). No cultivo conjugado (plantio intercafeeiro), as tarefas eram feitas simultaneamente, otimizando o trabalho.</p>
+</blockquote>
+<p>O autor cita o estudo de Oswaldo Truzzi sobre São Carlos, que conclui que “praticamente nenhum dos imigrantes bem sucedidos no comércio ou na indústria empregaram-se inicialmente como colonos”. A ascensão social pela via do trabalho no campo era excepcional. Vilmo Melo, por outro lado, encontrou evidências de mobilidade (a proporção de italianos declarados “colonos” caiu de 76,7% em 1890-95 para 9,4% em 1921-25, enquanto os declarados “lavradores” subiram de 0,9% para 47,8%). O autor pondera que “lavrador” não é sinônimo de pequeno proprietário bem-sucedido; pode ser proprietário de terras de pior qualidade, endividado.</p>
+</section>
+<section id="jornais-e-estratégias-na-crise-de-1929-cap.4-4952" class="level3" data-number="4.5">
+<h3 data-number="4.5" class="anchored" data-anchor-id="jornais-e-estratégias-na-crise-de-1929-cap.4-4952"><span class="header-section-number">4.5</span> Jornais e estratégias na crise de 1929 [Cap.4 §49–§52]</h3>
+<p>O autor consulta o Jornal Correio de São Carlos para reconstituir as estratégias dos cafeicultores durante a crise. Em reunião de novembro de 1929, os fazendeiros discutiram dois pontos principais: (a) a questão do embarque da produção de 1929-30, com a demanda por criar séries intermediárias de café para beneficiar os grãos de menor qualidade que estavam em seu poder (já que os cafés finos estavam concentrados nas mãos dos comissários); (b) a redução dos salários dos colonos, proposta de 40% para o trato por mil pés e de 1$500 para 1$000 por alqueire colhido.</p>
+<p>O Departamento Estadual do Trabalho orientava a redução generalizada de 30 a 50% nos salários, a troco de “pequenas vantagens concedidas pelos fazendeiros” (ampliação do espaço para culturas intercalares). O autor vê nisso uma estratégia para reduzir custos monetários e transferir o ônus da crise aos trabalhadores, ao mesmo tempo que se tentava inibir a migração para a fronteira (divulgando que a redução era generalizada).</p>
+</section>
+</section>
+<section id="capítulo-v-região-alta-sorocabana-botucatu-e-são-manuel-pp.-223-264" class="level2" data-number="5">
+<h2 data-number="5" class="anchored" data-anchor-id="capítulo-v-região-alta-sorocabana-botucatu-e-são-manuel-pp.-223-264"><span class="header-section-number">5</span> Capítulo V — Região Alta Sorocabana: Botucatu e São Manuel (pp.&nbsp;223-264)</h2>
+<section id="caracterização-da-região-híbrida-cap.5-110" class="level3" data-number="5.1">
+<h3 data-number="5.1" class="anchored" data-anchor-id="caracterização-da-região-híbrida-cap.5-110"><span class="header-section-number">5.1</span> Caracterização da região híbrida [Cap.5 §1–§10]</h3>
+<p>A Alta Sorocabana é uma região híbrida, com municípios antigos (Botucatu, 1855; São Manuel, 1885) e municípios novos (Presidente Prudente, 1917; Assis, etc.). O autor optou por estudar Botucatu e São Manuel porque, no período 1917-1937, continuaram sendo os principais polos cafeeiros da região. Municípios mais novos como Quatá e Assis nunca sobrepujaram os antigos em termos de produção.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 10:</strong> As terras da Alta Sorocabana são predominantemente arenito Bauru, com algumas manchas de terra roxa. As terras de melhor qualidade se concentram nas porções de ocupação mais antiga (São Manuel e cercanias). A produtividade de São Manuel, mesmo com cafeeiros mais velhos, manteve-se superior à de Quatá (município novo) ao longo de toda a década de 1920.</p>
+</blockquote>
+<p>São Manuel foi o principal município cafeeiro da região. Em 1920, possuía 20,3 milhões de cafeeiros; em 1934, 25,7 milhões. Botucatu tinha 12,3 milhões em 1920 e 14,7 milhões em 1934. A área cultivada em São Manuel saltou de 9.799 alqueires (1920) para 14.176 (1934). O Gráfico 3 (p.&nbsp;246) mostra o pico de produtividade em 1929-30: 103,5 arrobas por mil pés em São Manuel, 59,7 em Botucatu.</p>
+</section>
+<section id="estrutura-fundiária-e-grandes-cafeicultores-cap.5-1118" class="level3" data-number="5.2">
+<h3 data-number="5.2" class="anchored" data-anchor-id="estrutura-fundiária-e-grandes-cafeicultores-cap.5-1118"><span class="header-section-number">5.2</span> Estrutura fundiária e grandes cafeicultores [Cap.5 §11–§18]</h3>
+<p>As Tabelas 1 e 2 (p.&nbsp;242-243) listam os maiores cafeicultores de São Manuel (1928) e Botucatu (1920). Em São Manuel, Rodrigues Alves &amp; Cia. Agrícola possuía 1.597.000 cafeeiros; Cia. Agrícola Araquá, 1.359.700. Em Botucatu, o maior cafeicultor (João Baptista da Rocha Conceição) possuía 600.000 pés. A Tabela 3 (p.&nbsp;245) mostra a distribuição dos cafeicultores por faixa de cafeeiros: em Botucatu, 45,8% tinham menos de 5 mil pés; em São Manuel, 29% nessa faixa. A presença de grandes propriedades era maior em São Manuel, devido à melhor qualidade do solo.</p>
+<p>Apesar da importância de São Manuel, o número de contratos encontrados foi muito baixo (apenas 20). O autor especula que isso pode dever-se a (a) a expansão da cafeicultura na década de 1930 ter sido feita pelas grandes companhias agrícolas, que não registravam contratos em cartório, ou (b) pela predominância do trabalho familiar em pequenas propriedades, que também não gerava escrituras.</p>
+</section>
+<section id="contratos-e-evolução-na-alta-sorocabana-cap.5-1928" class="level3" data-number="5.3">
+<h3 data-number="5.3" class="anchored" data-anchor-id="contratos-e-evolução-na-alta-sorocabana-cap.5-1928"><span class="header-section-number">5.3</span> Contratos e evolução na Alta Sorocabana [Cap.5 §19–§28]</h3>
+<p>O Gráfico 5 (p.&nbsp;248) mostra a evolução dos contratos em Botucatu e São Manuel. Botucatu teve picos em 1918-20 (recontratações pós-geada) e 1925-28 (resposta à defesa permanente). Foram encontradas 96 escrituras em Botucatu e 20 em São Manuel, totalizando 116. O Gráfico 6 (p.&nbsp;257) mostra a predominância de parcerias (66% na região), seguidas por empreitadas (18%) e contratos mistos (16%). O Gráfico 7 (p.&nbsp;258) indica que 76% dos cafeeiros envolvidos nos contratos já estavam formados, confirmando que a região não estava na fronteira.</p>
+<p>O autor destaca que, a partir de 1930, nenhuma empreitada de formação foi lavrada em Botucatu ou São Manuel. Os contratos de parceria tornaram-se absolutos. Em alguns casos, os parceiros passaram a receber 60-70% da produção (em vez de 50%) como forma de compensar a queda dos preços, e o acesso ao plantio intercafeeiro foi ampliado.</p>
+</section>
+<section id="simulações-de-rendimento-e-a-crise-cap.5-2938" class="level3" data-number="5.4">
+<h3 data-number="5.4" class="anchored" data-anchor-id="simulações-de-rendimento-e-a-crise-cap.5-2938"><span class="header-section-number">5.4</span> Simulações de rendimento e a crise [Cap.5 §29–§38]</h3>
+<p>O autor compara uma parceria em Botucatu (5 mil pés, 1925-28) com uma empreitada em Pirajuí (Tabela 4, p.&nbsp;259). O parceiro em Botucatu teria recebido 16.748$739, enquanto o empreiteiro em Pirajuí teria recebido 13.962$627 (sem incluir pagamentos por cova, que elevariam o valor). A diferença não é grande, mas a empreitada oferecia maior espaço para culturas intercalares e maior segurança.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 11:</strong> O autor argumenta que os contratos de parceria eram preferidos pelos fazendeiros em momentos de crise porque transferiam aos parceiros o ônus da desvalorização. Em 1929-30, o preço da arroba caiu de 25$000 para 10$000. Ao dividir a produção, o fazendeiro se livrava de parte do estoque e reduzia seus custos monetários.</p>
+</blockquote>
+<p>O capítulo inclui a transcrição de duas escrituras: uma parceria em Botucatu (1918) que combinava trato de café e plantio de algodão (p.&nbsp;263), e uma parceria em São Manuel (1930) com cláusulas de adiantamento a juros de 8% ao ano (p.&nbsp;264).</p>
+</section>
+</section>
+<section id="capítulo-vi-região-douradense-jaú-e-novo-horizonte-pp.-265-310" class="level2" data-number="6">
+<h2 data-number="6" class="anchored" data-anchor-id="capítulo-vi-região-douradense-jaú-e-novo-horizonte-pp.-265-310"><span class="header-section-number">6</span> Capítulo VI — Região Douradense: Jaú e Novo Horizonte (pp.&nbsp;265-310)</h2>
+<section id="caracterização-da-douradense-e-expansão-da-ferrovia-cap.6-115" class="level3" data-number="6.1">
+<h3 data-number="6.1" class="anchored" data-anchor-id="caracterização-da-douradense-e-expansão-da-ferrovia-cap.6-115"><span class="header-section-number">6.1</span> Caracterização da Douradense e expansão da ferrovia [Cap.6 §1–§15]</h3>
+<p>O autor justifica o desmembramento da Douradense da Alta Araraquarense com base em diferenças históricas e geográficas. Jaú (fundado em 1866) é um município de cafeicultura antiga, com predominância de terra roxa; Novo Horizonte (fundado em 1923) é típico de fronteira, com solos arenosos. A região foi servida pela Estrada de Ferro do Dourado, inaugurada em 1900, com ramal para Jaú em 1913. O prolongamento até Novo Horizonte só ocorreu em 1939, mas o município já se desenvolveu como fronteira antes mesmo da chegada dos trilhos.</p>
+<p>O Gráfico 1 (p.&nbsp;267) mostra a evolução do número de cafeeiros produtivos na Douradense. Jaú manteve-se estável em torno de 20-25 milhões; Novo Horizonte saltou de 1,1 milhão (1923) para 15,2 milhões (1935). Itápolis e Bariri tiveram crescimentos intermediários. A Cia. Douradense teve dificuldades financeiras devido à geada de 1918 e à crise de 1929, mas a receita das estações mais novas (Borborema, Novo Horizonte) tornou-se cada vez mais importante.</p>
+</section>
+<section id="jaú-café-em-terra-roxa-e-predomínio-de-pequenas-propriedades-cap.6-1630" class="level3" data-number="6.2">
+<h3 data-number="6.2" class="anchored" data-anchor-id="jaú-café-em-terra-roxa-e-predomínio-de-pequenas-propriedades-cap.6-1630"><span class="header-section-number">6.2</span> Jaú: café em terra roxa e predomínio de pequenas propriedades [Cap.6 §16–§30]</h3>
+<p>O autor revisita a literatura sobre Jaú (Flávia Arlanch Martins de Oliveira, Paulo Pedro Perides). Antes do café, a região tinha pecuária suína, cana-de-açúcar e fumo. A ocupação foi feita por mineiros e paulistas, com estrutura fundiária mais fragmentada do que em Ribeirão Preto ou São Carlos.</p>
+<p>A Tabela 1 (p.&nbsp;291) lista os maiores cafeicultores de Jaú em 1926 e 1929. Francisco de Andrade Coutinho tinha 1.080.000 pés em 1926 e 1.250.000 em 1929 (leve aumento). Outros, como Alfredo Sérvulo Romão, reduziram (300.000 para 240.000). A Tabela 2 (p.&nbsp;294) mostra a distribuição dos cafeicultores em 1929: 67,33% tinham menos de 20 mil pés, evidenciando a predominância da pequena propriedade. O autor argumenta que a expansão da cafeicultura em Jaú na década de 1920 (quase 2 milhões de pés novos em 1926) foi puxada por pequenos e médios produtores, não pelos grandes.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 12:</strong> O autor encontrou uma escritura de constituição da Cia. Agrícola João Ribeiro (1923), unindo cinco fazendas com um total de 641 mil cafeeiros. A sociedade visava explorar o café e subsidiariamente outros produtos. O capital era de 3.800:000$000, dividido em 19 mil ações. A formação da companhia é interpretada como uma estratégia defensiva para compensar a queda de produtividade com o aumento do quantum produzido e ter maior acesso a financiamentos.</p>
+</blockquote>
+</section>
+<section id="novo-horizonte-fronteira-e-empreitadas-cap.6-3142" class="level3" data-number="6.3">
+<h3 data-number="6.3" class="anchored" data-anchor-id="novo-horizonte-fronteira-e-empreitadas-cap.6-3142"><span class="header-section-number">6.3</span> Novo Horizonte: fronteira e empreitadas [Cap.6 §31–§42]</h3>
+<p>Novo Horizonte, fundado em 1923, teve uma evolução vertiginosa: de 3 milhões de cafeeiros produtivos em 1924 para 15,2 milhões em 1935. O Gráfico 3 (p.&nbsp;284) mostra o pico de produtividade em 1927-28 (82,7 arrobas por mil pés), mas a rápida queda na década de 1930 (36,4 em 1937-38). O autor atribui isso à pior qualidade dos solos e ao abandono de lavouras após a crise.</p>
+<p>Os tipos de contrato em Novo Horizonte (Gráfico 4, p.&nbsp;287) mostram predominância de empreitadas (62%), com apenas 30% de parcerias. Em Jaú (Gráfico 5, p.&nbsp;287), as parcerias predominam (56%), mas as empreitadas ainda são significativas (32%), indicando que Jaú não estava completamente estagnada. O autor destaca que, em Novo Horizonte, apenas 19,6% das empreitadas tinham cláusulas monetárias (pagamento por cova), proporção inferior à da Noroeste (48-58%) mas superior à da Alta Araraquarense (10-14%).</p>
+</section>
+<section id="simulações-de-rendimento-e-mecanismos-de-exploração-cap.6-4352" class="level3" data-number="6.4">
+<h3 data-number="6.4" class="anchored" data-anchor-id="simulações-de-rendimento-e-mecanismos-de-exploração-cap.6-4352"><span class="header-section-number">6.4</span> Simulações de rendimento e mecanismos de exploração [Cap.6 §43–§52]</h3>
+<p>O autor compara uma parceria em Jaú e uma empreitada em Novo Horizonte (Tabela 3, p.&nbsp;300). Para 5 mil pés, 1925-28, o parceiro em Jaú teria recebido 21.847$815 (metade da produção anual), enquanto o empreiteiro em Novo Horizonte teria recebido 11.576$923 (apenas a produção do último ano). No entanto, o empreiteiro teria um espaço muito maior para culturas intercalares (Tabela 4, p.&nbsp;301). No contrato de Novo Horizonte, ele poderia plantar no primeiro ano uma carreira de milho, duas de feijão e três de arroz; já no contrato de Jaú, apenas duas carreiras de feijão, uma de amendoim e uma de batatinha. A diferença nas possibilidades de produção de alimentos poderia compensar a menor renda em café.</p>
+<p>O autor reproduz mecanismos de exploração encontrados nas escrituras da Douradense: (a) cláusulas de preferência de venda de café e cereais ao fazendeiro; (b) taxas de transporte (2$000 por carreto do talhão ao terreiro); (c) cobrança de 2$000 por saca beneficiada; (d) construção de casas e benfeitorias pelo trabalhador sem indenização; (e) em caso de geada, o fazendeiro não pagava nada pelo trabalho já realizado; (f) reserva ao fazendeiro do direito de “dar o calote” e manter o trabalhador como colono até que a dívida fosse paga com produção futura.</p>
+<p><strong>Nota 13:</strong> O autor enfatiza que “a idéia é que não só os cafeeiros eram formados a baixíssimo custo, mas também uma significativa parte da estrutura de produção da fazenda” (p.&nbsp;303-304). Os trabalhadores construíam casas, pastos, cercas, chiqueiros, e até mesmo estradas e pontes, sem receber nada por isso.</p>
+</section>
+</section>
+<section id="capítulo-vii-região-alta-araraquarense-são-josé-do-rio-preto-e-catanduva-pp.-311-353" class="level2" data-number="7">
+<h2 data-number="7" class="anchored" data-anchor-id="capítulo-vii-região-alta-araraquarense-são-josé-do-rio-preto-e-catanduva-pp.-311-353"><span class="header-section-number">7</span> Capítulo VII — Região Alta Araraquarense: São José do Rio Preto e Catanduva (pp.&nbsp;311-353)</h2>
+<section id="caracterização-da-região-de-fronteira-cap.7-111" class="level3" data-number="7.1">
+<h3 data-number="7.1" class="anchored" data-anchor-id="caracterização-da-região-de-fronteira-cap.7-111"><span class="header-section-number">7.1</span> Caracterização da região de fronteira [Cap.7 §1–§11]</h3>
+<p>A Alta Araraquarense foi uma região de fronteira por excelência na década de 1910-20. Os trilhos da Estrada de Ferro Araraquarense chegaram a Catanduva (Vila Adolfo) em 1910 e a São José do Rio Preto em 1912. O crescimento populacional foi vertiginoso: Rio Preto saltou de 3.221 habitantes em 1900 para 126.796 em 1920. A área cultivada na região subiu de 47.862 alqueires (1905) para 240.398 (1940). Entre 1900 e 1940, 795.432 pessoas passaram a residir na região.</p>
+<blockquote class="blockquote">
+<p><strong>Conceito-chave:</strong> O autor argumenta que a Alta Araraquarense foi uma região intermediária, “movida” por cafeicultores da Mogiana (família Ferreira Penteado, de Ribeirão Preto) e, por sua vez, moveu a fronteira para a Noroeste. O Padre Alonso Ferreira de Carvalho, de Franca, comprou terras em Penápolis em 1921. Francisco Schmidt possuía fazendas em Pirajuí.</p>
+</blockquote>
+</section>
+<section id="contratos-e-predominância-de-empreitadas-cap.7-1221" class="level3" data-number="7.2">
+<h3 data-number="7.2" class="anchored" data-anchor-id="contratos-e-predominância-de-empreitadas-cap.7-1221"><span class="header-section-number">7.2</span> Contratos e predominância de empreitadas [Cap.7 §12–§21]</h3>
+<p>Foram encontradas 292 escrituras em São José do Rio Preto e 209 em Catanduva, totalizando 501 — o segundo maior número entre as regiões (atrás da Noroeste). O Gráfico 1 (p.&nbsp;317) mostra a evolução dos contratos: pico em 1919 (43 contratos em Rio Preto), 1925-26 (22-25 em Rio Preto), e um segundo pico em 1928-29 (Catanduva). Após 1930, o número cai drasticamente.</p>
+<p>Os tipos de contrato (Gráficos 2 e 3, p.&nbsp;326-327) mostram predominância de empreitadas: 67% em Rio Preto, 50% em Catanduva. As parcerias representam 24% e 37%, respectivamente. As Tabelas 1 e 2 (p.&nbsp;327-328) mostram a evolução anual: até 1925, as empreitadas dominavam amplamente; a partir de 1926-27, as parcerias começam a ganhar espaço, indicando que a região deixava de ser fronteira.</p>
+<p><strong>Nota 14:</strong> Apenas 14,04% das empreitadas em Rio Preto e 10% em Catanduva tinham cláusulas monetárias (pagamento por cova). A grande maioria dos contratos previa como única remuneração o acesso à terra (plantio intercafeeiro) e a produção de café durante o período de formação. O autor interpreta isso como evidência de que o acesso à terra era o principal atrativo, e que os salários monetários eram secundários.</p>
+</section>
+<section id="remuneração-em-espécie-e-construção-da-fazenda-pelo-trabalhador-cap.7-2230" class="level3" data-number="7.3">
+<h3 data-number="7.3" class="anchored" data-anchor-id="remuneração-em-espécie-e-construção-da-fazenda-pelo-trabalhador-cap.7-2230"><span class="header-section-number">7.3</span> Remuneração em espécie e construção da fazenda pelo trabalhador [Cap.7 §22–§30]</h3>
+<p>O autor reproduz duas escrituras emblemáticas de Catanduva. A primeira (1918, p.&nbsp;319-320) é um contrato de derrubada de 50 alqueires de mata, contratado por Naoqui Namura (japonês, agenciador de mão de obra) com dois brasileiros. O pagamento era de 130$000 por alqueire, parcelado. A derrubada deveria estar pronta em três meses.</p>
+<p>A segunda escritura (1918, p.&nbsp;321-322) é um contrato de formação de 257.500 cafeeiros na fazenda Cubatão (Pindorama), também por Naoqui Namura, que subcontratou 25 famílias japonesas. O contrato não previa nenhum pagamento em dinheiro: a remuneração era exclusivamente o usufruto do terreno por seis anos, toda a produção de café e cereais no período, e a utilização de pastos. Além disso, os empreiteiros deveriam construir suas próprias casas e todas as benfeitorias da fazenda (cercas, carreadores, estradas), que ao final do contrato pertenceriam ao proprietário. Em caso de geada, os empreiteiros seriam obrigados a tratar do café por mais um ano nas mesmas condições. O contrato previa ainda uma cláusula que obrigava cada família a ter “no mínimo um trabalhador de idade de quinze anos para cima para cada dois mil e quinhentos cafeeiros” — uma tentativa de garantir que o trabalho familiar fosse suficiente.</p>
+<blockquote class="blockquote">
+<p><strong>Conceito-chave:</strong> O autor argumenta que este tipo de contrato evidencia a “redução dos gastos monetários para a formação da fazenda” ao extremo. O fazendeiro obtinha uma fazenda montada e uma lavoura de café em plena produção sem gastar um só centavo. O que sustentava essa relação era o monopólio da terra, “muito provavelmente adquirida de maneira escusa pela ação de grileiros”.</p>
+</blockquote>
+</section>
+<section id="simulações-de-rendimento-e-atratividade-da-fronteira-cap.7-3142" class="level3" data-number="7.4">
+<h3 data-number="7.4" class="anchored" data-anchor-id="simulações-de-rendimento-e-atratividade-da-fronteira-cap.7-3142"><span class="header-section-number">7.4</span> Simulações de rendimento e atratividade da fronteira [Cap.7 §31–§42]</h3>
+<p>O autor realiza simulações de rendimento para parcerias e empreitadas em Rio Preto, Catanduva, Campinas e Ribeirão Preto (Tabelas 4-8, p.&nbsp;341-344). Os resultados mostram que a produtividade de Rio Preto e Catanduva não era superior à de Ribeirão Preto (que tinha terra roxa). A remuneração dos parceiros em Catanduva (44.430$820 para 10 mil pés, 1925-29) foi superior à de Ribeirão Preto (41.179$710) em função da maior produtividade catanduvense naquele período específico. Já em Rio Preto, a remuneração foi menor (28.661$974).</p>
+<p>O autor compara os salários pagos em Campinas e Rio Preto em 1927: em Campinas, 800$000 por mil pés tratados; em Rio Preto, 700$000 a 1.500$000, dependendo do contrato. As diárias eram 4$500 em Campinas e 5$000 em Rio Preto; o alqueire colhido pagava 1$500 em Campinas e 2$000 em Rio Preto. As diferenças eram pequenas. O autor conclui:</p>
+<blockquote class="blockquote">
+<p>“A questão do efeito de atração que a fronteira agrícola sempre exerceu sobre imigrantes e brasileiros explica-se muito mais pelo volume de oportunidades que ali existiam. […] Em termos de produtividade, as condições não eram muito discrepantes entre a Alta Araraquarense e municípios mais antigos […] valores monetários equivalentes e produtividade próxima, parece residir no maior número de oportunidades existente na fronteira a essência do efeito de atração”.</p>
+</blockquote>
+</section>
+<section id="gráficos-de-nacionalidade-dos-contratantes-e-contratados-cap.7-4344" class="level3" data-number="7.5">
+<h3 data-number="7.5" class="anchored" data-anchor-id="gráficos-de-nacionalidade-dos-contratantes-e-contratados-cap.7-4344"><span class="header-section-number">7.5</span> Gráficos de nacionalidade dos contratantes e contratados [Cap.7 §43–§44]</h3>
+<p>Os Gráficos 7 a 10 (p.&nbsp;350-351) mostram a composição por nacionalidade dos contratantes e contratados em Rio Preto e Catanduva. Os brasileiros eram a maioria entre os contratantes (57% em Rio Preto, 45% em Catanduva), seguidos por italianos (30% e 29%). Entre os contratados, italianos (38% e 37%) e brasileiros (33% e 25%) também predominavam, com presença significativa de espanhóis e japoneses (estes últimos mais em Catanduva). O autor destaca a importância dos empreiteiros japoneses na formação de lavouras na fronteira, atuando muitas vezes como subempreiteiros.</p>
+</section>
+</section>
+<section id="capítulo-viii-região-noroeste-lins-e-pirajuí-pp.-355-398" class="level2" data-number="8">
+<h2 data-number="8" class="anchored" data-anchor-id="capítulo-viii-região-noroeste-lins-e-pirajuí-pp.-355-398"><span class="header-section-number">8</span> Capítulo VIII — Região Noroeste: Lins e Pirajuí (pp.&nbsp;355-398)</h2>
+<section id="a-noroeste-como-última-fronteira-cap.8-115" class="level3" data-number="8.1">
+<h3 data-number="8.1" class="anchored" data-anchor-id="a-noroeste-como-última-fronteira-cap.8-115"><span class="header-section-number">8.1</span> A Noroeste como última fronteira [Cap.8 §1–§15]</h3>
+<p>A Noroeste foi palco do último ato da expansão cafeeira em São Paulo na década de 1920. A Estrada de Ferro Noroeste do Brasil (NOB), construída a partir de 1905 com objetivos estratégicos (ligar São Paulo ao Mato Grosso e à Bolívia), acabou viabilizando a cafeicultura na região. O autor dialoga com a literatura revisionista (Cimó Queiroz, Manfredi Neto, Ghirardello) que questiona se a Noroeste foi uma “ferrovia do café”, mas argumenta que, mesmo que a ferrovia tenha precedido o café, as potencialidades da cafeicultura estavam presentes nos cálculos dos investidores desde o início.</p>
+<p>A região foi marcada por grilagem, genocídio indígena (Caiuás, Coroados, Chavantes) e condições de trabalho brutais na construção da ferrovia, com trabalhadores enviados como “deportados” para a “Sibéria brasileira”. Companhias de colonização como a The San Paulo Land, Lumber &amp; Colonization Company parcelaram terras em lotes para imigrantes, especialmente japoneses, que se tornaram a maioria dos não-brasileiros na região (mais de 70% em alguns municípios).</p>
+<blockquote class="blockquote">
+<p><strong>Nota 15:</strong> A participação do café na receita da NOB foi de apenas 8,6-17% entre 1916-1930, mas saltou para 45,5% entre 1931-35, quando os cafeeiros plantados em 1928-29 entraram em produção. O autor argumenta que, mesmo com essa participação variável, o café foi o motor da dinamização econômica da região, gerando demanda por transporte de materiais de construção, máquinas, e passageiros (migrantes).</p>
+</blockquote>
+</section>
+<section id="expansão-da-cafeicultura-na-noroeste-cap.8-1624" class="level3" data-number="8.2">
+<h3 data-number="8.2" class="anchored" data-anchor-id="expansão-da-cafeicultura-na-noroeste-cap.8-1624"><span class="header-section-number">8.2</span> Expansão da cafeicultura na Noroeste [Cap.8 §16–§24]</h3>
+<p>Os dados de Camargo mostram que a área destinada à cafeicultura na Noroeste saltou de 1.300 alqueires (1905) para 220.000 (1934). O número de cafeeiros plantados cresceu de 2,6 milhões para 330 milhões. Lins viu sua população subir de 12.962 (1920) para 67.029 (1934); Pirajuí-Cafelândia, de 29.042 para 91.386.</p>
+<p>O Gráfico 4 (p.&nbsp;375) mostra o número de contratos na Noroeste: 482 em Pirajuí e 252 em Lins, totalizando 734 — 37% de todas as escrituras pesquisadas (2.047). O pico ocorreu em 1928-29 (174 contratos em Pirajuí em 1928, 94 em 1929; 45 em Lins em 1929). Após a crise de 1929, o número caiu vertiginosamente (apenas 2 contratos em Pirajuí em 1931, 3 em 1932, nenhum em 1933-35, retomando levemente em 1936-37 com 8 e 10 contratos).</p>
+</section>
+<section id="tipos-de-contrato-e-pagamentos-em-dinheiro-cap.8-2534" class="level3" data-number="8.3">
+<h3 data-number="8.3" class="anchored" data-anchor-id="tipos-de-contrato-e-pagamentos-em-dinheiro-cap.8-2534"><span class="header-section-number">8.3</span> Tipos de contrato e pagamentos em dinheiro [Cap.8 §25–§34]</h3>
+<p>Na Noroeste, predominaram as empreitadas (68% em Pirajuí, 69% em Lins — Gráficos 6 e 8, p.&nbsp;394-395). As parcerias representaram 22% e 18%, respectivamente. O diferencial em relação à Alta Araraquarense foi a alta frequência de cláusulas monetárias: 58,7% das empreitadas em Pirajuí e 48,4% em Lins envolviam pagamento em dinheiro por cova formada. O autor interpreta isso como uma resposta à maior demanda por trabalho na Noroeste, que obrigou os fazendeiros a oferecerem contratos mais atraentes para atrair mão de obra.</p>
+<p>O autor reproduz um contrato de empreitada de 1929 em Lins (p.&nbsp;397) entre o japonês Otta Kiwiziro (proprietário) e quatro empreiteiros japoneses (Yamamoto Keizo, Imoto Zengoro, Tanaka Guiyntero, Maeda Gohe) para formar 36.000 cafeeiros em Rancharia. O contrato previa: (a) pagamento de 0$300 por cova pelas despesas de derrubada e covagem (a serem pagas pelo empreiteiro ao proprietário, não o contrário!); (b) os empreiteiros ficariam com toda a produção de café durante quatro anos; (c) o proprietário forneceria telhas para a construção das casas, mas os empreiteiros construiriam; (d) os empreiteiros não poderiam vender cereais sem consentimento do proprietário se estivessem devendo; (e) ao final do contrato, os empreiteiros receberiam 71 alqueires de terra como pagamento (cláusula 13). Esse contrato é atípico — o pagamento final é em terra, não em dinheiro.</p>
+<blockquote class="blockquote">
+<p><strong>Conceito-chave:</strong> O autor argumenta que a crise de 1929 atingiu a Noroeste de forma especialmente violenta porque os fazendeiros estavam em pleno processo de endividamento para expandir suas lavouras. O exemplo de Domingos Tamião (p.&nbsp;386-387) é ilustrativo: ele contratou a formação de 120 mil cafeeiros em 1929, mas em 1933 reconheceu que não tinha recursos para pagar os empreiteiros, estando sua propriedade hipotecada. A solução foi renegociar as dívidas com os trabalhadores, que continuaram tratando do café como colonos até que a produção futura saldasse os débitos.</p>
+</blockquote>
+</section>
+<section id="produtividade-e-simulações-de-rendimento-cap.8-3543" class="level3" data-number="8.4">
+<h3 data-number="8.4" class="anchored" data-anchor-id="produtividade-e-simulações-de-rendimento-cap.8-3543"><span class="header-section-number">8.4</span> Produtividade e simulações de rendimento [Cap.8 §35–§43]</h3>
+<p>O Gráfico 5 (p.&nbsp;390) mostra a produtividade dos cafeeiros em Lins e Pirajuí em comparação com a média do estado. Os picos são impressionantes: 95,3 arrobas por mil pés em Lins (1926-27) e 99,7 em Pirajuí (1927-28). No entanto, a produtividade caiu rapidamente: em 1937-38, Lins produzia 64,5 arrobas e Pirajuí 64,5, valores ainda acima da média do estado (46,6) mas abaixo dos picos.</p>
+<p>O autor realiza simulações de rendimento para empreitadas em Lins e Pirajuí em dois períodos: 1924-27 (preços altos) e 1934-37 (preços baixos). Para 5 mil pés, o empreiteiro teria recebido em Pirajuí 11.868$233 em 1927 e apenas 5.256$750 em 1937 (Tabelas 3 e 4, p.&nbsp;388-389). A diferença reflete a queda dos preços após a crise. As Tabelas 5-8 (p.&nbsp;391-392) comparam os rendimentos de empreitadas e parcerias em diferentes municípios, confirmando que (a) as empreitadas eram mais atrativas em momentos de alta e (b) as parcerias eram mais suscetíveis às variações de preço.</p>
+</section>
+<section id="mecanismos-de-exploração-e-liquidação-de-contratos-cap.8-4448" class="level3" data-number="8.5">
+<h3 data-number="8.5" class="anchored" data-anchor-id="mecanismos-de-exploração-e-liquidação-de-contratos-cap.8-4448"><span class="header-section-number">8.5</span> Mecanismos de exploração e liquidação de contratos [Cap.8 §44–§48]</h3>
+<p>O autor identifica na Noroeste os mesmos mecanismos de exploração encontrados em outras regiões: (a) preferência de venda ao fazendeiro; (b) taxas de transporte e beneficiamento; (c) adiantamentos que geravam endividamento; (d) cláusulas que permitiam ao fazendeiro reter o trabalhador como colono em caso de inadimplemento; (e) reconhecimento de dívidas com pagamento parcelado e juros baixos, mas com o trabalhador continuando a trabalhar.</p>
+<p>Um caso ilustrativo é o reconhecimento de dívida de Eduardo Caliló para com Emilio Sobrinho em 1933 (p.&nbsp;385): Sobrinho tinha a receber 4.057$100 por serviços prestados, mas Caliló não tinha recursos. O pagamento foi parcelado em quatro anos, com juros de 6% ao ano, e Sobrinho continuou trabalhando na fazenda.</p>
+<p><strong>Nota 16:</strong> O autor observa que as escrituras de compra e venda de café são raras nos cartórios da Noroeste, indicando que os circuitos de comercialização eram organizados a partir de outras cidades (Bauru, Campinas, Ribeirão Preto). Isso sugere que os fazendeiros da Noroeste não possuíam capital suficiente para organizar a comercialização em nível mais amplo, dependendo de intermediários externos.</p>
+</section>
+</section>
+<section id="considerações-finais-pp.-399-430" class="level2" data-number="9">
+<h2 data-number="9" class="anchored" data-anchor-id="considerações-finais-pp.-399-430"><span class="header-section-number">9</span> Considerações finais (pp.&nbsp;399-430)</h2>
+<section id="síntese-dos-achados-cf-112" class="level3" data-number="9.1">
+<h3 data-number="9.1" class="anchored" data-anchor-id="síntese-dos-achados-cf-112"><span class="header-section-number">9.1</span> Síntese dos achados [CF §1–§12]</h3>
+<p>O autor retoma os principais achados da pesquisa:</p>
+<ol type="1">
+<li><p><strong>Expansão da fronteira:</strong> O número de contratos cresceu fortemente nas zonas novas na década de 1920, com pico em 1928-29, e caiu abruptamente após a crise de 1929. Nas zonas antigas (Central, Paulista, parte da Mogiana), a resposta às políticas de defesa do café foi muito tímida, e o número de contratos foi baixo.</p></li>
+<li><p><strong>Tipos de contrato:</strong> Nas zonas novas predominaram as empreitadas (formação de lavouras), nas zonas antigas as parcerias (divisão da produção). O autor argumenta que a predominância de parcerias é um indicador de maturidade/decadência regional, e que as empreitadas eram mais atrativas para os trabalhadores devido ao maior acesso a culturas intercalares.</p></li>
+<li><p><strong>Produtividade:</strong> Os picos de produtividade nas zonas novas foram altos, mas a produtividade declinou rapidamente. As zonas de terra roxa (Jaú, Ribeirão Preto, São Manuel) mantiveram produtividade média superior ao longo de todo o período 1909-38 (Tabela 1, p.&nbsp;407-408). Jaú teve a maior produtividade média (65,06 arrobas/mil pés), seguida por Ribeirão Preto (58,44) e São Manuel (57,86). Pirajuí (52,55) e Catanduva (52,08) ficaram atrás.</p></li>
+<li><p><strong>Remuneração e atratividade:</strong> A diferença de salários monetários entre zonas antigas e novas era pequena. O principal atrativo da fronteira era o acesso à terra para culturas intercalares, que era muito maior nas lavouras em formação. Os trabalhadores preferiam o cultivo conjugado (café + alimentos no mesmo espaço) ao fornecimento de terrenos extras, porque isso otimizava o trabalho familiar.</p></li>
+<li><p><strong>Desigualdade e exploração:</strong> Em todas as regiões, as relações de trabalho eram profundamente desiguais. Os fazendeiros impunham cláusulas contratuais que os beneficiavam unilateralmente: multas rescisórias, cauções, preferência de venda, taxas de beneficiamento e transporte, construção de benfeitorias sem indenização, trabalho gratuito em serviços de manutenção, e a possibilidade de “dar o calote” e reter o trabalhador como colono.</p></li>
+</ol>
+</section>
+<section id="gráficos-de-dispersão-e-correlações-cf-1318" class="level3" data-number="9.2">
+<h3 data-number="9.2" class="anchored" data-anchor-id="gráficos-de-dispersão-e-correlações-cf-1318"><span class="header-section-number">9.2</span> Gráficos de dispersão e correlações [CF §13–§18]</h3>
+<p>O autor apresenta três gráficos de dispersão (p.&nbsp;421-423) correlacionando a idade dos municípios (em anos em 1937) com (a) número total de contratos, (b) número de empreitadas de formação, e (c) número de parcerias.</p>
+<ul>
+<li><p><strong>Gráfico 5 (idade x contratos):</strong> Três grupos se destacam: (1) municípios novos da fronteira (Pirajuí, Lins, Rio Preto, Catanduva, Novo Horizonte) com alto número de contratos; (2) municípios de idade intermediária (Franca, Jaú, Botucatu) com número médio de contratos; (3) municípios antigos (Campinas, Rio Claro, Ribeirão Preto, São Carlos, Araraquara, São Manuel) com baixo número de contratos.</p></li>
+<li><p><strong>Gráfico 6 (idade x empreitadas):</strong> Padrão semelhante, com os municípios novos apresentando o maior número de empreitadas. Franca e Jaú se destacam como municípios mais velhos com número significativo de empreitadas, indicando que ainda havia renovação da cafeicultura.</p></li>
+<li><p><strong>Gráfico 7 (idade x parcerias):</strong> Dispersão mais acentuada. Os municípios novos também têm parcerias em número relevante, mas a linha de tendência é menos clara.</p></li>
+<li><p><strong>Gráfico 8 (contratos x empreitadas):</strong> Correlação positiva forte: quanto mais contratos, mais empreitadas.</p></li>
+<li><p><strong>Gráfico 9 (contratos x pagamentos em dinheiro):</strong> Correlação positiva, mas os municípios da Noroeste (Pirajuí, Lins) se destacam com alta frequência de pagamentos em dinheiro, enquanto os da Alta Araraquarense (Rio Preto, Catanduva) ficam abaixo da linha de tendência.</p></li>
+</ul>
+</section>
+<section id="mapa-de-investimentos-na-fronteira-cf-1920" class="level3" data-number="9.3">
+<h3 data-number="9.3" class="anchored" data-anchor-id="mapa-de-investimentos-na-fronteira-cf-1920"><span class="header-section-number">9.3</span> Mapa de investimentos na fronteira [CF §19–§20]</h3>
+<p>O Mapa 3 (p.&nbsp;430) mostra os fluxos de investimentos na formação de lavouras a partir dos municípios selecionados. Campinas, Ribeirão Preto, Jaú e Araraquara foram os grandes centros que “moveram” a fronteira, com investimentos nas regiões Noroeste e Alta Araraquarense. Ribeirão Preto foi o mais ativo, com investimentos em 12 municípios (incluindo Catanduva, São José do Rio Preto, Penápolis, Araçatuba). Jaú investiu em 16 localidades, incluindo Pirajuí, Cafelândia e municípios do Paraná. Franca, Rio Claro e Botucatu tiveram um raio de investimentos mais localizado (municípios vizinhos). Os próprios municípios da fronteira (Rio Preto, Catanduva, Novo Horizonte) também investiram em outras áreas (Noroeste, Alta Paulista), evidenciando a itinerância do café.</p>
+</section>
+<section id="conclusão-final-cf-21" class="level3" data-number="9.4">
+<h3 data-number="9.4" class="anchored" data-anchor-id="conclusão-final-cf-21"><span class="header-section-number">9.4</span> Conclusão final [CF §21]</h3>
+<p>O autor conclui que a expansão da cafeicultura paulista entre 1917 e 1937 foi motivada por três fatores: (a) evolução favorável dos preços até 1929; (b) legislação vulnerável que permitiu a apropriação de terras em grande escala nas zonas novas; (c) a necessidade de compensar a queda de produtividade nas regiões antigas. As relações de trabalho foram amplamente marcadas pela desigualdade, e o domínio sobre a terra foi o ponto de partida para a exploração da força de trabalho.</p>
+<blockquote class="blockquote">
+<p>“O domínio sobre a terra foi o ponto inicial para o estabelecimento de relações de trabalho amplamente marcadas pela desigualdade” (p.&nbsp;429).</p>
+</blockquote>
+<p>O autor finaliza reiterando que seu objetivo foi estudar as relações de trabalho consoantes aos diferentes estágios de desenvolvimento da cafeicultura, e que sua contribuição reside na sistematização de uma ampla documentação cartorial e na análise comparativa das distintas regiões paulistas.</p>
+</section>
+</section>
+<section id="argumento-sintético" class="level2" data-number="10">
+<h2 data-number="10" class="anchored" data-anchor-id="argumento-sintético"><span class="header-section-number">10</span> Argumento Sintético</h2>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>A tese de Faleiros (2007) demonstra, com base na análise de 2.047 escrituras cartoriais de formação e trato de cafeeiros lavradas em 14 municípios paulistas entre 1917 e 1937, que a remuneração pelo trabalho estava diretamente ligada ao estágio de desenvolvimento da cafeicultura em cada região. Nas zonas novas (Noroeste, Alta Araraquarense, Douradense) predominaram as empreitadas (contratos para formação de novas lavouras), que ofereciam maior acesso a culturas intercalares e, com maior frequência, pagamentos em dinheiro por cova formada. Nas zonas antigas (Central, Mogiana decadente, Paulista) predominaram as parcerias (divisão da produção), com menor espaço para culturas intercalares e maior vulnerabilidade às flutuações de preço.</p>
+<p>O argumento é de natureza <strong>descritiva e explicativa</strong>, baseado em evidências documentais quantitativas e qualitativas. O autor demonstra que (a) a evolução do número de contratos acompanha as políticas de defesa do café e a conjuntura internacional; (b) o tipo de contrato (empreitada vs.&nbsp;parceria) é um indicador confiável do estágio de desenvolvimento regional; (c) as diferenças de produtividade entre zonas novas e antigas são menos acentuadas do que a literatura sugere quando se considera todo o período (a produtividade das zonas novas declina rapidamente após os primeiros anos); (d) o principal atrativo da fronteira não eram salários monetários mais altos (que eram similares), mas o acesso à terra para culturas intercalares; (e) em todas as regiões, as relações de trabalho eram profundamente desiguais, com mecanismos contratuais que exploravam os trabalhadores (cláusulas de preferência de venda, taxas de beneficiamento, construção de benfeitorias sem indenização, cauções, multas rescisórias unilaterais).</p>
+<p>A contribuição para o debate sobre a ascensão social dos colonos é crítica: o autor relativiza as teses de Holloway e Font sobre a livre comercialização de excedentes e a mobilidade social, mostrando que os trabalhadores eram submetidos a “estreitamentos de mercado” e que a maioria dos colonos acumulava muito pouco (como evidenciam as cadernetas da Fazenda Pau d’Alho). No entanto, o autor também reconhece que a fronteira oferecia melhores oportunidades — não tanto para ascender, mas para sobreviver em condições menos opressivas.</p>
+<p>O que fica como hipótese ou agenda: a relação entre as estratégias dos fazendeiros (formar novas lavouras mesmo contra sua vontade para segurar a mão de obra) e a dinâmica de expansão da fronteira merece mais investigação. Além disso, o autor não explora sistematicamente a dimensão política (atuação do Patronato Agrícola, conflitos entre fazendeiros por aliciamento de colonos) nem a dimensão de gênero na divisão do trabalho familiar.</p>
+<p>A contribuição para o debate mais amplo da história econômica e social brasileira é significativa: a tese fornece uma base empírica robusta para a compreensão das relações de trabalho no complexo cafeeiro, qualifica o debate sobre a fronteira como espaço de oportunidades (mostrando seus limites), e demonstra o potencial heurístico das fontes cartoriais para a história econômica.</p>
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>Annotated Bibliography</category>
+  <category>Economic History</category>
+  <category>Labor Relations</category>
+  <category>Coffee Economy</category>
+  <category>Brazil</category>
+  <category>2007</category>
+  <category>2000s</category>
+  <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Faleiros2007.html</guid>
+  <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
   <title>Fichamento: Coffee Planters, Workers and Wives</title>
   <dc:creator>Tales Mançano</dc:creator>
   <link>https://mancano-tales.github.io/Annotated-Bibliography/posts/Stolcke1988.html</link>
@@ -8956,470 +9605,6 @@ Note
   <category>2000s</category>
   <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Katz2001.html</guid>
   <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Fichamento: A política pública de expansão para a educação superior entre 1995 e 2010</title>
-  <dc:creator>Tales Mançano</dc:creator>
-  <link>https://mancano-tales.github.io/Annotated-Bibliography/posts/Carvalho2015.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Carvalho, C. H. A. de (2015). A política pública de expansão para a educação superior entre 1995 e 2010: uma abordagem neoinstitucionalista histórica. <em>Revista Brasileira de Educação</em>, <em>20</em>(60), 51–76. https://doi.org/10.1590/S1413-24782015206004</p>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Entrada BibTeX → Carvalho2015
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
-background-color: null;
-font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">Carvalho2015</span>,</span>
-<span id="cb1-2"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">author</span>  = {Carvalho, Cristina Helena Almeida de},</span>
-<span id="cb1-3"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">title</span>   = {A política pública de expansão para a educação superior entre 1995 e 2010: uma abordagem neoinstitucionalista histórica},</span>
-<span id="cb1-4"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">year</span>    = {2015},</span>
-<span id="cb1-5"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">journal</span> = {Revista Brasileira de Educação},</span>
-<span id="cb1-6"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">volume</span>  = {20},</span>
-<span id="cb1-7"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">number</span>  = {60},</span>
-<span id="cb1-8"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">pages</span>   = {51--76},</span>
-<span id="cb1-9"> <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">doi</span>     = {10.1590/S1413-24782015206004},</span>
-<span id="cb1-10">}</span></code></pre></div></div>
-</div>
-</div>
-</div>
-<pre><code>Última atualização: 2026-05-09
-Modelo: Perplexity — Sonnet 4.6
-Prompt Version: v17.2 2026-05-08 | Ficha antes do fichamento
-Gerado em: 2026-05-09T20:31:00-03:00
-Ocasião da Leitura: Releitura para escrita do capítulo 3 da dissertação.</code></pre>
-<hr>
-<section id="ficha-analítica-crítica" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="ficha-analítica-crítica">Ficha Analítica Crítica</h2>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Esta seção segue o formato <em>IA Planilhando Textos v17.2</em>.</p>
-</div>
-</div>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Ficha Analítica — Tabela Markdown
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-3" class="callout-3-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<table class="caption-top table">
-<colgroup>
-<col style="width: 23%">
-<col style="width: 52%">
-<col style="width: 23%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Dimensão</th>
-<th style="text-align: left;">Raciocínio analítico</th>
-<th style="text-align: left;">Conteúdo</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Questão de Pesquisa</td>
-<td style="text-align: left;">A questão é formulada explicitamente, mas em termos relativamente abertos (“continuidade e/ou ruptura”), o que pode dificultar falsificação. A premissa central é que o neoinstitucionalismo histórico é capaz de capturar tanto inércia quanto mudança — o ponto mais vulnerável é se esse quadro teórico gera hipóteses suficientemente discriminantes para distinguir o caso brasileiro de outros.</td>
-<td style="text-align: left;">Pergunta central: Em que medida a política pública para a educação superior no Governo Lula (2003–2010) representa continuidade e/ou ruptura em relação ao Governo FHC (1995–2002)? Natureza: avaliativa-comparativa. Explicitamente formulada na introdução.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Questões Secundárias</td>
-<td style="text-align: left;">As questões secundárias estão implícitas e derivam da tripartição polity-politics-policy. Uma interpretação alternativa seria privilegiar variáveis orçamentárias e fiscais em detrimento da análise de arenas decisórias, o que poderia alterar o diagnóstico de continuidade.</td>
-<td style="text-align: left;">(1) Quais atores compõem a arena decisória da educação superior e como seus interesses moldam a agenda? (2) Como o path dependence opera concretamente nos instrumentos da política (diversificação de cursos, crédito educativo, acesso)? (3) Em que dimensões específicas da expansão ocorre ruptura?</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Puzzle-Type</td>
-<td style="text-align: left;">O puzzle é genuíno e politicamente relevante: um governo eleito com plataforma fortemente oposta ao anterior implementou, em vários eixos, políticas de continuidade. Esse tipo de puzzle de “mudança retórica versus continuidade substantiva” é generalizável a outros países da América Latina nos anos 2000, mas a autora não mobiliza essa comparação.</td>
-<td style="text-align: left;">Puzzle explicativo de mudança institucional: por que um governo com agenda programática oposta manteve estruturas de política similares ao antecessor? Avaliação: puzzle genuíno e analiticamente produtivo, embora pouco diferenciado de debates equivalentes sobre governos PT em outras áreas sociais.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Conclusão / Argumento Central</td>
-<td style="text-align: left;">A tese é bem ancorada nas evidências documentais. O ponto analiticamente mais interessante — e subdesenvolvido — é o mecanismo pelo qual o custo de abandono de políticas consolidadas opera empiricamente. Isso fica mais afirmado do que demonstrado.</td>
-<td style="text-align: left;">O Governo Lula combinou continuidade estrutural (diversificação de cursos, diferenciação institucional, ENEM) com ruptura parcial em favor do segmento federal (REUNI, Programa de Expansão Fase I, institutos federais). A natureza do argumento é causal-institucionalista mediada por path dependence.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Métodos</td>
-<td style="text-align: left;">Trata-se de pesquisa documental qualitativa com análise comparativa de governos. O design é adequado para a pergunta, mas impõe limitações sérias: fontes documentais institucionais tendem a representar posições oficiais dos atores organizados, deixando de fora conflitos intraburocráticos e preferências latentes. O fichamento cobre a obra inteira (artigo completo).</td>
-<td style="text-align: left;">Pesquisa documental. Fontes primárias: programas de governo (1994, 1998, 2002), legislação (LDB/1996, PNE/2001, ProUni/2005, REUNI/2007), relatórios e manifestações públicas de atores institucionais. Abordagem comparativa diacrônica (FHC vs.&nbsp;Lula). Estratégia argumentativa: análise de arena decisória + rastreamento de posicionamento de atores. Fichamento cobre a obra inteira.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Data Generation Process (DGP)</td>
-<td style="text-align: left;">O DGP introduz viés de seleção de fontes: apenas organizações formais com publicações acessíveis são incluídas. Atores com influência informal, consultores técnicos do MEC, e lobbying parlamentar não documentado ficam fora da análise. A operacionalização de “posicionamento dos atores” como leitura de documentos institucionais é metodologicamente coerente, mas não captura inconsistências intra-organizacionais ou mudanças táticas ao longo do tempo.</td>
-<td style="text-align: left;">Fenômeno: dinâmica de política pública → Observação: documentos institucionais e legislação → Coleta: pesquisa documental seletiva → Operacionalização: posicionamento de atores codificado por publicações → Análise: comparação diacrônica → Inferência: descritiva-comparativa com elementos interpretativos. Unidade de análise: governo federal (período presidencial).</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Achados e Contribuições</td>
-<td style="text-align: left;">O achado mais robusto é o da inércia institucional nas três modalidades de cursos (sequencial, tecnológico, EaD) e na diferenciação institucional — aqui o design documental sustenta bem o argumento. A ruptura em favor do segmento federal (REUNI, institutos) também é bem evidenciada. O diagnóstico sobre políticas afirmativas é mais fraco: a autora documenta a ausência de regulamentação, mas não avalia os efeitos das iniciativas voluntárias das IFES.</td>
-<td style="text-align: left;">Empíricos: (1) diversificação e diferenciação institucional do Governo FHC permaneceram sob Lula apesar da retórica crítica; (2) ENEM consolidou-se como mecanismo de acesso em ambos os governos; (3) a ruptura mais clara foi a priorização do segmento federal via REUNI e Programa de Expansão. Teórico-metodológico: demonstração empírica de que path dependence opera mesmo sob alternância ideológica de governo em sistemas de educação superior com setor privado dominante.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Análise Crítica dos Achados</td>
-<td style="text-align: left;">O argumento é sólido em seu núcleo descritivo-comparativo, mas enfrenta ao menos três vulnerabilidades: (a) ausência de contrafactual sistemático — o que permitiria afirmar que a continuidade é efeito de path dependence e não de preferências convergentes dos próprios atores do PT? (b) a “arena decisória” é tratada como estável entre os dois governos, mas sua composição pode ter mudado; (c) a análise de ruptura é assimétrica: o segmento federal é bem documentado, mas o impacto real do ProUni sobre desigualdade de acesso (que seria o teste mais direto do argumento sobre democratização) não é avaliado empiricamente.</td>
-<td style="text-align: left;">O design documental é adequado para descrever posicionamentos e rastrear legislação, mas insuficiente para demonstrar causalidade institucional. O argumento de path dependence é plausível, mas funciona como interpretação post-hoc dos padrões observados, não como mecanismo identificado independentemente. A generalizabilidade está implicitamente restrita ao Brasil, mas não há discussão de scope conditions.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Limitações</td>
-<td style="text-align: left;"><strong>Reconhecidas pelos autores:</strong> A autora reconhece explicitamente o limite de espaço do artigo (pp.&nbsp;61), indicando que apenas um eixo da política (expansão) é coberto, com os demais eixos remetidos à tese de doutorado (Carvalho, 2011). <br> <strong>Não reconhecidas ou subestimadas:</strong> (1) viés de seleção das fontes documentais (só organizações com publicações formais); (2) ausência de análise de resultado (outputs da política versus metas declaradas); (3) o modelo de arena decisória não contempla a dimensão subnacional (estados e municípios) mesmo para expansão de acesso; (4) não há discussão sobre por que a tese de doutorado de 2011 não é simplesmente reproduzida — o que o artigo acrescenta àquela análise.</td>
-<td style="text-align: left;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Perspectiva Teórica</td>
-<td style="text-align: left;">A moldura neoinstitucionalista histórica é adequada para a pergunta de continuidade/ruptura e coerente com o design documental. A coerência entre ontologia (instituições como regras formais e informais que constrangem atores) e método (análise de documentos institucionais e legislação) é razoável, embora a dimensão das “regras informais” fique subexplorada empiricamente.</td>
-<td style="text-align: left;">Neoinstitucionalismo histórico (corrente de Skocpol, Hall e Taylor, Thelen e Steinmo). Conceitos operativos centrais: path dependence, arena decisória (Lowi), feedback de políticas, insulamento burocrático. A análise tridimensional polity-politics-policy (Frey, 2000) estrutura o argumento comparativo.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Principais Referências</td>
-<td style="text-align: left;">O diálogo com a literatura é majoritariamente fundacional (anos 1980–2003) e pouco atualizado para o período de publicação (2015). Ausente qualquer diálogo com literatura comparada de educação superior (Clark, Trow, Marginson) ou com literatura brasileira de análise de políticas sociais mais recente.</td>
-<td style="text-align: left;">Hall e Taylor (2003), Skocpol (1985, 1994), Thelen e Steinmo (1992), March e Olsen (1984), Lowi (1995), Frey (2000), Marques (1997). Documentos institucionais: ABMES, ANDES-SN, ANDIFES, UNE, ABRUC, CRUB, Banco Mundial, UNESCO.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Observações</td>
-<td style="text-align: left;">Tipo de texto: artigo em periódico (identificação inequívoca pela estrutura e pelo periódico). O artigo é uma condensação explicitamente parcial de Carvalho (2011), tese de doutorado com 465 páginas. Isso implica que boa parte do suporte empírico para as afirmações sobre atores individuais está na tese, não no artigo — limitação para leitores que acessam apenas a versão periódico. Para pesquisa sobre cotas/PROUNI, o artigo é útil como contextualização institucional mas insuficiente como análise de resultados.</td>
-<td style="text-align: left;"></td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-</div>
-<hr>
-</section>
-<section id="mapa-argumentativo" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="mapa-argumentativo">Mapa Argumentativo</h2>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 9%">
-<col style="width: 11%">
-<col style="width: 30%">
-<col style="width: 47%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Seção</th>
-<th style="text-align: left;">Título</th>
-<th style="text-align: left;">Função argumentativa</th>
-<th style="text-align: left;">Contribuição para a tese central</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Introdução</td>
-<td style="text-align: left;">Introdução</td>
-<td style="text-align: left;">Apresentação do puzzle e da tese</td>
-<td style="text-align: left;">Define o objeto (expansão 1995–2010), delimita a moldura teórica (neoinstitucionalismo histórico), enuncia a pergunta de continuidade/ruptura e apresenta as fontes primárias usadas.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Seção 1</td>
-<td style="text-align: left;">Neoinstitucionalismo Histórico: Conceitos e Categorias</td>
-<td style="text-align: left;">Fundamento teórico</td>
-<td style="text-align: left;">Apresenta o arsenal conceitual operativo: instituições, path dependence, feedback de políticas, insulamento burocrático, arena decisória. Estabelece o quadro interpretativo para toda a análise empírica subsequente.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Seção 2</td>
-<td style="text-align: left;">Educação Superior: Arena Decisória, Principais Atores e a Formação da Agenda</td>
-<td style="text-align: left;">Análise empírica — mapeamento de atores</td>
-<td style="text-align: left;">Delimita os atores relevantes (MEC, ABMES, ABRUC, ANDIFES, ANDES-SN, UNE, CRUB, Banco Mundial, UNESCO), classifica a arena como redistributiva (Lowi), e mapeia as agendas dos governos via programas eleitorais de 1994, 1998 e 2002.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Seção 3</td>
-<td style="text-align: left;">A Política Pública para a Expansão da Educação Superior no Brasil entre 1995 e 2010</td>
-<td style="text-align: left;">Análise empírica comparativa</td>
-<td style="text-align: left;">Compara a formulação e implementação dos dois governos nos eixos de oferta (diversificação de cursos, diferenciação institucional, desigualdades regionais, noturno) e demanda (formas alternativas de acesso, políticas afirmativas). Identifica onde há continuidade e onde há ruptura.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Considerações Finais</td>
-<td style="text-align: left;">Considerações Finais</td>
-<td style="text-align: left;">Síntese e agenda</td>
-<td style="text-align: left;">Sintetiza o argumento: continuidade estrutural do segmento privado + ruptura parcial em favor do segmento federal. Reafirma a produtividade analítica do neoinstitucionalismo histórico para capturar a coexistência dessas dinâmicas.</td>
-</tr>
-</tbody>
-</table>
-<hr>
-</section>
-<section id="introdução-pp.-5154" class="level2" data-number="1">
-<h2 data-number="1" class="anchored" data-anchor-id="introdução-pp.-5154"><span class="header-section-number">1</span> Introdução (pp.&nbsp;51–54)</h2>
-<section id="delimitação-do-objeto-e-moldura-teórica-14" class="level3" data-number="1.1">
-<h3 data-number="1.1" class="anchored" data-anchor-id="delimitação-do-objeto-e-moldura-teórica-14"><span class="header-section-number">1.1</span> Delimitação do objeto e moldura teórica [§1–§4]</h3>
-<p>O artigo parte de uma escolha teórica explícita: privilegiar a vertente histórica do neoinstitucionalismo como moldura para analisar a política pública de educação superior no Brasil entre 1995 e 2010. A autora situa essa opção em relação ao campo mais amplo das perspectivas em ciência política sobre a relação Estado-sociedade, mas esclarece que o foco não é apresentar o neoinstitucionalismo histórico como arcabouço unitário — ele não é assim concebido — e sim apropriar-se de seu “ferramental analítico baseado em afirmações provisórias a serem testadas e alteradas com base nos resultados de estudos históricos” (p.&nbsp;53).</p>
-<p>O <strong>fio condutor</strong> do argumento é compreender os atores e as instituições políticas (<em>polity</em>) como essenciais para a compreensão do processo político (<em>politics</em>) e para o desenho das políticas públicas (<em>policies</em>). A análise é <strong>tridimensional</strong>: a dimensão institucional estrutura o processo, o processo político molda e é moldado pelas políticas concretas, em relação de mútua constituição. A participação de indivíduos, grupos e Estado é moldada pelo arcabouço institucional, e as preferências tornam-se, nesse enquadramento, <strong>endógenas</strong> ao contexto social e político.</p>
-<blockquote class="blockquote">
-<p><strong>Nota :</strong> A autora esclarece a distinção entre as três dimensões: <em>polity</em> (ordem do sistema político, estrutura jurídico-institucional — Constituição, federalismo, sistema eleitoral), <em>politics</em> (processo político dinâmico, marcado por conflito quanto a objetivos e decisões) e <em>policy</em> (conteúdos concretos: programas políticos, decisões materiais). Baseada em Frey (2000), ressalta que a literatura avançou ao estabelecer relação “simbiótica e de mútua influência” entre essas categorias, e não de separação estanque.</p>
-</blockquote>
-</section>
-<section id="metodologia-e-estrutura-do-artigo-56" class="level3" data-number="1.2">
-<h3 data-number="1.2" class="anchored" data-anchor-id="metodologia-e-estrutura-do-artigo-56"><span class="header-section-number">1.2</span> Metodologia e estrutura do artigo [§5–§6]</h3>
-<p>O procedimento metodológico adotado foi a <strong>pesquisa documental</strong>. As fontes primárias incluem programas de governo, legislação educacional, relatórios, estudos publicados, pareceres, manifestações públicas, matérias de mídia e conteúdo de seminários. A autora remete para Carvalho (2011) as referências mais detalhadas da “fala” dos atores, sinalizando que o artigo é uma condensação de sua tese de doutorado.</p>
-<p>O artigo se estrutura em três seções além de introdução e conclusão: (1) arcabouço teórico do neoinstitucionalismo histórico; (2) arena decisória, atores relevantes e agenda governamental; (3) comparação da formulação e implementação da política de expansão nos governos FHC e Lula. O critério organizador da terceira seção é identificar <strong>elementos de continuidade e/ou ruptura</strong> da política pública.</p>
-<hr>
-</section>
-</section>
-<section id="neoinstitucionalismo-histórico-conceitos-e-categorias-pp.-5458" class="level2" data-number="2">
-<h2 data-number="2" class="anchored" data-anchor-id="neoinstitucionalismo-histórico-conceitos-e-categorias-pp.-5458"><span class="header-section-number">2</span> Neoinstitucionalismo Histórico: Conceitos e Categorias (pp.&nbsp;54–58)</h2>
-<section id="origens-e-posição-no-campo-79" class="level3" data-number="2.1">
-<h3 data-number="2.1" class="anchored" data-anchor-id="origens-e-posição-no-campo-79"><span class="header-section-number">2.1</span> Origens e posição no campo [§7–§9]</h3>
-<p>A corrente neoinstitucionalista histórica tem seus primórdios nos anos 1980, inspirada no trabalho clássico de Polanyi (1980) sobre o surgimento e desaparecimento da sociedade de mercado. Emerge como reação às análises de grupos estrutural-funcionalistas — centradas nos indivíduos e na sociedade — para resgatar o papel do Estado nas políticas públicas. O marco fundacional destacado é a pesquisa de Skocpol (1985), cujo núcleo é colocar o Estado como ator central para a compreensão do fazer político e da mudança social, rompendo com os pressupostos deterministas das correntes pluralistas, estrutural-funcionalistas e neomarxistas.</p>
-<p>A autora enfatiza que a corrente não substituiu explicações baseadas em classes ou grupos pelo determinismo estatal. Diferentemente de abordagens que buscam explicações em variáveis isoladas (marxismo: classe; pluralismo: grupo de interesse), os institucionalistas históricos “focalizam suas análises na combinação e na interação entre inúmeras variáveis, a fim de refletir a complexidade das situações políticas reais” (p.&nbsp;54).</p>
-<blockquote class="blockquote">
-<p><strong>Nota:</strong> A autora identifica, com base em Hall e Taylor (2003) e Immergut (1998), três vertentes neoinstitucionalistas desenvolvidas a partir dos anos 1980: escolha racional, sociológica e histórica. A vertente da escolha racional origina-se na teoria da escolha racional e na economia neoclássica, com foco em direitos de propriedade, rendas e custos de transação. A sociológica centra-se na teoria das organizações (Powell e DiMaggio, 1991). A histórica parte do compêndio de Evans, Rueschemeyer e Skocpol (1985), que estabeleceu suas características diferenciais. As três correntes se distinguem por como respondem a duas questões: como construir a relação entre instituição e comportamento? e como explicar o processo pelo qual as instituições surgem ou se modificam? <a href="https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/111334221/ac1ac60b-6d49-4ebc-bfaa-55bb95980460/Carvalho-2015-A-politica-publica-de-expansao-para-a-educacao-superior-entre-1995-e-2010-uma-abordagem-neoinstituc.pdf?AWSAccessKeyId=ASIA2F3EMEYE7CKLZUTN&amp;Signature=n54J0bhrlHtM%2FnlXNJnP1y8e9r0%3D&amp;x-amz-security-token=IQoJb3JpZ2luX2VjECQaCXVzLWVhc3QtMSJGMEQCIHvO4%2ByCe82uOHm9S5V8NH4uNi9PLodItHpWZTFmYAELAiBlPYDsznwfsEBJj6BIwrnQ5BeSh7etyCaT1mkUHWCr9Sr8BAjt%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAEaDDY5OTc1MzMwOTcwNSIMII%2BTttcsHsZnZnzJKtAE7hfN5%2FznpOZC9YmOfL1TSRyGBjnfIoAaXs56Z5g1IphcHPQMcK1qukQUVFOuJpzz5piq6tdkIvHZYBKUIcv5D7eTZ061s2mncXbzoHMVRxSqOz2cN8b7JNUrWxv9wMchiSvo0FXack7p5lWhBUWW66i3ywHPlAs2stK2bgvy4oFoctmB7wMqVH5ISHDZA5VM8ZnDuhxZGQB2JbD90i6R%2BzjkLZ%2FucMc8CbBKtHF7x%2BlHHK92Y34nsFC8iAAUvuZbsZvgV9YhL6ka%2FIKP4uCJq950tnQFZqW04woWASRJQgtcXekbrGaTn915fqurDlg%2BLtICZBKRphqRwBwwll8bBV7dDMRmZw3MAGFDVDLqk1BH9SoRcYJYECSU%2Fck3uxZ4tjPZWVQ5vvVcEDfyl7Mg56Z70oDjk4MKDes6KrXr4vbiOPi5LTMsK0nNT9fYd3cNtgmQaCkM4aF5KvnzrECigZ6kUwp4QQZB8U8pI4FCusnJ54eMNr4rjPDFAuDkf0wyRoOoFvzZlPPpYqujUxNlstdsSXK4akmp8MLTnTOBzsWmSEaPp8UiAHivNVoyUzh1gO%2FkZskCrFCiCo2Dycgz%2FhkNh6h%2FCmWUl%2FO3iN8Z5aCIgsTGUfJQkilXYFT4GJY%2FGnD63eKk5m6Gn%2BGNYVOgDHw0GaSbU1%2Bw7ilepVxzYO2wrBd8QFFYA%2BaKcAfbQYvsEzTCNRK3e%2B2K6icrmUChyQk38WRKWKV4Y6N7UHk%2FBwYRXRLzgtYi%2FMe9dg63ZlubhTUL1hMe3S2BwhZHyWDuAzD5ov7PBjqZAXcxS%2BzMT5JsZHjurFM0p3TAupPrdZJfmxHh3RvzedUtwsmjp8EIFMmNb7mWXADuYInOeIla%2F5Wov4Lu8dpR2HkfxHii30vmj32PT2NhPm8ua7bdQP9vWhzflxX09kHccrmF0HRuhKX5UzsDtJ3E5GPcJbQdDVP2K44KZ%2BlOA%2BHGFWpMJfDJHcolJLSy4yqliC9irh2pRYruPQ%3D%3D&amp;Expires=1778359541">ppl-ai-file-upload.s3.amazonaws</a></p>
-</blockquote>
-</section>
-<section id="o-conceito-de-instituição-e-o-papel-do-estado-1012" class="level3" data-number="2.2">
-<h3 data-number="2.2" class="anchored" data-anchor-id="o-conceito-de-instituição-e-o-papel-do-estado-1012"><span class="header-section-number">2.2</span> O conceito de instituição e o papel do Estado [§10–§12]</h3>
-<p>O conceito de <strong>instituição</strong> no neoinstitucionalismo histórico é deliberadamente fluido: abrange tanto organizações formais quanto regras informais e procedimentos que estruturam a conduta. Thelen e Steinmo (1992) são convocados para caracterizar essa associação entre instituições, organizações e regras ou convenções editadas pelas organizações formais.</p>
-<p>As instituições desempenham <strong>duplo papel</strong>: (a) constrangem as interações sociais e (b) alteram as preferências dos atores. As preferências tornam-se <strong>endógenas</strong> — resultantes do contexto social e político — e não exógenas às instituições, como pressupõe a escolha racional. A capacidade do Estado de fazer valer seus interesses é analisada por meio do conceito de <strong>“insulamento”</strong> (Skocpol, 1985): a capacidade dos funcionários estatais ou do aparato burocrático de formular e realizar políticas públicas de maneira relativamente autônoma diante das pressões dos atores sociais. O grau de insulamento é condicionado pela estrutura organizacional da máquina pública, pela estabilidade das agências estatais, pelo controle do Legislativo sobre o Executivo e pela estrutura de relações de poder entre agências.</p>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong>Tese central da moldura teórica:</strong> O Estado é uma instituição/ator fundamental cujas relações com a sociedade civil não são de mão única (dominante/dominada), mas de influência mútua mediada por configurações institucionais específicas. A autonomia estatal não é estrutural, mas historicamente contingente, variando por agência, conjuntura e formação do Estado.</p>
-</div>
-</div>
-</section>
-<section id="feedback-de-políticas-e-path-dependence-1315" class="level3" data-number="2.3">
-<h3 data-number="2.3" class="anchored" data-anchor-id="feedback-de-políticas-e-path-dependence-1315"><span class="header-section-number">2.3</span> Feedback de políticas e path dependence [§13–§15]</h3>
-<p>A autora desenvolve o argumento de que, quando políticas públicas são instituídas, elas <strong>reestruturam os processos políticos</strong>. Essa ideia — sintetizada na fórmula de Skocpol (1994): “como a política cria políticas, as políticas também remodelam a política” — opera por dois caminhos:</p>
-<p>Primeiro, os funcionários públicos que executam novas políticas ampliam as capacidades administrativas do Estado, alterando as possibilidades para implementações futuras. Segundo, novas políticas abalam as identidades sociais, os objetivos e as capacidades dos grupos, estimulando alianças em defesa da continuidade ou expansão das políticas bem-sucedidas.</p>
-<p>A permanência institucional está, assim, associada ao conceito de <strong>path dependence</strong>: as instituições são um dos principais fatores que mantêm um desenvolvimento histórico sobre um conjunto de trajetos, tornando o abandono de políticas consolidadas custoso em termos eleitorais e organizacionais. Hall e Taylor (2003) são citados para reunir trabalhos que, de “capacidades de Estado” e “políticas herdadas” como estruturantes das decisões posteriores, evoluíram para enfatizar que as políticas já adotadas condicionam as posteriores por encorajarem forças sociais a se organizarem segundo certas orientações e adotarem identidades particulares.</p>
-</section>
-<section id="conflito-escolha-e-mudança-institucional-1618" class="level3" data-number="2.4">
-<h3 data-number="2.4" class="anchored" data-anchor-id="conflito-escolha-e-mudança-institucional-1618"><span class="header-section-number">2.4</span> Conflito, escolha e mudança institucional [§16–§18]</h3>
-<p>A flexibilidade analítica da vertente histórica reside, segundo a autora, na incorporação de dois elementos ao lado da inércia: o <strong>conflito</strong> e a <strong>escolha</strong>. As instituições são produto do conflito e das escolhas, mas ao mesmo tempo as modelam e restringem. O comportamento político, ainda que variável independente, é influenciado por instituições e políticas anteriores em situações de mudança conjuntural (Menicucci, 2005).</p>
-<p>Os momentos de mudança e de escolha institucional são particularmente reveladores porque os “conflitos a respeito das instituições expõem as relações de interesses e poder, e seus resultados não somente refletem, mas ampliam e reforçam os interesses dos vencedores” (Thelen; Steinmo, 1992, p.&nbsp;27, tradução da autora). A transformação institucional importa não apenas por moldar ideias e preferências, mas por alterar os constrangimentos a que os atores estão sujeitos em suas escolhas estratégicas.</p>
-<p>A autora acrescenta, como fator explicativo da mudança institucional, o <strong>aprendizado social</strong> e os processos de transferência, imitação e difusão de políticas (<em>mimicking</em>): formuladores observam melhores práticas externas e adotam modelos usados no exterior, processo frequentemente mediado por instituições multilaterais como o Banco Mundial e a UNESCO na definição das agendas de reforma de países em desenvolvimento.</p>
-<hr>
-</section>
-</section>
-<section id="educação-superior-arena-decisória-principais-atores-e-a-formação-da-agenda-pp.-5861" class="level2" data-number="3">
-<h2 data-number="3" class="anchored" data-anchor-id="educação-superior-arena-decisória-principais-atores-e-a-formação-da-agenda-pp.-5861"><span class="header-section-number">3</span> Educação Superior: Arena Decisória, Principais Atores e a Formação da Agenda (pp.&nbsp;58–61)</h2>
-<section id="a-arena-decisória-e-sua-classificação-1922" class="level3" data-number="3.1">
-<h3 data-number="3.1" class="anchored" data-anchor-id="a-arena-decisória-e-sua-classificação-1922"><span class="header-section-number">3.1</span> A arena decisória e sua classificação [§19–§22]</h3>
-<p>Para compreender a política pública de educação superior, a autora delimita o que denomina <strong>“arena decisória virtual”</strong> da educação superior — uma arena central por permitir o acesso e a participação de amplo espectro de atores, da formulação à implementação da política educacional. Seguindo a tipologia de Lowi (1995), a arena de expansão da educação superior é classificada como <strong>redistributiva</strong>: a estrutura política apresenta-se “altamente estabilizada e virtualmente institucionalizada”, com pelo menos dois lados portadores de interesses compartilhados, estáveis, claros e consistentes baseados em ideologias — os defensores do segmento público e os do segmento privado. A negociação é possível apenas para fortalecer ou enfraquecer o impacto da redistribuição.</p>
-<p>O <strong>Congresso Nacional</strong>, em especial a Comissão de Educação e Cultura da Câmara dos Deputados, é identificado como o <em>locus</em> preferencial de concretude dessa arena, onde o processo político se materializa como campo de interação, debate e confronto. Os atores são definidos como “todos aqueles dotados de capacidade de articular interesses, formalizar reivindicações e convertê-las em iniciativas, prescrever soluções, promover sua solução ou impedir que as decisões sejam implementadas” (Martins <em>apud</em> Tápia, 1993, p.&nbsp;20). A autora sublinha que nenhum ator, de forma isolada, impõe sua alternativa preferencial — os recursos são escassos e desigualmente distribuídos, exigindo construção de coalizões.</p>
-</section>
-<section id="mapeamento-dos-atores-23" class="level3" data-number="3.2">
-<h3 data-number="3.2" class="anchored" data-anchor-id="mapeamento-dos-atores-23"><span class="header-section-number">3.2</span> Mapeamento dos atores [§23]</h3>
-<p>Para fins da pesquisa, foram selecionadas apenas organizações formais que participaram ou interferiram de forma efetiva na política educacional. O quadro de atores inclui:</p>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th style="text-align: left;">Segmento</th>
-<th style="text-align: left;">Organizações</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Governamental</td>
-<td style="text-align: left;">Burocracia do MEC</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Privado</td>
-<td style="text-align: left;">ABMES, ABRUC</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Federal (público)</td>
-<td style="text-align: left;">ANDIFES, ANDES-SN, UNE</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Híbrido</td>
-<td style="text-align: left;">CRUB</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Multilateral</td>
-<td style="text-align: left;">Banco Mundial (BIRD), UNESCO</td>
-</tr>
-</tbody>
-</table>
-<blockquote class="blockquote">
-<p><strong>Nota :</strong> A autora remete para Carvalho (2011) informações detalhadas sobre os atores sociais listados.</p>
-</blockquote>
-</section>
-<section id="programas-de-governo-como-proxy-da-agenda-2428" class="level3" data-number="3.3">
-<h3 data-number="3.3" class="anchored" data-anchor-id="programas-de-governo-como-proxy-da-agenda-2428"><span class="header-section-number">3.3</span> Programas de governo como proxy da agenda [§24–§28]</h3>
-<p>A <strong>composição da agenda governamental</strong> (<em>agenda setting</em>) é identificada como momento central do ciclo político (<em>policy cycle</em>). Seguindo Theodoulou (1995), uma questão entra na agenda quando serve para resolução de um conflito ou crise, é defendida por grupo de interesse visível ou conta com apoio burocrático. Os programas de governo dos candidatos vitoriosos em 1994, 1998 e 2002 são usados como <em>proxy</em> da agenda governamental para educação superior.</p>
-<p>O programa de FHC de <strong>1994</strong> (“Mãos à obra”) propunha, para o segmento privado: reformulação do sistema de autorização de cursos (considerado restritivo), fixação de critérios para distribuição de recursos às IES comunitárias e reestruturação do crédito educativo. Para o segmento federal: revolução administrativa via autonomia universitária, racionalização de recursos (aproveitamento de capacidade ociosa, generalização de cursos noturnos, aumento de matrículas sem despesas adicionais), com expansão via parcerias federativas.</p>
-<p>Em <strong>1998</strong> (“Avança Brasil”), com Paulo Renato Souza permanecendo no MEC, o diagnóstico aprofundou-se em relação à pequena proporção de jovens matriculados e à rigidez dos modelos institucionais. O programa passou de objetivos gerais a metas quantitativas: ampliação de 30% das matrículas no sistema, via diversificação (cursos sequenciais, tecnológicos, EaD) e flexibilidade curricular; reorganização do crédito educativo para atender 15% da clientela das IES privadas; incremento de 40% nas matrículas federais; autonomia universitária administrativa e financeira para as IFES.</p>
-<p>O programa de <strong>Lula em 2002</strong> se divide em dois documentos. “Um Brasil para todos” critica duramente o governo FHC pela insuficiência de investimento público, pelo processo de privatização exacerbada e pelo abandono das IFES. Identifica as dificuldades das camadas pobres de acessar e permanecer na educação superior, os altos índices de inadimplência e evasão nas privadas, e propõe ampliação de vagas públicas e reformulação do crédito educativo. “Uma escola do tamanho do Brasil” (PT, 2002) aprofunda o diagnóstico em seções exclusivas sobre educação superior: reconhece a educação superior não apenas como funcionalidade econômica, mas como <strong>direito social básico</strong>, com ênfase nas barreiras de acesso para populações de baixa renda.</p>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Important
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>A autora sublinha uma <strong>mudança na estratégia discursiva</strong> entre os dois governos: enquanto FHC atribuía a crise às universidades federais e defendia a livre iniciativa — em consonância com as recomendações do BIRD, que concebia a educação superior como serviço comercializado —, o programa Lula criticou explicitamente a privatização e o desamparado das IFES pela gestão precedente, qualificando o investimento estatal substancial como sendo erroneamente considerado “desperdício de dinheiro público” pelo governo anterior.</p>
-</div>
-</div>
-<hr>
-</section>
-</section>
-<section id="a-política-pública-para-a-expansão-da-educação-superior-no-brasil-entre-1995-e-2010-pp.-6170" class="level2" data-number="4">
-<h2 data-number="4" class="anchored" data-anchor-id="a-política-pública-para-a-expansão-da-educação-superior-no-brasil-entre-1995-e-2010-pp.-6170"><span class="header-section-number">4</span> A Política Pública para a Expansão da Educação Superior no Brasil entre 1995 e 2010 (pp.&nbsp;61–70)</h2>
-<section id="tradução-legislativa-da-agenda-fhc-e-estrutura-analítica-do-governo-lula-2930" class="level3" data-number="4.1">
-<h3 data-number="4.1" class="anchored" data-anchor-id="tradução-legislativa-da-agenda-fhc-e-estrutura-analítica-do-governo-lula-2930"><span class="header-section-number">4.1</span> Tradução legislativa da agenda FHC e estrutura analítica do Governo Lula [§29–§30]</h3>
-<p>A agenda FHC foi traduzida progressivamente na <strong>LDB</strong> (Lei n.&nbsp;9.394/1996) e no <strong>PNE</strong> (Lei n.&nbsp;10.172/2001), além de normas avulsas, com coerência entre intenções programáticas e formulação/implementação ao longo dos oito anos. No Governo Lula, a reforma abrangente da educação superior não saiu do papel, mas houve profusão de leis, decretos e portarias, com destaque para o <strong>ProUni</strong> (Lei n.&nbsp;11.096/2005) e o <strong>REUNI</strong> (Decreto n.&nbsp;6.096/2007).</p>
-<p>A agenda governamental de expansão pode ser desmembrada em dois eixos analíticos: (a) oferta — com quatro premissas (diversificação de cursos, diferenciação institucional, combate às desigualdades regionais, expansão via cursos noturnos); e (b) demanda — com dois mecanismos (novas formas de acesso ao vestibular e políticas afirmativas).</p>
-</section>
-<section id="diversificação-de-cursos-e-programas-3134" class="level3" data-number="4.2">
-<h3 data-number="4.2" class="anchored" data-anchor-id="diversificação-de-cursos-e-programas-3134"><span class="header-section-number">4.2</span> Diversificação de cursos e programas [§31–§34]</h3>
-<p>A <strong>diversificação de cursos</strong> foi o objeto de maior controvérsia entre os atores. De um lado, ABMES, ABRUC, CRUB, Banco Mundial e UNESCO mostraram-se favoráveis, sob o argumento da democratização do acesso via flexibilidade institucional: as IES privadas adaptam-se rapidamente a mudanças na demanda e às novas profissões tecnológicas e administrativas. De outro, ANDES-SN, UNE e ANDIFES foram críticos dos cursos não tradicionais por considerá-los de baixa qualidade, com a exceção da ANDIFES, que defendia a modalidade não presencial para populações sem condições de frequentar cursos presenciais (professores em exercício, trabalhadores em regime de turno, presidiários, pessoas com limitações de locomoção).</p>
-<p>No <strong>Governo FHC</strong>, a diversificação tornou-se questão essencial: para aumentar a escolaridade líquida e atender à demanda reprimida, foram criadas três novas modalidades — cursos <strong>sequenciais</strong>, <strong>tecnológicos</strong> e <strong>não presenciais</strong> (EaD). No <strong>Governo Lula</strong>, apesar da posição crítica do programa de governo, as três modalidades apresentaram <strong>aspecto inercial</strong>: a consolidação criou nichos de mercado rentáveis para instituições e gerou clientela ávida pelo diploma de nível superior, tornando o custo de reversão proibitivo do ponto de vista político e de mercado. A continuidade foi mantida, ainda que com tentativas de restrição.</p>
-</section>
-<section id="diferenciação-institucional-3538" class="level3" data-number="4.3">
-<h3 data-number="4.3" class="anchored" data-anchor-id="diferenciação-institucional-3538"><span class="header-section-number">4.3</span> Diferenciação institucional [§35–§38]</h3>
-<p>A <strong>diferenciação institucional</strong> dividiu os atores de forma similar. O Banco Mundial e a ABMES defendiam novos fornecedores privados e instituições não universitárias mais inovadoras para ampliar a concorrência. A UNESCO reconhecia o surgimento dessas IES como inevitável e ponderava sobre a importância da regulação para manter qualidade. ABRUC defendia as IES não lucrativas no modelo universitário; ANDES-SN, UNE e ANDIFES rejeitavam o modelo empresarial e as IES não universitárias.</p>
-<p>A ação estatal no Governo FHC operou em duas frentes: regulamentou a <strong>figura jurídica da empresa educacional</strong> e criou dois novos modelos organizacionais — os <strong>centros universitários</strong> e os <strong>institutos ou escolas superiores</strong>. No Governo Lula, a política avançou em direção oposta: no primeiro ano de mandato, proibiu a criação de novos centros universitários e impôs aos existentes os mesmos requisitos das universidades. Porém, no final do primeiro mandato, essa norma foi revogada e as prerrogativas de autonomia foram restabelecidas, com apenas dois requisitos brandos: um quinto do corpo docente em tempo integral e ao menos um terço com mestrado ou doutorado. A autora descreve esse movimento como “nova frouxidão regulatória” — entre protestos dos atores do segmento público federal e festejos dos representantes privados.</p>
-<p>A política do Governo Lula caminhou simultaneamente em outra direção: priorizar a expansão do <strong>segmento federal</strong> via criação de novas universidades federais e novos <em>campi</em> em universidades existentes, com forte caráter de interiorização. O <strong>Programa de Expansão Fase I</strong> teve início em 2003. A política tomou forma mais ampla no segundo mandato, com o <strong>REUNI</strong> (Decreto n.&nbsp;6.096/2007), no bojo do Plano de Desenvolvimento da Educação (PDE), impulsionado pelo crescimento econômico e pela maior disponibilidade de recursos da União.</p>
-<p>O REUNI estabeleceu metas quantitativas para o incremento de vagas: elevação gradual da taxa de conclusão média dos cursos presenciais para <strong>90%</strong> e da relação alunos de graduação por professor para <strong>18</strong>, ao final de cinco anos. Previa redução das taxas de evasão, ocupação de vagas ociosas e aumento de vagas no período noturno, com acréscimo mínimo de <strong>20% nas matrículas</strong> de graduação.</p>
-<blockquote class="blockquote">
-<p><strong>Nota :</strong> A taxa de conclusão dos cursos de graduação é calculada pela relação do total de diplomados nos cursos presenciais em determinado ano com o total de vagas de ingresso oferecidas cinco anos antes.</p>
-</blockquote>
-<blockquote class="blockquote">
-<p><strong>Nota :</strong> A meta de dezoito alunos de graduação por professor diz respeito à oferta esperada de vagas nos cursos presenciais em razão das dimensões do corpo docente.</p>
-</blockquote>
-<p>O Governo Lula também reordenou a <strong>educação tecnológica</strong>, criando a Rede Federal de Educação Profissional, Científica e Tecnológica, composta de Institutos Federais de Educação, Ciência e Tecnologia (IFET); Universidade Tecnológica Federal do Paraná (UTFPR); CEFET-RJ; CEFET-MG; e escolas técnicas vinculadas às universidades federais.</p>
-<p>Os posicionamentos sobre o REUNI foram polarizados: ABMES opôs-se por considerar os gastos excessivos; UNE e ANDIFES apoiaram, pela redução das desigualdades regionais e incremento de vagas noturnas — e a ANDIFES foi interlocutora central na elaboração do programa, cujos reitores subscreveram o “Manifesto da Universidade Nova” (dezembro de 2006), antecipando a essência do que se tornaria o REUNI. O ANDES-SN opôs-se por considerar que a expansão implicaria precarização docente, aumento das classes por professor, priorização do ensino em detrimento da pesquisa e da extensão, e que a meta de 90% de aprovação sugeria adoção de “aprovação em massa”.</p>
-</section>
-<section id="combate-às-desigualdades-regionais-e-expansão-noturna-3943" class="level3" data-number="4.4">
-<h3 data-number="4.4" class="anchored" data-anchor-id="combate-às-desigualdades-regionais-e-expansão-noturna-3943"><span class="header-section-number">4.4</span> Combate às desigualdades regionais e expansão noturna [§39–§43]</h3>
-<p>O combate às <strong>desigualdades regionais</strong> tornou-se consenso entre os atores sociais (com exceção dos organismos multilaterais, que não tratam do tema). Apesar de constar dos programas FHC, a expansão regional efetiva do segmento privado foi desordenada e concentrada no eixo Sul-Sudeste, especialmente em São Paulo, visando clientela de maior renda. O Governo Lula materializou esse eixo concretamente: universidades federais abriram novos <em>campi</em> no interior dos estados via REUNI, novas universidades federais foram criadas em cidades do interior, e a expansão dos institutos federais contribuiu para a interiorização das oportunidades educacionais.</p>
-<p>O incremento de vagas no <strong>ensino noturno</strong> constou da retórica de ambos os governos, mas com diferenças significativas de justificativa e concretude. Para FHC, a justificativa era estritamente econômica: racionalização de recursos e redução de capacidade ociosa. A intenção não se converteu em mudança legislativa ou implementação efetiva. Para Lula, a medida foi concebida como acesso e permanência — mas a meta proporcional não obteve aprovação legislativa. No âmbito do REUNI, o ensino noturno nas IFES tornou-se uma das dimensões do programa, com o objetivo de reduzir evasão, ocupar vagas ociosas e aumentar vagas de ingresso.</p>
-</section>
-<section id="novas-formas-de-acesso-do-vestibular-ao-enem-sisu-4449" class="level3" data-number="4.5">
-<h3 data-number="4.5" class="anchored" data-anchor-id="novas-formas-de-acesso-do-vestibular-ao-enem-sisu-4449"><span class="header-section-number">4.5</span> Novas formas de acesso: do vestibular ao ENEM-SISU [§44–§49]</h3>
-<p>Havia consenso entre os atores sobre a necessidade de superar o sistema de admissão via vestibular, ainda que com críticas e propostas muito diversas. O ANDES-SN e a UNE defendiam a extinção progressiva do vestibular e sua substituição por seleção via escolas públicas. A ABMES vislumbrava na flexibilidade o interesse das mantenedoras em combinar formatos seletivos menos custosos. O BIRD propugnava por “tolerância na entrada com rigor na saída”.</p>
-<p>A <strong>LDB/1996</strong> manteve o vestibular como válido, mas não como único mecanismo, permitindo às IES criarem processos alternativos. Iniciativas pioneiras como o PEIES (UFSM, 1995) e o PAS (UnB, 1996) se multiplicaram. O <strong>ENEM</strong>, instituído pela Portaria MEC n.&nbsp;438/1998, passou a ser o modelo alternativo preferido pelo MEC — posição endossada pelo BIRD, que em 1998 propôs ao Brasil a substituição do vestibular por avaliações que levem em conta o conhecimento do ensino médio e uma prova nacional de desempenho. A autora recorda que o ENEM foi originalmente concebido como exame de <em>saída</em> do ensino médio, mas se transformou em exame de <em>ingresso</em> na educação superior, assemelhando-se ao <em>Baccalauréat</em> francês e ao <em>Abitur</em> alemão (Cunha, 2003).</p>
-<p>A ABMES acolheu bem o ENEM pela ausência de custo para as IES no processo seletivo externo, e se tornou aliada do MEC na promoção da adoção do exame. Os atores estatistas (ANDES-SN, UNE, ANDIFES) criticaram o rebaixamento das exigências de conteúdo e o caráter classificatório como meritocracia insuficiente.</p>
-<p>O Governo Lula deu continuidade ao ENEM em virtude do alto custo político de seu abandono e da crítica unânime ao vestibular tradicional. No segundo mandato, o exame foi remodelado para incorporar críticas metodológicas e tornar-se o principal formato unificado de seleção nas IFES. Em 2010 foi criado o <strong>SISU</strong> — sistema informatizado no qual instituições públicas oferecem vagas para candidatos participantes do ENEM —, completando a transição do vestibular para o ENEM como principal mecanismo de acesso público.</p>
-<p>No contexto do ProUni (2005), a realização do ENEM tornou-se <strong>obrigatória</strong> para acesso às bolsas, e a nota passou a ser o principal critério de seleção de bolsistas, conferindo ao exame centralidade na política de acesso ao segmento privado.</p>
-</section>
-<section id="políticas-afirmativas-5057" class="level3" data-number="4.6">
-<h3 data-number="4.6" class="anchored" data-anchor-id="políticas-afirmativas-5057"><span class="header-section-number">4.6</span> Políticas afirmativas [§50–§57]</h3>
-<p>As <strong>políticas afirmativas</strong> constituem o caso mais nítido de gap entre agenda e implementação. Todos os atores eram formalmente favoráveis, incluindo os organismos multilaterais — embora o BIRD alertasse para a ausência de comprovação empírica do impacto e para riscos de aumento de custos. No Brasil, o debate concentrou-se em cotas raciais e/ou sociais nas IFES. A UNE apoiava sem restrições; a ANDIFES defendia a combinação com ampliação de vagas noturnas; o CRUB aceitava apenas cotas para egressos do ensino médio público; o ANDES-SN reconhecia a necessidade de inclusão de segmentos discriminados, mas alertava tratar-se de medida focalizada que encobre a ausência de universalismo educacional.</p>
-<p>No Governo FHC, as políticas afirmativas não figuraram nos programas de governo nem nos debates da LDB/1996. Apenas no PNE houve preocupação vaga com políticas para populações discriminadas, sob a perspectiva de “compensação de deficiências formativas anteriores” — nivelamento acadêmico como equalizador de chances. No final do segundo mandato, foi editada a Lei n.&nbsp;10.558/2002, criando o <strong>Programa Diversidade na Universidade</strong>, financiado pelo BID com gerenciamento da UNESCO, voltado a cursinhos pré-vestibulares.</p>
-<p>No Governo Lula, o Programa Diversidade foi regulamentado (Decreto n.&nbsp;4.876/2003) e expandido, com criação da SECAD no MEC e da Coordenação Geral de Diversidade e Inclusão Educacional (CGDIE). O Executivo elaborou PL em regime de urgência para reserva de vagas em IFES para egressos de escolas públicas, negros e indígenas — mas o projeto foi arquivado em 2009 e não se converteu em norma jurídica naquele governo.</p>
-<p>Na ausência de regulamentação federal, as IFES adotaram ações diversificadas de forma voluntária. A autora cita as iniciativas pioneiras de 2003 da UERJ e da UnB. O REUNI previa genericamente que as IFES adotassem ações afirmativas, sem definir parâmetros obrigatórios.</p>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>O ProUni operacionalizou, nas IES privadas, a dupla lógica afirmativa que as federais não conseguiam regulamentar: adoção do ENEM como processo de seleção e bolsas de estudo vinculadas a critérios de renda familiar <em>per capita</em> e a critérios étnico-raciais (autodeclarados negros e indígenas, portadores de deficiência). O público-alvo: egressos do ensino médio público ou bolsistas integrais de escolas privadas.</p>
-</div>
-</div>
-<p>A regulamentação federal das cotas só se concretizou com a Lei n.&nbsp;12.711/2012, já no governo Dilma Rousseff, com três critérios: egressos do ensino médio público, renda familiar <em>per capita</em> e proporcionalidade étnico-racial.</p>
-<hr>
-</section>
-</section>
-<section id="considerações-finais-pp.-7071" class="level2" data-number="5">
-<h2 data-number="5" class="anchored" data-anchor-id="considerações-finais-pp.-7071"><span class="header-section-number">5</span> Considerações Finais (pp.&nbsp;70–71)</h2>
-<section id="síntese-do-argumento-continuidade-estrutural-e-ruptura-parcial-5861" class="level3" data-number="5.1">
-<h3 data-number="5.1" class="anchored" data-anchor-id="síntese-do-argumento-continuidade-estrutural-e-ruptura-parcial-5861"><span class="header-section-number">5.1</span> Síntese do argumento: continuidade estrutural e ruptura parcial [§58–§61]</h3>
-<p>A autora retoma a pergunta central e o quadro teórico para articular as conclusões. O neoinstitucionalismo histórico revela que a relação entre Estado e sociedade é mediada por instituições, e que a política pública resulta da combinação de ação estatal com as ações e reações dos demais atores. A tripartição <em>polity-politics-policy</em> não apenas organiza a análise, mas demonstra empiricamente que as mudanças no <em>politics</em> (alternância de governo) não produzem automaticamente mudanças equivalentes na <em>policy</em>.</p>
-<p>A agenda de campanha do Governo Lula exibia “completa oposição” à de FHC, mas a concepção inicial foi se remodelando diante de dois constrangimentos: (a) a pressão dos atores sociais no Congresso Nacional, e (b) a existência de políticas estruturadas sob arcabouço institucional sólido, cujo abandono implicava custo demasiado elevado com fortes repercussões eleitorais. Essas forças combinadas explicam o <strong>movimento de continuidade</strong>.</p>
-<p>A diversificação de cursos e a diferenciação institucional estimuladas pelo Governo FHC — com aprovação do BIRD, da UNESCO e dos atores privados — foram criticadas mas não revertidas no Governo Lula; as tentativas de restringir os centros universitários foram, ao final, abandonadas. O ENEM consolidou-se como alternativa aos exames vestibulares sem resistência de nenhum governo. As políticas afirmativas, por outro lado, sofreram resistências no Congresso e não se converteram em norma até 2012.</p>
-<p>O <strong>traço mais marcante de ruptura</strong> foi a decisão de colocar o segmento federal como protagonista do processo expansivo: Programa de Expansão Fase I e REUNI materializaram o aumento de vagas e de instituições federais, a redução das desigualdades regionais, e a atenção ao ensino noturno — aspectos negligenciados no governo anterior.</p>
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Tip
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>A conclusão articula um argumento de <strong>dupla trajetória</strong>: o crescimento absoluto do sistema manteve o predomínio esmagador do segmento privado (continuidade), enquanto os instrumentos existentes foram parcialmente redirecionados em favor do segmento federal (ruptura). As duas dinâmicas coexistem sem se anular, e é exatamente essa coexistência que o neoinstitucionalismo histórico está bem posicionado para capturar — ao contrário de abordagens que preveem ou ruptura ou continuidade como resultado exclusivo de alternância de governo.</p>
-</div>
-</div>
-<hr>
-</section>
-</section>
-<section id="argumento-sintético" class="level2" data-number="6">
-<h2 data-number="6" class="anchored" data-anchor-id="argumento-sintético"><span class="header-section-number">6</span> Argumento Sintético</h2>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong>Tese central:</strong> A política pública de expansão da educação superior no Brasil entre 1995 e 2010 combinou continuidade estrutural nos eixos herdados do Governo FHC — diversificação de cursos, diferenciação institucional, ENEM como mecanismo de acesso — com ruptura parcial em favor do segmento federal de educação superior, concretizada pelo REUNI e pelo Programa de Expansão Fase I no Governo Lula.</p>
-<p><strong>Natureza do argumento:</strong> Causal-institucionalista, com ênfase descritivo-comparativa. O mecanismo explicativo central é o <em>path dependence</em>: políticas bem-sucedidas geram redes de interesses, identidades e capacidades institucionais que tornam sua reversão politicamente custosa, mesmo sob alternância ideológica de governo.</p>
-<p><strong>O que o texto demonstra vs.&nbsp;o que fica como hipótese:</strong> O texto demonstra empiricamente a permanência dos instrumentos de política privada e a consolidação do ENEM via análise documental de legislação e posicionamento de atores. A priorização do segmento federal via REUNI é também bem documentada. O que permanece como hipótese — não testada no artigo — é o mecanismo pelo qual o <em>path dependence</em> opera no caso brasileiro: a autora afirma sua existência a partir dos padrões observados, mas não identifica o mecanismo independentemente dos resultados que pretende explicar.</p>
-<p><strong>Contribuição para o debate mais amplo:</strong> O artigo contribui para a literatura de análise de políticas educacionais no Brasil ao demonstrar empiricamente que governos com plataformas opostas podem produzir graus elevados de continuidade substantiva quando operam em sistemas institucionalizados com setor privado dominante. Conecta, ainda, o debate sobre o <em>legado</em> dos governos FHC e Lula à agenda do neoinstitucionalismo histórico comparado, embora sem desenvolver explicitamente a comparação internacional que a moldura permitiria.</p>
-</div>
-</div>
-
-
-</section>
-
- ]]></description>
-  <category>Annotated Bibliography</category>
-  <category>Political Science</category>
-  <category>Higher Education Policy</category>
-  <category>Historical Institutionalism</category>
-  <category>Brazil</category>
-  <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Carvalho2015.html</guid>
-  <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
