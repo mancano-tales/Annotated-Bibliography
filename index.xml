@@ -10,7 +10,483 @@
 <atom:link href="https://mancano-tales.github.io/Annotated-Bibliography/index.xml" rel="self" type="application/rss+xml"/>
 <description>Fichamentos acadêmicos de Tales Mançano</description>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Tue, 02 Jun 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 06 Jun 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Fichamento: The comparative political economy of inequality: the maturation of an emerging field</title>
+  <dc:creator>Tales Mançano</dc:creator>
+  <link>https://mancano-tales.github.io/Annotated-Bibliography/posts/Busemeyer2026.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Informações Técnicas e BibTeX
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<pre><code>Última atualização: 2026-06-06
+Modelo: DeepSeek (versão mais recente)
+Prompt Version: v17.4 · 2026-05-13
+Gerado em: 2026-06-06T14:30:00-03:00
+Ocasião da Leitura: [para preenchimento manual]</code></pre>
+<p><strong>Entrada BibTeX → Busemeyer2026</strong></p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">Busemeyer2026</span>,</span>
+<span id="cb2-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span>    = {Busemeyer, Marius R.},</span>
+<span id="cb2-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span>     = {The comparative political economy of inequality: the maturation of an emerging field},</span>
+<span id="cb2-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">journal</span>   = {West European Politics},</span>
+<span id="cb2-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span>      = {2026},</span>
+<span id="cb2-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">pages</span>     = {1--31},</span>
+<span id="cb2-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">doi</span>       = {10.1080/01402382.2026.2662882},</span>
+<span id="cb2-8">}</span></code></pre></div></div>
+</div>
+</div>
+</div>
+<section id="ficha-analítica-crítica" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="ficha-analítica-crítica">Ficha Analítica Crítica</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Esta seção segue o formato <em>IA Planilhando Textos v17.4</em>.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Ficha Analítica — Tabela Markdown
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 23%">
+<col style="width: 52%">
+<col style="width: 23%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Dimensão</th>
+<th style="text-align: left;">Raciocínio analítico</th>
+<th style="text-align: left;">Conteúdo</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Questão de Pesquisa</td>
+<td style="text-align: left;">Premissa: a literatura de CPEI está madura o suficiente para uma síntese que conecte causas e consequências da desigualdade. Interpretação alternativa: o autor poderia ter focado apenas em um dos lados (causas ou consequências). Ponto mais vulnerável: a noção de “self-reinforcing inequality” como padrão dominante pode ser uma construção do recorte amostral da literatura, não necessariamente um achado empírico agregado.</td>
+<td style="text-align: left;">Reconstruída: Como o campo da economia política comparada da desigualdade (CPEI) evoluiu nos últimos 25 anos, quais são seus principais achados sobre as causas e consequências da desigualdade, e quais questões devem orientar a pesquisa futura para escapar da “dinâmica de auto-reforço da desigualdade”?</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Questões Secundárias</td>
+<td style="text-align: left;">O autor conecta as questões secundárias à agenda futura. Vulnerabilidade: a agenda é ambiciosa, mas carece de priorização explícita.</td>
+<td style="text-align: left;">(1) Qual o papel dos partidos políticos na mitigação ou exacerbação das desigualdades na capacidade de resposta (<em>responsiveness</em>)? (2) Existem trade-offs entre capacidade de resposta a demandas de curto prazo e a desafios de longo prazo (ex.: mudança climática, investimento social)? (3) Como desigualdades locais (“place-based”) e a multidimensionalidade da desigualdade afetam a política da desigualdade?</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Puzzle-Type</td>
+<td style="text-align: left;">O puzzle é de tipo <em>explicativo</em> e <em>avaliativo</em>: por que, apesar da expectativa teórica do modelo Meltzer-Richard, o aumento da desigualdade não gerou demanda proporcional por redistribuição? O autor reconhece que o puzzle já é estabelecido na literatura, mas o artigo o utiliza como ponto de partida para revisar mecanismos (percepções viesadas, fairness, mobilização desigual). O puzzle é genuíno e generalizável para democracias avançadas.</td>
+<td style="text-align: left;">Puzzle explicativo (desvio do modelo Meltzer-Richard) combinado com uma avaliação do estado do campo.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Conclusão / Argumento Central</td>
+<td style="text-align: left;">Premissa: a literatura aponta para um padrão dominante de desigualdade auto-reforçadora. Interpretação alternativa: o autor poderia argumentar que há evidências de ciclos de mitigação. O argumento central é que o campo amadureceu mostrando que a política importa tanto nas causas quanto nas consequências da desigualdade, mas que para romper o “doom loop” é preciso mais pesquisa sobre partidos e trade-offs temporais. Ponto vulnerável: a evidência de auto-reforço é agregada de estudos com desenhos diferentes, e o autor não apresenta uma meta-análise ou teste empírico novo.</td>
+<td style="text-align: left;">O campo da CPEI demonstrou que a desigualdade é moldada por fatores políticos (instituições, recursos de poder) e, por sua vez, retroalimenta a política (participação, preferências, responsiveness desigual), gerando um ciclo de auto-reforço. Para transformar esse ciclo em mitigação, a pesquisa futura deve focar no papel dos partidos políticos e nos trade-offs entre responsiveness de curto e longo prazo.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Métodos</td>
+<td style="text-align: left;">O artigo é uma <em>revisão seletiva da literatura</em> (não sistemática). O autor explicita que adota uma “perspectiva mais ampla” em termos de período e escopo analítico. Estratégia argumentativa: qualitativa, baseada em síntese interpretativa de achados de primeira e segunda geração da CPEI. O fichamento cobre a obra completa. Limitação relevante: a seletividade da revisão pode introduzir viés de confirmação; não há critérios explícitos de inclusão/exclusão de estudos.</td>
+<td style="text-align: left;">Revisão narrativa seletiva da literatura. Fonte principal: artigos e livros publicados entre o final dos anos 1990 e 2025, com ênfase em estudos quantitativos cross-nacionais, experimentos de survey, e análises de responsiveness. O autor não apresenta dados originais, mas sintetiza achados empíricos de terceiros. Limitação: ausência de protocolo sistemático pode levar a omissões ou ênfase excessiva em certas tradições (ex.: abordagem Gilens vs.&nbsp;teoria partidária).</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Data Generation Process (DGP)</td>
+<td style="text-align: left;">Não se aplica diretamente por ser uma revisão. O DGP dos estudos revisados varia: (a) dados LIS para desigualdade de renda; (b) surveys para percepções e preferências; (c) dados de políticas públicas e plataformas eleitorais para responsiveness. Unidade de análise: países (macronível) e indivíduos (micronível). Viés potencial: a maioria dos estudos foca em democracias ocidentais ricas (EUA e Europa Ocidental), limitando a generalização.</td>
+<td style="text-align: left;">O autor não gera dados novos. Ele revisa estudos cujo DGP inclui: (i) dados do Luxembourg Income Studies (LIS) para medidas objetivas de desigualdade; (ii) experimentos de survey e surveys representativos para percepções e preferências; (iii) dados de políticas (gastos sociais, reformas) e plataformas partidárias para responsiveness. A comparação entre níveis (macro e micro) é uma força do campo, mas cria problemas de agregação e inferência ecológica que o autor menciona apenas indiretamente.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Achados e Contribuições</td>
+<td style="text-align: left;">O autor identifica que a contribuição central do campo é ter mostrado que a política (instituições, recursos de poder, partidos) afeta a desigualdade e que a desigualdade retroalimenta a política (participação, preferências, responsiveness). A contribuição do artigo em si é a proposta de agenda de pesquisa (partidos, trade-offs temporais). Vulnerabilidade: a agenda é pouco inovadora – a literatura sobre partidos e desigualdade já existe (Haselmayer &amp; Horn, 2025).</td>
+<td style="text-align: left;">Achados da literatura revisada: (1) Instituições de mercado de trabalho (negociação coletiva, sindicatos) e recursos de poder da esquerda reduzem a desigualdade. (2) Percepções viesadas da desigualdade (viés centrista) atenuam a demanda por redistribuição. (3) A desigualdade reduz a participação eleitoral dos mais pobres e favorece o populismo de direita. (4) Há um viés sistemático de responsiveness a favor dos ricos na formulação de políticas. Contribuições do artigo: (a) oferece uma síntese integrada das causas e consequências; (b) propõe uma agenda de pesquisa focada em partidos e trade-offs temporais; (c) contrasta perspectivas americana (dynamic representation) e europeia (party government) sobre responsiveness.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Análise Crítica dos Achados</td>
+<td style="text-align: left;">O autor responde adequadamente à pergunta de revisão, mas a análise crítica revela pontos vulneráveis. Primeiro, o argumento do “doom loop” é plausível, mas o autor não pondera a possibilidade de que a literatura sofra de viés de publicação (publication bias) em favor de resultados negativos sobre responsiveness. Segundo, a distinção entre perspectivas americana e europeia sobre partidos é útil, mas o autor não explora como desenhos institucionais (sistemas eleitorais, federalismo) podem moderar as diferenças. Terceiro, a seção sobre trade-offs temporais é conceitualmente rica, mas carece de exemplos empíricos concretos de estudos que já tenham testado esses trade-offs. Quarto, a generalização para além de democracias ocidentais ricas é frágil – o próprio autor reconhece que os dados vêm majoritariamente de países da OCDE.</td>
+<td style="text-align: left;">O artigo é bem-sucedido em mapear a evolução do campo e em identificar um padrão de auto-reforço. Contudo, a análise crítica aponta: (a) a evidência de responsiveness desigual é contestada por autores como Branham et al.&nbsp;(2017) e Elkjær &amp; Iversen (2020), que o autor menciona mas não resolve a controvérsia; (b) o autor não discute se o “doom loop” é inevitável ou contingente a regimes específicos de bem-estar social; (c) a proposta de focar em partidos políticos é um tanto óbvia, dado que a primeira geração da CPEI já tinha os partidos como atores centrais – o autor não explica por que os partidos desapareceram da agenda intermediária; (d) a ausência de uma discussão sobre o papel dos movimentos sociais e da sociedade civil organizada fora dos partidos é uma lacuna.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Limitações</td>
+<td style="text-align: left;"><strong>Reconhecidas pelos autores:</strong> O autor admite que a revisão é “seletiva” e “incompleta”. Reconhece que a literatura tem foco na dimensão econômica da desigualdade (renda), embora haja conexões com outras dimensões. Reconhece que o padrão de auto-reforço pode ser dependente de contexto histórico e de país. <br> <strong>Não reconhecidas ou subestimadas:</strong> (1) O viés geográfico: quase todos os estudos citados são de democracias ocidentais ricas; a generalização para países em desenvolvimento ou regimes não democráticos não é discutida. (2) O viés de publicação: estudos que não encontram viés de responsiveness ou que encontram efeitos mobilizadores da desigualdade podem estar sub-representados. (3) A definição de “responsiveness” é operacionalizada de forma diferente nos estudos citados, e o autor não problematiza a comparabilidade. (4) A literatura sobre populismo de direita é tratada de forma assimétrica em relação à esquerda radical. (5) Não há menção ao papel da tecnologia e da automação como fatores estruturais que interagem com a política, embora haja referência a Kurer &amp; Häusermann (2022).</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Perspectiva Teórica</td>
+<td style="text-align: left;">O autor se situa na tradição da <em>economia política comparada</em> institucionalista, com forte influência da <em>power resource theory</em> (Korpi, Stephens) e da <em>varieties of capitalism</em> (Hall &amp; Soskice). A ontologia implícita é estruturalista-moderada: instituições e atores coletivos (sindicatos, partidos) são vistos como mediadores de forças estruturais (globalização, mudança tecnológica). Há coerência entre essa ontologia e o método de revisão seletiva. Contudo, o autor também incorpora perspectivas da psicologia social (teoria da justificação do sistema, viés centrista), o que cria uma tensão não resolvida entre explicações estruturais e cognitivo-comportamentais.</td>
+<td style="text-align: left;">Tradição eclética: power resource theory, variedades do capitalismo, teorias da escolha racional (Meltzer-Richard) e psicologia social (percepções viesadas). A principal contribuição teórica do artigo é integrar essas tradições em um ciclo de feedback (auto-reforço). A adequação da moldura é alta para o propósito de revisão. Contudo, a ontologia é instável: ora o autor trata a desigualdade como resultado de estruturas objetivas (poder de barganha, instituições), ora como resultado de percepções subjetivas viesadas. A interação entre esses níveis não é formalizada.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Principais Referências</td>
+<td style="text-align: left;">Gilens (2005, 2012), Bartels (2008), Pontusson &amp; Rueda (2010), Lupu &amp; Pontusson (2023), Haselmayer &amp; Horn (2025), Piketty (2014, 2020), Esping-Andersen (1990), Hall &amp; Soskice (2001). O diálogo com a literatura é amplo, mas há um desequilíbrio: a literatura europeia sobre party government (Castles, Schmidt) é mencionada, mas não integrada com a mesma profundidade da literatura americana sobre dynamic representation (Stimson, Soroka).</td>
+<td style="text-align: left;">Referências centrais: Meltzer &amp; Richard (1981) como modelo canônico; Gilens (2012) e Bartels (2008) para responsiveness; Korpi (1983) e Stephens (1979) para power resources; Hall &amp; Soskice (2001) para VoC. O autor também dialoga com críticas (Branham et al., 2017; Elkjær &amp; Iversen, 2020). O diálogo pobre ou desequilibrado: a literatura latino-americana ou do Sul Global sobre desigualdade e política está ausente; a literatura sobre “democracia desigual” (Schäfer, 2013) é citada, mas não aprofundada.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Observações</td>
+<td style="text-align: left;">Vulnerabilidade adicional: o artigo foi publicado em 2026, mas cita trabalhos de 2025 e 2026 (ex.: Beiser-McGrath &amp; Busemeyer, 2026), indicando atualidade. No entanto, a dependência de preprints ou aceitos pode gerar instabilidade na replicabilidade. Lacuna teórica: o autor não discute como a <em>desigualdade multidimensional</em> (interseção com raça, gênero, educação) interage com os mecanismos políticos – embora mencione a necessidade de pesquisas futuras. Relevância para o leitor: o artigo é fundamental para quem pesquisa desigualdade e política comparada, especialmente se interessado por responsiveness e partidos. Omissão: o papel da mídia e da comunicação política na formação de percepções de desigualdade é apenas tangencialmente mencionado (legacy media).</td>
+<td style="text-align: left;">O artigo representa uma contribuição de síntese madura de um campo que o próprio autor ajudou a construir. A cobertura é abrangente até 2025-2026. A principal originalidade está na articulação entre causas e consequências da desigualdade em um ciclo de feedback e na proposição de uma agenda focada em partidos e temporalidade. No entanto, a falta de uma meta-análise ou de critérios sistemáticos de revisão limita a pretensão de “estado da arte”. O artigo seria mais robusto se incluísse uma seção sobre vieses de publicação e uma discussão explícita de escopo geográfico e temporal.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</section>
+<section id="mapa-argumentativo" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="mapa-argumentativo">Mapa Argumentativo</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 8%">
+<col style="width: 19%">
+<col style="width: 28%">
+<col style="width: 43%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Seção</th>
+<th style="text-align: left;">Título / Tema</th>
+<th style="text-align: left;">Função argumentativa</th>
+<th style="text-align: left;">Contribuição para a tese central</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Introdução (pp.&nbsp;2–3)</td>
+<td style="text-align: left;">Apresentação do campo e objetivos do artigo</td>
+<td style="text-align: left;">Apresentação do puzzle e da tese</td>
+<td style="text-align: left;">Define o escopo da revisão (causas e consequências da desigualdade) e anuncia a tese do ciclo de auto-reforço e a agenda de pesquisa.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">The comparative political economy of inequality: a short review of a maturing field (pp.&nbsp;3–6)</td>
+<td style="text-align: left;">Primeira onda: causas macroinstitucionais da desigualdade</td>
+<td style="text-align: left;">Revisão de literatura (fundamento empírico)</td>
+<td style="text-align: left;">Mostra que a política (recursos de poder, instituições trabalhistas, welfare state) molda a desigualdade, contrariando explicações puramente estruturais.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">From causes to consequences: exploring the micro-foundations (pp.&nbsp;6–8)</td>
+<td style="text-align: left;">Segunda onda: consequências micro da desigualdade (percepções, preferências, participação)</td>
+<td style="text-align: left;">Revisão de literatura (extensão do argumento)</td>
+<td style="text-align: left;">Demonstra que a desigualdade afeta percepções (viés centrista), reduz a demanda por redistribuição e a participação eleitoral dos pobres, e alimenta o populismo de direita.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">…and back to policies: inequalities in the responsiveness of policy-making (pp.&nbsp;8–10)</td>
+<td style="text-align: left;">Terceira onda: responsiveness desigual e mecanismos</td>
+<td style="text-align: left;">Revisão de literatura (fechamento do ciclo)</td>
+<td style="text-align: left;">Mostra que políticas públicas são enviesadas a favor dos ricos (Gilens, Bartels), completando o ciclo de auto-reforço: desigualdade → baixa participação dos pobres → políticas que beneficiam os ricos → mais desigualdade.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Preliminary summary: a dynamic of self-reinforcing inequality? (pp.&nbsp;10–11)</td>
+<td style="text-align: left;">Síntese do padrão de “doom loop” e possíveis exceções</td>
+<td style="text-align: left;">Síntese e qualificação</td>
+<td style="text-align: left;">Resume o argumento central do ciclo auto-reforçador e sugere que houve momentos históricos (pós-guerra) e exemplos atuais (social investment) de mitigação, abrindo espaço para a agenda futura.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Looking ahead: the contours of a research agenda (pp.&nbsp;11–19)</td>
+<td style="text-align: left;">Agenda de pesquisa: partidos e trade-offs temporais</td>
+<td style="text-align: left;">Extensão do argumento e proposição normativa</td>
+<td style="text-align: left;">Propõe dois eixos prioritários: (1) o papel dos partidos políticos (contrastando as tradições americana e europeia de responsiveness); (2) trade-offs entre responsiveness de curto e longo prazo.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Do political parties mitigate or exacerbate inequalities in responsiveness? (pp.&nbsp;12–15)</td>
+<td style="text-align: left;">Papel dos partidos na responsiveness</td>
+<td style="text-align: left;">Análise teórica e proposição</td>
+<td style="text-align: left;">Critica a abordagem da “dynamic representation” (Gilens) por ignorar a função agregadora dos partidos; defende a perspectiva da “party government” como forma de compensar desigualdades de recursos individuais.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Trade-offs in responsiveness to short- and long-term challenges (pp.&nbsp;15–17)</td>
+<td style="text-align: left;">Tensão entre curto e longo prazo</td>
+<td style="text-align: left;">Análise conceitual</td>
+<td style="text-align: left;">Argumenta que maximizar a responsiveness de curto prazo pode comprometer a capacidade de resolver problemas de longo prazo (clima, investimento social), e que isso tem implicações distributivas (os ricos tendem a apoiar mais políticas de longo prazo).</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Further emerging topics (pp.&nbsp;17–19)</td>
+<td style="text-align: left;">Desigualdades locais e multidimensionalidade</td>
+<td style="text-align: left;">Extensão da agenda</td>
+<td style="text-align: left;">Aponta duas áreas emergentes: (1) desigualdades entre regiões (place-based inequalities) e seu papel no populismo; (2) a interação entre dimensões econômicas e culturais da desigualdade.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Conclusion (pp.&nbsp;19–21)</td>
+<td style="text-align: left;">Síntese e reflexão final</td>
+<td style="text-align: left;">Síntese e agenda</td>
+<td style="text-align: left;">Reitera os dois principais achados do campo (a política importa; ciclo de auto-reforço) e a agenda futura (partidos, trade-offs temporais). Reconhece que a estabilização recente da desigualdade em alguns países pode tornar o “doom loop” menos pessimista.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="introdução-pp.-23" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="introdução-pp.-23"><span class="header-section-number">1</span> Introdução (pp.&nbsp;2–3)</h2>
+<section id="apresentação-do-campo-e-objetivos-15" class="level3" data-number="1.1">
+<h3 data-number="1.1" class="anchored" data-anchor-id="apresentação-do-campo-e-objetivos-15"><span class="header-section-number">1.1</span> Apresentação do campo e objetivos [§1–§5]</h3>
+<p>O artigo se abre com a constatação de que a desigualdade econômica está no centro dos debates acadêmicos e públicos, sendo amplamente percebida como crescente. O autor destaca que, embora as ciências sociais tenham inicialmente atribuído a desigualdade a forças socioeconômicas exógenas (mudança tecnológica, demografia, desenvolvimento econômico), o interesse em fatores políticos tem aumentado significativamente, inclusive na economia (Atkinson, Piketty, Stiglitz). Esse movimento reflete as aspirações do campo da <strong>Economia Política Comparada da Desigualdade (CPEI)</strong> , que desde suas origens tem apontado para o papel crucial da política e das políticas públicas na dinâmica da desigualdade.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 1:</strong> A sigla CPEI é introduzida pelo autor para se referir ao campo (<em>comparative political economy of inequality</em>). Ele a utiliza ao longo do artigo, mas não é uma sigla consagrada na literatura – trata-se de uma convenção adotada para este artigo de revisão.</p>
+</blockquote>
+<p>O autor define o primeiro objetivo do artigo: revisar seletivamente o campo da CPEI nos últimos 25 anos, adotando uma perspectiva mais ampla do que revisões anteriores (Elsasser &amp; Schafer 2023; Lupu &amp; Pontusson 2023; Pontusson 2025; Rosset et al.&nbsp;2025). A revisão foca na dimensão econômica da desigualdade (especialmente desigualdade de renda), mas reconhece as conexões com outras dimensões não econômicas.</p>
+<p>O artigo traça a conexão entre a primeira onda de estudos (causas macro da desigualdade) e a literatura mais recente (consequências micro, como participação e formação de preferências). O objetivo é considerar causas e consequências como parte de um ciclo de <em>feedback</em> entre nível micro (percepções, preferências) e nível macro (instituições, políticas). O argumento central que emerge da revisão é a identificação de um padrão dominante de <strong>desigualdade auto-reforçadora</strong> (<em>self-reinforcing inequality</em>).</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Tese central do artigo</strong>: O campo da CPEI amadureceu ao mostrar que a desigualdade é moldada por fatores políticos e, por sua vez, retroalimenta a política (participação, preferências, responsiveness), gerando um ciclo de auto-reforço. Para escapar desse ciclo, a pesquisa futura deve focar no papel dos partidos políticos e nos trade-offs entre responsiveness de curto e longo prazo.</p>
+</div>
+</div>
+<p>O segundo objetivo do artigo é esboçar uma agenda de pesquisa, com ênfase em: (i) o papel da política partidária, subapreciado nas fases intermediárias do campo; (ii) os trade-offs entre responsiveness democrática de curto e longo prazo; e (iii) tópicos emergentes como desigualdades locais e a multidimensionalidade da desigualdade.</p>
+</section>
+</section>
+<section id="the-comparative-political-economy-of-inequality-a-short-review-of-a-maturing-field-pp.-36" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="the-comparative-political-economy-of-inequality-a-short-review-of-a-maturing-field-pp.-36"><span class="header-section-number">2</span> The comparative political economy of inequality: a short review of a maturing field (pp.&nbsp;3–6)</h2>
+<section id="explorando-o-nível-macro-instituições-e-recursos-de-poder-612" class="level3" data-number="2.1">
+<h3 data-number="2.1" class="anchored" data-anchor-id="explorando-o-nível-macro-instituições-e-recursos-de-poder-612"><span class="header-section-number">2.1</span> Explorando o nível macro: instituições e recursos de poder [§6–§12]</h3>
+<p>A primeira onda da CPEI, no final dos anos 1990 e início dos 2000, focou na explicação das tendências da desigualdade em nível macro de países. Essa onda foi impulsionada pela disponibilidade de dados comparativos, especialmente do <strong>Luxembourg Income Studies (LIS)</strong> , que forneceu medidas de desigualdade de renda para um conjunto amplo de países e períodos. Diferentemente da pesquisa anterior sobre welfare state, que se concentrava em gastos sociais ou generosidade de benefícios (Esping-Andersen 1990; Wilensky 1975), a CPEI passou a analisar a desigualdade como <em>outcome</em> socioeconômico.</p>
+<p>Teoricamente, a CPEI desafiou o consenso predominante na economia e na sociologia, que apontava para fatores estruturais exógenos (mudança tecnológica, globalização) como causas últimas da desigualdade. O campo argumentou que a extensão em que essas forças se traduzem em maior desigualdade no mercado de trabalho depende de <strong>contextos políticos e instituições</strong>.</p>
+<p>Empiricamente, os primeiros trabalhos destacaram a influência de instituições do mercado de trabalho – negociação coletiva, regulação salarial e capacidade organizacional dos sindicatos – na redução das desigualdades de renda (Pontusson et al.&nbsp;2002; Wallerstein 1999). Com base na <strong>teoria dos recursos de poder</strong> (<em>power resource theory</em>), desenvolvida na pesquisa sobre welfare state (Korpi 1983; Stephens 1979), os estudiosos da CPEI apontaram que o equilíbrio de poder entre empregadores e sindicatos, bem como entre atores partidários, afeta as tendências de desigualdade (Bradley et al.&nbsp;2003; Huber &amp; Stephens 2014; Mahler 2004; Rueda 2008). A conclusão é que fortes recursos de poder para a esquerda (sindicatos centralizados e poderosos, partidos social-democratas bem-sucedidos eleitoralmente) estão associados a um welfare state mais generoso e a níveis mais baixos de desigualdade socioeconômica (Kenworthy &amp; Pontusson 2005; Pontusson 2005). Uma revisão sistemática recente de Haselmayer &amp; Horn (2025) confirmou a significância dos efeitos partidários.</p>
+<p>No debate sobre <strong>variedades do capitalismo (VoC)</strong> (Hall &amp; Soskice 2001), a desigualdade foi um tema menos central do que questões como formação de habilidades, inovação ou crescimento econômico. Contudo, estudiosos da CPEI estabeleceram conexões entre tendências de desigualdade e regimes de economia política e welfare state (Iversen &amp; Soskice 2009; Pontusson 2005). Por exemplo, instituições bem estabelecidas de <strong>educação e treinamento vocacional (VET)</strong> foram associadas a menores níveis de desigualdade econômica (Busemeyer 2014; Estévez-Abe et al.&nbsp;2001), especialmente quando combinadas com forte negociação coletiva (Busemeyer &amp; Iversen 2012).</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Conceito-chave</strong>: <em>Power resource theory</em> – abordagem que atribui a variação na desigualdade e no welfare state à força relativa de atores coletivos (sindicatos, partidos de esquerda) e ao seu acesso ao poder estatal. Opõe-se a explicações puramente funcionalistas ou estruturais.</p>
+</div>
+</div>
+<p>Assim, a primeira geração da CPEI concentrou-se em destacar o papel dos recursos de poder, da política partidária, das instituições do mercado de trabalho e de outras instituições político-econômicas como determinantes influentes da desigualdade socioeconômica. À medida que o campo amadureceu, os estudiosos passaram a se interessar pelas <strong>consequências políticas da desigualdade</strong> – participação, formação de preferências e percepções – movendo-se do nível macro para o micro.</p>
+</section>
+</section>
+<section id="das-causas-às-consequências-explorando-as-microfundações-da-política-da-desigualdade-pp.-68" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="das-causas-às-consequências-explorando-as-microfundações-da-política-da-desigualdade-pp.-68"><span class="header-section-number">3</span> Das causas às consequências: explorando as microfundações da política da desigualdade (pp.&nbsp;6–8)</h2>
+<section id="percepções-viesadas-e-o-puzzle-meltzer-richard-1318" class="level3" data-number="3.1">
+<h3 data-number="3.1" class="anchored" data-anchor-id="percepções-viesadas-e-o-puzzle-meltzer-richard-1318"><span class="header-section-number">3.1</span> Percepções viesadas e o puzzle Meltzer-Richard [§13–§18]</h3>
+<p>Para muitos estudiosos, o ponto de partida para explorar as microfundações da política da desigualdade tem sido o <strong>modelo canônico de Meltzer-Richard (MR)</strong> (Meltzer &amp; Richard 1981), que prevê que o aumento da desigualdade eleva a demanda por redistribuição. O puzzle motivador é que a desigualdade crescente não desencadeou, na maioria das vezes, um aumento proporcional na demanda por redistribuição (Kenworthy &amp; McCall 2007; Lupu &amp; Pontusson 2023).</p>
+<p>A decomposição do modelo MR revela a premissa de que os indivíduos têm percepções precisas da desigualdade. No entanto, pesquisas recentes, inspiradas pela psicologia social, identificaram uma série de <strong>percepções equivocadas e vieses</strong> (Cruces et al.&nbsp;2013; Engelhardt &amp; Wagener 2018; Gimpelson &amp; Treisman 2018; Kuziemko et al.&nbsp;2015; Norton &amp; Ariely 2011). Um viés proeminente é a <strong>tendência centrista</strong> (<em>centrist bias</em>): indivíduos tendem a se localizar no meio da distribuição de renda, de modo que os de alta renda subestimam sua riqueza relativa e os de baixa renda subestimam sua pobreza relativa. Esse viés foi observado em vários países, incluindo Alemanha (Engelhardt &amp; Wagener 2018), Suíça (Weisstanner &amp; Armingeon 2022), Espanha (Fernández-Albertos &amp; Kuo 2018) e em um conjunto mais amplo de países da OCDE (Bublitz 2022). O que é mais contestado na literatura é se o fornecimento seletivo de informações (correção de percepções) tem efeitos significativos e duradouros sobre as preferências. Alguns estudos encontram tais efeitos (Alesina et al.&nbsp;2018; Fernández-Albertos &amp; Kuo 2018; Kuziemko et al.&nbsp;2015), enquanto outros não (Bublitz 2022; Sachweh &amp; Eicher 2025; Weisstanner &amp; Armingeon 2022).</p>
+<p>Uma perspectiva ligeiramente diferente é perseguida por estudos que explicam a reação moderada dos eleitores ao aumento da desigualdade apontando para <strong>percepções de justiça e aceitação da desigualdade</strong>. Indivíduos que vivem em países de alta desigualdade tornam-se mais tolerantes com esses níveis (Mijs 2021; Mijs &amp; Savage 2020; Schröder 2017; Trump 2018, 2023). A <strong>teoria da justificação do sistema</strong> (<em>system justification theory</em>) (Jost et al.&nbsp;2004; Trump 2018) foca em fatores psicológicos que tornam os indivíduos mais aceitáveis do <em>status quo</em>, mesmo quando objetivamente desigual. Mijs (2021; Mijs &amp; Savage 2020), por outro lado, aponta para a <strong>ideologia dominante da meritocracia</strong>, que legitima as desigualdades existentes como justas se percebidas como resultado do trabalho duro.</p>
+<p>Sobre a ligação entre percepções e formação de preferências, uma questão central é o quão importantes são as percepções subjetivas em comparação com as desigualdades objetivas. A maioria dos estudos encontra que as percepções subjetivas desempenham um papel significativo na formação das preferências, especialmente no apoio geral à redistribuição e a políticas relacionadas (Ahrens 2022; Bobzien 2020; Burgoon et al.&nbsp;2023; Cansunar 2021; Condon &amp; Wichowsky 2020; Dallinger 2021; García-Sánchez et al.&nbsp;2020; Gimpelson &amp; Treisman 2018; Kim &amp; Lee 2018; Sachweh &amp; Eicher 2025). Uma perspectiva contrastante é fornecida por Weisstanner &amp; Armingeon (2022) e Kevins et al.&nbsp;(2019), que argumentam que as percepções subjetivas importam menos do que fatores objetivos. Evidências adicionais de que a desigualdade objetiva importa vêm de estudos que fornecem suporte empírico para o argumento básico do modelo MR (Finseraas 2009; Johnston &amp; Newman 2016; Kevins et al.&nbsp;2018; Lupu &amp; Pontusson 2011; Schmidt-Catran 2016).</p>
+</section>
+<section id="desigualdade-econômica-e-participação-política-1921" class="level3" data-number="3.2">
+<h3 data-number="3.2" class="anchored" data-anchor-id="desigualdade-econômica-e-participação-política-1921"><span class="header-section-number">3.2</span> Desigualdade econômica e participação política [§19–§21]</h3>
+<p>Um tópico adicional na literatura é a ligação entre desigualdade econômica e <strong>participação política</strong>. No modelo MR, a etapa de percepções e preferências para a participação não é explicitamente modelada, pois se presume que os indivíduos elegíveis votam. Contribuições iniciais focaram no impacto da desigualdade na participação política, descobrindo que ela tem um efeito depressivo na <strong>participação eleitoral</strong> (Mahler 2008; Schäfer 2013; Solt 2008, 2010). Trabalhos mais recentes confirmaram a associação entre maior desigualdade e menor participação para conjuntos mais amplos de países e períodos (Polacko 2022; Rosset 2023; Schäfer &amp; Schwander 2019; Schwander et al.&nbsp;2020). No entanto, há evidências de que níveis mais altos de desigualdade – ou queixas econômicas mais intensas – podem desencadear <strong>protestos políticos e contramobilização</strong> sob certas circunstâncias (Cederman et al.&nbsp;2011; Kurer et al.&nbsp;2019; Newman et al.&nbsp;2015). O autor observa que ainda não está claro quais fatores decidem se as queixas relacionadas à desigualdade têm efeitos desmobilizadores ou mobilizadores.</p>
+<p>Sobre a política partidária, Pontusson &amp; Rueda (2010) argumentaram que a desigualdade também afeta a dinâmica da competição partidária: “a desigualdade de renda não apenas é moldada pela política, mas também molda a política”, levando os partidos de esquerda a se moverem para a esquerda se a participação eleitoral for suficientemente alta (ver também Anderson &amp; Singer 2008). Tavits &amp; Potter (2015) descobrem que o sucesso eleitoral dos partidos de esquerda depende da medida em que eles conseguem manter o foco da competição partidária em questões econômicas. Contribuições à literatura sobre <strong>dualização do mercado de trabalho</strong> (Emmenegger et al.&nbsp;2012) mostraram como as desigualdades no mercado de trabalho podem levar os “outsiders” a abandonar os partidos mainstream de centro-esquerda e optar por alternativas populistas mais radicais (Lindvall &amp; Rueda 2012). Trabalhos mais recentes de Horn et al.&nbsp;(2026) estudam o impacto da desigualdade nas posições dos partidos, descobrindo que os partidos de esquerda em particular ajustam suas posições políticas em resposta ao aumento da desigualdade, mas são menos responsivos a níveis persistentemente altos de desigualdade.</p>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Implicação normativa</strong>: A literatura mostra que a desigualdade econômica tende a deprimir a participação dos mais pobres e a redirecionar o voto para partidos populistas de direita, o que, por sua vez, reduz a capacidade de políticas redistributivas. Isso constitui um mecanismo central do ciclo de auto-reforço.</p>
+</div>
+</div>
+<p>Uma literatura vibrante tem surgido nos últimos anos estudando a conexão entre desigualdade e <strong>ascensão do populismo</strong> (Burgoon et al.&nbsp;2019; Engler &amp; Weisstanner 2021; Filsinger 2023; Gidron &amp; Hall 2020; Hartmann et al.&nbsp;2022; Iversen &amp; Soskice 2019; Kurer &amp; van Staalduinen 2022; Norris &amp; Inglehart 2019; Schäfer 2022; Stoetzer et al.&nbsp;2023). Uma questão central é se fatores socioeconômicos ou culturais são mais importantes na formação do apoio ao populismo. Uma percepção central é que as <strong>percepções subjetivas de privação relativa</strong> parecem ser uma força motriz poderosa do apoio ao populismo (Burgoon et al.&nbsp;2019; Kurer &amp; van Staalduinen 2022). Estudos recentes confirmaram que a desigualdade e as políticas relacionadas permanecem no cerne dos conflitos partidários entre esquerda e direita (Gethin et al.&nbsp;2021; Horn et al.&nbsp;2026; Jahn 2023; Piketty 2020), incluindo tanto a clivagem tradicional esquerda-direita centrada na redistribuição econômica quanto a nova clivagem universalista-particularista (Zollinger 2024). A desigualdade econômica também tem sido associada a níveis mais baixos de <strong>confiança política</strong> (Bobzien 2023; Lipps &amp; Schraff 2021) e a percepções de responsiveness desigual (Rosset 2023).</p>
+</section>
+</section>
+<section id="e-de-volta-às-políticas-desigualdades-na-responsiveness-da-formulação-de-políticas-pp.-810" class="level2" data-number="4">
+<h2 data-number="4" class="anchored" data-anchor-id="e-de-volta-às-políticas-desigualdades-na-responsiveness-da-formulação-de-políticas-pp.-810"><span class="header-section-number">4</span> … e de volta às políticas: desigualdades na responsiveness da formulação de políticas (pp.&nbsp;8–10)</h2>
+<section id="evidências-de-viés-a-favor-dos-ricos-2227" class="level3" data-number="4.1">
+<h3 data-number="4.1" class="anchored" data-anchor-id="evidências-de-viés-a-favor-dos-ricos-2227"><span class="header-section-number">4.1</span> Evidências de viés a favor dos ricos [§22–§27]</h3>
+<p>Ligando de volta o nível micro (percepções, preferências, comportamento político) ao nível macro da formulação de políticas, estão os estudos sobre <strong>desigualdades persistentes na responsiveness da formulação de políticas</strong>. Do ponto de vista do modelo MR canônico, “não há nada para ver”, pois o modelo assume que os governos, por interesse próprio na reeleição, seguirão e implementarão as demandas políticas do eleitor mediano. A maioria dos estudos, no entanto, encontra evidências de que a transmissão de preferências para políticas não funciona tão suavemente.</p>
+<p>Com base no trabalho pioneiro de <strong>Gilens</strong> (2005, 2012; Gilens &amp; Page 2014; ver também Bartels 2008), muitos estudos se concentraram na associação entre opinião pública medida por surveys e mudanças políticas subsequentes. Os estudos de Gilens revelaram um forte viés na responsiveness da formulação de políticas em favor de indivíduos de alta renda nos EUA. Complementando esse trabalho, muitos estudos em outros países e amostras mais amplas confirmaram que a responsiveness enviesada é generalizada (Elkjær 2020; Elkjær &amp; Klitgaard 2024; Elsässer et al.&nbsp;2021; Erikson 2015; Lupu &amp; Warner 2022; Schakel 2021; Schakel et al.&nbsp;2020; Schakel &amp; Hakhverdian 2018). Alguns estudos também começaram a rastrear vieses relacionados à renda em estágios iniciais do ciclo de formulação de políticas: posições partidárias, plataformas eleitorais, seleção de candidatos e agenda-setting (Horn et al.&nbsp;2026; Schakel &amp; Burgoon 2022; Traber et al.&nbsp;2022; Weber 2020; Wüest &amp; Pontusson 2022). Rosset &amp; Kurella (2021) argumentam que o estágio eleitoral amplifica ainda mais as desigualdades relacionadas à renda na responsiveness, pois os indivíduos de baixa renda são pior representados nos sistemas partidários europeus. Trabalhos relacionados sobre diferenças potenciais na responsiveness entre partidos políticos confirmaram que políticos de esquerda podem ser um pouco mais responsivos às preocupações da classe média, mas os estudos ainda encontram um viés geral a favor dos interesses dos indivíduos com mais recursos (Elsässer et al.&nbsp;2021; Grossmann et al.&nbsp;2021; Mathisen et al.&nbsp;2023; Schakel &amp; Burgoon 2022).</p>
+</section>
+<section id="críticas-e-mecanismos-subjacentes-2832" class="level3" data-number="4.2">
+<h3 data-number="4.2" class="anchored" data-anchor-id="críticas-e-mecanismos-subjacentes-2832"><span class="header-section-number">4.2</span> Críticas e mecanismos subjacentes [§28–§32]</h3>
+<p>Há, no entanto, críticos da abordagem de Gilens. Eles apontam, por exemplo, que as preferências das classes média e alta são fortemente correlacionadas (Branham et al.&nbsp;2017; Enns &amp; Wlezien 2011), de modo que a responsiveness aos ricos também implica coincidentemente responsiveness à classe média (embora os pobres ainda tendam a ser menos bem representados). Assim, para alguns, a <strong>classe média</strong> (eleitor mediano) permanece no centro da competição política, fortalecendo a confiança na viabilidade da tomada de decisão democrática (Elkjær &amp; Iversen 2020, 2023; Pontusson 2025). Outros apontaram que, mesmo quando existe um viés para os interesses dos ricos, os formuladores de políticas ainda podem ser amplamente responsivos à dinâmica geral da opinião pública, em um padrão de “representação real, mas desigual” (Schakel et al.&nbsp;2020; ver também Stimson 2011).</p>
+<p>Além disso, Pontusson &amp; Weisstanner (2018) argumentaram que a capacidade redistributiva declinante de muitos welfare states em países da OCDE pode ter menos a ver com o declínio da responsiveness, mas sim estar associada ao <strong>declínio real do apoio à redistribuição nas classes médias</strong>, à medida que os riscos econômicos se concentram mais em grupos marginalizados. Outros trabalhos recentes também apontam para restrições exógenas, como condições macroeconômicas, paradigmas econômicos vigentes ou austeridade fiscal, como fatores que podem impedir a responsiveness do governo (Elsasser &amp; Haffert 2022; Rosset et al.&nbsp;2025; Tober &amp; Busemeyer 2022).</p>
+<p>Uma área emergente de pesquisa inovadora é o estudo das <strong>percepções das elites</strong> como um mecanismo potencial explicativo da responsiveness seletiva. Estudos recentes mostram que políticos geralmente são ruins em estimar corretamente a opinião pública (Walgrave et al.&nbsp;2023) e que os legisladores tendem a ter visões geralmente mais conservadoras do que os cidadãos (Broockman &amp; Skovron 2018; Pereira 2021; Helfer et al.&nbsp;2024; Pilet et al.&nbsp;2024). O viés conservador é um pouco menos pronunciado para políticos de esquerda, mas ainda existe (Broockman &amp; Skovron 2018). O viés nas percepções e preferências das elites pode estar relacionado à exposição seletiva de membros do parlamento a cidadãos de alta renda e alta escolaridade em suas redes pessoais (Helfer et al.&nbsp;2024; Pereira 2021) ou a maiores esforços de mobilização de grupos partidários de direita (Broockman &amp; Skovron 2018). Apesar desses avanços, muito ainda permanece obscuro sobre os mecanismos subjacentes à responsiveness desigual.</p>
+</section>
+</section>
+<section id="resumo-preliminar-uma-dinâmica-de-desigualdade-auto-reforçadora-pp.-1011" class="level2" data-number="5">
+<h2 data-number="5" class="anchored" data-anchor-id="resumo-preliminar-uma-dinâmica-de-desigualdade-auto-reforçadora-pp.-1011"><span class="header-section-number">5</span> Resumo preliminar: uma dinâmica de desigualdade auto-reforçadora? (pp.&nbsp;10–11)</h2>
+<section id="duas-mensagens-principais-3335" class="level3" data-number="5.1">
+<h3 data-number="5.1" class="anchored" data-anchor-id="duas-mensagens-principais-3335"><span class="header-section-number">5.1</span> Duas mensagens principais [§33–§35]</h3>
+<p>O autor resume a revisão de 25 anos da CPEI com duas mensagens fundamentais. A primeira é que a CPEI demonstrou claramente que e como a <strong>política importa</strong> para a dinâmica da desigualdade. A primeira onda concentrou-se nas causas políticas (políticas, recursos de poder); a pesquisa posterior focou nas consequências micro (percepções, preferências, participação) e, por extensão, nas desigualdades persistentes na responsiveness da formulação de políticas.</p>
+<p>A segunda mensagem, mais substantiva, é que a essência de grande parte da CPEI é a identificação de uma forte dinâmica de <strong>desigualdade auto-reforçadora</strong>. Mais concretamente: (1) níveis declinantes de redistribuição via welfare state (Pontusson &amp; Weisstanner 2018) estão associados ao aumento da desigualdade e do emprego precário; (2) o aumento da desigualdade real e percebida leva à abstenção política ou ao apoio a alternativas radicais, principalmente de direita (Burgoon et al.&nbsp;2019; Kurer &amp; van Staalduinen 2022); (3) a participação eleitoral deprimida entre os eleitores de baixa renda está associada à diminuição da responsiveness dos formuladores de políticas às preocupações dos menos privilegiados (Pontusson &amp; Rueda 2010); (4) os populistas de direita se beneficiam do declínio eleitoral dos partidos de centro-esquerda, mas, no poder, não buscam políticas que mitigariam a desigualdade (Hacker &amp; Pierson 2020; Rathgeb 2024); (5) as capacidades econômicas e fiscais dos governos de esquerda para promover políticas de welfare state expansivas são ainda mais restringidas pela globalização e integração europeia (Kwon &amp; Pontusson 2010; Tober &amp; Busemeyer 2022).</p>
+<div class="callout callout-style-default callout-tip no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Síntese interpretativa</strong>: O “doom loop” da desigualdade auto-reforçadora opera da seguinte forma: desigualdade crescente → menor participação dos pobres e ascensão da direita populista → políticas menos redistributivas e enviesadas a favor dos ricos → mais desigualdade. As restrições externas (globalização, austeridade) reforçam o ciclo.</p>
+</div>
+</div>
+</section>
+<section id="possibilidades-de-saída-do-doom-loop-3637" class="level3" data-number="5.2">
+<h3 data-number="5.2" class="anchored" data-anchor-id="possibilidades-de-saída-do-doom-loop-3637"><span class="header-section-number">5.2</span> Possibilidades de saída do “doom loop” [§36–§37]</h3>
+<p>O autor pergunta como escapar desse ciclo e quais devem ser as prioridades da pesquisa futura. Ele sugere que a pesquisa futura deve esclarecer até que ponto a dinâmica de feedback de auto-reforço depende de contextos específicos (períodos históricos, países). No <strong>pós-guerra (“trente glorieuses”)</strong> , uma dinâmica mitigadora pode ter estado em ação, com expansão educacional e reformas progressivas do welfare state criando oportunidades de mobilidade social ascendente, apoiadas pela abertura e democratização do sistema político. O autor questiona se essa dinâmica foi autodestrutiva no sentido de que a virada para o “doom loop” era inevitável, ou se fatores específicos desencadearam a reversão. E, por contraste, há exemplos no presente que sinalizam oportunidades de saída do “doom loop”? O autor menciona a <strong>recalibração incremental, mas persistente, dos welfare states existentes em direção ao modelo de “investimento social”</strong> (Hemerijck 2018), que contribuiu para reduzir as desigualdades de gênero no mercado de trabalho (Pavolini &amp; Van Lancker 2018), e a expansão cautelosa de políticas sociais no nível da UE (Ferrera &amp; Burelli 2019). Esses exemplos são “marginais” (“wallflowers”) em vez de um “prado totalmente crescidos”, mas indicam que pode haver limiares em que os efeitos colaterais negativos da desigualdade persistente se tornam tão grandes que desencadeiam efeitos de feedback contramobilizadores ao <em>status quo</em> (Weaver 2010).</p>
+</section>
+</section>
+<section id="olhando-adiante-os-contornos-de-uma-agenda-de-pesquisa-pp.-1119" class="level2" data-number="6">
+<h2 data-number="6" class="anchored" data-anchor-id="olhando-adiante-os-contornos-de-uma-agenda-de-pesquisa-pp.-1119"><span class="header-section-number">6</span> Olhando adiante: os contornos de uma agenda de pesquisa (pp.&nbsp;11–19)</h2>
+<section id="dois-eixos-prioritários-38" class="level3" data-number="6.1">
+<h3 data-number="6.1" class="anchored" data-anchor-id="dois-eixos-prioritários-38"><span class="header-section-number">6.1</span> Dois eixos prioritários [§38]</h3>
+<p>O autor foca em duas questões específicas que merecem atenção nos próximos anos: (1) o papel dos partidos políticos na economia política da desigualdade; e (2) a questão dos potenciais trade-offs na responsiveness a desafios de curto e longo prazo. Essas questões são cruciais porque estão relacionadas a diferentes concepções normativas de boa democracia, mais inspiradas por perspectivas europeias. Muitos estudos pioneiros (EUA) carregam pressupostos normativos implícitos sobre democracia (modelo termostático, representação dinâmica). Abordar essas questões é importante para avançar o conhecimento comparativo e para uma reflexão mais profunda sobre as ramificações normativas e políticas dos achados.</p>
+</section>
+</section>
+<section id="os-partidos-políticos-mitigam-ou-exacerbam-as-desigualdades-na-responsiveness-pp.-1215" class="level2" data-number="7">
+<h2 data-number="7" class="anchored" data-anchor-id="os-partidos-políticos-mitigam-ou-exacerbam-as-desigualdades-na-responsiveness-pp.-1215"><span class="header-section-number">7</span> Os partidos políticos mitigam ou exacerbam as desigualdades na responsiveness? (pp.&nbsp;12–15)</h2>
+<section id="perspectiva-americana-partidos-como-distratores-3942" class="level3" data-number="7.1">
+<h3 data-number="7.1" class="anchored" data-anchor-id="perspectiva-americana-partidos-como-distratores-3942"><span class="header-section-number">7.1</span> Perspectiva americana: partidos como distratores [§39–§42]</h3>
+<p>Os estudos pioneiros sobre vieses e desigualdades na responsiveness democrática focaram nos EUA (Bartels 2008; Gilens 2005, 2012). Esse foco veio acompanhado de uma compreensão particular da versão ideal-típica de uma democracia responsiva, resumida no <strong>“modelo termostático”</strong> de feedback e responsiveness (Soroka &amp; Wlezien 2010: 15; Wlezien &amp; Soroka 2012). Nesse modelo, o público responde imediatamente às mudanças políticas ajustando suas preferências, e os formuladores de políticas traduzem rapidamente essas preferências atualizadas em mudanças políticas reais. Na <strong>“representação dinâmica”</strong> (Stimson et al.&nbsp;1995), os formuladores de políticas respondem o mais rápido possível às mudanças no humor público dominante.</p>
+<p>Dessa perspectiva, a responsiveness é maximizada se os formuladores de políticas respondem rapidamente às mudanças na opinião pública geral. Sobre o papel dos partidos políticos, a teoria da representação dinâmica vê os partidos como potenciais distratores: eles podem “quando no poder, promulgar políticas favorecidas por seus apoiadores mais fervorosos, em vez do público em geral” (Burstein 2003: 30). Essa “responsiveness partidária” pode ser mitigada por um alto grau de competição interpartidária, que força os partidos a se moverem em direção ao eleitor mediano. Gilens (2012: 163) considera os partidos como “maximizadores de políticas”, respondendo às preferências do público (e desproporcionalmente ao segmento mais abastado) quando necessário, mas perseguindo suas próprias agendas políticas quando podem. Consequentemente, Gilens espera menos responsiveness quando um partido domina, e mais responsiveness no caso de um Congresso dividido. Assim, a responsiveness democrática é aprimorada quando os partidos são forçados (pela competição eleitoral) a apelar para a opinião pública geral.</p>
+</section>
+<section id="perspectiva-europeia-partidos-como-agregadores-essenciais-4346" class="level3" data-number="7.2">
+<h3 data-number="7.2" class="anchored" data-anchor-id="perspectiva-europeia-partidos-como-agregadores-essenciais-4346"><span class="header-section-number">7.2</span> Perspectiva europeia: partidos como agregadores essenciais [§43–§46]</h3>
+<p>Uma perspectiva muito diferente e contrastante sobre o papel dos partidos políticos é desenvolvida nas teorias de <strong>“governo partidário”</strong> ou <strong>“teoria partidária”</strong> (Castles 1982; Hibbs 1977; Schmidt 1996; Stephens 1979). Essa perspectiva, mais enraizada em perspectivas europeias sobre responsiveness democrática, não apenas espera diferenças notáveis entre as demandas e interesses dos eleitorados de diferentes partidos – ela postula que essas diferenças se refletem em variações nos manifestos eleitorais dos partidos e, em última análise, em suas políticas de governo (Schmidt 1996). Portanto, uma <strong>convergência das posições políticas em direção à posição do eleitor mediano</strong> – embora entendida como próxima do modelo ideal-típico de responsiveness democrática dinâmica na tradição pluralista – é realmente considerada um defeito na responsiveness, pois leva à eliminação de uma escolha efetiva entre alternativas. Kirchheimer (1966) falou famosamente sobre o efeito da “oposição que desaparece” no contexto da primeira Grande Coalizão formal na Alemanha nos anos 1960.</p>
+<p>Da perspectiva da teoria partidária, os partidos políticos não são distrações que impedem legisladores e formuladores de políticas individuais de implementar a vontade do povo. Em vez disso, são considerados elementos de construção integrais e importantes, com a tarefa de agregar as diversas preferências e demandas de diferentes eleitorados em programas eleitorais (mais ou menos) coerentes e – subsequentemente – acordos de coalizão, que são instrumentos cruciais para manter a responsabilização dos formuladores de políticas perante seus eleitores. Um exemplo complementar da literatura mais recente é o estudo de O’Grady (2019) sobre a influência da origem socioeconômica nas posições e no comportamento legislativo de membros do parlamento no Reino Unido. O’Grady argumenta que o deslocamento gradual de parlamentares da classe trabalhadora por “carreiristas” “enfraqueceu consideravelmente a representação dos interesses dos eleitores da classe trabalhadora” (Carnes &amp; Lupu 2023: 546), embora os carreiristas provavelmente sejam mais responsivos às mudanças gerais na opinião pública.</p>
+<p>Esse exemplo destaca as visões quase diametralmente opostas sobre o papel dos partidos políticos em diferentes literaturas. O autor observa que a maioria das pesquisas empíricas existentes sobre responsiveness enviesada adotou pelo menos implicitamente a perspectiva teórica da <strong>representação dinâmica</strong>. Poucos estudos analisaram os “vieses partidários” na responsiveness, especialmente no contexto europeu (ex.: Elsasser et al.&nbsp;2017; Mathisen et al.&nbsp;2023). Estudos nos EUA exploraram diferenças na responsiveness entre democratas e republicanos (Bartels 2008; Ellis 2013; Grossmann et al.&nbsp;2021; Lax et al.&nbsp;2019; Rhodes &amp; Schaffner 2017; Rigby &amp; Wright 2013).</p>
+<p>Da perspectiva da teoria partidária, as <strong>diferenças partidárias na responsiveness</strong> são criticamente importantes para dar peso às escolhas de voto do indivíduo. Igualmente, a questão de saber se e sob quais condições o governo partidário realmente afeta os níveis e as mudanças em diferentes manifestações da desigualdade econômica permanece central (Haselmayer &amp; Horn 2025), pois indica a relevância contínua (ou não) da tomada de decisão democrática na formação de forças estruturais de mudança socioeconômica.</p>
+</section>
+<section id="integrando-as-perspectivas-4750" class="level3" data-number="7.3">
+<h3 data-number="7.3" class="anchored" data-anchor-id="integrando-as-perspectivas-4750"><span class="header-section-number">7.3</span> Integrando as perspectivas [§47–§50]</h3>
+<p>A tarefa teórica à frente é integrar teorias inspiradas nos EUA sobre responsiveness democrática (que enfatizam a opinião pública como força motriz da mudança política) com teorias sobre governo partidário. A questão fundamental de pesquisa é entender melhor o papel dos partidos políticos como contribuintes ou mitigadores das desigualdades na responsiveness. Teorias e desenhos de pesquisa que levam em conta apenas a associação entre preferências individuais e posições políticas dos políticos falham em reconhecer os potenciais efeitos colaterais da <strong>mobilização coletiva</strong>, que pode ser particularmente benéfica para indivíduos com poucos recursos.</p>
+<p>A mobilização efetiva de indivíduos com poucos recursos por meio de partidos de esquerda, sindicatos ou organizações similares poderia, até certo ponto, mitigar e compensar as desvantagens na eficácia política relacionadas aos recursos individuais (Elsasser &amp; Schafer 2023). Evidências indicativas de tal efeito de compensação são dadas pelo fato de que as desigualdades na responsiveness parecem menos pronunciadas em sistemas eleitorais de <strong>representação proporcional (RP)</strong> (Bernauer et al.&nbsp;2015; Huber &amp; Bingham Powell 1994; Kang &amp; Powell 2010), que também são conhecidos por favorecer governos de esquerda e welfare states mais generosos (Iversen &amp; Soskice 2006). Da mesma forma, a configuração institucional dos sistemas de mediação de interesses (corporativismo vs.&nbsp;pluralismo) tem implicações importantes para a responsiveness democrática (Busemeyer 2020), pois instituições corporativistas podem equilibrar desigualdades nas capacidades de mobilização entre interesses especiais e interesses mais difusos e gerais (Kluver &amp; Pickup 2019).</p>
+<p>Prestar mais atenção ao papel da política partidária e das ideologias relacionadas também pode gerar novas perspectivas sobre como a <strong>representação descritiva e substantiva</strong> (Pitkin 1967) se relacionam. A literatura atual sobre desigualdades na responsiveness identificou um viés geral a favor de indivíduos ricos e explica esse viés apontando a falta de representação descritiva nos parlamentos, porque mesmo entre os partidos de esquerda, os membros do parlamento geralmente são altamente educados e têm renda acima da média (Elsasser et al.&nbsp;2021; Grossmann et al.&nbsp;2021). No entanto, embora o background socioeconômico tenha se mostrado com alguns efeitos sobre preferências e decisões políticas entre as elites políticas (Alexiadou 2022; Carnes &amp; Lupu 2023; O’Grady 2019), a <strong>ideologia partidária ainda importa</strong> para os políticos (Pinggera 2021; Wenzelburger &amp; Zohlnhöfer 2021). Mas se a ideologia importa, não está claro se e até que ponto ela pode supercompensar os efeitos de background socioeconômico dos tomadores de decisão individuais, de modo que, no agregado, políticos com diferentes backgrounds partidários continuem a buscar diferentes programas políticos, mesmo que seus perfis socioeconômicos se tornem cada vez mais semelhantes. Além disso, as respostas a essas perguntas provavelmente variam sistematicamente entre diferentes tipos de sistemas políticos, economias políticas e welfare states.</p>
+</section>
+</section>
+<section id="trade-offs-na-responsiveness-a-desafios-de-curto-e-longo-prazo-pp.-1517" class="level2" data-number="8">
+<h2 data-number="8" class="anchored" data-anchor-id="trade-offs-na-responsiveness-a-desafios-de-curto-e-longo-prazo-pp.-1517"><span class="header-section-number">8</span> Trade-offs na responsiveness a desafios de curto e longo prazo (pp.&nbsp;15–17)</h2>
+<section id="o-problema-da-temporalidade-5153" class="level3" data-number="8.1">
+<h3 data-number="8.1" class="anchored" data-anchor-id="o-problema-da-temporalidade-5153"><span class="header-section-number">8.1</span> O problema da temporalidade [§51–§53]</h3>
+<p>Um segundo tópico digno de exploração é o estudo dos <strong>trade-offs na responsiveness a desafios de curto e longo prazo</strong>. Tanto o modelo MR canônico quanto a maioria dos estudos sobre responsiveness focam na responsiveness de curto prazo, negligenciando que a formulação de políticas também se desenrola ao longo de uma dimensão temporal (Jacobs 2016). Isso é importante porque há situações em que a falta de responsiveness a urgências presentes e de curto prazo envolve, na verdade, a maximização da responsiveness a necessidades de longo prazo. Peter Mair (2013) falou sobre a justaposição entre governo “responsivo” e “responsável”. Além do fato de que continua sendo desafiador identificar quais políticas devem ser consideradas “responsáveis”, uma abordagem mais normativa sugere que a tomada de decisão democrática também deve ser responsiva no longo prazo. A questão crucial é como os trade-offs entre a perspectiva de curto e longo prazo são abordados e resolvidos. Dado que a maior parte dos estudos se concentra na responsiveness dinâmica no curto prazo, há pouco conhecimento sobre essa questão.</p>
+</section>
+<section id="conexões-com-a-desigualdade-5456" class="level3" data-number="8.2">
+<h3 data-number="8.2" class="anchored" data-anchor-id="conexões-com-a-desigualdade-5456"><span class="header-section-number">8.2</span> Conexões com a desigualdade [§54–§56]</h3>
+<p>A questão dos trade-offs entre responsiveness de curto e longo prazo está relacionada à desigualdade de diferentes maneiras. Primeiro, respostas políticas mais eficazes à desigualdade, como a <strong>expansão de investimentos educacionais</strong>, são frequentemente prejudicadas por urgências de curto prazo, como priorizar cortes fiscais ou gastos em políticas compensatórias (Bremer &amp; Bürgisser 2023; Busemeyer &amp; Garritzmann 2017). Em segundo lugar, ao examinar as desigualdades na responsiveness da formulação de políticas, a <strong>busca de objetivos políticos de longo prazo</strong> (ex.: expansão de políticas de investimento social ou investimento em mitigação das mudanças climáticas) pode reforçar ou até exacerbar as desigualdades na responsiveness de curto prazo. Há evidências indicativas iniciais de que indivíduos altamente educados e de alta renda tendem a ser mais favoráveis ao investimento social (Beramendi et al.&nbsp;2015; Garritzmann et al.&nbsp;2018) e a políticas orientadas para o futuro em geral (Busemeyer 2024). Se confirmado em pesquisas futuras, um maior grau de responsiveness às demandas políticas focadas no longo prazo poderia reforçar os vieses existentes contra grupos de baixa renda.</p>
+<p>Todos os estudos citados acima têm em comum que estão preocupados em medir a responsiveness a preocupações de curto prazo no presente, o que pode estar relacionado à influência teórica das teorias de representação dinâmica. De uma perspectiva um pouco diferente, uma questão interessante para pesquisas futuras é se a <strong>maximização da responsiveness democrática no curto prazo</strong> poderia levar a uma diminuição da capacidade de solução de problemas dos sistemas políticos no longo prazo, o que poderia ser interpretado como uma diminuição da responsiveness de longo prazo. A questão das mudanças climáticas é um bom exemplo: se os formuladores de políticas maximizam a responsiveness no curto prazo, promulgando políticas menos rigorosas de mitigação climática, essas ações podem diminuir a capacidade de solução de problemas do sistema no longo prazo ou levar a custos de adaptação mais altos. No entanto, buscar políticas mais rigorosas de mitigação climática pode exacerbar as desigualdades na responsiveness no curto prazo. O apoio a políticas climáticas mais ambiciosas é positivamente correlacionado com a renda individual, mas o apoio a tais políticas pode ser aumentado entre indivíduos de baixa renda se vinculado a questões de redistribuição e desigualdade (Beiser-McGrath &amp; Busemeyer 2024; Hedegaard &amp; Kongshoj 2026).</p>
+</section>
+<section id="dimensões-normativa-e-empírica-5760" class="level3" data-number="8.3">
+<h3 data-number="8.3" class="anchored" data-anchor-id="dimensões-normativa-e-empírica-5760"><span class="header-section-number">8.3</span> Dimensões normativa e empírica [§57–§60]</h3>
+<p>A questão dos trade-offs na responsiveness a desafios de curto e longo prazo tem um componente normativo e um componente empírico. Do ponto de vista normativo, requer relatos teóricos de como os interesses divergentes e potencialmente conflitantes das gerações presentes e futuras podem ser equilibrados, mantendo os princípios da tomada de decisão democrática (MacKenzie 2016; Thompson 2010). Responder a essa questão é desafiador porque levar em conta as necessidades de gerações futuras que podem nem ter nascido ainda exige “porta-vozes honestos” para essas necessidades futuras, que podem, no entanto, ser percebidos como tecnocratas antidemocráticos ou representantes de interesses de elite no curto prazo.</p>
+<p>Do ponto de vista empírico, os estudiosos começaram a explorar trade-offs em atitudes de nível individual entre políticas de curto e longo prazo (Bremer &amp; Bürgisser 2023; Busemeyer 2024; Busemeyer &amp; Beiser-McGrath 2024; Busemeyer &amp; Garritzmann 2017; Häusermann et al.&nbsp;2019; Jacobs &amp; Matthews 2012, 2017), em parte com o objetivo de avaliar o grau de “curtoprazismo” na tomada de decisão política. Outros trabalhos focaram mais no nível da formulação de políticas real (Jacobs 2011, 2016). Até agora, essa literatura nascente sobre a “Política do Quando” (Jacobs 2008) não prestou muita atenção à questão da desigualdade, no entanto, embora haja vários pontos de conexão interessantes que merecem exploração adicional.</p>
+<p>O primeiro ponto de conexão é a questão de saber se a maximização da responsiveness a desafios de longo prazo está associada a <strong>desigualdades acentuadas na responsiveness a preocupações de curto prazo</strong>, como mencionado acima. Por exemplo, indivíduos de alta renda e alta escolaridade são mais propensos a apoiar ações decisivas contra as mudanças climáticas (Beiser-McGrath &amp; Busemeyer 2024) e políticas de investimento social (Busemeyer &amp; Tober 2023) – ambas políticas que provavelmente terão efeitos positivos na capacidade de solução de problemas do sistema político para lidar com desafios de longo prazo. No entanto, de uma perspectiva de curto prazo, priorizar políticas ambientais e de investimento social poderia ser percebido como (e de fato é) uma responsiveness enviesada em favor das demandas de indivíduos de alto status socioeconômico.</p>
+<p>Uma segunda questão relacionada é se a existência de um alto grau de desigualdade no presente tem um efeito sobre o <strong>apoio público a políticas orientadas para o longo prazo</strong>. Os indivíduos podem estar mais inclinados a priorizar preocupações de curto prazo em contextos de alta desigualdade, especialmente na metade inferior da distribuição de renda, de modo que a desigualdade se torna um obstáculo efetivo à mobilização de apoio para políticas de investimento de longo prazo. Essas últimas políticas (educação ou outras políticas de investimento social) podem ser mais eficazes na mitigação da desigualdade no longo prazo, mas sua implementação pode ser dificultada pela maximização de urgências de curto prazo em contextos precários – outro exemplo de como o “doom loop” da desigualdade auto-reforçadora se manifesta, desta vez levando em conta a dimensão temporal. Indicações da existência de tal dinâmica são fornecidas por estudos recentes sobre a consequência da rápida mudança tecnológica, que mostram que indivíduos cujos empregos estão sob alto risco de automação preferem políticas sociais compensatórias com efeitos de compensação imediata em vez de políticas de investimento social orientadas para o longo prazo (Busemeyer &amp; Tober 2023; Kurer &amp; Häusermann 2022). A implicação macro dessa relação micro é a existência de uma <strong>relação negativa entre o grau de desigualdade e a provisão em nível nacional de políticas de investimento social orientadas para o longo prazo</strong>.</p>
+</section>
+</section>
+<section id="tópicos-emergentes-adicionais-pp.-1719" class="level2" data-number="9">
+<h2 data-number="9" class="anchored" data-anchor-id="tópicos-emergentes-adicionais-pp.-1719"><span class="header-section-number">9</span> Tópicos emergentes adicionais (pp.&nbsp;17–19)</h2>
+<section id="desigualdades-locais-place-based-inequalities-6163" class="level3" data-number="9.1">
+<h3 data-number="9.1" class="anchored" data-anchor-id="desigualdades-locais-place-based-inequalities-6163"><span class="header-section-number">9.1</span> Desigualdades locais (“place-based inequalities”) [§61–§63]</h3>
+<p>Além dos dois tópicos discutidos extensivamente, há várias outras questões importantes de pesquisa. A primeira é o papel dos <strong>contextos locais e das desigualdades baseadas no lugar</strong> na formação das respostas políticas à desigualdade. Como observado por Pontusson (2025: 30), a estabilização das tendências gerais de desigualdade na última década veio acompanhada de um aumento da desigualdade entre diferentes regiões dentro dos países, especialmente na Europa Ocidental. Trabalhos anteriores já haviam argumentado fortemente a favor do foco no nível local (Newman et al.&nbsp;2015). Pesquisas mais recentes começaram a explorar as conexões profundas entre privação econômica local e percepções de declínio cultural como fatores que impulsionam conjuntamente o apoio ao populismo de direita (Arzheimer et al.&nbsp;2024; Huijsmans 2023). Outras pesquisas na tradição da economia política estudam as implicações políticas das economias de conhecimento locais para percepções de mobilidade social e política partidária (Iversen &amp; Soskice 2019; Berriochoa &amp; Busemeyer 2026).</p>
+<p>A disponibilidade crescente de dados mais granulares (surveys, administrativos) fornece meios empíricos para prestar mais atenção aos contextos locais. Questões teóricas: (a) <strong>quais tipos de contextos são mais importantes</strong>? Há um argumento de que os contextos de desigualdade local são particularmente influentes, pois os indivíduos têm maior probabilidade de perceber seus arredores imediatos. No entanto, a política partidária da desigualdade ainda se desenrola principalmente no palco da política nacional, e diferentes tipos de mídia (social, legada) podem desempenhar um papel significativo na ampliação da visibilidade das manifestações da desigualdade acima do nível local. (b) <strong>A relação entre desigualdade local e privação regional</strong>: a importância dos contextos locais está mais relacionada à exposição a diferentes níveis de desigualdade dentro de localidades específicas ou às desigualdades entre diferentes localidades? A literatura sobre desigualdade baseada no lugar está mais preocupada com desigualdades crescentes entre regiões em declínio e prósperas, enquanto a literatura sobre desigualdade local argumenta mais a favor da atenção aos níveis locais de desigualdade. Ambas são questões em aberto.</p>
+</section>
+<section id="multidimensionalidade-da-desigualdade-6466" class="level3" data-number="9.2">
+<h3 data-number="9.2" class="anchored" data-anchor-id="multidimensionalidade-da-desigualdade-6466"><span class="header-section-number">9.2</span> Multidimensionalidade da desigualdade [§64–§66]</h3>
+<p>Um tópico mais amplo, relacionado à discussão sobre desigualdade baseada no lugar, é a <strong>natureza multidimensional da desigualdade</strong> e suas implicações políticas. Mesmo mantendo o foco nas dimensões econômicas da desigualdade, os estudiosos apontam cada vez mais as relações complexas e profundas entre dimensões econômicas e culturais da desigualdade, especialmente na literatura sobre populismo de direita (Arzheimer et al.&nbsp;2024; Gidron &amp; Hall 2020). Essa complexidade se reflete no trabalho sobre a natureza multidimensional da política partidária (Häusermann et al.&nbsp;2013): a competição partidária na dimensão econômica da redistribuição não pode mais ser analisada separadamente e isoladamente dos conflitos ao longo da segunda linha principal de conflito partidário em democracias economicamente avançadas, que se concentra mais em conflitos relacionados a valores e não econômicos (Horn et al.&nbsp;2026; Tavits &amp; Potter 2015). Mesmo no nível das preferências individuais, trabalhos recentes mostraram que o autointeresse econômico pode ser um determinante poderoso, mas não o único, das preferências, pois normas e valores sobre a merecimento de determinados beneficiários do welfare state e ideologias relacionadas também moldam fortemente as preferências (Attewell 2022).</p>
+<p>Uma questão crucial para pesquisas futuras é obter insights mais gerais sobre a <strong>importância relativa dos aspectos econômicos versus não econômicos</strong> na formação da política da desigualdade. Potencialmente, é possível identificar condições de contexto que afetam essa importância relativa. Alguns pesquisadores começaram a explorar framing partidário e discursos de elite (Horn et al.&nbsp;2026; Tavits &amp; Potter 2015), mas os próprios fatores econômicos também podem ser um fator condicionante. Por exemplo, vinculando essa discussão à acima sobre desigualdades baseadas no lugar, a privação econômica local e queixas relacionadas podem desencadear contrarreações políticas e protestos motivados por (auto)interesse econômico (Newman et al.&nbsp;2015), enquanto a afluência econômica local pode aumentar a saliência de questões não econômicas relacionadas a valores sociais e identidade (Zollinger 2024). Pesquisas futuras poderiam explorar esses tópicos.</p>
+</section>
+</section>
+<section id="conclusão-pp.-1921" class="level2" data-number="10">
+<h2 data-number="10" class="anchored" data-anchor-id="conclusão-pp.-1921"><span class="header-section-number">10</span> Conclusão (pp.&nbsp;19–21)</h2>
+<section id="síntese-e-reflexão-final-6770" class="level3" data-number="10.1">
+<h3 data-number="10.1" class="anchored" data-anchor-id="síntese-e-reflexão-final-6770"><span class="header-section-number">10.1</span> Síntese e reflexão final [§67–§70]</h3>
+<p>O artigo retoma os dois objetivos. Na primeira parte, forneceu uma visão geral densa (mas necessariamente incompleta) do desenvolvimento da CPEI nas últimas décadas: desde a pesquisa sobre a importância dos recursos de poder e instituições como determinantes políticos da desigualdade até pesquisas mais recentes sobre percepções e preferências sobre a desigualdade, bem como desigualdades na responsiveness. Na segunda parte, discutiu duas questões que, em sua opinião, são prementes para o desenvolvimento da agenda de pesquisa da CPEI: (1) o papel dos partidos políticos na influência da responsiveness da formulação de políticas; (2) a questão dos trade-offs entre curto e longo prazo na responsiveness democrática. A pesquisa existente é quase exclusivamente focada em questões de responsiveness a demandas e necessidades presentes. No entanto, dadas as prementes desafios de longo prazo (mudança climática, economia do conhecimento), é importante refletir sobre como os formuladores de políticas <em>deveriam</em> (normativo) e <em>como</em> (empírico) responder a esses desafios. A seção de agenda também comentou brevemente sobre tópicos adicionais (desigualdades baseadas no lugar, multidimensionalidade).</p>
+<p>O autor reflete sobre essas prioridades de pesquisa no contexto das tendências atuais da desigualdade. Como Pontusson (2025: 28-30) e outros notaram, as trajetórias de desenvolvimento dessas tendências na última década apontam mais para uma <strong>estabilização dos níveis de desigualdade</strong> do que para uma tendência ascendente contínua, pelo menos para a maioria dos países europeus. Tendências estáveis de desigualdade no nível do país podem esconder desigualdades regionais significativas, e as percepções subjetivas da tendência da desigualdade podem divergir significativamente dos desenvolvimentos objetivos. Apesar dessas ressalvas, a perspectiva do “doom loop” da desigualdade auto-reforçadora pode ser considerada pessimista demais, especialmente quando se olha para o futuro.</p>
+<p>O autor concorda com a aspiração de desenvolver novas questões de pesquisa mais preocupadas em identificar instâncias e exemplos empíricos de como a dinâmica auto-reforçadora da desigualdade foi transformada em uma <strong>dinâmica política de mitigação da desigualdade</strong>. Essa aspiração provavelmente exigirá ir além da desigualdade econômica estritamente definida e prestar mais atenção à natureza multidimensional da desigualdade. Também levanta a questão de como a confiança dos eleitores preocupados com o declínio econômico e a privação relativa nas instituições da democracia partidária representativa pode ser restaurada ou pelo menos mantida. E exige prestar mais atenção à capacidade das democracias de lidar efetivamente com desafios de longo prazo, como as mudanças climáticas e o avanço da economia do conhecimento.</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Encerramento</strong>: O estudo da economia política comparada da desigualdade evoluiu de um campo emergente para um campo bastante maduro nos últimos 25 anos, e a <em>West European Politics</em> como periódico desempenhou um papel importante nesse processo. O autor prevê que o periódico continuará sendo um fórum de discussão influente nos próximos anos, pois a CPEI continua a produzir questões de pesquisa novas e interessantes.</p>
+</div>
+</div>
+</section>
+</section>
+<section id="argumento-sintético" class="level2" data-number="11">
+<h2 data-number="11" class="anchored" data-anchor-id="argumento-sintético"><span class="header-section-number">11</span> Argumento Sintético</h2>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Tese central</strong>: O campo da economia política comparada da desigualdade (CPEI) amadureceu ao demonstrar que (a) a desigualdade é moldada por fatores políticos (instituições, recursos de poder, partidos) e (b) a desigualdade, por sua vez, retroalimenta a política (percepções viesadas, redução da participação dos pobres, responsiveness enviesada a favor dos ricos), gerando um ciclo de auto-reforço (“doom loop”). Para transformar esse ciclo em um de mitigação, a pesquisa futura deve focar no papel dos partidos políticos (contrastando as tradições americana e europeia de responsiveness) e nos trade-offs entre responsiveness de curto e longo prazo.</p>
+<p><strong>Natureza do argumento</strong>: O artigo é uma <strong>revisão seletiva da literatura</strong> com uma <strong>proposição de agenda normativa e empírica</strong>. O autor não testa hipóteses, mas sintetiza achados de primeira e segunda geração da CPEI para extrair um padrão dominante (auto-reforço) e identificar lacunas (papel dos partidos, temporalidade).</p>
+<p><strong>O que o artigo demonstra</strong>: (1) A política importa para a desigualdade – instituições de mercado de trabalho, recursos de poder da esquerda e welfare states reduzem a desigualdade. (2) A desigualdade afeta percepções (viés centrista, aceitação da meritocracia), reduz a demanda por redistribuição e a participação eleitoral dos pobres, e alimenta o populismo de direita. (3) A responsiveness da formulação de políticas é enviesada a favor dos ricos, e esse viés é parcialmente explicado por percepções viesadas das elites. (4) Existe um ciclo de feedback que perpetua a desigualdade.</p>
+<p><strong>O que fica como hipótese ou agenda</strong>: (1) A proposição de que os partidos políticos podem mitigar desigualdades na responsiveness (via mobilização coletiva, representação proporcional, corporativismo) não é testada, mas sim sugerida como hipótese. (2) A existência de trade-offs sistemáticos entre responsiveness de curto e longo prazo, e a possibilidade de que políticas de longo prazo (investimento social, clima) possam exacerbar vieses de curto prazo, são hipóteses a serem exploradas. (3) A importância relativa de desigualdades locais vs.&nbsp;nacionais na formação de preferências é uma questão em aberto.</p>
+<p><strong>Contribuição para o debate mais amplo</strong>: O artigo avança em relação a revisões anteriores ao (i) integrar explicitamente as causas e consequências da desigualdade em um ciclo de feedback, (ii) contrastar as tradições americana (dynamic representation) e europeia (party government) sobre responsiveness, e (iii) trazer a temporalidade (trade-offs curto/longo prazo) para o centro da agenda da CPEI. A principal contribuição normativa é questionar a suposição implícita de que maximizar a responsiveness de curto prazo é sempre desejável, abrindo espaço para discutir “governo responsável” (Mair) e necessidades de gerações futuras.</p>
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>Annotated Bibliography</category>
+  <category>Political Economy</category>
+  <category>Inequality</category>
+  <category>Welfare State/Social Policy</category>
+  <category>Political Parties</category>
+  <category>2026</category>
+  <category>2020s</category>
+  <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Busemeyer2026.html</guid>
+  <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Fichamento: Coffee Planters, Workers and Wives</title>
   <dc:creator>Tales Mançano</dc:creator>
@@ -8943,602 +9419,6 @@ Note
   <category>Historical Institutionalism</category>
   <category>Brazil</category>
   <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Carvalho2015.html</guid>
-  <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Fichamento: The Train Wrecks of Modernization: Railway Construction and Separatist Mobilization in Europe</title>
-  <dc:creator>Tales Mançano</dc:creator>
-  <link>https://mancano-tales.github.io/Annotated-Bibliography/posts/Pengl-etal2026.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><strong>Citação APA 7:</strong></p>
-<p>Pengl, Y. I., Müller-Crepon, C., Valli, R., Cederman, L.-E., &amp; Girardin, L. (2026). The train wrecks of modernization: Railway construction and separatist mobilization in Europe. <em>American Political Science Review</em>, <em>120</em>(1), 37–54. https://doi.org/10.1017/S0003055425000048</p>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Entrada BibTeX → Pengl-etal2026
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
-background-color: null;
-font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">Pengl</span>-<span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">etal2026</span>,</span>
-<span id="cb1-2"><span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">author</span>  = {Pengl, Yannick I. and Müller-Crepon, Carl and Valli, Roberto and Cederman, Lars-Erik and Girardin, Luc},</span>
-<span id="cb1-3"><span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">title</span>   = {The Train Wrecks of Modernization: Railway Construction and Separatist Mobilization in Europe},</span>
-<span id="cb1-4"><span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">year</span>    = {2026},</span>
-<span id="cb1-5"><span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">journal</span> = {American Political Science Review},</span>
-<span id="cb1-6"><span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">volume</span>  = {120},</span>
-<span id="cb1-7"><span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">number</span>  = {1},</span>
-<span id="cb1-8"><span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">pages</span>   = {37--54},</span>
-<span id="cb1-9"><span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">doi</span>     = {10.1017/S0003055425000048},</span>
-<span id="cb1-10">}</span></code></pre></div></div>
-</div>
-</div>
-</div>
-<pre><code>Última atualização: 2026-05-09
-Modelo: Perplexity, powered by Claude Sonnet 4.6
-Prompt Version: v17.2 2026-05-08 | Ficha antes do fichamento
-Gerado em: 2026-05-09T21:45:00-03:00
-Ocasião da Leitura: [Para preenchimento manual do usuário]</code></pre>
-<hr>
-<section id="ficha-analítica-crítica" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="ficha-analítica-crítica">Ficha Analítica Crítica</h2>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Esta seção segue o formato <em>IA Planilhando Textos v17.2</em>.</p>
-</div>
-</div>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Ficha Analítica — Tabela Markdown
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-3" class="callout-3-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<table class="caption-top table">
-<colgroup>
-<col style="width: 23%">
-<col style="width: 52%">
-<col style="width: 23%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Dimensão</th>
-<th style="text-align: left;">Raciocínio analítico</th>
-<th style="text-align: left;">Conteúdo</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Questão de Pesquisa</td>
-<td style="text-align: left;">A pergunta é causal e comparativa. A premissa central é que ferrovias são uma proxy válida de modernização e que seus efeitos sobre o separatismo podem ser identificados via variação espaço-temporal. O ponto mais vulnerável está na unidimensionalidade do tratamento: “acesso ferroviário” colapsa mecanismos opostos (M1, M2, M3) em um indicador único, o que torna a pergunta analiticamente mais rica do que o design principal pode responder.</td>
-<td style="text-align: left;">Como a construção ferroviária — enquanto vetor central da modernização europeia — afetou a mobilização separatista de grupos étnicos periféricos entre 1816 e 1945? Pergunta explicativa-causal, explicitamente formulada.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Questões Secundárias</td>
-<td style="text-align: left;">As condicionais são onde o argumento ganha maior densidade teórica; a análise de mecanismos é secundária ao efeito médio mas central para a interpretação causal. A relação entre as perguntas secundárias e a central é aditiva: a pergunta central estabelece o efeito médio, as condicionais explicam a heterogeneidade, e a de mecanismos explica o <em>porquê</em>.</td>
-<td style="text-align: left;">(1) Sob quais condições contextuais (tamanho do grupo dominante, capacidade estatal, renda per capita, regime político, tamanho do grupo minoritário, distância cultural) o acesso ferroviário aumenta ou reduz o separatismo? (2) Quais mecanismos causais — acesso a mercados (M1), alcance do Estado (M2), conectividade interna (M3) — explicam o efeito observado?</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Puzzle-Type</td>
-<td style="text-align: left;">O puzzle é genuíno: a literatura clássica (Weber 1976; Deutsch 1953; Gellner 1983) prevê integração, mas a evidência histórica de desintegração na Europa oriental estava disponível. A originalidade está em operacionalizar e testar sistematicamente a tensão. A generalização além da Europa pré-1945 é reconhecida como arriscada pelos próprios autores, o que é honesto mas limita o alcance teórico.</td>
-<td style="text-align: left;">Puzzle explicativo: a teoria modernizacionista dominante prevê que infraestrutura de transporte promove integração nacional, mas a evidência histórica europeia mostra numerosos casos de desintegração etnonacional precisamente nos períodos de expansão ferroviária. O puzzle questiona se Weber (1976) é paradigma ou exceção. É genuíno e generalizável ao nível da hipótese, embora o teste seja restrito à Europa.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Conclusão / Argumento Central</td>
-<td style="text-align: left;">O argumento central é causal e heterogêneo: o efeito médio é positivo (mais separatismo), mas os mecanismos são opostos e contextualmente condicionados. O claim of discovery é sustentado pelo DiD, event study e IV. O que efetivamente sustenta a tese é a convergência de três estratégias de identificação e a análise de mecanismos via medidas de rede.</td>
-<td style="text-align: left;">O acesso ferroviário aumentou, em média, a probabilidade de mobilização separatista em cerca do dobro da média amostral. Este efeito se concentra em contextos de baixa capacidade estatal, baixo desenvolvimento econômico, grupos dominantes pequenos e minorias demograficamente grandes. Mecanicamente, a conectividade interna (M3) aumenta o separatismo; o alcance do Estado (M2) o reduz; o acesso a mercados (M1) não tem efeito independente robusto. Argumento causal heterogêneo.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Métodos</td>
-<td style="text-align: left;">O artigo é quantitativo com dados históricos geoespaciais. O ponto mais vulnerável metodológico é a análise de mecanismos (Tabela 3): sem um design DiD para as medidas contínuas de rede, a identificação causal dos mecanismos individuais é mais fraca do que a do efeito médio. O fichamento cobre o artigo inteiro (pp.&nbsp;37–54).</td>
-<td style="text-align: left;">Diferença-em-diferenças (TWFE e 2S-DiD), event study e variável instrumental baseada em redes ferroviárias simuladas. Dados geoespaciais de segmentos étnicos, fronteiras históricas, construção ferroviária (1834–1922) e eventos de separatismo (1816–1945). Unidade de análise: segmento étnico-ano. Fichamento cobre a obra completa (artigo de 18 páginas).</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Data Generation Process (DGP)</td>
-<td style="text-align: left;">O DGP tem três camadas de construção: (1) mapeamento de assentamentos étnicos a partir de 73 mapas históricos, com padronização via Ethnologue; (2) digitalização de linhas ferroviárias a partir de train.eryx.net; (3) intersecção geoespacial anual. Os principais vieses introduzidos: (a) os mapas étnicos refletem percepções e convenções cartográficas de época; (b) a exclusão das Ilhas Britânicas por lacuna de dados cria truncamento amostral; (c) a definição de grupo dominante como “maior segmento étnico contendo a capital” é operacionalmente simples mas teoricamente discutível.</td>
-<td style="text-align: left;">Fenômeno real (expansão ferroviária e mobilização étnica) → digitalização de 73 mapas históricos e de tiles online do train.eryx.net → intersecção geoespacial com fronteiras históricas (CShapes 2.0) → segmentos étnico-ano → cruzamento com dados de guerras civis (Gleditsch 2004; Sarkees e Wayman 2010), secções bem-sucedidas e claims de independência → regressões TWFE e 2S-DiD. Unidade de análise: segmento étnico-ano (não-dominante). Nível de agregação: subnacional. O DGP introduz viés de observação potencial via qualidade heterogênea dos mapas históricos em regiões periféricas, que são precisamente as mais relevantes para a hipótese.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Achados e Contribuições</td>
-<td style="text-align: left;">Os achados principais são bem suportados pelo design. A distinção entre efeitos de TWFE e 2S-DiD é transparente e esperada (downward bias do TWFE em settings de adoção escalonada). A análise de mecanismos é uma contribuição genuína mas com identificação mais fraca.</td>
-<td style="text-align: left;">(1) Acesso ferroviário aumenta separatismo ~2x a média amostral (efeito imediato, persistente por ~50 anos). (2) Efeito maior em países pobres, de baixa capacidade fiscal, com grupos dominantes pequenos e minorias grandes. (3) Conectividade interna (M3) aumenta risco de separatismo; alcance do Estado (M2) reduz; acesso a mercados (M1) sem efeito independente robusto. Contribuição metodológica: dataset geoespacial original (HEG + ferrovias digitalizadas) e medidas de rede para mecanismos causais.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Análise Crítica dos Achados</td>
-<td style="text-align: left;">Os autores respondem adequadamente à pergunta principal. Os pontos mais vulneráveis são: (a) a análise de mecanismos (Tabela 3) não usa DiD — a identificação causal dos três mecanismos é cross-sectional com FE, logo sujeita a omitted variables time-variant; (b) a variável de outcome combina claims, guerras e secessions em um único indicador binário, o que pode mascarar heterogeneidade de efeito entre fenômenos qualitativamente distintos; (c) o instrumento (redes simuladas) assume que a distribuição populacional de 1830 é exógena ao separatismo futuro, o que é plausível mas não verificável; (d) a exclusão das Ilhas Britânicas e a cobertura de dados ferroviários apenas até 1922 criam truncamento que pode subestimar efeitos de longo prazo na fase madura das redes. A evidência para H2a (distância linguística) é fraca e os autores reconhecem isso, mas a interpretação oferecida — que, condicional à diferença cultural, processos de politização importam mais — é especulativa.</td>
-<td style="text-align: left;">O argumento é mais vulnerável na análise de mecanismos do que no efeito médio. A convergência de DiD, event study e IV para o efeito principal é convincente. A análise de heterogeneidade (Figura 4) usa binning plots de forma cuidadosa (Hainmueller, Mummolo e Xu 2019), o que é boas práticas. Generalizabilidade: os autores são cautelosos, mas a limitação ao período pré-1945 na Europa é uma scope condition fundamental não suficientemente discutida nos termos de mecanismos contemporâneos.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Limitações</td>
-<td style="text-align: left;"><strong>Reconhecidas pelos autores:</strong> Exclusão das Ilhas Britânicas por lacuna de dados; cobertura ferroviária limitada a 1834–1922; impossibilidade de distinguir múltiplos caminhos para integração nacional; restrição geográfica à Europa; cautela explícita contra extrapolação para tecnologias contemporâneas. <br> <strong>Não reconhecidas ou subestimadas:</strong> (1) A análise de mecanismos (Tabela 3) usa modelos TWFE com variáveis contínuas de rede mas sem o mesmo rigor de identificação causal do efeito principal — isso não é explicitado como limitação; (2) a construção do outcome combinado (secession + civil war + claims) agrega fenômenos com diferentes limiares de custo e diferentes dinâmicas causais, o que pode obscurecer heterogeneidade teoricamente relevante; (3) a medida de grupo dominante (“maior segmento contendo a capital”) é operacionalmente ad hoc e não discutida como fonte de incerteza de mensuração.</td>
-<td style="text-align: left;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Perspectiva Teórica</td>
-<td style="text-align: left;">A moldura teórica é coerente com o design empírico subnacional e comparativo. A escolha de focar em separatismo como proxy de falha de nation-building é inteligente para fins de mensuração, mas deixa de lado variação nos graus e formas de integração.</td>
-<td style="text-align: left;">Pluralismo teórico moderado dentro do paradigma modernizacionista: dialoga com Deutsch (1953), Gellner (1983), Weber (1976) para integração; Hechter (2000, 1977), Breuilly (1982) para separatismo; Mann (1993) para poder infraestrutural do Estado. A moldura de custos-benefícios da mobilização separatista é implicitamente racionalista, com ênfase em oportunidades estruturais mais do que identidades. Adequada ao tipo de pergunta e ao design quantitativo comparado. Coerência ontológica: grupos étnicos são tratados como unidades relativamente estáveis, definidas linguisticamente, o que é uma simplificação necessária mas que pode subrepresentar a fluidez identitária no período.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Principais Referências</td>
-<td style="text-align: left;">O diálogo com a literatura é extenso e equilibrado, cobrindo economia histórica (Donaldson 2018; Hornung 2015), sociologia histórica do nacionalismo (Weber 1976; Gellner 1983; Deutsch 1953; Hechter 2000), e metodologia de DiD recente (Callaway e Sant’Anna 2021; Goodman-Bacon 2021; Gardner 2022; Liu, Wang e Xu 2024).</td>
-<td style="text-align: left;">Weber (1976), Deutsch (1953), Gellner (1983), Hechter (2000, 1977, 2013), Breuilly (1982), Mann (1993), Wimmer (2018), Cermeño, Enflo e Lindvall (2022), Müller-Crepon, Hunziker e Cederman (2021), Gardner (2022), Goodman-Bacon (2021). Diálogo ausente ou escasso: literatura sobre imperialismo e administração colonial como moldura para os Impérios Habsburgo e Russo; teoria da etnicidade como construção social e dinâmica (vs.&nbsp;mapeamentos fixos).</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Observações</td>
-<td style="text-align: left;">O artigo tem forte coerência interna e contribuição genuína, mas a assimetria entre o rigor da identificação do efeito médio e o da análise de mecanismos é a principal lacuna analítica. Para pesquisas sobre desigualdade territorial, construção estatal e mobilização étnica, o paper oferece instrumental metodológico (HEG dataset, medidas de rede) potencialmente replicável em outros contextos históricos. A restrição à Europa histórica é simultaneamente força (comparabilidade institucional relativa) e limitação (escopo). O caso francês como outlier integrador — não como paradigma — é uma das contribuições interpretativas mais interessantes do paper para a teoria comparada do nation-building.</td>
-<td style="text-align: left;"></td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-</div>
-<hr>
-</section>
-<section id="mapa-argumentativo" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="mapa-argumentativo">Mapa Argumentativo</h2>
-<p>Como se trata de um artigo único (não de livro), esta seção sintetiza a progressão argumentativa interna por grandes blocos:</p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 9%">
-<col style="width: 11%">
-<col style="width: 30%">
-<col style="width: 47%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Bloco</th>
-<th style="text-align: left;">Título</th>
-<th style="text-align: left;">Função argumentativa</th>
-<th style="text-align: left;">Contribuição para a tese central</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Introdução</td>
-<td style="text-align: left;">Railway Construction and Separatist Mobilization in Europe</td>
-<td style="text-align: left;">Apresentação do puzzle e da tese</td>
-<td style="text-align: left;">Estabelece a tensão entre teoria integracionista e evidência histórica de desintegração; define o objeto (separatismo étnico); anuncia os três mecanismos e os achados principais</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Bloco 1</td>
-<td style="text-align: left;">Modernization and Nationalism in the Literature</td>
-<td style="text-align: left;">Revisão de literatura</td>
-<td style="text-align: left;">Mapeia as duas tradições (integração vs.&nbsp;separatismo); identifica três lacunas que o artigo endereça (abrangência comparada, mecanismos, subnacionalidade)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Bloco 2</td>
-<td style="text-align: left;">Railways and Nationalist Mobilization</td>
-<td style="text-align: left;">Fundamento teórico</td>
-<td style="text-align: left;">Desenvolve os três mecanismos (M1 mercado, M2 alcance estatal, M3 conectividade interna); deriva H1, H2 (a–f) e H3 (a–c)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Bloco 3</td>
-<td style="text-align: left;">Data and Variables</td>
-<td style="text-align: left;">Operacionalização</td>
-<td style="text-align: left;">Descreve HEG, CShapes 2.0, train.eryx.net e a construção do outcome combinado; justifica a unidade de análise (segmento étnico-ano)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Bloco 4</td>
-<td style="text-align: left;">Analyses and Results</td>
-<td style="text-align: left;">Análise empírica principal</td>
-<td style="text-align: left;">DiD (TWFE e 2S-DiD): confirma H1 (efeito médio positivo e imediato); event study valida tendências paralelas; IV reforça causalidade</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Bloco 5</td>
-<td style="text-align: left;">Testing Conditional Hypotheses</td>
-<td style="text-align: left;">Análise de heterogeneidade</td>
-<td style="text-align: left;">Marginal effects e binning: confirma H2b, H2c, H2d, H2e; H2a (distância linguística) tem suporte fraco; qualifica o efeito médio com estrutura contextual</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Bloco 6</td>
-<td style="text-align: left;">Exploring Causal Mechanisms</td>
-<td style="text-align: left;">Extensão do argumento</td>
-<td style="text-align: left;">Mecanismos desagregados via medidas de rede: M2 reduz separatismo, M3 aumenta; M1 sem efeito independente — explica <em>por quê</em> o efeito médio é positivo</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Conclusão</td>
-<td style="text-align: left;">Conclusion</td>
-<td style="text-align: left;">Síntese e agenda</td>
-<td style="text-align: left;">Sintetiza que a experiência francesa é exceção, não paradigma; sinaliza agenda para tecnologias de comunicação contemporâneas; reconhece limites de generalização</td>
-</tr>
-</tbody>
-</table>
-<hr>
-</section>
-<section id="introdução-pp.-3738" class="level2" data-number="1">
-<h2 data-number="1" class="anchored" data-anchor-id="introdução-pp.-3738"><span class="header-section-number">1</span> Introdução (pp.&nbsp;37–38)</h2>
-<section id="puzzle-objeto-e-contribuição-14" class="level3" data-number="1.1">
-<h3 data-number="1.1" class="anchored" data-anchor-id="puzzle-objeto-e-contribuição-14"><span class="header-section-number">1.1</span> Puzzle, objeto e contribuição [§1–§4]</h3>
-<p>O artigo abre estabelecendo o contexto de transformação acelerada que marcou a Europa dos séculos XIX e início do XX: economias industrializando-se, mercados em expansão, Estados centralizando-se e ideologias nacionalistas remodelando a vida pública e privada. Nesse cenário, as ferrovias ocupam um papel de destaque como a inovação tecnológica definitória da Primeira Revolução Industrial, conectando regiões antes isoladas, fomentando a industrialização e ampliando a capacidade dos Estados de alcançar e governar populações periféricas. A literatura clássica — Anderson (1983), Deutsch (1953), Gellner (1983) — associa exatamente esses processos à formação de identidades nacionais integradoras.</p>
-<p>A contribuição central do artigo é investigar sistematicamente se essa expectativa integracionista se sustenta empiricamente. Os autores anunciam três mecanismos pelos quais as ferrovias podem afetar a competição entre o Estado central e grupos étnicos periféricos: (1) acesso a mercados e comunicação social (M1); (2) alcance e penetração do Estado (M2); (3) conectividade interna e capacidade de mobilização (M3). A premissa de fundo é que esses mecanismos operam em direções opostas e com diferentes temporalidades, de modo que o efeito líquido permanece uma questão empírica aberta.</p>
-<p>Os autores identificam três lacunas na literatura existente que seu trabalho endereça. Primeiro, o debate permanece não resolvido quanto a se a modernização reforça o nacionalismo pró-Estado ou o separatismo. Segundo, há pouca orientação teórica ou empírica sobre as condições contextuais que levam à integração ou à desintegração. Terceiro, enquanto as contribuições clássicas carecem de evidência sistemática, os estudos micro recentes validam partes das teorias em países isolados sem oferecer perspectiva comparada — e é precisamente esse vácuo comparativo e subnacional que o artigo propõe preencher.</p>
-</section>
-<section id="achados-principais-antecipados-5" class="level3" data-number="1.2">
-<h3 data-number="1.2" class="anchored" data-anchor-id="achados-principais-antecipados-5"><span class="header-section-number">1.2</span> Achados principais antecipados [§5]</h3>
-<p>Já na introdução, os autores adiantam os três resultados centrais: em média, o acesso ferroviário está associado a um aumento de aproximadamente duas vezes na probabilidade de mobilização separatista; efeitos heterogêneos concentram-se em países com baixo desenvolvimento econômico, baixa capacidade estatal, grupos dominantes pequenos e minorias demograficamente grandes; e a análise desagregada de mecanismos mostra que a conectividade interna (M3) facilita a mobilização, enquanto o alcance estatal (M2) a inibe, e o acesso a mercados (M1) tem efeito marginal insignificante.</p>
-<hr>
-</section>
-</section>
-<section id="modernização-e-nacionalismo-na-literatura-pp.-3839" class="level2" data-number="2">
-<h2 data-number="2" class="anchored" data-anchor-id="modernização-e-nacionalismo-na-literatura-pp.-3839"><span class="header-section-number">2</span> Modernização e Nacionalismo na Literatura (pp.&nbsp;38–39)</h2>
-<section id="tradição-integracionista-69" class="level3" data-number="2.1">
-<h3 data-number="2.1" class="anchored" data-anchor-id="tradição-integracionista-69"><span class="header-section-number">2.1</span> Tradição integracionista [§6–§9]</h3>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>A distinção entre dois campos teóricos — integração nacional <em>vs.</em> separatismo reativo — estrutura toda a revisão de literatura e fornece as hipóteses concorrentes que o artigo se propõe a arbitrar empiricamente.</p>
-</div>
-</div>
-<p>A revisão da literatura identifica duas grandes correntes no estudo da relação entre modernização e nacionalismo. A corrente integracionista espera homogeneização cultural crescente e identificação com a nação dominante. As abordagens políticas destacam o Estado moderno como agente central: em Hintze (1975), Posen (1993) e Tilly (1994), os Estados concebem e implementam programas de construção nacional em resposta a ameaças internacionais e domésticas. Em complemento, a perspectiva econômica de Gellner (1983) vê a transição de economias agrárias para industriais como força integradora pela via da padronização linguística. Deutsch (1953) enfatiza as redes de comunicação ampliadas pela inovação tecnológica, migração laboral e intercâmbio mercantil como motores industriais do nacionalismo.</p>
-<p>Evidências empíricas dessa tradição incluem Weber (1976), que traça a formação da identidade nacional francesa no século XIX atribuindo papel central a industrialização, redes de transporte e políticas estatais. Estudos comparados mais recentes mostram que reformas educacionais estatais tornam-se mais prováveis quando governantes enfrentam ameaças internacionais (Aghion <em>et al.</em> 2019) ou domésticas (Alesina, Giuliano e Reich 2021; Paglayan 2022). Os autores assinalam, porém, que a mera adoção de tais políticas não garante seu sucesso — uma ressalva crítica para o desenho do artigo.</p>
-</section>
-<section id="tradição-separatista-e-lacunas-empíricas-1012" class="level3" data-number="2.2">
-<h3 data-number="2.2" class="anchored" data-anchor-id="tradição-separatista-e-lacunas-empíricas-1012"><span class="header-section-number">2.2</span> Tradição separatista e lacunas empíricas [§10–§12]</h3>
-<p>Apesar de seu impulso integracionista, as teorias modernistas também iluminam a desintegração nacional. Breuilly (1982) e Hechter (2000) esperam que a transição do domínio indireto ao direto dispare mobilização reativa, especialmente onde elites periféricas gozavam de autonomia anterior à centralização estatal. Deutsch (1953) nota que onde a mobilização social supera a assimilação, o conflito nacionalista torna-se mais provável. Gellner (1983) prevê que a combinação de diferença cultural preexistente e desenvolvimento desigual aciona o separatismo.</p>
-<p>No plano empírico comparado, Wimmer e Feinstein (2010) usaram densidade ferroviária como <em>proxy</em> de modernização em amostra global de 145 territórios e encontraram nenhum efeito sobre a transição para Estados-nação. Os autores do presente artigo apontam um problema fundamental nesse design: o viés de retroprojeção (<em>hindsight bias</em>) resultante de usar unidades contemporâneas de observação que foram moldadas ao longo das fronteiras étnicas precisamente como resultado das transformações que o estudo quer explicar — citando Cederman, Girardin e Müller-Crepon (2023) e Müller-Crepon, Schvitz e Cederman (2025) como suporte. Em suma, a literatura existente oferece pouca orientação comparada e subnacional, o que motiva o design inovador do presente artigo.</p>
-<hr>
-</section>
-</section>
-<section id="teoria-ferrovias-e-mobilização-nacionalista-pp.-3943" class="level2" data-number="3">
-<h2 data-number="3" class="anchored" data-anchor-id="teoria-ferrovias-e-mobilização-nacionalista-pp.-3943"><span class="header-section-number">3</span> Teoria: Ferrovias e Mobilização Nacionalista (pp.&nbsp;39–43)</h2>
-<section id="o-contexto-pré-industrial-e-a-transição-1316" class="level3" data-number="3.1">
-<h3 data-number="3.1" class="anchored" data-anchor-id="o-contexto-pré-industrial-e-a-transição-1316"><span class="header-section-number">3.1</span> O contexto pré-industrial e a transição [§13–§16]</h3>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong>Conceito-chave:</strong> <em>Segmentos étnicos</em> são definidos como as intersecções espaciais entre áreas de assentamento étnico e fronteiras estatais — unidade de análise que permite capturar a variação subnacional e superar o viés de retroprojeção de estudos centrados em Estados.</p>
-</div>
-</div>
-<p>O quadro teórico parte do diagnóstico de que, antes da industrialização, os governos centrais típicos da Europa governavam grupos não-dominantes de forma indireta, terceirizando tarefas governamentais a intermediários locais. Diferença cultural e formas mediadas de projetar poder significavam que a maioria dos Estados europeus operava mais como impérios do que como Estados nacionais modernos — os autores citam Burbank e Cooper (2010) e a noção historiográfica de “monarquias compostas” (Elliott 1992). A situação mudou quando industrialização, formas diretas de governo e ideologias nacionalistas varreram a Europa no século XIX.</p>
-<p>O separatismo emergiu onde elites de grupos não-dominantes conseguiram mobilizar seguidores contra o Estado. Essas elites — velhas ou novas — dispunham de motivações específicas: a independência nacional garantiria acesso exclusivo aos benefícios da governança local, ameaçados pela expansão do Estado central (Hechter 2000); o apelo à unidade cultural em nível local facilitava coalizões entre velhas elites agrárias e classes médias emergentes com interesses econômicos desalinhados (Breuilly 1982); resistir à dominação de uma elite culturalmente estranha permitia mobilizar populações locais de forma mais eficaz (Gellner 1983); e o separatismo ampliava a perspectiva de apoio de grandes potências crescentemente receptivas ao ideal de autodeterminação.</p>
-</section>
-<section id="os-três-mecanismos-causais-1722" class="level3" data-number="3.2">
-<h3 data-number="3.2" class="anchored" data-anchor-id="os-três-mecanismos-causais-1722"><span class="header-section-number">3.2</span> Os três mecanismos causais [§17–§22]</h3>
-<p>Os autores elaboram três mecanismos pelos quais a construção ferroviária pode afetar as motivações e oportunidades para mobilização separatista, ilustrados na Figura 1 do artigo:</p>
-<p><strong>M1 — Acesso a Mercados e Comunicação Social.</strong> Ferrovias aumentam os custos da secessão ao tornar a independência econômica menos atraente e ao fornecer incentivos materiais para que populações periféricas se orientem para uma economia nacional crescentemente integrada. Em alguns casos, podem até levar à assimilação cultural em identidades nacionais supralocais — processo descrito por Weber (1976) como precondição tecnológica para “mudança cultural radical” na França nacionalizadora. Maier (2016) chega a usar o termo “nacionalismo ferroviário” para descrever esses efeitos transformadores. No entanto, o mecanismo pode também operar em sentido contrário: onde grupos étnicos distintos competem pelos benefícios escassos da modernização, a integração econômica pode tornar a diferença mais saliente (Bates 1983), e Gellner (1983) descreve como fluxos de informação podem tornar periferias etnicamente distintas agudamente conscientes de seu status subordinado.</p>
-<p><strong>M2 — Alcance e Domínio Direto do Estado.</strong> As ferrovias são parte do que Mann (1993) define como “poder infraestrutural” dos Estados europeus — a capacidade institucional de penetrar territórios e implementar decisões logisticamente. Ferrovias conectando a capital às regiões periféricas reduzem os tempos de deslocamento, ampliam a capacidade de monitoramento de burocratas e de repressão de elites locais, e tornam viáveis políticas de <em>nation-building</em> como educação de massa (Cermeño, Enflo e Lindvall 2022) e serviço militar. Ao mesmo tempo, o aumento da penetração estatal e do <em>nation-building</em> de cima para baixo pode acionar reações onde são percebidos como exploração — o que Hechter (1977) chama de “colonialismo interno” — alimentando o que Hechter (2000) denomina “nacionalismo reativo”.</p>
-<p><strong>M3 — Conectividade Interna e Mobilização Social.</strong> Ferrovias que melhoram a conectividade interna de regiões periféricas — sem necessariamente ampliar o alcance do Estado ou o acesso ao mercado nacional — reduzem os custos de coordenação e ação coletiva de movimentos separatistas. A rápida difusão de informação, ideias e laços sociais entre líderes, ativistas e cidadãos é ingrediente fundamental para mobilização bem-sucedida (Granovetter 1978; Kuran 1992). Evidências empíricas de outros contextos sustentam esse mecanismo: García-Jimeno, Iglesias e Yildirim (2022) mostram como a conectividade ferroviária contribuiu para a difusão de movimentos de oposição nos EUA do século XIX; Brooke e Ketchley (2018) encontram efeito similar no Egito do entreguerras; Melander (2021) na Suécia pré-democrática.</p>
-</section>
-<section id="hipóteses-derivadas-2328" class="level3" data-number="3.3">
-<h3 data-number="3.3" class="anchored" data-anchor-id="hipóteses-derivadas-2328"><span class="header-section-number">3.3</span> Hipóteses derivadas [§23–§28]</h3>
-<blockquote class="blockquote">
-<p>A hipótese central do artigo: <strong>Hipótese 1.</strong> A construção ferroviária em regiões não-dominantes aumenta a probabilidade de mobilização separatista, pelo menos no curto prazo.</p>
-</blockquote>
-<p>A lógica por trás da H1 é tripartite. Primeiro, ferrovias construídas <em>dentro</em> da área de assentamento de um grupo não-dominante melhoram inequivocamente a conectividade interna (M3), enquanto os mecanismos M1 e M2 dependem também de ferrovias fora dessa área. Segundo, tanto M1 quanto M2 podem fomentar resistência e não apenas integração. Terceiro — e crucialmente — os efeitos integradores da comunicação de mercado e do alcance estatal tendem a se desdobrar lentamente e a se materializar plenamente apenas no longo prazo, enquanto a reação ao backlash ocorre imediatamente. Na França, esse processo de integração levou um século inteiro após a Revolução Francesa (Weber 1976).</p>
-<p>As hipóteses condicionais (H2a–f) especificam que o efeito desestabilizador do acesso ferroviário é ampliado por: distância cultural entre grupo não-dominante e grupo estatal (H2a); pequeno peso demográfico do grupo nacional dominante (H2b); grande população do grupo não-dominante (H2c); baixo nível de desenvolvimento econômico do país (H2d); baixa capacidade estatal (H2e); e regime autocrático (H2f). Já as hipóteses de mecanismo (H3a–c) preveem que acesso ao mercado nacional reduz separatismo (H3a), alcance estatal reduz separatismo (H3b), e conectividade interna aumenta separatismo (H3c).</p>
-<blockquote class="blockquote">
-<p><strong>Nota :</strong> Weber (1976, pp.&nbsp;205–7) destaca que, embora o processo geral de assimilação à identidade nacional francesa seja lento, a <em>primeira</em> chegada de uma ferrovia a uma localidade era um evento transformador abrupto que empurrava áreas rurais para fora de sua letargia pré-moderna. Em áreas etnicamente distintas, esse choque frequentemente funcionou como gatilho para a mobilização contra o Estado. [nota incluída por relevância argumentativa]</p>
-</blockquote>
-<hr>
-</section>
-</section>
-<section id="dados-e-variáveis-pp.-4346" class="level2" data-number="4">
-<h2 data-number="4" class="anchored" data-anchor-id="dados-e-variáveis-pp.-4346"><span class="header-section-number">4</span> Dados e Variáveis (pp.&nbsp;43–46)</h2>
-<section id="dados-de-assentamentos-étnicos-e-fronteiras-históricas-2932" class="level3" data-number="4.1">
-<h3 data-number="4.1" class="anchored" data-anchor-id="dados-de-assentamentos-étnicos-e-fronteiras-históricas-2932"><span class="header-section-number">4.1</span> Dados de assentamentos étnicos e fronteiras históricas [§29–§32]</h3>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong>Conceito-chave:</strong> O dataset <em>Historical Ethnic Geography</em> (HEG) é o principal insumo original do artigo, construído a partir da seleção e padronização de 73 mapas históricos de assentamentos étnicos cobrindo o período 1816–1945.</p>
-</div>
-</div>
-<p>As informações sobre assentamentos étnicos históricos provêm do dataset HEG, baseado em 73 mapas históricos (ver Seção A1 do Material Suplementar). Praticamente todas as categorias étnicas nesses mapas referem-se a marcadores de identidade linguística, refletindo uma característica reconhecida do nacionalismo europeu (Barbour e Carmichael 2000). As categorias são padronizadas com o auxílio da árvore linguística do <em>Ethnologue</em> (Lewis 2009) e consolidadas em uma lista-mestra invariante no tempo. A partir da sobreposição de todos os mapas disponíveis para cada combinação grupo-período, constroem-se polígonos de assentamento que constituem a “melhor estimativa” da distribuição espacial de cada grupo.</p>
-<p>Dados espaciais sobre fronteiras estatais desde 1886 provêm do dataset CShapes 2.0 (Schvitz <em>et al.</em> 2022), com cobertura global desde a “Partilha da África”. Para a Europa, esses dados foram retroestendidos até 1816 a partir de fontes não-espaciais (Gleditsch e Ward 1999; Tir <em>et al.</em> 1998; Reed 2008), incluindo dezenas de microestados que existiam antes das unificações alemã e italiana. A intersecção espacial dos polígonos étnicos agregados com os dados anuais de fronteiras europeias gera a unidade de análise principal: <strong>segmentos étnicos-anos</strong> de 1816 a 1945. Para cada observação, calculam-se área absoluta e população (fonte: HYDE; Goldewijk, Beusen e Janssen 2010).</p>
-</section>
-<section id="variável-independente-principal-e-variáveis-de-desfecho-3337" class="level3" data-number="4.2">
-<h3 data-number="4.2" class="anchored" data-anchor-id="variável-independente-principal-e-variáveis-de-desfecho-3337"><span class="header-section-number">4.2</span> Variável independente principal e variáveis de desfecho [§33–§37]</h3>
-<p>Os dados geográficos sobre a rede ferroviária europeia em expansão provêm de train.eryx.net, um site construído por entusiastas ferroviários franceses (Bernard e Raymond Cima). Os autores georreferenciaram os tiles anuais do site e digitalizaram todas as linhas para construir um dataset geoespacial de ferrovias europeias de 1834 a 1922. O indicador de tratamento principal é uma variável dicotômica de <em>acesso ferroviário</em>, derivada da intersecção dos polígonos anuais de segmentos étnicos com os datasets anuais de linhas. Para operacionalizar os mecanismos M1–M3, utilizou-se a estrutura de rede para calcular proxies contínuas de conectividade do segmento com mercados econômicos nacionais, alcance do Estado e conectividade interna (ver Seção A4 do Material Suplementar).</p>
-<blockquote class="blockquote">
-<p><strong>Nota :</strong> A resolução anual do dataset ferroviário melhora substancialmente em relação à codificação de redes ferroviárias em nível de décadas utilizada em Martí-Henneberg (2021) e Alvarez-Palau, Díez-Minguela e Martí-Henneberg (2021). [nota incluída por relevância argumentativa]</p>
-</blockquote>
-<p>A variável de desfecho principal combina três dimensões: (1) <em>onset</em> de guerra civil etno-territorial (dummy codificada para guerras civis listadas em Gleditsch 2004 e Sarkees e Wayman 2010 que foram travadas em nome de grupos étnicos específicos); (2) secession bem-sucedida (dummy que assume valor 1 quando um segmento não-dominante se torna segmento dominante em um Estado recém-independente no ano <em>t+1</em>); e (3) uma nova medida de <em>claims</em> nacionalistas, codificando a primeira reivindicação de independência nacional plena ou autonomia regional feita por uma organização nacionalista ao nível do segmento étnico-ano. O indicador de desintegração combinado assume valor 1 se qualquer um dos três fenômenos ocorre em dado ano.</p>
-<hr>
-</section>
-</section>
-<section id="análises-e-resultados-pp.-4651" class="level2" data-number="5">
-<h2 data-number="5" class="anchored" data-anchor-id="análises-e-resultados-pp.-4651"><span class="header-section-number">5</span> Análises e Resultados (pp.&nbsp;46–51)</h2>
-<section id="especificação-principal-e-resultados-3842" class="level3" data-number="5.1">
-<h3 data-number="5.1" class="anchored" data-anchor-id="especificação-principal-e-resultados-3842"><span class="header-section-number">5.1</span> Especificação principal e resultados [§38–§42]</h3>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong>Conceito-chave:</strong> O modelo de <strong>diferença-em-diferenças de dois estágios</strong> (2S-DiD) de Gardner (2022) e Liu, Wang e Xu (2024) é utilizado para corrigir os vieses mecânicos de subestimação do TWFE convencional em settings de adoção escalonada (<em>staggered treatment</em>) com efeitos de tratamento heterogêneos.</p>
-</div>
-</div>
-<p>A especificação de linha de base é um modelo de probabilidade linear TWFE com o indicador dicotômico de acesso ferroviário como variável de tratamento. Todos os modelos incluem efeitos fixos de segmento étnico e efeitos fixos de ano ou país-ano, além de uma variável de contagem de conflitos territoriais passados desde 1816 e dummies de <em>peace years</em> para abordar preocupações de causalidade reversa.</p>
-<p>A Tabela 1 do artigo apresenta os resultados principais:</p>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th style="text-align: left;"></th>
-<th style="text-align: center;">100 × Secessão, Guerra Civil Territorial ou Claim</th>
-<th style="text-align: center;"></th>
-<th style="text-align: center;"></th>
-<th style="text-align: center;"></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;"></td>
-<td style="text-align: center;">(1)</td>
-<td style="text-align: center;">(2)</td>
-<td style="text-align: center;">(3)</td>
-<td style="text-align: center;">(4)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Rails (S/N)</td>
-<td style="text-align: center;">1,486***</td>
-<td style="text-align: center;">1,076**</td>
-<td style="text-align: center;">2,096***</td>
-<td style="text-align: center;">1,693***</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"></td>
-<td style="text-align: center;">(0,352)</td>
-<td style="text-align: center;">(0,341)</td>
-<td style="text-align: center;">(0,493)</td>
-<td style="text-align: center;">(0,446)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Segmento FE</td>
-<td style="text-align: center;">Sim</td>
-<td style="text-align: center;">Sim</td>
-<td style="text-align: center;">Sim</td>
-<td style="text-align: center;">Sim</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Ano FE</td>
-<td style="text-align: center;">Sim</td>
-<td style="text-align: center;">Não</td>
-<td style="text-align: center;">Sim</td>
-<td style="text-align: center;">Não</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">País-Ano FE</td>
-<td style="text-align: center;">Não</td>
-<td style="text-align: center;">Sim</td>
-<td style="text-align: center;">Não</td>
-<td style="text-align: center;">Sim</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Estimador</td>
-<td style="text-align: center;">TWFE</td>
-<td style="text-align: center;">TWFE</td>
-<td style="text-align: center;">2S-DiD</td>
-<td style="text-align: center;">2S-DiD</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Média VD</td>
-<td style="text-align: center;">1,115</td>
-<td style="text-align: center;">1,115</td>
-<td style="text-align: center;">1,076</td>
-<td style="text-align: center;">1,069</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Observações</td>
-<td style="text-align: center;">13.007</td>
-<td style="text-align: center;">13.007</td>
-<td style="text-align: center;">11.711</td>
-<td style="text-align: center;">9.818</td>
-</tr>
-</tbody>
-</table>
-<p>O modelo 1 indica que a probabilidade de separatismo aumenta 1,49 pp após a chegada da primeira ferrovia — aumento de mais do dobro da média amostral de 1,12 ocorrências por cem segmento-anos. O modelo 3 (2S-DiD) eleva a estimativa para 2,10 pp, equivalente a um aumento de 195% em relação à média, com a diferença em relação ao TWFE explicada pelo viés mecânico de subestimação que os modelos TWFE produzem em settings de adoção escalonada com heterogeneidade temporal de efeitos (Goodman-Bacon 2021).</p>
-<p>O event study (Figura 3 do artigo) exibe tendências pré-tratamento predominantemente paralelas entre unidades tratadas e não tratadas, com coeficientes pré-tratamento próximos de zero e conjuntamente insignificantes na maioria das especificações. Os coeficientes pós-tratamento indicam aumento imediato no risco de conflito após a construção da primeira ferrovia, com efeitos ainda maiores aproximadamente 35 anos após o tratamento e tendência de atenuação a partir do 50º ano pós-tratamento, especialmente na especificação com FE de país-ano.</p>
-</section>
-<section id="robustez-variável-instrumental-4345" class="level3" data-number="5.2">
-<h3 data-number="5.2" class="anchored" data-anchor-id="robustez-variável-instrumental-4345"><span class="header-section-number">5.2</span> Robustez: variável instrumental [§43–§45]</h3>
-<p>Para endereçar o potencial de causalidade reversa (construção ferroviária motivada por considerações estratégicas relacionadas ao separatismo) e viés de variável omitida, os autores implementam uma estratégia de variável instrumental baseada em redes ferroviárias simuladas. O instrumento é construído colocando heuristicamente ferrovias para cada país-ano de forma a maximizar a conectividade da população estatal, utilizando dados populacionais invariantes no tempo estimados para 1830 (HYDE) — excluindo assim causas potencialmente enviesantes de ordem militar, demográfica ou econômica.</p>
-<p>A Tabela 2 do artigo mostra que o instrumento é fortemente preditivo da construção ferroviária efetiva (estatística F de 39). O <em>reduced form</em> e o segundo estágio são positivos e estatisticamente significativos, com a estimativa do segundo estágio (2,341) ligeiramente superior ao TWFE mas similar ao 2S-DiD.</p>
-</section>
-<section id="robustez-adicional-definição-de-amostra-e-desagregação-do-desfecho-4648" class="level3" data-number="5.3">
-<h3 data-number="5.3" class="anchored" data-anchor-id="robustez-adicional-definição-de-amostra-e-desagregação-do-desfecho-4648"><span class="header-section-number">5.3</span> Robustez adicional: definição de amostra e desagregação do desfecho [§46–§48]</h3>
-<p>Verificações adicionais de robustez incluem: (1) censura de observações após o primeiro <em>onset</em> de separatismo, que produz estimativas menores mas positivas e significativas, interpretáveis como o efeito das ferrovias sobre o risco de separatismo dado nenhum esforço separatista anterior; (2) exclusão de unidades nunca tratadas, que produz efeitos similares ou maiores; (3) censura da amostra em 1922 (ano final dos dados ferroviários), com resultados robustos e de mesmo tamanho ou maiores. A desagregação do desfecho sugere que os resultados principais são impulsionados principalmente por guerras civis territoriais e <em>claims</em> nacionalistas; os efeitos sobre secessions bem-sucedidas (desfecho mais raro e extremo) são positivos e significativos no 2S-DiD mas pequenos e insignificantes no TWFE.</p>
-</section>
-<section id="hipóteses-condicionais-moderadores-contextuais-4953" class="level3" data-number="5.4">
-<h3 data-number="5.4" class="anchored" data-anchor-id="hipóteses-condicionais-moderadores-contextuais-4953"><span class="header-section-number">5.4</span> Hipóteses condicionais: moderadores contextuais [§49–§53]</h3>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Important
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>A análise de heterogeneidade revela que o efeito desestabilizador das ferrovias não é universal — ele se concentra em contextos estruturalmente propensos à desintegração, o que requalifica a teoria modernizacionista: a experiência francesa de integração bem-sucedida não é o paradigma, mas a exceção.</p>
-</div>
-</div>
-<p>A Figura 4 do artigo apresenta gráficos de efeito marginal e estimativas de <em>binning</em> (Hainmueller, Mummolo e Xu 2019) para os seis moderadores contextuais. Os resultados são:</p>
-<ul>
-<li><strong>H2a (distância linguística):</strong> coeficiente de interação positivo mas apenas marginalmente significativo. Os autores interpretam esse não-resultado como indicação de que, condicional a alguma diferença cultural, processos de politização e mobilização de grupo importam mais do que a distância cultural em si.</li>
-<li><strong>H2b (participação do grupo dominante):</strong> coeficiente de interação negativo e significativo — ferrovias são particularmente prováveis de acender campanhas separatistas em países com grupos governantes relativamente pequenos. Os <em>binning plots</em> sugerem, porém, que o efeito linear é impulsionado por um pequeno número de casos com grupos dominantes especialmente pequenos.</li>
-<li><strong>H2c (população do segmento):</strong> ferrovias impulsionam principalmente o separatismo em segmentos étnicos demograficamente grandes. Casos ilustrativos: bielorussos, poloneses e ucranianos na Rússia, tchecos, húngaros e italianos na Áustria-Hungria. Em segmentos muito pequenos, o efeito é negativo.</li>
-<li><strong>H2d (PIB per capita):</strong> interação negativa e significativa — os resultados são impulsionados por país-anos relativamente pobres e menos industrializados, confirmando H2d.</li>
-<li><strong>H2e (capacidade fiscal):</strong> estimativas de <em>binning</em> sugerem efeito significativamente maior em valores tipicamente baixos de capacidade fiscal. Casos de separatismo em Estados de baixa capacidade concentram-se nos Impérios Russo e Otomano e seus Estados sucessores.</li>
-<li><strong>H2f (democracia liberal):</strong> interação negativa e significativa, mas os <em>binning plots</em> revelam que o efeito é mais alto em valores baixos a intermediários de democracia liberal, predominantemente nos Impérios Otomano e Russo durante a segunda metade do século XIX.</li>
-</ul>
-</section>
-<section id="mecanismos-causais-desagregados-5457" class="level3" data-number="5.5">
-<h3 data-number="5.5" class="anchored" data-anchor-id="mecanismos-causais-desagregados-5457"><span class="header-section-number">5.5</span> Mecanismos causais desagregados [§54–§57]</h3>
-<p>A Tabela 3 apresenta os modelos TWFE nos quais as três medidas contínuas de rede substituem o indicador dicotômico de tratamento, testando H3a–c:</p>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th style="text-align: left;"></th>
-<th style="text-align: center;">100 × Secessão, Guerra Civil ou Claim</th>
-<th style="text-align: center;"></th>
-<th style="text-align: center;"></th>
-<th style="text-align: center;"></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;"></td>
-<td style="text-align: center;">(1)</td>
-<td style="text-align: center;">(2)</td>
-<td style="text-align: center;">(3)</td>
-<td style="text-align: center;">(4)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Acesso ao mercado nacional</td>
-<td style="text-align: center;">−0,143+</td>
-<td style="text-align: center;">—</td>
-<td style="text-align: center;">—</td>
-<td style="text-align: center;">−0,001</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Alcance do Estado</td>
-<td style="text-align: center;">—</td>
-<td style="text-align: center;">−0,008**</td>
-<td style="text-align: center;">—</td>
-<td style="text-align: center;">−0,008**</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Conectividade interna</td>
-<td style="text-align: center;">—</td>
-<td style="text-align: center;">—</td>
-<td style="text-align: center;">0,015*</td>
-<td style="text-align: center;">0,016*</td>
-</tr>
-</tbody>
-</table>
-<p>Todos os coeficientes apontam na direção esperada. Melhorias no alcance estatal (M2) de um desvio padrão reduzem o risco de separatismo em 0,79 pp (70% da média amostral). A conectividade interna (M3) aumenta o risco em 0,34 pp por desvio padrão. O efeito do acesso ao mercado nacional torna-se pequeno e insignificante quando o alcance do Estado é controlado, sugerindo que o efeito negativo do Modelo 1 era capturado por melhores conexões com a capital — ou seja, M2 absorve M1.</p>
-<blockquote class="blockquote">
-<p><strong>Nota :</strong> Ver Tabela A17 na Seção A10 do Material Suplementar para resultados com medidas de rede padronizadas que facilitam a comparação de coeficientes. [nota incluída por relevância argumentativa]</p>
-</blockquote>
-<p>Os autores discutem uma interpretação alternativa: as redes ferroviárias nacionais em expansão exercem efeitos heterogêneos em diferentes contextos, e, na média, as respostas integrativas e desintegrativas se cancelam mutuamente (nota 16). O fato de que o modelo de linha de base mostra efeitos positivos da <em>primeira</em> conexão ferroviária em um segmento pode refletir que conexões periféricas na Europa histórica fortaleciam principalmente os laços locais antes de efetivamente ampliar a capacidade estatal ou integrar mercados nacionais.</p>
-<hr>
-</section>
-</section>
-<section id="conclusão-pp.-5152" class="level2" data-number="6">
-<h2 data-number="6" class="anchored" data-anchor-id="conclusão-pp.-5152"><span class="header-section-number">6</span> Conclusão (pp.&nbsp;51–52)</h2>
-<section id="síntese-e-releitura-da-teoria-modernizacionista-5860" class="level3" data-number="6.1">
-<h3 data-number="6.1" class="anchored" data-anchor-id="síntese-e-releitura-da-teoria-modernizacionista-5860"><span class="header-section-number">6.1</span> Síntese e releitura da teoria modernizacionista [§58–§60]</h3>
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Tip
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>A conclusão central do artigo inverte o ônus da prova na teoria modernizacionista: a integração nacional bem-sucedida via ferrovias não é o caso típico, mas o caso excepcional — e a excepcionalidade francesa pode ter distorcido décadas de teorização.</p>
-</div>
-</div>
-<p>A conclusão retoma a premissa convencional de que a infraestrutura de transporte moderna fortaleceu o <em>nation-building</em> europeu, para então contrastá-la sistematicamente com a evidência produzida pelo artigo: se há algo, a construção ferroviária em regiões de minorias étnicas tendeu a ameaçar a integridade dos Estados e impérios europeus. A análise condicional revela as dimensões estruturais que dificultaram a integração nacional nos Estados multiétnicos, especialmente na Europa oriental — grupos minoritários grandes, participações populacionais pequenas dos grupos dominantes, baixa capacidade estatal e baixa renda per capita colocavam desafios formidáveis à centralização estatal e ao <em>nation-building</em> de cima para baixo.</p>
-<p>A experiência francesa, amplamente tomada como paradigma da teoria modernizacionista, emerge dos dados como exceção notável. Em sentido complementar, os autores mostram como os efeitos agregados do acesso ferroviário mascaram efeitos opostos da estrutura da rede: o separatismo torna-se mais provável onde as ferrovias facilitam a mobilização pela melhoria da conectividade interna de regiões étnicas periféricas, e menos provável onde aproximam essas regiões da capital do Estado.</p>
-</section>
-<section id="agenda-de-pesquisa-61" class="level3" data-number="6.2">
-<h3 data-number="6.2" class="anchored" data-anchor-id="agenda-de-pesquisa-61"><span class="header-section-number">6.2</span> Agenda de pesquisa [§61]</h3>
-<p>Os autores situam o estudo em uma agenda mais ampla que analisa a integração e a desintegração nacionais por meio de diversas formas de comunicação social e mecanismos de formação de identidade: linhas telegráficas, redes viárias, educação de massa e meios de comunicação de massa. Há também uma agenda crescente sobre como processos de mobilização são influenciados por tecnologias mais recentes — rádio (Warren 2014), telefonia celular (Shapiro e Weidmann 2015), redes sociais (Gohdes 2020; Weidmann 2015). Os autores concluem com cautela explícita: embora o presente estudo sirva como lembrete de que avanços tecnológicos podem ter efeitos desintegradores, pesquisa empírica cuidadosa é necessária antes de aplicar seus achados a contextos além dos casos clássicos do <em>nation-building</em> europeu.</p>
-<hr>
-</section>
-</section>
-<section id="argumento-sintético" class="level2" data-number="7">
-<h2 data-number="7" class="anchored" data-anchor-id="argumento-sintético"><span class="header-section-number">7</span> Argumento Sintético</h2>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong>Tese central:</strong> A construção ferroviária em regiões habitadas por grupos étnicos não-dominantes na Europa de 1816 a 1945 aumentou, em média, a probabilidade de mobilização separatista em cerca do dobro da média amostral — contrariando a expectativa integracionista dominante na teoria modernizacionista.</p>
-<p><strong>Natureza do argumento:</strong> Causal e heterogêneo. O artigo opera em três camadas argumentativas que se reforçam mutuamente: (1) estimação do efeito médio de tratamento via DiD, event study e IV; (2) análise de moderação contextual que especifica <em>quando</em> o efeito é amplificado ou atenuado; e (3) análise de mecanismos desagregados que explica <em>por que</em> o efeito médio é positivo — com a conectividade interna (M3) e o alcance do Estado (M2) operando em direções opostas.</p>
-<p><strong>O que o texto demonstra vs.&nbsp;o que fica como hipótese ou agenda:</strong> O efeito causal médio (H1) está bem identificado pela convergência de três estratégias empíricas. A análise de heterogeneidade (H2) está bem sustentada pela abordagem de <em>binning</em> e pela convergência dos resultados condicionais. A análise de mecanismos (H3) é sugestiva mas metodologicamente mais fraca — por não utilizar um design DiD para as medidas contínuas de rede, a identificação causal dos mecanismos individuais requer premissas mais fortes. Fica como agenda: a exploração de heterogeneidade de efeitos entre contextos (a nota 16 reconhece essa limitação) e a extrapolação para tecnologias contemporâneas.</p>
-<p><strong>Contribuição para o debate:</strong> O artigo faz três contribuições ao debate sobre modernização, nacionalismo e separatismo. Metodologicamente, produz o primeiro dataset geoespacial de assentamentos étnicos históricos europeus cruzado com dados anuais de construção ferroviária, superando o viés de retroprojeção dos estudos anteriores. Teoricamente, especifica os mecanismos contraditórios pelos quais ferrovias afetam o <em>nation-building</em> e identifica as condições contextuais que determinam o resultado. Empiricamente, demonstra que a experiência francesa de integração bem-sucedida é a exceção e não o paradigma — com implicações diretas para teorias de <em>nation-building</em> que tomaram o caso francês como referência normativa.</p>
-</div>
-</div>
-
-
-</section>
-
- ]]></description>
-  <category>Annotated Bibliography</category>
-  <category>Comparative Politics</category>
-  <category>Political Economy</category>
-  <category>Nationalism and Ethnicity</category>
-  <category>State Building</category>
-  <category>Western Europe</category>
-  <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Pengl-etal2026.html</guid>
   <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
 </item>
 </channel>
