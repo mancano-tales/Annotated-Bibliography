@@ -10,7 +10,652 @@
 <atom:link href="https://mancano-tales.github.io/Annotated-Bibliography/index.xml" rel="self" type="application/rss+xml"/>
 <description>Fichamentos acadêmicos de Tales Mançano</description>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Sat, 06 Jun 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 07 Jun 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Fichamento: O Cativeiro da Terra</title>
+  <dc:creator>Tales Mançano</dc:creator>
+  <link>https://mancano-tales.github.io/Annotated-Bibliography/posts/Martins2012.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Informações Técnicas e BibTeX
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<pre><code>Última atualização: 2026-06-07
+Modelo: Claude Sonnet 4.6
+Prompt Version: v17.4 · 2026-05-13
+Gerado em: 2026-06-07T00:00:00-03:00
+Ocasião da Leitura:</code></pre>
+<p><strong>Entrada BibTeX → Martins2012</strong></p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@book</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">Martins2012</span>,</span>
+<span id="cb2-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span>    = {Martins, José de Souza},</span>
+<span id="cb2-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span>     = {O cativeiro da terra},</span>
+<span id="cb2-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span>      = {2012},</span>
+<span id="cb2-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">publisher</span> = {Editora Contexto},</span>
+<span id="cb2-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">address</span>   = {São Paulo},</span>
+<span id="cb2-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">edition</span>   = {9},</span>
+<span id="cb2-8">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">note</span>      = {Edição revista e ampliada. 1ª edição: 1979, Livraria Editora Ciências Humanas},</span>
+<span id="cb2-9">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">isbn</span>      = {Não informado no PDF},</span>
+<span id="cb2-10">}</span></code></pre></div></div>
+</div>
+</div>
+</div>
+<section id="ficha-analítica-crítica" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="ficha-analítica-crítica">Ficha Analítica Crítica</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Esta seção segue o formato <em>IA Planilhando Textos v17.4</em>.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Ficha Analítica — Tabela Markdown
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 23%">
+<col style="width: 52%">
+<col style="width: 23%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Dimensão</th>
+<th style="text-align: left;">Raciocínio analítico</th>
+<th style="text-align: left;">Conteúdo</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Questão de Pesquisa</td>
+<td style="text-align: left;">A premissa central é que a transição do trabalho escravo ao trabalho livre no Brasil não seguiu o padrão clássico do assalariamento. O ponto mais vulnerável é o risco de naturalizar a singularidade brasileira sem a contrastar sistematicamente com outros casos. A interpretação alternativa mais crível é a de que as relações não capitalistas seriam apenas uma fase transitória de um processo inevitavelmente convergente ao assalariamento “típico”.</td>
+<td style="text-align: left;">Por que o capitalismo brasileiro produziu e reproduziu relações não capitalistas de produção? Por que a abolição da escravidão negra não resultou em trabalho assalariado, mas em formas sui generis de sujeição da força de trabalho — o colonato — baseadas na monopolização da propriedade fundiária? Pergunta de natureza explicativa e causal (mecanísmica), centrada no processo histórico da transição entre modos de produção no contexto específico da economia cafeeira de São Paulo.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Questões Secundárias</td>
+<td style="text-align: left;">As questões secundárias orbitam o núcleo da produção capitalista de relações não capitalistas e têm relação de especificação progressiva com a questão central.</td>
+<td style="text-align: left;">(1) Como a Lei de Terras de 1850 funcionou como mecanismo estrutural de coerção do trabalho livre? (2) Como diferentes ondas imigratórias (italiana e espanhola) encontraram configurações distintas da economia cafeeira, revelando a dinâmica evolutiva do colonato? (3) Qual a relação entre a economia cafeeira e a gênese da industrialização em São Paulo? (4) Como a ideologia do “trabalho” foi produzida pela burguesia agrária e industrial para legitimar a exploração de classe? (5) Como o mito do burguês self-made (Matarazzo) funcionou como mecanismo ideológico de reprodução da dominação?</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Puzzle-Type</td>
+<td style="text-align: left;">O puzzle é genuíno e relevante além do caso: a coexistência de capitalismo e relações não capitalistas é problema estrutural de economias periféricas e coloniais, não uma anomalia brasileira. A tendência evolucionista que supõe uma transição linear ao assalariamento “clássico” é o alvo crítico explícito.</td>
+<td style="text-align: left;">Puzzle explicativo de alta relevância teórica: a economia cafeeira brasileira expandiu-se tanto sob trabalho escravo quanto sob trabalho “livre” sem que o segundo assumisse a forma salarial clássica. Caio Prado Júnior e Florestan Fernandes, entre outros, afirmam que o escravo foi substituído pelo assalariado; Martins demonstra que a substituição produziu o colonato — forma não capitalista de exploração da força de trabalho pelo capital. A explicação desse desvio do padrão canônico da literatura é o coração do puzzle.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Conclusão / Argumento Central</td>
+<td style="text-align: left;">A tese é causal-estrutural e de caráter historicamente fundado. O claim of discovery repousa sobre a reinterpretação da função da propriedade fundiária na acumulação capitalista e da natureza do escravo como renda capitalizada (e não como capital fixo), o que sustenta a análise do colonato como forma não capitalista produzida pelo próprio capital.</td>
+<td style="text-align: left;">O <strong>cativeiro da terra</strong> — a monopolização institucional da propriedade fundiária como instrumento de coerção da força de trabalho livre — é a matriz estrutural do capitalismo brasileiro. A Lei de Terras de 1850 instituiu o princípio: “se o trabalho fosse livre, a terra teria que ser escrava.” O colonato resultou não de um atraso pré-capitalista, mas foi produzido pelo próprio capitalismo cafeeiro como solução à crise do trabalho escravo, condicionando a lentidão histórica da constituição das classes sociais e a conformação ideológica da classe trabalhadora. A industrialização, longe de romper com essa matriz, reproduziu-a sob nova roupagem ideológica: o mito da ascensão social pelo trabalho.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Métodos</td>
+<td style="text-align: left;">O design combina análise teórica marxiana com pesquisa documental histórica de arquivo. Trata-se de uma obra de sociologia histórica com pretensões de teoria social geral a partir de um caso. O principal risco metodológico é a seleção de fontes para confirmar uma tese já constituída. O fichamento cobre a obra inteira (9ª edição revista e ampliada, 2012), que incorpora três capítulos novos (caps. 2, 3 e 6) à obra original de 1979.</td>
+<td style="text-align: left;">Sociologia histórica de caráter qualitativo e documental. O autor mobiliza: (a) pesquisa de arquivo extensiva (relatórios do Departamento Estadual do Trabalho, atas do Conselho de Estado, inventários de fazendas, imprensa da época em língua italiana e espanhola, boletins agrícolas, documentação do Departamento de Commerce dos EUA sobre São Paulo); (b) análise teórica marxiana heterodoxa, privilegiando especialmente os volumes 2 e 3 de <em>O capital</em> e os <em>Grundrisse</em>; (c) análise crítica da literatura secundária de referência (Caio Prado Júnior, Celso Furtado, Florestan Fernandes, Warren Dean, Paula Beiguelman, Maria Sylvia de Carvalho Franco). A estratégia argumentativa é a da reconstituição histórica dialética do processo social, oposta ao procedimento classificatório (feudal vs.&nbsp;capitalista).</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Data Generation Process (DGP)</td>
+<td style="text-align: left;">O DGP envolve seleção de fontes documentais primárias e secundárias para um período e região específicos. Risco de viés de seleção: a documentação disponível (boletins, inventários, relatórios) tende a superamostrar fazendas maiores e mais formalizadas, sub-representando as margens do sistema. A imprensa étnica em língua italiana e espanhola é mobilizada de forma ilustrativa, não sistemática. A unidade de análise oscila entre relações de produção (abstrato) e fazendas/imigrantes individuais (concreto), o que cria às vezes saltos inferências.</td>
+<td style="text-align: left;">Fenômeno real: relações de produção no complexo cafeeiro paulista (1850–1930) → observação: documentação de arquivo (relatórios governamentais, inventários, imprensa étnica, correspondências empresariais, censos) → coleta: pesquisa em arquivos estaduais de São Paulo, consulado americano, Junta Comercial do Estado → operacionalização: reconstituição qualitativa do processo de trabalho, da renda capitalizada e da ideologia; → análise: interpretação dialética marxiana → inferência: causal-mecanísmica (o cativeiro da terra produz colonato e ideologia do trabalho). Unidade de análise: relações de produção no nível da fazenda cafeeira; nível de agregação: economia cafeeira de São Paulo, com generalizações ao Brasil.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Achados e Contribuições</td>
+<td style="text-align: left;">Os achados empíricos sobre a imigração espanhola (Cap. 2) e os empresários italianos (Cap. 6) são contribuições documentais substantivas. A reinterpretação do escravo como renda capitalizada (e não capital fixo) é a inovação teórica mais ousada. O claim causal sobre o colonato como produto não capitalista do capitalismo é bem sustentado empiricamente para a economia cafeeira de São Paulo.</td>
+<td style="text-align: left;">(1) <strong>Teórica:</strong> Reformulação das categorias marxianas — o escravo não é capital fixo, mas renda capitalizada; o colonato não é pré-capitalismo residual, mas forma não capitalista produzida pelo capital; (2) <strong>Empírica/comparativa:</strong> A comparação entre imigrantes espanhóis (tardios, camponeses, baixa mobilidade) e italianos (precoces, estratificados, maior mobilidade) revela como diferentes momentos da economia cafeeira produziram inserções distintas; (3) <strong>Histórica:</strong> A gênese da Lei de Terras de 1850 é reconstituída como mecanismo deliberado de coerção laboral, complementar à cessação do tráfico negreiro; (4) <strong>Ideológica:</strong> A produção do mito da ascensão social pelo trabalho (culminando no caso Matarazzo) é analisada como mecanismo de legitimação da exploração de classe com efeitos estruturantes até a industrialização.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Análise Crítica dos Achados</td>
+<td style="text-align: left;">A vulnerabilidade principal está no salto da análise de São Paulo para afirmações sobre o “capitalismo brasileiro” em geral. Segundo ponto fraco: a categoria de “renda capitalizada” aplicada ao escravo, embora fecunda, é operacionalizada axiomaticamente, sem um teste contra hipóteses alternativas plausíveis. Terceiro ponto: os capítulos posteriores (5, 6, 7) têm menor densidade teórica e mais caráter ensaístico, reduzindo a coerência do volume.</td>
+<td style="text-align: left;">(a) <strong>Viés de seleção de caso:</strong> A análise empírica se concentra quase exclusivamente em São Paulo e nos cafezais, mas as generalizações alcançam “a sociedade brasileira” sem qualificação suficiente; (b) <strong>Compatibilidade DGP-claim:</strong> O claim sobre a gênese do colonato como resposta capitalista à crise da escravidão é bem sustentado, mas os mecanismos ideológicos (Cap. 4 e 7) têm sustentação empírica mais fraca; (c) <strong>Eliminação de hipóteses alternativas:</strong> O autor refuta sistematicamente a hipótese “feudal” e a hipótese “assalariamento clássico”, mas testa menos a hipótese culturalista sobre o ethos do trabalho imigrante; (d) <strong>Ausência de perspectiva de gênero e raça:</strong> O trabalho doméstico das mulheres colonas é estruturalmente invisível na análise do colonato, assim como as trajetórias específicas dos trabalhadores negros após a abolição; (e) <strong>Scope conditions:</strong> A análise é explicitamente sobre São Paulo e o café, mas a tese do “cativeiro da terra” é proposta como matriz nacional.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Limitações</td>
+<td style="text-align: left;">O autor reconhece a concisão de formulações na edição original e a necessidade de expansão; reconhece que a imprensa e os documentos consultados sobre capítulos específicos (como o cap. 6) têm origem fragmentária; reconhece o caráter polêmico e a posição no debate sobre modos de produção da época.</td>
+<td style="text-align: left;"><strong>Reconhecidas pelos autores:</strong> Formulações concisas na 1ª edição que foram substituídas por explanações mais largas nesta edição; limitações da pesquisa documental disponível sobre os empresários italianos (cap. 6); reconhecimento do viés do debate latino-americano sobre modos de produção que contextualizou a obra original. <br> <strong>Não reconhecidas ou subestimadas:</strong> A ausência quase total de perspectiva de gênero e raça na análise do colonato e da industrialização; a variação inter-regional (São Paulo vs.&nbsp;Nordeste vs.&nbsp;Minas Gerais) não é sistematicamente controlada; o salto inferencial de “economia cafeeira paulista” para “capitalismo brasileiro” como totalidade; a menor densidade empírica dos capítulos ensaísticos (7) em relação aos teóricos e documentais (1, 3).</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Perspectiva Teórica</td>
+<td style="text-align: left;">A filiação marxiana heterodoxa (marxiana, não marxista) é coerente com o método empírico-dialético adotado. A crítica ao althusserianismo é bem fundamentada. Há, porém, um risco de reificação das categorias marxianas: a “renda capitalizada” é mobilizada como chave explicativa universal sem ser adequadamente operacionalizada em termos mensuráveis. A ontologia é realista-histórica, coerente com o método qualitativo adotado.</td>
+<td style="text-align: left;">Marxismo heterodoxo de base marxiana (em oposição explícita ao “marxismo vulgar”, ao estruturalismo althusseriano e ao evolucionismo linear). O autor privilegia os volumes 2 e 3 de <em>O capital</em> (teoria da renda da terra, processo de valorização do capital) e os <em>Grundrisse</em>, normalmente menos mobilizados na literatura brasileira de então. A tradição de referência é a sociologia histórica crítica, com diálogo com a historiografia econômica brasileira (Caio Prado Júnior, Celso Furtado) e com a sociologia das classes (Florestan Fernandes). A ontologia é explicitamente processual e dialética, crítica de qualquer “totalidade fechada”.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Principais Referências</td>
+<td style="text-align: left;">O diálogo com a literatura secundária é desigual: profundo com os clássicos brasileiros (Caio Prado Júnior, Florestan Fernandes), mas ocasionalmente superficial com autores citados apenas para refutação. A ausência de diálogo com a historiografia agrária mais recente (Sérgio Milliet, Warren Dean são mencionados, mas pouco elaborados) é perceptível.</td>
+<td style="text-align: left;">Karl Marx (<em>O capital</em>, vols. 1–3; <em>Grundrisse</em>), Rosa Luxemburg, Florestan Fernandes, Caio Prado Júnior, Celso Furtado, Maria Sylvia de Carvalho Franco, Warren Dean, Paula Beiguelman, Franco Venturi (<em>Il populismo russo</em>), José María Aricó (<em>Marx y América Latina</em>), Louis Couty, Pierre Denis, Paula Beiguelman, Roberto Cochrane Simonsen, György Lukács (crítica ao “marxismo vulgar” de Sweezy).</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Observações</td>
+<td style="text-align: left;">Obra de referência fundadora na sociologia histórica brasileira. A 9ª edição (2012) é a versão definitiva do autor, incorporando revisões substantivas e três capítulos novos. Relevante para a dissertação de Tales como: (1) chave interpretativa da Lei de Terras de 1850 como mecanismo estrutural de desigualdade de longo prazo; (2) análise dos mecanismos de coerção não capitalista em economias capitalistas periféricas; (3) articulação entre estrutura econômica e produção ideológica como mecanismo de reprodução da dominação. O fichamento cobre a obra completa. Tipo de texto: livro completo de autor único; entrada BibTeX <code>@book</code>.</td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</section>
+<section id="mapa-argumentativo" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="mapa-argumentativo">Mapa Argumentativo</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 13%">
+<col style="width: 10%">
+<col style="width: 29%">
+<col style="width: 45%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Capítulo</th>
+<th style="text-align: left;">Título</th>
+<th style="text-align: left;">Função argumentativa</th>
+<th style="text-align: left;">Contribuição para a tese central</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Prefácio</td>
+<td style="text-align: left;"><em>Nova edição, revista e ampliada</em></td>
+<td style="text-align: left;">Enquadramento histórico e apresentação da tese</td>
+<td style="text-align: left;">Enuncia em linguagem acessível a tese central do “cativeiro da terra”: a fórmula “se o trabalho fosse livre, a terra teria que ser escrava”; justifica as alterações da 9ª edição e situa o livro no debate contemporâneo</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Apresentação</td>
+<td style="text-align: left;"><em>[sem título]</em></td>
+<td style="text-align: left;">Fundamento teórico-metodológico</td>
+<td style="text-align: left;">Critica o “marxismo vulgar” althusseriano e o evolucionismo linear; apresenta a orientação metodológica marxiana heterodoxa; formula a hipótese da produção capitalista de relações não capitalistas e a reinterpretação do escravo como renda capitalizada</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Cap. 1</td>
+<td style="text-align: left;">A produção capitalista de relações não capitalistas de produção</td>
+<td style="text-align: left;">Estudo de caso analítico central</td>
+<td style="text-align: left;">Demonstra empirica e teoricamente que o colonato não era trabalho assalariado, mas forma não capitalista de sujeição da força de trabalho produzida pelo capital; articula a teoria da renda capitalizada ao caso do escravo e ao regime de colonato</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Cap. 2</td>
+<td style="text-align: left;">Uma imigração tardia</td>
+<td style="text-align: left;">Extensão comparativa do argumento</td>
+<td style="text-align: left;">Aprofunda a análise do colonato via comparação entre imigrantes espanhóis (tardios) e italianos (precoces); mostra como diferentes momentos da economia cafeeira produziram formas distintas de sujeição e mobilidade do trabalho</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Cap. 3</td>
+<td style="text-align: left;">Do trabalho escravo ao assalariado nas fazendas de café, 1880–1914</td>
+<td style="text-align: left;">Análise empírica da transição</td>
+<td style="text-align: left;">Analisa os quatro problemas estruturais da relação população-produção; reconstitui o papel da Lei de Terras e da dívida colonial como mecanismos de sujeição do trabalhador livre; demonstra a longa duração da transição incompleta ao assalariamento</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">[Álbum fotográfico]</td>
+<td style="text-align: left;"><em>[sem título]</em></td>
+<td style="text-align: left;">Documentação iconográfica</td>
+<td style="text-align: left;">Não fichado; constitui evidência visual da condição dos colonos e das práticas de trabalho nas fazendas de café</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Cap. 4</td>
+<td style="text-align: left;">As relações de classe e a produção ideológica da noção de trabalho</td>
+<td style="text-align: left;">Fundamento ideológico</td>
+<td style="text-align: left;">Demonstra como a burguesia agrária e industrial produziu a ideologia do “trabalho” como mecanismo de legitimação da exploração de classe; mostra que a ética do trabalho não era uma característica cultural do imigrante, mas uma produção da burguesia</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Cap. 5</td>
+<td style="text-align: left;">O café e a gênese da industrialização em São Paulo</td>
+<td style="text-align: left;">Revisão crítica de literatura</td>
+<td style="text-align: left;">Questiona as interpretações de Celso Furtado e outros sobre a relação entre economia cafeeira e industrialização; propõe uma interpretação alternativa que reconhece a articulação de capitais entre fazendeiros e industriais, dissolvendo a dicotomia agro-industrial</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Cap. 6</td>
+<td style="text-align: left;">Empresários e trabalhadores de origem italiana no desenvolvimento industrial brasileiro em 1880 e 1914</td>
+<td style="text-align: left;">Estudo de caso empírico</td>
+<td style="text-align: left;">Desmistifica a trajetória dos imigrantes italianos como empreendedores; distingue as três trajetórias do imigrante italiano (colonato, núcleos coloniais, cidades); reconstitui as condições não capitalistas de absorção da força de trabalho na indústria nascente</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Cap. 7</td>
+<td style="text-align: left;">O imaginário da ascensão social pelo trabalho / A morte do burguês mítico</td>
+<td style="text-align: left;">Síntese ideológica e conclusão implícita</td>
+<td style="text-align: left;">Analisa o mito Matarazzo como mecanismo ideológico de reprodução da dominação de classe; mostra como a “morte do burguês mítico” (com o conde Chiquinho) expõe a deterioração do mito da ascensão pelo trabalho e a emergência de uma consciência de classe mais clara, embora ambígua</td>
+</tr>
+</tbody>
+</table>
+<hr>
+</section>
+<section id="prefácio-nova-edição-revista-e-ampliada-pp.-926" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="prefácio-nova-edição-revista-e-ampliada-pp.-926"><span class="header-section-number">1</span> Prefácio — <em>Nova edição, revista e ampliada</em> (pp.&nbsp;9–26)</h2>
+<section id="o-cativeiro-como-matriz-estrutural-cap.pref-15" class="level3" data-number="1.1">
+<h3 data-number="1.1" class="anchored" data-anchor-id="o-cativeiro-como-matriz-estrutural-cap.pref-15"><span class="header-section-number">1.1</span> O cativeiro como matriz estrutural [Cap.Pref §1–§5]</h3>
+<p>O Prefácio desta 9ª edição (definitiva, segundo o autor) abre com uma síntese de notável densidade argumentativa, que apresenta a tese central de toda a obra em linguagem deliberadamente acessível. Martins parte de uma constatação: o desenvolvimento capitalista no Brasil não seguiu o modelo consagrado na literatura especializada, mas teve sua própria circunstância histórica. Para compreender essa singularidade, o autor propõe uma diferença fundamental de origem que permanece e regula o presente.</p>
+<p>Diante do esgotamento do escravismo e da inevitabilidade do trabalho livre, o Brasil decidiu, em 1850, pela cessação do tráfico negreiro, condenando assim a escravidão. Optou pela imigração estrangeira de trabalhadores livres. Contudo, duas semanas depois da cessação do tráfico, o mesmo Estado aprovou a Lei de Terras, instituindo um novo regime de propriedade em que a condição de proprietário dependia não apenas da condição de homem livre, mas também de pecúlio para a compra da terra. O país selecionaria, por meio de seus agentes na Europa, o imigrante pobre, desprovido de meios, que chegasse ao Brasil sem outra alternativa senão a de trabalhar em latifúndio alheio para eventualmente tornar-se proprietário de sua própria terra.</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Tese central do livro</strong>, enunciada no Prefácio: “O país inventou a fórmula simples da coerção laboral do homem livre: se a terra fosse livre, o trabalho tinha que ser escravo; se o trabalho fosse livre, a terra tinha que ser escrava. O cativeiro da terra é a matriz estrutural e histórica da sociedade que somos hoje.”</p>
+</div>
+</div>
+<p>O autor contrasta essa opção brasileira com a norte-americana: doze anos depois, o <em>Homestead Act</em> de Abraham Lincoln optou pela livre ocupação das terras livres como mecanismo de esvaziamento do escravismo, permitindo que mesmo os ex-escravos pudessem se tornar proprietários de terra sem ônus. No modelo brasileiro, a propriedade da terra se institucionalizou como propriedade territorial capitalista, presidindo o processo de instauração e consolidação do capitalismo, acasalando terra e capital e concentrando a repartição da mais-valia. Isso representou o modo brasileiro de acelerar a entrada no mundo moderno — o recurso compensatório da pilhagem colonial que condenara o país ao atraso. A transição para o capitalismo foi, portanto, vagarosa e extraviada em atalhos de inovações sociais e econômicas tópicas.</p>
+</section>
+<section id="estrutura-e-revisões-da-9ª-edição-cap.pref-612" class="level3" data-number="1.2">
+<h3 data-number="1.2" class="anchored" data-anchor-id="estrutura-e-revisões-da-9ª-edição-cap.pref-612"><span class="header-section-number">1.2</span> Estrutura e revisões da 9ª edição [Cap.Pref §6–§12]</h3>
+<p>O Prefácio informa as alterações efetuadas para a edição definitiva. O capítulo 1 recebeu acréscimos significativos, desenvolvendo temas que na edição original ficaram limitados a formulações concisas. Três capítulos inteiramente novos foram incorporados à obra: o capítulo 2 (sobre o imigrante espanhol no colonato, como contraponto comparativo à imigração italiana); o capítulo 3 (sobre o processo de libertação do salário como categoria de mediação, no longo e complexo processo da produção do café); e o capítulo 6 (sobre o desenvolvimento industrial e o imigrante italiano nas duas categorias sociais — empresários e trabalhadores — que protagonizaram a industrialização brasileira nas suas décadas iniciais). A sequência dos capítulos originais foi alterada: o capítulo sobre a produção ideológica da noção de trabalho foi antecipado em relação ao capítulo sobre a gênese da industrialização, pois a ideologia da ascensão social pelo trabalho, embora geneticamente referida ao colonato, tomou conta também da ideologia operária e urbana.</p>
+<blockquote class="blockquote">
+<p>O autor destaca que a obra tem “um retorno insistente ao tema do cativeiro da terra, suas origens e suas decorrências” ao longo dos sete capítulos, e que ele empreendeu revisão de estilo para uniformizar um texto escrito em diferentes momentos de sua reflexão.</p>
+</blockquote>
+<hr>
+</section>
+</section>
+<section id="apresentação-pp.-2743" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="apresentação-pp.-2743"><span class="header-section-number">2</span> Apresentação (pp.&nbsp;27–43)</h2>
+<section id="crítica-ao-marxismo-vulgar-e-ao-althusserianismo-cap.apres-18" class="level3" data-number="2.1">
+<h3 data-number="2.1" class="anchored" data-anchor-id="crítica-ao-marxismo-vulgar-e-ao-althusserianismo-cap.apres-18"><span class="header-section-number">2.1</span> Crítica ao “marxismo vulgar” e ao althusserianismo [Cap.Apres §1–§8]</h3>
+<p>A Apresentação tem função de manifesto metodológico. Martins abre declarando que orienta sua pesquisa teórica e empírica pelo problema da <strong>produção capitalista de relações não capitalistas de produção</strong> no marco da reprodução capitalista do capital de origem não capitalista. Diante dos impasses do debate “feudalismo versus capitalismo” — que tentava classificar a sociedade brasileira em “tipos macroestruturais” —, o autor propõe uma alternativa metodológica que privilegia o concreto histórico em detrimento da nominação conceitual.</p>
+<p>A crítica ao marxismo althusseriano e ao “marxismo vulgar” (na definição de Lukács) é central. O autor denuncia a petrificação e reificação da noção de <strong>formação econômico-social</strong>, que passou a substituir funcionalisticamente a noção de “sistema social” sem que o processo de pensamento subjacente tivesse sofrido transformação correspondente. Igualmente, o conceito de <strong>modo de produção</strong> foi reduzido a uma classificação de etapas econômicas (como faz Paul Sweezy), perdendo o conteúdo dialético que Marx lhe atribuiu: modo historicamente determinado de exploração da força de trabalho no processo de produção, no qual são produzidas também as relações sociais fundamentais e as representações que as legitimam ideologicamente.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 1:</strong> O autor critica especificamente a obra de Marta Harnecker como exemplo de vulgarização althusseriana que vincula o conceito de formação econômico-social a espaços geográficos (“América Latina”), produzindo uma totalidade fechada e a-histórica. [nota incluída por relevância argumentativa]</p>
+</blockquote>
+<p>A partir da Universidade de Louvain, uma corrente do althusserianismo marcada pela articulação entre estrutura e superestrutura teria chegado ao Brasil com grande impacto nos autores da Teologia da Libertação. Nesse contexto, a religião seria protegida no âmbito mecanicista da superestrutura, ganhando legitimidade no corpo do marxismo mas perdendo seu caráter próprio ao ser reduzida a epifenômeno da materialidade social.</p>
+</section>
+<section id="a-hipótese-central-e-as-inovações-teóricas-cap.apres-917" class="level3" data-number="2.2">
+<h3 data-number="2.2" class="anchored" data-anchor-id="a-hipótese-central-e-as-inovações-teóricas-cap.apres-917"><span class="header-section-number">2.2</span> A hipótese central e as inovações teóricas [Cap.Apres §9–§17]</h3>
+<p>O caminho metodológico escolhido é o marxiano ortodoxo: privilegiar o concreto, o processo social em sua dimensão histórica. O que Martins define como descoberta e inovação interpretativa decorre desse procedimento: a observação de que o próprio capital engendra e reproduz relações não capitalistas de produção, numa coexistência de <strong>tempos sociais de datas entre si diversas</strong>. O acesso privilegiado a essa constatação se dá pela reflexão sobre a análise que Marx faz da <strong>renda territorial</strong> na sociedade capitalista.</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Hipótese central da Apresentação:</strong> A renda da terra, sendo de origem pré-capitalista, contraditória e obstáculo à expansão do capital, perde esse caráter à medida que é absorvida pelo processo do capital e se transforma em <strong>renda territorial capitalizada</strong>. Isso introduz uma irracionalidade na reprodução do capital que é superada pela repartição da mais-valia sob forma de lucro, juro ou renda. Martins estende esse raciocínio para além das relações pré-capitalistas, incluindo o que Marx e Rosa Luxemburg definiram como relações não capitalistas, permitindo analisar o colonato como forma historicamente criada na substituição do trabalhador escravo.</p>
+</div>
+</div>
+<p>A segunda inovação teórica fundamental é a interpretação do <strong>escravo como renda capitalizada</strong> e não como capital fixo. Essa formulação, segundo Martins, é essencial para repensar a questão da exploração do trabalho do período colonial à atualidade e a questão da renda fundiária no Brasil. O autor fundamenta essa interpretação no próprio Marx, que situa a escravidão no marco teórico da renda fundiária — aspecto sistematicamente omitido pela literatura brasileira com efeitos teóricos e políticos graves.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 2:</strong> A crítica à omissão da teoria da renda territorial em autores brasileiros de referência é direta e polêmica: “Essa omissão tem representado não somente um atraso teórico nas análises das ciências humanas entre nós, mas, sobretudo, um atraso político.” [nota incluída por relevância argumentativa]</p>
+</blockquote>
+<p>A Apresentação conclui situando a pesquisa no movimento do capital em seu conjunto: a transição do escravismo para o trabalho assalariado em São Paulo foi um processo planejado, controlado e relativamente lento — de quase 40 anos — por iniciativa dos próprios fazendeiros de café, que eram ao mesmo tempo investidores em empreendimentos ferroviários, comerciais, financeiros e industriais. Essa singularidade histórica reveste o processo do capital de características que o diferenciam substantivamente do modelo de referência da literatura histórica e sociológica internacional.</p>
+<hr>
+</section>
+</section>
+<section id="capítulo-1-a-produção-capitalista-de-relações-não-capitalistas-de-produção-pp.-45145" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="capítulo-1-a-produção-capitalista-de-relações-não-capitalistas-de-produção-pp.-45145"><span class="header-section-number">3</span> Capítulo 1: A produção capitalista de relações não capitalistas de produção (pp.&nbsp;45–145)</h2>
+<section id="a-dinâmica-dos-contrários-refutação-do-consenso-cap.1-19" class="level3" data-number="3.1">
+<h3 data-number="3.1" class="anchored" data-anchor-id="a-dinâmica-dos-contrários-refutação-do-consenso-cap.1-19"><span class="header-section-number">3.1</span> A dinâmica dos contrários: refutação do consenso [Cap.1 §1–§9]</h3>
+<p>Martins abre o capítulo central da obra desafiando o consenso da literatura especializada. O lugar-comum entre historiadores, sociólogos, economistas e cientistas políticos é que a servidão negra foi substituída pelo trabalho assalariado. Caio Prado Júnior afirma que a lavoura cafeeira baseou-se em escravos negros “substituídos mais tarde por trabalhadores assalariados”; Florestan Fernandes assinala que, com a abolição, as tendências de reintegração da ordem social e econômica “expeliu o negro e o mulato do sistema capitalista de relações de produção no campo”. Autores mais recentes são ainda mais enfáticos: “com a imigração massiva, o trabalho escravo cedeu lugar ao trabalho assalariado nas plantações de café.”</p>
+<p>O procedimento teórico que Martins critica é de natureza epistemológica: a projeção do capital personificado pelo fazendeiro sobre as relações de produção internas à fazenda. Como o fazendeiro-capitalista personificava o capital comercial, inferiu-se daí que as relações de produção da fazenda seriam capitalistas. Esse procedimento é equivocado porque descarta a reconstituição das mediações reais entre o capital e o trabalho. O importante, insiste Martins, é descobrir <strong>que forma de capital</strong> o fazendeiro personificava — e a resposta é que ele personificava o capital comercial, cuja racionalidade se esgotava no nível da circulação das mercadorias.</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Conceito-chave: colonato</strong> — Regime de trabalho que prevaleceu nas fazendas de café por cerca de um século (até fins dos anos 1950). Baseado na produção direta dos meios de vida pelo próprio trabalhador (trato dos cafezais, roça de alimentos, cultivo intercalar), combinada com pagamento em dinheiro por tarefas específicas (carpa, colheita). Não era trabalho assalariado: o salário não era a mediação central da relação entre capital e trabalho.</p>
+</div>
+</div>
+</section>
+<section id="a-natureza-do-escravo-como-renda-capitalizada-cap.1-1018" class="level3" data-number="3.2">
+<h3 data-number="3.2" class="anchored" data-anchor-id="a-natureza-do-escravo-como-renda-capitalizada-cap.1-1018"><span class="header-section-number">3.2</span> A natureza do escravo como renda capitalizada [Cap.1 §10–§18]</h3>
+<p>A transformação das relações de produção originou-se na esfera da circulação, na crise do comércio de escravos que produziu seus efeitos mais drásticos a partir de 1850, quando o tráfico negreiro foi definitivamente proibido. A hegemonia do comércio na determinação das relações de produção na economia colonial é sublinhada: nessa economia, não só o produto do trabalho, mas o próprio trabalhador, era objeto de comércio. O escravo, antes de ser produtor direto, tinha que ser objeto de comércio — tinha que produzir lucro já antes de começar a produzir mercadoria.</p>
+<p>A exploração do escravo no processo produtivo estava, portanto, precedida de parâmetros e relações comerciais que a determinavam. O fazendeiro calculava o rendimento do escravo pela taxa de juros de mercado, pelo lucro médio que equivaleria ao rendimento de seu capital se aplicado em outro negócio. A consequência teórica fundamental é que o escravo não entrava no processo de trabalho como capital fixo (meio de produção), mas como <strong>renda capitalizada</strong> — como tributo antecipado ao fornecedor de mão de obra (o traficante), equivalente à lógica da renda territorial capitalizada. Tanto a terra quanto o escravo têm em comum o fato de não serem produtos do trabalho, de não terem valor no sentido marxiano, mas terem preço — preço determinado pela capitalização de uma renda esperada.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 3:</strong> Martins apoia-se em Marx para demonstrar que o preço do escravo correspondia à capitalização de sua mais-valia esperada: “O preço que se paga pelo escravo não é senão a mais-valia ou lucro futuro capitalizado”, citando como referência as análises de Louis Couty sobre a economia cafeeira. [nota incluída por relevância argumentativa]</p>
+</blockquote>
+</section>
+<section id="o-colonato-como-relação-não-capitalista-produzida-pelo-capital-cap.1-1934" class="level3" data-number="3.3">
+<h3 data-number="3.3" class="anchored" data-anchor-id="o-colonato-como-relação-não-capitalista-produzida-pelo-capital-cap.1-1934"><span class="header-section-number">3.3</span> O colonato como relação não capitalista produzida pelo capital [Cap.1 §19–§34]</h3>
+<p>A crise do escravismo engendrou o colonato como a modalidade de trabalho que superaria o escravo — o trabalho livre, ainda não o trabalho assalariado. O trabalhador livre que veio substituir o escravo não diferia dele por estar divorciado dos meios de produção — característica comum a ambos. Diferia na medida em que o trabalho livre se baseava na separação do trabalhador de sua <strong>força de trabalho</strong>, que no escravo se confundiam.</p>
+<p>A contradição que permeia a emergência do trabalho livre expressa-se na transformação das relações de produção como meio para preservar a economia colonial de exportação: tratava-se de <strong>mudar para manter</strong>. As relações de produção se transformaram, mas o produto (o café) e o processo de trabalho permaneceram essencialmente os mesmos. O colono continuou a fazer exatamente o que o escravo fazia — mudando apenas a forma social da organização do trabalho, do trabalho coletivo do eito para o trabalho familiar.</p>
+<p>O colonato era, portanto, a solução capitalista para a crise do trabalho escravo que preservava a racionalidade da economia de exportação sem instaurar plenamente as relações capitalistas de produção. A sujeição do trabalho, que no cativeiro se dava pela coerção física, passou a se dar por mecanismos econômicos não salariais: o endividamento do colono (pela dívida da passagem, pelo endividamento na venda de produtos no armazém do fazendeiro), a dependência da roça de alimentos (meio de vida produzido diretamente pelo trabalhador), e a exclusão do acesso à propriedade da terra pela Lei de Terras.</p>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Important</span>Mecanismo estrutural do cativeiro da terra
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>O nexo estrutural central da argumentação de Martins: a Lei de Terras de 1850 não foi uma política fundiária qualquer — foi o instrumento jurídico-institucional que converteu a terra em equivalente de capital, tornando a compra o único acesso legítimo à propriedade. Isso produziu artificialmente uma superpopulação relativa fictícia — uma “falsa carência de terras” para o trabalho familiar — que tornava compulsório o trabalho dos imigrantes pobres nas fazendas de café. O cativeiro da terra era, portanto, a própria condição de possibilidade do trabalho “livre” como forma de sujeição não capitalista ao capital.</p>
+</div>
+</div>
+</section>
+<section id="renda-fundiária-e-reprodução-capitalista-do-capital-cap.1-3552" class="level3" data-number="3.4">
+<h3 data-number="3.4" class="anchored" data-anchor-id="renda-fundiária-e-reprodução-capitalista-do-capital-cap.1-3552"><span class="header-section-number">3.4</span> Renda fundiária e reprodução capitalista do capital [Cap.1 §35–§52]</h3>
+<p>A longa seção central do capítulo aprofunda a análise teórica da renda territorial no capitalismo brasileiro. Martins retoma a análise marxiana da renda fundiária e suas três formas — renda em trabalho, renda em espécie e renda em dinheiro — para demonstrar que o colonato era essencialmente uma forma de <strong>renda em trabalho e em espécie</strong> que se revestia superficialmente da forma monetária nas parcelas de pagamento em dinheiro. O capital do fazendeiro não era um capital que se realizava predominantemente como capital industrial ou produtivo, mas como capital que obtinha renda fundiária capitalizada.</p>
+<p>O fazendeiro de café, ao mesmo tempo rentista e capitalista, exemplificava a unicidade de capital e propriedade da terra que inaugurou e difundiu rapidamente no Brasil “a modernidade desse capitalismo singular”. A expansão para zonas novas (a terra-roxa de Ribeirão Preto e da Alta Mogiana), movida pela renda diferencial da terra mais fértil, e a diversificação dos investimentos dos fazendeiros em ferrovias, bancos, indústrias e empresas comerciais a partir da última década do século XIX, compõem o quadro de um empresário híbrido — o “fazendeiro-capitalista” — que não era simplesmente um proprietário fundiário pré-capitalista.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 4:</strong> Martins registra que a contabilidade das fazendas cafeeiras era organizada com base em livros de contas-correntes — contabilidade de circulação, não de custos —, indicando que a racionalidade do capital personificada pelo fazendeiro se esgotava no nível da circulação das mercadorias. A ausência de contabilidade de custos nas fazendas é tomada como evidência da natureza comercial (e não industrial) do capital cafeeiro.</p>
+</blockquote>
+</section>
+<section id="imigração-subsidiada-e-a-produção-artificial-da-escassez-de-terras-cap.1-5372" class="level3" data-number="3.5">
+<h3 data-number="3.5" class="anchored" data-anchor-id="imigração-subsidiada-e-a-produção-artificial-da-escassez-de-terras-cap.1-5372"><span class="header-section-number">3.5</span> Imigração subsidiada e a produção artificial da escassez de terras [Cap.1 §53–§72]</h3>
+<p>Martins analisa detidamente o mecanismo pelo qual o Estado brasileiro produziu a superpopulação relativa necessária à sujeição do trabalho livre. A imigração em massa subsidiada pelo Estado — cujos custos de transporte e alojamento eram socializados pela Fazenda Pública — foi o instrumento político central. O imigrante chegava ao Brasil “desprovido de meios”, sob a tutela do fazendeiro, condicionado a trabalhar na fazenda por tempo indeterminado antes de poder acumular o pecúlio necessário à compra de terra.</p>
+<p>A Lei de Terras de 1850 e a política de imigração subsidiada funcionavam como sistema integrado de coerção não capitalista da força de trabalho. Aqui reside o “cativeiro da terra”: a terra livre, monopolizada pelo Estado e pelos fazendeiros, tornava o trabalho livre compulsório. O Conselho de Estado, em consulta de 1842 já na fase de gestação da Lei de Terras, enunciou com clareza o princípio: “tornar mais custosa a aquisição de terras” para garantir que o imigrante pobre alugasse “o seu trabalho efetivamente por algum tempo, antes de obter meios de se fazer proprietário.”</p>
+</section>
+<section id="composição-orgânica-do-capital-e-trabalho-no-colonato-cap.1-7392" class="level3" data-number="3.6">
+<h3 data-number="3.6" class="anchored" data-anchor-id="composição-orgânica-do-capital-e-trabalho-no-colonato-cap.1-7392"><span class="header-section-number">3.6</span> Composição orgânica do capital e trabalho no colonato [Cap.1 §73–§92]</h3>
+<p>A seção final do capítulo articula a análise da produção de café à teoria marxiana da composição orgânica do capital. A produção de café se baseava em uma aparente alta composição orgânica do capital (dado o alto custo das terras e dos cafezais em implantação), mas na verdade escondia uma baixíssima composição porque o trabalhador colono produzia diretamente uma parcela considerável dos seus próprios meios de vida (roça, horta, galinhas). Isso significava que o capital não precisava desembolsar o equivalente integral do valor da força de trabalho — parte desse valor era produzida pelo próprio trabalhador dentro da fazenda, mediante acesso concedido pelo fazendeiro à terra para cultivo de subsistência.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>Implicação teórica para a teoria da mais-valia
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>A produção direta dos meios de vida pelo colono equivalia a uma forma de extração de mais-valia absoluta disfarçada de relação não monetária: o fazendeiro se apropriava de trabalho não pago (o trato dos cafezais e a colheita) e ao mesmo tempo não precisava pagar integralmente a reprodução da força de trabalho (que era parcialmente garantida pela roça e pela horta). O colonato era, portanto, não apenas uma relação não capitalista de produção, mas uma forma de extração intensificada de mais-valia através de mecanismos não salariais.</p>
+</div>
+</div>
+<hr>
+</section>
+</section>
+<section id="capítulo-2-uma-imigração-tardia-pp.-147189" class="level2" data-number="4">
+<h2 data-number="4" class="anchored" data-anchor-id="capítulo-2-uma-imigração-tardia-pp.-147189"><span class="header-section-number">4</span> Capítulo 2: Uma imigração tardia (pp.&nbsp;147–189)</h2>
+<section id="o-pressuposto-homogeneizante-e-a-diferença-italiana-espanhola-cap.2-16" class="level3" data-number="4.1">
+<h3 data-number="4.1" class="anchored" data-anchor-id="o-pressuposto-homogeneizante-e-a-diferença-italiana-espanhola-cap.2-16"><span class="header-section-number">4.1</span> O pressuposto homogeneizante e a diferença italiana-espanhola [Cap.2 §1–§6]</h3>
+<p>O segundo capítulo parte de uma constatação empírica: é lugar-comum tratar os imigrantes de diferentes nacionalidades como se tivessem cumprido uma mesma trajetória no Brasil. O perfil do “imigrante típico” na literatura é o do imigrante italiano — e o imigrante espanhol é geralmente subsumido nessa categoria. Martins argumenta que essa homogeneização encobre diferenças importantes que revelam, na verdade, transformações nas próprias relações de trabalho.</p>
+<p>A perspectiva comparativa adotada não tem como objetivo principal o imigrante espanhol em si, mas usar a diferença representada por ele para analisar a dinâmica do colonato e suas transformações ao longo do tempo. A diferenciação do trabalhador rural pela nacionalidade encobria um fato crucial: a diferença de nacionalidade frequentemente escondia <strong>mudanças nas relações de trabalho</strong> e nas relações entre renda fundiária e acumulação de capital.</p>
+</section>
+<section id="diferenças-estruturais-entre-as-imigrações-italiana-e-espanhola-cap.2-716" class="level3" data-number="4.2">
+<h3 data-number="4.2" class="anchored" data-anchor-id="diferenças-estruturais-entre-as-imigrações-italiana-e-espanhola-cap.2-716"><span class="header-section-number">4.2</span> Diferenças estruturais entre as imigrações italiana e espanhola [Cap.2 §7–§16]</h3>
+<p>O imigrante italiano chegou ao Brasil em um momento em que o colonato estava emergindo de diferentes experimentos de parceria e empreitada, quando a questão do trabalho livre ainda estava relativamente aberta. As reações dos imigrantes italianos às formas assumidas pela exploração do trabalho, mesmo dispersas e desarticuladas, tiveram papel decisivo na demolição das concepções escravistas escondidas por trás da dominação pessoal do fazendeiro e do endividamento do trabalhador.</p>
+<p>O imigrante espanhol chegou em momento substancialmente diferente. A partir de 1905, quando a imigração italiana subvencionada foi interrompida pelo Decreto Prinetti (que proibiu a emigração subsidiada para o Brasil a partir da Itália), a imigração espanhola tornou-se a mais numerosa por alguns anos. Esses imigrantes se destinaram a zonas novas, menos férteis, onde a expansão do café avançava sobre terras de menor qualidade. Diferentemente dos italianos, a imigração espanhola era <strong>predominantemente de camponeses</strong> — sem a estratificação de classes da italiana, que incluía comerciantes, capitalistas, artesãos, intelectuais e operários.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 5:</strong> O autor cita um jornal de língua espanhola editado em São Paulo, de 1904: “Com quantos capitalistas, comerciantes, industriais, etc., etc., conta a colônia [espanhola]?” — a questão retórica ilustra a homogeneidade proletária da imigração espanhola. No censo de 1920, havia apenas 267 estabelecimentos industriais pertencentes a espanhóis em todo o Brasil, contra 2.119 italianos, sendo estas igualmente pequenas. [nota incluída por relevância argumentativa]</p>
+</blockquote>
+</section>
+<section id="o-colonato-em-transformação-da-sujeição-à-monetização-parcial-cap.2-1727" class="level3" data-number="4.3">
+<h3 data-number="4.3" class="anchored" data-anchor-id="o-colonato-em-transformação-da-sujeição-à-monetização-parcial-cap.2-1727"><span class="header-section-number">4.3</span> O colonato em transformação: da sujeição à monetização parcial [Cap.2 §17–§27]</h3>
+<p>Uma das principais modificações nas relações de trabalho, imposta em grande parte pela ação e pressão dos próprios imigrantes italianos, foi a ampliação do pagamento em dinheiro e o acerto mensal (em vez do acerto anual) com o trabalhador. Quando o imigrante espanhol chegou, o colonato já estava modificado por essas pressões. A perspectiva do imigrante espanhol estava, portanto, mais próxima do trabalho assalariado — resultante da lenta desagregação do colonato.</p>
+<p>O pagamento em dinheiro era, contudo, um ardil que em termos reais empobreceu o imigrante espanhol ainda mais. Um caso ilustrativo de 1908: um colono espanhol com mulher e três filhos, ao fim de um mês de trabalho, recebeu apenas Rs. 24$000 — insuficientes para a sobrevivência da família. No colonato típico, ao menos o trabalhador podia subsistir com o produto da horta e da agricultura intercalar. Os imigrantes espanhóis desse período estão entre os mais pobres e os de menor mobilidade social.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>Implicação comparativa
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>O capítulo 2 funciona como um experimento quase natural dentro do colonato: ao comparar imigrantes de características similares (ambos pobres, majoritariamente rurais) que chegaram em momentos distintos e em condições distintas do mercado de trabalho cafeeiro, Martins isola analiticamente a variável “momento histórico do colonato” para explicar trajetórias diferenciadas. O imigrante espanhol, chegando numa fase de maior monetização e deterioração das condições do colonato, obteve pior resultado mesmo sendo individualmente similar ao italiano.</p>
+</div>
+</div>
+<hr>
+</section>
+</section>
+<section id="capítulo-3-do-trabalho-escravo-ao-assalariado-nas-fazendas-de-café-18801914-pp.-191257" class="level2" data-number="5">
+<h2 data-number="5" class="anchored" data-anchor-id="capítulo-3-do-trabalho-escravo-ao-assalariado-nas-fazendas-de-café-18801914-pp.-191257"><span class="header-section-number">5</span> Capítulo 3: Do trabalho escravo ao assalariado nas fazendas de café, 1880–1914 (pp.&nbsp;191–257)</h2>
+<section id="quatro-problemas-população-produção-e-força-de-trabalho-cap.3-17" class="level3" data-number="5.1">
+<h3 data-number="5.1" class="anchored" data-anchor-id="quatro-problemas-população-produção-e-força-de-trabalho-cap.3-17"><span class="header-section-number">5.1</span> Quatro problemas: população, produção e força de trabalho [Cap.3 §1–§7]</h3>
+<p>A tese principal deste capítulo é que ao modo de explorar a força de trabalho nas fazendas de café corresponderam momentos específicos do movimento da população — especialmente a imigração estrangeira e as migrações internas. Tanto a tese de uma transição do trabalho escravo ao trabalho assalariado quanto a tese de que a imigração teria uma dinâmica convergente são recusadas. O autor enuncia quatro problemas estruturais que organizam o capítulo:</p>
+<p>O primeiro problema é: por que, dispondo o país de uma grande massa de homens livres e pobres no campo, teve o café que recorrer à imigração estrangeira para substituir o escravo? O segundo problema: por que o escravo não foi substituído por trabalhadores assalariados, mas por formas não capitalistas de exploração da força de trabalho (parceria, colonato)? O terceiro problema: como se combinaram a dinâmica da população e a dinâmica da produção? O quarto problema: qual a relação entre as características do movimento populacional e o modo de organizar o trabalho na fazenda?</p>
+</section>
+<section id="a-dívida-e-a-roça-como-mecanismos-de-sujeição-cap.3-818" class="level3" data-number="5.2">
+<h3 data-number="5.2" class="anchored" data-anchor-id="a-dívida-e-a-roça-como-mecanismos-de-sujeição-cap.3-818"><span class="header-section-number">5.2</span> A dívida e a roça como mecanismos de sujeição [Cap.3 §8–§18]</h3>
+<p>O autor examina detidamente as respostas aos quatro problemas estruturais. A principal razão pela qual o café recorreu à imigração estrangeira em vez de incorporar os camponeses livres brasileiros residia não em razões de competência ou cultura, mas na própria estrutura das relações de sujeição necessárias ao colonato. Os camponeses livres do campo brasileiro — caboclos, caipiras, moradores de fazenda — haviam construído ao longo de gerações formas de vida e trabalho que os tornavam relativamente resistentes à sujeição total ao fazendeiro. Já o imigrante estrangeiro chegava completamente desprovido de meios, sem rede de proteção, sem terra, sem parentes estabelecidos — condição que o tornava maximamente dependente do fazendeiro.</p>
+<p>A dívida da passagem era o mecanismo inaugural de sujeição: ao chegar ao Brasil com a passagem paga pelo fazendeiro (ou pelo governo), o imigrante imediatamente acumulava um débito que precisaria saldar com o trabalho. Sobre esse débito incidiam juros. A isso se somavam as compras no armazém do fazendeiro — frequentemente o único fornecedor na fazenda —, que eram debitadas nas contas-correntes do colono. O resultado era um sistema de endividamento perpétuo análogo ao peonage norte-americano: o colono que quisesse mudar de fazenda precisava que o novo fazendeiro “comprasse” sua dívida do anterior.</p>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Important</span>Sujeição por dívida como forma de trabalho não capitalista
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>A subjugação por dívida anulava completamente não só a liberdade de trabalho do colono, mas também a sua liberdade civil. O casamento de um colono dependia do assentimento do patrão; a ausência não autorizada da fazenda era motivo de tensão severa. Martins demonstra que a distância entre a condição de um escravo negro e a de um colono italiano, no plano prático, era muito menor do que a distância jurídica entre os dois regimes sugere.</p>
+</div>
+</div>
+</section>
+<section id="a-lei-de-terras-de-1850-como-mecanismo-estrutural-cap.3-1932" class="level3" data-number="5.3">
+<h3 data-number="5.3" class="anchored" data-anchor-id="a-lei-de-terras-de-1850-como-mecanismo-estrutural-cap.3-1932"><span class="header-section-number">5.3</span> A Lei de Terras de 1850 como mecanismo estrutural [Cap.3 §19–§32]</h3>
+<p>A seção sobre a Lei de Terras é a mais densa do capítulo. A lei de 1850 não foi uma política fundiária neutra — foi um instrumento deliberado de criação das condições de sujeição do trabalho imigrante. Uma consulta do Conselho de Estado, já em 1842, na fase de gestação da lei, estabelecia com clareza o princípio: tornando mais custosa a aquisição de terras, garantia-se que o imigrante pobre alugasse seu trabalho por algum tempo antes de obter meios de se tornar proprietário.</p>
+<p>O longo debate de mais de trinta anos que precedeu a aprovação da lei havia considerado a alternativa da reforma agrária — a fragmentação do latifúndio e a disseminação da pequena propriedade — como instrumento de separação entre a propriedade da terra e a do capital, pressuposto da libertação do capital e da emancipação do capitalismo. Essa alternativa foi derrotada. Os grandes proprietários, já modernos no momento da transição para o trabalho livre porque conscientes de que sua riqueza era tolhida pela escravidão, optaram pela conversão da terra em equivalente de mercadoria — instrumento de coerção do trabalho livre.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 6:</strong> O Registro Paroquial de Terras, determinado pela Lei de Terras em 1854, era o instrumento de consolidação da propriedade fundiária. Os leitores dos Registros de diferentes regiões constatam que os posseiros — muitos dos quais mestiços remanescentes da escravidão indígena — foram frequentemente levados ao pároco para declarar expressamente que as terras que ocupavam eram do fazendeiro, não deles. Nesse ato, sem o saber, renunciavam ao direito que a própria lei lhes conferia. Era a “suave” violência cultural e política da dominação patrimonial.</p>
+</blockquote>
+</section>
+<section id="formas-de-trabalho-e-movimento-da-população-cap.3-3352" class="level3" data-number="5.4">
+<h3 data-number="5.4" class="anchored" data-anchor-id="formas-de-trabalho-e-movimento-da-população-cap.3-3352"><span class="header-section-number">5.4</span> Formas de trabalho e movimento da população [Cap.3 §33–§52]</h3>
+<p>O capítulo analisa em detalhe as formas específicas de organização do trabalho no colonato e sua relação com o movimento da população. Entre 1877 e 1914, a região cafeeira de São Paulo recebeu 1.779.470 imigrantes, dos quais 845.816 eram italianos. O movimento de população estava diretamente determinado pelo modo de exploração da força de trabalho e pelo modo de criação da riqueza através do café.</p>
+<p>O colonato era fundamentalmente baseado no trabalho familiar: o colono contratava por família, não por indivíduo. Isso explica a predominância de famílias nas correntes migratórias subsidiadas. A contratação familiar permitia ao fazendeiro obter simultaneamente o trabalho do colono, da esposa e dos filhos, pagando apenas um salário parcial ao chefe de família. O trabalho das mulheres e das crianças — essencial para a carpa dos cafezais e para a roça de alimentos — era assim incorporado ao processo produtivo sem custo adicional para o capital.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 7:</strong> O autor distingue o colhedor assalariado temporário (camarada) do colono: o primeiro era um trabalhador sem vínculo permanente com a fazenda, contratado especificamente para a colheita, que recebia pagamento em dinheiro por quantidade colhida. A existência desse trabalhador assalariado temporário não deve ser confundida com a transformação geral do colonato em relação salarial. [nota incluída por relevância argumentativa]</p>
+</blockquote>
+<p>A fase de beneficiamento moderno do café — com máquinas secadoras e descascadeiras — inaugurou uma nova frente de monetização da relação de trabalho: as tarefas de beneficiamento eram contratadas separadamente e pagas em dinheiro por unidade produzida, em contraste com as tarefas de trato (carpa) e colheita, que compunham o núcleo do colonato. Essa segmentação gradualmente enfraqueceu a lógica interna do colonato e abriu caminho para formas mais próximas do assalariamento.</p>
+<hr>
+</section>
+</section>
+<section id="capítulo-4-as-relações-de-classe-e-a-produção-ideológica-da-noção-de-trabalho-pp.-283305" class="level2" data-number="6">
+<h2 data-number="6" class="anchored" data-anchor-id="capítulo-4-as-relações-de-classe-e-a-produção-ideológica-da-noção-de-trabalho-pp.-283305"><span class="header-section-number">6</span> Capítulo 4: As relações de classe e a produção ideológica da noção de trabalho (pp.&nbsp;283–305)</h2>
+<section id="trabalho-livre-e-origem-do-contingente-operário-cap.4-17" class="level3" data-number="6.1">
+<h3 data-number="6.1" class="anchored" data-anchor-id="trabalho-livre-e-origem-do-contingente-operário-cap.4-17"><span class="header-section-number">6.1</span> Trabalho livre e origem do contingente operário [Cap.4 §1–§7]</h3>
+<p>O capítulo analisa a produção ideológica da noção de trabalho como contribuição ao entendimento das relações de classe na sociedade brasileira. O trabalho, sendo o núcleo das relações de classe, possibilita a compreensão das formas do conflito social e do que, aparentemente, surge na cena política como acomodação entre classes historicamente contrapostas.</p>
+<p>O contingente de trabalhadores livres no Brasil era constituído predominantemente de imigrantes estrangeiros — italianos, espanhóis, portugueses, alemães — com experiência basicamente rural e camponesa, não operária. O processo de acumulação primitiva que separa o trabalhador de seus meios de produção ocorreu <strong>fora</strong> da sociedade brasileira, nas sociedades de origem: a própria emigração foi episódio dessa expropriação original. A sociedade brasileira recebeu o trabalhador livre sem ter realizado a acumulação responsável por tal liberação — a terra permaneceu monopolizada pelos grandes proprietários e pelo Estado.</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Conceito-chave: acumulação primitiva à brasileira</strong> — A Lei de Terras de 1850, ao determinar o Registro Paroquial das terras, produziu na prática o nosso tênue equivalente da acumulação primitiva: a expropriação legal e “suave” dos posseiros — especialmente mestiços remanescentes da escravidão indígena —, que foram levados a registrar em nome do fazendeiro terras que eram efetivamente suas, pela dominação patrimonial que os reduzia a seres sem vontade própria.</p>
+</div>
+</div>
+</section>
+<section id="a-ética-do-trabalho-como-produção-burguesa-cap.4-818" class="level3" data-number="6.2">
+<h3 data-number="6.2" class="anchored" data-anchor-id="a-ética-do-trabalho-como-produção-burguesa-cap.4-818"><span class="header-section-number">6.2</span> A ética do trabalho como produção burguesa [Cap.4 §8–§18]</h3>
+<p>A interpretação conservadora e restauracionista que o imigrante desenvolveu sobre sua trajetória — a ideia de que a sociedade brasileira oferecia de volta o que lhe haviam tirado no país de origem — criou o terreno subjetivo para a ideologia do <em>fare l’America</em>: a ascensão social pelo trabalho. Mas Martins demonstra que essa ética não era uma característica cultural ou psicológica do imigrante — era uma <strong>produção da burguesia</strong>.</p>
+<p>O advento do trabalho livre separou a pessoa do trabalhador da sua força de trabalho. Os mecanismos ideológicos que legitimavam a sujeição da pessoa pela desigualdade de origem (brancos como filhos de Abel, negros como filhos de Caim) perderam eficácia. A sujeição da pessoa foi substituída pela sujeição do trabalho ao capital. Sob a igualdade jurídica formal entre patrão e operário, como justificar que um ficasse cada vez mais rico e o outro não? Essa é a indagação oculta que norteia todo o debate sobre a Abolição.</p>
+<p>A resposta elaborada pela burguesia foi reconhecer que o trabalho é a fonte da riqueza — mas manipular esse reconhecimento de modo a torná-lo instrumento da dominação. O caminho: era preciso trabalhar para enriquecer; mas como a terra era monopolizada, o trabalhador precisava trabalhar para um terceiro (fazendeiro, patrão) para ganhar o dinheiro que comprasse a terra que supostamente o enriqueceria. A riqueza não frutificaria do trabalho que se acrescentava à riqueza já criada, mas da ética que associava trabalho e privação. A vida penosa e sofrida resultante da exploração legitimava-se na concepção do trabalho como condição da riqueza própria.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 8:</strong> O autor destaca que a Lei de Terras consagrava, ao mesmo tempo em que o criava, o que não existia plenamente: a terra como equivalente de capital. Ao tornar o acesso à terra dependente da compra, mobilizou as instituições jurídicas e policiais na defesa da propriedade fundiária, garantindo o caráter compulsório da venda da força de trabalho.</p>
+</blockquote>
+</section>
+<section id="a-origem-comercial-e-o-caráter-de-classe-da-abolição-cap.4-1930" class="level3" data-number="6.3">
+<h3 data-number="6.3" class="anchored" data-anchor-id="a-origem-comercial-e-o-caráter-de-classe-da-abolição-cap.4-1930"><span class="header-section-number">6.3</span> A origem comercial e o caráter de classe da abolição [Cap.4 §19–§30]</h3>
+<p>O capítulo avança para uma análise da gênese histórica da escravidão negra como determinada pelo comércio — e não o contrário. A produção fundada no trabalho escravo resultou do comércio de escravos. Daí que o tráfico negreiro constituísse o ponto nuclear e sensível da escravidão: extinto o tráfico, a escravidão estava condenada. A economia colonial brasileira pode ser redefinida como regime em que a produção é subjugada pelo comércio — não só o produto do trabalho, mas o próprio trabalhador, é objeto de comércio.</p>
+<p>A abolição não foi processo estritamente interno: resultou em grande parte de pressões da Inglaterra, que havia abolido a escravidão nas Índias Ocidentais em 1833 e pressionava o Brasil para eliminar a concorrência “desleal” do açúcar escravista brasileiro com o açúcar colonial britânico. A dimensão internacional da abolição — vinculada a interesses de diferentes grupos de pressão nas relações comerciais entre os impérios — é assim incorporada à análise.</p>
+<hr>
+</section>
+</section>
+<section id="capítulo-5-o-café-e-a-gênese-da-industrialização-em-são-paulo-pp.-307355" class="level2" data-number="7">
+<h2 data-number="7" class="anchored" data-anchor-id="capítulo-5-o-café-e-a-gênese-da-industrialização-em-são-paulo-pp.-307355"><span class="header-section-number">7</span> Capítulo 5: O café e a gênese da industrialização em São Paulo (pp.&nbsp;307–355)</h2>
+<section id="a-controvérsia-na-literatura-furtado-simonsen-e-a-industrialização-inconsciente-cap.5-19" class="level3" data-number="7.1">
+<h3 data-number="7.1" class="anchored" data-anchor-id="a-controvérsia-na-literatura-furtado-simonsen-e-a-industrialização-inconsciente-cap.5-19"><span class="header-section-number">7.1</span> A controvérsia na literatura: Furtado, Simonsen e a industrialização “inconsciente” [Cap.5 §1–§9]</h3>
+<p>Este capítulo é uma revisão crítica da literatura sobre a industrialização brasileira. Martins identifica falhas em estudos referenciais: afirmações, hipóteses e conclusões que são negadas pelos fatos empíricos. A tendência ao esquematismo — apoiado no que se conhece dos países de referência da história da industrialização — induz à leitura seletiva das informações e a conclusões questionáveis.</p>
+<p>O ponto de partida é a crítica a Celso Furtado (<em>Formação econômica do Brasil</em>): a obra surpreende pela ausência de um capítulo sobre as origens da indústria no Brasil, passando diretamente da transição para o trabalho assalariado (século XIX) à transição para o sistema industrial (século XX) sem esclarecer a gênese industrial. Furtado argumenta que a política do governo durante a Crise de 1929 — a compra e queima do café com crédito interno — produziu uma “socialização das perdas” que, inconscientemente, estimulou a industrialização por substituição de importações.</p>
+<p>Martins questiona o caráter “inconsciente” dessa política: há indicações de que o governo brasileiro, mesmo antes da Revolução de 1930, estava ciente de que evitar o desemprego era parte dos objetivos da política econômica. O próprio José Maria Whitaker, responsável pela política econômica do Governo Provisório de Vargas, explica as decisões governamentais como resposta à paralisação industrial e comercial causada pela crise cafeeira — não como política meramente protetora dos cafeicultores.</p>
+</section>
+<section id="a-dissolução-da-dicotomia-agro-industrial-cap.5-1022" class="level3" data-number="7.2">
+<h3 data-number="7.2" class="anchored" data-anchor-id="a-dissolução-da-dicotomia-agro-industrial-cap.5-1022"><span class="header-section-number">7.2</span> A dissolução da dicotomia agro-industrial [Cap.5 §10–§22]</h3>
+<p>A contribuição teórica central do capítulo é a dissolução da dicotomia entre burguesia agrária (cafeicultores) e burguesia industrial, amplamente pressuposta na literatura. Martins demonstra empiricamente que muitos fazendeiros eram simultaneamente acionistas de empresas não agrícolas, bancos e indústrias — e que muitos industriais se tornaram fazendeiros para verticalizar suas economias. O Estado brasileiro não estava exclusivamente comprometido com os representantes da economia do café, nem refém dos seus interesses, nem contraposto aos industriais.</p>
+<p>Os autores que pressupõem essa dicotomia forçam o uso de um esquema interpretativo que toma a Crise de 1929 como divisora numa equivocada passagem de “pré-capitalismo a capitalismo”, e a Revolução de outubro de 1930 como a “revolução burguesa” de que o Brasil carecia. Martins desmistifica esse esquema ao reconstituir a continuidade entre os capitais cafeeiro, comercial, financeiro e industrial: trata-se do mesmo empresário de transição que acumulou riqueza em diferentes frentes.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>Contribuição ao debate sobre desenvolvimento periférico
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>A análise de Martins sobre a gênese da industrialização antecipa debates posteriores sobre capitalismo dependente e sobre o papel do Estado na industrialização brasileira. Ao mostrar que o empresário cafeeiro e o industrial não eram classes distintas com interesses conflitantes, mas frequentemente o mesmo agente econômico em diferentes atividades, dissolve a base da teoria da “revolução burguesa” como ruptura com a herança agrária.</p>
+</div>
+</div>
+<hr>
+</section>
+</section>
+<section id="capítulo-6-empresários-e-trabalhadores-de-origem-italiana-no-desenvolvimento-industrial-brasileiro-em-1880-e-1914-pp.-357435" class="level2" data-number="8">
+<h2 data-number="8" class="anchored" data-anchor-id="capítulo-6-empresários-e-trabalhadores-de-origem-italiana-no-desenvolvimento-industrial-brasileiro-em-1880-e-1914-pp.-357435"><span class="header-section-number">8</span> Capítulo 6: Empresários e trabalhadores de origem italiana no desenvolvimento industrial brasileiro em 1880 e 1914 (pp.&nbsp;357–435)</h2>
+<section id="três-destinos-do-imigrante-italiano-cap.6-18" class="level3" data-number="8.1">
+<h3 data-number="8.1" class="anchored" data-anchor-id="três-destinos-do-imigrante-italiano-cap.6-18"><span class="header-section-number">8.1</span> Três destinos do imigrante italiano [Cap.6 §1–§8]</h3>
+<p>O capítulo mais extenso da versão ampliada da obra distingue analiticamente três trajetórias distintas dos imigrantes italianos no Brasil: (1) os destinados compulsoriamente às fazendas de café do interior de São Paulo, constituindo a grande maioria; (2) os enviados para núcleos coloniais oficiais, geralmente em regiões pioneiras do Sul e Sudeste; (3) os que se dirigiram às cidades como pequenos negociantes, artesãos, operários ou capitalistas.</p>
+<p>A impressão difundida de que os imigrantes italianos vieram como trabalhadores assalariados e que muitos enriqueceram pelo trabalho árduo é desmistificada em ambas as direções: a grande massa não trabalhou em condições de assalariamento clássico, e os que se tornaram grandes empresários têm origem muito distinta dos que foram destinados ao trabalho nos cafezais. A confusão entre as três trajetórias serve à sustentação do mito da ascensão social pelo trabalho.</p>
+</section>
+<section id="imigração-subsidiada-como-mecanismo-de-sujeição-cap.6-921" class="level3" data-number="8.2">
+<h3 data-number="8.2" class="anchored" data-anchor-id="imigração-subsidiada-como-mecanismo-de-sujeição-cap.6-921"><span class="header-section-number">8.2</span> Imigração subsidiada como mecanismo de sujeição [Cap.6 §9–§21]</h3>
+<p>O período analisado (1877–1914) recebeu 1.728.620 imigrantes apenas na região de São Paulo, dos quais 845.816 eram italianos. A imigração subvencionada atingiu 57,5% do total dos imigrantes, chegando a 98,9% em 1891. Os imigrantes subvencionados chegavam já direcionados para fazendas específicas: na estação ferroviária de chegada, fazendeiros ou seus gerentes percorriam a plataforma examinando e escolhendo imigrantes — procedimento que reproduzia a lógica da escolha de escravos no mercado.</p>
+<p>O sistema de dívida da passagem, de alojamento e de mantimentos durante o período de adaptação criava imediatamente um vínculo de dependência que cerceava a liberdade do colono. A movimentação do imigrante dependia dos seus recursos próprios, geralmente escassos. Além disso, a imigração subvencionada recrutava de preferência <strong>famílias</strong>, não trabalhadores individuais — o que garantia ao fazendeiro o trabalho de todos os membros da família pelo contrato com o chefe.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 9:</strong> Contratos de engajamento assinados em Gênova entre recrutadores-concessionários do governo brasileiro e os interessados em migrar estabeleciam condições rígidas para a localização final dos imigrantes, sendo extremamente difícil a remoção para outras áreas, a reemigração ou o repatriamento. O imigrante que tentava fugir da Hospedaria de Imigrantes para ficar na cidade de São Paulo era exceção audaciosa, não regra. [nota incluída por relevância argumentativa]</p>
+</blockquote>
+</section>
+<section id="os-empresários-italianos-origem-capital-e-condição-não-capitalista-cap.6-2242" class="level3" data-number="8.3">
+<h3 data-number="8.3" class="anchored" data-anchor-id="os-empresários-italianos-origem-capital-e-condição-não-capitalista-cap.6-2242"><span class="header-section-number">8.3</span> Os empresários italianos: origem, capital e condição não capitalista [Cap.6 §22–§42]</h3>
+<p>A seção central do capítulo desfaz a mitologia em torno da emergência dos empresários italianos. Os grandes industriais de origem italiana — como Francisco Matarazzo — não eram ex-colonos que enriqueceram pelo trabalho árduo nas fazendas. Tinham origem social distinta (pequena burguesia europeia, em muitos casos com algum capital de início) e se instalaram nas cidades, não nas fazendas. Sua trajetória foi a de capitalistas que encontraram oportunidades na economia urbana em expansão graças à prosperidade cafeeira — não a trajetória do imigrante pobre que virou rico pelo esforço.</p>
+<p>A pequena e média indústria, por décadas o abrigo da classe operária nascente fora dos marcos da grande indústria, tinha caráter predominantemente artesanal. Muitos estabelecimentos classificados como “indústria” eram oficinas com menos de dez operários, dirigidas pelo próprio proprietário com caráter pessoal e patrimonial. O trabalhador artesão que “subia” à condição de pequeno patrão não realizava uma ascensão à burguesia industrial clássica — realizava uma versão em escala reduzida da mesma condição de exploração, agora como explorador de si mesmo e de uns poucos auxiliares.</p>
+<p>O autor analisa também o movimento operário italiano em São Paulo — as greves de 1901 a 1917 —, mostrando que o caráter artesanal do trabalho impregnou a consciência dos trabalhadores e produziu uma cultura de classe marcada pela aspiração ao trabalho independente, não à transformação das relações de classe. O anarcossindicalismo e o socialismo utópico, predominantes no movimento operário italiano de São Paulo, expressavam essa aspiração ao trabalho autônomo — forma proletarizada da ética burguesa do trabalho independente.</p>
+<hr>
+</section>
+</section>
+<section id="capítulo-7-o-imaginário-da-ascensão-social-pelo-trabalho-a-morte-do-burguês-mítico-pp.-437463" class="level2" data-number="9">
+<h2 data-number="9" class="anchored" data-anchor-id="capítulo-7-o-imaginário-da-ascensão-social-pelo-trabalho-a-morte-do-burguês-mítico-pp.-437463"><span class="header-section-number">9</span> Capítulo 7: O imaginário da ascensão social pelo trabalho / A morte do burguês mítico (pp.&nbsp;437–463)</h2>
+<section id="o-mito-matarazzo-e-a-proletarização-das-aspirações-burguesas-cap.7-110" class="level3" data-number="9.1">
+<h3 data-number="9.1" class="anchored" data-anchor-id="o-mito-matarazzo-e-a-proletarização-das-aspirações-burguesas-cap.7-110"><span class="header-section-number">9.1</span> O mito Matarazzo e a proletarização das aspirações burguesas [Cap.7 §1–§10]</h3>
+<p>O capítulo final, que reúne dois textos originalmente separados, analisa o mito do burguês self-made como mecanismo ideológico de reprodução da dominação de classe. O caso do conde Francisco Matarazzo — imigrante italiano que chegou ao Brasil em 1881 e construiu um dos maiores impérios industriais da América Latina — é o analisador privilegiado.</p>
+<p>Quando ficou claro que a escravidão seria abolida, a burguesia agrária se preocupou não apenas com a substituição do trabalhador cativo, mas com a forma que deveria assumir a <strong>preservação da dominação burguesa</strong> nas novas condições. O mecanismo ideológico que legitimava a sujeição da pessoa (pela desigualdade racial de origem) perdera a eficácia com o advento do trabalho livre. Sob a igualdade formal entre patrão e operário, era necessário um novo mecanismo de legitimação da desigualdade econômica.</p>
+<p>O primeiro passo foi reconhecer que o trabalho é a fonte da riqueza — mas de imediato bloquear o acesso autônomo do trabalhador à terra (via Lei de Terras), tornando compulsório o trabalho assalariado. O segundo passo foi construir uma narrativa em que o enriquecimento através do trabalho áreo e da privação sistemática era a forma legítima e real de mobilidade social. O burguês mítico era a prova viva dessa narrativa.</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Conceito-chave: burguês mítico</strong> — Figura ideológica que representa o trabalhador que se tornou capitalista pelo esforço próprio, pela privação e pelo trabalho árduo. Funciona como prova empírica de que a ordem capitalista é justa e oferece oportunidades iguais a todos. Matarazzo foi o principal operacionalizador desse mito no Brasil, cultivando deliberadamente sua autobiografia como colono-pobre-que-enriqueceu junto aos trabalhadores, enquanto mantinha, junto à burguesia, a narrativa de sua origem fidalga italiana.</p>
+</div>
+</div>
+</section>
+<section id="a-vida-do-burguês-como-morte-do-mito-cap.7-1118" class="level3" data-number="9.2">
+<h3 data-number="9.2" class="anchored" data-anchor-id="a-vida-do-burguês-como-morte-do-mito-cap.7-1118"><span class="header-section-number">9.2</span> A vida do burguês como morte do mito [Cap.7 §11–§18]</h3>
+<p>O conde Francisco Matarazzo Júnior (conde Chiquinho) personificou, sem o saber, a decadência do mais importante mito de sustentação da exploração de classe. Nascido já no palacete da Avenida Paulista, educado nas pretensões aristocráticas do pai (que havia recebido o título condal por serviços ao fascismo de Mussolini), o conde Chiquinho viveu apenas a condição do aristocrata — sem nunca ter sido um imigrante pobre, sem ter trabalhado em fazendas, sem ter passado privações. Sua trajetória negava empiricamente a narrativa do burguês self-made.</p>
+<p>Os quarenta anos de direção do conde Chiquinho (1937–1977) foram quarenta anos de deterioração do mito Matarazzo. Os operários descobriram que, ao contrário do que supunham os seus companheiros da primeira metade do século XX, o trabalho do operário não enriquece o próprio operário. A morte do mito foi facilitada pela constatação de que o conde rico não era consequência do seu próprio trabalho — era herdeiro de um império construído pela exploração de dezenas de milhares de trabalhadores.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 10:</strong> Martins menciona pesquisa empírica realizada em 1974 em vários bairros de São Paulo que comprovou a amplitude do mito Matarazzo, compartilhado inclusive por trabalhadores do Nordeste que o conheciam antes de migrar para São Paulo. O mito havia se tornando um patrimônio cultural da classe operária brasileira — não apenas paulista — ilustrando a força dos mecanismos ideológicos de reprodução da dominação.</p>
+</blockquote>
+</section>
+<section id="o-aburguesamento-das-aspirações-operárias-e-a-ambiguidade-de-classe-cap.7-1924" class="level3" data-number="9.3">
+<h3 data-number="9.3" class="anchored" data-anchor-id="o-aburguesamento-das-aspirações-operárias-e-a-ambiguidade-de-classe-cap.7-1924"><span class="header-section-number">9.3</span> O aburguesamento das aspirações operárias e a ambiguidade de classe [Cap.7 §19–§24]</h3>
+<p>A industrialização brasileira encontrou no mito do burguês enriquecido pelo trabalho e pela vida penosa um ingrediente vital para a legitimação da exploração de classe. Ao contrário da burguesia agrária, que teve que produzir laboriosamente a ideologia de transição do trabalho escravo ao trabalho livre, a burguesia industrial encontrou prontas a justificativa e a legitimação da exploração do trabalhador — herdadas do colonato.</p>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Important</span>O paternalismo e o populismo empresarial como mecanismo ideológico
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>O paternalismo empresarial — cultivado pelo próprio Matarazzo, que visitava suas fábricas e se apresentava como pai de seus operários — e o populismo de empresa (culminando na demonstração de 20 mil trabalhadores nas ruas de São Paulo em 1929 em homenagem ao velho conde) estavam diretamente fundados na concepção ideológica do trabalho como caminho de ascensão. A dominação e a exploração do capital tornaram-se concebidas como legítimas porque a riqueza não seria fruto do trabalho proletário, mas do trabalho próprio do empresário — invertendo a realidade.</p>
+</div>
+</div>
+<p>A morte do burguês mítico ocorreu com a emergência ampla do processo de concentração do capital. O capital concentrado tornou cada vez menos plausível a narrativa de que o trabalhador poderia repetir a trajetória do grande capitalista. Com isso, emergiu na classe operária uma consciência de classe mais clara — mas ambígua: marcada pela tensão entre a consciência do antagonismo entre trabalho proletário criador e a concepção capitalista do trabalho como caminho de ascensão individual.</p>
+<hr>
+</section>
+</section>
+<section id="argumento-sintético" class="level2" data-number="10">
+<h2 data-number="10" class="anchored" data-anchor-id="argumento-sintético"><span class="header-section-number">10</span> Argumento Sintético</h2>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Tese central:</strong> O capitalismo brasileiro não seguiu a trajetória clássica do assalariamento porque instituiu deliberadamente, por meio da Lei de Terras de 1850 e da imigração subsidiada, o cativeiro da terra como mecanismo de coerção do trabalho livre — produzindo o colonato como forma não capitalista de exploração da força de trabalho gerada pelo próprio capital cafeeiro para superar a crise da escravidão sem romper com a economia de exportação.</p>
+<p><strong>Natureza do argumento:</strong> Causal-mecanísmica, de base teórica marxiana heterodoxa (marxiana, não marxista), com fundamento em pesquisa documental histórica. O argumento é ao mesmo tempo uma contribuição teórica à teoria marxiana da renda capitalizada (reinterpretação do escravo como renda capitalizada, não capital fixo) e uma demonstração empírica sobre o processo histórico da transição do trabalho escravo ao trabalho livre em São Paulo (1850–1930).</p>
+<p><strong>O que o texto demonstra:</strong> (1) Que o colonato era uma relação de produção não capitalista produzida pelo próprio capitalismo cafeeiro, não um resíduo pré-capitalista; (2) que a Lei de Terras de 1850 funcionou como mecanismo estrutural de coerção da força de trabalho livre, complementar à cessação do tráfico negreiro; (3) que diferentes ondas imigratórias encontraram configurações distintas da economia cafeeira, revelando a dinâmica evolutiva do colonato; (4) que a ideologia do “trabalho” foi uma produção deliberada da burguesia agrária e industrial para legitimar a exploração de classe nas novas condições do trabalho livre.</p>
+<p><strong>O que fica como hipótese ou agenda:</strong> A extensão do argumento a outras regiões além de São Paulo; o papel da escravidão indígena como antecedente estrutural da escravidão negra e do colonato; os mecanismos específicos pelos quais o cativeiro da terra se estendeu à industrialização do século XX e à formação do mercado de trabalho urbano. O capítulo 7 esboça, mais do que demonstra, a continuidade do mecanismo ideológico do cativeiro da terra na sociedade industrial.</p>
+<p><strong>Progressão argumentativa entre os capítulos:</strong> A obra avança de uma crítica teórica e metodológica à literatura existente (Apresentação e Cap. 1) para a análise do mecanismo estrutural (Lei de Terras, colonato), passando pela dimensão comparativa (Cap. 2) e histórica-empírica (Cap. 3), chegando à dimensão ideológica (Cap. 4 e 7) e à revisão crítica da narrativa da industrialização (Caps. 5 e 6). O conjunto constrói uma interpretação totalizante do capitalismo brasileiro como capitalismo singular, marcado pela contemporaneidade de relações de trabalho atrasadas e acumulação de capital avançada.</p>
+<p><strong>Contribuição para o debate mais amplo:</strong> <em>O cativeiro da terra</em> é uma das obras fundadoras da sociologia histórica brasileira. No debate latino-americano sobre modos de produção, representa uma alternativa metodológica superior tanto ao dualismo (feudal vs.&nbsp;capitalista) quanto ao evolucionismo do “assalariamento inevitável”: demonstra que o capital pode produzir e reproduzir relações não capitalistas não como desvio, mas como necessidade estrutural. A reinterpretação do escravo como renda capitalizada e do colonato como forma não capitalista gerada pelo capitalismo é contribuição à teoria das transições entre modos de produção em economias periféricas com relevância além do caso brasileiro.</p>
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>Annotated Bibliography</category>
+  <category>Historical Sociology</category>
+  <category>Political Economy</category>
+  <category>Labor Relations</category>
+  <category>Coffee Economy</category>
+  <category>Social Stratification</category>
+  <category>Brazil</category>
+  <category>2012</category>
+  <category>2010s</category>
+  <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Martins2012.html</guid>
+  <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Fichamento: The Diversity Bargain</title>
   <dc:creator>Tales Mançano</dc:creator>
@@ -9924,476 +10569,6 @@ Note
   <category>2022</category>
   <category>2020s</category>
   <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Leao-Eyal2022.html</guid>
-  <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Fichamento: Educational Expansion and Social Mobility in the 20th Century</title>
-  <dc:creator>Tales Mançano</dc:creator>
-  <link>https://mancano-tales.github.io/Annotated-Bibliography/posts/Breen2010.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Informações Técnicas e BibTeX
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<pre><code>Última atualização: 2026-05-13
-Modelo: Claude Sonnet 4.6 Thinking (Perplexity)
-Prompt Version: v17.4 · 2026-05-13
-Gerado em: 2026-05-13T11:40:00-03:00
-Ocasião da Leitura:</code></pre>
-<p><strong>Entrada BibTeX → Breen2010</strong></p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="va" style="color: #111111;
-background-color: null;
-font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">Breen2010</span>,</span>
-<span id="cb2-2"><span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">author</span>  = {Breen, Richard},</span>
-<span id="cb2-3"><span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">title</span>   = {Educational Expansion and Social Mobility in the 20th Century},</span>
-<span id="cb2-4"><span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">year</span>    = {2010},</span>
-<span id="cb2-5"><span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">journal</span> = {Social Forces},</span>
-<span id="cb2-6"><span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">volume</span>  = {89},</span>
-<span id="cb2-7"><span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">number</span>  = {2},</span>
-<span id="cb2-8"><span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">pages</span>   = {365--388},</span>
-<span id="cb2-9"><span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">doi</span>     = {10.1353/SOF.2010.0076},</span>
-<span id="cb2-10">}</span></code></pre></div></div>
-</div>
-</div>
-</div>
-<section id="ficha-analítica-crítica" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="ficha-analítica-crítica">Ficha Analítica Crítica</h2>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Esta seção segue o formato <em>IA Planilhando Textos v17.4</em>.</p>
-</div>
-</div>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Ficha Analítica — Tabela Markdown
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-3" class="callout-3-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<table class="caption-top table">
-<colgroup>
-<col style="width: 23%">
-<col style="width: 52%">
-<col style="width: 23%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Dimensão</th>
-<th style="text-align: left;">Raciocínio analítico</th>
-<th style="text-align: left;">Conteúdo</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Questão de Pesquisa</td>
-<td style="text-align: left;">A premissa central é que educação medeia a relação entre origem e destino de classe; o puzzle é que a literatura mobilidade social foca quase exclusivamente na equalização educacional e ignora o efeito composicional da expansão. O ponto mais vulnerável é a restrição da análise a homens em três países, o que limita a validade externa.</td>
-<td style="text-align: left;">Em que medida a expansão educacional — por meio do efeito composicional — e a equalização educacional contribuíram para o aumento da fluidez social no século XX? Pergunta explícita no texto; natureza explicativa-quantitativa.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Questões Secundárias</td>
-<td style="text-align: left;">Ambas as questões decorrem diretamente da questão central; a decomposição diferenciada por coorte e país permite identificar qual mecanismo prevalece em cada contexto institucional.</td>
-<td style="text-align: left;">(1) Qual dos dois mecanismos — equalização ou efeito composicional — teve maior impacto sobre a fluidez social em cada país? (2) Em que medida a <em>associação diferencial</em> (OD mais fraca em níveis educacionais mais altos) é condição necessária para o efeito composicional?</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Puzzle-Type</td>
-<td style="text-align: left;">O puzzle é genuíno: a presença do efeito composicional não é óbvia e depende de uma interação de três vias entre origem, educação e destino que a literatura raramente formaliza. A generalização para além dos três países é parcial: os países foram selecionados deliberadamente para representar os três mundos do welfare capitalism (Esping-Andersen 1990), o que oferece cobertura teórica, mas não garante representatividade.</td>
-<td style="text-align: left;">Puzzle explicativo: a literatura de mobilidade social assume implicitamente que apenas a equalização educacional pode aumentar a fluidez social, mas a expansão educacional pode fazê-lo de forma independente via efeito composicional — mecanismo sistematicamente ignorado. O puzzle é generalizável onde a associação diferencial estiver presente.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Conclusão / Argumento Central</td>
-<td style="text-align: left;">A tese é bem sustentada pela simulação log-linear, mas o <em>claim of discovery</em> — que a expansão, por si só, promove fluidez social — depende criticamente da existência de associação diferencial, condição que o artigo documenta empiricamente nos três países, mas que pode não ser universal.</td>
-<td style="text-align: left;">Nos três países analisados (Suécia, Grã-Bretanha e Alemanha), a expansão educacional promoveu maior fluidez social por meio do efeito composicional; na Grã-Bretanha, esse foi o único mecanismo que atuou na direção da maior fluidez; na Suécia e na Alemanha, o efeito composicional complementou a equalização. O argumento combina formalização log-linear com simulação contrafactual.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Métodos</td>
-<td style="text-align: left;">A análise quantitativa é sofisticada, mas o método de comparação de slopes para mensurar os efeitos é uma escolha discutível: as mudanças nos coeficientes entre modelos contrafactuais dependem da ordem de remoção dos termos, e embora o autor argumente robustez da ordenação, a escolha de remover o termo COD primeiro é inevitavelmente convencional. Fichamento cobre a obra inteira (artigo + apêndice técnico).</td>
-<td style="text-align: left;">Estudo quantitativo-comparativo com dados de cortes repetidos. Modelos log-lineares para decompor o efeito de quatro fontes de mudança na fluidez social (efeito COD direto, retorno à educação CED, equalização OE, efeito composicional). Simulação de tabelas COD contrafactuais, avaliadas por modelo log-multiplicativo de efeitos de camada (Xie 1992) com tendência linear (e spline para Alemanha e Grã-Bretanha).</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Data Generation Process (DGP)</td>
-<td style="text-align: left;">A heterogeneidade das fontes é uma limitação: o dado alemão combina seis surveys distintos (Allbus, Zumabus, GLHS, GSOEP, Wohlfahrts, Politik in der Bundesrepublik Deutschland), o que pode introduzir inconsistências de medição que o autor minimiza referenciando Müller e Pollak (2004). O uso de proxy de coorte por grupos etários nos dados é padrão na literatura, mas introduz imprecisão na datação exata dos efeitos.</td>
-<td style="text-align: left;">Fenômeno real (mobilidade social por coorte) → surveys nacionais por amostragem (GHS para Grã-Bretanha 1973–1992; Allbus e outras fontes para Alemanha 1976–2002; ULF para Suécia 1976–1999) → codificação pela escala EGP (origens e destinos de classe) e CASMIN (educação) → cross-tabulação COED × coorte → estimação log-linear → inferência contrafactual. Unidade de análise: homens de 25–64 anos em survey; nível de agregação: coorte de nascimento × país. Viés de seleção: exclusão de mulheres (justificada); possível viés de sobrevivência nos dados de coortes mais velhas.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Achados e Contribuições</td>
-<td style="text-align: left;">O resultado para a Grã-Bretanha é o mais relevante e mais robusto: o efeito composicional é a única força que atua na direção de maior fluidez, enquanto o efeito COD direto operou contra a fluidez. Isso contraria a narrativa de que a Grã-Bretanha seria um caso de imobilidade pura.</td>
-<td style="text-align: left;">(1) Em todos os três países o efeito composicional contribuiu positivamente para a fluidez social; (2) na Suécia e na Alemanha (coortes mais jovens) a equalização foi o principal motor; (3) na Grã-Bretanha o efeito COD direto foi o principal fator antiequalização; (4) a variação na relação entre educação e destino de classe (CED) não foi fonte importante de mudança em nenhum dos países. Contribuição metodológica: formalização e simulação do efeito composicional, ausente na literatura anterior.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Análise Crítica dos Achados</td>
-<td style="text-align: left;">(a) A amostra é restrita a homens, eliminando metade da população e um período histórico de grandes mudanças na participação feminina no mercado de trabalho. (b) O design é descritivo-contrafactual, não causal no sentido estrito: a decomposição mede contribuições percentuais de diferentes termos log-lineares, não relações causais identificadas por variação exógena. (c) A presença de associação diferencial (condição necessária para o efeito composicional) é documentada empiricamente, mas não é explicada causalmente. (d) A exclusão de efeitos de período, embora justificada pela literatura, pode confundir efeitos de coorte e período em países com mudanças institucionais abruptas (ex.: reunificação alemã). (e) A generalizabilidade é restrita: países do Sul Global, com expansão educacional mais recente e mercados de trabalho distintos, podem não apresentar associação diferencial.</td>
-<td style="text-align: left;">O artigo responde adequadamente à questão central dentro das <em>scope conditions</em> declaradas. O argumento é mais forte para Suécia e Alemanha (onde ambas as forças se manifestam) e mais fraco para Grã-Bretanha, onde o efeito composicional é real mas estatisticamente não significante.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Limitações</td>
-<td style="text-align: left;"><strong>Reconhecidas pelos autores:</strong> Exclusão de mulheres por razões de comparabilidade inter-temporal; impossibilidade de controlar efeitos de período sem esparsar demais as tabelas (especialmente para a Alemanha); dados britânicos com faixa etária mais restrita (25–49) por limitações do GHS; distinções de classe ligeiramente diferentes entre países por restrições dos dados. <br> <strong>Não reconhecidas ou subestimadas:</strong> A heterogeneidade das fontes alemãs é minimizada; a falta de testes de significância formais para comparação de slopes entre modelos (o próprio autor reconhece em nota que os testes não são válidos porque os dados são gerados por modelo); ausência de discussão sobre a endogeneidade potencial entre expansion e equalization (equalização quase certamente implica expansão, como o autor admite brevemente); ausência de análise de sensibilidade à escolha da escala CASMIN com cinco vs.&nbsp;seis categorias; sem investigação da heterogeneidade dentro dos grupos de coorte.</td>
-<td style="text-align: left;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Perspectiva Teórica</td>
-<td style="text-align: left;">A ontologia implícita é relacional-estrutural: as chances de mobilidade são determinadas por estruturas de classe que educação pode mediar, mas não eliminar. Há coerência entre essa ontologia e o método log-linear, que captura associações relativas entre categorias de classe. A influência de Goldthorpe e Erikson é dominante (EGP, Constant Flux), com diálogo com a tradição de Esping-Andersen para estruturar a comparação.</td>
-<td style="text-align: left;">Sociologia da estratificação social; tradição log-linear de mobilidade social (Goldthorpe, Erikson, Hout); teoria dos mundos do welfare capitalism (Esping-Andersen 1990) como moldura comparativa. A moldura é adequada à pergunta explicativa; a escolha dos três países não é arbitrária, mas reflete os três regimes.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Principais Referências</td>
-<td style="text-align: left;">O diálogo com Shavit e Blossfeld (1993) é central e bem articulado. Há certa endogeneidade bibliográfica: o autor dialoga prioritariamente com sua própria produção (Breen e Jonsson 2005, 2007; Breen e Luijkx 2004, 2007; Breen et al.&nbsp;2009, 2010).</td>
-<td style="text-align: left;">Erikson e Goldthorpe (1992); Shavit e Blossfeld (1993); Breen e Jonsson (2005, 2007); Müller e Pollak (2004); Hout (1988); Xie (1992); Raftery e Hout (1993); Esping-Andersen (1990).</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Observações</td>
-<td style="text-align: left;">O artigo tem forte contribuição metodológica — a formalização do efeito composicional e a simulação contrafactual são ferramentas transferíveis para outros contextos. Para pesquisa sobre educação superior no Brasil, o argumento sobre a distinção entre expansão e equalização é diretamente relevante: o REUNI e o SISU implicaram expansão massiva, mas a equalização é controversa. A análise, porém, depende da existência de associação diferencial no mercado de trabalho brasileiro, condição que requer verificação empírica independente.</td>
-<td style="text-align: left;"></td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-</div>
-<hr>
-</section>
-<section id="mapa-argumentativo" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="mapa-argumentativo">Mapa Argumentativo</h2>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 8%">
-<col style="width: 19%">
-<col style="width: 28%">
-<col style="width: 43%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Seção</th>
-<th style="text-align: left;">Título / Tema</th>
-<th style="text-align: left;">Função argumentativa</th>
-<th style="text-align: left;">Contribuição para a tese central</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Introdução (pp.&nbsp;365–366)</td>
-<td style="text-align: left;">Puzzle e objetivos</td>
-<td style="text-align: left;">Apresentação do puzzle</td>
-<td style="text-align: left;">Estabelece que a expansão educacional pode reduzir desigualdades de mobilidade de forma independente da equalização — hipótese central</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Educational Equality (pp.&nbsp;366–367)</td>
-<td style="text-align: left;">Debate sobre equalização</td>
-<td style="text-align: left;">Revisão de literatura</td>
-<td style="text-align: left;">Mapeia o estado da arte; conclui que há evidência mais recente de equalização em vários países europeus, abrindo espaço para a comparação</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Social Fluidity (pp.&nbsp;367–368)</td>
-<td style="text-align: left;">Debate sobre fluidez social</td>
-<td style="text-align: left;">Revisão de literatura</td>
-<td style="text-align: left;">Sintetiza os achados sobre tendências temporais em fluidez social, identificando os três países como casos com diferentes trajetórias</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">How Education Might Influence Social Mobility: An Example (pp.&nbsp;368–369)</td>
-<td style="text-align: left;">Mecanismos: formalização intuitiva</td>
-<td style="text-align: left;">Fundamento teórico</td>
-<td style="text-align: left;">Ilustra com tabela hipotética 2×2×2 a distinção entre equalização e efeito composicional, mostrando que cada um tem magnitude distinta</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">How Education Might Influence Social Mobility: Formal Derivation (pp.&nbsp;370–371)</td>
-<td style="text-align: left;">Formalização log-linear</td>
-<td style="text-align: left;">Fundamento metodológico</td>
-<td style="text-align: left;">Deriva formalmente as equações de probabilidade condicional e os modelos log-lineares que sustentam as simulações contrafactuais</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Data (pp.&nbsp;371–373)</td>
-<td style="text-align: left;">Descrição dos dados</td>
-<td style="text-align: left;">Análise empírica</td>
-<td style="text-align: left;">Descreve fontes, períodos, esquemas de classificação (EGP, CASMIN) e tamanhos amostrais — fundamento da comparação entre países</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Models and Results (pp.&nbsp;373–376)</td>
-<td style="text-align: left;">Tendências observadas em OE, OD e expansão</td>
-<td style="text-align: left;">Análise empírica</td>
-<td style="text-align: left;">Documenta empiricamente as condições necessárias para o efeito composicional (associação diferencial, expansão, tendências de equalização)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Simulations (pp.&nbsp;376–381)</td>
-<td style="text-align: left;">Decomposição contrafactual dos efeitos</td>
-<td style="text-align: left;">Análise empírica central</td>
-<td style="text-align: left;">Quantifica as contribuições relativas de cada mecanismo para a mudança na fluidez social; resultado principal do artigo</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Conclusions (pp.&nbsp;381–383)</td>
-<td style="text-align: left;">Síntese e implicações de política</td>
-<td style="text-align: left;">Síntese e extensão do argumento</td>
-<td style="text-align: left;">Interpreta os resultados no contexto institucional de cada país; discute implicações de política para a equalização via expansão; qualifica a recomendação de expansão isolada</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Technical Appendix (pp.&nbsp;387–388)</td>
-<td style="text-align: left;">Justificativa da ordem de decomposição e da amostra masculina</td>
-<td style="text-align: left;">Qualificação metodológica</td>
-<td style="text-align: left;">Demonstra robustez da ordenação dos termos removidos; justifica exclusão de mulheres por viés de participação no mercado de trabalho</td>
-</tr>
-</tbody>
-</table>
-<hr>
-</section>
-<section id="introdução-pp.-365366" class="level2" data-number="1">
-<h2 data-number="1" class="anchored" data-anchor-id="introdução-pp.-365366"><span class="header-section-number">1</span> Introdução (pp.&nbsp;365–366)</h2>
-<section id="apresentação-do-puzzle-e-delimitação-do-problema-13" class="level3" data-number="1.1">
-<h3 data-number="1.1" class="anchored" data-anchor-id="apresentação-do-puzzle-e-delimitação-do-problema-13"><span class="header-section-number">1.1</span> Apresentação do puzzle e delimitação do problema [§1–§3]</h3>
-<p>O artigo abre com uma afirmação canônica na sociologia da estratificação: a desigualdade educacional segundo origem social é considerada uma causa central da desigualdade nas chances de ascensão de classe. Breen, porém, identifica um vácuo analítico relevante: embora a literatura mobilize extensamente a questão da <strong>equalização educacional</strong> — a redução das diferenças por origem de classe no acesso à educação — ela praticamente ignora a possibilidade de que a <strong>expansão educacional</strong> (o crescimento absoluto dos níveis de escolaridade) possa por si mesma contribuir para a redução das desigualdades de mobilidade.</p>
-<p>O autor declara explicitamente que o objetivo da pesquisa é exploratório: aplicar um novo método para descobrir quão importantes foram a equalização e a expansão para moldar a <strong>fluidez social</strong> (<em>social fluidity</em>) na Suécia, na Grã-Bretanha e na Alemanha, ao longo de coortes nascidas do início do século XX até o início dos anos 1970. A escolha desses três países é justificada duplamente: eles representam os três mundos do welfare capitalism descritos por Esping-Andersen (1990) — regime liberal (Grã-Bretanha), social-democrata (Suécia) e conservador-continental (Alemanha) — e, conforme a literatura de mobilidade já demonstrou (Breen 2004), exibem diferentes níveis e tendências de fluidez social.</p>
-<p>A Suécia é descrita como a sociedade mais aberta da Europa nesse quesito, com aumento constante de fluidez durante grande parte da segunda metade do século XX (Breen e Jonsson 2007). A Grã-Bretanha, que foi uma das sociedades mais fluidas da Europa por volta de 1970, experimentou pouca variação de período desde então. A Alemanha, historicamente menos fluida que Suécia e mais próxima da França e da Itália, apresentou aumentos significativos de fluidez nas coortes nascidas após os anos 1930 (Müller e Pollak 2004). Essas trajetórias distintas tornam o conjunto um campo de teste privilegiado para avaliar em que medida equalização e expansão contribuem diferentemente para as mudanças na fluidez.</p>
-<hr>
-</section>
-</section>
-<section id="educational-equality-pp.-366367" class="level2" data-number="2">
-<h2 data-number="2" class="anchored" data-anchor-id="educational-equality-pp.-366367"><span class="header-section-number">2</span> Educational Equality (pp.&nbsp;366–367)</h2>
-<section id="o-debate-sobre-desigualdade-educacional-e-sua-evolução-47" class="level3" data-number="2.1">
-<h3 data-number="2.1" class="anchored" data-anchor-id="o-debate-sobre-desigualdade-educacional-e-sua-evolução-47"><span class="header-section-number">2.1</span> O debate sobre desigualdade educacional e sua evolução [§4–§7]</h3>
-<p>Uma das questões mais debatidas na sociologia da estratificação recente diz respeito a saber se, ao longo do século XX, as desigualdades de acesso educacional segundo origem social diminuíram ou permaneceram estáveis. Até o final da década de 1980, era amplamente aceito que a redução da desigualdade educacional seria uma consequência inevitável da modernização e da industrialização: Treiman (1970) argumentou que a influência da educação sobre o <em>status</em> ocupacional deveria ser mais forte em sociedades mais industrializadas e que o papel do <em>status</em> parental no acesso à educação deveria declinar com o mesmo processo.</p>
-<p>Esse consenso foi abalado por Shavit e Blossfeld (1993), que encontraram estabilidade na desigualdade educacional em 13 países industrializados ao longo do século XX. Não obstante a expansão substancial dos sistemas educacionais — sobretudo no nível médio-inferior —, apenas dois países (Suécia e Holanda) apresentaram redução na força da associação entre origem social e nível de escolaridade. Os editores concluíram que havia “pouca mudança na desigualdade socioeconômica de oportunidade educacional” e que “o impacto das reformas educacionais sobre mudanças na estratificação educacional parece ser negligenciável.” Em outras palavras, embora os níveis absolutos de escolaridade tenham aumentado em toda parte, as <em>chances relativas</em> de avanço educacional entre pessoas de diferentes origens sociais permaneceram em geral inalteradas.</p>
-<p>Breen e Jonsson (2005:226) oferecem, porém, uma revisão posterior que reverte parcialmente o diagnóstico de Shavit e Blossfeld: análises subsequentes demonstraram equalização na Alemanha (Henz e Maas 1995; Jonsson, Mills e Müller 1996; Müller e Haun 1994), na França (Vallet 2004a), na Itália (Shavit e Westerbeek 1998) e provavelmente na Noruega (Lindbekk 1998). Breen et al.&nbsp;(2009, 2010), em análises comparativas de oito países europeus, identificam uma tendência à diminuição da influência das origens sociais sobre a escolaridade nas coortes nascidas nos primeiros três quartos do século XX, com variações cross-nacionais importantes. A discrepância entre estudos é atribuída em parte a diferenças nas medidas de origem social e nos modelos estatísticos utilizados — mas Breen observa que é surpreendente que o padrão básico não seja robusto a tais variações.</p>
-<hr>
-</section>
-</section>
-<section id="social-fluidity-pp.-367368" class="level2" data-number="3">
-<h2 data-number="3" class="anchored" data-anchor-id="social-fluidity-pp.-367368"><span class="header-section-number">3</span> Social Fluidity (pp.&nbsp;367–368)</h2>
-<section id="o-conceito-de-fluidez-social-e-o-debate-sobre-suas-tendências-811" class="level3" data-number="3.1">
-<h3 data-number="3.1" class="anchored" data-anchor-id="o-conceito-de-fluidez-social-e-o-debate-sobre-suas-tendências-811"><span class="header-section-number">3.1</span> O conceito de fluidez social e o debate sobre suas tendências [§8–§11]</h3>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>A <strong>fluidez social</strong> (<em>social fluidity</em>) é definida como a razão de chances (<em>odds ratio</em>) entre respondentes nascidos em diferentes origens de classe de vir a ocupar uma posição de classe mais ou menos vantajosa. Diferentemente das taxas brutas de mobilidade — influenciadas pela estrutura de classe da sociedade —, os <em>odds ratios</em> capturam as <em>chances relativas de mobilidade</em> independentemente de mudanças nas distribuições marginais de origem e destino.</p>
-</div>
-</div>
-<p>A educação é identificada como o principal canal pelo qual a reprodução de classe ocorre entre gerações (Ishida, Müller e Ridge 1995). A premissa central da literatura é que a desigualdade educacional importa sobretudo porque pode afetar as chances de mobilidade social: se a <strong>fluidez educacional</strong> (a independência entre origem de classe e escolaridade) aumentar, a fluidez social tende a aumentar em consequência. Erikson e Goldthorpe (1992) argumentaram por uma “estabilidade temporal elevada” da fluidez social, mas esse julgamento se baseava em comparações de grupos etários extraídos de um único survey por país — uma estratégia que confunde efeitos de coorte e de período.</p>
-<p>Estudos baseados em séries de surveys repetidos ao longo do tempo são raros. Entre as exceções mais conhecidas estão Ganzeboom, Luijkx e Treiman (1989), que demonstraram “diferenças cross-nacionais e cross-temporais substanciais na extensão da mobilidade,” e Breen e Luijkx (2004), que documentaram variação significativa entre países europeus e uma tendência generalizada a maior fluidez nas últimas décadas do século XX. Análises por coorte de nascimento para países específicos — Hout (1988) para os EUA, Vallet (2004a) para a França, Müller e Pollak (2004) para a Alemanha, Breen e Jonsson (2007) para a Suécia — mostram, em todos os casos, um declínio gradual na associação entre origens e destinos de classe durante o século XX.</p>
-</section>
-<section id="como-a-educação-pode-influenciar-a-mobilidade-social-dois-mecanismos-1214" class="level3" data-number="3.2">
-<h3 data-number="3.2" class="anchored" data-anchor-id="como-a-educação-pode-influenciar-a-mobilidade-social-dois-mecanismos-1214"><span class="header-section-number">3.2</span> Como a educação pode influenciar a mobilidade social: dois mecanismos [§12–§14]</h3>
-<p>Seguindo Breen e Jonsson (2007), o artigo distingue dois caminhos pelos quais a educação pode aumentar a fluidez social. O primeiro é a <strong>equalização</strong> (<em>equalization</em>): quando a associação entre origem de classe e escolaridade se enfraquece ao longo das coortes, a ligação entre origem e destino de classe tende a se enfraquecer por consequência, dado que a educação é o determinante mais importante da posição de classe. O segundo caminho é <strong>composicional</strong>: se a associação origem-destino for mais fraca em níveis educacionais mais elevados — o que Breen denomina <strong>associação diferencial</strong> (<em>differential association</em>) —, e se a expansão educacional aumentar a proporção de coortes sucessivas que alcançam esses níveis, essa mudança composicional reduzirá a associação bruta entre origens e destinos. A razão é que a população passará a conter proporções crescentes de indivíduos (os mais escolarizados) para os quais as origens de classe exercem efeito relativamente fraco sobre os destinos.</p>
-<blockquote class="blockquote">
-<p>Breen ressalta que a preocupação dos analistas de mobilidade social com a equalização educacional é demasiado restritiva: a expansão em si — sobre cuja ocorrência não há controvérsia — pode ter a capacidade de enfraquecer a associação entre origens e destinos, mesmo na ausência de equalização.</p>
-</blockquote>
-<p>A <strong>associação diferencial</strong> já havia sido identificada por Hout (1988) e documentada em seguida para França (Vallet 2004b), Suécia (Erikson e Jonsson 1998) e Alemanha (Breen e Luijkx 2007). A justificativa teórica é que qualificações de nível superior funcionam como sinais mais fortes aos empregadores, deixando menos espaço para efeitos de rede social baseados em origem de classe, e/ou que os mercados de trabalho em que os graduados operam são mais meritocráticos.</p>
-<hr>
-</section>
-</section>
-<section id="how-education-might-influence-social-mobility-an-example-pp.-368369" class="level2" data-number="4">
-<h2 data-number="4" class="anchored" data-anchor-id="how-education-might-influence-social-mobility-an-example-pp.-368369"><span class="header-section-number">4</span> How Education Might Influence Social Mobility: An Example (pp.&nbsp;368–369)</h2>
-<section id="ilustração-com-tabela-hipotética-222-1517" class="level3" data-number="4.1">
-<h3 data-number="4.1" class="anchored" data-anchor-id="ilustração-com-tabela-hipotética-222-1517"><span class="header-section-number">4.1</span> Ilustração com tabela hipotética 2×2×2 [§15–§17]</h3>
-<p>Para tornar os dois mecanismos concretos antes de sua derivação formal, Breen constrói uma <strong>tabela hipotética 2×2×2</strong> em que origens de classe (classe média/classe trabalhadora), nível educacional (baixo/alto) e destino de classe (classe média/classe trabalhadora) são cruzados em dois momentos de tempo. Por design, a associação origem-destino é mais fraca no nível educacional alto, capturando a associação diferencial.</p>
-<p>O cenário base (tempo = 1) apresenta um <em>odds ratio</em> OE de 1,5 e um <em>odds ratio</em> OD bruto de 4,14. No caso (a) — equalização pura, sem mudança nas distribuições marginais —, o <em>odds ratio</em> OE cai de 1,5 para 1,31 enquanto as distribuições marginais são mantidas constantes, resultando em uma redução do <em>odds ratio</em> OD bruto de 4,14 para 4,03. No caso (b) — expansão pura com associação diferencial presente, sem mudança no <em>odds ratio</em> OE —, o deslocamento da distribuição de educação para o nível mais alto reduz o <em>odds ratio</em> OD bruto para 3,87. Finalmente, no caso (c) — equalização e expansão combinadas —, o <em>odds ratio</em> OD bruto cai para 3,77. A tabela demonstra de modo intuitivo que a expansão, por si só, pode ter um impacto quantitativo maior do que a equalização sobre a fluidez bruta — resultado contraintuitivo que motiva toda a análise empírica subsequente.</p>
-<blockquote class="blockquote">
-<p><strong>Nota:</strong> O autor nota que o efeito composicional requer duas condições simultâneas: expansão educacional <em>e</em> associação diferencial. A ausência de qualquer uma das duas anula o mecanismo composicional, independentemente da magnitude da expansão. <a href="https://ppl-ai-file-upload.s3.us-east-1.amazonaws.com/web/direct-files/attachments/111334221/90e5243a-ff10-428d-81ba-4b87a4edcb2b/Breen-2010-Educational-Expansion-and-Social-Mobility-in-the-20th-Century.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Checksum-Mode=ENABLED&amp;X-Amz-Credential=ASIA2F3EMEYE7CHSRSYF%2F20260513%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260513T144742Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEH8aCXVzLWVhc3QtMSJHMEUCIAOIBnnC4hnB9MWn%2Fx5QESowSjtKTYW3hLSBqlu950zQAiEArUWCUE3VKE7Lw9ssP59HP6gU25RVSB%2BoYpx6PsjDBL8q6wQIRxABGgw2OTk3NTMzMDk3MDUiDHIRMhnIKE4EjoSuaCrIBKjEJMJ6PJXrRnW2A%2Bb66qWL5%2BCcSwO6VQSQUxB0RSnHyDBV8ruwal2hhdER7wIJWfwBJ3wMi%2Buwiwzm96FhOCiijSg4NeXZf%2BVGaX%2B81VRaa2zyvH8g7iCElh31H8NFC2hV5j%2Bo5sQbdQQbRntUYW%2FbAvv9Z9kqUhosm6q1TJbeUuNIn2hK4bQ3dGEav0sOQ90Q%2FWqNpKk6mQTNjg%2FTCV0eo3MJ5QjQjUs0eys7z2OPcHL7Mc5XQjwT6UtJpgQd3Is%2F6QB4%2FNqoHNAucVrzEEiJKeMXpJ%2FfrMjgLRbRrm7HSSYmx55405DC%2FZuT3MhH1ii5rHbQkTPXUJb%2BaTb6ixgZ8gIIOQCjUPw0Brp9KeEIIsl62Z%2FM1l1%2FVpZHdgd53jWVkKrP2ok7o22vvl3XXkrkc0JPHjMQPmrBout%2FRbSI3jQB0KLKCTSNzLD3zfF5brPKHCKsO5hWxRnoTpYilIzdylN0rasARatviiuD2zz8xtheVYTKPUTxCmRbKADi2mhtzz0dOEAyaANQDW9DM46TXjG9fimYtOhwzjdvINZW8sx0F83o4X4zXXOq7W1gdqpDdeU2dsQJ4D1NPocS%2FKNzxck3ZPtdfeEJKPr2OI0Fl0rsZgpDbbvBmnXZthOsmkv2EldMBisueLmvP8iPb%2B6REqpl0e3dCNdoYasfsysu9HX37fwPvMgYT8zOr%2BBQOCzilAiDXiiGASddS5f%2FK%2BJJURyxdHSzbXDkWnWJe8EPswhBj2IcO%2FfDF2VX9h9QP0xqxG5OH6QkML2MktAGOpgBj2Zcq6tsOQEEaO1%2FiQc4r5LQ5eWS5MRj40A278xhBd9XubbhB3FmWUfa1Vu5i2hi82Zjys8lib1x%2Fzyv4GA5K%2B7oUOIEjIGkxZM6tykFIYoAj3dIkhtJFEFIR%2BfsFgdM0X4sWucEo9lhips%2FRFucGz%2BiaITbf0Qg%2B%2BJhvHlZ2r8vTJOhf1aIxroUvPho5mBF02C1%2Fd%2Fgoes%3D&amp;X-Amz-SignedHeaders=host&amp;x-id=GetObject&amp;X-Amz-Signature=11bbf5f2b6e56f0b979757e5b3a4ffec8427fe4464d31d0127d1cef1892aa642">ppl-ai-file-upload.s3.us-east-1.amazonaws</a></p>
-</blockquote>
-<hr>
-</section>
-</section>
-<section id="how-education-might-influence-social-mobility-formal-derivation-pp.-370371" class="level2" data-number="5">
-<h2 data-number="5" class="anchored" data-anchor-id="how-education-might-influence-social-mobility-formal-derivation-pp.-370371"><span class="header-section-number">5</span> How Education Might Influence Social Mobility: Formal Derivation (pp.&nbsp;370–371)</h2>
-<section id="derivação-formal-via-modelos-log-lineares-1822" class="level3" data-number="5.1">
-<h3 data-number="5.1" class="anchored" data-anchor-id="derivação-formal-via-modelos-log-lineares-1822"><span class="header-section-number">5.1</span> Derivação formal via modelos log-lineares [§18–§22]</h3>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>O coração metodológico do artigo está nessa seção. Breen considera uma <strong>cross-tabulação de quatro vias</strong> entre origem de classe (O), nível educacional (E), destino de classe (D) e coorte de nascimento (C), todas tratadas como variáveis categóricas. O objetivo é decompor a distribuição COD em componentes atribuíveis a diferentes fontes de mudança ao longo das coortes.</p>
-</div>
-</div>
-<p>A distribuição conjunta das quatro variáveis é escrita como produto de probabilidades condicionais:</p>
-<p>[p(C=i, O=j, E=k, D=l) = p(D=l C=i, O=j, E=k) p(E=k C=i, O=j) p(C=i, O=j)]</p>
-<p>A margem CO é tratada como exógena e reproduzida exatamente em todos os modelos. A distribuição tridimensional COD é obtida somando sobre os níveis de E. Modelos log-lineares específicos para as tabelas COE e COED permitem recuperar as distribuições condicionais necessárias para gerar tabelas COD contrafactuais, variando sistematicamente quais termos de interação estão presentes.</p>
-<p>Dois modelos log-lineares são centrais. O modelo para a tabela COE tem a forma:</p>
-<p>[f_{ijk} = ^C_i + ^O_j + ^E_k + ^{CO}<em>{ij} + ^{CE}</em>{ik} + ^{OE}<em>{jk} + ^{COE}</em>{ijk}]</p>
-<p>onde (^{CE}<em>{ik}) captura a expansão educacional, (^{OE}</em>{jk}) captura a associação origens-educação, e (^{COE}<em>{ijk}) captura a equalização (mudança na associação OE ao longo das coortes). O modelo para a tabela COED é análogo, acrescentando termos para o efeito direto de origem sobre destino ((^{COD}</em>{ijl})), o efeito de educação sobre destino variando por coorte ((^{CED}<em>{ikl})) e a associação diferencial ((^{OED}</em>{jkl})).</p>
-<p>Breen demonstra formalmente que mesmo sem equalização — ou seja, sem o termo (^{COE}_{ijk}) — a combinação de expansão educacional e associação diferencial implica uma associação entre O, D e C, ou seja, mudança na fluidez ao longo das coortes. Esse resultado formaliza a intuição apresentada na tabela hipotética e fundamenta as simulações contrafactuais.</p>
-<hr>
-</section>
-</section>
-<section id="data-pp.-371373" class="level2" data-number="6">
-<h2 data-number="6" class="anchored" data-anchor-id="data-pp.-371373"><span class="header-section-number">6</span> Data (pp.&nbsp;371–373)</h2>
-<section id="fontes-de-dados-classificações-e-amostras-2328" class="level3" data-number="6.1">
-<h3 data-number="6.1" class="anchored" data-anchor-id="fontes-de-dados-classificações-e-amostras-2328"><span class="header-section-number">6.1</span> Fontes de dados, classificações e amostras [§23–§28]</h3>
-<p>Os dados provêm de três fontes nacionais. Para a <strong>Grã-Bretanha</strong>, o <em>General Household Survey</em> (GHS) cobre os anos 1973, 1975–1976 e 1979–1992 (com os anos 1977, 1978, 1985 e 1986 excluídos por falta de informação sobre a ocupação paterna, e o ano 1974 excluído por problemas documentados por Goldthorpe e Mills 2004). Para a <strong>Alemanha</strong>, os dados abrangem 1976 a 2002 e são extraídos principalmente do Allbus, complementado por Zumabus, surveys de bem-estar, do painel socioeconômico alemão (GSOEP) e pelo <em>German Life History Study</em>. Müller e Pollak (2004) atestam a comparabilidade dos questionários e a ausência de inconsistências sistemáticas; a análise se restringe a residentes na antiga Alemanha Ocidental para garantir comparabilidade temporal. Para a <strong>Suécia</strong>, as 24 pesquisas anuais de condições de vida (ULF, 1976–1999) conduzidas pelo Statistics Sweden formam o conjunto de dados.</p>
-<p>A análise se restringe a <strong>homens</strong> (justificativa desenvolvida no apêndice técnico), na faixa etária de trabalho. Para a Alemanha e a Suécia, a faixa é de 25 a 64 anos; para a Grã-Bretanha, 25 a 49 anos (por limitação do GHS para respondentes mais velhos). As <strong>origens e destinos de classe</strong> (O e D) são definidos com o esquema EGP (Erikson e Goldthorpe 1992) em sete classes: (I) serviço superior; (II) serviço inferior; (IIIa) não-manual de rotina; (IVab) autônomos e pequenos empregadores; (IVc) agricultores; (V+VI) manuais qualificados, técnicos e supervisores; (VIIab+IIIb) semi e não qualificados. Restrições dos dados levam ao uso de seis classes tanto para a Grã-Bretanha (I+II+IVa fundidos) quanto para a Suécia (VIIab e IIIb não distinguidos).</p>
-<p>A <strong>educação</strong> (E) é medida pela maior qualificação formal, codificada segundo o esquema CASMIN (Müller et al.&nbsp;1989) em cinco categorias: 1abc (apenas educação compulsória); 2ab (educação secundária intermediária, vocacional e geral); 2c (educação secundária completa); 3a (terciária inferior); 3b (terciária superior). A Suécia usa seis categorias por distinguir entre 1ab e 1c. As <strong>coortes de nascimento</strong> são definidas de modo diferente em cada país, cobrindo do início dos anos 1910 ao final dos anos 1970 na Alemanha, do início dos anos 1920 ao final dos anos 1960 na Grã-Bretanha, e do início dos anos 1910 ao final dos anos 1970 na Suécia. Os tamanhos amostrais são: 18.961 para Alemanha, 58.125,5 para Grã-Bretanha (ponderado para corrigir sobreamostragem escocesa) e 33.281 para Suécia.</p>
-<blockquote class="blockquote">
-<p><strong>Nota:</strong> O autor ressalta que nem todas as coortes são observadas em todos os surveys: as coortes mais velhas e mais jovens são observadas menos frequentemente, enquanto as coortes nascidas em torno do meio do século são as mais bem representadas. Isso deve ser considerado na interpretação dos resultados nas extremidades da série temporal. <a href="https://academic.oup.com/sf/article/89/2/365/2235230">academic.oup</a></p>
-</blockquote>
-<hr>
-</section>
-</section>
-<section id="models-and-results-pp.-373376" class="level2" data-number="7">
-<h2 data-number="7" class="anchored" data-anchor-id="models-and-results-pp.-373376"><span class="header-section-number">7</span> Models and Results (pp.&nbsp;373–376)</h2>
-<section id="tendências-na-desigualdade-educacional-por-coorte-2931" class="level3" data-number="7.1">
-<h3 data-number="7.1" class="anchored" data-anchor-id="tendências-na-desigualdade-educacional-por-coorte-2931"><span class="header-section-number">7.1</span> Tendências na desigualdade educacional por coorte [§29–§31]</h3>
-<p>A Figura 1 apresenta as tendências na associação entre origem de classe e escolaridade ao longo das coortes, estimadas por modelos de <em>logit</em> ordenado. Para a <strong>Alemanha</strong> e a <strong>Suécia</strong>, a impressão geral é de declínio nas desigualdades de classe no acesso à educação — as linhas para diferentes origens de classe convergem progressivamente ao longo das coortes. Para a <strong>Grã-Bretanha</strong>, o padrão é menos claro; nota-se que entre as coortes mais velhas as diferenças de classe já eram menores do que na Alemanha, e que mesmo entre a coorte mais jovem elas permanecem inferiores às alemãs — embora o autor ressalve que isso deve ser interpretado à luz das diferenças nas classificações de classe britânicas, onde a classe mais alta é definida de forma mais heterogênea.</p>
-</section>
-<section id="associação-diferencial-e-expansão-educacional-3234" class="level3" data-number="7.2">
-<h3 data-number="7.2" class="anchored" data-anchor-id="associação-diferencial-e-expansão-educacional-3234"><span class="header-section-number">7.2</span> Associação diferencial e expansão educacional [§32–§34]</h3>
-<p>A Figura 2 documenta a <strong>associação diferencial</strong>: a força da associação origem-destino a cada nível educacional, medida por um modelo de efeito de camada log-multiplicativo (Xie 1992), com o nível de associação no nível educacional mais baixo fixado em 1. Nos três países, a tendência é de enfraquecimento da associação OD em níveis educacionais mais elevados — embora na Alemanha e na Suécia a associação seja mais fraca no nível terciário inferior (3a) do que no superior (3b). Essa constatação confirma a condição necessária para o efeito composicional em todos os três países.</p>
-<p>A Figura 3 ilustra a <strong>expansão educacional</strong> comparando a distribuição educacional das segundas coortes mais velhas e mais jovens em cada país. Os três países mostram expansão clara. A expansão é particularmente pronunciada na Grã-Bretanha, onde as coortes mais velhas estavam fortemente concentradas no nível educacional mais baixo. Finalmente, a Figura 4 apresenta a tendência da associação bruta origem-destino ao longo das coortes. A <strong>Suécia</strong> exibe um declínio aproximadamente constante ao longo de todas as coortes, replicando achados de Breen e Jonsson (2007). A <strong>Alemanha</strong> apresenta um fortalecimento inicial seguido de um declínio acentuado a partir da terceira coorte (nascida entre 1931 e 1939), padrão já documentado em Müller e Pollak (2004). A <strong>Grã-Bretanha</strong> mostra um fortalecimento inicial da associação OD, seguido de estabilidade a partir da coorte nascida entre 1942 e 1948 — o modesto declínio subsequente não é estatisticamente significante.</p>
-<hr>
-</section>
-</section>
-<section id="simulations-pp.-376381" class="level2" data-number="8">
-<h2 data-number="8" class="anchored" data-anchor-id="simulations-pp.-376381"><span class="header-section-number">8</span> Simulations (pp.&nbsp;376–381)</h2>
-<section id="método-de-decomposição-contrafactual-3538" class="level3" data-number="8.1">
-<h3 data-number="8.1" class="anchored" data-anchor-id="método-de-decomposição-contrafactual-3538"><span class="header-section-number">8.1</span> Método de decomposição contrafactual [§35–§38]</h3>
-<p>Para mensurar as contribuições relativas dos quatro mecanismos de mudança — (1) o efeito direto parcial de origens sobre destinos (COD); (2) as mudanças nos retornos à educação em termos de posição de classe (CED); (3) a equalização educacional (mudança na associação OE por coorte); e (4) o efeito composicional (expansão + associação diferencial) —, Breen gera um conjunto de cinco <strong>tabelas COD contrafactuais</strong> removendo sequencialmente termos do modelo log-linear inicial.</p>
-<p>O modelo inicial (1) inclui todos os efeitos nas tabelas E|OC e D|OEC exceto a interação de quatro vias COED. O segundo modelo (2) remove o termo (^{COD}<em>{ijl}) (efeito parcial direto de origens sobre destinos por coorte); como qualquer modelo com esse termo sempre reproduz o COD observado, ele deve ser removido primeiro. O terceiro modelo (3) remove o termo (^{CED}</em>{ikl}) (mudança nos retornos à educação). O quarto modelo (4) remove o termo (^{COE}<em>{ijk}) (equalização). O quinto e último modelo (5) remove simultaneamente (^{CE}</em>{ik}) (expansão) e (^{OED}_{jkl}) (associação diferencial), eliminando assim o efeito composicional. A comparação entre as tabelas COD geradas por modelos sucessivos permite isolar a contribuição de cada mecanismo.</p>
-<p>O efeito de cada mecanismo sobre a fluidez é capturado comparando os <strong>slopes</strong> (()) de tendência linear obtidos pelo modelo log-multiplicativo de efeito de camada (Xie 1992) aplicado a cada tabela contrafactual. Para a Alemanha e a Grã-Bretanha, onde a tendência não é linear, uma <em>spline</em> com dois slopes é ajustada — um para as coortes mais velhas, outro para as mais jovens. Um valor positivo de () indica crescente associação OD (menor fluidez); um valor negativo indica redução (maior fluidez).</p>
-<blockquote class="blockquote">
-<p><strong>Nota:</strong> O próprio autor reconhece em nota de rodapé que os testes de significância estatística reportados na Tabela 3 não são testes formalmente válidos, porque os dados sobre os quais o modelo é ajustado são eles mesmos gerados por um modelo — não observações empíricas independentes. <a href="https://www.semanticscholar.org/paper/Educational-Expansion-and-Social-Mobility-in-the-Breen/12884b77847170b27d53520beeaf9e7a2e58f506">semanticscholar</a></p>
-</blockquote>
-</section>
-<section id="resultados-da-decomposição-para-alemanha-suécia-e-grã-bretanha-3944" class="level3" data-number="8.2">
-<h3 data-number="8.2" class="anchored" data-anchor-id="resultados-da-decomposição-para-alemanha-suécia-e-grã-bretanha-3944"><span class="header-section-number">8.2</span> Resultados da decomposição para Alemanha, Suécia e Grã-Bretanha [§39–§44]</h3>
-<p>Para a <strong>Alemanha</strong>, entre as coortes mais velhas, o principal fator de <em>aumento</em> da associação OD foi o efeito COD direto — as contribuições percentuais mostram que foi esse mecanismo que impulsionou a desigualdade nas coortes mais antigas, enquanto o efeito composicional operou na direção oposta (redução da desigualdade). Entre as coortes mais jovens, os principais fatores de redução da associação OD foram o efeito composicional (68,17% da variação total no segundo slope) e a equalização educacional (31,50%), com o efeito CED contribuindo marginalmente e negativamente. O efeito COD direto nos coortes jovens levemente promoveu igualdade (0,39%).</p>
-<p>Para a <strong>Suécia</strong>, onde uma tendência linear é suficiente, o efeito COD operou na direção de <em>menor</em> fluidez (slope de -1,62 no modelo sem COD, comparado com -0,96 no modelo observado — o que implica que o COD reduziu a fluidez em 68,75%). O efeito CED também reduziu ligeiramente a fluidez (-13,54%). A remoção da equalização torna o slope muito menos negativo (de -0,76 para próximo de zero), indicando que a equalização foi responsável por 103,13% da mudança observada. O efeito composicional contribuiu com 79,17% — os valores somam mais de 100% porque alguns efeitos atuaram em sentidos opostos.</p>
-<p>Para a <strong>Grã-Bretanha</strong>, apenas o primeiro modelo (com todos os efeitos) apresenta slopes estatisticamente significantes. Uma vez removido o efeito COD, ambos os slopes se tornam não significantes, indicando que a variação temporal na fluidez britânica foi quase inteiramente determinada por mudanças no efeito parcial direto de origens sobre destinos — que atuou na direção de <em>menor</em> fluidez, tanto nas coortes mais velhas (-84,71%) quanto nas mais jovens (-147,24%). A equalização teve efeito equalizante nas coortes mais velhas, mas desequalizante nas mais jovens. O único mecanismo que atuou consistentemente na direção de maior fluidez foi o efeito composicional (+78,83% entre as coortes jovens), embora esse efeito não alcance significância estatística.</p>
-<hr>
-</section>
-</section>
-<section id="conclusions-pp.-381383" class="level2" data-number="9">
-<h2 data-number="9" class="anchored" data-anchor-id="conclusions-pp.-381383"><span class="header-section-number">9</span> Conclusions (pp.&nbsp;381–383)</h2>
-<section id="síntese-dos-resultados-por-país-4547" class="level3" data-number="9.1">
-<h3 data-number="9.1" class="anchored" data-anchor-id="síntese-dos-resultados-por-país-4547"><span class="header-section-number">9.1</span> Síntese dos resultados por país [§45–§47]</h3>
-<p>A conclusão retoma a lógica contrafactual: o artigo estimou o que teria acontecido com a fluidez social caso, por exemplo, a associação entre origens de classe e escolaridade tivesse permanecido constante ao longo do tempo, comparado ao que de fato ocorreu. Na <strong>Suécia</strong>, a equalização das chances educacionais teve um efeito consistente sobre o aumento da fluidez social; políticas como a eliminação de taxas para educação secundária e terciária, a introdução de refeições e materiais escolares gratuitos, e a reforma de escolas abrangentes (<em>comprehensive schools</em>) na década de 1950 tornaram as oportunidades educacionais menos dependentes dos recursos econômicos da família de origem (Erikson 1996). A igualdade de condições alcançada via tributação progressiva, redistribuição pelo welfare state (Korpi e Palme 2004) e políticas de mercado de trabalho contribuiu adicionalmente para a equalização.</p>
-<p>Na <strong>Alemanha</strong>, a equalização operou principalmente nas coortes nascidas após os anos 1930. Jonsson, Mills e Müller (1996) argumentam que o período do <em>Wirtschaftswunder</em> garantiu segurança econômica a todas as classes sociais, enquanto sindicatos fortes asseguraram condições de trabalho favoráveis e acordos de pensão. Políticas educacionais específicas — como o aumento do período de educação compulsória e a elevação do nível de educação geral exigido para o acesso à aprendizagem — contribuíram indiretamente para que crianças da classe trabalhadora adquirissem maior escolaridade, mesmo que inicialmente motivadas pela aprendizagem vocacional.</p>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Important
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>A <strong>Grã-Bretanha</strong> promulgou muitas das mesmas reformas que a Suécia — a Lei de Educação de 1944 tornou o ensino secundário gratuito; a diferenciação dentro do setor público foi reduzida após o final dos anos 1960 — mas aparentemente sem o mesmo efeito equalizador. O sistema altamente diferenciado (incluindo um pequeno setor privado persistente) manteve a seleção por desempenho examinatório. O welfare state britânico nunca desempenhou o mesmo papel redistributivo do sueco, e a Grã-Bretanha nunca desenvolveu políticas de mercado de trabalho de tipo corporatista. A persistência de um mercado de trabalho para trabalhadores semi ou não qualificados pode ter incentivado crianças de classe trabalhadora a deixar a escola na idade mais jovem possível, mantendo as diferenças de classe no acesso educacional.</p>
-</div>
-</div>
-</section>
-<section id="implicações-de-política-e-qualificação-do-argumento-4850" class="level3" data-number="9.2">
-<h3 data-number="9.2" class="anchored" data-anchor-id="implicações-de-política-e-qualificação-do-argumento-4850"><span class="header-section-number">9.2</span> Implicações de política e qualificação do argumento [§48–§50]</h3>
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Tip
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>O artigo conclui que sociólogos da educação e da estratificação social têm amplamente subestimado o potencial da expansão educacional para promover maior igualdade nas chances de mobilidade, mesmo nos casos em que a equalização não ocorreu. Na Alemanha, o efeito composicional foi mais forte do que o efeito de equalização entre as coortes mais jovens; na Suécia, onde a equalização foi a principal causa do aumento de fluidez, o efeito composicional também contribuiu; na Grã-Bretanha, foi o único mecanismo que apontou na direção de maior fluidez.</p>
-</div>
-</div>
-<p>O autor qualifica, porém, a recomendação de política pública: se os beneficiários da expansão forem principalmente jovens de origens de classe mais favorecidas, isso pode promover desigualdade educacional cujo impacto sobre a fluidez social contrabalance o efeito composicional (Jonsson e Erikson 2007). A <strong>expansão educacional isolada é, portanto, uma estratégia de risco</strong> se o objetivo é aumentar a fluidez social. Em contrapartida, <strong>promover a equalização educacional tende a ser uma estratégia mais eficaz</strong>, porque a equalização quase certamente implica expansão dos níveis médio e superior de escolaridade — dado que é improvável que a equalização ocorra por redução da participação educacional das classes médias (como notam Raftery e Hout 1993 e Breen e Jonsson 2007).</p>
-<hr>
-</section>
-</section>
-<section id="technical-appendix-pp.-387388" class="level2" data-number="10">
-<h2 data-number="10" class="anchored" data-anchor-id="technical-appendix-pp.-387388"><span class="header-section-number">10</span> Technical Appendix (pp.&nbsp;387–388)</h2>
-<section id="justificativa-da-restrição-a-homens-5152" class="level3" data-number="10.1">
-<h3 data-number="10.1" class="anchored" data-anchor-id="justificativa-da-restrição-a-homens-5152"><span class="header-section-number">10.1</span> Justificativa da restrição a homens [§51–§52]</h3>
-<p>O apêndice técnico apresenta dois conjuntos de justificativas metodológicas. O primeiro diz respeito à exclusão de mulheres: análises envolvendo posição de classe restringem atenção a pessoas atualmente no mercado de trabalho. Incluir indivíduos fora da força de trabalho implicaria usar posições de classe ocupadas no passado distante ou derivadas dos cônjuges, conforme as convenções do survey específico. Mais criticamente, comparações temporais seriam comprometidas se as taxas de participação no mercado de trabalho variassem dentro das coortes de nascimento ao longo do ciclo de vida — o que, no caso dos homens, é geralmente não problemático. Na Grã-Bretanha e na Alemanha, há tanto uma tendência histórica de crescente participação feminina quanto padrões pronunciados de participação e não-participação ao longo do ciclo de vida. Na Suécia, ao contrário, o padrão de participação feminina varia menos ao longo do ciclo de vida e se assemelha mais ao masculino — razão pela qual Breen e Jonsson (2007) incluíram mulheres em análise exclusivamente sueca.</p>
-</section>
-<section id="justificativa-da-ordem-de-decomposição-e-robustez-dos-slopes-5355" class="level3" data-number="10.2">
-<h3 data-number="10.2" class="anchored" data-anchor-id="justificativa-da-ordem-de-decomposição-e-robustez-dos-slopes-5355"><span class="header-section-number">10.2</span> Justificativa da ordem de decomposição e robustez dos slopes [§53–§55]</h3>
-<p>O segundo conjunto de justificativas trata da ordem em que os termos são removidos dos modelos. O argumento é que há pouca discricionariedade real: enquanto o termo (^{COD}<em>{ijl}) permanecer no modelo, o COD implicado sempre reproduzirá o COD observado, portanto ele deve ser removido primeiro. Além disso, o efeito composicional requer dois termos — (^{OED}</em>{jkl}) e (^{CE}_{ik}) — e removê-los separadamente tornaria o modelo de equalização não-hierárquico. O autor informa que os outros dois ordenamentos possíveis dentro dessas restrições produzem contribuições relativas quase idênticas e conclusões substantivas inalteradas.</p>
-<p>A justificativa para comparar slopes em vez de comparar fluidez em uma coorte dada reside em um problema técnico: quando um termo como (^{COD}<em>{ijl}) é removido, a associação parcial OD não é fixada em seu valor na coorte mais velha, mas em um valor médio complexo ao longo de todas as coortes. Isso torna a comparação direta de associações em uma dada coorte infactível. A comparação de slopes contorna esse problema porque o slope é invariante ao reescalonamento das associações em todas as coortes pelo valor de (^{OD}</em>{jl}).</p>
-<hr>
-</section>
-</section>
-<section id="argumento-sintético" class="level2" data-number="11">
-<h2 data-number="11" class="anchored" data-anchor-id="argumento-sintético"><span class="header-section-number">11</span> Argumento Sintético</h2>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong>Tese central:</strong> A expansão educacional, ao deslocar coortes sucessivas para níveis de escolaridade nos quais a associação entre origens e destinos de classe é estruturalmente mais fraca (<em>associação diferencial</em>), produz por si mesma um efeito composicional que aumenta a fluidez social — mecanismo distinto e empiricamente mensurável em relação à equalização educacional e sistematicamente negligenciado pela literatura de mobilidade social.</p>
-<p><strong>Natureza do argumento:</strong> O argumento é explicativo-quantitativo, com formalização log-linear e simulação contrafactual. Não é um argumento causal no sentido de identificação por variação exógena, mas uma decomposição analítica de contribuições relativas a padrões observados de mudança.</p>
-<p><strong>O que o texto demonstra:</strong> (1) Que a associação diferencial existe nos três países estudados; (2) que a expansão educacional ocorreu em todos os três países; (3) que o efeito composicional teve contribuição positiva mensurável sobre a fluidez social em todos os três países; (4) que na Grã-Bretanha foi o único mecanismo operando na direção de maior fluidez; (5) que a variação nos retornos à educação (CED) não foi fonte relevante de mudança em nenhum dos três países.</p>
-<p><strong>O que fica como hipótese ou agenda:</strong> A existência de associação diferencial em outros países e contextos institucionais (especialmente fora da Europa Ocidental) é pressuposta mas não demonstrada; os mecanismos causais pelos quais políticas específicas produziram equalização em alguns países (Suécia, Alemanha) e não em outros (Grã-Bretanha) são discutidos qualitativamente na conclusão, mas não testados empiricamente; a análise se restringe a homens, deixando aberta a questão de como a crescente participação feminina no mercado de trabalho interage com os mecanismos identificados.</p>
-<p><strong>Contribuição para o debate:</strong> O artigo reposiciona a expansão educacional como variável independente relevante para a fluidez social — não apenas como pano de fundo sobre o qual a equalização opera —, oferece uma formalização log-linear que permite decomposição sistemática de efeitos e produz uma ferramenta metodológica transferível para outros contextos. Para pesquisas sobre expansão educacional no Sul Global, o argumento é diretamente relevante: mesmo na ausência de equalização verificada, a expansão pode promover fluidez social, desde que a condição de associação diferencial se verifique nos mercados de trabalho locais.</p>
-</div>
-</div>
-
-
-</section>
-
- ]]></description>
-  <category>Annotated Bibliography</category>
-  <category>Sociology of Education</category>
-  <category>Social Stratification</category>
-  <category>Inequality</category>
-  <category>Comparative</category>
-  <category>2010</category>
-  <category>2010s</category>
-  <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Breen2010.html</guid>
   <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
 </item>
 </channel>
