@@ -1,0 +1,399 @@
+---
+title: "Fichamento: O Cativeiro da Terra"
+subtitle: "Martins, J. de S. (2012). *O cativeiro da terra* (9ª ed., revista e ampliada). Editora Contexto."
+author: "Tales Mançano"
+date: "2026-06-07"
+last-updated: "2026-06-07"
+coverage: "Obra completa"
+categories: [Annotated Bibliography, Historical Sociology, Political Economy, Labor Relations, Coffee Economy, Social Stratification, Brazil, 2012, 2010s]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+    execute: false
+---
+
+::: {.callout-note collapse="true" icon=false}
+## Informações Técnicas e BibTeX
+
+```
+Última atualização: 2026-06-07
+Modelo: Claude Sonnet 4.6
+Prompt Version: v17.4 · 2026-05-13
+Gerado em: 2026-06-07T00:00:00-03:00
+Ocasião da Leitura:
+```
+
+**Entrada BibTeX → Martins2012**
+
+```bibtex
+@book{Martins2012,
+  author    = {Martins, José de Souza},
+  title     = {O cativeiro da terra},
+  year      = {2012},
+  publisher = {Editora Contexto},
+  address   = {São Paulo},
+  edition   = {9},
+  note      = {Edição revista e ampliada. 1ª edição: 1979, Livraria Editora Ciências Humanas},
+  isbn      = {Não informado no PDF},
+}
+```
+
+:::
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v17.4*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | A premissa central é que a transição do trabalho escravo ao trabalho livre no Brasil não seguiu o padrão clássico do assalariamento. O ponto mais vulnerável é o risco de naturalizar a singularidade brasileira sem a contrastar sistematicamente com outros casos. A interpretação alternativa mais crível é a de que as relações não capitalistas seriam apenas uma fase transitória de um processo inevitavelmente convergente ao assalariamento "típico". | Por que o capitalismo brasileiro produziu e reproduziu relações não capitalistas de produção? Por que a abolição da escravidão negra não resultou em trabalho assalariado, mas em formas sui generis de sujeição da força de trabalho — o colonato — baseadas na monopolização da propriedade fundiária? Pergunta de natureza explicativa e causal (mecanísmica), centrada no processo histórico da transição entre modos de produção no contexto específico da economia cafeeira de São Paulo. |
+| Questões Secundárias | As questões secundárias orbitam o núcleo da produção capitalista de relações não capitalistas e têm relação de especificação progressiva com a questão central. | (1) Como a Lei de Terras de 1850 funcionou como mecanismo estrutural de coerção do trabalho livre? (2) Como diferentes ondas imigratórias (italiana e espanhola) encontraram configurações distintas da economia cafeeira, revelando a dinâmica evolutiva do colonato? (3) Qual a relação entre a economia cafeeira e a gênese da industrialização em São Paulo? (4) Como a ideologia do "trabalho" foi produzida pela burguesia agrária e industrial para legitimar a exploração de classe? (5) Como o mito do burguês self-made (Matarazzo) funcionou como mecanismo ideológico de reprodução da dominação? |
+| Puzzle-Type | O puzzle é genuíno e relevante além do caso: a coexistência de capitalismo e relações não capitalistas é problema estrutural de economias periféricas e coloniais, não uma anomalia brasileira. A tendência evolucionista que supõe uma transição linear ao assalariamento "clássico" é o alvo crítico explícito. | Puzzle explicativo de alta relevância teórica: a economia cafeeira brasileira expandiu-se tanto sob trabalho escravo quanto sob trabalho "livre" sem que o segundo assumisse a forma salarial clássica. Caio Prado Júnior e Florestan Fernandes, entre outros, afirmam que o escravo foi substituído pelo assalariado; Martins demonstra que a substituição produziu o colonato — forma não capitalista de exploração da força de trabalho pelo capital. A explicação desse desvio do padrão canônico da literatura é o coração do puzzle. |
+| Conclusão / Argumento Central | A tese é causal-estrutural e de caráter historicamente fundado. O claim of discovery repousa sobre a reinterpretação da função da propriedade fundiária na acumulação capitalista e da natureza do escravo como renda capitalizada (e não como capital fixo), o que sustenta a análise do colonato como forma não capitalista produzida pelo próprio capital. | O **cativeiro da terra** — a monopolização institucional da propriedade fundiária como instrumento de coerção da força de trabalho livre — é a matriz estrutural do capitalismo brasileiro. A Lei de Terras de 1850 instituiu o princípio: "se o trabalho fosse livre, a terra teria que ser escrava." O colonato resultou não de um atraso pré-capitalista, mas foi produzido pelo próprio capitalismo cafeeiro como solução à crise do trabalho escravo, condicionando a lentidão histórica da constituição das classes sociais e a conformação ideológica da classe trabalhadora. A industrialização, longe de romper com essa matriz, reproduziu-a sob nova roupagem ideológica: o mito da ascensão social pelo trabalho. |
+| Métodos | O design combina análise teórica marxiana com pesquisa documental histórica de arquivo. Trata-se de uma obra de sociologia histórica com pretensões de teoria social geral a partir de um caso. O principal risco metodológico é a seleção de fontes para confirmar uma tese já constituída. O fichamento cobre a obra inteira (9ª edição revista e ampliada, 2012), que incorpora três capítulos novos (caps. 2, 3 e 6) à obra original de 1979. | Sociologia histórica de caráter qualitativo e documental. O autor mobiliza: (a) pesquisa de arquivo extensiva (relatórios do Departamento Estadual do Trabalho, atas do Conselho de Estado, inventários de fazendas, imprensa da época em língua italiana e espanhola, boletins agrícolas, documentação do Departamento de Commerce dos EUA sobre São Paulo); (b) análise teórica marxiana heterodoxa, privilegiando especialmente os volumes 2 e 3 de *O capital* e os *Grundrisse*; (c) análise crítica da literatura secundária de referência (Caio Prado Júnior, Celso Furtado, Florestan Fernandes, Warren Dean, Paula Beiguelman, Maria Sylvia de Carvalho Franco). A estratégia argumentativa é a da reconstituição histórica dialética do processo social, oposta ao procedimento classificatório (feudal vs. capitalista). |
+| Data Generation Process (DGP) | O DGP envolve seleção de fontes documentais primárias e secundárias para um período e região específicos. Risco de viés de seleção: a documentação disponível (boletins, inventários, relatórios) tende a superamostrar fazendas maiores e mais formalizadas, sub-representando as margens do sistema. A imprensa étnica em língua italiana e espanhola é mobilizada de forma ilustrativa, não sistemática. A unidade de análise oscila entre relações de produção (abstrato) e fazendas/imigrantes individuais (concreto), o que cria às vezes saltos inferências. | Fenômeno real: relações de produção no complexo cafeeiro paulista (1850–1930) → observação: documentação de arquivo (relatórios governamentais, inventários, imprensa étnica, correspondências empresariais, censos) → coleta: pesquisa em arquivos estaduais de São Paulo, consulado americano, Junta Comercial do Estado → operacionalização: reconstituição qualitativa do processo de trabalho, da renda capitalizada e da ideologia; → análise: interpretação dialética marxiana → inferência: causal-mecanísmica (o cativeiro da terra produz colonato e ideologia do trabalho). Unidade de análise: relações de produção no nível da fazenda cafeeira; nível de agregação: economia cafeeira de São Paulo, com generalizações ao Brasil. |
+| Achados e Contribuições | Os achados empíricos sobre a imigração espanhola (Cap. 2) e os empresários italianos (Cap. 6) são contribuições documentais substantivas. A reinterpretação do escravo como renda capitalizada (e não capital fixo) é a inovação teórica mais ousada. O claim causal sobre o colonato como produto não capitalista do capitalismo é bem sustentado empiricamente para a economia cafeeira de São Paulo. | (1) **Teórica:** Reformulação das categorias marxianas — o escravo não é capital fixo, mas renda capitalizada; o colonato não é pré-capitalismo residual, mas forma não capitalista produzida pelo capital; (2) **Empírica/comparativa:** A comparação entre imigrantes espanhóis (tardios, camponeses, baixa mobilidade) e italianos (precoces, estratificados, maior mobilidade) revela como diferentes momentos da economia cafeeira produziram inserções distintas; (3) **Histórica:** A gênese da Lei de Terras de 1850 é reconstituída como mecanismo deliberado de coerção laboral, complementar à cessação do tráfico negreiro; (4) **Ideológica:** A produção do mito da ascensão social pelo trabalho (culminando no caso Matarazzo) é analisada como mecanismo de legitimação da exploração de classe com efeitos estruturantes até a industrialização. |
+| Análise Crítica dos Achados | A vulnerabilidade principal está no salto da análise de São Paulo para afirmações sobre o "capitalismo brasileiro" em geral. Segundo ponto fraco: a categoria de "renda capitalizada" aplicada ao escravo, embora fecunda, é operacionalizada axiomaticamente, sem um teste contra hipóteses alternativas plausíveis. Terceiro ponto: os capítulos posteriores (5, 6, 7) têm menor densidade teórica e mais caráter ensaístico, reduzindo a coerência do volume. | (a) **Viés de seleção de caso:** A análise empírica se concentra quase exclusivamente em São Paulo e nos cafezais, mas as generalizações alcançam "a sociedade brasileira" sem qualificação suficiente; (b) **Compatibilidade DGP-claim:** O claim sobre a gênese do colonato como resposta capitalista à crise da escravidão é bem sustentado, mas os mecanismos ideológicos (Cap. 4 e 7) têm sustentação empírica mais fraca; (c) **Eliminação de hipóteses alternativas:** O autor refuta sistematicamente a hipótese "feudal" e a hipótese "assalariamento clássico", mas testa menos a hipótese culturalista sobre o ethos do trabalho imigrante; (d) **Ausência de perspectiva de gênero e raça:** O trabalho doméstico das mulheres colonas é estruturalmente invisível na análise do colonato, assim como as trajetórias específicas dos trabalhadores negros após a abolição; (e) **Scope conditions:** A análise é explicitamente sobre São Paulo e o café, mas a tese do "cativeiro da terra" é proposta como matriz nacional. |
+| Limitações | O autor reconhece a concisão de formulações na edição original e a necessidade de expansão; reconhece que a imprensa e os documentos consultados sobre capítulos específicos (como o cap. 6) têm origem fragmentária; reconhece o caráter polêmico e a posição no debate sobre modos de produção da época. | **Reconhecidas pelos autores:** Formulações concisas na 1ª edição que foram substituídas por explanações mais largas nesta edição; limitações da pesquisa documental disponível sobre os empresários italianos (cap. 6); reconhecimento do viés do debate latino-americano sobre modos de produção que contextualizou a obra original. <br> **Não reconhecidas ou subestimadas:** A ausência quase total de perspectiva de gênero e raça na análise do colonato e da industrialização; a variação inter-regional (São Paulo vs. Nordeste vs. Minas Gerais) não é sistematicamente controlada; o salto inferencial de "economia cafeeira paulista" para "capitalismo brasileiro" como totalidade; a menor densidade empírica dos capítulos ensaísticos (7) em relação aos teóricos e documentais (1, 3). |
+| Perspectiva Teórica | A filiação marxiana heterodoxa (marxiana, não marxista) é coerente com o método empírico-dialético adotado. A crítica ao althusserianismo é bem fundamentada. Há, porém, um risco de reificação das categorias marxianas: a "renda capitalizada" é mobilizada como chave explicativa universal sem ser adequadamente operacionalizada em termos mensuráveis. A ontologia é realista-histórica, coerente com o método qualitativo adotado. | Marxismo heterodoxo de base marxiana (em oposição explícita ao "marxismo vulgar", ao estruturalismo althusseriano e ao evolucionismo linear). O autor privilegia os volumes 2 e 3 de *O capital* (teoria da renda da terra, processo de valorização do capital) e os *Grundrisse*, normalmente menos mobilizados na literatura brasileira de então. A tradição de referência é a sociologia histórica crítica, com diálogo com a historiografia econômica brasileira (Caio Prado Júnior, Celso Furtado) e com a sociologia das classes (Florestan Fernandes). A ontologia é explicitamente processual e dialética, crítica de qualquer "totalidade fechada". |
+| Principais Referências | O diálogo com a literatura secundária é desigual: profundo com os clássicos brasileiros (Caio Prado Júnior, Florestan Fernandes), mas ocasionalmente superficial com autores citados apenas para refutação. A ausência de diálogo com a historiografia agrária mais recente (Sérgio Milliet, Warren Dean são mencionados, mas pouco elaborados) é perceptível. | Karl Marx (*O capital*, vols. 1–3; *Grundrisse*), Rosa Luxemburg, Florestan Fernandes, Caio Prado Júnior, Celso Furtado, Maria Sylvia de Carvalho Franco, Warren Dean, Paula Beiguelman, Franco Venturi (*Il populismo russo*), José María Aricó (*Marx y América Latina*), Louis Couty, Pierre Denis, Paula Beiguelman, Roberto Cochrane Simonsen, György Lukács (crítica ao "marxismo vulgar" de Sweezy). |
+| Observações | Obra de referência fundadora na sociologia histórica brasileira. A 9ª edição (2012) é a versão definitiva do autor, incorporando revisões substantivas e três capítulos novos. Relevante para a dissertação de Tales como: (1) chave interpretativa da Lei de Terras de 1850 como mecanismo estrutural de desigualdade de longo prazo; (2) análise dos mecanismos de coerção não capitalista em economias capitalistas periféricas; (3) articulação entre estrutura econômica e produção ideológica como mecanismo de reprodução da dominação. O fichamento cobre a obra completa. Tipo de texto: livro completo de autor único; entrada BibTeX `@book`. |
+
+:::
+
+## Mapa Argumentativo {.unnumbered}
+
+| Capítulo | Título | Função argumentativa | Contribuição para a tese central |
+|:---------|:-------|:---------------------|:---------------------------------|
+| Prefácio | *Nova edição, revista e ampliada* | Enquadramento histórico e apresentação da tese | Enuncia em linguagem acessível a tese central do "cativeiro da terra": a fórmula "se o trabalho fosse livre, a terra teria que ser escrava"; justifica as alterações da 9ª edição e situa o livro no debate contemporâneo |
+| Apresentação | *[sem título]* | Fundamento teórico-metodológico | Critica o "marxismo vulgar" althusseriano e o evolucionismo linear; apresenta a orientação metodológica marxiana heterodoxa; formula a hipótese da produção capitalista de relações não capitalistas e a reinterpretação do escravo como renda capitalizada |
+| Cap. 1 | A produção capitalista de relações não capitalistas de produção | Estudo de caso analítico central | Demonstra empirica e teoricamente que o colonato não era trabalho assalariado, mas forma não capitalista de sujeição da força de trabalho produzida pelo capital; articula a teoria da renda capitalizada ao caso do escravo e ao regime de colonato |
+| Cap. 2 | Uma imigração tardia | Extensão comparativa do argumento | Aprofunda a análise do colonato via comparação entre imigrantes espanhóis (tardios) e italianos (precoces); mostra como diferentes momentos da economia cafeeira produziram formas distintas de sujeição e mobilidade do trabalho |
+| Cap. 3 | Do trabalho escravo ao assalariado nas fazendas de café, 1880–1914 | Análise empírica da transição | Analisa os quatro problemas estruturais da relação população-produção; reconstitui o papel da Lei de Terras e da dívida colonial como mecanismos de sujeição do trabalhador livre; demonstra a longa duração da transição incompleta ao assalariamento |
+| [Álbum fotográfico] | *[sem título]* | Documentação iconográfica | Não fichado; constitui evidência visual da condição dos colonos e das práticas de trabalho nas fazendas de café |
+| Cap. 4 | As relações de classe e a produção ideológica da noção de trabalho | Fundamento ideológico | Demonstra como a burguesia agrária e industrial produziu a ideologia do "trabalho" como mecanismo de legitimação da exploração de classe; mostra que a ética do trabalho não era uma característica cultural do imigrante, mas uma produção da burguesia |
+| Cap. 5 | O café e a gênese da industrialização em São Paulo | Revisão crítica de literatura | Questiona as interpretações de Celso Furtado e outros sobre a relação entre economia cafeeira e industrialização; propõe uma interpretação alternativa que reconhece a articulação de capitais entre fazendeiros e industriais, dissolvendo a dicotomia agro-industrial |
+| Cap. 6 | Empresários e trabalhadores de origem italiana no desenvolvimento industrial brasileiro em 1880 e 1914 | Estudo de caso empírico | Desmistifica a trajetória dos imigrantes italianos como empreendedores; distingue as três trajetórias do imigrante italiano (colonato, núcleos coloniais, cidades); reconstitui as condições não capitalistas de absorção da força de trabalho na indústria nascente |
+| Cap. 7 | O imaginário da ascensão social pelo trabalho / A morte do burguês mítico | Síntese ideológica e conclusão implícita | Analisa o mito Matarazzo como mecanismo ideológico de reprodução da dominação de classe; mostra como a "morte do burguês mítico" (com o conde Chiquinho) expõe a deterioração do mito da ascensão pelo trabalho e a emergência de uma consciência de classe mais clara, embora ambígua |
+
+---
+
+## Prefácio — *Nova edição, revista e ampliada* (pp. 9–26)
+
+### O cativeiro como matriz estrutural [Cap.Pref §1–§5]
+
+O Prefácio desta 9ª edição (definitiva, segundo o autor) abre com uma síntese de notável densidade argumentativa, que apresenta a tese central de toda a obra em linguagem deliberadamente acessível. Martins parte de uma constatação: o desenvolvimento capitalista no Brasil não seguiu o modelo consagrado na literatura especializada, mas teve sua própria circunstância histórica. Para compreender essa singularidade, o autor propõe uma diferença fundamental de origem que permanece e regula o presente.
+
+Diante do esgotamento do escravismo e da inevitabilidade do trabalho livre, o Brasil decidiu, em 1850, pela cessação do tráfico negreiro, condenando assim a escravidão. Optou pela imigração estrangeira de trabalhadores livres. Contudo, duas semanas depois da cessação do tráfico, o mesmo Estado aprovou a Lei de Terras, instituindo um novo regime de propriedade em que a condição de proprietário dependia não apenas da condição de homem livre, mas também de pecúlio para a compra da terra. O país selecionaria, por meio de seus agentes na Europa, o imigrante pobre, desprovido de meios, que chegasse ao Brasil sem outra alternativa senão a de trabalhar em latifúndio alheio para eventualmente tornar-se proprietário de sua própria terra.
+
+::: {.callout-note icon=false}
+**Tese central do livro**, enunciada no Prefácio: "O país inventou a fórmula simples da coerção laboral do homem livre: se a terra fosse livre, o trabalho tinha que ser escravo; se o trabalho fosse livre, a terra tinha que ser escrava. O cativeiro da terra é a matriz estrutural e histórica da sociedade que somos hoje."
+:::
+
+O autor contrasta essa opção brasileira com a norte-americana: doze anos depois, o *Homestead Act* de Abraham Lincoln optou pela livre ocupação das terras livres como mecanismo de esvaziamento do escravismo, permitindo que mesmo os ex-escravos pudessem se tornar proprietários de terra sem ônus. No modelo brasileiro, a propriedade da terra se institucionalizou como propriedade territorial capitalista, presidindo o processo de instauração e consolidação do capitalismo, acasalando terra e capital e concentrando a repartição da mais-valia. Isso representou o modo brasileiro de acelerar a entrada no mundo moderno — o recurso compensatório da pilhagem colonial que condenara o país ao atraso. A transição para o capitalismo foi, portanto, vagarosa e extraviada em atalhos de inovações sociais e econômicas tópicas.
+
+### Estrutura e revisões da 9ª edição [Cap.Pref §6–§12]
+
+O Prefácio informa as alterações efetuadas para a edição definitiva. O capítulo 1 recebeu acréscimos significativos, desenvolvendo temas que na edição original ficaram limitados a formulações concisas. Três capítulos inteiramente novos foram incorporados à obra: o capítulo 2 (sobre o imigrante espanhol no colonato, como contraponto comparativo à imigração italiana); o capítulo 3 (sobre o processo de libertação do salário como categoria de mediação, no longo e complexo processo da produção do café); e o capítulo 6 (sobre o desenvolvimento industrial e o imigrante italiano nas duas categorias sociais — empresários e trabalhadores — que protagonizaram a industrialização brasileira nas suas décadas iniciais). A sequência dos capítulos originais foi alterada: o capítulo sobre a produção ideológica da noção de trabalho foi antecipado em relação ao capítulo sobre a gênese da industrialização, pois a ideologia da ascensão social pelo trabalho, embora geneticamente referida ao colonato, tomou conta também da ideologia operária e urbana.
+
+> O autor destaca que a obra tem "um retorno insistente ao tema do cativeiro da terra, suas origens e suas decorrências" ao longo dos sete capítulos, e que ele empreendeu revisão de estilo para uniformizar um texto escrito em diferentes momentos de sua reflexão.
+
+---
+
+## Apresentação (pp. 27–43)
+
+### Crítica ao "marxismo vulgar" e ao althusserianismo [Cap.Apres §1–§8]
+
+A Apresentação tem função de manifesto metodológico. Martins abre declarando que orienta sua pesquisa teórica e empírica pelo problema da **produção capitalista de relações não capitalistas de produção** no marco da reprodução capitalista do capital de origem não capitalista. Diante dos impasses do debate "feudalismo versus capitalismo" — que tentava classificar a sociedade brasileira em "tipos macroestruturais" —, o autor propõe uma alternativa metodológica que privilegia o concreto histórico em detrimento da nominação conceitual.
+
+A crítica ao marxismo althusseriano e ao "marxismo vulgar" (na definição de Lukács) é central. O autor denuncia a petrificação e reificação da noção de **formação econômico-social**, que passou a substituir funcionalisticamente a noção de "sistema social" sem que o processo de pensamento subjacente tivesse sofrido transformação correspondente. Igualmente, o conceito de **modo de produção** foi reduzido a uma classificação de etapas econômicas (como faz Paul Sweezy), perdendo o conteúdo dialético que Marx lhe atribuiu: modo historicamente determinado de exploração da força de trabalho no processo de produção, no qual são produzidas também as relações sociais fundamentais e as representações que as legitimam ideologicamente.
+
+> **Nota 1:** O autor critica especificamente a obra de Marta Harnecker como exemplo de vulgarização althusseriana que vincula o conceito de formação econômico-social a espaços geográficos ("América Latina"), produzindo uma totalidade fechada e a-histórica. [nota incluída por relevância argumentativa]
+
+A partir da Universidade de Louvain, uma corrente do althusserianismo marcada pela articulação entre estrutura e superestrutura teria chegado ao Brasil com grande impacto nos autores da Teologia da Libertação. Nesse contexto, a religião seria protegida no âmbito mecanicista da superestrutura, ganhando legitimidade no corpo do marxismo mas perdendo seu caráter próprio ao ser reduzida a epifenômeno da materialidade social.
+
+### A hipótese central e as inovações teóricas [Cap.Apres §9–§17]
+
+O caminho metodológico escolhido é o marxiano ortodoxo: privilegiar o concreto, o processo social em sua dimensão histórica. O que Martins define como descoberta e inovação interpretativa decorre desse procedimento: a observação de que o próprio capital engendra e reproduz relações não capitalistas de produção, numa coexistência de **tempos sociais de datas entre si diversas**. O acesso privilegiado a essa constatação se dá pela reflexão sobre a análise que Marx faz da **renda territorial** na sociedade capitalista.
+
+::: {.callout-note icon=false}
+**Hipótese central da Apresentação:** A renda da terra, sendo de origem pré-capitalista, contraditória e obstáculo à expansão do capital, perde esse caráter à medida que é absorvida pelo processo do capital e se transforma em **renda territorial capitalizada**. Isso introduz uma irracionalidade na reprodução do capital que é superada pela repartição da mais-valia sob forma de lucro, juro ou renda. Martins estende esse raciocínio para além das relações pré-capitalistas, incluindo o que Marx e Rosa Luxemburg definiram como relações não capitalistas, permitindo analisar o colonato como forma historicamente criada na substituição do trabalhador escravo.
+:::
+
+A segunda inovação teórica fundamental é a interpretação do **escravo como renda capitalizada** e não como capital fixo. Essa formulação, segundo Martins, é essencial para repensar a questão da exploração do trabalho do período colonial à atualidade e a questão da renda fundiária no Brasil. O autor fundamenta essa interpretação no próprio Marx, que situa a escravidão no marco teórico da renda fundiária — aspecto sistematicamente omitido pela literatura brasileira com efeitos teóricos e políticos graves.
+
+> **Nota 2:** A crítica à omissão da teoria da renda territorial em autores brasileiros de referência é direta e polêmica: "Essa omissão tem representado não somente um atraso teórico nas análises das ciências humanas entre nós, mas, sobretudo, um atraso político." [nota incluída por relevância argumentativa]
+
+A Apresentação conclui situando a pesquisa no movimento do capital em seu conjunto: a transição do escravismo para o trabalho assalariado em São Paulo foi um processo planejado, controlado e relativamente lento — de quase 40 anos — por iniciativa dos próprios fazendeiros de café, que eram ao mesmo tempo investidores em empreendimentos ferroviários, comerciais, financeiros e industriais. Essa singularidade histórica reveste o processo do capital de características que o diferenciam substantivamente do modelo de referência da literatura histórica e sociológica internacional.
+
+---
+
+## Capítulo 1: A produção capitalista de relações não capitalistas de produção (pp. 45–145)
+
+### A dinâmica dos contrários: refutação do consenso [Cap.1 §1–§9]
+
+Martins abre o capítulo central da obra desafiando o consenso da literatura especializada. O lugar-comum entre historiadores, sociólogos, economistas e cientistas políticos é que a servidão negra foi substituída pelo trabalho assalariado. Caio Prado Júnior afirma que a lavoura cafeeira baseou-se em escravos negros "substituídos mais tarde por trabalhadores assalariados"; Florestan Fernandes assinala que, com a abolição, as tendências de reintegração da ordem social e econômica "expeliu o negro e o mulato do sistema capitalista de relações de produção no campo". Autores mais recentes são ainda mais enfáticos: "com a imigração massiva, o trabalho escravo cedeu lugar ao trabalho assalariado nas plantações de café."
+
+O procedimento teórico que Martins critica é de natureza epistemológica: a projeção do capital personificado pelo fazendeiro sobre as relações de produção internas à fazenda. Como o fazendeiro-capitalista personificava o capital comercial, inferiu-se daí que as relações de produção da fazenda seriam capitalistas. Esse procedimento é equivocado porque descarta a reconstituição das mediações reais entre o capital e o trabalho. O importante, insiste Martins, é descobrir **que forma de capital** o fazendeiro personificava — e a resposta é que ele personificava o capital comercial, cuja racionalidade se esgotava no nível da circulação das mercadorias.
+
+::: {.callout-note icon=false}
+**Conceito-chave: colonato** — Regime de trabalho que prevaleceu nas fazendas de café por cerca de um século (até fins dos anos 1950). Baseado na produção direta dos meios de vida pelo próprio trabalhador (trato dos cafezais, roça de alimentos, cultivo intercalar), combinada com pagamento em dinheiro por tarefas específicas (carpa, colheita). Não era trabalho assalariado: o salário não era a mediação central da relação entre capital e trabalho.
+:::
+
+### A natureza do escravo como renda capitalizada [Cap.1 §10–§18]
+
+A transformação das relações de produção originou-se na esfera da circulação, na crise do comércio de escravos que produziu seus efeitos mais drásticos a partir de 1850, quando o tráfico negreiro foi definitivamente proibido. A hegemonia do comércio na determinação das relações de produção na economia colonial é sublinhada: nessa economia, não só o produto do trabalho, mas o próprio trabalhador, era objeto de comércio. O escravo, antes de ser produtor direto, tinha que ser objeto de comércio — tinha que produzir lucro já antes de começar a produzir mercadoria.
+
+A exploração do escravo no processo produtivo estava, portanto, precedida de parâmetros e relações comerciais que a determinavam. O fazendeiro calculava o rendimento do escravo pela taxa de juros de mercado, pelo lucro médio que equivaleria ao rendimento de seu capital se aplicado em outro negócio. A consequência teórica fundamental é que o escravo não entrava no processo de trabalho como capital fixo (meio de produção), mas como **renda capitalizada** — como tributo antecipado ao fornecedor de mão de obra (o traficante), equivalente à lógica da renda territorial capitalizada. Tanto a terra quanto o escravo têm em comum o fato de não serem produtos do trabalho, de não terem valor no sentido marxiano, mas terem preço — preço determinado pela capitalização de uma renda esperada.
+
+> **Nota 3:** Martins apoia-se em Marx para demonstrar que o preço do escravo correspondia à capitalização de sua mais-valia esperada: "O preço que se paga pelo escravo não é senão a mais-valia ou lucro futuro capitalizado", citando como referência as análises de Louis Couty sobre a economia cafeeira. [nota incluída por relevância argumentativa]
+
+### O colonato como relação não capitalista produzida pelo capital [Cap.1 §19–§34]
+
+A crise do escravismo engendrou o colonato como a modalidade de trabalho que superaria o escravo — o trabalho livre, ainda não o trabalho assalariado. O trabalhador livre que veio substituir o escravo não diferia dele por estar divorciado dos meios de produção — característica comum a ambos. Diferia na medida em que o trabalho livre se baseava na separação do trabalhador de sua **força de trabalho**, que no escravo se confundiam.
+
+A contradição que permeia a emergência do trabalho livre expressa-se na transformação das relações de produção como meio para preservar a economia colonial de exportação: tratava-se de **mudar para manter**. As relações de produção se transformaram, mas o produto (o café) e o processo de trabalho permaneceram essencialmente os mesmos. O colono continuou a fazer exatamente o que o escravo fazia — mudando apenas a forma social da organização do trabalho, do trabalho coletivo do eito para o trabalho familiar.
+
+O colonato era, portanto, a solução capitalista para a crise do trabalho escravo que preservava a racionalidade da economia de exportação sem instaurar plenamente as relações capitalistas de produção. A sujeição do trabalho, que no cativeiro se dava pela coerção física, passou a se dar por mecanismos econômicos não salariais: o endividamento do colono (pela dívida da passagem, pelo endividamento na venda de produtos no armazém do fazendeiro), a dependência da roça de alimentos (meio de vida produzido diretamente pelo trabalhador), e a exclusão do acesso à propriedade da terra pela Lei de Terras.
+
+::: {.callout-important}
+## Mecanismo estrutural do cativeiro da terra
+
+O nexo estrutural central da argumentação de Martins: a Lei de Terras de 1850 não foi uma política fundiária qualquer — foi o instrumento jurídico-institucional que converteu a terra em equivalente de capital, tornando a compra o único acesso legítimo à propriedade. Isso produziu artificialmente uma superpopulação relativa fictícia — uma "falsa carência de terras" para o trabalho familiar — que tornava compulsório o trabalho dos imigrantes pobres nas fazendas de café. O cativeiro da terra era, portanto, a própria condição de possibilidade do trabalho "livre" como forma de sujeição não capitalista ao capital.
+:::
+
+### Renda fundiária e reprodução capitalista do capital [Cap.1 §35–§52]
+
+A longa seção central do capítulo aprofunda a análise teórica da renda territorial no capitalismo brasileiro. Martins retoma a análise marxiana da renda fundiária e suas três formas — renda em trabalho, renda em espécie e renda em dinheiro — para demonstrar que o colonato era essencialmente uma forma de **renda em trabalho e em espécie** que se revestia superficialmente da forma monetária nas parcelas de pagamento em dinheiro. O capital do fazendeiro não era um capital que se realizava predominantemente como capital industrial ou produtivo, mas como capital que obtinha renda fundiária capitalizada.
+
+O fazendeiro de café, ao mesmo tempo rentista e capitalista, exemplificava a unicidade de capital e propriedade da terra que inaugurou e difundiu rapidamente no Brasil "a modernidade desse capitalismo singular". A expansão para zonas novas (a terra-roxa de Ribeirão Preto e da Alta Mogiana), movida pela renda diferencial da terra mais fértil, e a diversificação dos investimentos dos fazendeiros em ferrovias, bancos, indústrias e empresas comerciais a partir da última década do século XIX, compõem o quadro de um empresário híbrido — o "fazendeiro-capitalista" — que não era simplesmente um proprietário fundiário pré-capitalista.
+
+> **Nota 4:** Martins registra que a contabilidade das fazendas cafeeiras era organizada com base em livros de contas-correntes — contabilidade de circulação, não de custos —, indicando que a racionalidade do capital personificada pelo fazendeiro se esgotava no nível da circulação das mercadorias. A ausência de contabilidade de custos nas fazendas é tomada como evidência da natureza comercial (e não industrial) do capital cafeeiro.
+
+### Imigração subsidiada e a produção artificial da escassez de terras [Cap.1 §53–§72]
+
+Martins analisa detidamente o mecanismo pelo qual o Estado brasileiro produziu a superpopulação relativa necessária à sujeição do trabalho livre. A imigração em massa subsidiada pelo Estado — cujos custos de transporte e alojamento eram socializados pela Fazenda Pública — foi o instrumento político central. O imigrante chegava ao Brasil "desprovido de meios", sob a tutela do fazendeiro, condicionado a trabalhar na fazenda por tempo indeterminado antes de poder acumular o pecúlio necessário à compra de terra.
+
+A Lei de Terras de 1850 e a política de imigração subsidiada funcionavam como sistema integrado de coerção não capitalista da força de trabalho. Aqui reside o "cativeiro da terra": a terra livre, monopolizada pelo Estado e pelos fazendeiros, tornava o trabalho livre compulsório. O Conselho de Estado, em consulta de 1842 já na fase de gestação da Lei de Terras, enunciou com clareza o princípio: "tornar mais custosa a aquisição de terras" para garantir que o imigrante pobre alugasse "o seu trabalho efetivamente por algum tempo, antes de obter meios de se fazer proprietário."
+
+### Composição orgânica do capital e trabalho no colonato [Cap.1 §73–§92]
+
+A seção final do capítulo articula a análise da produção de café à teoria marxiana da composição orgânica do capital. A produção de café se baseava em uma aparente alta composição orgânica do capital (dado o alto custo das terras e dos cafezais em implantação), mas na verdade escondia uma baixíssima composição porque o trabalhador colono produzia diretamente uma parcela considerável dos seus próprios meios de vida (roça, horta, galinhas). Isso significava que o capital não precisava desembolsar o equivalente integral do valor da força de trabalho — parte desse valor era produzida pelo próprio trabalhador dentro da fazenda, mediante acesso concedido pelo fazendeiro à terra para cultivo de subsistência.
+
+::: {.callout-tip}
+## Implicação teórica para a teoria da mais-valia
+
+A produção direta dos meios de vida pelo colono equivalia a uma forma de extração de mais-valia absoluta disfarçada de relação não monetária: o fazendeiro se apropriava de trabalho não pago (o trato dos cafezais e a colheita) e ao mesmo tempo não precisava pagar integralmente a reprodução da força de trabalho (que era parcialmente garantida pela roça e pela horta). O colonato era, portanto, não apenas uma relação não capitalista de produção, mas uma forma de extração intensificada de mais-valia através de mecanismos não salariais.
+:::
+
+---
+
+## Capítulo 2: Uma imigração tardia (pp. 147–189)
+
+### O pressuposto homogeneizante e a diferença italiana-espanhola [Cap.2 §1–§6]
+
+O segundo capítulo parte de uma constatação empírica: é lugar-comum tratar os imigrantes de diferentes nacionalidades como se tivessem cumprido uma mesma trajetória no Brasil. O perfil do "imigrante típico" na literatura é o do imigrante italiano — e o imigrante espanhol é geralmente subsumido nessa categoria. Martins argumenta que essa homogeneização encobre diferenças importantes que revelam, na verdade, transformações nas próprias relações de trabalho.
+
+A perspectiva comparativa adotada não tem como objetivo principal o imigrante espanhol em si, mas usar a diferença representada por ele para analisar a dinâmica do colonato e suas transformações ao longo do tempo. A diferenciação do trabalhador rural pela nacionalidade encobria um fato crucial: a diferença de nacionalidade frequentemente escondia **mudanças nas relações de trabalho** e nas relações entre renda fundiária e acumulação de capital.
+
+### Diferenças estruturais entre as imigrações italiana e espanhola [Cap.2 §7–§16]
+
+O imigrante italiano chegou ao Brasil em um momento em que o colonato estava emergindo de diferentes experimentos de parceria e empreitada, quando a questão do trabalho livre ainda estava relativamente aberta. As reações dos imigrantes italianos às formas assumidas pela exploração do trabalho, mesmo dispersas e desarticuladas, tiveram papel decisivo na demolição das concepções escravistas escondidas por trás da dominação pessoal do fazendeiro e do endividamento do trabalhador.
+
+O imigrante espanhol chegou em momento substancialmente diferente. A partir de 1905, quando a imigração italiana subvencionada foi interrompida pelo Decreto Prinetti (que proibiu a emigração subsidiada para o Brasil a partir da Itália), a imigração espanhola tornou-se a mais numerosa por alguns anos. Esses imigrantes se destinaram a zonas novas, menos férteis, onde a expansão do café avançava sobre terras de menor qualidade. Diferentemente dos italianos, a imigração espanhola era **predominantemente de camponeses** — sem a estratificação de classes da italiana, que incluía comerciantes, capitalistas, artesãos, intelectuais e operários.
+
+> **Nota 5:** O autor cita um jornal de língua espanhola editado em São Paulo, de 1904: "Com quantos capitalistas, comerciantes, industriais, etc., etc., conta a colônia [espanhola]?" — a questão retórica ilustra a homogeneidade proletária da imigração espanhola. No censo de 1920, havia apenas 267 estabelecimentos industriais pertencentes a espanhóis em todo o Brasil, contra 2.119 italianos, sendo estas igualmente pequenas. [nota incluída por relevância argumentativa]
+
+### O colonato em transformação: da sujeição à monetização parcial [Cap.2 §17–§27]
+
+Uma das principais modificações nas relações de trabalho, imposta em grande parte pela ação e pressão dos próprios imigrantes italianos, foi a ampliação do pagamento em dinheiro e o acerto mensal (em vez do acerto anual) com o trabalhador. Quando o imigrante espanhol chegou, o colonato já estava modificado por essas pressões. A perspectiva do imigrante espanhol estava, portanto, mais próxima do trabalho assalariado — resultante da lenta desagregação do colonato.
+
+O pagamento em dinheiro era, contudo, um ardil que em termos reais empobreceu o imigrante espanhol ainda mais. Um caso ilustrativo de 1908: um colono espanhol com mulher e três filhos, ao fim de um mês de trabalho, recebeu apenas Rs. 24$000 — insuficientes para a sobrevivência da família. No colonato típico, ao menos o trabalhador podia subsistir com o produto da horta e da agricultura intercalar. Os imigrantes espanhóis desse período estão entre os mais pobres e os de menor mobilidade social.
+
+::: {.callout-tip}
+## Implicação comparativa
+
+O capítulo 2 funciona como um experimento quase natural dentro do colonato: ao comparar imigrantes de características similares (ambos pobres, majoritariamente rurais) que chegaram em momentos distintos e em condições distintas do mercado de trabalho cafeeiro, Martins isola analiticamente a variável "momento histórico do colonato" para explicar trajetórias diferenciadas. O imigrante espanhol, chegando numa fase de maior monetização e deterioração das condições do colonato, obteve pior resultado mesmo sendo individualmente similar ao italiano.
+:::
+
+---
+
+## Capítulo 3: Do trabalho escravo ao assalariado nas fazendas de café, 1880–1914 (pp. 191–257)
+
+### Quatro problemas: população, produção e força de trabalho [Cap.3 §1–§7]
+
+A tese principal deste capítulo é que ao modo de explorar a força de trabalho nas fazendas de café corresponderam momentos específicos do movimento da população — especialmente a imigração estrangeira e as migrações internas. Tanto a tese de uma transição do trabalho escravo ao trabalho assalariado quanto a tese de que a imigração teria uma dinâmica convergente são recusadas. O autor enuncia quatro problemas estruturais que organizam o capítulo:
+
+O primeiro problema é: por que, dispondo o país de uma grande massa de homens livres e pobres no campo, teve o café que recorrer à imigração estrangeira para substituir o escravo? O segundo problema: por que o escravo não foi substituído por trabalhadores assalariados, mas por formas não capitalistas de exploração da força de trabalho (parceria, colonato)? O terceiro problema: como se combinaram a dinâmica da população e a dinâmica da produção? O quarto problema: qual a relação entre as características do movimento populacional e o modo de organizar o trabalho na fazenda?
+
+### A dívida e a roça como mecanismos de sujeição [Cap.3 §8–§18]
+
+O autor examina detidamente as respostas aos quatro problemas estruturais. A principal razão pela qual o café recorreu à imigração estrangeira em vez de incorporar os camponeses livres brasileiros residia não em razões de competência ou cultura, mas na própria estrutura das relações de sujeição necessárias ao colonato. Os camponeses livres do campo brasileiro — caboclos, caipiras, moradores de fazenda — haviam construído ao longo de gerações formas de vida e trabalho que os tornavam relativamente resistentes à sujeição total ao fazendeiro. Já o imigrante estrangeiro chegava completamente desprovido de meios, sem rede de proteção, sem terra, sem parentes estabelecidos — condição que o tornava maximamente dependente do fazendeiro.
+
+A dívida da passagem era o mecanismo inaugural de sujeição: ao chegar ao Brasil com a passagem paga pelo fazendeiro (ou pelo governo), o imigrante imediatamente acumulava um débito que precisaria saldar com o trabalho. Sobre esse débito incidiam juros. A isso se somavam as compras no armazém do fazendeiro — frequentemente o único fornecedor na fazenda —, que eram debitadas nas contas-correntes do colono. O resultado era um sistema de endividamento perpétuo análogo ao peonage norte-americano: o colono que quisesse mudar de fazenda precisava que o novo fazendeiro "comprasse" sua dívida do anterior.
+
+::: {.callout-important}
+## Sujeição por dívida como forma de trabalho não capitalista
+
+A subjugação por dívida anulava completamente não só a liberdade de trabalho do colono, mas também a sua liberdade civil. O casamento de um colono dependia do assentimento do patrão; a ausência não autorizada da fazenda era motivo de tensão severa. Martins demonstra que a distância entre a condição de um escravo negro e a de um colono italiano, no plano prático, era muito menor do que a distância jurídica entre os dois regimes sugere.
+:::
+
+### A Lei de Terras de 1850 como mecanismo estrutural [Cap.3 §19–§32]
+
+A seção sobre a Lei de Terras é a mais densa do capítulo. A lei de 1850 não foi uma política fundiária neutra — foi um instrumento deliberado de criação das condições de sujeição do trabalho imigrante. Uma consulta do Conselho de Estado, já em 1842, na fase de gestação da lei, estabelecia com clareza o princípio: tornando mais custosa a aquisição de terras, garantia-se que o imigrante pobre alugasse seu trabalho por algum tempo antes de obter meios de se tornar proprietário.
+
+O longo debate de mais de trinta anos que precedeu a aprovação da lei havia considerado a alternativa da reforma agrária — a fragmentação do latifúndio e a disseminação da pequena propriedade — como instrumento de separação entre a propriedade da terra e a do capital, pressuposto da libertação do capital e da emancipação do capitalismo. Essa alternativa foi derrotada. Os grandes proprietários, já modernos no momento da transição para o trabalho livre porque conscientes de que sua riqueza era tolhida pela escravidão, optaram pela conversão da terra em equivalente de mercadoria — instrumento de coerção do trabalho livre.
+
+> **Nota 6:** O Registro Paroquial de Terras, determinado pela Lei de Terras em 1854, era o instrumento de consolidação da propriedade fundiária. Os leitores dos Registros de diferentes regiões constatam que os posseiros — muitos dos quais mestiços remanescentes da escravidão indígena — foram frequentemente levados ao pároco para declarar expressamente que as terras que ocupavam eram do fazendeiro, não deles. Nesse ato, sem o saber, renunciavam ao direito que a própria lei lhes conferia. Era a "suave" violência cultural e política da dominação patrimonial.
+
+### Formas de trabalho e movimento da população [Cap.3 §33–§52]
+
+O capítulo analisa em detalhe as formas específicas de organização do trabalho no colonato e sua relação com o movimento da população. Entre 1877 e 1914, a região cafeeira de São Paulo recebeu 1.779.470 imigrantes, dos quais 845.816 eram italianos. O movimento de população estava diretamente determinado pelo modo de exploração da força de trabalho e pelo modo de criação da riqueza através do café.
+
+O colonato era fundamentalmente baseado no trabalho familiar: o colono contratava por família, não por indivíduo. Isso explica a predominância de famílias nas correntes migratórias subsidiadas. A contratação familiar permitia ao fazendeiro obter simultaneamente o trabalho do colono, da esposa e dos filhos, pagando apenas um salário parcial ao chefe de família. O trabalho das mulheres e das crianças — essencial para a carpa dos cafezais e para a roça de alimentos — era assim incorporado ao processo produtivo sem custo adicional para o capital.
+
+> **Nota 7:** O autor distingue o colhedor assalariado temporário (camarada) do colono: o primeiro era um trabalhador sem vínculo permanente com a fazenda, contratado especificamente para a colheita, que recebia pagamento em dinheiro por quantidade colhida. A existência desse trabalhador assalariado temporário não deve ser confundida com a transformação geral do colonato em relação salarial. [nota incluída por relevância argumentativa]
+
+A fase de beneficiamento moderno do café — com máquinas secadoras e descascadeiras — inaugurou uma nova frente de monetização da relação de trabalho: as tarefas de beneficiamento eram contratadas separadamente e pagas em dinheiro por unidade produzida, em contraste com as tarefas de trato (carpa) e colheita, que compunham o núcleo do colonato. Essa segmentação gradualmente enfraqueceu a lógica interna do colonato e abriu caminho para formas mais próximas do assalariamento.
+
+---
+
+## Capítulo 4: As relações de classe e a produção ideológica da noção de trabalho (pp. 283–305)
+
+### Trabalho livre e origem do contingente operário [Cap.4 §1–§7]
+
+O capítulo analisa a produção ideológica da noção de trabalho como contribuição ao entendimento das relações de classe na sociedade brasileira. O trabalho, sendo o núcleo das relações de classe, possibilita a compreensão das formas do conflito social e do que, aparentemente, surge na cena política como acomodação entre classes historicamente contrapostas.
+
+O contingente de trabalhadores livres no Brasil era constituído predominantemente de imigrantes estrangeiros — italianos, espanhóis, portugueses, alemães — com experiência basicamente rural e camponesa, não operária. O processo de acumulação primitiva que separa o trabalhador de seus meios de produção ocorreu **fora** da sociedade brasileira, nas sociedades de origem: a própria emigração foi episódio dessa expropriação original. A sociedade brasileira recebeu o trabalhador livre sem ter realizado a acumulação responsável por tal liberação — a terra permaneceu monopolizada pelos grandes proprietários e pelo Estado.
+
+::: {.callout-note icon=false}
+**Conceito-chave: acumulação primitiva à brasileira** — A Lei de Terras de 1850, ao determinar o Registro Paroquial das terras, produziu na prática o nosso tênue equivalente da acumulação primitiva: a expropriação legal e "suave" dos posseiros — especialmente mestiços remanescentes da escravidão indígena —, que foram levados a registrar em nome do fazendeiro terras que eram efetivamente suas, pela dominação patrimonial que os reduzia a seres sem vontade própria.
+:::
+
+### A ética do trabalho como produção burguesa [Cap.4 §8–§18]
+
+A interpretação conservadora e restauracionista que o imigrante desenvolveu sobre sua trajetória — a ideia de que a sociedade brasileira oferecia de volta o que lhe haviam tirado no país de origem — criou o terreno subjetivo para a ideologia do *fare l'America*: a ascensão social pelo trabalho. Mas Martins demonstra que essa ética não era uma característica cultural ou psicológica do imigrante — era uma **produção da burguesia**.
+
+O advento do trabalho livre separou a pessoa do trabalhador da sua força de trabalho. Os mecanismos ideológicos que legitimavam a sujeição da pessoa pela desigualdade de origem (brancos como filhos de Abel, negros como filhos de Caim) perderam eficácia. A sujeição da pessoa foi substituída pela sujeição do trabalho ao capital. Sob a igualdade jurídica formal entre patrão e operário, como justificar que um ficasse cada vez mais rico e o outro não? Essa é a indagação oculta que norteia todo o debate sobre a Abolição.
+
+A resposta elaborada pela burguesia foi reconhecer que o trabalho é a fonte da riqueza — mas manipular esse reconhecimento de modo a torná-lo instrumento da dominação. O caminho: era preciso trabalhar para enriquecer; mas como a terra era monopolizada, o trabalhador precisava trabalhar para um terceiro (fazendeiro, patrão) para ganhar o dinheiro que comprasse a terra que supostamente o enriqueceria. A riqueza não frutificaria do trabalho que se acrescentava à riqueza já criada, mas da ética que associava trabalho e privação. A vida penosa e sofrida resultante da exploração legitimava-se na concepção do trabalho como condição da riqueza própria.
+
+> **Nota 8:** O autor destaca que a Lei de Terras consagrava, ao mesmo tempo em que o criava, o que não existia plenamente: a terra como equivalente de capital. Ao tornar o acesso à terra dependente da compra, mobilizou as instituições jurídicas e policiais na defesa da propriedade fundiária, garantindo o caráter compulsório da venda da força de trabalho.
+
+### A origem comercial e o caráter de classe da abolição [Cap.4 §19–§30]
+
+O capítulo avança para uma análise da gênese histórica da escravidão negra como determinada pelo comércio — e não o contrário. A produção fundada no trabalho escravo resultou do comércio de escravos. Daí que o tráfico negreiro constituísse o ponto nuclear e sensível da escravidão: extinto o tráfico, a escravidão estava condenada. A economia colonial brasileira pode ser redefinida como regime em que a produção é subjugada pelo comércio — não só o produto do trabalho, mas o próprio trabalhador, é objeto de comércio.
+
+A abolição não foi processo estritamente interno: resultou em grande parte de pressões da Inglaterra, que havia abolido a escravidão nas Índias Ocidentais em 1833 e pressionava o Brasil para eliminar a concorrência "desleal" do açúcar escravista brasileiro com o açúcar colonial britânico. A dimensão internacional da abolição — vinculada a interesses de diferentes grupos de pressão nas relações comerciais entre os impérios — é assim incorporada à análise.
+
+---
+
+## Capítulo 5: O café e a gênese da industrialização em São Paulo (pp. 307–355)
+
+### A controvérsia na literatura: Furtado, Simonsen e a industrialização "inconsciente" [Cap.5 §1–§9]
+
+Este capítulo é uma revisão crítica da literatura sobre a industrialização brasileira. Martins identifica falhas em estudos referenciais: afirmações, hipóteses e conclusões que são negadas pelos fatos empíricos. A tendência ao esquematismo — apoiado no que se conhece dos países de referência da história da industrialização — induz à leitura seletiva das informações e a conclusões questionáveis.
+
+O ponto de partida é a crítica a Celso Furtado (*Formação econômica do Brasil*): a obra surpreende pela ausência de um capítulo sobre as origens da indústria no Brasil, passando diretamente da transição para o trabalho assalariado (século XIX) à transição para o sistema industrial (século XX) sem esclarecer a gênese industrial. Furtado argumenta que a política do governo durante a Crise de 1929 — a compra e queima do café com crédito interno — produziu uma "socialização das perdas" que, inconscientemente, estimulou a industrialização por substituição de importações.
+
+Martins questiona o caráter "inconsciente" dessa política: há indicações de que o governo brasileiro, mesmo antes da Revolução de 1930, estava ciente de que evitar o desemprego era parte dos objetivos da política econômica. O próprio José Maria Whitaker, responsável pela política econômica do Governo Provisório de Vargas, explica as decisões governamentais como resposta à paralisação industrial e comercial causada pela crise cafeeira — não como política meramente protetora dos cafeicultores.
+
+### A dissolução da dicotomia agro-industrial [Cap.5 §10–§22]
+
+A contribuição teórica central do capítulo é a dissolução da dicotomia entre burguesia agrária (cafeicultores) e burguesia industrial, amplamente pressuposta na literatura. Martins demonstra empiricamente que muitos fazendeiros eram simultaneamente acionistas de empresas não agrícolas, bancos e indústrias — e que muitos industriais se tornaram fazendeiros para verticalizar suas economias. O Estado brasileiro não estava exclusivamente comprometido com os representantes da economia do café, nem refém dos seus interesses, nem contraposto aos industriais.
+
+Os autores que pressupõem essa dicotomia forçam o uso de um esquema interpretativo que toma a Crise de 1929 como divisora numa equivocada passagem de "pré-capitalismo a capitalismo", e a Revolução de outubro de 1930 como a "revolução burguesa" de que o Brasil carecia. Martins desmistifica esse esquema ao reconstituir a continuidade entre os capitais cafeeiro, comercial, financeiro e industrial: trata-se do mesmo empresário de transição que acumulou riqueza em diferentes frentes.
+
+::: {.callout-tip}
+## Contribuição ao debate sobre desenvolvimento periférico
+
+A análise de Martins sobre a gênese da industrialização antecipa debates posteriores sobre capitalismo dependente e sobre o papel do Estado na industrialização brasileira. Ao mostrar que o empresário cafeeiro e o industrial não eram classes distintas com interesses conflitantes, mas frequentemente o mesmo agente econômico em diferentes atividades, dissolve a base da teoria da "revolução burguesa" como ruptura com a herança agrária.
+:::
+
+---
+
+## Capítulo 6: Empresários e trabalhadores de origem italiana no desenvolvimento industrial brasileiro em 1880 e 1914 (pp. 357–435)
+
+### Três destinos do imigrante italiano [Cap.6 §1–§8]
+
+O capítulo mais extenso da versão ampliada da obra distingue analiticamente três trajetórias distintas dos imigrantes italianos no Brasil: (1) os destinados compulsoriamente às fazendas de café do interior de São Paulo, constituindo a grande maioria; (2) os enviados para núcleos coloniais oficiais, geralmente em regiões pioneiras do Sul e Sudeste; (3) os que se dirigiram às cidades como pequenos negociantes, artesãos, operários ou capitalistas.
+
+A impressão difundida de que os imigrantes italianos vieram como trabalhadores assalariados e que muitos enriqueceram pelo trabalho árduo é desmistificada em ambas as direções: a grande massa não trabalhou em condições de assalariamento clássico, e os que se tornaram grandes empresários têm origem muito distinta dos que foram destinados ao trabalho nos cafezais. A confusão entre as três trajetórias serve à sustentação do mito da ascensão social pelo trabalho.
+
+### Imigração subsidiada como mecanismo de sujeição [Cap.6 §9–§21]
+
+O período analisado (1877–1914) recebeu 1.728.620 imigrantes apenas na região de São Paulo, dos quais 845.816 eram italianos. A imigração subvencionada atingiu 57,5% do total dos imigrantes, chegando a 98,9% em 1891. Os imigrantes subvencionados chegavam já direcionados para fazendas específicas: na estação ferroviária de chegada, fazendeiros ou seus gerentes percorriam a plataforma examinando e escolhendo imigrantes — procedimento que reproduzia a lógica da escolha de escravos no mercado.
+
+O sistema de dívida da passagem, de alojamento e de mantimentos durante o período de adaptação criava imediatamente um vínculo de dependência que cerceava a liberdade do colono. A movimentação do imigrante dependia dos seus recursos próprios, geralmente escassos. Além disso, a imigração subvencionada recrutava de preferência **famílias**, não trabalhadores individuais — o que garantia ao fazendeiro o trabalho de todos os membros da família pelo contrato com o chefe.
+
+> **Nota 9:** Contratos de engajamento assinados em Gênova entre recrutadores-concessionários do governo brasileiro e os interessados em migrar estabeleciam condições rígidas para a localização final dos imigrantes, sendo extremamente difícil a remoção para outras áreas, a reemigração ou o repatriamento. O imigrante que tentava fugir da Hospedaria de Imigrantes para ficar na cidade de São Paulo era exceção audaciosa, não regra. [nota incluída por relevância argumentativa]
+
+### Os empresários italianos: origem, capital e condição não capitalista [Cap.6 §22–§42]
+
+A seção central do capítulo desfaz a mitologia em torno da emergência dos empresários italianos. Os grandes industriais de origem italiana — como Francisco Matarazzo — não eram ex-colonos que enriqueceram pelo trabalho árduo nas fazendas. Tinham origem social distinta (pequena burguesia europeia, em muitos casos com algum capital de início) e se instalaram nas cidades, não nas fazendas. Sua trajetória foi a de capitalistas que encontraram oportunidades na economia urbana em expansão graças à prosperidade cafeeira — não a trajetória do imigrante pobre que virou rico pelo esforço.
+
+A pequena e média indústria, por décadas o abrigo da classe operária nascente fora dos marcos da grande indústria, tinha caráter predominantemente artesanal. Muitos estabelecimentos classificados como "indústria" eram oficinas com menos de dez operários, dirigidas pelo próprio proprietário com caráter pessoal e patrimonial. O trabalhador artesão que "subia" à condição de pequeno patrão não realizava uma ascensão à burguesia industrial clássica — realizava uma versão em escala reduzida da mesma condição de exploração, agora como explorador de si mesmo e de uns poucos auxiliares.
+
+O autor analisa também o movimento operário italiano em São Paulo — as greves de 1901 a 1917 —, mostrando que o caráter artesanal do trabalho impregnou a consciência dos trabalhadores e produziu uma cultura de classe marcada pela aspiração ao trabalho independente, não à transformação das relações de classe. O anarcossindicalismo e o socialismo utópico, predominantes no movimento operário italiano de São Paulo, expressavam essa aspiração ao trabalho autônomo — forma proletarizada da ética burguesa do trabalho independente.
+
+---
+
+## Capítulo 7: O imaginário da ascensão social pelo trabalho / A morte do burguês mítico (pp. 437–463)
+
+### O mito Matarazzo e a proletarização das aspirações burguesas [Cap.7 §1–§10]
+
+O capítulo final, que reúne dois textos originalmente separados, analisa o mito do burguês self-made como mecanismo ideológico de reprodução da dominação de classe. O caso do conde Francisco Matarazzo — imigrante italiano que chegou ao Brasil em 1881 e construiu um dos maiores impérios industriais da América Latina — é o analisador privilegiado.
+
+Quando ficou claro que a escravidão seria abolida, a burguesia agrária se preocupou não apenas com a substituição do trabalhador cativo, mas com a forma que deveria assumir a **preservação da dominação burguesa** nas novas condições. O mecanismo ideológico que legitimava a sujeição da pessoa (pela desigualdade racial de origem) perdera a eficácia com o advento do trabalho livre. Sob a igualdade formal entre patrão e operário, era necessário um novo mecanismo de legitimação da desigualdade econômica.
+
+O primeiro passo foi reconhecer que o trabalho é a fonte da riqueza — mas de imediato bloquear o acesso autônomo do trabalhador à terra (via Lei de Terras), tornando compulsório o trabalho assalariado. O segundo passo foi construir uma narrativa em que o enriquecimento através do trabalho áreo e da privação sistemática era a forma legítima e real de mobilidade social. O burguês mítico era a prova viva dessa narrativa.
+
+::: {.callout-note icon=false}
+**Conceito-chave: burguês mítico** — Figura ideológica que representa o trabalhador que se tornou capitalista pelo esforço próprio, pela privação e pelo trabalho árduo. Funciona como prova empírica de que a ordem capitalista é justa e oferece oportunidades iguais a todos. Matarazzo foi o principal operacionalizador desse mito no Brasil, cultivando deliberadamente sua autobiografia como colono-pobre-que-enriqueceu junto aos trabalhadores, enquanto mantinha, junto à burguesia, a narrativa de sua origem fidalga italiana.
+:::
+
+### A vida do burguês como morte do mito [Cap.7 §11–§18]
+
+O conde Francisco Matarazzo Júnior (conde Chiquinho) personificou, sem o saber, a decadência do mais importante mito de sustentação da exploração de classe. Nascido já no palacete da Avenida Paulista, educado nas pretensões aristocráticas do pai (que havia recebido o título condal por serviços ao fascismo de Mussolini), o conde Chiquinho viveu apenas a condição do aristocrata — sem nunca ter sido um imigrante pobre, sem ter trabalhado em fazendas, sem ter passado privações. Sua trajetória negava empiricamente a narrativa do burguês self-made.
+
+Os quarenta anos de direção do conde Chiquinho (1937–1977) foram quarenta anos de deterioração do mito Matarazzo. Os operários descobriram que, ao contrário do que supunham os seus companheiros da primeira metade do século XX, o trabalho do operário não enriquece o próprio operário. A morte do mito foi facilitada pela constatação de que o conde rico não era consequência do seu próprio trabalho — era herdeiro de um império construído pela exploração de dezenas de milhares de trabalhadores.
+
+> **Nota 10:** Martins menciona pesquisa empírica realizada em 1974 em vários bairros de São Paulo que comprovou a amplitude do mito Matarazzo, compartilhado inclusive por trabalhadores do Nordeste que o conheciam antes de migrar para São Paulo. O mito havia se tornando um patrimônio cultural da classe operária brasileira — não apenas paulista — ilustrando a força dos mecanismos ideológicos de reprodução da dominação.
+
+### O aburguesamento das aspirações operárias e a ambiguidade de classe [Cap.7 §19–§24]
+
+A industrialização brasileira encontrou no mito do burguês enriquecido pelo trabalho e pela vida penosa um ingrediente vital para a legitimação da exploração de classe. Ao contrário da burguesia agrária, que teve que produzir laboriosamente a ideologia de transição do trabalho escravo ao trabalho livre, a burguesia industrial encontrou prontas a justificativa e a legitimação da exploração do trabalhador — herdadas do colonato.
+
+::: {.callout-important}
+## O paternalismo e o populismo empresarial como mecanismo ideológico
+
+O paternalismo empresarial — cultivado pelo próprio Matarazzo, que visitava suas fábricas e se apresentava como pai de seus operários — e o populismo de empresa (culminando na demonstração de 20 mil trabalhadores nas ruas de São Paulo em 1929 em homenagem ao velho conde) estavam diretamente fundados na concepção ideológica do trabalho como caminho de ascensão. A dominação e a exploração do capital tornaram-se concebidas como legítimas porque a riqueza não seria fruto do trabalho proletário, mas do trabalho próprio do empresário — invertendo a realidade.
+:::
+
+A morte do burguês mítico ocorreu com a emergência ampla do processo de concentração do capital. O capital concentrado tornou cada vez menos plausível a narrativa de que o trabalhador poderia repetir a trajetória do grande capitalista. Com isso, emergiu na classe operária uma consciência de classe mais clara — mas ambígua: marcada pela tensão entre a consciência do antagonismo entre trabalho proletário criador e a concepção capitalista do trabalho como caminho de ascensão individual.
+
+---
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+**Tese central:** O capitalismo brasileiro não seguiu a trajetória clássica do assalariamento porque instituiu deliberadamente, por meio da Lei de Terras de 1850 e da imigração subsidiada, o cativeiro da terra como mecanismo de coerção do trabalho livre — produzindo o colonato como forma não capitalista de exploração da força de trabalho gerada pelo próprio capital cafeeiro para superar a crise da escravidão sem romper com a economia de exportação.
+
+**Natureza do argumento:** Causal-mecanísmica, de base teórica marxiana heterodoxa (marxiana, não marxista), com fundamento em pesquisa documental histórica. O argumento é ao mesmo tempo uma contribuição teórica à teoria marxiana da renda capitalizada (reinterpretação do escravo como renda capitalizada, não capital fixo) e uma demonstração empírica sobre o processo histórico da transição do trabalho escravo ao trabalho livre em São Paulo (1850–1930).
+
+**O que o texto demonstra:** (1) Que o colonato era uma relação de produção não capitalista produzida pelo próprio capitalismo cafeeiro, não um resíduo pré-capitalista; (2) que a Lei de Terras de 1850 funcionou como mecanismo estrutural de coerção da força de trabalho livre, complementar à cessação do tráfico negreiro; (3) que diferentes ondas imigratórias encontraram configurações distintas da economia cafeeira, revelando a dinâmica evolutiva do colonato; (4) que a ideologia do "trabalho" foi uma produção deliberada da burguesia agrária e industrial para legitimar a exploração de classe nas novas condições do trabalho livre.
+
+**O que fica como hipótese ou agenda:** A extensão do argumento a outras regiões além de São Paulo; o papel da escravidão indígena como antecedente estrutural da escravidão negra e do colonato; os mecanismos específicos pelos quais o cativeiro da terra se estendeu à industrialização do século XX e à formação do mercado de trabalho urbano. O capítulo 7 esboça, mais do que demonstra, a continuidade do mecanismo ideológico do cativeiro da terra na sociedade industrial.
+
+**Progressão argumentativa entre os capítulos:** A obra avança de uma crítica teórica e metodológica à literatura existente (Apresentação e Cap. 1) para a análise do mecanismo estrutural (Lei de Terras, colonato), passando pela dimensão comparativa (Cap. 2) e histórica-empírica (Cap. 3), chegando à dimensão ideológica (Cap. 4 e 7) e à revisão crítica da narrativa da industrialização (Caps. 5 e 6). O conjunto constrói uma interpretação totalizante do capitalismo brasileiro como capitalismo singular, marcado pela contemporaneidade de relações de trabalho atrasadas e acumulação de capital avançada.
+
+**Contribuição para o debate mais amplo:** *O cativeiro da terra* é uma das obras fundadoras da sociologia histórica brasileira. No debate latino-americano sobre modos de produção, representa uma alternativa metodológica superior tanto ao dualismo (feudal vs. capitalista) quanto ao evolucionismo do "assalariamento inevitável": demonstra que o capital pode produzir e reproduzir relações não capitalistas não como desvio, mas como necessidade estrutural. A reinterpretação do escravo como renda capitalizada e do colonato como forma não capitalista gerada pelo capitalismo é contribuição à teoria das transições entre modos de produção em economias periféricas com relevância além do caso brasileiro.
+:::
