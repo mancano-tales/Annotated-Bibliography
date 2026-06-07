@@ -1,0 +1,323 @@
+---
+title: "Fichamento: States of Credit: Size, Power, and the Development of European Polities"
+subtitle: "Stasavage, D. (2011). *States of credit: Size, power, and the development of European polities*. Princeton University Press."
+author: "Tales Mançano"
+date: "2026-06-06"
+last-updated: "2026-06-06"
+coverage: "Obra completa"
+categories:
+  - Annotated Bibliography
+  - Political Economy
+  - Public Credit
+  - Representative Institutions
+  - State Formation
+  - Comparative
+  - 2011
+  - 2010s
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+    execute: false
+---
+
+::: {.callout-note collapse="true" icon=false}
+## Informações Técnicas e BibTeX
+
+Última atualização: 2026-06-06
+Modelo: Perplexity
+Prompt Version: v17.4 · 2026-05-13
+Gerado em: 2026-06-06T20:29:00-03:00
+Ocasião da Leitura: Para preenchimento manual do usuário
+
+**Entrada BibTeX → Stasavage2011**
+
+```bibtex
+@book{Stasavage2011,
+  author    = {Stasavage, David},
+  title     = {States of credit: Size, power, and the development of European polities},
+  year      = {2011},
+  publisher = {Princeton University Press},
+  address   = {Princeton, New Jersey},
+  edition   = {1},
+  isbn      = {978-0-691-14057-5}
+}
+```
+:::
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v17.4*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | A pergunta central é causal e comparativa: por que alguns polities europeus obtiveram crédito público de baixo custo mais cedo do que outros, e como representação, escala e composição da elite afetam esse processo? A vulnerabilidade principal é o risco de confundir correlação institucional com efeito causal, sobretudo porque cidade-estado, escala e composição social estão empiricamente entrelaçados. | Pergunta reconstruída: como e por que a presença de representação intensa associada a cidades-estado facilitou o crédito público na Europa? |
+| Questões Secundárias | O texto desdobra a pergunta central em subquestões sobre a origem da representação intensa, as condições que tornaram cidades-estado mais propensas a surgirem, e os efeitos disso sobre guerra, formação estatal e crescimento econômico. A fragilidade está em que algumas subquestões funcionam mais como agenda do que como teste plenamente simétrico. | Qual foi a evolução do crédito público? Como surgiram as assembleias representativas? Por que cidades-estado emergiram em certos lugares? Que implicações isso teve para guerra, state formation e growth? |
+| Puzzle-Type | Trata-se de um puzzle explicativo com forte componente histórico-institucional: por que o desenvolvimento do crédito público foi tão desigual entre polities europeus, apesar de todas enfrentarem guerra e necessidade fiscal? O puzzle é genuíno e generalizável, mas o texto depende de uma comparação muito específica entre cidades-estado e estados territoriais. | Gap explicativo sobre a desigualdade temporal e espacial do crédito público e da representação na Europa. |
+| Conclusão / Argumento Central | O argumento central é que a representação intensa, viável sobretudo em polities pequenas e dominadas por mercadores credores, reduziu o custo de captação e tornou o crédito público mais crível; por isso, cidades-estado foram mais aptas a emitir dívida de longo prazo e sobreviver militarmente. O claim de descoberta é sustentado por evidência descritiva, regressões e estudos de caso, mas parte dele depende de inferência histórica e de controles que não eliminam toda endogeneidade. | Tese: representação intensa e merchant power, sob baixa escala geográfica, explicam o acesso superior ao crédito das cidades-estado. |
+| Métodos | O livro combina história comparada, construção de base própria para 31 estados entre 1250 e 1750, análise estatística e estudos de caso. O fichamento cobre a obra completa; a limitação é que a codificação depende de fontes secundárias e de comparabilidade imperfeita entre casos. | Estudo histórico-comparado com dataset original, regressões, variáveis instrumentais e comparação de casos. |
+| Data Generation Process (DGP) | O DGP vai de fenômenos históricos reais a observações codificadas sobre existência de dívida, taxas de juros e atributos de assembleias; depois, essas observações são operacionalizadas em indicadores para regressões e comparação histórica. O maior viés potencial é de fonte e seleção: o autor codifica estados e cidades cuja documentação é mais acessível, e a mensuração de “intensidade” representativa é inevitavelmente aproximada. | Fenômeno histórico → registro documental → codificação secundária → variáveis comparáveis → análise estatística e histórica. |
+| Achados e Contribuições | O livro encontra que city-states tenderam a criar dívida de longo prazo antes, pagar juros menores e apresentar assembleias mais frequentes e mais voltadas ao controle fiscal; também mostra que, dentro das city-states, instituições mais oligárquicas se associam a crédito mais barato. A contribuição é teórica e empírica: liga public credit a representation e scale de modo integrado. | Cidades-estado aparecem como melhores credoras; escala e merchant dominance ajudam a explicar o padrão. |
+| Análise Crítica dos Achados | O argumento é forte na triangulação entre padrões históricos, regressões e casos, mas sua principal vulnerabilidade é a endogeneidade histórica: cidades com autonomia, urbanização e riqueza mercantil podem ter tido simultaneamente melhor crédito e melhores instituições. O texto reconhece parte disso e tenta tratar com controles e um instrumento baseado na linha de Meersen, mas a plausibilidade do instrumento e a exclusão completa de fatores iniciais seguem discutíveis. | O autor responde bem ao puzzle, mas a inferência causal continua sensível a seleção, endogeneidade e mensuração institucional. |
+| Limitações | **Reconhecidas:** codificação pode conter erros individuais; as categorias “cidade-estado” e “territorial state” são heterogêneas; o autor admite que algumas inferências permanecem preliminares. <br> **Não reconhecidas:** comparabilidade limitada entre regiões; possível viés por sobrevivência documental; dependência de proxies para representação e custos de crédito; risco de superestimar o papel causal da forma institucional. | Reconhecidas e subestimadas pelo autor: erros de codificação, heterogeneidade dos casos e limitações de identificação. |
+| Perspectiva Teórica | A obra se apoia em novo institucionalismo histórico, economia política histórica e teoria de compromisso/controle inspirada também em finanças corporativas. A moldura é adequada à pergunta, mas assume que credibilidade fiscal pode ser lida via instituições representativas, o que pode subestimar mediações jurídicas e administrativas. | Institutionalism, political economy, commitment theory, historical comparison. |
+| Principais Referências | O diálogo é amplo e relevante: North, Tilly, Rokkan, Bean, Epstein, Hicks, Mokyr, Greif, Manin, Acemoglu e Robinson, entre outros. Há forte conversa com a literatura, mas o texto privilegia debates que favorecem sua hipótese e trata de modo mais lateral explicações alternativas centradas em direito, administração fiscal ou estrutura monetária. | Literatura sobre state formation, public credit, representation, war, and institutional commitment. |
+| Observações | A leitura sugere grande utilidade para pesquisa em economia política histórica, especialmente para quem trabalha com instituições, elites e financiamento estatal. A obra é particularmente interessante para estudos sobre instituições representativas como mecanismos de compromisso, mas suas conclusões devem ser lidas como historicamente específicas, não como lei geral sobre democracia e crédito. | O argumento é mais robusto para a Europa pré-moderna do que para generalizações amplas sobre representação e finanças. |
+:::
+
+## Mapa Argumentativo {.unnumbered}
+
+| Capítulo | Título | Função argumentativa | Contribuição para a tese central |
+|:---------|:-------|:---------------------|:---------------------------------|
+| Introdução | Introduction | Apresentação do puzzle e da tese | Formula a ligação entre representação intensa e crédito público, define cidade-estado e territorial state, e anuncia os mecanismos centrais: escala geográfica e poder mercantil. |
+| Cap. 1 | Introduction | Fundamento teórico e plano da obra | Expõe os três debates mais amplos — guerra e formação estatal, crescimento econômico e compromisso institucional — nos quais a tese será inserida. |
+| Cap. 2 | The Evolution and Importance of Public Credit | Revisão de literatura e análise empírica | Mostra por que o crédito importava para guerra e por que seu desenvolvimento foi desigual; estabelece o contraste inicial entre debt de curto prazo e long-term debt. |
+| Cap. 3 | Representative Assemblies in Europe, 1250–1750 | Revisão de literatura e construção de dados | Codifica a intensidade e as prerrogativas das assembleias, permitindo medir representação de modo comparável entre 31 polities. |
+| Cap. 4 | Assessing the City-State Advantage | Análise empírica | Testa se assembléias representativas, escala e poder mercantil explicam acesso ao crédito; encontra que o efeito da representação desaparece quando se controla a diferença city-state/territorial state. |
+| Cap. 5 | Origins of City-States | Extensão do argumento e identificação | Investiga por que cidades-estado surgiram em certos lugares, testando hipóteses de urbanização inicial e da divisão carolíngia como antecedente estrutural. |
+| Cap. 6 | Three City-State Experiences | Estudo de caso | Examina Cologne, Genoa e Siena para mostrar como coalizões mercantis e conflito político moldaram crédito e representação. |
+| Cap. 7 | Three Territorial State Experiences | Estudo de caso comparado | Analisa France, Castile e the Dutch Republic para mostrar que grande escala e monitoramento custoso restringem a reprodução do modelo city-state. |
+| Cap. 8 | Implications for State Formation and Development | Síntese e agenda | Reinscreve os resultados nos debates sobre guerra, democracia, compromisso e crescimento, fechando a obra com implicações mais amplas. |
+
+## Fichamento
+
+## Introdução (pp. 1–24)
+
+::: {.callout-note icon=false}
+A introdução estabelece o problema central: a Europa viu o desenvolvimento paralelo de representação política intensa e de crédito público, e o livro pretende explicar essa coevolução. O autor sustenta que essa combinação não foi acidental, mas dependente de escala geográfica pequena e de elites mercantis capazes de controlar as instituições representativas.
+:::
+
+### O puzzle central [§1–§3]
+
+A abertura apresenta duas características marcantes da formação estatal europeia: a invenção da representação política e o desenvolvimento do crédito público. Stasavage argumenta que, embora outras regiões também tenham conhecido assembleias e mecanismos de adiantamento fiscal, foi na Europa que essas formas atingiram sua expressão mais desenvolvida. Daí surge a pergunta causal: a representação intensa teria facilitado o crédito, e por que isso emergiu em alguns lugares e não em outros?
+
+O autor formula o livro como tentativa de preencher uma lacuna comparativa ampla. A tese anunciada é que assembleias capazes de monitorar e modificar gastos públicos foram decisivas para viabilizar crédito, mas só puderam funcionar sob duas condições: pequena escala geográfica e predominância de mercadores credores entre as elites. A própria introdução já antecipa o contraste entre cidades-estado e estados territoriais como eixo explicativo da obra. 
+
+### Representação e escala [§4–§7]
+
+O segundo movimento da introdução desenvolve o argumento da escala. Em polities pequenas, a representação intensa seria viável porque a convocação e o acompanhamento das assembleias eram menos custosos; em estados territoriais, a distância e os custos de comunicação tornavam difícil reunir representantes com frequência suficiente para monitorar finanças públicas. O autor insiste que as assembleias territoriais podiam ser poderosas, mas de modo mais passivo, sobretudo ao vetar pedidos de impostos.
+
+O texto também diferencia a composição social dessas assembleias. Nas city-states, mercadores tinham maior presença, enquanto nos estados territoriais predominavam proprietários de terra e nobres rurais. Essa distinção importa porque mercadores eram precisamente os agentes mais propensos a comprar dívida pública e, portanto, os mais interessados em instituições que garantissem sua credibilidade. A representação intensa, porém, não implicava democracia; ao contrário, o autor afirma que o arranjo mais favorável ao crédito era frequentemente oligárquico. 
+
+### Crédito e guerra [§8–§12]
+
+A introdução vincula o crédito público à guerra e à formação estatal. O argumento comum de que a guerra teria levado à centralização e ao aumento do tamanho ótimo dos estados é qualificado: segundo Stasavage, esse processo foi mais ambivalente, porque guerras pagas exigiam mobilização rápida de grandes somas, e isso favorecia polities com melhor acesso ao crédito. Assim, pequenos city-states podiam sobreviver mais do que se esperaria, exatamente porque conseguiam financiar defesa com maior eficiência.
+
+O autor ainda situa o livro em três debates mais amplos: guerra e state formation, crescimento econômico das cidades livres e instituições como tecnologias de compromisso. A conclusão provisória é que instituições representativas podem resolver problemas de compromisso, mas têm custos de manutenção; quando esses custos são altos, especialmente em polities grandes, o arranjo não emerge ou perde eficácia. 
+
+> **Nota 1:** A introdução já antecipa uma tensão importante: o mesmo conjunto institucional que fortalece o compromisso fiscal pode ser, ao mesmo tempo, restritivo e pouco democrático. Essa tensão será central para o livro e ajuda a evitar leituras simplistas de “representação” como sinônimo de abertura política universal. 
+
+### Definição de city-state [§13–§16]
+
+Antes de avançar, o autor define *city-state* como uma cidade com autonomia substancial sobre assuntos econômicos e judiciais, além de papel central na própria defesa. Ele ressalta que o conceito é historicamente específico e não coincide inteiramente com a polis clássica. A amostra é deliberadamente ampla, incluindo casos de autonomia imperfeita, para evitar viés de seleção apenas para exemplos ideais.
+
+Esse cuidado metodológico é importante porque reconhece a heterogeneidade do objeto. Ainda assim, o texto sugere que a inclusão de cidades com graus variados de autonomia não enfraquece a tese; ao contrário, ao retirar casos menos autônomos, os resultados estatísticos ficariam ainda mais favoráveis à argumentação principal. 
+
+### Modelo analítico [§17–§20]
+
+A seção “Representation, Scale, and Control” formaliza o problema em termos de um executivo que quer contrair dívida para guerra e de credores que precisam confiar na futura disciplina fiscal do governo. A ideia de *control rights* aparece como analogia da teoria financeira: credores aceitam emprestar se tiverem algum direito de interferir em decisões futuras.
+
+A novidade do argumento está em adicionar um custo pouco discutido: o custo de manter a própria representação intensa. Em sociedades com comunicação difícil, enviar e monitorar representantes seria caro; além disso, em assembleias dominadas por interesses alheios aos credores, o poder de monitoramento se torna pouco útil. A conclusão é tripla: altos custos de representação reduzem a chance de instituições intensas, elevam juros e diminuem a probabilidade de emissão de dívida. 
+
+## Capítulo 2: The Evolution and Importance of Public Credit (pp. 25–46)
+
+::: {.callout-note icon=false}
+O capítulo mostra por que crédito importava para a guerra medieval e moderna e por que seu desenvolvimento foi desigual entre estados europeus. A distinção fundamental é entre empréstimos de curto prazo e dívida pública de longo prazo, sendo esta muito mais típica das cidades-estado.
+:::
+
+### Guerra e financiamento [§1–§4]
+
+O capítulo começa com a transformação do financiamento militar, da obrigação compulsória para o serviço pago. Em monarquias medievais, o serviço feudal era inicialmente valioso, mas gradualmente foi substituído por mercenários e soldados pagos. O ponto central é que “money was the almost obligatory link between authority and soldiers”, o que fez do crédito uma peça essencial da capacidade bélica.
+
+Nas cidades autônomas, a evolução foi paralela: milícias obrigatórias perderam importância, e as comunas passaram a remunerar seus cidadãos ou contratar mercenários. Esse deslocamento aumentou a pressão sobre os orçamentos, sobretudo porque a defesa e a manutenção das muralhas exigiam gastos elevados. Assim, a necessidade de financiamento público não é tratada como exceção, mas como condição estrutural da política europeia pré-moderna. 
+
+### Tributação e limites fiscais [§5–§8]
+
+Stasavage mostra que a tributação ajudou, mas não bastou. Cidades-estado recorriam muito a impostos indiretos sobre comércio e consumo, enquanto monarquias territoriais combinavam impostos diretos e indiretos. Ainda assim, a arrecadação não podia crescer com rapidez suficiente diante de emergências militares súbitas. O autor usa exemplos franceses para mostrar como tentativas extraordinárias de tributar se esbarravam em limites práticos e políticos.
+
+A consequência é que o problema fiscal não se resolvia apenas com maior capacidade tributária, mas com acesso a crédito. Essa mudança de ênfase prepara a discussão seguinte sobre a formação de mercados de dívida pública, especialmente as *rentes* e anuidades que se tornaram centrais no norte da Europa. 
+
+### Dívida curta e longa [§9–§12]
+
+O capítulo distingue duas formas principais de endividamento público. Estados territoriais recorreram com mais frequência a empréstimos curtos e caros junto a mercadores internacionais. Já cidades-estado conseguiram, mais cedo, estabelecer dívida de longo prazo — na Itália, via empréstimos forçados remunerados; fora da Itália, via *rentes* e anuidades. Esses instrumentos eram atraentes também por contornarem proibições de usura.
+
+A questão analítica é que a disponibilidade de crédito de longo prazo variou muito no tempo e entre polities. Cidades italianas, dos Países Baixos e do norte da França o desenvolveram no século XIII; os monarcas castelhanos só no fim do século XV; a monarquia francesa, apenas em 1522. O autor usa essa diferença temporal como dado empírico central da obra. 
+
+### Custos do empréstimo [§13–§16]
+
+O capítulo conclui que a diferença não é explicada de modo satisfatório por mera técnica jurídica ou legal. Havia exemplos prévios de rendas e pensões nas monarquias, o que torna implausível a ideia de que os monarcas simplesmente não conheciam a lógica da dívida de longo prazo. A hipótese mais plausível, para o autor, é que faltavam credores dispostos a emprestar em condições favoráveis.
+
+Ao final, o capítulo amarra a importância do crédito à sobrevivência das cidades-estado. Em contextos de guerra permanente e orçamento pressionado, o acesso a financiamento permitia reagir rapidamente a choques militares e, por isso, ampliava a capacidade de resistência política e militar dessas polities. 
+
+### Nota sobre juros [§17–§18]
+
+> **Nota 2:** O autor também compara juros de dívida pública com retornos de rendas fundiárias, sugerindo que o custo do crédito estatal precisa ser lido em relação a alternativas privadas de investimento. Esse detalhe reforça o argumento de que não se trata apenas de “ter ou não ter crédito”, mas de obter crédito em condições competitivas. 
+
+## Capítulo 3: Representative Assemblies in Europe, 1250–1750 (pp. 47–68)
+
+::: {.callout-note icon=false}
+O capítulo constrói a base empírica para medir representação política, distinguindo prerrogativas, frequência de reuniões e composição social. Sua função é transformar “representação” em variável observável comparável entre 31 estados europeus.
+:::
+
+### Origem das assembleias [§1–§4]
+
+Stasavage situa o florescimento das assembleias entre 1250 e 1500 como um fenômeno europeu amplo, tanto em cidades autônomas quanto em entidades territoriais maiores. Para o período posterior a 1500, a literatura costuma enfatizar seu enfraquecimento, sobretudo nas grandes monarquias. O capítulo entra nessa literatura para propor uma codificação sistemática da atividade representativa.
+
+A inovação metodológica é a construção de um dataset novo, baseado em fontes secundárias, que registra prerrogativas como consentimento para novos impostos, intervenção na arrecadação e supervisão de dívida e gastos. O autor reconhece que há erros e lacunas, mas defende que o conjunto permite observar padrões gerais antes invisíveis em estudos de caso isolados. 
+
+### Prerrogativas e frequência [§5–§8]
+
+A seção mostra que assembleias em city-states se reuniam com mais frequência do que nas polities territoriais. O ponto não é apenas que algumas assembleias existiam, mas que a frequência de reunião condicionava a capacidade de controlar gastos. Em estados maiores, reuniões anuais já eram raras, o que limita a intensidade do controle.
+
+Essa parte também reforça a diferença entre poder passivo e controle ativo. Uma assembleia que apenas veta impostos não equivale, para o autor, a uma assembleia que participa da administração fiscal e da dívida. A intensidade representativa é, portanto, uma dimensão substantiva e não apenas formal. 
+
+### Quem era representado [§9–§12]
+
+A composição social das assembleias também varia. Em muitas city-states, mercadores tinham preponderância e, em alguns casos, as regras favoreciam cooptation e fechamento corporativo. Em outras cidades, guildas artesanais tinham maior presença e o sistema era mais aberto. Essa diferença importa porque mercadores detinham dívida pública, ao passo que guildas arcavam com parte relevante da carga tributária.
+
+O capítulo deixa claro que a estrutura institucional das cidades era fonte de conflito político. E é precisamente esse conflito — entre credores mercantis e contribuintes mais expostos à tributação — que ajuda a explicar por que algumas cidades tinham melhor acesso ao crédito do que outras. 
+
+## Capítulo 4: Assessing the City-State Advantage (pp. 69–93)
+
+::: {.callout-note icon=false}
+Este é o capítulo de teste central da hipótese. Ele combina regressões, efeitos fixos e variação intra-city-state para mostrar que a vantagem financeira das cidades-estado se associa à representação intensa e ao domínio mercantil.
+:::
+
+### Equilíbrio entre representação e crédito [§1–§4]
+
+O capítulo parte de um modelo simples em que representação e crédito se equilibram mutuamente. Em termos históricos, representantes que controlam despesas públicas tornam a dívida mais crível, o que reduz juros e facilita emissão de dívida. A política de crédito, nesse sentido, depende da possibilidade de credores exercerem algum direito de controle.
+
+Esse desenho conceitual é importante porque desloca o foco de uma explicação puramente “mercantil” para uma explicação institucional. Mercadores importam não apenas por riqueza, mas porque sua posição dentro da assembleia determina se essa riqueza será convertida em compromisso fiscal credível. 
+
+### Criação da dívida [§5–§8]
+
+Os resultados apresentados sugerem que a probabilidade de criar dívida de longo prazo é maior onde há assembleias representativas com prerrogativas sobre finanças. Mas, uma vez controlada a diferença entre cidades-estado e estados territoriais, o efeito simples da assembleia perde força. O autor interpreta isso como sinal de que o tipo específico de representação das cidades-estado é o que realmente importa.
+
+A leitura é cuidadosa: o texto não conclui que instituições não importam, mas que elas importam de modo condicionado. A representação só produz o efeito esperado quando combinada com pequena escala e presença de credores mercantis nas posições de poder. 
+
+### Custo do crédito [§9–§12]
+
+Na análise dos juros, o padrão é semelhante. City-states tendem a pagar taxas mais baixas, e a presença de maior reserva formal de cadeiras para mercadores se associa a menor custo de empréstimo. Também aparece a diferença entre seleção por cooptation e por eleição: cooptation está ligada a custos menores de empréstimo.
+
+Esse resultado é fundamental para a tese do livro porque conecta arranjos políticos internos diretamente à credibilidade financeira do Estado. Ao mesmo tempo, o texto admite que a dummy de city-state pode captar outros fatores além de escala e merchant power, o que torna a identificação causal mais prudente do que conclusiva. 
+
+### Variação interna [§13–§16]
+
+A variação entre city-states mostra que mais abertura política nem sempre significava mais acesso ao crédito. Em alguns casos, pressão popular ampliou a participação de grupos menos inclinados a sustentar dívida pública, o que elevou o custo do financiamento. A conclusão é contraintuitiva: regimes mais fechados podiam ser fiscalmente mais eficientes.
+
+Esse ponto é um dos mais fortes e, ao mesmo tempo, mais normativamente provocativos do livro. Ele mostra que compromisso financeiro e democratização não caminham necessariamente juntos, e que a credibilidade estatal pode depender de exclusão política substantiva. 
+
+## Capítulo 5: Origins of City-States (pp. 94–109)
+
+::: {.callout-note icon=false}
+O capítulo volta a montante da cadeia causal para explicar por que city-states surgiram em certos lugares e não em outros. Testa duas hipóteses principais: o padrão de urbanização inicial e o efeito duradouro da fragmentação carolíngia.
+:::
+
+### Hipóteses de origem [§1–§4]
+
+A primeira hipótese remete a Rokkan e Tilly: city-states emergiriam onde havia maior desenvolvimento inicial, especialmente no eixo norte da Itália–Países Baixos. A segunda aponta para a divisão do Império Carolíngio e, em especial, a linha de Meersen, como estrutura histórica que favoreceu autonomia urbana posterior.
+
+O texto trata essas hipóteses como complementares, mas dá ênfase maior à segunda, por considerá-la menos explorada na literatura. A importância analítica é clara: se city-states surgem por razões ligadas ao desenvolvimento econômico prévio, o argumento sobre crédito poderia refletir seleção histórica e não efeito institucional. 
+
+### Evidência empírica [§5–§8]
+
+O autor usa a amostra de 31 estados e também uma amostra maior de 158 cidades para testar os correlatos da autonomia urbana. Os resultados indicam que urbanização inicial ajuda, mas a proximidade da linha de Meersen é um preditor mais forte e permanece estatisticamente significativo mesmo com múltiplos controles.
+
+Essa parte do livro é metodologicamente relevante porque tenta separar origem da cidade-estado de seus efeitos financeiros posteriores. O uso da linha de Meersen como instrumento é interessante, mas o próprio autor reconhece que ela não resolve por completo a possível endogeneidade ligada à prosperidade inicial. 
+
+### Reavaliação da vantagem [§9–§12]
+
+A conclusão do capítulo é que a vantagem city-state não é mero produto de riqueza urbana prévia. A divisão carolíngia ajudou a criar um padrão territorial no qual certas cidades puderam consolidar autonomia e, mais tarde, instituições representativas intensas. Assim, origem política e desenvolvimento fiscal aparecem como encadeados no longo prazo.
+
+Em termos de argumento, o capítulo reforça a tese principal sem torná-la tautológica: as cidades não eram simplesmente mais ricas e por isso tinham crédito melhor; em parte, tornaram-se politicamente autônomas por condições históricas que depois facilitaram o crédito. 
+
+## Capítulo 6: Three City-State Experiences (pp. 110–131)
+
+::: {.callout-note icon=false}
+Os casos de Cologne, Genoa e Siena ilustram como elites mercantis e controle político interno se conectaram ao desenvolvimento de dívida pública. O objetivo é mostrar mecanismo, não apenas correlação.
+:::
+
+### Cologne [§1–§4]
+
+Cologne aparece como exemplo de cidade em que uma elite comercial forte controlava a política local e investia em dívida pública. O caso mostra que a cidade manteve alta autonomia por muito tempo e que revoltas políticas afetaram diretamente o crédito, inclusive com default parcial após a perda temporária de poder dos credores.
+
+A utilidade do caso é mostrar a ligação entre posição política dos mercadores e custo do crédito. O episódio de 1513 funciona como evidência de que a credibilidade fiscal dependia da composição do poder local, não apenas da existência formal de instituições representativas. 
+
+### Genoa [§5–§8]
+
+Genoa é tratada como caso peculiar porque delegou a gestão da dívida e das receitas ao Casadi San Giorgio. O autor, porém, insiste que isso não significou autonomia total da finança em relação à política; ao contrário, o desempenho financeiro da instituição dependia do predomínio mercantil dentro da república.
+
+Esse caso é importante porque impede uma leitura tecnocrática do crédito público. Mesmo uma corporação financeira sofisticada continuava politicamente embutida, o que reforça a tese de que instituições de crédito funcionam dentro de uma estrutura de poder mais ampla. 
+
+### Siena [§9–§12]
+
+Siena fornece o contraponto negativo. Durante o governo oligárquico mercantil entre 1287 e 1355, a cidade apresentou arranjo favorável ao crédito; após a revolução de 1355, regimes mais abertos e instáveis geraram deterioração financeira. O caso sustenta a ideia de que maior abertura não significa melhor acesso ao crédito.
+
+A sequência histórica é útil porque torna visível o mecanismo em tempo real: mudança política, redistribuição de poder e piora das condições de financiamento caminham juntas. Siena funciona, assim, como evidência de reversão institucional com consequências fiscais negativas. 
+
+## Capítulo 7: Three Territorial State Experiences (pp. 132–154)
+
+::: {.callout-note icon=false}
+O capítulo examina França, Castela e a República Holandesa para mostrar que, em polities maiores, representação existia, mas os custos de monitoramento e a composição social das assembleias reduziam sua eficácia como mecanismo de controle do crédito.
+:::
+
+### França [§1–§4]
+
+A França ilustra o problema da escala. A monarquia conseguiu desenvolver sistemas locais de *rentes* em Paris, que lembravam a lógica observada em cidades-estado, mas isso não escalou bem para todo o território. Quando o monitoramento exigia alcance mais amplo, o sistema perdeu viabilidade.
+
+O caso mostra que o problema não era simples ausência de instituições representativas. Havia assembleias e mecanismos locais, mas a distância e a dispersão territorial impediam um controle suficientemente intenso das finanças régias. 
+
+### Castela [§5–§8]
+
+Castela também tinha instituições representativas, especialmente o Cortes, com prerrogativas relevantes sobre tributação. Ainda assim, elas não se converteram em monitoramento eficaz da despesa pública. O autor sugere que a disponibilidade de prata americana reduziu a dependência da coroa em relação ao Cortes, além de a escala geográfica dificultar o controle.
+
+Esse é um caso particularmente importante porque mostra que prerrogativas formais não bastam. O capítulo sustenta que representação sem proximidade e sem dependência fiscal suficiente não produz o mesmo efeito que nas cidades-estado. 
+
+### República Holandesa [§9–§12]
+
+A República Holandesa é tratada como um caso misto, às vezes classificado como city-state, às vezes como state territorial. O ponto central é que seu desempenho financeiro se explica pela predominância política das cidades e de suas elites mercantis, combinada com pequena escala relativa que facilitava o monitoramento.
+
+O caso holandês é o melhor contraponto a França e Castela porque mostra como instituições representativas e crédito barato podem coexistir em uma configuração mais ampla, desde que o arranjo permaneça altamente municipalizado e territorialmente compacto. 
+
+### Castela e Holanda [§13–§16]
+
+A comparação final entre Castela e Holanda reforça a tese de que sem pequena escala o mesmo tipo de representação perde capacidade de controle. O Cortes castelhano tinha semelhanças formais com as instituições holandesas, mas não conseguia monitorar o centro do poder com a mesma intensidade. A escala, portanto, não é variável auxiliar; é parte constitutiva do mecanismo.
+
+Esse capítulo fecha o argumento de maneira particularmente clara: o crédito barato não decorre apenas de “mais representação”, mas de representação intensiva em um ambiente de baixa escala e forte presença mercantil. 
+
+## Capítulo 8: Implications for State Formation and Development (pp. 156–165)
+
+::: {.callout-note icon=false}
+A conclusão recoloca a tese no debate sobre guerra, compromisso e crescimento econômico. O livro termina defendendo que instituições representativas funcionam como tecnologia de compromisso, mas seu custo de manutenção limita a generalização desse mecanismo.
+:::
+
+### Guerra e Estado [§1–§2]
+
+O capítulo retoma a discussão sobre guerra e state formation, argumentando que tecnologias militares não produziram automaticamente estados maiores e mais eficientes. O ponto é que a mobilização militar exigia também crédito rápido, e isso favorecia algumas formas de organização política mais do que outras.
+
+A conclusão sugere, assim, que a história da formação estatal europeia não pode ser narrada apenas como triunfo do grande estado sobre o pequeno. As city-states resistiram porque suas instituições financeiras e políticas criavam vantagens específicas. 
+
+### Compromisso e democracia [§3–§4]
+
+Em seguida, o autor discute representação como tecnologia de compromisso, tanto na história europeia quanto em democracias modernas. Mas ele insiste que o êxito desse arranjo depende do custo de manter a instituição ativa e monitorável. Quando os custos de informação e distância são altos, a representação perde funcionalidade.
+
+Essa é a principal lição teórica do livro: o problema não é apenas criar instituições de compromisso, mas sustentá-las em condições de informação e escala apropriadas. 
+
+### Crescimento e legado [§5–§6]
+
+A última parte relaciona o argumento à questão do crescimento econômico. Se city-states oligárquicas tinham crédito melhor, elas talvez também tenham sido mais aptas a sobreviver, mas não necessariamente a inovar indefinidamente. O autor sugere que a mesma exclusividade que protegeu o crédito pode ter limitado a entrada de novas ideias e, com o tempo, produzido estagnação.
+
+A conclusão é, portanto, ambivalente: as instituições que resolveram o problema fiscal podiam gerar bloqueios para inovação econômica. Isso ajuda a explicar por que muitas cidades autônomas persistiram como *rentier republics*, com crédito excelente, mas menor dinamismo econômico. 
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+*States of Credit* argumenta que o acesso ao crédito público na Europa pré-moderna dependeu menos da mera existência de representação política do que da combinação entre pequena escala geográfica, forte presença de mercadores credores e assembleias capazes de monitorar efetivamente a despesa estatal. O argumento é causal e histórico-institucional: o livro demonstra com boa força comparativa que city-states tiveram vantagem financeira sobre estados territoriais, mas deixa como hipótese mais geral a extrapolação dessa lógica para outros contextos históricos. Sua contribuição maior está em conectar public credit, representative institutions e state formation numa mesma explicação, mostrando que compromisso fiscal pode exigir instituições politicamente exclusivas e custosas de manter. 
+:::

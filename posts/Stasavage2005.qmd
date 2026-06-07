@@ -1,0 +1,220 @@
+---
+title: "Fichamento: Democracy and Education Spending in Africa"
+subtitle: "Stasavage (2005), 'Democracy and Education Spending in Africa.' American Journal of Political Science, 49(2), 343–358."
+author: "Tales Mançano"
+date: "2026-06-06"
+last-updated: "2026-06-06"
+coverage: "pp. 1–35"
+categories: [Annotated Bibliography, Political Economy, Comparative Politics, Education Policy, Democracy, Africa, 2005, 2000s]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+    execute: false
+---
+
+::: {.callout-note collapse="true" icon=false}
+## Informações Técnicas e BibTeX
+
+````
+Última atualização: 2026-06-06
+Modelo: Perplexity
+Prompt Version: v17.4 · 2026-05-13
+Gerado em: 2026-06-06T20:37:27-03:00
+Ocasião da Leitura: Para preenchimento manual do usuário
+
+```
+
+**Entrada BibTeX → Stasavage2005**
+
+```bibtex
+@article{Stasavage2005,
+  author  = {Stasavage, David},
+  title   = {Democracy and Education Spending in Africa},
+  year    = {2005},
+  journal = {American Journal of Political Science},
+  volume  = {49},
+  number  = {2},
+  pages   = {343--358},
+  doi     = {Não informado}
+}
+```
+
+:::
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v17.4*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | O texto parte de um debate causal sobre se a democratização altera políticas públicas em contextos institucionalmente fracos; a vulnerabilidade central está em distinguir efeito de competição eleitoral de tendências pré-existentes e de endogeneidade da própria democratização. | Pergunta reconstruída: se a introdução de competição multipartidária em países africanos aumentou o gasto em educação, sobretudo em ensino primário, sem alterar o gasto universitário. |
+| Questões Secundárias | As subperguntas derivam do mecanismo distributivo: se a democracia eleva gasto total, se desloca recursos para a maioria rural e se universidades permanecem estáveis por pressão de minorias urbanas. A fragilidade é que essas subperguntas dependem de suposições sobre preferências e capacidade de mobilização que nem sempre são testadas diretamente. | Há três questões secundárias explícitas: gasto total em educação, gasto em educação primária e gasto em universidades; a relação entre competição eleitoral e distribuição do orçamento educacional entre grupos sociais. |
+| Puzzle-Type | O puzzle é explicativo e comparativo-institucional: por que a democratização teria efeitos substantivos mesmo em polities neopatrimoniais e pouco institucionalizadas. A generalização para além da África depende de condições de escopo fortes. | Puzzle explicativo sobre mudança institucional e política pública em contextos de fraca institucionalização democrática. |
+| Conclusão / Argumento Central | A tese é clara e bem amarrada ao modelo formal: competição multipartidária induz governos africanos a aumentar gasto educacional total e, sobretudo, a priorizar o ensino primário, sem elevar gasto universitário. O claim of discovery é sustentado por associação estatística robusta e por casos ilustrativos, mas não elimina completamente a possibilidade de seleção, mensuração imperfeita e causalidade reversa. | Democracia multipartidária está associada a maior gasto em educação, com redistribuição interna do orçamento em favor do ensino primário; universidades não mudam de forma sistemática. |
+| Métodos | O desenho combina formalização teórica, ilustração com estudos de caso e análise de painel com OLS e efeitos fixos, além de imputação múltipla. Como o fichamento cobre a obra inteira, a cobertura é integral; a principal limitação é a forte dependência de dados agregados e de uma codificação dicotômica de competição multipartidária. | Estudo quantitativo de painel com 44 países africanos (1980–1996), complementado por evidência de Uganda e Malawi e por modelo game-theoretic. |
+| Data Generation Process (DGP) | O DGP vai de decisões governamentais sobre alocação orçamentária para indicadores reportados por governos à UNESCO e sistematizados no World Development Indicators, depois codificados em painéis país-ano. Esse processo introduz risco de seleção por reporte, erro de mensuração e viés de observação, especialmente porque a ausência de dados não parece aleatória. | Fenômeno real: alocação de gasto educacional; observação: estatísticas reportadas pelos governos; coleta: UNESCO/WDI e base de competição eleitoral; operacionalização: percentuais do PIB e do gasto total; análise: regressões em painel e imputação múltipla; inferência: associacional com pretensão causal moderada. |
+| Achados e Contribuições | Os achados centrais são consistentes em várias especificações: competição multipartidária se associa positivamente ao gasto total em educação e ao gasto primário, enquanto o gasto universitário não responde de modo detectável. A contribuição teórica é mostrar que eleições podem reorientar a distribuição interna do gasto mesmo em contextos de clientelismo e baixa institucionalização. | A principal contribuição é ligar democratização a mudança distributiva dentro do setor educacional, não apenas a maior gasto agregado. |
+| Análise Crítica dos Achados | O argumento responde bem ao puzzle, mas o elo causal permanece mais forte para a associação do que para a identificação estrita. A evidência é vulnerável a endogeneidade, viés de reporte, heterogeneidade entre democracias, e ao fato de que o modelo presume saliência nacional da educação e disciplina eleitoral que o próprio texto reconhece como contingentes. | Os achados são plausíveis e robustos, mas a identificação causal não é definitiva; a força maior está na convergência entre teoria, caso e painel. |
+| Limitações | O autor reconhece problemas de dados faltantes, possível serial correlation, fraude eleitoral, endogeneidade e seletividade amostral; também admite que saliência temática e divisões regionais podem mediar os efeitos. Não reconhecidas ou subestimadas: a simplificação binária de democracia, a suposição de preferências agregadas rural/urbano, e a possibilidade de mecanismos alternativos como coalizões partidárias, capacidade estatal ou pressão internacional. | **Reconhecidas:** missing data, endogeneidade, fraude, serial correlation, heterogeneidade entre democracias. <br> **Não reconhecidas:** validade externa limitada, simplificação do mecanismo político, mensuração imperfeita da saliência educacional. |
+| Perspectiva Teórica | A moldura é de economia política institucional e teoria da sobrevivência política, com diálogo com selectorate theory, democracia e bens públicos, e literatura sobre África neopatrimonial. A ontologia implícita trata preferências sociais como relativamente estáveis e agregáveis, o que combina razoavelmente com o modelo, mas menos com a complexidade empírica discutida nos casos. | Economia política da democracia, teoria da sobrevivência política, institucionalismo comparado e literatura sobre clientelismo/neo-patrimonialismo africano. |
+| Principais Referências | O diálogo com Bates, Bueno de Mesquita, Lake e Baum, Brown e Hunter, Van de Walle, Acemoglu-Robinson e Posner é substantivo e bem escolhido. Ainda assim, o balanço é mais forte na literatura anglófona de ciência política e economia política do que em debates sobre educação como política setorial. | Bates, Bueno de Mesquita et al., Lake e Baum, Brown e Hunter, Van de Walle, Acemoglu et al., Posner, Bratton e van de Walle. |
+| Observações | O texto é particularmente útil para sua agenda sobre política de educação superior porque isola a dimensão distributiva do orçamento educacional e oferece um mecanismo de competição eleitoral sob baixa institucionalização. A principal cautela é que a evidência sobre universidades é negativa/ nula e, portanto, não pode ser lida como prova geral sobre o setor terciário fora do contexto africano do período. | A obra é altamente relevante para estudar mudança institucional, gasto educacional e efeitos distributivos da democratização em contextos de baixa capacidade estatal. |
+
+:::
+
+## Mapa Argumentativo {.unnumbered}
+
+| Seção | Título / Tema | Função argumentativa | Contribuição para a tese central |
+|:------|:--------------|:---------------------|:---------------------------------|
+| Introdução | Democracy and Education Spending in Africa | Apresentação do puzzle | Formula a questão causal: se a democratização multipartidária altera gasto educacional em países africanos pobres e institucionalmente fracos. |
+| Seção 2 | Electoral competition and education spending | Fundamento teórico | Constrói o mecanismo: eleições ampliam responsividade à maioria rural e deslocam recursos para ensino primário. |
+| Seção 3 | Evidence from recent African elections | Estudo de caso | Usa Uganda e Malawi para tornar plausível o mecanismo e mostrar suas condições de validade. |
+| Seção 4 | Data on education and electoral competition | Fundamento empírico | Define amostra, medidas e problemas de dados; estabelece a base para os testes quantitativos. |
+| Seção 5 | Panel estimates of the determinants of education spending | Análise empírica | Testa as hipóteses com OLS e efeitos fixos, mostrando associação positiva com gasto total e primário. |
+| Seção 6 | Multiple imputation estimates of the determinants of education spending | Análise empírica | Reavalia os resultados sob missing data, reforçando a robustez das conclusões. |
+| Seção 7 | Alternative specifications and robustness | Qualificação | Examina fraude, serial correlation, endogeneidade e especificações alternativas para sustentar a inferência. |
+| Seção 8 | Conclusion | Síntese | Retoma a tese e aponta agendas futuras sobre heterogeneidade democrática e endogeneidade recíproca. |
+
+## Fichamento
+
+## Introdução (pp. 1–7)
+
+::: {.callout-note icon=false}
+### O puzzle central [§1–§4]
+
+Stasavage abre com a pergunta sobre se a democratização africana dos anos 1990 alterou de fato a política pública, sobretudo no provimento de serviços básicos. A preocupação central não é apenas saber se democracias gastam mais, mas se a competição multipartidária em países pobres e institucionalmente frágeis produz mudanças mensuráveis na alocação de recursos públicos. O texto explicita desde o início que o foco recai sobre educação, em particular sobre o ensino primário, por ser uma área em que a maioria rural teria maior interesse.
+
+O autor ancora a questão em um debate mais amplo sobre os efeitos da democratização em economias em desenvolvimento e afirma que o caso africano é especialmente relevante porque a literatura sobre neopatrimonialismo sugere que instituições formais podem ter pouco efeito. Ele anuncia três contribuições: testar a relação entre competição eleitoral e gasto educacional, observar a distribuição entre educação primária e universitária e examinar se os efeitos permanecem sob diferentes especificações e correções para dados faltantes. A formulação já antecipa o desenho de pesquisa e o tipo de inferência buscada, ainda que a própria abrangência do argumento dependa de pressupostos fortes sobre saliência eleitoral e resposta dos governantes.
+:::
+
+::: {.callout-note icon=false}
+### Literatura e contribuição [§5–§7]
+
+A introdução situa o texto no debate sobre democracia e serviços públicos, dialogando com estudos sobre América Latina e com trabalhos que encontram associação entre regimes democráticos e maior gasto social. O autor insiste que sua contribuição está em avançar para o contexto africano, onde a literatura frequentemente enfatiza fragilidade institucional e patronagem, e em examinar a distribuição interna do gasto social entre grupos. Essa dupla movimentação — extensão geográfica e aprofundamento distributivo — organiza o resto do artigo.
+
+Ele também sinaliza de forma bastante transparente a estrutura empírica: breve evidência de casos, base em painel para 44 países, regressões com dados em lista e imputação múltipla, e testes de robustez. A forma como o argumento é apresentado já revela uma estratégia de acumulação de evidência, em vez de depender de um único design identificatório. Isso fortalece a credibilidade geral, mas também mostra que o texto não reivindica uma identificação experimental ou quasi-experimental estrita.
+:::
+
+### Hipóteses formais [§8–§12]
+
+::: {.callout-note icon=false}
+> A hipótese central é que, na presença de competição multipartidária, governos africanos devem elevar o gasto total em educação e, especialmente, o gasto primário, sem necessariamente ampliar o gasto universitário.
+
+Antes de formalizar, o autor recapitula o argumento substantivo: governos eleitos respondem a uma maioria rural interessada em ensino primário, enquanto governos autoritários tendem a responder mais a grupos urbanos mais capazes de protestar. Em seguida, ele introduz um modelo simples com três usos possíveis da receita: educação primária, educação universitária e rendas do incumbente. O modelo não busca realismo microfundacional, mas gerar hipóteses testáveis a partir de preferências agregadas e um equilíbrio de competição política.
+
+A formalização deixa claro que o argumento depende de suposições sobre a capacidade de mobilização urbana, a saliência da educação nacional e o papel das eleições na disciplina dos incumbentes. O autor também admite que o efeito sobre universidades pode ser nulo ou até positivo em certas circunstâncias, mas escolhe a hipótese de invariância porque a mobilização estudantil parece funcionar de modo semelhante sob autocracia e democracia. Essa escolha é teoricamente defensável, mas empiricamente arriscada, porque transforma um possível mecanismo alternativo em hipótese de ausência de efeito.
+:::
+
+### Mecanismo causal [§13–§14]
+
+O modelo formal produz três hipóteses: maior gasto total em educação sob competição multipartidária, maior gasto em ensino primário e nenhuma mudança no gasto universitário. O ponto decisivo é que a competição eleitoral reduz a possibilidade de gasto em rendas e obriga o governo a atender a demandas majoritárias. O autor separa, assim, dois efeitos: um efeito de volume agregado e um efeito distributivo interno ao orçamento educacional.
+
+Essa distinção é importante porque impede uma leitura simplista de “democracia gasta mais em tudo”. O argumento é mais específico: a democracia, quando opera de forma efetiva, reorienta prioridades. O texto, no entanto, deixa implícito que essa reorientação depende de que a educação seja politicamente saliente e de que as promessas eleitorais sejam críveis, condições que mais tarde aparecem como fatores contingentes e não universais.
+:::
+
+## Evidência de casos (pp. 14–16)
+
+::: {.callout-note icon=false}
+### Uganda e Malawi [§15–§17]
+
+A seção de casos é usada como apoio plausibilidade para o mecanismo. Em Uganda, a campanha de 1996 e o programa de Universal Primary Education funcionam como ilustração de como competição eleitoral pode incentivar um governo a prometer e depois financiar o ensino primário. O texto ressalta que a vitória de Museveni e a posterior reorientação do gasto educacional reforçam a ideia de que políticas públicas podem responder a incentivos eleitorais mesmo quando o sistema político é atípico.
+
+O caso do Malawi serve como contraste e qualificação. A abolição de taxas e o aumento inicial do gasto primário são seguidos por queda posterior, o que sugere que a sustentabilidade do efeito depende de estabilidade macroeconômica e de incentivos eleitorais menos regionalizados. O contraste reforça a tese de que democracia não atua automaticamente; sua eficácia é mediada por contexto político e econômico. Ainda assim, os casos são ilustrativos e não decisivos, porque o próprio texto reconhece que eles não capturam toda a diversidade africana.
+:::
+
+> **Nota 1:** A comparação Uganda/Malawi é apresentada como evidência plausível, não como teste sistemático; ela antecipa heterogeneidade que os dados agregados depois não capturam totalmente.
+
+### Condições de escopo [§18–§20]
+
+O autor explicita que a argumentação depende de duas condições: a educação precisa ser uma questão saliente para os eleitores e os governantes precisam ter incentivos para cumprir promessas. Quando a votação se organiza sobretudo por clivagens regionais ou étnicas, a expectativa de efeito enfraquece. Isso é crucial porque impede a leitura do modelo como uma lei geral da democratização.
+
+Esse ponto também limita a generalização. Em contextos como Malawi, a polarização regional pode reduzir o retorno eleitoral de políticas nacionais, o que ajuda a explicar por que o efeito da competição sobre o gasto é menos estável. O caso sugere, portanto, que o mecanismo não é apenas “democracia” em abstrato, mas uma combinação específica de competição, saliência e estrutura de clivagens.
+:::
+
+## Modelo e dados (pp. 16–20)
+
+::: {.callout-note icon=false}
+### Estrutura empírica [§21–§24]
+
+A base empírica reúne dados da UNESCO/WDI sobre gasto total, primário e universitário, cobrindo 44 países africanos entre 1980 e 1996. O autor destaca uma limitação importante: a série é incompleta, com fortes diferenças no número de observações por variável. Essa escolha metodológica é central porque introduz risco de viés de seleção por reporte, e o texto já antecipa isso como problema a ser tratado com listwise deletion e imputação múltipla.
+
+A medida principal de competição é um indicador de competição multipartidária no nível mais alto da escala de abertura da recrutação executiva. Isso é conceitualmente elegante, porque foca o contraste relevante para a teoria, mas também reduz a complexidade de regimes intermediários. O desenho empírico, portanto, é claro e parcimonioso, porém depende de uma codificação forte de democracia que pode ocultar variação relevante dentro da categoria “competição multipartidária”.
+:::
+
+### Controles e estratégia [§25–§27]
+
+Os controles incluem ano eleitoral, PIB per capita, proporção rural, proporção da população menor de 15 anos e ajuda externa. O autor justifica cada variável como tentativa de separar efeitos de ciclos eleitorais, riqueza, composição demográfica e pressão de doadores. Ao mesmo tempo, ele reconhece que não há boa medida da saliência da educação, o que é uma omissão substantiva para um argumento que depende justamente dessa saliência.
+
+A escolha por não usar modelo dinâmico na primeira rodada de estimativas é metodologicamente defensável diante de dados faltantes, mas também limita a capacidade de captar persistência do gasto. O autor compensa parcialmente isso com imputação múltipla e inclusão de lagged dependent variable no segundo bloco de estimativas. Ainda assim, a dependência de especificações alternativas mostra que a inferência se apoia em um conjunto de decisões técnicas que precisam ser lidas em conjunto, e não isoladamente.
+:::
+
+## Resultados principais (pp. 20–26)
+
+::: {.callout-note icon=false}
+### Gasto total em educação [§28–§30]
+
+As regressões sobre gasto total em educação mostram associação positiva e estatisticamente significativa com competição multipartidária nas versões OLS e de efeitos fixos. O autor interpreta isso como evidência de que a democracia aumenta o gasto educacional agregado, não apenas sua composição interna. O efeito aparece como substantivo, o que reforça a leitura de mudança política e não apenas ruído estatístico.
+
+A presença de efeito positivo tanto em percentual do PIB quanto como proporção do gasto total é importante porque reduz a chance de que o resultado seja um artefato de mudanças de preços relativos. O texto, no entanto, também revela que a magnitude cai em algumas especificações, o que sugere que o efeito é robusto, mas não uniforme. A robustez maior está na direção do coeficiente e menos em sua estabilidade exata.
+:::
+
+### Ensino primário [§31–§33]
+
+No gasto primário, a associação aparece fortemente nas regressões OLS, com ganhos relevantes tanto em relação ao PIB quanto ao gasto total. Quando efeitos fixos são introduzidos, a significância enfraquece, o que o autor atribui ao fato de alguns países manterem simultaneamente alta competição multipartidária e alto gasto primário durante todo o período. Essa explicação é plausível, mas também mostra que a variação dentro dos países talvez seja insuficiente para capturar todo o mecanismo.
+
+O resultado permanece central porque é justamente o esperado pela teoria: governos atendem à maioria rural, que valoriza ensino primário. Ao mesmo tempo, o enfraquecimento sob efeitos fixos sugere que o efeito pode depender de diferenças entre países mais do que de mudanças intrapaís ao longo do tempo. Isso não invalida a tese, mas altera sua leitura causal: pode haver seleção de países com tradição de maior gasto educacional entre os que democratizam.
+
+### Universidades [§34–§35]
+
+A ausência de efeito significativo sobre gasto universitário é um dos achados mais fortes do artigo porque coincide com a hipótese 2. O autor vai além e argumenta que intervalos de confiança permitem rejeitar aumentos substantivos, não apenas a ausência de significância. Isso fortalece a tese distributiva do argumento, já que indica priorização do primário sem expansão do terciário.
+
+Ainda assim, essa evidência depende da interpretação de que o gasto universitário é uma proxy suficientemente boa para o poder político de estudantes e elites urbanas. Como o próprio texto lembra que estudantes universitários foram atores centrais em protestos pró-democracia, o resultado também pode refletir que sua influência opera por canais não capturados pelo orçamento educacional. Em outras palavras, o “não efeito” é substantivo, mas não encerra o debate sobre poder universitário.
+:::
+
+> **Nota 2:** O texto trata a estabilidade do gasto universitário como evidência de que a competição multipartidária não reconfigura a alocação para esse setor; isso é plausível, mas não exclui influência política via outros canais.
+
+## Imputação e robustez (pp. 26–29)
+
+::: {.callout-note icon=false}
+### Missing data e imputação [§36–§37]
+
+A seção de imputação múltipla busca enfrentar a principal fragilidade do banco de dados: muitos valores ausentes, possivelmente correlacionados com o próprio regime político e com a capacidade administrativa dos governos. O autor usa o AMELIA para gerar vinte conjuntos imputados e depois reestima todas as especificações. O procedimento é bem justificado e consistente com a literatura metodológica citada.
+
+Os resultados imputados mantêm o padrão geral: competição multipartidária segue associada a maior gasto total e primário, enquanto universidades permanecem inalteradas. Isso aumenta a confiança de que os resultados não são mero produto de listwise deletion. Ainda assim, a imputação só é tão boa quanto o modelo de imputação, e o próprio texto admite que a ausência de dados pode não ser aleatória, o que limita a proteção contra viés.
+:::
+
+### Testes adicionais [§38–§40]
+
+Na sequência, o autor aborda fraude eleitoral, competição de partido único, autocorrelação serial, endogeneidade da democracia e volatilidade macroeconômica. Em cada caso, os resultados permanecem majoritariamente robustos. Isso é um ponto forte do artigo: o autor não ignora ameaças conhecidas à inferência e tenta enfrentá-las de forma explícita.
+
+A fragilidade é que robustez não equivale a identificação definitiva. Alguns testes, como o uso de variável instrumental baseada no número de países africanos com multipartidarismo no ano anterior, aliviam preocupações mas também introduzem suas próprias hipóteses. O texto mostra muito bem que os resultados resistem a várias especificações, mas não prova que o mecanismo eleitoral é o único ou mesmo o principal canal.
+:::
+
+## Conclusão (pp. 29–35)
+
+::: {.callout-note icon=false}
+### Síntese e agenda [§41–§44]
+
+A conclusão retoma a tese principal: a competição multipartidária associou-se a maior gasto em educação e, sobretudo, a maior gasto primário na África dos anos 1990. O autor enfatiza que isso ocorreu mesmo em ambientes frequentemente descritos como neopatrimoniais e com instituições fracas, o que é a principal implicação teórica do artigo. A contribuição é, portanto, dupla: contra o ceticismo institucional e a favor de uma visão distributiva da democratização.
+
+O texto também deixa uma agenda de pesquisa aberta. Primeiro, a heterogeneidade entre democracias permanece mal explicada, sugerindo que saliência da educação, divisões regionais e acesso à informação importam. Segundo, democracia e educação primária podem ser mutuamente endógenas, o que exige desenhos capazes de tratar a relação como potencialmente recíproca. O encerramento é cuidadoso: o autor defende sua conclusão sem exagerar o alcance universal do achado.
+:::
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+A tese central do texto é que a introdução de competição multipartidária em países africanos aumentou o gasto público em educação, sobretudo em ensino primário, sem alterar de modo sistemático o gasto universitário. O argumento é causal e institucional, porque liga incentivos eleitorais à reorientação distributiva do orçamento; ao mesmo tempo, é sustentado por uma combinação de teoria formal, casos ilustrativos e evidência em painel.
+
+O texto demonstra com razoável robustez que, no período 1980–1996, governos sujeitos à competição multipartidária gastaram mais em educação e mais em ensino primário, mesmo após várias especificações e tratamentos para dados faltantes. O que fica como hipótese ou agenda é a explicação completa da heterogeneidade entre democracias e a possibilidade de endogeneidade reversa entre educação primária e consolidação democrática.
+
+A contribuição mais ampla é mostrar que democracia pode produzir mudanças materiais relevantes mesmo em contextos de baixa institucionalização, e que essas mudanças podem ser distributivas dentro do setor público, não apenas expansivas no agregado. Para debates sobre política educacional e economia política comparada, o artigo é valioso porque conecta regras de competição política a escolhas orçamentárias concretas.
+:::

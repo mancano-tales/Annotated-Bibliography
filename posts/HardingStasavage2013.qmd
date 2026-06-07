@@ -1,0 +1,187 @@
+---
+title: "Fichamento: What Democracy Does (and Doesn’t Do) for Basic Services: School Fees, School Inputs, and African Elections"
+subtitle: "Harding, R., & Stasavage, D. (2013). What Democracy Does (and Doesn’t Do) for Basic Services: School Fees, School Inputs, and African Elections. *The Journal of Politics, 76*(1), 229–245."
+author: "Tales Mançano"
+date: "2026-06-06"
+last-updated: "2026-06-06"
+coverage: "pp. 229–245"
+categories: [Annotated Bibliography, Political Economy, Democracy, Education Policy, Accountability, Africa, 2013, 2010s]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+    execute: false
+---
+
+::: {.callout-note collapse="true" icon=false}
+## Informações Técnicas e BibTeX
+
+```
+Última atualização: 2026-06-06
+Modelo: Perplexity
+Prompt Version: v17.4 · 2026-05-13
+Gerado em: 2026-06-06T20:16:15-03:00
+Ocasião da Leitura: Para preenchimento manual do usuário
+```
+
+**Entrada BibTeX → HardingStasavage2013**
+
+```bibtex
+@article{HardingStasavage2013,
+  author  = {Harding, Robin and Stasavage, David},
+  title   = {What Democracy Does (and Doesn’t Do) for Basic Services: School Fees, School Inputs, and African Elections},
+  year    = {2013},
+  journal = {The Journal of Politics},
+  volume  = {76},
+  number  = {1},
+  pages   = {229--245},
+  doi     = {10.1017/S0022381613001254}
+}
+```
+:::
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v17.4*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | A pergunta é explicitamente causal e comparativa: sob que condições a democracia altera a provisão de serviços básicos, e por qual mecanismo isso ocorre. A vulnerabilidade central está em confundir correlação institucional com mudanças de política mediadas por capacidade estatal, por isso os autores tentam separar acesso, insumos e responsabilização. | A democracia afeta a provisão de serviços básicos na África, e se esse efeito opera sobretudo via políticas verificáveis, como a abolição de taxas escolares. |
+| Questões Secundárias | As subperguntas são instrumentais ao argumento principal: democracia eleva matrícula? isso se explica por gratuidade? a democracia altera insumos escolares? eleições contestadas antecedem a abolição? eleitores recompensam promessas verificáveis? A relação entre elas é hierárquica, com cada uma testando um elo do mecanismo. | Há três questões secundárias centrais: se democracia aumenta a frequência escolar, se isso decorre da abolição de taxas, e se eleições e preferências do eleitorado respondem mais a políticas atribuíveis do que a qualidade difusa do serviço. |
+| Puzzle-Type | O texto combina puzzle explicativo e avaliação de mecanismo. O puzzle é genuíno porque o efeito esperado da democracia sobre serviços não é uniforme, e a explicação por capacidade estatal/verificabilidade é mais geral do que um caso africano isolado. | O puzzle é por que a democratização produz efeitos seletivos sobre políticas públicas: ela parece ampliar acesso, mas não necessariamente melhorar insumos. |
+| Conclusão / Argumento Central | A tese é nítida: em contextos de baixa capacidade estatal, democracia recompensa políticas cujo vínculo causal com a ação executiva é observável, como abolir taxas, mas não políticas cujo resultado depende de implementação subordinada. O que sustenta a claim of discovery é a convergência entre três desenhos distintos; o ponto vulnerável é a possibilidade de mecanismos alternativos, como mudanças simultâneas na demanda por educação. | Democracias africanas aumentam acesso escolar principalmente porque tendem a abolir taxas escolares após eleições competitivas; não há evidência robusta de aumento correspondente de insumos. |
+| Métodos | O estudo é quantitativo, comparado e multimétodo: regressões com dados individuais DHS, painel país-ano para insumos, análise de sobrevivência/tempo até abolição, IV com data eleitoral agendada e survey no Quênia. O fichamento cobre a obra inteira do artigo, não apenas um trecho, o que é adequado porque a inferência depende do encadeamento entre as três estratégias. | O artigo combina dados individuais e cross-national para testar o mecanismo em três etapas: matrícula, insumos e comportamento eleitoral. |
+| Data Generation Process (DGP) | O DGP varia por etapa: fenômeno real de política pública -> observação em surveys/indicadores administrativos -> codificação de “democracia”, “gratuidadade” e “eleição” -> estimação de efeitos condicionais. A principal fonte de viés está na mensuração de abolição de taxas e de teacher counts, além de seleção por disponibilidade de dados e possível erro de atribuição causal em contextos de baixa capacidade. | A unidade de análise muda entre indivíduo, coorte, país-ano e distrito, com inferência baseada em mudanças institucionais e políticas observáveis. |
+| Achados e Contribuições | O principal achado é que a relação democracia-educação desaparece ou enfraquece quando se controla pela gratuidade, sugerindo mediação por fee abolition. A segunda contribuição é demonstrar que eleições presidenciais aumentam a chance de abolir taxas, inclusive em especificações IV. A terceira é microfundar a lógica da responsabilização seletiva no Quênia, onde apoio ao incumbente se associa à gratuidade, mas não à qualidade reportada da escola. | Democracia, no contexto estudado, altera mais o acesso do que os insumos, e esse efeito parece operar via promessas eleitorais verificáveis e resposta do eleitorado. |
+| Análise Crítica dos Achados | O argumento é forte na articulação entre teoria e desenho, mas a identificação causal permanece parcialmente indireta. A grande vulnerabilidade é a possibilidade de confusão por fatores omitidos que simultaneamente elevem demanda por escolarização, viabilizem abolir taxas e alterem capacidade fiscal; além disso, os indicadores de insumos são frágeis e a evidência de voto não é causal. | Os autores respondem bem à pergunta principal, mas a sustentação é mais convincente para o mecanismo de verificação política do que para a magnitude causal exata do efeito democrático. |
+| Limitações | **Reconhecidas:** os autores admitem que fee abolition pode coincidir com outras medidas não observadas, que a codificação de abolitions pode conter ruído e que os dados de inputs são limitados. <br> **Não reconhecidas:** subestimação potencial de heterogeneidade entre países, mudanças na demanda por educação, e o fato de a survey evidence capturar intenção de voto e não comportamento eleitoral efetivo. | Os próprios autores reconhecem a fragilidade da mensuração e a possibilidade de fatores omitidos; subestimam, porém, o quanto a generalização para outras políticas depende de estruturas institucionais específicas. |
+| Perspectiva Teórica | A moldura central é economia política institucional com principal-agent, multitask e accountability eleitoral. A ontologia implícita é relacional: outcomes dependem da interação entre capacidade estatal, observabilidade e incentivos eleitorais. | O texto dialoga com literatura de accountability, democracia e provisão de bens públicos, especialmente Holmstrom-Milgrom, Mani-Mukand e debates sobre democratização e educação. |
+| Principais Referências | O diálogo é bem ancorado em Holmstrom e Milgrom, Mani e Mukand, Aragones-Palfrey-Postlewaite, Besley-Burgess, Stasavage, Kudamatsu e literatura sobre accountability informacional. A bibliografia é equilibrada entre teoria e evidência comparada, embora a interlocução com abordagens de implementação estatal pudesse ser mais desenvolvida. | As referências centrais sustentam a ponte entre teoria de incentivos, responsividade democrática e política educacional na África. |
+| Observações | O artigo é especialmente útil para pesquisa sobre políticas de ensino superior e privatização porque mostra como custo, verificabilidade e capacidade estatal condicionam respostas políticas a competição eleitoral. A validade externa é plausível, mas não automática: a lógica pode viajar melhor para políticas de fácil atribuição do que para bens com implementação complexa. | O caso africano é um laboratório analítico para entender quando eleições geram mudanças substantivas em políticas públicas e quando apenas deslocam a margem do que é politicamente atribuível. |
+:::
+
+## Mapa Argumentativo {.unnumbered}
+
+| Seção | Título / Tema | Função argumentativa | Contribuição para a tese central |
+|:------|:--------------|:---------------------|:---------------------------------|
+| Introdução | Democratização e serviços básicos | Apresentação do puzzle | Formula a lacuna na literatura e propõe o mecanismo da verificabilidade em contextos de baixa capacidade estatal. |
+| Seção 1 | Why Would a Government Abolish School Fees? | Fundamento teórico | Constrói a analogia com multitask principal-agent e mostra por que taxas são mais atribuíveis do que insumos. |
+| Seção 2 | Correlates of Education Outcomes | Análise empírica | Testa se democracia se associa a matrícula e a pupil-teacher ratios, distinguindo acesso de insumos. |
+| Seção 3 | School Attendance | Análise empírica | Mostra que o efeito da democracia sobre matrícula enfraquece quando se controla por gratuidade. |
+| Seção 4 | Numbers of Teachers | Análise empírica | Mostra que democracias e fee abolition não aumentam claramente insumos, especialmente números de professores. |
+| Seção 5 | Presidential Elections and Fee Abolition | Análise empírica | Demonstra que eleições presidenciais aumentam a probabilidade de abolir taxas escolares. |
+| Seção 6 | Survey Evidence on Voter Intentions in Kenya | Estudo de caso | Microfundamenta a hipótese de que eleitores recompensam políticas atribuíveis, não qualidade difusa. |
+| Conclusão | Implicações | Síntese | Reintegra os três testes e afirma que democracia aumenta serviços básicos apenas onde há atribuição clara de responsabilidade. |
+
+## Fichamento
+
+::: {.callout-note icon=false}
+## Introdução (pp. 229–232)
+
+> **Ponto central:** a democracia pode afetar serviços básicos, mas esse efeito depende de o eleitor conseguir atribuir o resultado à ação do Executivo.
+
+Os autores abrem o artigo criticando a literatura que trata democracia como uma variável ampla correlacionada com resultados sociais, sem esclarecer o mecanismo causal. Eles argumentam que, em contextos de fraca capacidade estatal, o problema decisivo não é apenas produzir bens públicos, mas saber se os eleitores conseguem identificar quem é responsável pelo resultado observado. Essa distinção desloca o foco da simples associação entre regime e desempenho para a verificabilidade da ação governamental.
+
+A partir daí, o artigo propõe que a competição eleitoral tende a alterar políticas cuja execução é diretamente observável, como a abolição de taxas escolares, mais do que políticas cujo resultado depende fortemente de implementação subordinada, como contratação de professores ou melhoria da infraestrutura. A motivação substantiva vem da educação primária africana, mas a aposta teórica é mais ampla: quando o problema é a atribuição de crédito e culpa, a democracia deve incentivar políticas “auditáveis” e não necessariamente insumos.
+
+O texto também anuncia a estratégia empírica em três movimentos: primeiro, comparar matrícula e insumos entre democracias e não democracias; depois, examinar se eleições competitivas antecedem a abolição de taxas; por fim, testar no Quênia se as intenções de voto respondem a resultados diretamente atribuíveis. Essa estrutura é importante porque os autores não dependem de um único resultado; eles procuram consistência entre níveis de análise distintos.
+:::
+
+::: {.callout-note icon=false}
+### O problema da atribuição [§1–§3]
+
+Os autores situam a dificuldade central na distância entre promessa eleitoral e implementação administrativa. Em sistemas em que decisões do centro podem fracassar no nível local, o eleitor pode observar um mau resultado sem saber se ele decorre de omissão presidencial, falha burocrática ou captura local. Isso enfraquece contratos implícitos baseados em desempenho e torna a responsabilização menos precisa.
+
+A hipótese derivada é que candidatos vão concentrar promessas em medidas cujo cumprimento seja visível e atribuível após a eleição. Taxas escolares são um exemplo forte porque podem ser abolidas por decisão relativamente direta do Executivo e, uma vez abolidas, o eleitor percebe prontamente a mudança. Já a ampliação de insumos educacionais é mais opaca, porque depende de cadeias administrativas e pode falhar sem que a culpa seja facilmente isolável.
+
+Os autores inserem essa hipótese na literatura de principal-agent e, em especial, na formulação de multitask de Holmstrom e Milgrom, além de sua adaptação por Mani e Mukand. A contribuição conceitual aqui é não assumir que todos os bens públicos respondem do mesmo modo à competição eleitoral; ao contrário, o texto propõe uma ordenação entre tipos de política segundo sua verificabilidade.
+:::
+
+::: {.callout-note icon=false}
+### Promessas e focal points [§4–§6]
+
+Nesta parte, os autores refinam o argumento mostrando que, nos casos observados, a abolição de taxas escolares foi frequentemente prometida na campanha e implementada depois da eleição, muitas vezes por opositores vitoriosos. Isso difere do modelo retrospectivo puro, em que o governante age primeiro e o eleitor decide depois; aqui, a promessa de campanha funciona como um ponto focal que coordena expectativas sobre desempenho.
+
+A referência a Aragones, Palfrey e Postlewaite serve para sustentar que promessas concretas ajudam a fixar critérios de avaliação. O problema do eleitor não é apenas observar uma política, mas saber se ela foi entregue. Ao prometer abolir taxas, o candidato estabelece um alvo simples, cujo cumprimento pode ser julgado com relativa facilidade mesmo em contextos de baixa informação.
+
+Os autores também explicitam um limite importante de sua teoria: não estão dizendo que escolher educação gratuita necessariamente reduz o esforço com insumos. O ponto é mais restrito e metodologicamente mais forte: em ambientes de baixa capacidade, a competição eleitoral deve ter efeito mais claro sobre a dimensão observável da política do que sobre a dimensão de implementação menos transparente.
+:::
+
+::: {.callout-note icon=false}
+## Correlates of Education Outcomes (pp. 233–238)
+
+Nesta seção, os autores passam da teoria à evidência comparada. O objetivo é verificar se democracias africanas apresentam maior matrícula no ensino primário e se isso decorre de maior oferta de professores ou da abolição de taxas. O recorte empírico combina dados individuais da DHS para acesso e dados de painel para insumos, justamente porque a qualidade da informação disponível é desigual entre as dimensões analisadas.
+
+O movimento analítico central é mostrar que o efeito democrático sobre matrícula diminui fortemente quando se introduz a variável de gratuidade. Em vez de interpretar democracia como um efeito direto e homogêneo, os autores tratam fee abolition como mecanismo mediador. Essa mudança de especificação é o coração empírico do artigo, porque transforma uma associação institucional ampla em uma sequência causal mais plausível.
+
+Os autores também exploram heterogeneidade por quintis de riqueza para verificar se a abolição das taxas afeta sobretudo os grupos para os quais o custo importa mais. Essa estratégia é coerente com a hipótese, pois ajuda a diferenciar um choque difuso de política de um efeito mais específico sobre famílias para as quais a eliminação da taxa realmente reduz a barreira de entrada.
+
+> **Nota:** A inclusão de quintis de riqueza funciona como teste de plausibilidade do mecanismo, mas não elimina a possibilidade de que mudanças simultâneas na demanda por educação, no mercado de trabalho infantil ou na oferta local de escolas expliquem parte do padrão observado. 
+
+### School Attendance [Cap.1 §1–§7]
+
+Os autores usam dados da Demographic and Health Surveys em 29 países africanos para estimar a probabilidade de uma criança ter frequentado ao menos algum ensino primário. A unidade analítica é o indivíduo, mas a identificação ocorre por coortes expostas ou não à democracia e à gratuidade em idade escolar, com efeitos fixos de domicílio e erros-padrão agrupados por coorte. Essa escolha busca comparar irmãos ou membros de lares similares que enfrentaram regimes distintos ao atingir a idade escolar.
+
+A variável de democracia é definida de forma minimalista, baseada na existência de competição multipartidária para a chefia do Executivo, e não em escalas subjetivas como Polity ou Freedom House. Os autores defendem essa decisão porque preferem uma medida ex ante, formal e relativamente objetiva, e porque mesmo em ambientes não totalmente competitivos pode haver incentivos eleitorais para ampliar o voto via políticas gratuitas. O mesmo raciocínio vale para a variável de gratuidade, codificada de modo análogo a partir da idade em que a taxa foi abolida.
+
+O artigo deixa claro que a mensuração de fee abolition é imperfeita, porque escolas africanas podem cobrar diferentes tipos de taxas, inclusive informais. Ainda assim, os autores argumentam que qualquer erro de codificação provavelmente gera viés contra encontrar efeito, já que a tendência seria classificar como abolida uma política que na prática apenas reduziu parcialmente os custos.
+
+No primeiro conjunto de resultados, a democracia aparece associada a maior probabilidade de escolarização, mas esse coeficiente perde força quando a gratuidade entra na especificação. Já a variável de ensino gratuito permanece forte e estatisticamente significativa, sugerindo que o efeito da democracia sobre matrícula opera sobretudo porque governos democráticos aboliram taxas. A magnitude estimada é moderada, mas substantivamente relevante, e os autores observam que ela é comparável a diferenças de gênero no acesso escolar.
+
+### Escolaridade e renda [Cap.1 §8–§11]
+
+Os autores desagregam os resultados por quintis de riqueza para testar se o efeito da gratuidade se concentra em famílias que realmente enfrentavam a barreira da taxa. A expectativa teórica é simétrica: famílias muito ricas já conseguiriam pagar, e famílias muito pobres talvez continuassem fora da escola por outros custos diretos e de oportunidade, mesmo sem taxas. Isso faz com que o efeito mais forte deva aparecer nos estratos intermediários.
+
+Os resultados vão nessa direção geral. A gratuidade é associada a maior matrícula entre os quintis intermediários, não entre os mais ricos, e a evidência para os mais pobres é mais fraca do que a dos quintis médios, como os autores antecipam. Ao mesmo tempo, o coeficiente de democracia isoladamente se enfraquece ainda mais quando os modelos são estimados por quintil.
+
+Os autores interpretam esse padrão como uma indicação de que a democracia africana elevou o acesso escolar sobretudo ao remover um custo explícito de entrada, não porque tenha transformado imediatamente a provisão de serviços educacionais em sentido mais amplo. Eles reconhecem, porém, que choques não observados na demanda por educação poderiam produzir um padrão semelhante.
+
+### Numbers of Teachers [Cap.1 §12–§16]
+
+Como não há dados comparáveis de alta qualidade para medir diretamente a qualidade de ensino em todos os países e anos, os autores recorrem ao número de professores como proxy de insumos educacionais. A escolha é defensável, mas limitada: ela mede um componente importante da provisão, sem captar diretamente qualidade pedagógica, materiais ou aprendizagem.
+
+Os resultados mostram que democracias tendem a ter razões mais altas de alunos por professor, e que países que aboliram taxas também apresentam turmas mais cheias. Quando as duas variáveis entram conjuntamente, o efeito da democracia desaparece, enquanto o coeficiente de fee abolition permanece. Isso é consistente com a hipótese de que a competição eleitoral aumenta a demanda por acesso, mas não necessariamente a expansão correspondente dos insumos.
+
+A análise com a população potencial em idade escolar reforça esse padrão. Nesse caso, praticamente não há evidência de que democracias empreguem mais professores em relação à demanda potencial, e a associação entre taxas e razão aluno-professor é apenas marginalmente significativa. A implicação é que a expansão do acesso não foi acompanhada por uma expansão suficientemente rápida da capacidade escolar.
+
+> **Nota:** Os autores reconhecem que teacher counts podem conter erro de mensuração por serem dados administrativos auto reportados, mas esse problema provavelmente subestima a clareza da inferência, sobretudo para comparar qualidade de serviço entre países com diferentes capacidades burocráticas. [web.archive](http://web.archive.org/web/20040124142530/http:/www.usaid.gov/regions/afr/abic/dembibl.htm)
+
+### Election timing [§17–§20]
+
+O texto então testa a hipótese de que a abolição de taxas ocorre logo após eleições presidenciais. Em vez de tratar a reforma como efeito difuso da democratização, os autores a modelam como um evento que “sobrevive” até ser abolido, permitindo uma análise de duração. O foco passa a ser a proximidade entre eleição e mudança de política.
+
+Os resultados indicam que eleições aumentam significativamente a probabilidade de abolir taxas, inclusive quando se restringe a comparação a eleições livres e justas ou quando se excluem pleitos muito desequilibrados. A mensagem substantiva é que o efeito não depende apenas de qualquer eleição, mas de um ambiente em que a competição seja suficientemente real para tornar a promessa crível.
+
+Os autores também enfrentam a preocupação com endogeneidade temporal, isto é, a possibilidade de que eleições ocorram justamente em “bons tempos” fiscais ou políticos, quando abolir taxas seria mais fácil. Para isso, usam a data constitucionalmente agendada da eleição como instrumento, sustentando que a defasagem entre data prevista e data realizada não deveria depender de expectativas sobre condições futuras distantes. A estratégia é plausível e os autores mostram que o instrumento é forte, embora a exclusão restritiva permaneça, em última instância, uma hipótese não testável.
+
+### Survey Evidence on Voter Intentions in Kenya [Cap.1 §21–§25]
+
+A seção queniana tenta aproximar o mecanismo de responsabilização do comportamento do eleitor. O contexto é a abolição das taxas no início de 2003, após uma promessa de campanha do vencedor Mwai Kibaki, seguida por um aumento expressivo das matrículas e por críticas à piora da qualidade devido à superlotação. Isso cria uma situação propícia para verificar se os eleitores distinguem políticas atribuíveis de problemas de implementação difusa.
+
+Os dados da Afrobarometer permitem cruzar intenção declarada de voto com preferência por ensino gratuito e com experiências com problemas de escola, como superlotação, falta de materiais e instalações ruins. Os autores usam um modelo probit com efeitos fixos de distrito para estimar essas relações. A vantagem é microfundar o argumento; a limitação é que se trata de intenção de voto e não de voto efetivo, além de haver risco de endogeneidade de preferências.
+
+Os resultados mostram associação positiva entre apoio ao ensino gratuito e intenção de votar em Kibaki, mas nenhuma associação robusta entre problemas de qualidade da escola e intenção de voto. Os autores interpretam isso como evidência de que políticas claramente atribuíveis geram recompensa eleitoral, enquanto problemas de insumos, por serem menos diretamente imputáveis ao presidente, não produzem o mesmo efeito. Essa é talvez a evidência mais fina do mecanismo, ainda que não permita inferência causal forte.
+
+> **Nota:** A própria formulação dos autores reconhece que os respondentes podem ajustar suas respostas sobre ensino gratuito à luz de sua preferência prévia por Kibaki, o que enfraquece a interpretação causal direta da associação observada. [african-cities](https://www.african-cities.org/wp-content/uploads/2021/12/ACRC_Working-Paper-3_December-2021.pdf)
+
+### Conclusão (pp. 244–245) [§26–§27]
+
+Na conclusão, os autores retomam a tese com clareza: em países pobres com capacidade estatal incerta, a democracia aumenta a provisão de serviços básicos sobretudo quando o resultado pode ser diretamente atribuído ao Executivo. A abolição de taxas escolares é o caso paradigmático, porque é uma decisão visível, simples de implementar e fácil de julgar eleitoralmente.
+
+Eles sintetizam as três evidências como partes de um mesmo argumento. Primeiro, democracias africanas ampliam matrícula primária principalmente porque aboliram taxas; segundo, a abolição de taxas está ligada a eleições; terceiro, eleitores quenianos recompensam a política gratuita, mas não problemas gerais de qualidade escolar. A conclusão não promete universalizar o efeito democrático sobre serviços públicos; ao contrário, delimita cuidadosamente suas condições de validade.
+
+O artigo fecha, assim, com uma contribuição teórica e empírica importante para a literatura de accountability democrática. Em vez de perguntar apenas se democracia melhora serviços, ele pergunta em que dimensões da política essa melhora é politicamente acionável.
+:::
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+O texto sustenta que, em contextos de baixa capacidade estatal, a democracia melhora serviços básicos sobretudo quando a política é facilmente atribuível ao governante, como a abolição de taxas escolares, e não quando depende de insumos cuja implementação é opaca. O argumento é causal e mecanicista: a competição eleitoral gera incentivos para promessas e reformas verificáveis, mas os autores demonstram isso com evidência comparada, análises de sobrevivência e um estudo de caso no Quênia, deixando como hipótese mais forte do que prova a extensão do mecanismo para outros setores e contextos. A contribuição central para o debate sobre accountability democrática é mostrar que o efeito do regime não é homogêneo; ele depende da observabilidade da ação estatal e da capacidade de os eleitores atribuírem crédito ou culpa com precisão.
+:::
