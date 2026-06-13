@@ -18,7 +18,7 @@ Este repositório é uma coleção aberta e pesquisável de **fichamentos acadê
 
 Cada entrada é um resumo analítico detalhado, parágrafo a parágrafo, de uma obra acadêmica — livro, artigo, capítulo ou working paper — acompanhado de uma **Ficha Analítica Crítica** que avalia a pergunta de pesquisa, os métodos, o processo de geração de dados, o referencial teórico, os achados e as limitações do texto.
 
-A bibliografia contém atualmente **99 fichamentos — e crescendo** — cobrindo temas como:
+A bibliografia contém atualmente **132 fichamentos — e crescendo** — cobrindo temas como:
 
 - **Economia política comparada** e **welfare states**
 - **Política educacional** — especialmente ensino superior, financiamento estudantil e desigualdade educacional
@@ -62,7 +62,7 @@ Cada fichamento segue um formato padronizado, gerado com auxílio de IA (LLMs) e
 
 ```
 Annotated-Bibliography/
-├── posts/                    # 99 fichamentos (.qmd)
+├── posts/                    # 132 fichamentos (.qmd)
 ├── Old_Website_Posts/        # Posts arquivados de versões anteriores do site
 ├── prompts/                  # Prompts versionados usados para gerar as entradas
 ├── files/
@@ -171,4 +171,4 @@ Se este recurso for útil para você, considere linkar para o [site ao vivo](htt
 
 ---
 
-<sub>Este README foi escrito por [Antigravity AI](https://deepmind.google/) (Claude Opus 4.6) em 9 de maio de 2026, com base em uma revisão completa do conteúdo e da estrutura do repositório.</sub>
+<sub>Este README foi atualizado por [Antigravity AI](https://deepmind.google/) (Gemini 3.1 Pro) em 10 de junho de 2026, com base em uma revisão completa do conteúdo e da estrutura do repositório.</sub>
