@@ -18,7 +18,7 @@ This repository is an open-access, searchable collection of **structured annotat
 
 Each entry is a detailed, paragraph-by-paragraph analytical summary of an academic work — book, journal article, book chapter, or working paper — accompanied by a **critical analytical card** (*Ficha Analítica Crítica*) that evaluates the text's research question, methods, data generation process, theoretical framework, findings, and limitations.
 
-The bibliography currently contains **99 annotated entries — and counting** — covering topics in:
+The bibliography currently contains **132 annotated entries — and counting** — covering topics in:
 
 - **Comparative political economy** and **welfare state** research
 - **Education policy and politics** — especially higher education, student finance, and educational inequality
@@ -62,7 +62,7 @@ Every annotated bibliography post follows a standardized format generated with t
 
 ```
 Annotated-Bibliography/
-├── posts/                    # 99 annotated bibliography entries (.qmd)
+├── posts/                    # 132 annotated bibliography entries (.qmd)
 ├── Old_Website_Posts/        # Archived/legacy posts from earlier site versions
 ├── prompts/                  # Versioned AI prompts (spreadsheets, podcasts, qmd-blog-posts)
 ├── files/
@@ -171,4 +171,4 @@ If you find this resource useful, consider linking to the [live site](https://ma
 
 ---
 
-<sub>This README was written by [Antigravity AI](https://deepmind.google/) (Claude Opus 4.6) on May 9, 2026, based on a full review of the repository's content and structure.</sub>
+<sub>This README was updated by [Antigravity AI](https://deepmind.google/) (Gemini 3.1 Pro) on June 10, 2026, based on a full review of the repository's content and structure.</sub>

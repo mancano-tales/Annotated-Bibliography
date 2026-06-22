@@ -10,7 +10,491 @@
 <atom:link href="https://mancano-tales.github.io/Annotated-Bibliography/index.xml" rel="self" type="application/rss+xml"/>
 <description>Fichamentos acadêmicos de Tales Mançano</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Sun, 07 Jun 2026 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 22 Jun 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Fichamento: As Políticas Creditícias no Brasil Sob as Esquerdas</title>
+  <dc:creator>Tales Mançano</dc:creator>
+  <link>https://mancano-tales.github.io/Annotated-Bibliography/posts/Chaise2026.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Informações Técnicas e BibTeX
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<pre><code>Última atualização: 2026-06-22
+Modelo: Claude Sonnet 4.6 (claude-sonnet-4-6)
+Prompt Version: v17.4 · 2026-05-13
+Gerado em: 2026-06-22T20:50:04+00:00
+Ocasião da Leitura: [Para preenchimento manual do usuário]</code></pre>
+<p><strong>Entrada BibTeX → Chaise2026</strong></p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">Chaise2026</span>,</span>
+<span id="cb2-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span>  = {Chaise, Mariana},</span>
+<span id="cb2-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span>   = {As Políticas Creditícias no Brasil Sob as Esquerdas: A Agenda do Crédito Popular Antes do Governo Lula},</span>
+<span id="cb2-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span>    = {2026},</span>
+<span id="cb2-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">journal</span> = {Dados},</span>
+<span id="cb2-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">volume</span>  = {69},</span>
+<span id="cb2-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">number</span>  = {1},</span>
+<span id="cb2-8">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">pages</span>   = {e20240059},</span>
+<span id="cb2-9">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">doi</span>     = {10.1590/dados.2026.69.1.405},</span>
+<span id="cb2-10">}</span></code></pre></div></div>
+</div>
+</div>
+</div>
+<section id="ficha-analítica-crítica" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="ficha-analítica-crítica">Ficha Analítica Crítica</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Esta seção segue o formato <em>IA Planilhando Textos v17.4</em>.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Ficha Analítica — Tabela Markdown
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 23%">
+<col style="width: 52%">
+<col style="width: 23%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Dimensão</th>
+<th style="text-align: left;">Raciocínio analítico</th>
+<th style="text-align: left;">Conteúdo</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Questão de Pesquisa</td>
+<td style="text-align: left;">A pergunta é normativa (o crédito popular petista é conservador?) mas respondida por via genealógico-empírica (ele tinha raízes programáticas anteriores). Há uma premissa central não explicitada pelo artigo: que demonstrar a origem programática de uma política dissolve a crítica sobre seus efeitos distributivos. O ponto mais vulnerável é exatamente esse salto. A QP não é formulada explicitamente no texto.</td>
+<td style="text-align: left;">As políticas de crédito popular implementadas pelo primeiro governo Lula (2003–2006) — em particular o microcrédito e o crédito consignado — representam uma capitulação à agenda conservadora e neoliberal, ou expressam uma continuidade programática com a identidade histórica do PT? Natureza explicativo-normativa. <strong>Pergunta reconstruída</strong>: o artigo não formula QP explícita; a QP foi reconstituída a partir da estrutura do argumento.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Questões Secundárias</td>
+<td style="text-align: left;">As QS mapeiam o terreno empírico de maneira adequada; a quinta QS (mecanismo causal entre experiências subnacionais e agenda federal) é a mais estratégica e menos respondida com precisão formal.</td>
+<td style="text-align: left;">(i) Quais eram as alternativas de acesso ao crédito disponíveis às populações mais vulneráveis antes de 2003? (ii) Qual foi o papel dos governos subnacionais petistas no desenvolvimento de políticas de microcrédito nos anos 1990? (iii) Em que medida essas experiências informaram o arranjo federal de 2003? (iv) O modelo adotado pelas gestões petistas converge ou diverge do paradigma do Banco Mundial? (v) Qual era a posição da agenda creditícia nos programas de governo do candidato Lula antes de 2003?</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Puzzle-Type</td>
+<td style="text-align: left;">O puzzle é genuíno no sentido de que a literatura crítica efetivamente sustenta a interpretação contestada, criando um debate real. Contudo, o puzzle tem escopo restrito: é localizado no caso brasileiro e no período pós-2002, e depende da premissa — não examinada — de que “programa de partido” e “efeito redistributivo” são dimensões equivalentes para avaliar o caráter conservador ou progressista de uma política.</td>
+<td style="text-align: left;">Puzzle normativo-genealógico: se as políticas de crédito popular são inerentemente conservadoras (como sustenta a literatura de financeirização), por que foram pioneiramente desenvolvidas por administrações petistas nos anos 1990, período em que a identidade ideológica do PT era mais marcada? O puzzle é generalizável para discussões sobre policy diffusion e sobre a relação entre origem programática e natureza distributiva das políticas.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Conclusão / Argumento Central</td>
+<td style="text-align: left;">A natureza do argumento é genealógico-histórica: demonstrar que as políticas creditícias do PT têm raízes pré-2003 não refuta diretamente as teses sobre os efeitos macroeconômicos regressivos. O claim of discovery — as 20/37 iniciativas subnacionais petistas, o modelo distinto do BM — é bem sustentado empiricamente; a inferência normativa (portanto não são conservadoras) é mais fraca.</td>
+<td style="text-align: left;">As políticas de crédito popular do primeiro governo Lula — especialmente o microcrédito — não foram uma capitulação conservadora, mas a expressão de uma agenda programática histórica do PT, enraizada em experiências subnacionais dos anos 1990 que adotaram objetivos e formatos distintos do paradigma do Banco Mundial, incluindo a participação do poder público como financiador, tecnologias participativas e objetivos de cidadania que extrapolavam a inclusão financeira stricto sensu.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Métodos</td>
+<td style="text-align: left;">O design qualitativo-documental é adequado ao tipo de pergunta (genealógica). A triangulação entre fontes secundárias, dados institucionais e entrevistas é a principal força metodológica. A limitação central é a ausência de um processo de rastreamento (process-tracing) formal que demonstre o mecanismo de difusão vertical e horizontal; o argumento é construído por acumulação de evidências plausíveis, não por eliminação de hipóteses alternativas. Fichamento cobre a obra completa (42 pp.; referências, notas e anexos documentados mas não fichados em detalhe).</td>
+<td style="text-align: left;">Pesquisa qualitativa com triangulação de três fontes: (a) análise documental extensiva (fontes secundárias, programas de governo, literatura especializada); (b) dados secundários coletados junto ao BCB, Ministério da Fazenda e Abcred; (c) 12 entrevistas em profundidade, totalizando mais de 30 horas gravadas, divididas em três grupos: (i) implementadores e financiadores de iniciativas pré-2003; (ii) especialistas em microcrédito; (iii) representantes do setor bancário. Adicionalmente, análise de programas de governo de Lula desde o final dos anos 1980.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Data Generation Process (DGP)</td>
+<td style="text-align: left;">O DGP apresenta dois vieses estruturais não reconhecidos: (1) <strong>viés de documentação</strong>: iniciativas subnacionais de maior escala, mais bem-sucedidas e ligadas a partidos com mais recursos para registro tendem a ser mais visíveis; (2) <strong>viés de fonte nas entrevistas</strong>: todos os 12 entrevistados identificados nos anexos têm vínculos diretos com o PT ou com a agenda creditícia petista; não há entrevistado que represente a perspectiva crítica da literatura de financeirização. A classificação por partido é correta mas a comparação proporcional (20 de 37 vs.&nbsp;20 de ~111-187 municípios) mereceria maior elaboração.</td>
+<td style="text-align: left;">Fenômeno real: emergência e genealogia das políticas de crédito popular no Brasil (1970s–2003). Observação: identificação de iniciativas subnacionais de microcrédito via Abcred e fontes secundárias + evidência de processo via entrevistas. Coleta: pesquisa exploratória + dados institucionais + entrevistas semiestruturadas. Operacionalização: classificação de cada iniciativa subnacional por partido da gestão responsável. Análise: descritivo-histórica, com argumentação sobre mecanismos de difusão vertical e horizontal. Unidade de análise: iniciativa pública de microcrédito. Nível de agregação: subnacional (municipal e estadual).</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Achados e Contribuições</td>
+<td style="text-align: left;">Distinção importante: os achados são sólidos na dimensão descritiva-genealógica; a contribuição normativa (portanto a agenda não é conservadora) é plausível mas não plenamente demonstrada. A mais original das contribuições é a tipologia do modelo petista em contraposição ao modelo do Banco Mundial — atores distintos, objetivos distintos, tecnologias distintas.</td>
+<td style="text-align: left;">(i) 20 das 37 iniciativas públicas de microcrédito identificadas entre 1995 e início de 2003 foram implementadas por gestões petistas; (ii) as 5 iniciativas mais estudadas pela literatura especializada partiram de administrações PT; (iii) o modelo petista divergia do paradigma do Banco Mundial em três dimensões: atores (governos públicos em lugar de ONGs privadas), objetivos (desenvolvimento comunitário, cidadania, além da inclusão financeira), e tecnologias (conselhos participativos com representação civil); (iv) 64% das iniciativas pre-2003 partiram da esquerda brasileira; (v) o crédito popular era agenda explícita nos programas de governo de Lula desde 1998; (vi) o modelo federal de 2003 foi uma ruptura tanto com as práticas subnacionais anteriores quanto com a prática mundial, ao expandir do universo produtivo para o consumo e ao imobilizar reservas compulsórias.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Análise Crítica dos Achados</td>
+<td style="text-align: left;">Vulnerabilidade central: o argumento opera no plano das origens e intenções, enquanto a crítica de Lavinas opera no plano dos efeitos macroeconômicos. Esses planos não são equivalentes — uma política pode ter origens programáticas genuínas e ainda assim produzir efeitos redistributivos regressivos. A resposta ao principal crítico (Lavinas) é parcial: a autora demonstra que Chaise (2023) havia mostrado o papel dos sindicatos, mas não refuta diretamente a tese sobre os efeitos macrofinanceiros do consignado no endividamento das famílias.</td>
+<td style="text-align: left;">A autora responde adequadamente à questão genealógica que formula, mas a extensão da resposta ao debate normativo é incompleta. Pontos de maior força: (a) a associação quantitativa PT/microcrédito é expressiva mesmo após a comparação proporcional; (b) a diferenciação entre o modelo petista e o BM está bem documentada; (c) a recuperação da trajetória dos programas de governo de Lula como evidência de antecipação programática é original. Vulnerabilidades: (a) ausência de eliminação sistemática da hipótese de aprendizado mimético (PT copiou ONGs/BM bem-sucedidos sem motivação programática autônoma); (b) o argumento sobre os efeitos do consignado na redução de juros (Chaise, 2023) não é desenvolvido no presente artigo; (c) a comparação proporcional (20/37 vs.&nbsp;base municipal PT) carece de um teste de associação mais robusto.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Limitações</td>
+<td style="text-align: left;"><strong>Reconhecidas pelos autores:</strong> Incapacidade de mapear todas as iniciativas subnacionais anteriores a 2003 (muitas foram de escala pequena, não geraram estudos ou publicações, e não mais existem); conclusões baseadas em análises de um contexto e período específicos, limitando a generalização. <br> <strong>Não reconhecidas ou subestimadas:</strong> (1) O viés de seleção dos entrevistados — todos vinculados ao PT ou favoráveis à agenda — não é tematizado; (2) a distinção normativa entre origem programática e efeitos distributivos não é suficientemente elaborada, o que deixa o argumento central vulnerável à crítica mais sofisticada de Lavinas; (3) ausência de operacionalização clara do mecanismo de difusão (vertical e horizontal) além da narrativa descritiva; (4) o argumento de que o modelo de 2003 “não era a simples implementação de propostas de organizações internacionais” é assertivo mas carece de maior elaboração comparativa sistemática.</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Perspectiva Teórica</td>
+<td style="text-align: left;">A moldura é eclética mas coerente com o tipo de pergunta; a ontologia implícita (partido como ator com identidade programática rastreável ao longo do tempo) é compatível com o método histórico-qualitativo adotado. A ausência de uma teoria formal de policy diffusion é uma lacuna, pois os mecanismos de extrapolação vertical e horizontal são o núcleo do argumento empírico, mas ficam como afirmações descritivas.</td>
+<td style="text-align: left;">O artigo dialoga implicitamente com as literaturas de variedades de capitalismo, economia política comparada do welfare state (Esping-Andersen), teoria dos partidos (Hunter, 2010; Keck, 1991) e sociologia do crédito (Lazarus, 2022; Ingham, 2004). O debate central é travado com a literatura de financeirização (Lapavitsas, Lavinas, Streeck, Boyer, Krippner). Não há filiação disciplinar exclusiva; o artigo é híbrido entre economia política e ciência política.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Principais Referências</td>
+<td style="text-align: left;">O diálogo com a literatura crítica (Lavinas, Paulani, Borges Neto) é equilibrado e adversarial; o diálogo com a literatura de microcrédito (Soares &amp; Sobrinho, Barone, Buchmann &amp; Neri) é descritivo. Ausência notável: literatura de policy diffusion (Simmons et al.; Weyland) e de path dependence (Pierson) que poderia formalizar o argumento de difusão subnacional.</td>
+<td style="text-align: left;">Lavinas (2017), Singer (2012), Keck (1991), Hunter (2010), Chaise (2023), Soares &amp; Sobrinho (2008), Barone (2008), Lavorato (2001), Monzoni (2008), Lazarus (2022). Trabalhos empíricos próprios: Chaise (2023), <em>Brazilian Political Science Review</em>, sobre crédito consignado e ideologia.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Observações</td>
+<td style="text-align: left;">Relevância específica para a dissertação de Tales: (1) documenta o papel de atores subnacionais (governos municipais e estaduais) como atores autônomos na formulação de políticas que depois ascendem ao plano federal — estrutura análoga ao argumento sobre FIES/ProUni na educação superior; (2) reforça o argumento de que teorias partidárias podem gerar predições corretas por mecanismos incorretos — a agenda creditícia é petista, mas o mecanismo não é simples preferência ideológica pela financeirização; (3) o modelo PortoSol (poder público como articulador e financiador com participação da sociedade civil) guarda paralelo estrutural com o mecanismo de difusão de políticas de acesso ao ensino superior; (4) Lavinas (2017) — cuja tese sobre “socialização do econômico” ao PT é aqui refutada — aparece como contraponto relevante para a tese de Tales sobre o ProUni/FIES.</td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</section>
+<section id="mapa-argumentativo" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="mapa-argumentativo">Mapa Argumentativo</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 8%">
+<col style="width: 19%">
+<col style="width: 28%">
+<col style="width: 43%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Seção</th>
+<th style="text-align: left;">Título / Tema</th>
+<th style="text-align: left;">Função argumentativa</th>
+<th style="text-align: left;">Contribuição para a tese central</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Introdução</td>
+<td style="text-align: left;">Contexto, puzzles, metodologia e estrutura do argumento</td>
+<td style="text-align: left;">Apresentação do puzzle e da tese</td>
+<td style="text-align: left;">Estabelece o debate sobre a “deriva neoliberal” do PT via crédito popular; apresenta o arranjo consignado + microcrédito; anuncia a estratégia genealógica</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Seção 2</td>
+<td style="text-align: left;">“Você pagou com traição” — revisão da literatura crítica ao lulismo</td>
+<td style="text-align: left;">Revisão de literatura adversarial</td>
+<td style="text-align: left;">Reconstrói e qualifica o argumento adversário (Paulani, Lavinas, Borges Neto, Sicsú) para depois refutá-lo; delimita o que a literatura crítica afirma e onde ela é vulnerável</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Seção 3</td>
+<td style="text-align: left;">O acesso ao crédito popular antes do governo Lula</td>
+<td style="text-align: left;">Análise empírica de contexto histórico</td>
+<td style="text-align: left;">Demonstra que os mais pobres tinham acesso apenas ao mercado informal (agiotagem) ou a iniciativas assistencialistas antes de 2003; caracteriza o modelo do Banco Mundial e mostra que o Brasil já dele divergia desde 1986</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Seção 4</td>
+<td style="text-align: left;">A agenda do crédito popular e o PT “histórico”</td>
+<td style="text-align: left;">Análise empírica central (estudo de caso múltiplo)</td>
+<td style="text-align: left;">Documenta empiricamente a associação PT/microcrédito subnacional (20/37 iniciativas; as 5 mais famosas); descreve o modelo PortoSol e suas extrapolações verticais e horizontais; vincula a agenda ao programa de governo de Lula desde 1998; caracteriza as inovações de 2003</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Conclusão</td>
+<td style="text-align: left;">“Pode a política de crédito ser compreendida como uma política social?”</td>
+<td style="text-align: left;">Síntese, qualificação normativa e agenda</td>
+<td style="text-align: left;">Sintetiza os achados empíricos; inverte o argumento de Lavinas; reconhece os limites do crédito como política social; abre duas agendas de pesquisa</td>
+</tr>
+</tbody>
+</table>
+<hr>
+</section>
+<section id="introdução-pp.-48" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="introdução-pp.-48"><span class="header-section-number">1</span> Introdução (pp.&nbsp;4–8)</h2>
+<section id="o-debate-sobre-o-crédito-popular-e-a-acusação-de-conservadorismo-13" class="level3" data-number="1.1">
+<h3 data-number="1.1" class="anchored" data-anchor-id="o-debate-sobre-o-crédito-popular-e-a-acusação-de-conservadorismo-13"><span class="header-section-number">1.1</span> O debate sobre o crédito popular e a acusação de conservadorismo [§1–§3]</h3>
+<p>A abertura do artigo é diretamente confrontacional: a autora elenca, sem mediação, as acusações que foram levantadas contra o primeiro governo Lula (2003–2006) em razão da implementação de um arranjo de <strong>políticas de crédito popular</strong> — favorecimento aos banqueiros e ao capital financeiro, manipulação das camadas mais vulneráveis, estímulo ao endividamento de trabalhadores, alienação e despolitização das massas e estelionato eleitoral. O alvo não é a identificação empírica do artigo, mas as interpretações que tomaram esses efeitos como evidência da capitulação do PT ao conservadorismo. A justificativa teórica para essas interpretações repousa em uma premissa da literatura crítica: o crédito seria um instrumento eminentemente conservador de política pública, pois não ancora em gasto direto do Estado, não onera sobremaneira os cofres públicos e não promove redistribuição efetiva de renda (Bickers &amp; Stein, 2000). O acesso ao crédito — e, em sua face oposta, à dívida — afetaria os mais pobres no médio e longo prazo, ao passo que beneficiaria os “donos do dinheiro”.</p>
+<p>A autora recapitula os fundamentos teóricos que sustentam essa caracterização. Para os estudiosos da <strong>financeirização</strong>, o alargamento do crédito serviria, por um lado, para compensar a estagnação salarial — sustentando o consumo dos trabalhadores por meio de um alargamento fictício da renda (Boyer, 2000; Krippner, 2011) —, e, por outro, para amortizar os efeitos deletérios dos programas de ajuste estrutural, substituindo sistemas de proteção social pela provisão privada de serviços (Weber, 2004). Para os autores críticos do neoliberalismo, a expansão do crédito seria um instrumento de atomização dos pobres, transferindo-lhes individualmente os riscos inerentes à inclusão capitalista e abrandando as responsabilidades sociais dos Estados (Brown, 2019; Streeck, 2012). Uma vertente mais incisiva classifica as linhas de crédito popular como uma “indústria da pobreza” (Schwittay, 2014; Soederberg, 2014) — que extrai recursos dos mais pobres via dívidas e os transfere para os mais ricos via juros, operando como redistribuição regressiva de renda (Lapavitsas, 2013). Há ainda a perspectiva de que o crédito no Sul Global serviria para estimular circuitos financeiros externos e enriquecer investidores estrangeiros, sem alterar o padrão de vida das populações-alvo (Chiapello et al., 2023).</p>
+<p>No Brasil, a partir dessas teses, uma série de estudos recentes argumentou que a implementação de políticas creditícias pelo governo Lula indicaria a descaracterização ideológica do PT a partir dos anos 2000. Apoiados na conexão entre alargamento do crédito e avanço da financeirização, autores sustentaram que o governo petista, a despeito de seus compromissos históricos, teria aquiescido à agenda dos conservadores e aos interesses do empresariado financeiro, incorrendo em uma deriva “neoliberal” (Bahia et al., 2022; Lavinas, 2017; Lavinas et al., 2019; Saad-Filho &amp; Morais, 2018).</p>
+</section>
+<section id="proposta-analítica-e-estratégia-argumentativa-46" class="level3" data-number="1.2">
+<h3 data-number="1.2" class="anchored" data-anchor-id="proposta-analítica-e-estratégia-argumentativa-46"><span class="header-section-number">1.2</span> Proposta analítica e estratégia argumentativa [§4–§6]</h3>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Tese central do artigo:</strong> As políticas de crédito popular não são alheias à identidade programática do PT — ao contrário, compõem o rol de iniciativas históricas do partido, com objetivos e tecnologias distintos daqueles descritos pela literatura especializada, mormente focada no caso estadunidense.</p>
+</div>
+</div>
+<p>O artigo propõe desafiar as teses que vinculam as administrações petistas ao conservadorismo político no ponto em que aparentam encontrar maior respaldo: a implementação das políticas de crédito popular. A autora anuncia explicitamente o objetivo de explorar e testar a identidade política do PT em um campo em que seus críticos encontram amplo suporte teórico, oferecendo uma análise contextualizada das estratégias petistas para enfrentar desafios socioeconômicos e contribuindo para uma visão mais completa da trajetória do partido. A estratégia é ao mesmo tempo descritiva e normativa: descrever o que de fato ocorreu para qualificar o que normativamente significa.</p>
+<p>Para tanto, a autora anuncia que recuperará e examinará o histórico da relação do PT com o crédito popular desde as primeiras administrações subnacionais, buscando demonstrar qual significado era atribuído ao crédito e quais inovações financeiras foram desenvolvidas por lideranças petistas. O argumento central é que, a despeito das críticas concentradas nas administrações federais, a história do alargamento do crédito no Brasil em direção às camadas mais vulneráveis está intrinsecamente vinculada ao PT — tanto de modo direto quanto indireto. No entanto, os motivos para a promoção da inclusão dos mais pobres nos circuitos financeiros e os formatos em que isso foi realizado divergem das narrativas descritas pela literatura especializada.</p>
+</section>
+<section id="o-arranjo-petista-de-crédito-popular-consignado-e-microcrédito-79" class="level3" data-number="1.3">
+<h3 data-number="1.3" class="anchored" data-anchor-id="o-arranjo-petista-de-crédito-popular-consignado-e-microcrédito-79"><span class="header-section-number">1.3</span> O arranjo petista de crédito popular: consignado e microcrédito [§7–§9]</h3>
+<p>O que a autora denomina “arranjo” de políticas de crédito popular petista engloba um conjunto de medidas implementadas logo no primeiro ano do primeiro mandato de Lula. A mais comentada delas — integrando o que Singer (2012) e Anderson (2019) consideram um arranjo mais amplo de “políticas públicas lulistas” — é a expansão do <strong>crédito consignado</strong>, anteriormente restrito a alguns funcionários públicos de poucos estados, agora estendido a (i) trabalhadores celetistas, (ii) funcionários públicos, (iii) aposentados e pensionistas do INSS. Paralelamente, foram adotadas medidas para o estímulo ao <strong>microcrédito</strong> — dotação de empréstimos de pequena monta aos muito pobres e excluídos do mercado formal. A proposição de uma dessas medidas esteve vinculada à proposição da outra, conformando o “arranjo”. A inspiração para o estímulo ao microcrédito desde o nível federal, conforme a autora argumentará, veio de experiências estaduais e municipais a cargo de lideranças petistas — um laboratório para o “modo petista de governar” (Bezerra, 2019): a forja de uma marca das gestões partidárias que simultaneamente estabelecia diretrizes para a atuação do partido e o diferenciava dos demais.</p>
+<p>Para contextualizar o alcance do arranjo, a autora mobiliza dados de Soares &amp; Sobrinho (2008): o microcrédito no Brasil logo após a implementação das políticas lulistas era direcionado às classes de renda E e H, abarcando indivíduos que recebiam até três salários mínimos em valores de 2005. Em valores de 2003, esse público incluía quem ganhava até R$ 801,71 por mês — equivalente a menos de quatro cestas básicas mensais. Os dados por faixa de renda são apresentados em tabela: a faixa H (sem rendimento, 11,5% da população em 2005) e as faixas G (até 1 salário mínimo, 30,5%) e F (entre 1 e 2 salários mínimos, 28,6%) eram os públicos-alvo do microcrédito, enquanto a faixa E (entre 2 e 3 salários mínimos, 10,0%) constituía uma zona de concorrência. As faixas D (3–5 salários, 9,4%) eram atendidas principalmente pelo cooperativismo de crédito, C (5–10 salários, 5,9%) por outra zona de concorrência, e as faixas B e A (acima de 10 salários mínimos, 3% da população) pelos bancos tradicionais. O microcrédito, portanto, atingia potencialmente 80,6% da população brasileira em 2005.</p>
+<p>A metodologia do artigo é anunciada de forma transparente. A autora realizou pesquisa exploratória em fontes secundárias e coletou dados junto à Abcred — Associação Brasileira de Entidades Operadoras de Microcrédito e Microfinanças. Além de dados do Banco Central e do Ministério da Fazenda, foram conduzidas 12 entrevistas em profundidade com mais de 30 horas de material gravado, divididas em três grupos-chave: (i) participantes — fomentadores e implementadores — de iniciativas de microcrédito anteriores às administrações federais petistas; (ii) especialistas em microcrédito; (iii) representantes do setor bancário e do mercado financeiro. Finalmente, os programas de governo de Lula desde o final dos anos 1980 foram analisados para rastrear a posição da agenda creditícia nos debates do partido.</p>
+<hr>
+</section>
+</section>
+<section id="você-pagou-com-traição-as-primeiras-críticas-ao-lulismo-desde-o-estímulo-ao-crédito-popular-pp.-814" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="você-pagou-com-traição-as-primeiras-críticas-ao-lulismo-desde-o-estímulo-ao-crédito-popular-pp.-814"><span class="header-section-number">2</span> “Você Pagou com Traição”: as Primeiras Críticas ao Lulismo desde o Estímulo ao Crédito Popular (pp.&nbsp;8–14)</h2>
+<section id="a-origem-socialista-do-pt-e-as-expectativas-em-torno-do-governo-lula-1012" class="level3" data-number="2.1">
+<h3 data-number="2.1" class="anchored" data-anchor-id="a-origem-socialista-do-pt-e-as-expectativas-em-torno-do-governo-lula-1012"><span class="header-section-number">2.1</span> A origem socialista do PT e as expectativas em torno do governo Lula [§10–§12]</h3>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>O título da seção é uma alusão direta ao contexto de frustração da esquerda com o governo Lula — captura a dimensão normativa do debate que o artigo busca qualificar.</p>
+</div>
+</div>
+<p>Desde suas origens socialistas, o PT nasceu sob a proposta de promover alterações radicais nas agendas econômicas e sociais estabelecidas, ao mesmo tempo em que advogava — a partir de uma abordagem “democrática e popular” — pela introdução de métodos inovadores de associativismo e de representação política dos excluídos (Keck, 1991). Enquanto partido de oposição, o PT pressionou governos nessas direções. É compreensível, portanto, que a vitória de Lula em 2002 tenha gerado expectativas transformativas, seja nos círculos da esquerda organizada, seja entre a intelectualidade nacional, ávida diante do ineditismo da conjuntura.</p>
+<p>Porém, se a chave da esperança esteve presente nas primeiras interpretações sobre o governo Lula, foi também muito cedo que o mesmo governo foi lido pela intelectualidade progressista por uma chave necessariamente relacionada: a da frustração diante do que estava sendo efetivamente entregue, já desencantada com a possibilidade de reais transformações a serem levadas a cabo pelo partido recém-instalado no Poder Executivo.</p>
+<p>As críticas voltavam-se para polêmicas que marcariam o primeiro governo de Lula no seio das esquerdas. A proposta de reforma da Previdência, ao afetar o funcionalismo público — uma base eleitoral importante do PT —, aparentava dar continuidade à reforma anterior do PSDB, à época combatida pelos petistas. Havia insatisfação com a lentidão na implementação de programas sociais e com os primeiros reajustes salariais concedidos. Lula, um dos mais importantes líderes sindicais da história brasileira, nem ao menos participou das tradicionais celebrações do Dia do Trabalho em seu primeiro ano como presidente. Por fim, críticos apontavam que o Ministério da Fazenda e o Banco Central indicados pela nova gestão priorizavam o crescimento econômico em detrimento da inclusão social.</p>
+</section>
+<section id="a-genealogia-das-interpretações-críticas-de-paulani-a-lavinas-1316" class="level3" data-number="2.2">
+<h3 data-number="2.2" class="anchored" data-anchor-id="a-genealogia-das-interpretações-críticas-de-paulani-a-lavinas-1316"><span class="header-section-number">2.2</span> A genealogia das interpretações críticas: de Paulani a Lavinas [§13–§16]</h3>
+<p>Duas coletâneas escritas “no calor da hora” buscaram refutar a narrativa então corrente de que o novo governo apenas hesitava na implementação de sua agenda histórica ao optar por uma transição gradual. Para esses intérpretes, o governo Lula já estava claramente alinhado à continuidade. Paulani (2003) e Paulani &amp; Pato (2005) destacaram a manutenção dos princípios da agenda macroeconômica do governo Fernando Henrique Cardoso pela neófita administração Lula. Essa interpretação ganhou aceitação generalizada, inclusive entre a crítica liberal e conservadora. O economista Samuel Pessoa, por exemplo, ironicamente apelidou o período abarcando as gestões dos ministros Pedro Malan (FHC) e Antônio Palocci (Lula) de “Era Malocci”.</p>
+<p>Para Leda Paulani (2003), apesar de criticar durante anos a condução da política macroeconômica pelos tucanos, os petistas estariam utilizando como justificativa a necessidade de recuperar a credibilidade do país para manter o mesmo tripé consagrado por organizações internacionais — baseado em superávits primários generosos, câmbio flutuante e pagamento de juros elevados aos credores. O objetivo seria preparar o Brasil para um projeto de financeirização econômica, e nada seria indício maior do sucesso dos capitalistas brasileiros que a capitulação do partido que organizava os interesses dos trabalhadores ao discurso único neoliberal. Para Borges Neto (2005), a orientação geral do governo Lula já poderia ser considerada “explicitamente neoliberal”.</p>
+<p>Para Sicsú (2003), o governo petista não apenas dava continuidade, mas aprofundava o “neoliberalismo tucano” para garantir a governabilidade — pois Lula havia optado voluntariamente por gerir uma base de apoio conservadora, elegendo-se pela esquerda mas governando “enquanto a direita” (Sicsú &amp; Maringoni, 2005). Em uma interpretação alternativa, Coutinho (2003) argumentou que essa conversão dos petistas ao neoliberalismo teria ocorrido simplesmente porque a antiga oposição nunca teve um projeto minimamente consistente de política econômica. Paula (2005) concordou com a evidência do neoliberalismo, mas a promoção de algumas políticas sociais focalizadas permitia classificar o governo como “social-liberal” — uma pequena concessão.</p>
+<p>A tese sustentada pelas autoras e autores críticos era, portanto, a da capitulação do governo Lula aos agentes financeiros, com reveses para o emprego, a renda e as condições de vida de ampla parcela da população. Os petistas estariam rendidos a interesses externos aos anseios de sua base, a qual seria — em realidade — prejudicada pela natureza de suas decisões. A hipótese era a da degeneração do partido, dando origem a um governo de caráter “regressivo” (Oliveira, 2003). Centralizando especificamente a política de expansão do crédito consignado, Cardim de Carvalho (2005:101) assim descreveu essa interpretação: o governo Lula não buscou nenhum meio de concretizar as demandas mínimas da esquerda democrática; pelo contrário, apresentava como vitória a reintrodução do crédito consignado para promover a expansão do consumo, estimulando o endividamento das famílias a taxas excepcionalmente altas e fragilizando sua posição financeira.</p>
+</section>
+<section id="a-natureza-dual-do-crédito-e-as-especificidades-do-arranjo-de-2003-1721" class="level3" data-number="2.3">
+<h3 data-number="2.3" class="anchored" data-anchor-id="a-natureza-dual-do-crédito-e-as-especificidades-do-arranjo-de-2003-1721"><span class="header-section-number">2.3</span> A natureza dual do crédito e as especificidades do arranjo de 2003 [§17–§21]</h3>
+<p>A autora interrompe a revisão crítica para introduzir uma qualificação técnica sobre o crédito. O crédito possui duas especificidades que, como instrumento de combate à pobreza, efetivamente impõem limites à sua potência. A primeira é o <strong>risco</strong> — a probabilidade de a credora ou o credor incorrer em perdas devido ao não pagamento da dívida, o que ranqueia os empréstimos entre os mais seguros e os mais incertos. A segunda, evocando formulação de Marx (2011), é que não se trata de “dinheiro presenteado”, mas de “dinheiro emprestado”, ancorado em um contrato que prevê a contrapartida do juro. Quanto mais incerta a liquidação da dívida, mais caro é o empréstimo. Como consequência, existem assimetrias inerentes ao mercado creditício: empréstimos para tomadores de “alto risco” — como indivíduos sem recursos, sem estabilidade empregatícia e sem garantias críveis — costumam ter taxas várias vezes mais elevadas que as aplicadas às classes médias (Ingham, 2004).</p>
+<p>A expansão do crédito consignado foi aprovada ao final do primeiro ano do mandato de Lula, em uma concertação que envolveu atores ideologicamente díspares: sindicalistas vinculados à Central Única dos Trabalhadores (CUT), banqueiros organizados na Febraban e burocratas alocados na Fazenda (Chaise, 2023). Por sua tecnologia específica — reduzindo sobremaneira o risco arcado pelos bancos, pois o desconto é feito diretamente na folha de pagamento —, o consignado tornou-se rapidamente a modalidade mais ofertada de crédito pessoal no Brasil, atingindo 49,1% do total de concessão de crédito à pessoa física com recursos livres em setembro de 2024. Dois meses antes de sua proposição, contudo, o governo Lula propôs medidas para o alargamento do microcrédito pessoal.</p>
+<p>Tanto o microcrédito quanto o consignado são modalidades de crédito popular e sem destinação específica — são créditos ofertados para fins amplos, o que se convencionou chamar de “crédito ao consumo”. Ambos se desenvolveram no Brasil e na América Latina por meio de políticas públicas durante o mesmo período temporal (Guthrie, 2013), sendo implementados sob a mesma retórica de instrumentos de combate à pobreza e inclusão social, tendo o Governo Federal como indutor.</p>
+<p>As diferenças, porém, são significativas. Em primeiro lugar, o consignado exige contracheques ou benefícios previdenciários — é uma modalidade limitada à economia formal, não disponível aos extremamente pobres (que não têm rendimentos comprováveis), ao passo que o microcrédito não requer garantias. Em segundo lugar, o consignado tem baixo risco de inadimplência e não demanda estrutura paralela de operações. Para o microcrédito, há possibilidade de inadimplência e tecnologias adaptadas ao segmento (como agentes de crédito que vão até o público-alvo) são necessárias, impondo custos adicionais aos provedores.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 3:</strong> A inclusão dos titulares do Benefício de Prestação Continuada (BPC) — famílias no segmento mais vulnerável — na política de consignado ocorreu somente em 2022, por meio do Programa Renda e Oportunidade do governo Bolsonaro, o que evidencia os limites originais do arranjo de 2003 na cobertura dos extremamente pobres.</p>
+</blockquote>
+<p>Quando esse arranjo de políticas foi proposto, 50,1% da população brasileira estava ocupada e 42,9% inativa. O consignado se destinaria aos aposentados e à praticamente metade dos ocupados: os empregados com carteira assinada e os funcionários públicos teriam acesso a partir da promulgação da MP 130 em dezembro de 2003, e os aposentados/pensionistas do INSS desde o início de 2004. À outra metade dos ocupados — e àqueles excluídos do mercado formal — se destinaria o microcrédito. A autora sintetiza: “neste arranjo de políticas, portanto, uma se dirigia aos incluídos, e a outra, aos excluídos do mercado de trabalho.”</p>
+</section>
+<section id="lavinas-a-financeirização-e-a-réplica-de-chaise-2023-2227" class="level3" data-number="2.4">
+<h3 data-number="2.4" class="anchored" data-anchor-id="lavinas-a-financeirização-e-a-réplica-de-chaise-2023-2227"><span class="header-section-number">2.4</span> Lavinas, a financeirização e a réplica de Chaise (2023) [§22–§27]</h3>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Este subconjunto do debate é especialmente relevante para dissertações que trabalham com ProUni e FIES, pois Lavinas (2017) utiliza explicitamente esses programas como exemplos de “políticas sociais mercadorizadas” — o mesmo enquadramento que o artigo de Chaise busca contestar para o microcrédito.</p>
+</div>
+</div>
+<p>Na sequência das primeiras obras críticas, Lena Lavinas desenvolveu uma interpretação mais radical sobre a deriva neoliberal do PT. Em Lavinas (2017), o quadro é pessimista: as políticas sociais “mercadorizadas” instituídas pelo governo Lula — como o ProUni e o FIES — aliadas ao subfinanciamento dos serviços públicos básicos, estimulariam os circuitos financeiros privados. Os benefícios assistenciais em formato de transferências financeiras poderiam servir como colateral para a dotação de crédito ao consumo popular pelos bancos. Em qualquer dos casos, sempre em benefício dos banqueiros e representantes de instituições financeiras. O endividamento das famílias no Brasil seria, segundo Lavinas, uma opção deliberada do governo em prol do lucro do setor financeiro.</p>
+<p>A peculiaridade do caso brasileiro era o fato de essa opção ter sido tomada por um governo de centro-esquerda — em tese não alinhado aos interesses dos banqueiros ou à agenda creditícia no período histórico imediatamente anterior à eleição de 2002. Lavinas (2017:87) argumentou que o Brasil havia assistido ao “impulso, autonomização e legitimação dos mercados financeiros — tudo à luz do dia e sob o comando do Partido dos Trabalhadores.”</p>
+<p>A autora replica esse argumento mobilizando seu próprio trabalho anterior (Chaise, 2023). Nele, teria demonstrado o papel que os movimentos organizados de trabalhadores — uma das mais importantes bases político-eleitorais do PT — tiveram na proposição do crédito consignado, a política mais citada por Lavinas. O apoio dos sindicatos à expansão do consignado orientava-se por um cenário em que, sem acesso aos bancos tradicionais, seus associados estavam endividados no mercado informal de crédito — ou seja, com a agiotagem —, contraindo dívidas tanto mais caras quanto mais inseguras. Não havia ausência de endividamento, mas esse endividamento simplesmente não era capturado em dados oficiais. Chaise (2023) também teria detalhado os efeitos da expansão do consignado para a redução dos juros e dos prazos no mercado creditício de maneira ampla.</p>
+<p>Quanto ao microcrédito — pensado em arranjo com o consignado, mas receptor de muito menos atenção da literatura —, a autora registra que essa modalidade nunca se massificou, correspondendo a apenas 0,02% do total do crédito consignado em setembro de 2024. Seu pico foi de 1,9% em dezembro de 2012, no governo Dilma Rousseff. O argumento substantivo é direto: “não é possível alegar que a expansão do crédito no Brasil em direção às camadas sociais mais desfavorecidas — seja aos informais por meio do microcrédito, seja às trabalhadoras e aos trabalhadores formais de baixos salários por meio do crédito consignado — seja uma agenda descolada da proposta petista. Em realidade, pode ser considerada uma das pautas históricas do partido, aliada aos interesses de suas bases de apoio.”</p>
+<hr>
+</section>
+</section>
+<section id="o-informal-o-subterrâneo-e-o-assistencialista-o-acesso-ao-crédito-popular-antes-do-primeiro-governo-lula-pp.-1518" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="o-informal-o-subterrâneo-e-o-assistencialista-o-acesso-ao-crédito-popular-antes-do-primeiro-governo-lula-pp.-1518"><span class="header-section-number">3</span> O Informal, o Subterrâneo e o Assistencialista: o Acesso ao Crédito Popular antes do Primeiro Governo Lula (pp.&nbsp;15–18)</h2>
+<section id="a-exclusão-estrutural-do-mercado-bancário-brasileiro-2830" class="level3" data-number="3.1">
+<h3 data-number="3.1" class="anchored" data-anchor-id="a-exclusão-estrutural-do-mercado-bancário-brasileiro-2830"><span class="header-section-number">3.1</span> A exclusão estrutural do mercado bancário brasileiro [§28–§30]</h3>
+<p>A análise do mercado bancário brasileiro realizada por Soares &amp; Sobrinho (2008) revelou que, no princípio do primeiro governo Lula, os bancos comerciais tradicionais atendiam clientes que recebiam a partir de cinco salários mínimos (R$ 1.500 em valores de 2005). Mesmo este grupo poderia ter dificuldades em acessar serviços bancários: para a abertura de uma simples caderneta de poupança — considerada um produto de entrada no sistema financeiro —, os bancos brasileiros cobravam depósitos iniciais de até dois mil reais, a depender da instituição e da agência. Paradoxalmente, as regiões mais pobres das cidades exigiam os valores mais altos; nos anos 1990, os depósitos mínimos mais elevados eram verificados em um banco público (O Estado de S. Paulo, 1996). Uma clientela considerada segura para empréstimos — que, ao contrário de uma conta poupança, envolvem o risco de perdas para a instituição bancária — recebia no mínimo dez salários mínimos, o que correspondia a três mil reais em valores de 2005: uma faixa de renda na qual se encontrava apenas 3% da população brasileira à época.</p>
+<p>Trabalhadores da informalidade não conseguiam comprovar renda conforme as exigências dos bancos tradicionais; e indivíduos que morassem em favelas ou zonas irregulares não tinham sequer como comprovar residência para firmar contratos de empréstimo. O mercado financeiro mantinha-se, portanto, altamente seletivo e restritivo.</p>
+<p>Sem crédito formal, restava recorrer à família, aos amigos ou à informalidade. A autora evoca uma imagem concreta do período: um curto passeio pela Rua São Bento, no centro de São Paulo, ou pela Rua Borges de Medeiros, no centro de Porto Alegre, no Brasil dos anos 1990, seria suficiente para cruzarmos com pequenos escritórios na porta dos quais indivíduos em coletes amarelos ofereciam “venda de dinheiro”. As páginas de classificados de qualquer jornal exibiam facilmente ofertas de crédito produtivo ou pessoal — com ou sem garantias, com ou sem fiador —, sem burocracia e sem consulta a serviços de informações de crédito.</p>
+</section>
+<section id="o-mercado-informal-de-crédito-e-o-contexto-do-microcrédito-3134" class="level3" data-number="3.2">
+<h3 data-number="3.2" class="anchored" data-anchor-id="o-mercado-informal-de-crédito-e-o-contexto-do-microcrédito-3134"><span class="header-section-number">3.2</span> O mercado informal de crédito e o contexto do microcrédito [§31–§34]</h3>
+<p>Desde 1995, a Anefac — Associação Nacional de Executivos de Finanças, Administração e Contabilidade — realizava pesquisas sobre juros informais no Brasil. Em estudo publicado no ano 2000, os pesquisadores da entidade ligaram para cinquenta agiotas que anunciavam em jornais, fingindo ser potenciais clientes, com o objetivo de calcular a taxa média de juros cobrada no segmento. O resultado foi expressivo: de 14,5% a 35,04% ao mês, correspondendo a 407,44% e 3.577,47% ao ano. O diretor executivo de estudos da Anefac, Miguel José Ribeiro — entrevistado para a pesquisa —, detalhou que a taxa anunciada pelo atendente diferias da taxa efetiva para o empréstimo, e que ainda se cobrava uma taxa de cadastro de até cem reais. Esse mercado de escritórios de agiotagem atendia aproximadamente dois milhões de brasileiros, segundo a Anefac — estimativa certamente subestimada.</p>
+<p>O microcrédito emergiu como uma alternativa mais acessível e, sobretudo, mais segura de empréstimo para os mais pobres em comparação com a agiotagem. O microcrédito — créditos de pequena monta destinados especificamente aos mais vulneráveis — já foi descrito como a novidade mais fortemente promovida, amplamente elogiada e difundida de toda a história das finanças transnacionais (Galbraith, 2017). A Assembleia Geral da ONU proclamou 2005 o “Ano Internacional do Microcrédito”; em 2006, o banqueiro bengali Muhammad Yunus foi agraciado com o Nobel da Paz pelo Grameen Bank; e, treze anos depois, Abhijit Banerjee e Esther Duflo receberam o Nobel de Economia por seu trabalho sobre o acesso popular ao mercado creditício.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 7:</strong> A autora distingue os “bancos de primeiro piso” — aqueles que repassam recursos diretamente ao beneficiário final (o microempreendedor formal ou informal) — dos bancos de segundo piso, que operam por intermédio de outras instituições financeiras. O Banco do Nordeste, com o CrediAmigo, é exemplo de banco público de primeiro piso.</p>
+</blockquote>
+<p>O debate em torno do microcrédito, no entanto, está fortemente vinculado a um modelo promovido globalmente pelo Banco Mundial. De acordo com suas diretrizes (CGAP, 2004), a concessão de microcréditos deve ser conduzida por instituições privadas dedicadas exclusivamente a esse propósito, autossuficientes em termos de gestão e financiamento, independentes de doações de governos e com taxas de juros determinadas comercialmente — levando em conta os custos necessários para alcançar o público-alvo e operar com grande volume de empréstimos de pequena monta.</p>
+<p>A história específica do microcrédito no Brasil, no entanto, aproxima-se e afasta-se da “história das microfinanças” genericamente contada. A agenda do microcrédito surge no país nos anos 1970 por meio de ONGs — sendo as pioneiras aquelas relacionadas a redes internacionais. Outros atores também se envolveram: movimentos sociais e grupos comunitários locais. A partir dos anos 1980, também atores estatais. Esses novos atores apresentavam motivações distintas e dotavam as operações de instrumentos não previstos no modelo do Banco Mundial. O envolvimento de atores estatais — especificamente de governos subnacionais — concorreu para a promoção do que a autora denomina “políticas de crédito popular”, já em meados dos anos 1990.</p>
+</section>
+<section id="as-primeiras-iniciativas-públicas-de-microcrédito-da-badep-ao-crediamigo-3538" class="level3" data-number="3.3">
+<h3 data-number="3.3" class="anchored" data-anchor-id="as-primeiras-iniciativas-públicas-de-microcrédito-da-badep-ao-crediamigo-3538"><span class="header-section-number">3.3</span> As primeiras iniciativas públicas de microcrédito: da Badep ao CrediAmigo [§35–§38]</h3>
+<p>Ainda em 1986, o Banco de Desenvolvimento do Paraná (Badep), instituição bancária pública estadual, lançou o Promicro (Banco do Microcrédito), destinado a micro e pequenos empresários. Um ano depois, ocorreu a primeira experimentação com microcrédito por parte de uma instituição federal: a Caixa Econômica Federal (CEF) lançou seu próprio programa Promicro como projeto piloto, organizado com o apoio da Secretaria Econômica do Trabalho do Distrito Federal (Guimarães &amp; Magalhães, 1997). Em 1991, a CEF ampliou essa experiência ao criar o “Balcão de Ferramentas” — um programa destinado a prover o ferramental necessário para que profissionais brasileiros se desenvolvessem. O Balcão de Ferramentas deu suporte a diversos programas de microcrédito em todo o Brasil e aproximou prefeitos e governadores da agenda microcreditícia. A primeira iniciativa a receber recursos da CEF foi o Pró-Renda, implementada pelo Governo do Ceará com o apoio da Sociedade Alemã de Cooperação Técnica (GTZ), visando à integração produtiva de populações rurais e urbanas (Valente, 2010).</p>
+<p>Em 1996, o BNDES deu início à disponibilização de linhas de crédito acessíveis e de longo prazo para projetos de microcrédito por meio do Programa de Crédito Produtivo Popular (PCPP). Poucos anos depois, o BNDES firmou convênio de cooperação com o Banco Interamericano de Desenvolvimento (BID) para a criação do Programa de Desenvolvimento Institucional (PDI), voltado ao fortalecimento institucional do setor microfinanceiro brasileiro.</p>
+<p>Em 1998, foi o Banco do Nordeste lançar uma experiência pioneira: o Programa de Microcrédito Produtivo Orientado — <strong>CrediAmigo</strong>. Com a breve experiência do Badep como antecedente, o Banco do Nordeste tornou-se, a partir de então, o mais antigo banco público de primeiro piso do Brasil a ter um modelo de dotação direta de pequenos créditos a microempreendedores vulneráveis, estando até hoje operante (Buchmann &amp; Neri, 2008). Sua tecnologia inovadora inclui os chamados “correspondentes bancários” — agentes de crédito que operam em locais de grande fluxo, como padarias e lotéricas —, possibilitando o acesso sem a necessidade de deslocamento até o banco. A economista Gláucia Campregher, entrevistada para a pesquisa, descreveu essa metodologia como uma “fusão da ONG com o banco.”</p>
+<hr>
+</section>
+</section>
+<section id="a-agenda-do-crédito-popular-e-o-pt-histórico-uma-agenda-programática-pp.-1830" class="level2" data-number="4">
+<h2 data-number="4" class="anchored" data-anchor-id="a-agenda-do-crédito-popular-e-o-pt-histórico-uma-agenda-programática-pp.-1830"><span class="header-section-number">4</span> A Agenda do Crédito Popular e o PT “Histórico”: uma Agenda Programática (pp.&nbsp;18–30)</h2>
+<section id="os-governos-subnacionais-como-ator-inédito-no-microcrédito-39" class="level3" data-number="4.1">
+<h3 data-number="4.1" class="anchored" data-anchor-id="os-governos-subnacionais-como-ator-inédito-no-microcrédito-39"><span class="header-section-number">4.1</span> Os governos subnacionais como ator inédito no microcrédito [§39]</h3>
+<p>Três anos antes da criação do CrediAmigo, outro tipo de ator emergia no cenário de crescimento da atividade microfinanceira no Brasil. Assim como os bancos públicos, esse ator tampouco estava previsto no paradigma de boas práticas promovido pelo Banco Mundial, afastando em definitivo a experiência brasileira da linha do tempo tradicionalmente descrita e singularizando-a no contexto das experiências mundiais: os <strong>governos subnacionais</strong>. A partir deste ponto, a autora trata esses entes não como apoiadores de iniciativas lideradas por instituições financeiras ou por representantes da sociedade civil, mas como propositores e também financiadores de efetivas políticas públicas creditícias.</p>
+</section>
+<section id="portosol-a-inovação-institucional-petista-4048" class="level3" data-number="4.2">
+<h3 data-number="4.2" class="anchored" data-anchor-id="portosol-a-inovação-institucional-petista-4048"><span class="header-section-number">4.2</span> PortoSol: a inovação institucional petista [§40–§48]</h3>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Conceito central — PortoSol:</strong> A Instituição Comunitária de Crédito PortoSol (ICC), fundada em novembro de 1995 em Porto Alegre, é apresentada como o marco inicial das políticas públicas de fomento ao microcrédito e como o protótipo do modelo petista de crédito popular — com governos públicos como financiadores, tecnologias participativas e objetivos que extrapolam a inclusão financeira.</p>
+</div>
+</div>
+<p>O marco inicial para políticas públicas de fomento ao microcrédito é a fundação, em novembro de 1995, da <strong>Instituição Comunitária de Crédito PortoSol (ICC)</strong> — fruto de uma parceria entre a prefeitura de Porto Alegre, o governo do Estado do Rio Grande do Sul e duas entidades civis: a Federasul e a Associação dos Jovens Empresários de Porto Alegre (AJE). Sob o lema de que o crédito seria um “direito da cidadania”, a PortoSol tinha como objetivo a dotação de pequenos empréstimos — com ou sem garantias e a baixas taxas de juros, entre 2% e 5,5% —, para os micro e pequenos empresários e empresárias, em sua maioria informais, da região metropolitana de Porto Alegre, visando à inserção social e à geração de emprego e renda.</p>
+<p>A iniciativa recebeu, ao longo de sua história, o apoio técnico do BNDES (em uma de suas primeiras parcerias com governos locais), da CEF e do BID (Monzoni, 2008). O aporte inicial para a constituição da PortoSol veio dos governos municipal e estadual do Rio Grande do Sul: a Prefeitura de Porto Alegre contribuiu com R$ 700.000; o Governo do Estado do RS com R$ 350.000; e doações da GTZ (R$ 306.400) e da IAF (R$ 223.700) completaram o total de R$ 1.508.100. A utilização de recursos públicos do orçamento de estado e município — e não apenas de doações de organizações internacionais — representou, na avaliação da autora, “uma completa novidade”. Além desse financiamento inicial, a PortoSol operava com autonomia e autossuficiência financeira.</p>
+<p>No início da década de 1990, a região metropolitana de Porto Alegre — então a quarta maior do país — experienciava níveis elevados de desemprego, atingindo 13,1% da população economicamente ativa em 1996, especialmente devido à perda de empregos na indústria em contexto de desindustrialização relativa (Chaves, 1997), agravada pelo contexto inflacionário nacional. Apenas em seu primeiro ano e meio de funcionamento, a PortoSol ofereceu 2.961 empréstimos a microempreendedores informais de diversos ramos. Seus resultados foram reconhecidos: em 1997, a instituição recebeu o Prêmio Gestão Pública e Cidadania da Fundação Getúlio Vargas e da Fundação Ford; e em 1999 foi premiada pelo Banco Mundial como uma das dez iniciativas mais bem-sucedidas de combate à pobreza no Brasil.</p>
+<p>A constituição da PortoSol foi viabilizada pela aprovação, em 1992, de uma legislação municipal proposta pelo vereador Clóvis Ilgenfritz, do PT, que autorizava a criação de um “banco municipal” voltado ao fomento das atividades produtivas em Porto Alegre (OIT, 2005). Após consultas ao Banco Central e ao Tribunal de Contas do Estado, optou-se, no entanto, pelo formato mais simples de associação civil sem fins lucrativos — que não poderia captar recursos do público, mas receberia fundos de doações públicas e privadas repassados como contribuição social (Silva, 2006). Não se trataria, portanto, de um banco supervisionado pelo Banco Central, mas de uma instituição microfinanceira não regulada — semelhante às ONGs que então se espalhavam pelo país.</p>
+<p>Quando as discussões começaram na Câmara de Vereadores, a prefeitura estava sob a gestão de Olívio Dutra (1989–1993), um dos primeiros prefeitos eleitos pelo PT no Brasil, bancário do Banrisul, sindicalista e co-fundador do partido no estado. Quando a PortoSol foi efetivamente inaugurada, a capital gaúcha já vivia sob a gestão de Tarso Genro (1993–1997), que assumiria — no início do primeiro governo Lula — a posição de secretário especial do Conselho de Desenvolvimento Econômico e Social (CDES). Esse CDES reuniria banqueiros e sindicalistas para debater, entre outros temas, a implementação do arranjo de políticas de crédito popular petista: uma inédita negociação entre essas partes sobre juros e limites creditícios.</p>
+<p>A PortoSol foi concebida como parte do Plano de Desenvolvimento Econômico (PDE) da capital gaúcha, elaborado no início da gestão de Tarso Genro e que refletia um debate travado nos anos 1980 quanto às potencialidades das gestões subnacionais no desenvolvimento econômico (Hamel, 1990; Harvey, 1989). Esse debate repousava em duas ideias fundamentais: que os governos locais poderiam induzir políticas de desenvolvimento mesmo sem deter o controle sobre instrumentos macroeconômicos; e que a participação da sociedade civil era importante para o sucesso dessas iniciativas (Moura et al., 2000). O PDE listava projetos de intervenção econômica com três diretrizes básicas: (i) a dinamização da economia local; (ii) a dotação de níveis mínimos de qualidade de vida às populações excluídas; (iii) a qualificação para a cidadania (Baraldi, 1995). A agenda econômica se amarrava, portanto, à agenda social em um arranjo amplo de objetivos.</p>
+<p>Porto Alegre contou com quatro mandatos petistas consecutivos — totalizando dezesseis anos —, o que auxiliou na manutenção e maturação de diversas iniciativas. A cidade foi ainda sede das três primeiras edições do Fórum Social Mundial (2001, 2002 e 2003), encontro internacional de movimentos sociais voltado para a formulação de projetos alternativos ao capitalismo neoliberal — com espaços dedicados à Economia Solidária.</p>
+<p>A prática da PortoSol foi inovadora em duas dimensões complementares: além da inédita participação dos governos subnacionais como promotores e financiadores, a PortoSol incluía em seu desenho uma interface também inovadora entre governo e sociedade. Para garantir o controle social na dotação dos recursos e a transparência nas operações, a direção da instituição competia a um conselho de oito membros, no interior do qual a prefeitura ocupava apenas duas cadeiras e o governo do Estado do Rio Grande do Sul mais uma. Os demais postos eram distribuídos entre a Associação dos Jovens Empresários de Porto Alegre, dois acadêmicos, um empresário local e um representante do Orçamento Participativo da cidade. Essa <strong>tecnologia participativa</strong> é uma das principais bandeiras defendidas e desenvolvidas pelo PT ao longo de sua história, presente em todos os programas de governo do candidato Lula desde a primeira candidatura presidencial ao final dos anos 1980.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 11:</strong> A composição detalhada do conselho de administração da PortoSol está documentada em documento da Fundação Perseu Abramo (disponível em fpabramo.org.br).</p>
+</blockquote>
+<p>Em depoimento registrado pela autora (Utzig, 1997 — o primeiro presidente do conselho de administração da PortoSol), o projeto refletia a oposição ao neoliberalismo dominante de duas maneiras. Em primeiro lugar, porque o papel ativo da prefeitura e do governo estadual na articulação econômica se opunha à proposta do Estado “mínimo”. Em segundo lugar, porque — ao elencar o desenvolvimento urbano, comunitário e a qualificação para a cidadania enquanto resultados visados — a iniciativa se distanciava do paradigma do Banco Mundial, segundo o qual a inclusão financeira e o acesso aos instrumentos financeiros seriam fins em si mesmos.</p>
+</section>
+<section id="a-difusão-vertical-e-horizontal-do-modelo-petista-4958" class="level3" data-number="4.3">
+<h3 data-number="4.3" class="anchored" data-anchor-id="a-difusão-vertical-e-horizontal-do-modelo-petista-4958"><span class="header-section-number">4.3</span> A difusão vertical e horizontal do modelo petista [§49–§58]</h3>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>A dinâmica de <strong>extrapolação vertical</strong> (da prefeitura para o governo estadual) e <strong>extrapolação horizontal</strong> (entre diferentes municípios e estados) descrita pela autora é o mecanismo central de difusão do modelo petista de microcrédito — e tem estrutura análoga à difusão de políticas educacionais entre os níveis de governo no Brasil.</p>
+</div>
+</div>
+<p>Antes da constituição da PortoSol, Porto Alegre havia sido berço do pujante Centro de Apoio aos Pequenos Empreendimentos (Ceape), inicialmente uma ONG microcreditícia apoiada pela Acción Internacional, pelo BID e pela Fundação Interamericana (IAF). O Rio Grande do Sul já possuía ainda uma expertise local relacionada ao crédito popular, herdada do desenvolvimento do cooperativismo nas décadas de 1950 e 1960. O que a experiência de Porto Alegre destaca, porém, é que quando o PT moveu a política no interior desse segmento em franco crescimento, o fez a partir de abordagens inovadoras — novos atores, novas formas de gestão participativa e novos arranjos de objetivos que não se coadunavam com o modelo globalmente promovido.</p>
+<p>Os resultados políticos da experiência são comentados em entrevistas com o ex-prefeito Tarso Genro e a economista Gláucia Campregher. Questionado sobre o papel das políticas creditícias para a agenda política do primeiro governo Lula, Tarso Genro respondeu “empiricamente” a partir de sua própria experiência com a PortoSol: “Eu tenho absoluta convicção que esse tipo de política é do tipo possível de ser implementada e que faz uma grande diferença. As pessoas que não entendem essa questão são pessoas que não tem problemas com crédito. (…) As pessoas que enfrentam problemas cotidianos de sobrevivência têm no crédito um elemento fundamental de sua sobrevivência digna. E isso teve muita influência no prestígio do governo Lula.” (comunicação pessoal, 11 de abril de 2021). Dados do Banco Mundial para 2021 corroboram essa perspectiva: ricos e pobres têm a mesma necessidade de acessar crédito no Brasil, mas enquanto entre os 60% mais ricos metade declarou ter contraído empréstimos de instituições formais no ano anterior, entre os 40% mais pobres menos de um terço relatou o mesmo acesso.</p>
+<p>A economista Gláucia Campregher — apelidada de “madrinha do microcrédito” pelo então governador Olívio Dutra e pelo vice-governador Miguel Rossetto (PT) — foi observadora ativa da extrapolação da PortoSol da cidade de Porto Alegre para o governo do Rio Grande do Sul. Durante o governo de Olívio Dutra (1999–2003), como parte do Programa Estadual de Microcrédito Produtivo Popular, foram estabelecidas mais cinco Instituições Comunitárias de Crédito (ICC) nos mesmos moldes da original porto-alegrense, com financiamento do Estado, para abranger todas as mesorregiões gaúchas: ICC Pelotas (1999), ICC Bagé (2001), ICC Santa Maria (2001), ICC Serra Gaúcha (2002) e ICC Frederico Westphalen (2002).</p>
+<p>Nesse contexto, a economista Tereza Campello — que havia trabalhado como assessora econômica na prefeitura de Porto Alegre durante a primeira das gestões petistas — assumiu o cargo de secretária-geral de Governo do Estado. Ela incumbiu sua equipe de monitorar os programas com maior potencial de popularização, sendo a PortoSol um dos escolhidos. Tanto a prefeitura de Porto Alegre quanto o Estado do Rio Grande do Sul se tornaram, assim, espaços de experimentação em governança para o próprio Partido dos Trabalhadores.</p>
+<p>Os anos 1990 marcam uma fase de “profissionalização” do PT (Hunter, 2010), de fortalecimento de sua estrutura partidária e de acúmulo de experiência em gestão pública. O crescimento eleitoral do partido é expressivo: de 36 prefeitos e 16 deputados federais entre 1986–1988 para, entre 2002–2004, 410 prefeitos, 91 deputados federais, 12 senadores e 3 governadores. Para um partido que nascera voltado para a mobilização social, o trabalho de monitoramento de Campello era, na avaliação da autora, nada mais que o trabalho de criação de uma identidade governista para o PT. O sociólogo Celso Rocha de Barros (2022) havia abordado os enormes desafios enfrentados pelas primeiras prefeituras petistas nos anos 1980 — faltavam um programa claro, experiência administrativa e sobravam conflitos entre as gestões e o partido. O primeiro prefeito petista eleito, Gilson Menezes (Diadema, 1982), desligou-se da sigla antes de concluir seu mandato. Para seguir vencendo eleições, o PT precisava de um “repertório de políticas públicas” bem-sucedidas e identificadas com suas gestões.</p>
+<p>Os dois primeiros governadores eleitos pelo PT foram Victor Buiaz (Espírito Santo) e Cristovam Buarque (Distrito Federal), ambos nas eleições de 1994. O Distrito Federal também apresentava altas taxas de desemprego e informalidade. O governo Buarque (1995–1999) criou o programa “Mais e Melhores Empregos”, que incluiu o célebre Bolsa Escola — que rapidamente se tornaria símbolo do “modo petista de governar” e mais tarde serviria de base para o Bolsa Família (Zucco &amp; Power, 2013). Outra iniciativa, bem menos conhecida, do mesmo programa foi o <strong>BRB Trabalho</strong> — um programa de microcrédito lançado pelo governo do Distrito Federal em 1996, diretamente inspirado pelo processo de formulação da PortoSol porto-alegrense.</p>
+<p>Além da extrapolação “vertical” da política da prefeitura de Porto Alegre para o governo do Rio Grande do Sul, ocorreu, portanto, uma extrapolação “horizontal” da mesma ideia entre prefeituras e governos de estados de todo o país — constituindo uma segunda fase de proliferação de políticas públicas baseadas no microcrédito ao longo dos anos 1990, após a fase das ONGs nos anos 1980. A autora pondera que nem todas as iniciativas se basearam na PortoSol: o modelo do Grameen Bank era amplamente reconhecido, o Programa Balcão de Ferramentas já estava em operação, e algumas ONGs microfinanceiras eram bem-sucedidas. Mas a inclusão do ente público como financiador e articulador do microcrédito foi uma inovação ocorrida em Porto Alegre.</p>
+</section>
+<section id="os-dados-subnacionais-e-a-representatividade-petista-5964" class="level3" data-number="4.4">
+<h3 data-number="4.4" class="anchored" data-anchor-id="os-dados-subnacionais-e-a-representatividade-petista-5964"><span class="header-section-number">4.4</span> Os dados subnacionais e a representatividade petista [§59–§64]</h3>
+<p>A partir da análise exploratória de todas as iniciativas de microcrédito implementadas até 2003, e com o auxílio dos dados coletados junto à Abcred, a autora buscou identificar especificamente quais eram as experiências que partiram de iniciativa pública — seja de prefeituras, seja de governos estaduais. Das 37 iniciativas públicas detectadas entre 1995 (fundação da PortoSol) e o início de 2003, nada menos que 20 foram implementadas por gestões petistas. O PT controlava entre 111 e 187 prefeituras ao longo desse período, enquanto o PMDB controlava 1.253 entre 1998 e 2002; em 2002, havia 5.560 municípios no Brasil. A concentração petista — especialmente em proporção ao número de municípios controlados — é, portanto, expressiva. Ainda mais relevante: as cinco iniciativas mais famosas, mais estudadas e mais citadas pela literatura especializada provinham de gestões petistas — Blusol (Décio Lima, Blumenau), Casa do Empreendedor (Luiz Eduardo Cheida, Londrina), ICC Conquista Solidária (Guilherme Menezes, Vitória da Conquista), Instituição de Crédito Solidário de Maringá (José Cláudio Pereira Neto, Maringá) e São Paulo Confia (Marta Suplicy, São Paulo). A distribuição por partidos dos demais casos é: PMDB (6), PSDB (4), PFL (2), PSB (2), PDT (1), PCdoB (1), PPB (1).</p>
+<p>O caso do prefeito Luiz Eduardo Cheida (PT, Londrina, 1993–1996) ilustra com clareza a dinâmica de difusão horizontal. Eleito no mesmo ano que Tarso Genro em Porto Alegre, Cheida formulou um Plano de Desenvolvimento Industrial, e — diretamente inspirado na experiência porto-alegrense — criou em 1994 uma incubadora para microempreendedores, seguida em 1997 pela Casa do Empreendedor, com aportes da prefeitura e apoio de empresários parceiros. O mesmo modelo foi replicado por outros municípios paranaenses, culminando no Fomento Paraná, programa de microcrédito instituído pelo governo do Estado sob a gestão do governador Jaime Lerner (PDT). Cheida enfrentou críticas dentro de seu próprio partido, em razão de suas alianças interpartidárias e do apoio que recebia do empresariado local — críticas que guardavam semelhança com as que o próprio Lula enfrentaria em seu primeiro mandato uma década depois. O secretário da Indústria e Comércio de Londrina à época, Abílio Medeiros — filiado ao PFL e diretamente responsável pela formulação da Casa do Empreendedor —, foi também entrevistado para a pesquisa, evidenciando a flexibilidade ideológica que caracterizava a agenda microcreditícia.</p>
+<p>A autora destaca que, embora a associação entre prefeituras petistas e políticas de crédito popular seja forte, gestões de outros partidos também as instituíram — muitas operando com recursos do BNDES ou do Banco do Nordeste. Assim, além de sua contribuição direta, o PT desempenhou um papel de estímulo indireto: mesmo por via da “imitação” de políticas percebidas como viáveis ou bem-sucedidas, outros partidos as debateram e as implementaram, colhendo também seus benefícios. Essa ampla difusão partidária da agenda teve uma consequência concreta: quando o microcrédito foi debatido no Congresso Nacional por meio de duas Medidas Provisórias apresentadas por Lula em 2003, poucos parlamentares conseguiram se opor — mesmo havendo forte lobby contrário dos bancos, cujas preferências normalmente se coadunam com a ação dos conservadores.</p>
+</section>
+<section id="mais-experiências-petistas-e-a-agenda-programática-nos-programas-de-governo-6570" class="level3" data-number="4.5">
+<h3 data-number="4.5" class="anchored" data-anchor-id="mais-experiências-petistas-e-a-agenda-programática-nos-programas-de-governo-6570"><span class="header-section-number">4.5</span> Mais experiências petistas e a agenda programática nos programas de governo [§65–§70]</h3>
+<p>Duas outras experiências petistas merecem destaque pela importância de seus atores. Em 1998, em Santo André (SP), foi instituído o <strong>Banco do Povo de Santo André — O Crédito Solidário</strong>, durante a gestão de Celso Daniel (PT), uma das administrações que serviriam de “vitrine” ao partido. Em sua tese de mestrado pela FGV, José Caetano Lavorato (2001) — fundador e ex-presidente da Abcred, coordenador do São Paulo Confia, sindicalista e filiado ao PT — afirma que a iniciativa de Santo André foi diretamente inspirada na PortoSol. Celso Daniel havia prometido em campanha a formação de um banco de crédito popular como parte de uma estratégia de desenvolvimento e combate ao desemprego; mas foi somente após uma visita técnica à PortoSol e ao BRB Trabalho que optou pelo mesmo formato institucional — a prefeitura assumindo a organização, aportando recursos e atuando como catalisadora dos órgãos da sociedade civil para a criação de uma entidade autônoma sem fins lucrativos. O Banco do Povo de Santo André inovou ao incluir o Sindicato dos Metalúrgicos do ABC entre seus associados — uma novidade no contexto microcreditício. Também criou o “Banco do Povo Itinerante”, que operava dentro de um ônibus da prefeitura para alcançar tomadores nas periferias da cidade.</p>
+<p>A segunda experiência é o <strong>Crescer Crédito Solidário</strong>, instituído em 2002 em Ribeirão Preto sob a gestão de Antônio Palocci (PT). No mesmo ano, Palocci foi escolhido por Lula para redigir a famosa Carta ao Povo Brasileiro — destinada a tranquilizar o mercado financeiro quanto aos impactos econômicos de uma possível vitória petista — e foi posteriormente nomeado ministro da Fazenda, em grande parte devido ao seu bom trânsito com o empresariado nacional.</p>
+<p>Um argumento recorrentemente levantado pelos críticos das políticas creditícias era o suposto caráter não programático dessas iniciativas. A análise dos quatro programas de governo do candidato Lula anteriores a 2003, contudo, fortalece o argumento contrário. Dois elementos creditícios emergem desses programas. Desde a campanha de 1998, destaca-se a proposta de criação dos “Bancos do Povo” — emprestando a micro e pequenos empreendedores conforme as experiências subnacionais aqui destacadas. As justificativas: essas empresas são intensivas em mão de obra e o estímulo aos pequenos produtores visava à redução da desigualdade no acesso ao financiamento. Nessa perspectiva, o crédito, quando não massificado, seria antes de tudo um privilégio dos grandes empresários, reforçando sua posição dominante. O segundo elemento é a criação de um mercado consumidor de massas no Brasil como meio de impulsionar um crescimento econômico acompanhado de inclusão social.</p>
+<p>“Assim, é seguro afirmar que a agenda de fomento ao crédito popular é, de fato, uma agenda programática do partido, embora tenha sofrido ajustes ao chegar ao Executivo Nacional.” Em 2003, duas Medidas Provisórias buscaram regular o microcrédito: a primeira criou um banco múltiplo especializado em microfinanças; a segunda obrigou bancos múltiplos, cooperativas de crédito e a CEF a direcionar 2% de seus depósitos compulsórios a operações de microfinanças, incluindo a oferta de microcréditos de até R$ 1.000 a juros máximo de 2%, reduzindo o risco de inadimplência para as tomadoras e os tomadores. Esse microcrédito seria oferecido tanto a micro e pequenos empreendedores quanto a pessoas físicas de baixa renda — um padrão de operações muito mais amplo que o das ONGs microfinanceiras ou das experiências municipais e estaduais, o que Barone (2008) considerou uma “ruptura” promovida pelo lulismo.</p>
+</section>
+<section id="as-inovações-do-modelo-federal-e-a-comparação-internacional-7174" class="level3" data-number="4.6">
+<h3 data-number="4.6" class="anchored" data-anchor-id="as-inovações-do-modelo-federal-e-a-comparação-internacional-7174"><span class="header-section-number">4.6</span> As inovações do modelo federal e a comparação internacional [§71–§74]</h3>
+<p>Essa expansão do microcrédito do universo estritamente produtivo para o universo mais amplo do consumo foi uma ruptura não apenas com as práticas petistas anteriores testadas em prefeituras e governos ao longo dos anos 1990, mas com a própria prática mundial em microcrédito até então estabelecida. Lula antecipou em dois anos um debate que ocorreria na França apenas em 2005, quando os franceses começaram a discutir a destinação dos microcréditos não apenas aos “profissionais” mas a todos os indivíduos em necessidade — o que chamaram de microcrédito “social” (Lazarus, 2022). O próprio Grameen Bank, a referência mundial em microcrédito, expandiria sua gama de serviços para incluir empréstimos utilizáveis para despesas de consumo (educação, saúde, emergências); em 2003, contudo, quando as operações são lançadas no Brasil, o banco bengali ainda estava exclusivamente voltado ao segmento de microcrédito produtivo.</p>
+<blockquote class="blockquote">
+<p><strong>Nota 8:</strong> Autores críticos consideram que o “Sul Global” teria servido como “laboratório” para a agenda do microcrédito proveniente do “Norte”. Na cronologia dessa perspectiva, o laboratório político-econômico teria iniciado com a promoção das microfinanças nos anos 1970 (Chiapello et al., 2023). O argumento de Chaise inverte essa perspectiva para o caso brasileiro, mostrando que o modelo petista dos anos 1990 era simultaneamente simultâneo e distinto da agenda internacional.</p>
+</blockquote>
+<p>Outra tecnologia inovadora introduzida em 2003 foi a previsão de que os recursos não aplicados em microfinanças permaneceriam sob posse do Banco Central — indisponíveis e sem remuneração —, o que estimularia, em teoria, a oferta do serviço independentemente das margens de lucro obtidas pelas instituições financeiras. A imobilização do compulsório contrariava interesses históricos dos bancos, cujo objetivo sempre fora a eliminação dessa figura, de modo que a Febraban posicionou-se contrariamente à medida. A criação de novas estruturas institucionais, a utilização de bancos públicos para o provimento de microcrédito e, particularmente, a fixação das taxas de juros não estavam de acordo com os princípios do Banco Mundial. O arranjo creditício do primeiro governo Lula — que incluía ainda a regulamentação das cooperativas de crédito — “não era a simples implementação no Brasil das propostas de organizações internacionais ou da agenda de quaisquer grupos externos ao esforço do partido no governo.”</p>
+<p>Finalmente, agrupando os partidos políticos brasileiros em uma escala da esquerda à centro-esquerda e da centro-direita à direita, verifica-se que 64% das iniciativas de fomento ao crédito popular anteriores a 2003 partiram das esquerdas brasileiras — considerando ainda que, dependendo da administração, as gestões do PMDB e do PSDB poderiam ter um forte componente progressista. Os argumentos revisados quanto ao caráter conservador ou neoliberal dessas medidas, conclui a autora, “precisariam ser mais bem qualificados e elaborados para sustentarem-se.”</p>
+<hr>
+</section>
+</section>
+<section id="conclusão-pode-a-política-de-crédito-ser-compreendida-como-uma-política-social-pp.-3133" class="level2" data-number="5">
+<h2 data-number="5" class="anchored" data-anchor-id="conclusão-pode-a-política-de-crédito-ser-compreendida-como-uma-política-social-pp.-3133"><span class="header-section-number">5</span> Conclusão: Pode a Política de Crédito ser Compreendida como uma Política Social? (pp.&nbsp;31–33)</h2>
+<section id="síntese-dos-achados-e-inversão-do-argumento-de-lavinas-7578" class="level3" data-number="5.1">
+<h3 data-number="5.1" class="anchored" data-anchor-id="síntese-dos-achados-e-inversão-do-argumento-de-lavinas-7578"><span class="header-section-number">5.1</span> Síntese dos achados e inversão do argumento de Lavinas [§75–§78]</h3>
+<p>A conclusão retoma o objetivo central do artigo — evidenciar a aderência da agenda creditícia ao programa histórico do PT — e sintetiza os principais achados. Antes de 2003, as populações mais vulneráveis no Brasil enfrentavam dificuldades de acesso ao crédito formal, estando submetidas à informalidade (agiotagem) ou a iniciativas assistencialistas de alcance limitado. As iniciativas públicas e abrangentes para a expansão do crédito popular a partir dos anos 1990 estiveram fortemente associadas às gestões subnacionais petistas — tanto nas extrapolações verticais (de prefeituras petistas para governos petistas) quanto nas horizontais (entre prefeituras e governos PT de vários estados). As iniciativas creditícias implementadas por esses entes subnacionais não resultavam de motivos conservadores, fiscalistas ou privatistas, como pressupõe a literatura crítica, mas estavam inseridas em um amplo espectro de objetivos voltados para a melhoria das condições de vida da população-alvo. Ainda, o modelo adotado para a concessão dos empréstimos não foi aquele promovido globalmente pelas Organizações Internacionais — incluiu atores alternativos e tecnologias próprias.</p>
+<p>Adicionalmente, a autora registra que experiências a cargo de gestões não petistas competiram para que outros partidos também se comprometessem com a expansão do crédito popular, de modo que os diversos Bancos do Povo resultantes das experiências pioneiras compõem o rol das políticas históricas implementadas pelo PT, informando o primeiro mandato de Lula no que compõe o “arranjo de políticas de crédito popular petista” de amplitude nacional.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>O argumento de inversão de Lavinas é o momento normativamente mais denso da conclusão: se a crítica de Lavinas é que o PT “mercadorizou” a política social ao expandi-la ao domínio financeiro, Chaise inverte o sinal — o PT tentou “socializar” o domínio econômico ao expandi-lo com objetivos de cidadania e desenvolvimento comunitário. A pergunta que fica em aberto é se os efeitos distributivos efetivos corroboram um ou outro enquadramento.</p>
+</div>
+</div>
+<p>Para encerrar o argumento, a autora enfrenta a crítica de Lavinas (2017) sobre a “mercadorização” progressiva das políticas brasileiras. As políticas creditícias podem e devem ser pensadas como relativas ao espaço de expertise do “econômico”, pois também operam com variáveis macroeconômicas. Mas o arranjo petista e suas iniciativas antecessoras foram elaborados levando em conta uma concepção historicamente situada quanto à insuficiência das operações dos bancos comerciais vis-à-vis as necessidades dos domicílios sem acesso ao sistema financeiro — e quanto aos perigos do mercado informal. Invertendo o argumento de Lavinas, seria possível considerar que as políticas creditícias buscaram, em realidade, extrapolar as demandas sociais a um universo recorrentemente compreendido como alçada exclusiva da esfera do econômico. Essa “socialização do mundo econômico” (Lazarus, 2022) é, <em>per se</em>, a pauta histórica petista.</p>
+<p>No entanto, a autora não deixa de qualificar normativamente os limites da política de crédito. Considerada enquanto política social, o crédito popular apresenta horizontes bastante limitados, de caráter não emancipador, e cujo estabelecimento engendrou ganhos, mas também contradições políticas ao PT. Um dado emblemático: as políticas creditícias foram as únicas do tripé de políticas públicas lulistas — junto ao Bolsa Família e à política de valorização real do salário mínimo, na categorização de André Singer — a serem preservadas pelos governos subsequentes de orientação conservadora. Desarticulada de salários crescentes e de benefícios sociais, a política creditícia perde parte de sua potência.</p>
+</section>
+<section id="agenda-de-pesquisa-e-limites-do-estudo-79" class="level3" data-number="5.2">
+<h3 data-number="5.2" class="anchored" data-anchor-id="agenda-de-pesquisa-e-limites-do-estudo-79"><span class="header-section-number">5.2</span> Agenda de pesquisa e limites do estudo [§79]</h3>
+<p>A autora identifica duas agendas que se abrem a partir desta pesquisa: (1) a compreensão do crédito enquanto instrumento de política social; e (2) a investigação da influência política das políticas de crédito popular na construção de alianças políticas, no fortalecimento de partidos e na formulação de agendas governamentais. O estudo possui, contudo, dois limites explicitamente reconhecidos: a incapacidade de mapear todas as iniciativas subnacionais anteriores a 2003 — dada a prevalência de empreendimentos de pequena escala que não geraram registros acadêmicos —; e o fato de que as conclusões são baseadas em análises de um contexto específico durante um período específico, o que limita a possibilidade de generalização para outros contextos.</p>
+<hr>
+</section>
+</section>
+<section id="argumento-sintético" class="level2" data-number="6">
+<h2 data-number="6" class="anchored" data-anchor-id="argumento-sintético"><span class="header-section-number">6</span> Argumento Sintético</h2>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Tese central:</strong> As políticas de crédito popular do primeiro governo Lula — microcrédito e crédito consignado — não constituem evidência de capitulação conservadora ou neoliberal do PT, mas expressam uma agenda programática historicamente enraizada nas experiências subnacionais petistas dos anos 1990, cujos objetivos e formatos eram distintos do paradigma do Banco Mundial e coerentes com a identidade do partido em período de maior nitidez ideológica.</p>
+<p><strong>Natureza do argumento:</strong> Genealógico-histórico com dimensão normativa. O artigo demonstra empiricamente (20 de 37 iniciativas subnacionais, as 5 mais estudadas, 64% da esquerda) que as políticas creditícias têm raízes petistas anteriores ao governo federal. O argumento normativo — de que essa origem programática refuta a caracterização conservadora — é plausível mas não plenamente demonstrado, pois permanece como agenda: investigar em que medida origens progressistas produzem efeitos distributivos progressivos.</p>
+<p><strong>O que o texto demonstra:</strong> (i) que o microcrédito subnacional petista pré-2003 adotava modelos inovadores com participação do poder público como financiador, tecnologias participativas e objetivos que extrapolavam a inclusão financeira stricto sensu para a cidadania e o desenvolvimento comunitário; (ii) que esses objetivos e formatos divergiam do paradigma do Banco Mundial e contrariavam interesses do setor bancário (a Febraban se opôs às medidas de 2003); (iii) que a agenda creditícia estava presente nos programas de governo de Lula desde 1998; (iv) que o modelo federal de 2003 foi uma ruptura com a prática mundial de microcrédito, antecipando debates que ocorreriam anos depois em outros países.</p>
+<p><strong>O que fica como hipótese ou agenda:</strong> O mecanismo formal de difusão vertical e horizontal entre governos subnacionais — descrito de modo narrativo — permanece como hipótese não formalmente testada. Os efeitos distributivos das políticas creditícias sobre o endividamento das famílias brasileiras (ponto central da crítica de Lavinas) não são diretamente respondidos. A compreensão do crédito como política social e a influência política dessas políticas na construção de alianças eleitorais do PT são agendas explicitamente anunciadas.</p>
+<p><strong>Contribuição para o debate mais amplo:</strong> O artigo contribui para pelo menos três debates: (1) para a literatura de teorias partidárias, ao mostrar que predições corretas sobre qual partido adotou qual política podem ser geradas por hipóteses incorretas sobre os mecanismos motivadores; (2) para o debate sobre financeirização e lulismo, ao oferecer evidência genealógica que qualifica a narrativa da “deriva neoliberal”; (3) para a literatura de policy diffusion subnacional, ao documentar um mecanismo de difusão vertical e horizontal de inovações de política pública entre governos municipais e estaduais petistas no Brasil dos anos 1990.</p>
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>Annotated Bibliography</category>
+  <category>Political Economy</category>
+  <category>Partisan Theory</category>
+  <category>Social Policy</category>
+  <category>Microcredit</category>
+  <category>Brazil</category>
+  <category>2026</category>
+  <category>2020s</category>
+  <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Chaise2026.html</guid>
+  <pubDate>Mon, 22 Jun 2026 03:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Fichamento: O Cativeiro da Terra</title>
   <dc:creator>Tales Mançano</dc:creator>
@@ -10153,476 +10637,6 @@ Note
   <category>2020s</category>
   <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Meek-etal2024.html</guid>
   <pubDate>Thu, 14 May 2026 03:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Fichamento: Educational Expansion and Social Mobility in the 20th Century</title>
-  <dc:creator>Tales Mançano</dc:creator>
-  <link>https://mancano-tales.github.io/Annotated-Bibliography/posts/Breen2010.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Informações Técnicas e BibTeX
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<pre><code>Última atualização: 2026-05-13
-Modelo: Claude Sonnet 4.6 Thinking (Perplexity)
-Prompt Version: v17.4 · 2026-05-13
-Gerado em: 2026-05-13T11:40:00-03:00
-Ocasião da Leitura:</code></pre>
-<p><strong>Entrada BibTeX → Breen2010</strong></p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="va" style="color: #111111;
-background-color: null;
-font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">Breen2010</span>,</span>
-<span id="cb2-2"><span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">author</span>  = {Breen, Richard},</span>
-<span id="cb2-3"><span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">title</span>   = {Educational Expansion and Social Mobility in the 20th Century},</span>
-<span id="cb2-4"><span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">year</span>    = {2010},</span>
-<span id="cb2-5"><span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">journal</span> = {Social Forces},</span>
-<span id="cb2-6"><span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">volume</span>  = {89},</span>
-<span id="cb2-7"><span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">number</span>  = {2},</span>
-<span id="cb2-8"><span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">pages</span>   = {365--388},</span>
-<span id="cb2-9"><span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">doi</span>     = {10.1353/SOF.2010.0076},</span>
-<span id="cb2-10">}</span></code></pre></div></div>
-</div>
-</div>
-</div>
-<section id="ficha-analítica-crítica" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="ficha-analítica-crítica">Ficha Analítica Crítica</h2>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Esta seção segue o formato <em>IA Planilhando Textos v17.4</em>.</p>
-</div>
-</div>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Ficha Analítica — Tabela Markdown
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-3" class="callout-3-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<table class="caption-top table">
-<colgroup>
-<col style="width: 23%">
-<col style="width: 52%">
-<col style="width: 23%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Dimensão</th>
-<th style="text-align: left;">Raciocínio analítico</th>
-<th style="text-align: left;">Conteúdo</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Questão de Pesquisa</td>
-<td style="text-align: left;">A premissa central é que educação medeia a relação entre origem e destino de classe; o puzzle é que a literatura mobilidade social foca quase exclusivamente na equalização educacional e ignora o efeito composicional da expansão. O ponto mais vulnerável é a restrição da análise a homens em três países, o que limita a validade externa.</td>
-<td style="text-align: left;">Em que medida a expansão educacional — por meio do efeito composicional — e a equalização educacional contribuíram para o aumento da fluidez social no século XX? Pergunta explícita no texto; natureza explicativa-quantitativa.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Questões Secundárias</td>
-<td style="text-align: left;">Ambas as questões decorrem diretamente da questão central; a decomposição diferenciada por coorte e país permite identificar qual mecanismo prevalece em cada contexto institucional.</td>
-<td style="text-align: left;">(1) Qual dos dois mecanismos — equalização ou efeito composicional — teve maior impacto sobre a fluidez social em cada país? (2) Em que medida a <em>associação diferencial</em> (OD mais fraca em níveis educacionais mais altos) é condição necessária para o efeito composicional?</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Puzzle-Type</td>
-<td style="text-align: left;">O puzzle é genuíno: a presença do efeito composicional não é óbvia e depende de uma interação de três vias entre origem, educação e destino que a literatura raramente formaliza. A generalização para além dos três países é parcial: os países foram selecionados deliberadamente para representar os três mundos do welfare capitalism (Esping-Andersen 1990), o que oferece cobertura teórica, mas não garante representatividade.</td>
-<td style="text-align: left;">Puzzle explicativo: a literatura de mobilidade social assume implicitamente que apenas a equalização educacional pode aumentar a fluidez social, mas a expansão educacional pode fazê-lo de forma independente via efeito composicional — mecanismo sistematicamente ignorado. O puzzle é generalizável onde a associação diferencial estiver presente.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Conclusão / Argumento Central</td>
-<td style="text-align: left;">A tese é bem sustentada pela simulação log-linear, mas o <em>claim of discovery</em> — que a expansão, por si só, promove fluidez social — depende criticamente da existência de associação diferencial, condição que o artigo documenta empiricamente nos três países, mas que pode não ser universal.</td>
-<td style="text-align: left;">Nos três países analisados (Suécia, Grã-Bretanha e Alemanha), a expansão educacional promoveu maior fluidez social por meio do efeito composicional; na Grã-Bretanha, esse foi o único mecanismo que atuou na direção da maior fluidez; na Suécia e na Alemanha, o efeito composicional complementou a equalização. O argumento combina formalização log-linear com simulação contrafactual.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Métodos</td>
-<td style="text-align: left;">A análise quantitativa é sofisticada, mas o método de comparação de slopes para mensurar os efeitos é uma escolha discutível: as mudanças nos coeficientes entre modelos contrafactuais dependem da ordem de remoção dos termos, e embora o autor argumente robustez da ordenação, a escolha de remover o termo COD primeiro é inevitavelmente convencional. Fichamento cobre a obra inteira (artigo + apêndice técnico).</td>
-<td style="text-align: left;">Estudo quantitativo-comparativo com dados de cortes repetidos. Modelos log-lineares para decompor o efeito de quatro fontes de mudança na fluidez social (efeito COD direto, retorno à educação CED, equalização OE, efeito composicional). Simulação de tabelas COD contrafactuais, avaliadas por modelo log-multiplicativo de efeitos de camada (Xie 1992) com tendência linear (e spline para Alemanha e Grã-Bretanha).</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Data Generation Process (DGP)</td>
-<td style="text-align: left;">A heterogeneidade das fontes é uma limitação: o dado alemão combina seis surveys distintos (Allbus, Zumabus, GLHS, GSOEP, Wohlfahrts, Politik in der Bundesrepublik Deutschland), o que pode introduzir inconsistências de medição que o autor minimiza referenciando Müller e Pollak (2004). O uso de proxy de coorte por grupos etários nos dados é padrão na literatura, mas introduz imprecisão na datação exata dos efeitos.</td>
-<td style="text-align: left;">Fenômeno real (mobilidade social por coorte) → surveys nacionais por amostragem (GHS para Grã-Bretanha 1973–1992; Allbus e outras fontes para Alemanha 1976–2002; ULF para Suécia 1976–1999) → codificação pela escala EGP (origens e destinos de classe) e CASMIN (educação) → cross-tabulação COED × coorte → estimação log-linear → inferência contrafactual. Unidade de análise: homens de 25–64 anos em survey; nível de agregação: coorte de nascimento × país. Viés de seleção: exclusão de mulheres (justificada); possível viés de sobrevivência nos dados de coortes mais velhas.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Achados e Contribuições</td>
-<td style="text-align: left;">O resultado para a Grã-Bretanha é o mais relevante e mais robusto: o efeito composicional é a única força que atua na direção de maior fluidez, enquanto o efeito COD direto operou contra a fluidez. Isso contraria a narrativa de que a Grã-Bretanha seria um caso de imobilidade pura.</td>
-<td style="text-align: left;">(1) Em todos os três países o efeito composicional contribuiu positivamente para a fluidez social; (2) na Suécia e na Alemanha (coortes mais jovens) a equalização foi o principal motor; (3) na Grã-Bretanha o efeito COD direto foi o principal fator antiequalização; (4) a variação na relação entre educação e destino de classe (CED) não foi fonte importante de mudança em nenhum dos países. Contribuição metodológica: formalização e simulação do efeito composicional, ausente na literatura anterior.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Análise Crítica dos Achados</td>
-<td style="text-align: left;">(a) A amostra é restrita a homens, eliminando metade da população e um período histórico de grandes mudanças na participação feminina no mercado de trabalho. (b) O design é descritivo-contrafactual, não causal no sentido estrito: a decomposição mede contribuições percentuais de diferentes termos log-lineares, não relações causais identificadas por variação exógena. (c) A presença de associação diferencial (condição necessária para o efeito composicional) é documentada empiricamente, mas não é explicada causalmente. (d) A exclusão de efeitos de período, embora justificada pela literatura, pode confundir efeitos de coorte e período em países com mudanças institucionais abruptas (ex.: reunificação alemã). (e) A generalizabilidade é restrita: países do Sul Global, com expansão educacional mais recente e mercados de trabalho distintos, podem não apresentar associação diferencial.</td>
-<td style="text-align: left;">O artigo responde adequadamente à questão central dentro das <em>scope conditions</em> declaradas. O argumento é mais forte para Suécia e Alemanha (onde ambas as forças se manifestam) e mais fraco para Grã-Bretanha, onde o efeito composicional é real mas estatisticamente não significante.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Limitações</td>
-<td style="text-align: left;"><strong>Reconhecidas pelos autores:</strong> Exclusão de mulheres por razões de comparabilidade inter-temporal; impossibilidade de controlar efeitos de período sem esparsar demais as tabelas (especialmente para a Alemanha); dados britânicos com faixa etária mais restrita (25–49) por limitações do GHS; distinções de classe ligeiramente diferentes entre países por restrições dos dados. <br> <strong>Não reconhecidas ou subestimadas:</strong> A heterogeneidade das fontes alemãs é minimizada; a falta de testes de significância formais para comparação de slopes entre modelos (o próprio autor reconhece em nota que os testes não são válidos porque os dados são gerados por modelo); ausência de discussão sobre a endogeneidade potencial entre expansion e equalization (equalização quase certamente implica expansão, como o autor admite brevemente); ausência de análise de sensibilidade à escolha da escala CASMIN com cinco vs.&nbsp;seis categorias; sem investigação da heterogeneidade dentro dos grupos de coorte.</td>
-<td style="text-align: left;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Perspectiva Teórica</td>
-<td style="text-align: left;">A ontologia implícita é relacional-estrutural: as chances de mobilidade são determinadas por estruturas de classe que educação pode mediar, mas não eliminar. Há coerência entre essa ontologia e o método log-linear, que captura associações relativas entre categorias de classe. A influência de Goldthorpe e Erikson é dominante (EGP, Constant Flux), com diálogo com a tradição de Esping-Andersen para estruturar a comparação.</td>
-<td style="text-align: left;">Sociologia da estratificação social; tradição log-linear de mobilidade social (Goldthorpe, Erikson, Hout); teoria dos mundos do welfare capitalism (Esping-Andersen 1990) como moldura comparativa. A moldura é adequada à pergunta explicativa; a escolha dos três países não é arbitrária, mas reflete os três regimes.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Principais Referências</td>
-<td style="text-align: left;">O diálogo com Shavit e Blossfeld (1993) é central e bem articulado. Há certa endogeneidade bibliográfica: o autor dialoga prioritariamente com sua própria produção (Breen e Jonsson 2005, 2007; Breen e Luijkx 2004, 2007; Breen et al.&nbsp;2009, 2010).</td>
-<td style="text-align: left;">Erikson e Goldthorpe (1992); Shavit e Blossfeld (1993); Breen e Jonsson (2005, 2007); Müller e Pollak (2004); Hout (1988); Xie (1992); Raftery e Hout (1993); Esping-Andersen (1990).</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Observações</td>
-<td style="text-align: left;">O artigo tem forte contribuição metodológica — a formalização do efeito composicional e a simulação contrafactual são ferramentas transferíveis para outros contextos. Para pesquisa sobre educação superior no Brasil, o argumento sobre a distinção entre expansão e equalização é diretamente relevante: o REUNI e o SISU implicaram expansão massiva, mas a equalização é controversa. A análise, porém, depende da existência de associação diferencial no mercado de trabalho brasileiro, condição que requer verificação empírica independente.</td>
-<td style="text-align: left;"></td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-</div>
-<hr>
-</section>
-<section id="mapa-argumentativo" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="mapa-argumentativo">Mapa Argumentativo</h2>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 8%">
-<col style="width: 19%">
-<col style="width: 28%">
-<col style="width: 43%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Seção</th>
-<th style="text-align: left;">Título / Tema</th>
-<th style="text-align: left;">Função argumentativa</th>
-<th style="text-align: left;">Contribuição para a tese central</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Introdução (pp.&nbsp;365–366)</td>
-<td style="text-align: left;">Puzzle e objetivos</td>
-<td style="text-align: left;">Apresentação do puzzle</td>
-<td style="text-align: left;">Estabelece que a expansão educacional pode reduzir desigualdades de mobilidade de forma independente da equalização — hipótese central</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Educational Equality (pp.&nbsp;366–367)</td>
-<td style="text-align: left;">Debate sobre equalização</td>
-<td style="text-align: left;">Revisão de literatura</td>
-<td style="text-align: left;">Mapeia o estado da arte; conclui que há evidência mais recente de equalização em vários países europeus, abrindo espaço para a comparação</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Social Fluidity (pp.&nbsp;367–368)</td>
-<td style="text-align: left;">Debate sobre fluidez social</td>
-<td style="text-align: left;">Revisão de literatura</td>
-<td style="text-align: left;">Sintetiza os achados sobre tendências temporais em fluidez social, identificando os três países como casos com diferentes trajetórias</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">How Education Might Influence Social Mobility: An Example (pp.&nbsp;368–369)</td>
-<td style="text-align: left;">Mecanismos: formalização intuitiva</td>
-<td style="text-align: left;">Fundamento teórico</td>
-<td style="text-align: left;">Ilustra com tabela hipotética 2×2×2 a distinção entre equalização e efeito composicional, mostrando que cada um tem magnitude distinta</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">How Education Might Influence Social Mobility: Formal Derivation (pp.&nbsp;370–371)</td>
-<td style="text-align: left;">Formalização log-linear</td>
-<td style="text-align: left;">Fundamento metodológico</td>
-<td style="text-align: left;">Deriva formalmente as equações de probabilidade condicional e os modelos log-lineares que sustentam as simulações contrafactuais</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Data (pp.&nbsp;371–373)</td>
-<td style="text-align: left;">Descrição dos dados</td>
-<td style="text-align: left;">Análise empírica</td>
-<td style="text-align: left;">Descreve fontes, períodos, esquemas de classificação (EGP, CASMIN) e tamanhos amostrais — fundamento da comparação entre países</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Models and Results (pp.&nbsp;373–376)</td>
-<td style="text-align: left;">Tendências observadas em OE, OD e expansão</td>
-<td style="text-align: left;">Análise empírica</td>
-<td style="text-align: left;">Documenta empiricamente as condições necessárias para o efeito composicional (associação diferencial, expansão, tendências de equalização)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Simulations (pp.&nbsp;376–381)</td>
-<td style="text-align: left;">Decomposição contrafactual dos efeitos</td>
-<td style="text-align: left;">Análise empírica central</td>
-<td style="text-align: left;">Quantifica as contribuições relativas de cada mecanismo para a mudança na fluidez social; resultado principal do artigo</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Conclusions (pp.&nbsp;381–383)</td>
-<td style="text-align: left;">Síntese e implicações de política</td>
-<td style="text-align: left;">Síntese e extensão do argumento</td>
-<td style="text-align: left;">Interpreta os resultados no contexto institucional de cada país; discute implicações de política para a equalização via expansão; qualifica a recomendação de expansão isolada</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Technical Appendix (pp.&nbsp;387–388)</td>
-<td style="text-align: left;">Justificativa da ordem de decomposição e da amostra masculina</td>
-<td style="text-align: left;">Qualificação metodológica</td>
-<td style="text-align: left;">Demonstra robustez da ordenação dos termos removidos; justifica exclusão de mulheres por viés de participação no mercado de trabalho</td>
-</tr>
-</tbody>
-</table>
-<hr>
-</section>
-<section id="introdução-pp.-365366" class="level2" data-number="1">
-<h2 data-number="1" class="anchored" data-anchor-id="introdução-pp.-365366"><span class="header-section-number">1</span> Introdução (pp.&nbsp;365–366)</h2>
-<section id="apresentação-do-puzzle-e-delimitação-do-problema-13" class="level3" data-number="1.1">
-<h3 data-number="1.1" class="anchored" data-anchor-id="apresentação-do-puzzle-e-delimitação-do-problema-13"><span class="header-section-number">1.1</span> Apresentação do puzzle e delimitação do problema [§1–§3]</h3>
-<p>O artigo abre com uma afirmação canônica na sociologia da estratificação: a desigualdade educacional segundo origem social é considerada uma causa central da desigualdade nas chances de ascensão de classe. Breen, porém, identifica um vácuo analítico relevante: embora a literatura mobilize extensamente a questão da <strong>equalização educacional</strong> — a redução das diferenças por origem de classe no acesso à educação — ela praticamente ignora a possibilidade de que a <strong>expansão educacional</strong> (o crescimento absoluto dos níveis de escolaridade) possa por si mesma contribuir para a redução das desigualdades de mobilidade.</p>
-<p>O autor declara explicitamente que o objetivo da pesquisa é exploratório: aplicar um novo método para descobrir quão importantes foram a equalização e a expansão para moldar a <strong>fluidez social</strong> (<em>social fluidity</em>) na Suécia, na Grã-Bretanha e na Alemanha, ao longo de coortes nascidas do início do século XX até o início dos anos 1970. A escolha desses três países é justificada duplamente: eles representam os três mundos do welfare capitalism descritos por Esping-Andersen (1990) — regime liberal (Grã-Bretanha), social-democrata (Suécia) e conservador-continental (Alemanha) — e, conforme a literatura de mobilidade já demonstrou (Breen 2004), exibem diferentes níveis e tendências de fluidez social.</p>
-<p>A Suécia é descrita como a sociedade mais aberta da Europa nesse quesito, com aumento constante de fluidez durante grande parte da segunda metade do século XX (Breen e Jonsson 2007). A Grã-Bretanha, que foi uma das sociedades mais fluidas da Europa por volta de 1970, experimentou pouca variação de período desde então. A Alemanha, historicamente menos fluida que Suécia e mais próxima da França e da Itália, apresentou aumentos significativos de fluidez nas coortes nascidas após os anos 1930 (Müller e Pollak 2004). Essas trajetórias distintas tornam o conjunto um campo de teste privilegiado para avaliar em que medida equalização e expansão contribuem diferentemente para as mudanças na fluidez.</p>
-<hr>
-</section>
-</section>
-<section id="educational-equality-pp.-366367" class="level2" data-number="2">
-<h2 data-number="2" class="anchored" data-anchor-id="educational-equality-pp.-366367"><span class="header-section-number">2</span> Educational Equality (pp.&nbsp;366–367)</h2>
-<section id="o-debate-sobre-desigualdade-educacional-e-sua-evolução-47" class="level3" data-number="2.1">
-<h3 data-number="2.1" class="anchored" data-anchor-id="o-debate-sobre-desigualdade-educacional-e-sua-evolução-47"><span class="header-section-number">2.1</span> O debate sobre desigualdade educacional e sua evolução [§4–§7]</h3>
-<p>Uma das questões mais debatidas na sociologia da estratificação recente diz respeito a saber se, ao longo do século XX, as desigualdades de acesso educacional segundo origem social diminuíram ou permaneceram estáveis. Até o final da década de 1980, era amplamente aceito que a redução da desigualdade educacional seria uma consequência inevitável da modernização e da industrialização: Treiman (1970) argumentou que a influência da educação sobre o <em>status</em> ocupacional deveria ser mais forte em sociedades mais industrializadas e que o papel do <em>status</em> parental no acesso à educação deveria declinar com o mesmo processo.</p>
-<p>Esse consenso foi abalado por Shavit e Blossfeld (1993), que encontraram estabilidade na desigualdade educacional em 13 países industrializados ao longo do século XX. Não obstante a expansão substancial dos sistemas educacionais — sobretudo no nível médio-inferior —, apenas dois países (Suécia e Holanda) apresentaram redução na força da associação entre origem social e nível de escolaridade. Os editores concluíram que havia “pouca mudança na desigualdade socioeconômica de oportunidade educacional” e que “o impacto das reformas educacionais sobre mudanças na estratificação educacional parece ser negligenciável.” Em outras palavras, embora os níveis absolutos de escolaridade tenham aumentado em toda parte, as <em>chances relativas</em> de avanço educacional entre pessoas de diferentes origens sociais permaneceram em geral inalteradas.</p>
-<p>Breen e Jonsson (2005:226) oferecem, porém, uma revisão posterior que reverte parcialmente o diagnóstico de Shavit e Blossfeld: análises subsequentes demonstraram equalização na Alemanha (Henz e Maas 1995; Jonsson, Mills e Müller 1996; Müller e Haun 1994), na França (Vallet 2004a), na Itália (Shavit e Westerbeek 1998) e provavelmente na Noruega (Lindbekk 1998). Breen et al.&nbsp;(2009, 2010), em análises comparativas de oito países europeus, identificam uma tendência à diminuição da influência das origens sociais sobre a escolaridade nas coortes nascidas nos primeiros três quartos do século XX, com variações cross-nacionais importantes. A discrepância entre estudos é atribuída em parte a diferenças nas medidas de origem social e nos modelos estatísticos utilizados — mas Breen observa que é surpreendente que o padrão básico não seja robusto a tais variações.</p>
-<hr>
-</section>
-</section>
-<section id="social-fluidity-pp.-367368" class="level2" data-number="3">
-<h2 data-number="3" class="anchored" data-anchor-id="social-fluidity-pp.-367368"><span class="header-section-number">3</span> Social Fluidity (pp.&nbsp;367–368)</h2>
-<section id="o-conceito-de-fluidez-social-e-o-debate-sobre-suas-tendências-811" class="level3" data-number="3.1">
-<h3 data-number="3.1" class="anchored" data-anchor-id="o-conceito-de-fluidez-social-e-o-debate-sobre-suas-tendências-811"><span class="header-section-number">3.1</span> O conceito de fluidez social e o debate sobre suas tendências [§8–§11]</h3>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>A <strong>fluidez social</strong> (<em>social fluidity</em>) é definida como a razão de chances (<em>odds ratio</em>) entre respondentes nascidos em diferentes origens de classe de vir a ocupar uma posição de classe mais ou menos vantajosa. Diferentemente das taxas brutas de mobilidade — influenciadas pela estrutura de classe da sociedade —, os <em>odds ratios</em> capturam as <em>chances relativas de mobilidade</em> independentemente de mudanças nas distribuições marginais de origem e destino.</p>
-</div>
-</div>
-<p>A educação é identificada como o principal canal pelo qual a reprodução de classe ocorre entre gerações (Ishida, Müller e Ridge 1995). A premissa central da literatura é que a desigualdade educacional importa sobretudo porque pode afetar as chances de mobilidade social: se a <strong>fluidez educacional</strong> (a independência entre origem de classe e escolaridade) aumentar, a fluidez social tende a aumentar em consequência. Erikson e Goldthorpe (1992) argumentaram por uma “estabilidade temporal elevada” da fluidez social, mas esse julgamento se baseava em comparações de grupos etários extraídos de um único survey por país — uma estratégia que confunde efeitos de coorte e de período.</p>
-<p>Estudos baseados em séries de surveys repetidos ao longo do tempo são raros. Entre as exceções mais conhecidas estão Ganzeboom, Luijkx e Treiman (1989), que demonstraram “diferenças cross-nacionais e cross-temporais substanciais na extensão da mobilidade,” e Breen e Luijkx (2004), que documentaram variação significativa entre países europeus e uma tendência generalizada a maior fluidez nas últimas décadas do século XX. Análises por coorte de nascimento para países específicos — Hout (1988) para os EUA, Vallet (2004a) para a França, Müller e Pollak (2004) para a Alemanha, Breen e Jonsson (2007) para a Suécia — mostram, em todos os casos, um declínio gradual na associação entre origens e destinos de classe durante o século XX.</p>
-</section>
-<section id="como-a-educação-pode-influenciar-a-mobilidade-social-dois-mecanismos-1214" class="level3" data-number="3.2">
-<h3 data-number="3.2" class="anchored" data-anchor-id="como-a-educação-pode-influenciar-a-mobilidade-social-dois-mecanismos-1214"><span class="header-section-number">3.2</span> Como a educação pode influenciar a mobilidade social: dois mecanismos [§12–§14]</h3>
-<p>Seguindo Breen e Jonsson (2007), o artigo distingue dois caminhos pelos quais a educação pode aumentar a fluidez social. O primeiro é a <strong>equalização</strong> (<em>equalization</em>): quando a associação entre origem de classe e escolaridade se enfraquece ao longo das coortes, a ligação entre origem e destino de classe tende a se enfraquecer por consequência, dado que a educação é o determinante mais importante da posição de classe. O segundo caminho é <strong>composicional</strong>: se a associação origem-destino for mais fraca em níveis educacionais mais elevados — o que Breen denomina <strong>associação diferencial</strong> (<em>differential association</em>) —, e se a expansão educacional aumentar a proporção de coortes sucessivas que alcançam esses níveis, essa mudança composicional reduzirá a associação bruta entre origens e destinos. A razão é que a população passará a conter proporções crescentes de indivíduos (os mais escolarizados) para os quais as origens de classe exercem efeito relativamente fraco sobre os destinos.</p>
-<blockquote class="blockquote">
-<p>Breen ressalta que a preocupação dos analistas de mobilidade social com a equalização educacional é demasiado restritiva: a expansão em si — sobre cuja ocorrência não há controvérsia — pode ter a capacidade de enfraquecer a associação entre origens e destinos, mesmo na ausência de equalização.</p>
-</blockquote>
-<p>A <strong>associação diferencial</strong> já havia sido identificada por Hout (1988) e documentada em seguida para França (Vallet 2004b), Suécia (Erikson e Jonsson 1998) e Alemanha (Breen e Luijkx 2007). A justificativa teórica é que qualificações de nível superior funcionam como sinais mais fortes aos empregadores, deixando menos espaço para efeitos de rede social baseados em origem de classe, e/ou que os mercados de trabalho em que os graduados operam são mais meritocráticos.</p>
-<hr>
-</section>
-</section>
-<section id="how-education-might-influence-social-mobility-an-example-pp.-368369" class="level2" data-number="4">
-<h2 data-number="4" class="anchored" data-anchor-id="how-education-might-influence-social-mobility-an-example-pp.-368369"><span class="header-section-number">4</span> How Education Might Influence Social Mobility: An Example (pp.&nbsp;368–369)</h2>
-<section id="ilustração-com-tabela-hipotética-222-1517" class="level3" data-number="4.1">
-<h3 data-number="4.1" class="anchored" data-anchor-id="ilustração-com-tabela-hipotética-222-1517"><span class="header-section-number">4.1</span> Ilustração com tabela hipotética 2×2×2 [§15–§17]</h3>
-<p>Para tornar os dois mecanismos concretos antes de sua derivação formal, Breen constrói uma <strong>tabela hipotética 2×2×2</strong> em que origens de classe (classe média/classe trabalhadora), nível educacional (baixo/alto) e destino de classe (classe média/classe trabalhadora) são cruzados em dois momentos de tempo. Por design, a associação origem-destino é mais fraca no nível educacional alto, capturando a associação diferencial.</p>
-<p>O cenário base (tempo = 1) apresenta um <em>odds ratio</em> OE de 1,5 e um <em>odds ratio</em> OD bruto de 4,14. No caso (a) — equalização pura, sem mudança nas distribuições marginais —, o <em>odds ratio</em> OE cai de 1,5 para 1,31 enquanto as distribuições marginais são mantidas constantes, resultando em uma redução do <em>odds ratio</em> OD bruto de 4,14 para 4,03. No caso (b) — expansão pura com associação diferencial presente, sem mudança no <em>odds ratio</em> OE —, o deslocamento da distribuição de educação para o nível mais alto reduz o <em>odds ratio</em> OD bruto para 3,87. Finalmente, no caso (c) — equalização e expansão combinadas —, o <em>odds ratio</em> OD bruto cai para 3,77. A tabela demonstra de modo intuitivo que a expansão, por si só, pode ter um impacto quantitativo maior do que a equalização sobre a fluidez bruta — resultado contraintuitivo que motiva toda a análise empírica subsequente.</p>
-<blockquote class="blockquote">
-<p><strong>Nota:</strong> O autor nota que o efeito composicional requer duas condições simultâneas: expansão educacional <em>e</em> associação diferencial. A ausência de qualquer uma das duas anula o mecanismo composicional, independentemente da magnitude da expansão. <a href="https://ppl-ai-file-upload.s3.us-east-1.amazonaws.com/web/direct-files/attachments/111334221/90e5243a-ff10-428d-81ba-4b87a4edcb2b/Breen-2010-Educational-Expansion-and-Social-Mobility-in-the-20th-Century.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Checksum-Mode=ENABLED&amp;X-Amz-Credential=ASIA2F3EMEYE7CHSRSYF%2F20260513%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260513T144742Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEH8aCXVzLWVhc3QtMSJHMEUCIAOIBnnC4hnB9MWn%2Fx5QESowSjtKTYW3hLSBqlu950zQAiEArUWCUE3VKE7Lw9ssP59HP6gU25RVSB%2BoYpx6PsjDBL8q6wQIRxABGgw2OTk3NTMzMDk3MDUiDHIRMhnIKE4EjoSuaCrIBKjEJMJ6PJXrRnW2A%2Bb66qWL5%2BCcSwO6VQSQUxB0RSnHyDBV8ruwal2hhdER7wIJWfwBJ3wMi%2Buwiwzm96FhOCiijSg4NeXZf%2BVGaX%2B81VRaa2zyvH8g7iCElh31H8NFC2hV5j%2Bo5sQbdQQbRntUYW%2FbAvv9Z9kqUhosm6q1TJbeUuNIn2hK4bQ3dGEav0sOQ90Q%2FWqNpKk6mQTNjg%2FTCV0eo3MJ5QjQjUs0eys7z2OPcHL7Mc5XQjwT6UtJpgQd3Is%2F6QB4%2FNqoHNAucVrzEEiJKeMXpJ%2FfrMjgLRbRrm7HSSYmx55405DC%2FZuT3MhH1ii5rHbQkTPXUJb%2BaTb6ixgZ8gIIOQCjUPw0Brp9KeEIIsl62Z%2FM1l1%2FVpZHdgd53jWVkKrP2ok7o22vvl3XXkrkc0JPHjMQPmrBout%2FRbSI3jQB0KLKCTSNzLD3zfF5brPKHCKsO5hWxRnoTpYilIzdylN0rasARatviiuD2zz8xtheVYTKPUTxCmRbKADi2mhtzz0dOEAyaANQDW9DM46TXjG9fimYtOhwzjdvINZW8sx0F83o4X4zXXOq7W1gdqpDdeU2dsQJ4D1NPocS%2FKNzxck3ZPtdfeEJKPr2OI0Fl0rsZgpDbbvBmnXZthOsmkv2EldMBisueLmvP8iPb%2B6REqpl0e3dCNdoYasfsysu9HX37fwPvMgYT8zOr%2BBQOCzilAiDXiiGASddS5f%2FK%2BJJURyxdHSzbXDkWnWJe8EPswhBj2IcO%2FfDF2VX9h9QP0xqxG5OH6QkML2MktAGOpgBj2Zcq6tsOQEEaO1%2FiQc4r5LQ5eWS5MRj40A278xhBd9XubbhB3FmWUfa1Vu5i2hi82Zjys8lib1x%2Fzyv4GA5K%2B7oUOIEjIGkxZM6tykFIYoAj3dIkhtJFEFIR%2BfsFgdM0X4sWucEo9lhips%2FRFucGz%2BiaITbf0Qg%2B%2BJhvHlZ2r8vTJOhf1aIxroUvPho5mBF02C1%2Fd%2Fgoes%3D&amp;X-Amz-SignedHeaders=host&amp;x-id=GetObject&amp;X-Amz-Signature=11bbf5f2b6e56f0b979757e5b3a4ffec8427fe4464d31d0127d1cef1892aa642">ppl-ai-file-upload.s3.us-east-1.amazonaws</a></p>
-</blockquote>
-<hr>
-</section>
-</section>
-<section id="how-education-might-influence-social-mobility-formal-derivation-pp.-370371" class="level2" data-number="5">
-<h2 data-number="5" class="anchored" data-anchor-id="how-education-might-influence-social-mobility-formal-derivation-pp.-370371"><span class="header-section-number">5</span> How Education Might Influence Social Mobility: Formal Derivation (pp.&nbsp;370–371)</h2>
-<section id="derivação-formal-via-modelos-log-lineares-1822" class="level3" data-number="5.1">
-<h3 data-number="5.1" class="anchored" data-anchor-id="derivação-formal-via-modelos-log-lineares-1822"><span class="header-section-number">5.1</span> Derivação formal via modelos log-lineares [§18–§22]</h3>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>O coração metodológico do artigo está nessa seção. Breen considera uma <strong>cross-tabulação de quatro vias</strong> entre origem de classe (O), nível educacional (E), destino de classe (D) e coorte de nascimento (C), todas tratadas como variáveis categóricas. O objetivo é decompor a distribuição COD em componentes atribuíveis a diferentes fontes de mudança ao longo das coortes.</p>
-</div>
-</div>
-<p>A distribuição conjunta das quatro variáveis é escrita como produto de probabilidades condicionais:</p>
-<p>[p(C=i, O=j, E=k, D=l) = p(D=l C=i, O=j, E=k) p(E=k C=i, O=j) p(C=i, O=j)]</p>
-<p>A margem CO é tratada como exógena e reproduzida exatamente em todos os modelos. A distribuição tridimensional COD é obtida somando sobre os níveis de E. Modelos log-lineares específicos para as tabelas COE e COED permitem recuperar as distribuições condicionais necessárias para gerar tabelas COD contrafactuais, variando sistematicamente quais termos de interação estão presentes.</p>
-<p>Dois modelos log-lineares são centrais. O modelo para a tabela COE tem a forma:</p>
-<p>[f_{ijk} = ^C_i + ^O_j + ^E_k + ^{CO}<em>{ij} + ^{CE}</em>{ik} + ^{OE}<em>{jk} + ^{COE}</em>{ijk}]</p>
-<p>onde (^{CE}<em>{ik}) captura a expansão educacional, (^{OE}</em>{jk}) captura a associação origens-educação, e (^{COE}<em>{ijk}) captura a equalização (mudança na associação OE ao longo das coortes). O modelo para a tabela COED é análogo, acrescentando termos para o efeito direto de origem sobre destino ((^{COD}</em>{ijl})), o efeito de educação sobre destino variando por coorte ((^{CED}<em>{ikl})) e a associação diferencial ((^{OED}</em>{jkl})).</p>
-<p>Breen demonstra formalmente que mesmo sem equalização — ou seja, sem o termo (^{COE}_{ijk}) — a combinação de expansão educacional e associação diferencial implica uma associação entre O, D e C, ou seja, mudança na fluidez ao longo das coortes. Esse resultado formaliza a intuição apresentada na tabela hipotética e fundamenta as simulações contrafactuais.</p>
-<hr>
-</section>
-</section>
-<section id="data-pp.-371373" class="level2" data-number="6">
-<h2 data-number="6" class="anchored" data-anchor-id="data-pp.-371373"><span class="header-section-number">6</span> Data (pp.&nbsp;371–373)</h2>
-<section id="fontes-de-dados-classificações-e-amostras-2328" class="level3" data-number="6.1">
-<h3 data-number="6.1" class="anchored" data-anchor-id="fontes-de-dados-classificações-e-amostras-2328"><span class="header-section-number">6.1</span> Fontes de dados, classificações e amostras [§23–§28]</h3>
-<p>Os dados provêm de três fontes nacionais. Para a <strong>Grã-Bretanha</strong>, o <em>General Household Survey</em> (GHS) cobre os anos 1973, 1975–1976 e 1979–1992 (com os anos 1977, 1978, 1985 e 1986 excluídos por falta de informação sobre a ocupação paterna, e o ano 1974 excluído por problemas documentados por Goldthorpe e Mills 2004). Para a <strong>Alemanha</strong>, os dados abrangem 1976 a 2002 e são extraídos principalmente do Allbus, complementado por Zumabus, surveys de bem-estar, do painel socioeconômico alemão (GSOEP) e pelo <em>German Life History Study</em>. Müller e Pollak (2004) atestam a comparabilidade dos questionários e a ausência de inconsistências sistemáticas; a análise se restringe a residentes na antiga Alemanha Ocidental para garantir comparabilidade temporal. Para a <strong>Suécia</strong>, as 24 pesquisas anuais de condições de vida (ULF, 1976–1999) conduzidas pelo Statistics Sweden formam o conjunto de dados.</p>
-<p>A análise se restringe a <strong>homens</strong> (justificativa desenvolvida no apêndice técnico), na faixa etária de trabalho. Para a Alemanha e a Suécia, a faixa é de 25 a 64 anos; para a Grã-Bretanha, 25 a 49 anos (por limitação do GHS para respondentes mais velhos). As <strong>origens e destinos de classe</strong> (O e D) são definidos com o esquema EGP (Erikson e Goldthorpe 1992) em sete classes: (I) serviço superior; (II) serviço inferior; (IIIa) não-manual de rotina; (IVab) autônomos e pequenos empregadores; (IVc) agricultores; (V+VI) manuais qualificados, técnicos e supervisores; (VIIab+IIIb) semi e não qualificados. Restrições dos dados levam ao uso de seis classes tanto para a Grã-Bretanha (I+II+IVa fundidos) quanto para a Suécia (VIIab e IIIb não distinguidos).</p>
-<p>A <strong>educação</strong> (E) é medida pela maior qualificação formal, codificada segundo o esquema CASMIN (Müller et al.&nbsp;1989) em cinco categorias: 1abc (apenas educação compulsória); 2ab (educação secundária intermediária, vocacional e geral); 2c (educação secundária completa); 3a (terciária inferior); 3b (terciária superior). A Suécia usa seis categorias por distinguir entre 1ab e 1c. As <strong>coortes de nascimento</strong> são definidas de modo diferente em cada país, cobrindo do início dos anos 1910 ao final dos anos 1970 na Alemanha, do início dos anos 1920 ao final dos anos 1960 na Grã-Bretanha, e do início dos anos 1910 ao final dos anos 1970 na Suécia. Os tamanhos amostrais são: 18.961 para Alemanha, 58.125,5 para Grã-Bretanha (ponderado para corrigir sobreamostragem escocesa) e 33.281 para Suécia.</p>
-<blockquote class="blockquote">
-<p><strong>Nota:</strong> O autor ressalta que nem todas as coortes são observadas em todos os surveys: as coortes mais velhas e mais jovens são observadas menos frequentemente, enquanto as coortes nascidas em torno do meio do século são as mais bem representadas. Isso deve ser considerado na interpretação dos resultados nas extremidades da série temporal. <a href="https://academic.oup.com/sf/article/89/2/365/2235230">academic.oup</a></p>
-</blockquote>
-<hr>
-</section>
-</section>
-<section id="models-and-results-pp.-373376" class="level2" data-number="7">
-<h2 data-number="7" class="anchored" data-anchor-id="models-and-results-pp.-373376"><span class="header-section-number">7</span> Models and Results (pp.&nbsp;373–376)</h2>
-<section id="tendências-na-desigualdade-educacional-por-coorte-2931" class="level3" data-number="7.1">
-<h3 data-number="7.1" class="anchored" data-anchor-id="tendências-na-desigualdade-educacional-por-coorte-2931"><span class="header-section-number">7.1</span> Tendências na desigualdade educacional por coorte [§29–§31]</h3>
-<p>A Figura 1 apresenta as tendências na associação entre origem de classe e escolaridade ao longo das coortes, estimadas por modelos de <em>logit</em> ordenado. Para a <strong>Alemanha</strong> e a <strong>Suécia</strong>, a impressão geral é de declínio nas desigualdades de classe no acesso à educação — as linhas para diferentes origens de classe convergem progressivamente ao longo das coortes. Para a <strong>Grã-Bretanha</strong>, o padrão é menos claro; nota-se que entre as coortes mais velhas as diferenças de classe já eram menores do que na Alemanha, e que mesmo entre a coorte mais jovem elas permanecem inferiores às alemãs — embora o autor ressalve que isso deve ser interpretado à luz das diferenças nas classificações de classe britânicas, onde a classe mais alta é definida de forma mais heterogênea.</p>
-</section>
-<section id="associação-diferencial-e-expansão-educacional-3234" class="level3" data-number="7.2">
-<h3 data-number="7.2" class="anchored" data-anchor-id="associação-diferencial-e-expansão-educacional-3234"><span class="header-section-number">7.2</span> Associação diferencial e expansão educacional [§32–§34]</h3>
-<p>A Figura 2 documenta a <strong>associação diferencial</strong>: a força da associação origem-destino a cada nível educacional, medida por um modelo de efeito de camada log-multiplicativo (Xie 1992), com o nível de associação no nível educacional mais baixo fixado em 1. Nos três países, a tendência é de enfraquecimento da associação OD em níveis educacionais mais elevados — embora na Alemanha e na Suécia a associação seja mais fraca no nível terciário inferior (3a) do que no superior (3b). Essa constatação confirma a condição necessária para o efeito composicional em todos os três países.</p>
-<p>A Figura 3 ilustra a <strong>expansão educacional</strong> comparando a distribuição educacional das segundas coortes mais velhas e mais jovens em cada país. Os três países mostram expansão clara. A expansão é particularmente pronunciada na Grã-Bretanha, onde as coortes mais velhas estavam fortemente concentradas no nível educacional mais baixo. Finalmente, a Figura 4 apresenta a tendência da associação bruta origem-destino ao longo das coortes. A <strong>Suécia</strong> exibe um declínio aproximadamente constante ao longo de todas as coortes, replicando achados de Breen e Jonsson (2007). A <strong>Alemanha</strong> apresenta um fortalecimento inicial seguido de um declínio acentuado a partir da terceira coorte (nascida entre 1931 e 1939), padrão já documentado em Müller e Pollak (2004). A <strong>Grã-Bretanha</strong> mostra um fortalecimento inicial da associação OD, seguido de estabilidade a partir da coorte nascida entre 1942 e 1948 — o modesto declínio subsequente não é estatisticamente significante.</p>
-<hr>
-</section>
-</section>
-<section id="simulations-pp.-376381" class="level2" data-number="8">
-<h2 data-number="8" class="anchored" data-anchor-id="simulations-pp.-376381"><span class="header-section-number">8</span> Simulations (pp.&nbsp;376–381)</h2>
-<section id="método-de-decomposição-contrafactual-3538" class="level3" data-number="8.1">
-<h3 data-number="8.1" class="anchored" data-anchor-id="método-de-decomposição-contrafactual-3538"><span class="header-section-number">8.1</span> Método de decomposição contrafactual [§35–§38]</h3>
-<p>Para mensurar as contribuições relativas dos quatro mecanismos de mudança — (1) o efeito direto parcial de origens sobre destinos (COD); (2) as mudanças nos retornos à educação em termos de posição de classe (CED); (3) a equalização educacional (mudança na associação OE por coorte); e (4) o efeito composicional (expansão + associação diferencial) —, Breen gera um conjunto de cinco <strong>tabelas COD contrafactuais</strong> removendo sequencialmente termos do modelo log-linear inicial.</p>
-<p>O modelo inicial (1) inclui todos os efeitos nas tabelas E|OC e D|OEC exceto a interação de quatro vias COED. O segundo modelo (2) remove o termo (^{COD}<em>{ijl}) (efeito parcial direto de origens sobre destinos por coorte); como qualquer modelo com esse termo sempre reproduz o COD observado, ele deve ser removido primeiro. O terceiro modelo (3) remove o termo (^{CED}</em>{ikl}) (mudança nos retornos à educação). O quarto modelo (4) remove o termo (^{COE}<em>{ijk}) (equalização). O quinto e último modelo (5) remove simultaneamente (^{CE}</em>{ik}) (expansão) e (^{OED}_{jkl}) (associação diferencial), eliminando assim o efeito composicional. A comparação entre as tabelas COD geradas por modelos sucessivos permite isolar a contribuição de cada mecanismo.</p>
-<p>O efeito de cada mecanismo sobre a fluidez é capturado comparando os <strong>slopes</strong> (()) de tendência linear obtidos pelo modelo log-multiplicativo de efeito de camada (Xie 1992) aplicado a cada tabela contrafactual. Para a Alemanha e a Grã-Bretanha, onde a tendência não é linear, uma <em>spline</em> com dois slopes é ajustada — um para as coortes mais velhas, outro para as mais jovens. Um valor positivo de () indica crescente associação OD (menor fluidez); um valor negativo indica redução (maior fluidez).</p>
-<blockquote class="blockquote">
-<p><strong>Nota:</strong> O próprio autor reconhece em nota de rodapé que os testes de significância estatística reportados na Tabela 3 não são testes formalmente válidos, porque os dados sobre os quais o modelo é ajustado são eles mesmos gerados por um modelo — não observações empíricas independentes. <a href="https://www.semanticscholar.org/paper/Educational-Expansion-and-Social-Mobility-in-the-Breen/12884b77847170b27d53520beeaf9e7a2e58f506">semanticscholar</a></p>
-</blockquote>
-</section>
-<section id="resultados-da-decomposição-para-alemanha-suécia-e-grã-bretanha-3944" class="level3" data-number="8.2">
-<h3 data-number="8.2" class="anchored" data-anchor-id="resultados-da-decomposição-para-alemanha-suécia-e-grã-bretanha-3944"><span class="header-section-number">8.2</span> Resultados da decomposição para Alemanha, Suécia e Grã-Bretanha [§39–§44]</h3>
-<p>Para a <strong>Alemanha</strong>, entre as coortes mais velhas, o principal fator de <em>aumento</em> da associação OD foi o efeito COD direto — as contribuições percentuais mostram que foi esse mecanismo que impulsionou a desigualdade nas coortes mais antigas, enquanto o efeito composicional operou na direção oposta (redução da desigualdade). Entre as coortes mais jovens, os principais fatores de redução da associação OD foram o efeito composicional (68,17% da variação total no segundo slope) e a equalização educacional (31,50%), com o efeito CED contribuindo marginalmente e negativamente. O efeito COD direto nos coortes jovens levemente promoveu igualdade (0,39%).</p>
-<p>Para a <strong>Suécia</strong>, onde uma tendência linear é suficiente, o efeito COD operou na direção de <em>menor</em> fluidez (slope de -1,62 no modelo sem COD, comparado com -0,96 no modelo observado — o que implica que o COD reduziu a fluidez em 68,75%). O efeito CED também reduziu ligeiramente a fluidez (-13,54%). A remoção da equalização torna o slope muito menos negativo (de -0,76 para próximo de zero), indicando que a equalização foi responsável por 103,13% da mudança observada. O efeito composicional contribuiu com 79,17% — os valores somam mais de 100% porque alguns efeitos atuaram em sentidos opostos.</p>
-<p>Para a <strong>Grã-Bretanha</strong>, apenas o primeiro modelo (com todos os efeitos) apresenta slopes estatisticamente significantes. Uma vez removido o efeito COD, ambos os slopes se tornam não significantes, indicando que a variação temporal na fluidez britânica foi quase inteiramente determinada por mudanças no efeito parcial direto de origens sobre destinos — que atuou na direção de <em>menor</em> fluidez, tanto nas coortes mais velhas (-84,71%) quanto nas mais jovens (-147,24%). A equalização teve efeito equalizante nas coortes mais velhas, mas desequalizante nas mais jovens. O único mecanismo que atuou consistentemente na direção de maior fluidez foi o efeito composicional (+78,83% entre as coortes jovens), embora esse efeito não alcance significância estatística.</p>
-<hr>
-</section>
-</section>
-<section id="conclusions-pp.-381383" class="level2" data-number="9">
-<h2 data-number="9" class="anchored" data-anchor-id="conclusions-pp.-381383"><span class="header-section-number">9</span> Conclusions (pp.&nbsp;381–383)</h2>
-<section id="síntese-dos-resultados-por-país-4547" class="level3" data-number="9.1">
-<h3 data-number="9.1" class="anchored" data-anchor-id="síntese-dos-resultados-por-país-4547"><span class="header-section-number">9.1</span> Síntese dos resultados por país [§45–§47]</h3>
-<p>A conclusão retoma a lógica contrafactual: o artigo estimou o que teria acontecido com a fluidez social caso, por exemplo, a associação entre origens de classe e escolaridade tivesse permanecido constante ao longo do tempo, comparado ao que de fato ocorreu. Na <strong>Suécia</strong>, a equalização das chances educacionais teve um efeito consistente sobre o aumento da fluidez social; políticas como a eliminação de taxas para educação secundária e terciária, a introdução de refeições e materiais escolares gratuitos, e a reforma de escolas abrangentes (<em>comprehensive schools</em>) na década de 1950 tornaram as oportunidades educacionais menos dependentes dos recursos econômicos da família de origem (Erikson 1996). A igualdade de condições alcançada via tributação progressiva, redistribuição pelo welfare state (Korpi e Palme 2004) e políticas de mercado de trabalho contribuiu adicionalmente para a equalização.</p>
-<p>Na <strong>Alemanha</strong>, a equalização operou principalmente nas coortes nascidas após os anos 1930. Jonsson, Mills e Müller (1996) argumentam que o período do <em>Wirtschaftswunder</em> garantiu segurança econômica a todas as classes sociais, enquanto sindicatos fortes asseguraram condições de trabalho favoráveis e acordos de pensão. Políticas educacionais específicas — como o aumento do período de educação compulsória e a elevação do nível de educação geral exigido para o acesso à aprendizagem — contribuíram indiretamente para que crianças da classe trabalhadora adquirissem maior escolaridade, mesmo que inicialmente motivadas pela aprendizagem vocacional.</p>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Important
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>A <strong>Grã-Bretanha</strong> promulgou muitas das mesmas reformas que a Suécia — a Lei de Educação de 1944 tornou o ensino secundário gratuito; a diferenciação dentro do setor público foi reduzida após o final dos anos 1960 — mas aparentemente sem o mesmo efeito equalizador. O sistema altamente diferenciado (incluindo um pequeno setor privado persistente) manteve a seleção por desempenho examinatório. O welfare state britânico nunca desempenhou o mesmo papel redistributivo do sueco, e a Grã-Bretanha nunca desenvolveu políticas de mercado de trabalho de tipo corporatista. A persistência de um mercado de trabalho para trabalhadores semi ou não qualificados pode ter incentivado crianças de classe trabalhadora a deixar a escola na idade mais jovem possível, mantendo as diferenças de classe no acesso educacional.</p>
-</div>
-</div>
-</section>
-<section id="implicações-de-política-e-qualificação-do-argumento-4850" class="level3" data-number="9.2">
-<h3 data-number="9.2" class="anchored" data-anchor-id="implicações-de-política-e-qualificação-do-argumento-4850"><span class="header-section-number">9.2</span> Implicações de política e qualificação do argumento [§48–§50]</h3>
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Tip
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>O artigo conclui que sociólogos da educação e da estratificação social têm amplamente subestimado o potencial da expansão educacional para promover maior igualdade nas chances de mobilidade, mesmo nos casos em que a equalização não ocorreu. Na Alemanha, o efeito composicional foi mais forte do que o efeito de equalização entre as coortes mais jovens; na Suécia, onde a equalização foi a principal causa do aumento de fluidez, o efeito composicional também contribuiu; na Grã-Bretanha, foi o único mecanismo que apontou na direção de maior fluidez.</p>
-</div>
-</div>
-<p>O autor qualifica, porém, a recomendação de política pública: se os beneficiários da expansão forem principalmente jovens de origens de classe mais favorecidas, isso pode promover desigualdade educacional cujo impacto sobre a fluidez social contrabalance o efeito composicional (Jonsson e Erikson 2007). A <strong>expansão educacional isolada é, portanto, uma estratégia de risco</strong> se o objetivo é aumentar a fluidez social. Em contrapartida, <strong>promover a equalização educacional tende a ser uma estratégia mais eficaz</strong>, porque a equalização quase certamente implica expansão dos níveis médio e superior de escolaridade — dado que é improvável que a equalização ocorra por redução da participação educacional das classes médias (como notam Raftery e Hout 1993 e Breen e Jonsson 2007).</p>
-<hr>
-</section>
-</section>
-<section id="technical-appendix-pp.-387388" class="level2" data-number="10">
-<h2 data-number="10" class="anchored" data-anchor-id="technical-appendix-pp.-387388"><span class="header-section-number">10</span> Technical Appendix (pp.&nbsp;387–388)</h2>
-<section id="justificativa-da-restrição-a-homens-5152" class="level3" data-number="10.1">
-<h3 data-number="10.1" class="anchored" data-anchor-id="justificativa-da-restrição-a-homens-5152"><span class="header-section-number">10.1</span> Justificativa da restrição a homens [§51–§52]</h3>
-<p>O apêndice técnico apresenta dois conjuntos de justificativas metodológicas. O primeiro diz respeito à exclusão de mulheres: análises envolvendo posição de classe restringem atenção a pessoas atualmente no mercado de trabalho. Incluir indivíduos fora da força de trabalho implicaria usar posições de classe ocupadas no passado distante ou derivadas dos cônjuges, conforme as convenções do survey específico. Mais criticamente, comparações temporais seriam comprometidas se as taxas de participação no mercado de trabalho variassem dentro das coortes de nascimento ao longo do ciclo de vida — o que, no caso dos homens, é geralmente não problemático. Na Grã-Bretanha e na Alemanha, há tanto uma tendência histórica de crescente participação feminina quanto padrões pronunciados de participação e não-participação ao longo do ciclo de vida. Na Suécia, ao contrário, o padrão de participação feminina varia menos ao longo do ciclo de vida e se assemelha mais ao masculino — razão pela qual Breen e Jonsson (2007) incluíram mulheres em análise exclusivamente sueca.</p>
-</section>
-<section id="justificativa-da-ordem-de-decomposição-e-robustez-dos-slopes-5355" class="level3" data-number="10.2">
-<h3 data-number="10.2" class="anchored" data-anchor-id="justificativa-da-ordem-de-decomposição-e-robustez-dos-slopes-5355"><span class="header-section-number">10.2</span> Justificativa da ordem de decomposição e robustez dos slopes [§53–§55]</h3>
-<p>O segundo conjunto de justificativas trata da ordem em que os termos são removidos dos modelos. O argumento é que há pouca discricionariedade real: enquanto o termo (^{COD}<em>{ijl}) permanecer no modelo, o COD implicado sempre reproduzirá o COD observado, portanto ele deve ser removido primeiro. Além disso, o efeito composicional requer dois termos — (^{OED}</em>{jkl}) e (^{CE}_{ik}) — e removê-los separadamente tornaria o modelo de equalização não-hierárquico. O autor informa que os outros dois ordenamentos possíveis dentro dessas restrições produzem contribuições relativas quase idênticas e conclusões substantivas inalteradas.</p>
-<p>A justificativa para comparar slopes em vez de comparar fluidez em uma coorte dada reside em um problema técnico: quando um termo como (^{COD}<em>{ijl}) é removido, a associação parcial OD não é fixada em seu valor na coorte mais velha, mas em um valor médio complexo ao longo de todas as coortes. Isso torna a comparação direta de associações em uma dada coorte infactível. A comparação de slopes contorna esse problema porque o slope é invariante ao reescalonamento das associações em todas as coortes pelo valor de (^{OD}</em>{jl}).</p>
-<hr>
-</section>
-</section>
-<section id="argumento-sintético" class="level2" data-number="11">
-<h2 data-number="11" class="anchored" data-anchor-id="argumento-sintético"><span class="header-section-number">11</span> Argumento Sintético</h2>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong>Tese central:</strong> A expansão educacional, ao deslocar coortes sucessivas para níveis de escolaridade nos quais a associação entre origens e destinos de classe é estruturalmente mais fraca (<em>associação diferencial</em>), produz por si mesma um efeito composicional que aumenta a fluidez social — mecanismo distinto e empiricamente mensurável em relação à equalização educacional e sistematicamente negligenciado pela literatura de mobilidade social.</p>
-<p><strong>Natureza do argumento:</strong> O argumento é explicativo-quantitativo, com formalização log-linear e simulação contrafactual. Não é um argumento causal no sentido de identificação por variação exógena, mas uma decomposição analítica de contribuições relativas a padrões observados de mudança.</p>
-<p><strong>O que o texto demonstra:</strong> (1) Que a associação diferencial existe nos três países estudados; (2) que a expansão educacional ocorreu em todos os três países; (3) que o efeito composicional teve contribuição positiva mensurável sobre a fluidez social em todos os três países; (4) que na Grã-Bretanha foi o único mecanismo operando na direção de maior fluidez; (5) que a variação nos retornos à educação (CED) não foi fonte relevante de mudança em nenhum dos três países.</p>
-<p><strong>O que fica como hipótese ou agenda:</strong> A existência de associação diferencial em outros países e contextos institucionais (especialmente fora da Europa Ocidental) é pressuposta mas não demonstrada; os mecanismos causais pelos quais políticas específicas produziram equalização em alguns países (Suécia, Alemanha) e não em outros (Grã-Bretanha) são discutidos qualitativamente na conclusão, mas não testados empiricamente; a análise se restringe a homens, deixando aberta a questão de como a crescente participação feminina no mercado de trabalho interage com os mecanismos identificados.</p>
-<p><strong>Contribuição para o debate:</strong> O artigo reposiciona a expansão educacional como variável independente relevante para a fluidez social — não apenas como pano de fundo sobre o qual a equalização opera —, oferece uma formalização log-linear que permite decomposição sistemática de efeitos e produz uma ferramenta metodológica transferível para outros contextos. Para pesquisas sobre expansão educacional no Sul Global, o argumento é diretamente relevante: mesmo na ausência de equalização verificada, a expansão pode promover fluidez social, desde que a condição de associação diferencial se verifique nos mercados de trabalho locais.</p>
-</div>
-</div>
-
-
-</section>
-
- ]]></description>
-  <category>Annotated Bibliography</category>
-  <category>Sociology of Education</category>
-  <category>Social Stratification</category>
-  <category>Inequality</category>
-  <category>Comparative</category>
-  <category>2010</category>
-  <category>2010s</category>
-  <guid>https://mancano-tales.github.io/Annotated-Bibliography/posts/Breen2010.html</guid>
-  <pubDate>Wed, 13 May 2026 03:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
