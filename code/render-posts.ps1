@@ -134,13 +134,38 @@ $lockPattern = 'os error (32|1224)|being used by another process|user-mapped sec
 function Invoke-QuartoRender {
     param([string[]]$Args, [string]$Label)
 
+    # NOTA: nao usar `& quarto ... 2>&1` aqui. No PowerShell 5.1, redirecionar
+    # o stderr de um executavel nativo faz cada linha virar um ErrorRecord e
+    # dispara NativeCommandError, o que aborta o script mesmo quando o Quarto
+    # terminou com exit code 0 (ele escreve avisos normais no stderr).
+    # Start-Process com arquivos de redirecionamento da o exit code real.
+
     for ($attempt = 1; $attempt -le $MaxRetries; $attempt++) {
         Write-Step "Renderizando $Label (tentativa $attempt/$MaxRetries)"
 
-        $output = & quarto render @Args --no-clean 2>&1 | Out-String
-        $ok = $LASTEXITCODE -eq 0
+        $outFile = [System.IO.Path]::GetTempFileName()
+        $errFile = [System.IO.Path]::GetTempFileName()
 
-        Write-Host $output.TrimEnd()
+        try {
+            $proc = Start-Process -FilePath 'quarto' `
+                                  -ArgumentList (@('render') + $Args + @('--no-clean')) `
+                                  -NoNewWindow -Wait -PassThru `
+                                  -RedirectStandardOutput $outFile `
+                                  -RedirectStandardError  $errFile
+            $exit = $proc.ExitCode
+        } catch {
+            Write-Warn "Nao foi possivel executar o quarto: $_"
+            Remove-Item $outFile, $errFile -Force -ErrorAction SilentlyContinue
+            return $false
+        }
+
+        $output = ((Get-Content $outFile -Raw -ErrorAction SilentlyContinue) +
+                   (Get-Content $errFile -Raw -ErrorAction SilentlyContinue))
+        Remove-Item $outFile, $errFile -Force -ErrorAction SilentlyContinue
+
+        $ok = ($exit -eq 0)
+
+        if ($output) { Write-Host $output.TrimEnd() }
 
         if ($ok) { Write-Ok "OK: $Label"; return $true }
 
