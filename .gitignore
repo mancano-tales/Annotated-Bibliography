@@ -3,6 +3,16 @@
 /.quarto/
 **/*.quarto_ipynb
 
+# Artefatos de render de documento avulso na raiz (botao "Render" do RStudio
+# em index.qmd gera fora do modo projeto). O site legitimo fica em docs/.
+/site_libs/
+/index_files/
+
+# Temporarios que o Quarto deixa quando o post-render falha
+*.feed-full-staged
+**/*-listing.json
+/docs/index-listing.json
+
 # R
 .Rproj.user/
 .Rhistory

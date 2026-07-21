@@ -8,15 +8,29 @@ A Quarto website hosting Tales Mançano's annotated bibliography (*fichamentos*)
 
 ## Commands
 
-```bash
-# Render the full site to docs/
-quarto render
+**Rendering — use the script, not `quarto render`:**
 
+```powershell
+# Render whatever is out of date (QMD newer than its HTML), safely
+.\code\render-posts.ps1
+
+# Render specific posts
+.\code\render-posts.ps1 -Posts Ergen-Kohl2019, DeKadt-GrzymalaBusse2025
+
+# Dry run
+.\code\render-posts.ps1 -WhatIf
+```
+
+```bash
 # Preview with live reload (localhost)
 quarto preview
 ```
 
-Requirements: Quarto CLI ≥ 1.4 and R (for the audit scripts).
+> ⚠️ **Do not run a bare `quarto render`.** A full project render **wipes `docs/` before it starts**. If it then fails partway — which happens here, because something on this machine holds brief locks on freshly written files (`os error 1224` / `os error 32` on `docs/search.json`) — you are left with a mutilated `docs/`: on 2026-07-21 this deleted 99 rendered posts plus the RSS feed and README outputs, ~246 spurious git changes. Recovery was `git restore docs/`, but only because the HTML was committed.
+>
+> [`code/render-posts.ps1`](code/render-posts.ps1) avoids this by always passing `--no-clean`, retrying with backoff on lock errors, cleaning up the temp files Quarto abandons when it aborts (`*.feed-full-staged`, `*-listing.json`, stray `.html` inside `posts/`), and verifying afterwards that nothing in `docs/` was lost. If you must render the whole project, use `-All` — it still passes `--no-clean`.
+
+Requirements: Quarto CLI ≥ 1.4 (tested on 1.9.37) and R (for the audit scripts).
 
 **R maintenance scripts** (edit the filename variable at the top of each script before running):
 
