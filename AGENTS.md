@@ -126,14 +126,4 @@ Governed by [`CATEGORIES.md`](CATEGORIES.md). Three layers, ≤5 categories tota
 |-------|------|---------|
 | **A — Post type** | Exactly 1, always first | `Annotated Bibliography`, `Essay` |
 | **B — Substantive theme** | 1–4 from the canonical list | `Political Economy`, `Higher Education`, `Inequality` |
-| **C — Geographic scope** | 0–1, only if the work is explicitly regional | `Brazil`, `Western Europe` |
-
-Fine-grained concepts go in `tags` (kebab-case), not categories. A tag may be promoted to a category only after appearing in 5+ posts. All changes to allowed categories must be made in `CATEGORIES.md` first, then reflected in `fix_categories.R`.
-
-## fix_spaces.R behaviour
-
-Runs 4 passes on a single `.qmd` to:
-- Replace `***` with `---` (LLM frontmatter delimiter artefact)
-- Strip content before the first `---` and after the last `::::`
-- Remove a single leading space from lines outside code blocks and indented YAML blocks
-- Normalise indentation of the `format:` block in the YAML to the canonical 2/4-space structure
+| **C — Geographic scope** | 0–1, 

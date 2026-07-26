@@ -54,6 +54,9 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    filters:
+      - mancano-tales/tts-reader
+    tts-reader-enabled: true
     footnotes-hover: true
     code-copy: true
     code-link: true
