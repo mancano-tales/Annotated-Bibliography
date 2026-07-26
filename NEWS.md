@@ -4,6 +4,16 @@
 >
 > **Convenção de timestamp (decisão do autor, 2026-07-12 HH:mm): data sozinha não é suficiente — todo timestamp neste projeto (cabeçalho de entrada, campo `**Data/Hora**` do bloco de Metadados de Execução) deve incluir hora e minuto, formato `YYYY-MM-DD HH:MM`, Horário de Brasília (UTC-3).**
 
+## 2026-07-26 11:04 (2) — Re-renderização em lote dos 135 fichamentos e injeção do player TTS em `docs/`
+
+Executada a re-renderização em lote de todos os 135 posts em `posts/` com a extensão `quarto-tts-reader` ativada. Injetadas as dependências de script (`tts-reader.js` e `tts-reader.css`) em todos os arquivos HTML em `docs/posts/` e disponibilizado o player interativo de áudio no site estático. Removida também a opção `self-contained: true` de `posts/Lupu-Pontusson2023Chp-1.qmd` para destravar a compilação paralela.
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-07-26 11:04 (Horário Local)
+- **Agente**: Antigravity / Gemini 3.6 Flash (High) / Antigravity IDE
+- **Mensagem do Commit**: "build(docs): re-renderiza 135 fichamentos com injeção do player quarto-tts-reader"
+- **Arquivos afetados**: `docs/`, `posts/Lupu-Pontusson2023Chp-1.qmd`, `NEWS.md`, `TODO.md`
+
 ## 2026-07-26 07:31 (1) — Incorporação das regras de governança de IA e ativação da extensão `quarto-tts-reader`
 
 Instalação da extensão Quarto de leitura em voz alta `mancano-tales/quarto-tts-reader` (v1.0.0) e ativação global em `_quarto.yml` (`filters: [mancano-tales/tts-reader]` e `tts-reader-enabled: true`). Todos os posts de fichamento acadêmico em `posts/` passam a contar com o player de TTS com marcação sincronizada palavra a palavra, controle de velocidade e suporte a vozes neurais do Edge.

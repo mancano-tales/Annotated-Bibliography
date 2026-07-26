@@ -12,7 +12,6 @@ format:
     theme: cosmo
     highlight-style: github
     code-fold: false
-    self-contained: true
     lang: pt
 categories: [Descriptive Note, Political Economy, Welfare State/Social Policy, Comparative Politics]
 ---

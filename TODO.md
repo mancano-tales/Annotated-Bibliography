@@ -5,13 +5,12 @@
 
 ## Pendente
 
-- [ ] [2026-07-26 07:31 Criado por Antigravity / Gemini 3.6 Flash] Verificar a renderização em lote dos fichamentos com o leitor TTS ativado (`.\code\render-posts.ps1`).
-
 ## Prospectivo
 
 - [ ] Avaliar temas visuais adicionais no CSS do `quarto-tts-reader` para modo escuro nos fichamentos.
 
 ## Concluído
 
+- [x] [2026-07-26 07:31 Criado por Antigravity / Gemini 3.6 Flash] [2026-07-26 11:04 Concluído por Antigravity / Gemini 3.6 Flash] Verificar e executar a re-renderização em lote dos 135 fichamentos em `docs/` com o leitor TTS ativado.
 - [x] [2026-07-26 07:31 Criado por Antigravity / Gemini 3.6 Flash] [2026-07-26 07:31 Concluído por Antigravity / Gemini 3.6 Flash] Instalar e ativar a extensão `quarto-tts-reader` globalmente em `_quarto.yml`.
 - [x] [2026-07-26 07:31 Criado por Antigravity / Gemini 3.6 Flash] [2026-07-26 07:31 Concluído por Antigravity / Gemini 3.6 Flash] Incorporar padrões de governança de IA (hard link AGENTS.md, Agent Covenant no CLAUDE.md, NEWS.md e TODO.md).
