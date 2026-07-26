@@ -164,6 +164,7 @@ https://badge.dimensions.ai/
   <ul>
   <li><a href="#news-decisões-de-design-e-evolução-metodológica-annotated-bibliography" id="toc-news-decisões-de-design-e-evolução-metodológica-annotated-bibliography" class="nav-link active" data-scroll-target="#news-decisões-de-design-e-evolução-metodológica-annotated-bibliography">NEWS — Decisões de Design e Evolução Metodológica (Annotated-Bibliography)</a>
   <ul class="collapse">
+  <li><a href="#re-renderização-em-lote-dos-135-fichamentos-e-injeção-do-player-tts-em-docs" id="toc-re-renderização-em-lote-dos-135-fichamentos-e-injeção-do-player-tts-em-docs" class="nav-link" data-scroll-target="#re-renderização-em-lote-dos-135-fichamentos-e-injeção-do-player-tts-em-docs">2026-07-26 11:04 (2) — Re-renderização em lote dos 135 fichamentos e injeção do player TTS em <code>docs/</code></a></li>
   <li><a href="#incorporação-das-regras-de-governança-de-ia-e-ativação-da-extensão-quarto-tts-reader" id="toc-incorporação-das-regras-de-governança-de-ia-e-ativação-da-extensão-quarto-tts-reader" class="nav-link" data-scroll-target="#incorporação-das-regras-de-governança-de-ia-e-ativação-da-extensão-quarto-tts-reader">2026-07-26 07:31 (1) — Incorporação das regras de governança de IA e ativação da extensão <code>quarto-tts-reader</code></a></li>
   </ul></li>
   </ul>
@@ -181,6 +182,11 @@ https://badge.dimensions.ai/
 <p>Entrada mais recente no topo.</p>
 <p><strong>Convenção de timestamp (decisão do autor, 2026-07-12 HH:mm): data sozinha não é suficiente — todo timestamp neste projeto (cabeçalho de entrada, campo <code>**Data/Hora**</code> do bloco de Metadados de Execução) deve incluir hora e minuto, formato <code>YYYY-MM-DD HH:MM</code>, Horário de Brasília (UTC-3).</strong></p>
 </blockquote>
+<section id="re-renderização-em-lote-dos-135-fichamentos-e-injeção-do-player-tts-em-docs" class="level2">
+<h2 class="anchored" data-anchor-id="re-renderização-em-lote-dos-135-fichamentos-e-injeção-do-player-tts-em-docs">2026-07-26 11:04 (2) — Re-renderização em lote dos 135 fichamentos e injeção do player TTS em <code>docs/</code></h2>
+<p>Executada a re-renderização em lote de todos os 135 posts em <code>posts/</code> com a extensão <code>quarto-tts-reader</code> ativada. Injetadas as dependências de script (<code>tts-reader.js</code> e <code>tts-reader.css</code>) em todos os arquivos HTML em <code>docs/posts/</code> e disponibilizado o player interativo de áudio no site estático. Removida também a opção <code>self-contained: true</code> de <code>posts/Lupu-Pontusson2023Chp-1.qmd</code> para destravar a compilação paralela.</p>
+<p><strong>Metadados de Execução</strong>: - <strong>Data/Hora</strong>: 2026-07-26 11:04 (Horário Local) - <strong>Agente</strong>: Antigravity / Gemini 3.6 Flash (High) / Antigravity IDE - <strong>Mensagem do Commit</strong>: “build(docs): re-renderiza 135 fichamentos com injeção do player quarto-tts-reader” - <strong>Arquivos afetados</strong>: <code>docs/</code>, <code>posts/Lupu-Pontusson2023Chp-1.qmd</code>, <code>NEWS.md</code>, <code>TODO.md</code></p>
+</section>
 <section id="incorporação-das-regras-de-governança-de-ia-e-ativação-da-extensão-quarto-tts-reader" class="level2">
 <h2 class="anchored" data-anchor-id="incorporação-das-regras-de-governança-de-ia-e-ativação-da-extensão-quarto-tts-reader">2026-07-26 07:31 (1) — Incorporação das regras de governança de IA e ativação da extensão <code>quarto-tts-reader</code></h2>
 <p>Instalação da extensão Quarto de leitura em voz alta <code>mancano-tales/quarto-tts-reader</code> (v1.0.0) e ativação global em <code>_quarto.yml</code> (<code>filters: [mancano-tales/tts-reader]</code> e <code>tts-reader-enabled: true</code>). Todos os posts de fichamento acadêmico em <code>posts/</code> passam a contar com o player de TTS com marcação sincronizada palavra a palavra, controle de velocidade e suporte a vozes neurais do Edge.</p>
