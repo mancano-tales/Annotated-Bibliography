@@ -1,6 +1,7 @@
-# CLAUDE.md / AGENTS.md — Annotated-Bibliography
+﻿# CLAUDE.md / AGENTS.md — Annotated-Bibliography
 
 > 🚨 **CRITICAL AGENT RULES (COVENANT) — READ FIRST:**
+> - **Regra sobre Hard Links**: Agentes de IA **NÃO devem perder tempo** testando, auditando ou recriando hard links manualmente (mklink). O script de auto-cura automatizado (alidate-governance.R / setup) cuida disso sozinho. Foque estritamente no objetivo principal da tarefa.
 > - **RULE 1:** You are operating under the **Agent Covenant** framework. Every commit is audited.
 > - **RULE 2:** Any modification in `posts/`, `_quarto.yml`, or governance files REQUIRES an update in the root `NEWS.md` file, in the same commit.
 > - **RULE 3:** When completing a task or plan, you MUST run the conversation exporter to save your session log.
@@ -137,3 +138,4 @@ Runs 4 passes on a single `.qmd` to:
 - Strip content before the first `---` and after the last `::::`
 - Remove a single leading space from lines outside code blocks and indented YAML blocks
 - Normalise indentation of the `format:` block in the YAML to the canonical 2/4-space structure
+
