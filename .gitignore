@@ -3,15 +3,36 @@
 /.quarto/
 **/*.quarto_ipynb
 
-# Artefatos de render de documento avulso na raiz (botao "Render" do RStudio
-# em index.qmd gera fora do modo projeto). O site legitimo fica em docs/.
+# Saida de render. O site publicado e construido do zero pelo CI
+# (.github/workflows/publish.yml) e vive no branch gh-pages; docs/ e apenas o
+# resultado local do render e nao precisa ser versionado. Mante-lo rastreado
+# criava uma SEGUNDA copia completa do site, mantida a mao, com ~37 arquivos
+# sujos a cada render e diffs de milhares de linhas (ver NEWS 2026-07-31).
+/docs/
+
+# Artefatos de render de documento avulso (botao "Render" do RStudio/VS Code
+# num .qmd isolado). Fora do modo projeto o Quarto ignora o output-dir e
+# escreve o HTML ao lado do fonte. A regra ja existia para o index.qmd da raiz
+# e nunca fora generalizada - dai os 105 .html soltos em posts/ achados em
+# 2026-07-31.
 /site_libs/
 /index_files/
+/posts/*.html
+/posts/*_files/
+/posts/notes/*.html
+/posts/notes/*_files/
+/Old_Website_Posts/**/*.html
+/Old_Website_Posts/**/*_files/
+/*.html
+/*_files/
 
 # Temporarios que o Quarto deixa quando o post-render falha
 *.feed-full-staged
 **/*-listing.json
 /docs/index-listing.json
+
+# Artefatos de ferramenta
+.specstory/
 
 # R
 .Rproj.user/

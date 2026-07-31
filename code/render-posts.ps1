@@ -122,6 +122,14 @@ if ($WhatIf) {
     return
 }
 
+# Linha de base para a checagem de integridade do passo 4. Precisa ser medida
+# ANTES de renderizar. Ate 2026-07-31 essa checagem usava `git status -- docs`,
+# o que so funcionava porque docs/ era rastreado; agora que o site publicado e
+# construido pelo CI e docs/ saiu do git, aquela checagem passaria a reportar
+# "nenhum arquivo perdido" sempre - salvaguarda quebrada em silencio, pior que
+# salvaguarda nenhuma. Contar arquivos no disco nao depende do git.
+$docsBefore = @(Get-ChildItem (Join-Path $Root 'docs') -Filter *.html -File -Recurse -ErrorAction SilentlyContinue).Count
+
 # ---------------------------------------------------------------------------
 # 2. Renderizar com retry
 # ---------------------------------------------------------------------------
@@ -236,15 +244,16 @@ Write-Ok "$removed artefato(s) residual(is) removido(s)"
 
 Write-Step "Conferindo integridade de docs/"
 
-$deleted = @(& git status --porcelain -- docs | Where-Object { $_ -match '^\s*D\s' })
-if ($deleted.Count -gt 0) {
+$docsAfter = @(Get-ChildItem (Join-Path $Root 'docs') -Filter *.html -File -Recurse -ErrorAction SilentlyContinue).Count
+$lost = $docsBefore - $docsAfter
+if ($lost -gt 0) {
     Write-Host ""
-    Write-Warn "ATENCAO: $($deleted.Count) arquivo(s) de docs/ aparecem como DELETADOS."
-    Write-Warn "Isso nao deveria acontecer com --no-clean. Para desfazer:"
-    Write-Warn "    git restore docs/"
-    $deleted | Select-Object -First 10 | ForEach-Object { Write-Host "      $_" }
+    Write-Warn "ATENCAO: docs/ encolheu de $docsBefore para $docsAfter arquivos HTML ($lost perdido(s))."
+    Write-Warn "Isso nao deveria acontecer com --no-clean."
+    Write-Warn "docs/ NAO e mais rastreado pelo git, entao 'git restore docs/' nao recupera nada."
+    Write-Warn "Para reconstruir o que faltar:  .\code\render-posts.ps1 -All"
 } else {
-    Write-Ok "Nenhum arquivo de docs/ foi perdido."
+    Write-Ok "Nenhum arquivo de docs/ foi perdido ($docsBefore -> $docsAfter HTML)."
 }
 
 $htmlCount = (Get-ChildItem (Join-Path $Root 'docs/posts') -Filter *.html -File).Count

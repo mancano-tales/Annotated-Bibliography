@@ -37,7 +37,9 @@ A Quarto website hosting Tales Mançano's annotated bibliography (*fichamentos*)
 quarto preview
 ```
 
-> ⚠️ **Do not run a bare `quarto render`.** A full project render **wipes `docs/` before it starts**. If it then fails partway — which happens here, because something on this machine holds brief locks on freshly written files (`os error 1224` / `os error 32` on `docs/search.json`) — you are left with a mutilated `docs/`: on 2026-07-21 this deleted 99 rendered posts plus the RSS feed and README outputs, ~246 spurious git changes. Recovery was `git restore docs/`, but only because the HTML was committed.
+> ⚠️ **Do not run a bare `quarto render`.** A full project render **wipes `docs/` before it starts**. If it then fails partway — which happens here, because something on this machine holds brief locks on freshly written files (`os error 1224` / `os error 32` on `docs/search.json`) — you are left with a mutilated `docs/`: on 2026-07-21 this deleted 99 rendered posts plus the RSS feed and README outputs, ~246 spurious git changes. Recovery then was `git restore docs/`, because the HTML was committed.
+>
+> **Since 2026-07-31 that recovery route no longer exists**: `docs/` is no longer tracked (see NEWS 2026-07-31), so `git restore docs/` recovers nothing. This costs less than it sounds — a mutilated `docs/` is now a purely local inconvenience, since the published site is built from source by the CI and never from this folder. Rebuild with `.\code\render-posts.ps1 -All`.
 >
 > [`code/render-posts.ps1`](code/render-posts.ps1) avoids this by always passing `--no-clean`, retrying with backoff on lock errors, cleaning up the temp files Quarto abandons when it aborts (`*.feed-full-staged`, `*-listing.json`, stray `.html` inside `posts/`), and verifying afterwards that nothing in `docs/` was lost. If you must render the whole project, use `-All` — it still passes `--no-clean`.
 
@@ -69,11 +71,13 @@ fix_categories.R     # normalises legacy/Portuguese category names to canonical 
 category_audit.csv   # output of fix_categories.R
 files/includes/      # HTML includes injected site-wide (Academicons, badge CSS)
 _extensions/         # Quarto extensions (Font Awesome, Academicons, Iconify)
-docs/                # rendered HTML output (deployed to gh-pages)
+docs/                # local render output — NOT tracked, NOT published (see below)
 Old_Website_Posts/   # archived legacy posts; do not add new content here
 ```
 
 Deployment is automatic: GitHub Actions ([`.github/workflows/publish.yml`](.github/workflows/publish.yml)) renders the site on every push to `main` and publishes to the `gh-pages` branch.
+
+> ⚠️ **Pending author action — until it is done, `gh-pages` is built but not served.** As of 2026-07-31 the repository's GitHub Pages source is still `main` + `/docs` (`build_type: legacy`), the mode that predates the workflow. The workflow has been running successfully since 2026-05-04 and pushing a full site to `gh-pages` on every push — which Pages ignores entirely. Switching the Pages source (Settings → Pages) to **GitHub Actions** (or to the `gh-pages` branch) completes the migration and is what makes the statement above true. **Do not merge the `docs/` untracking work before that switch**, or the live site loses its source. Only the author can change it: it is an external-service action.
 
 ## Post format
 
