@@ -4,6 +4,18 @@
 >
 > **Convenção de timestamp (decisão do autor, 2026-07-12 HH:mm): data sozinha não é suficiente — todo timestamp neste projeto (cabeçalho de entrada, campo `**Data/Hora**` do bloco de Metadados de Execução) deve incluir hora e minuto, formato `YYYY-MM-DD HH:MM`, Horário de Brasília (UTC-3).**
 
+## 2026-08-09 17:20 — Atualização da extensão `quarto-tts-reader` para a versão 2.3.0 e re-renderização direcionada de `DeKadt-GrzymalaBusse2025`
+
+Atualização da extensão Quarto de leitura em voz alta `quarto-tts-reader` de `v1.0.0` para `v2.3.0` (trazida do repositório `mancano-tales/quarto-tts-reader`). A nova versão expande o código do leitor JS (23 KB -> 52 KB) e CSS (3.5 KB -> 14 KB), introduzindo suporte a navegação por teclado, parsing robusto via `TreeWalker` que preserva elementos KaTeX/MathJax, footnotes Tippy.js e citação bibliográfica, além de suporte a opt-out nativo no filtro Lua.
+
+Realizada a auditoria adversarial por 4 subagentes especializados (Quarto Lua, Build Pipeline, Governança Agent Covenant e Frontend Assets), confirmando o versionamento `2.3.0` em `_extension.yml` para criação isolada da biblioteca `docs/site_libs/quarto-contrib/tts-reader-2.3.0/` e prevenção de envenenamento de cache do navegador. Executada a re-renderização direcionada do fichamento `DeKadt-GrzymalaBusse2025.qmd`.
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-08-09 17:20 (Horário de Brasília)
+- **Agente**: Antigravity / Gemini 3.6 Flash (High) / Antigravity IDE
+- **Mensagem do Commit**: "feat(tts): atualiza extensão quarto-tts-reader para v2.3.0 e renderiza DeKadt-GrzymalaBusse2025"
+- **Arquivos afetados**: `_extensions/mancano-tales/tts-reader/`, `NEWS.md`
+
 ## 2026-07-31 14:35 — `docs/` sai do git: o repositório mantinha à mão uma segunda cópia do site que o CI já constrói
 
 Auditoria do ecossistema `MancanoSync` encontrou **170 entradas de `git status`** neste repositório — a maior concentração de toda a árvore (27 repos, 358 entradas). Nenhuma era trabalho autoral: 133 arquivos não rastreados e 37 modificados, todos HTML de render.
