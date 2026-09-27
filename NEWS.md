@@ -1,5 +1,15 @@
 # NEWS — Decisões de Design e Evolução Metodológica (annotated-bibliography)
 
+## 2026-09-27 — Corrige a biblioteca R da CI
+
+O primeiro workflow após a migração falhou antes da busca de caminhos ou do render: o runner tentou instalar `here` em `/usr/local/lib/R/site-library`, que não permite escrita ao usuário. O workflow agora cria `$HOME/R/library`, define `R_LIBS_USER` para a etapa e instala `here` nessa biblioteca gravável. O GitHub Actions deve confirmar a instalação, a auditoria de caminhos e a renderização completa antes de encerrar o plano.
+
+**Metadados de Execução**:
+- **Data**: 2026-09-27
+- **Agente**: Codex / GPT-6 / Codex desktop (CobaltCanyon)
+- **Mensagem do Commit**: "fix(ci): instala here na biblioteca do usuário refs #8"
+- **Arquivos afetados**: `.github/workflows/publish.yml`, `NEWS.md`, `repo-governance/plan/2026-09-27_Plano_Repo_Governance_Caminhos_e_Acervo_Legado.md`
+
 ## 2026-09-27 — Racionaliza governança e acervo legado
 
 A estrutura de governança agora usa `repo-governance/`, e o bloco específico de `AGENTS.md`, os READMEs bilíngues e `TAGS.md` refletem o mapa atual. O inventário antigo foi incorporado: oito fichamentos recuperados estão em `posts/` como drafts explicitamente fora do render até revisão; dez QMDs e materiais auxiliares permanecem em triagem documentada. As datas de origem foram conferidas contra os arquivos anteriores. O duplicado vazio do Hall (1993) foi removido; o template genérico segue preservado para avaliação futura.

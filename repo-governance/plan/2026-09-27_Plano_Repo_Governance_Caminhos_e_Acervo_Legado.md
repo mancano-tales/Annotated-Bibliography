@@ -16,6 +16,7 @@ tarefas:
   - { desc: "Migrar fontes publicáveis do acervo antigo, preservar datas/URLs e registrar itens em triagem", status: concluída, data: "2026-09-27" }
   - { desc: "Confirmar duplicatas, remover apenas redundâncias comprovadas e excluir o projeto RStudio", status: concluída, data: "2026-09-27" }
   - { desc: "Documentar here::here(), corrigir a seleção do renderizador seguro e validar auditorias e render", status: concluída, data: "2026-09-27" }
+  - { desc: "Corrigir a instalação de here na CI e confirmar renderização e deploy integrais", status: em andamento, data: "2026-09-27" }
 relacionados:
   - "mancano-repo-hub: governança comum v2026-09-26d"
 news: []
@@ -62,6 +63,7 @@ Ficam excluídos `.vscode/`, exportações de conversa, saídas geradas `.tex`, 
 - `Rscript tools/audit_content.R`: 155 QMDs, 11 candidatos por metadados/título, nenhum corpo idêntico; um comentário de triagem sem front matter foi preservado intencionalmente.
 - `Rscript tools/check_paths.R` passou na revisão local; a verificação final depois do staging está registrada antes do commit.
 - O renderizador seguro direcionado concluiu 3/3 itens (ficha selecionada, índice e catálogo) e preservou os 150 HTMLs locais. Uma renderização integral local chegou a 126/126 entradas, mas foi encerrada antes do retorno final por levar quase uma hora; a validação integral será feita pela CI após o push.
+- A run `Publish Quarto Site #63` ([36355014822](https://github.com/mancano-tales/annotated-bibliography/actions/runs/36355014822)) falhou na instalação de `here`: `install.packages()` tentou gravar em `/usr/local/lib/R/site-library`, sem permissão. As etapas de verificação de caminhos e renderização foram ignoradas. O workflow foi ajustado para usar a biblioteca gravável `$HOME/R/library` por meio de `R_LIBS_USER`; aguardar uma nova run para validar o restante.
 
 ## Critérios de conclusão
 

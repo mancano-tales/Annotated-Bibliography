@@ -29,7 +29,9 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y r-base r-cran-knitr r-cran-rmarkdown
-          Rscript -e 'install.packages("here", repos = "https://cloud.r-project.org")'
+          mkdir -p "$HOME/R/library"
+          echo "R_LIBS_USER=$HOME/R/library" >> "$GITHUB_ENV"
+          R_LIBS_USER="$HOME/R/library" Rscript -e 'install.packages("here", repos = "https://cloud.r-project.org")'
 
       - name: Check for machine-specific absolute paths
         run: Rscript tools/check_paths.R
