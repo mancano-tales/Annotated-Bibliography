@@ -1,1 +1,1 @@
-Sitemap: https://mancano-tales.github.io/Annotated-Bibliography/sitemap.xml
+Sitemap: https://mancano-tales.github.io/annotated-bibliography/sitemap.xml
