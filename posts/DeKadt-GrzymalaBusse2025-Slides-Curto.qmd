@@ -106,7 +106,8 @@ Se a teoria prediz que $A$ e $B$ co-ocorrem e a descrição demonstra que essa c
 
 \begin{block}{Triad Avaliativa (Seção 3)}
 Toda boa análise descritiva deve cumprir três critérios:
-\begin1. \textbf{Clareza} (\textit{Clear}): Conexão transparente entre teoria, pergunta e método.
+\begin{enumerate}
+  \item \textbf{Clareza} (\textit{Clear}): Conexão transparente entre teoria, pergunta e método.
   \item \textbf{Comparabilidade} (\textit{Comparable}): Sensibilidade ao contexto e ao significado local dos dados (ex.: mortes de jornalistas na Hungria; CPJ 2025).
   \item \textbf{Completude} (\textit{Complete}): Cobertura abrangente das perguntas, amostragem populacional adequada e equilíbrio entre profundidade e amplitude.
 \end{enumerate}

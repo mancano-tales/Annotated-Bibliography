@@ -3,9 +3,9 @@
 > 🚨 **CRITICAL AGENT RULES (COVENANT) — READ FIRST:**
 > - **RULE 1:** You are operating under the **Agent Covenant** framework. Every commit is audited.
 > - **RULE 2:** Any modification in `posts/`, `_quarto.yml`, or governance files REQUIRES an update in the root `NEWS.md` file, in the same commit.
-> - **RULE 3:** When completing a task or plan, you MUST run the conversation exporter to save your session log.
-> - **RULE 4:** Never perform `git add .` or `git add -A`. Add surgically only modified files.
-> - **RULE 5:** Never edit `AGENTS.md` directly — it is a hard link to `CLAUDE.md`.
+> - **RULE 3:** Export a conversation only when the author asks; never export automatically at the end of a task.
+> - **RULE 4:** Never run `git add .`, `git add -A`, or `git add -u`. Stage only in-scope files by explicit path.
+> - **RULE 5:** Edit `AGENTS.md`; `CLAUDE.md` must contain only `@AGENTS.md`.
 > - **For humans:** see [README.md](README.md) for the human sitemap.
 
 ---
@@ -38,7 +38,7 @@ quarto preview
 
 > ⚠️ **Do not run a bare `quarto render`.** A full project render **wipes `docs/` before it starts**. If it then fails partway — which happens here, because something on this machine holds brief locks on freshly written files (`os error 1224` / `os error 32` on `docs/search.json`) — you are left with a mutilated `docs/`: on 2026-07-21 this deleted 99 rendered posts plus the RSS feed and README outputs, ~246 spurious git changes. Recovery then was `git restore docs/`, because the HTML was committed.
 >
-> **Since 2026-07-31 that recovery route no longer exists**: `docs/` is no longer tracked (see NEWS 2026-07-31), so `git restore docs/` recovers nothing. This costs less than it sounds — a mutilated `docs/` is now a purely local inconvenience, since the published site is built from source by the CI and never from this folder. Rebuild with `.\code\render-posts.ps1 -All`.
+> **Since 2026-07-31 that recovery route no longer exists**: `docs/` is no longer tracked (see NEWS 2026-07-31), so `git restore docs/` recovers nothing. A damaged `docs/` is a local render problem. GitHub Actions builds from source and publishes to `gh-pages`, but the last verified Pages setting (2026-09-27) still pointed to `main:/docs`; the workflow output will not be served until the repository owner changes that setting. Rebuild local output with `.\code\render-posts.ps1 -All`.
 >
 > [`code/render-posts.ps1`](code/render-posts.ps1) avoids this by always passing `--no-clean`, retrying with backoff on lock errors, cleaning up the temp files Quarto abandons when it aborts (`*.feed-full-staged`, `*-listing.json`, stray `.html` inside `posts/`), and verifying afterwards that nothing in `docs/` was lost. If you must render the whole project, use `-All` — it still passes `--no-clean`.
 
@@ -49,10 +49,10 @@ Requirements: Quarto CLI ≥ 1.4 (tested on 1.9.37) and R (for the audit scripts
 ```r
 # Fix LLM-generated formatting issues in a single post
 # Set `nome_do_qmd` inside the script, then:
-Rscript fix_spaces.R
+Rscript code/fix_spaces.R
 
 # Audit and normalize categories across all posts in posts/
-Rscript fix_categories.R   # writes category_audit.csv
+Rscript code/fix_categories.R   # writes category_audit.csv
 ```
 
 ## Architecture
@@ -60,23 +60,24 @@ Rscript fix_categories.R   # writes category_audit.csv
 ```
 _quarto.yml          # project config: output-dir=docs, bibliography, theme, navbar
 index.qmd            # homepage listing (reads from posts/)
-posts/               # one .qmd per annotated entry (~100+ files)
+posts/               # Quarto sources; 131 use the Annotated Bibliography category
   notes/             # Zettelkasten-style concept notes (Descriptive Note type)
 prompts/             # versioned LLM prompts (spreadsheets/, podcasts/, qmd-blog-posts/)
+code/                # safe Quarto renderer and R maintenance scripts
 references.bib       # master BibTeX file (~2.2 MB, managed via Zotero)
 CATEGORIES.md        # canonical category taxonomy — single source of truth
-fix_spaces.R         # cleans LLM formatting artefacts (stray leading spaces, *** → ---)
-fix_categories.R     # normalises legacy/Portuguese category names to canonical English
-category_audit.csv   # output of fix_categories.R
+code/fix_spaces.R         # cleans LLM formatting artefacts (stray leading spaces, *** → ---)
+code/fix_categories.R     # normalises legacy/Portuguese category names to canonical English
+category_audit.csv        # output of code/fix_categories.R
 files/includes/      # HTML includes injected site-wide (Academicons, badge CSS)
 _extensions/         # Quarto extensions (Font Awesome, Academicons, Iconify)
-docs/                # local render output — NOT tracked, NOT published (see below)
+docs/                # local render output — NOT tracked; Pages source configuration is described below
 Old_Website_Posts/   # archived legacy posts; do not add new content here
 ```
 
-Deployment is automatic: GitHub Actions ([`.github/workflows/publish.yml`](.github/workflows/publish.yml)) renders the site on every push to `main` and publishes to the `gh-pages` branch.
+GitHub Actions ([`.github/workflows/publish.yml`](.github/workflows/publish.yml)) renders the site on every push to `main` and publishes to `gh-pages`. The last verified GitHub Pages setting (2026-09-27) still used legacy `main:/docs`; the repository owner must switch Pages to **GitHub Actions** (or `gh-pages`) before that workflow output is served.
 
-> ⚠️ **Pending author action — until it is done, `gh-pages` is built but not served.** As of 2026-07-31 the repository's GitHub Pages source is still `main` + `/docs` (`build_type: legacy`), the mode that predates the workflow. The workflow has been running successfully since 2026-05-04 and pushing a full site to `gh-pages` on every push — which Pages ignores entirely. Switching the Pages source (Settings → Pages) to **GitHub Actions** (or to the `gh-pages` branch) completes the migration and is what makes the statement above true. **Do not merge the `docs/` untracking work before that switch**, or the live site loses its source. Only the author can change it: it is an external-service action.
+> ⚠️ This repository setting can only be changed by the owner in Settings → Pages. Until Pages is configured for **GitHub Actions** or the `gh-pages` branch, it may continue serving the legacy `main:/docs` source instead of the workflow output.
 
 ## Post format
 

@@ -2,7 +2,17 @@
 
 > Entrada mais recente no topo.
 >
-> **Convenção de timestamp (decisão do autor, 2026-07-12 HH:mm): data sozinha não é suficiente — todo timestamp neste projeto (cabeçalho de entrada, campo `**Data/Hora**` do bloco de Metadados de Execução) deve incluir hora e minuto, formato `YYYY-MM-DD HH:MM`, Horário de Brasília (UTC-3).**
+> **Convenção de data (decisão do autor, 2026-09-26): novas entradas usam somente `YYYY-MM-DD`, sem hora; os horários exatos são os do git. Entradas históricas com hora permanecem como estão.**
+
+## 2026-09-27 — READMEs e instruções de agentes alinhados ao estado atual
+
+Atualizados os READMEs em inglês e português com a estrutura atual do repositório, a contagem baseada na categoria Quarto, os caminhos de `code/` e `prompts/`, a versão mais recente do prompt e o comando de renderização seguro. Registrada a divergência entre o destino `gh-pages` do workflow e a fonte legada do Pages, que ainda requer uma mudança pelo proprietário. Corrigidas em `AGENTS.md` as regras de exportação de conversa e a orientação sobre `CLAUDE.md`. Corrigida uma lista Beamer malformada em `DeKadt-GrzymalaBusse2025-Slides-Curto.qmd`. A renderização dos decks foi tentada pelo script seguro, mas não avançou neste ambiente; os PDFs permanecem não verificados.
+
+**Metadados de Execução**:
+- **Data**: 2026-09-27
+- **Agente**: Codex / GPT-6 / Codex desktop
+- **Mensagem do Commit**: "docs: alinha READMEs e AGENTS; corrige slide Beamer"
+- **Arquivos afetados**: `README.md`, `README.pt-br.md`, `AGENTS.md`, `NEWS.md`, `posts/DeKadt-GrzymalaBusse2025-Slides-Curto.qmd`
 
 ## 2026-08-09 17:20 — Atualização da extensão `quarto-tts-reader` para a versão 2.3.0 e re-renderização direcionada de `DeKadt-GrzymalaBusse2025`
 

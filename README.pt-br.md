@@ -14,11 +14,11 @@
 
 ## Sobre
 
-Este repositório é uma coleção aberta e pesquisável de **fichamentos acadêmicos estruturados** produzidos por [Tales Mançano](https://mancano-tales.github.io) como parte de sua pesquisa de mestrado em ciência política. O site é construído com [Quarto](https://quarto.org/) e publicado automaticamente no GitHub Pages.
+Este repositório é uma coleção aberta e pesquisável de **fichamentos acadêmicos estruturados** produzidos por [Tales Mançano](https://mancano-tales.github.io) como parte de sua pesquisa de mestrado em ciência política. O site é construído com [Quarto](https://quarto.org/); o GitHub Actions renderiza e publica o site, conforme a configuração da fonte do Pages descrita abaixo.
 
 Cada entrada é um resumo analítico detalhado, parágrafo a parágrafo, de uma obra acadêmica — livro, artigo, capítulo ou working paper — acompanhado de uma **Ficha Analítica Crítica** que avalia a pergunta de pesquisa, os métodos, o processo de geração de dados, o referencial teórico, os achados e as limitações do texto.
 
-A bibliografia contém atualmente **132 fichamentos — e crescendo** — cobrindo temas como:
+A bibliografia contém atualmente **131 entradas categorizadas como Annotated Bibliography** — e crescendo — cobrindo temas como:
 
 - **Economia política comparada** e **welfare states**
 - **Política educacional** — especialmente ensino superior, financiamento estudantil e desigualdade educacional
@@ -58,29 +58,31 @@ Cada fichamento segue um formato padronizado, gerado com auxílio de IA (LLMs) e
 
 ---
 
-## Estrutura do Repositório
+## Arquivos e Pastas Principais
 
 ```
 Annotated-Bibliography/
-├── posts/                    # 132 fichamentos (.qmd)
+├── posts/                    # 137 QMDs: 131 fichamentos, notas e apresentações
+│   └── notes/                # Notas conceituais
 ├── Old_Website_Posts/        # Posts arquivados de versões anteriores do site
-├── prompts/                  # Prompts versionados usados para gerar as entradas
-├── files/
-│   └── includes/             # Includes HTML (Academicons, Altmetric, Dimensions)
+├── prompts/                  # Prompts versionados (planilhas, podcasts, qmd-blog-posts)
+├── code/                     # Renderizador seguro e scripts R de manutenção
+├── files/includes/           # Includes HTML (Academicons, Altmetric, Dimensions)
 ├── _extensions/              # Extensões Quarto (Font Awesome etc.)
+├── .github/workflows/publish.yml # Workflow de build e publicação do GitHub Actions
 ├── _quarto.yml               # Configuração do projeto Quarto
 ├── index.qmd                 # Página inicial com listagem pesquisável
 ├── CATEGORIES.md             # Taxonomia canônica de categorias (fonte única de verdade)
 ├── references.bib            # Bibliografia mestre BibTeX (~2.2 MB)
-├── fix_categories.R          # Script R para normalizar/auditar categorias
-├── fix_spaces.R              # Script R para correções de formatação
 ├── category_audit.csv        # Saída do script de auditoria de categorias
-├── custom.css                # CSS para badges Altmetric/Dimensions inline
-├── styles.css                # Estilos adicionais do site
-├── .github/workflows/
-│   └── publish.yml           # GitHub Actions: publicação automática no push
-└── docs/                     # Saída renderizada (deploy via gh-pages)
+├── custom.css / styles.css   # Estilos específicos do site
+├── README.md / README.pt-br.md # Visões gerais em inglês e português
+├── AGENTS.md                 # Instruções para agentes (fonte de verdade)
+├── NEWS.md / TODO.md         # Histórico de mudanças e lista de tarefas
+└── docs/                     # Saída local de renderização; ignorada pelo git
 ```
+
+A contagem considera os arquivos cuja categoria no front matter Quarto é `Annotated Bibliography`. A pasta `docs/` é gerada localmente e não é versionada.
 
 ---
 
@@ -107,7 +109,7 @@ Os fichamentos são produzidos usando um **fluxo de trabalho estruturado com aux
 3. O LLM gera um arquivo `.qmd` estruturado seguindo o formato padronizado
 4. O pesquisador revisa, corrige e enriquece o output
 
-O prompt foi iterativamente refinado ao longo de **17+ versões** (de v2 a v17.2). Sua estrutura reflete a experiência acumulada do autor em múltiplos ambientes acadêmicos:
+O prompt foi iterativamente refinado ao longo de **17+ versões** (o repositório inclui versões até v17.4). Sua estrutura reflete a experiência acumulada do autor em múltiplos ambientes acadêmicos:
 
 - O **PLEA** (*Programa de Leitura e Escrita Acadêmica*) na Universidade de São Paulo (USP), seguindo o método de leitura estruturada e escrita analítica de Marcus Sacrini
 - Disciplinas de pós-graduação no **Departamento de Ciência Política (DCP) da USP**
@@ -126,12 +128,14 @@ Cada entrada registra o modelo de IA e a versão do prompt utilizados, garantind
 |:-----------|:-----------|
 | Gerador de sites estáticos | [Quarto](https://quarto.org/) (tipo website) |
 | Tema | Cosmo (Bootstrap) |
-| Deploy | GitHub Actions → GitHub Pages (branch `gh-pages`) |
+| Deploy | O GitHub Actions publica em `gh-pages`; a fonte do Pages precisa apontar para lá |
 | Bibliografia | BibTeX (`references.bib`, ~2.2 MB, gerenciado via Zotero) |
-| Gestão de categorias | Scripts R (`fix_categories.R`, `fix_spaces.R`) |
+| Gestão de categorias | Scripts R (`code/fix_categories.R`, `code/fix_spaces.R`) |
 | Extensões Quarto | Font Awesome, Academicons |
 | Badges acadêmicos | Altmetric, Dimensions, PlumX (via HTML includes) |
 | Busca | Busca nativa do Quarto (caixa de texto na navbar) |
+
+**Configuração do Pages:** o workflow publica em `gh-pages`, mas a última checagem das configurações (2026-09-27) encontrou o GitHub Pages ainda apontado para a fonte legada `main:/docs`. O proprietário do repositório precisa mudar a fonte do Pages para **GitHub Actions** (ou `gh-pages`) para que a saída do workflow seja publicada.
 
 ---
 
@@ -139,13 +143,13 @@ Cada entrada registra o modelo de IA e a versão do prompt utilizados, garantind
 
 Para construir o site localmente:
 
-```bash
+```powershell
 # Clone o repositório
 git clone https://github.com/mancano-tales/Annotated-Bibliography.git
 cd Annotated-Bibliography
 
-# Renderize o site (requer Quarto CLI instalado)
-quarto render
+# Renderize todos os posts com segurança (requer PowerShell e Quarto CLI)
+.\code\render-posts.ps1 -All
 
 # Ou pré-visualize com live reload
 quarto preview
@@ -171,4 +175,4 @@ Se este recurso for útil para você, considere linkar para o [site ao vivo](htt
 
 ---
 
-<sub>Este README foi atualizado por [Antigravity AI](https://deepmind.google/) (Gemini 3.1 Pro) em 10 de junho de 2026, com base em uma revisão completa do conteúdo e da estrutura do repositório.</sub>
+<sub>Atualizado em 2026-09-27.</sub>
