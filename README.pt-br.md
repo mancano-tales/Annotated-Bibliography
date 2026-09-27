@@ -85,6 +85,8 @@ Annotated-Bibliography/
 
 A contagem considera os arquivos cuja categoria no front matter Quarto é `Annotated Bibliography`. A pasta `docs/` é gerada localmente e não é versionada.
 
+As apresentações Beamer em `posts/` são fontes, não páginas do site; o build do site as exclui para não exigir uma instalação de LaTeX.
+
 ---
 
 ## Sistema de Categorias

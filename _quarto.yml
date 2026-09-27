@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - index.qmd
+    - posts/**/*.qmd
+    - "!posts/DeKadt-GrzymalaBusse2025-Slides*.qmd"
 
 execute:
   freeze: false

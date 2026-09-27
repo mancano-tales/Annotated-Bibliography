@@ -14,6 +14,16 @@ Aplicado o bloco de governança comum mantido no hub (`mancano-tales/mancano-rep
 >
 > **Convenção de data (decisão do autor, 2026-09-26): novas entradas usam somente `YYYY-MM-DD`, sem hora; os horários exatos são os do git. Entradas históricas com hora permanecem como estão.**
 
+## 2026-09-27 — Restringe o render do site a conteúdo publicável
+
+O CI tentava compilar as apresentações Beamer em `posts/` sem ter uma distribuição LaTeX e falhava. O render do site agora usa uma lista explícita (`index.qmd` e fontes `.qmd` de `posts/`), exclui os dois decks e não renderiza documentos internos em Markdown, como exports de conversa. O renderizador incremental também ignora os decks por padrão; a opção manual `-Posts` continua disponível para compilar um deck em um ambiente com LaTeX.
+
+**Metadados de Execução**:
+- **Data**: 2026-09-27
+- **Agente**: Codex / GPT-6 / Codex desktop
+- **Mensagem do Commit**: "fix(build): restringe render do site a conteúdo publicável"
+- **Arquivos afetados**: `_quarto.yml`, `code/render-posts.ps1`, `AGENTS.md`, `README.md`, `README.pt-br.md`, `NEWS.md`
+
 ## 2026-09-27 — READMEs e instruções de agentes alinhados ao estado atual
 
 Atualizados os READMEs em inglês e português com a estrutura atual do repositório, a contagem baseada na categoria Quarto, os caminhos de `code/` e `prompts/`, a versão mais recente do prompt e o comando de renderização seguro. Registrada a divergência entre o destino `gh-pages` do workflow e a fonte legada do Pages, que ainda requer uma mudança pelo proprietário. Corrigidas em `AGENTS.md` as regras de exportação de conversa e a orientação sobre `CLAUDE.md`. Corrigida uma lista Beamer malformada em `DeKadt-GrzymalaBusse2025-Slides-Curto.qmd`. A renderização dos decks foi tentada pelo script seguro, mas não avançou neste ambiente; os PDFs permanecem não verificados.

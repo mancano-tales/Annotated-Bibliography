@@ -85,7 +85,9 @@ function Resolve-PostPath {
 function Get-StalePosts {
     # .qmd sem .html correspondente, ou com .qmd mais novo que o .html
     $stale = @()
-    Get-ChildItem -Path (Join-Path $Root 'posts') -Filter *.qmd -Recurse -File | ForEach-Object {
+    Get-ChildItem -Path (Join-Path $Root 'posts') -Filter *.qmd -Recurse -File |
+        Where-Object { $_.Name -notlike 'DeKadt-GrzymalaBusse2025-Slides*.qmd' } |
+        ForEach-Object {
         $rel  = $_.FullName.Substring($Root.Length).TrimStart('\', '/')
         $html = Join-Path $Root ($rel -replace '\.qmd$', '.html' -replace '^posts', 'docs\posts')
         if (-not (Test-Path $html)) {

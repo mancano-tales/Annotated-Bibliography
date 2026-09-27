@@ -85,6 +85,8 @@ Annotated-Bibliography/
 
 The count above is based on the `Annotated Bibliography` category in the Quarto front matter. The `docs/` folder is generated locally and is not versioned.
 
+The Beamer slide decks under `posts/` are source files, not website pages; the site build excludes them so it does not require a LaTeX installation.
+
 ---
 
 ## Category System

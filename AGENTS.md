@@ -93,7 +93,7 @@ quarto preview
 >
 > **Since 2026-07-31 that recovery route no longer exists**: `docs/` is no longer tracked (see NEWS 2026-07-31), so `git restore docs/` recovers nothing. A damaged `docs/` is a local render problem. GitHub Actions builds from source and publishes to `gh-pages`, but the last verified Pages setting (2026-09-27) still pointed to `main:/docs`; the workflow output will not be served until the repository owner changes that setting. Rebuild local output with `.\code\render-posts.ps1 -All`.
 >
-> [`code/render-posts.ps1`](code/render-posts.ps1) avoids this by always passing `--no-clean`, retrying with backoff on lock errors, cleaning up the temp files Quarto abandons when it aborts (`*.feed-full-staged`, `*-listing.json`, stray `.html` inside `posts/`), and verifying afterwards that nothing in `docs/` was lost. If you must render the whole project, use `-All` — it still passes `--no-clean`.
+> [`code/render-posts.ps1`](code/render-posts.ps1) avoids this by always passing `--no-clean`, retrying with backoff on lock errors, cleaning up the temp files Quarto abandons when it aborts (`*.feed-full-staged`, `*-listing.json`, stray `.html` inside `posts/`), and verifying afterwards that nothing in `docs/` was lost. The project render allowlist includes `index.qmd` and `posts/**/*.qmd`, excluding the Beamer slide decks and other Markdown such as conversation exports. If you must render the whole project, use `-All` — it still passes `--no-clean`.
 
 Requirements: Quarto CLI ≥ 1.4 (tested on 1.9.37) and R (for the audit scripts).
 
@@ -195,5 +195,4 @@ Runs 4 passes on a single `.qmd` to:
 - Strip content before the first `---` and after the last `::::`
 - Remove a single leading space from lines outside code blocks and indented YAML blocks
 - Normalise indentation of the `format:` block in the YAML to the canonical 2/4-space structure
-
 
