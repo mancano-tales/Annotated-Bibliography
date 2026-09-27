@@ -1,5 +1,15 @@
 # NEWS — Decisões de Design e Evolução Metodológica (annotated-bibliography)
 
+## 2026-09-27 — Confirma o deploy da governança e do acervo reorganizado
+
+Após corrigir a biblioteca de pacotes R do runner, a run `Publish Quarto Site #64` ([36355598909](https://github.com/mancano-tales/annotated-bibliography/actions/runs/36355598909)) concluiu todas as etapas: instalação de R e `here`, verificação de caminhos locais absolutos, renderização integral do Quarto, upload do artifact e deploy para GitHub Pages. O plano #8 foi concluído.
+
+**Metadados de Execução**:
+- **Data**: 2026-09-27
+- **Agente**: Codex / GPT-6 / Codex desktop (CobaltCanyon)
+- **Mensagem do Commit**: "docs(plan): conclui revisão de governança refs #8"
+- **Arquivos afetados**: `NEWS.md`, `repo-governance/plan/README.md`, `repo-governance/plan/2026-09-27_Plano_Repo_Governance_Caminhos_e_Acervo_Legado.md`
+
 ## 2026-09-27 — Corrige a biblioteca R da CI
 
 O primeiro workflow após a migração falhou antes da busca de caminhos ou do render: o runner tentou instalar `here` em `/usr/local/lib/R/site-library`, que não permite escrita ao usuário. O workflow agora cria `$HOME/R/library`, define `R_LIBS_USER` para a etapa e instala `here` nessa biblioteca gravável. O GitHub Actions deve confirmar a instalação, a auditoria de caminhos e a renderização completa antes de encerrar o plano.
