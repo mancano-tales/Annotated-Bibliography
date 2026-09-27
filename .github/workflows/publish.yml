@@ -1,37 +1,43 @@
+name: Publish Quarto Site
+
 on:
   push:
     branches: [main]
   workflow_dispatch:
 
-name: Publish Quarto Site
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v5
-        with:
-          fetch-depth: 0
-      - name: Initialize gh-pages branch if it does not exist
-        run: |
-          if ! git ls-remote --exit-code --heads origin gh-pages > /dev/null 2>&1; then
-            git config user.email "github-actions@github.com"
-            git config user.name "github-actions"
-            git checkout --orphan gh-pages
-            git rm -rf . --quiet
-            git commit --allow-empty -m "Initialize gh-pages branch"
-            git push origin gh-pages
-            git checkout -
-          fi
+
       - uses: quarto-dev/quarto-actions/setup@v2
+
       - name: Install R runtime
         run: |
           sudo apt-get update
           sudo apt-get install -y r-base r-cran-knitr r-cran-rmarkdown
-      - uses: quarto-dev/quarto-actions/publish@v2
+
+      - name: Render Quarto site
+        run: quarto render
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          target: gh-pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          path: docs
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

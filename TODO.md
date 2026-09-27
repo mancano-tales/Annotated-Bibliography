@@ -4,6 +4,9 @@
 > Item novo entra no TOPO da seção correspondente.
 
 ## Pendente
+- [ ] Corrigir e confirmar o deploy público do GitHub Pages pelo workflow de Actions; o workflow anterior atualizava `gh-pages`, mas o endpoint seguia em erro e servia a homepage antiga.
+  - Criado: 2026-09-27 por Codex / GPT-6 (CobaltCanyon)
+  - Plano: `0-governance/plan/2026-09-27_Plano_Revisao_Metodologica_Site_e_Corpus.md` (issue #7; coordenação no hub issue #33)
 
 ## Prospectivo
 

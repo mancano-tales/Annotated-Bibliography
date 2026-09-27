@@ -1,5 +1,15 @@
 # NEWS — Decisões de Design e Evolução Metodológica (annotated-bibliography)
 
+## 2026-09-27 — Corrige o workflow de publicação do GitHub Pages
+
+A verificação HTTP do domínio encontrou a homepage antiga mesmo após um job de build verde; a API do GitHub Pages mantinha `status: errored`. O log mostrou que `quarto-actions/publish` só atualizava a branch `gh-pages`, sem fazer um deployment de artifact compatível com a fonte configurada como GitHub Actions. O workflow foi alterado para renderizar o Quarto, enviar `docs/` como Pages artifact e publicar com `actions/deploy-pages`. O plano e as issues #7/#33 foram reabertos até confirmar o deploy no domínio.
+
+**Metadados de Execução**:
+- **Data**: 2026-09-27
+- **Agente**: Codex / GPT-6 / Codex desktop (CobaltCanyon)
+- **Mensagem do Commit**: "fix(pages): publica pelo workflow nativo de Actions refs #7"
+- **Arquivos afetados**: `.github/workflows/publish.yml`, `NEWS.md`, `TODO.md`, `0-governance/plan/README.md`, `0-governance/plan/2026-09-27_Plano_Revisao_Metodologica_Site_e_Corpus.md`
+
 ## 2026-09-27 — Conclui a renomeação e os metadados públicos
 
 O repositório no GitHub e a pasta local agora usam `annotated-bibliography`. O remote local acompanha o slug. A descrição pública apresenta o processo de leitura e escrita analítica; a homepage e os dez topics metodológicos foram cadastrados. GitHub Pages publica pelo workflow de Actions, que concluiu com sucesso após o render integral de 126/126 entradas. O plano foi concluído com inventário, datas preservadas, feed e sitemap verificados e arquivos locais excluídos mantidos fora do commit.
