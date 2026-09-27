@@ -67,6 +67,7 @@ Annotated-Bibliography/
 ├── Old_Website_Posts/        # Posts arquivados de versões anteriores do site
 ├── prompts/                  # Prompts versionados (planilhas, podcasts, qmd-blog-posts)
 ├── code/                     # Renderizador seguro e scripts R de manutenção
+├── tools/                    # Utilitários de planos e NEWS para governança do repositório
 ├── files/includes/           # Includes HTML (Academicons, Altmetric, Dimensions)
 ├── _extensions/              # Extensões Quarto (Font Awesome etc.)
 ├── .github/workflows/publish.yml # Workflow de build e publicação do GitHub Actions
