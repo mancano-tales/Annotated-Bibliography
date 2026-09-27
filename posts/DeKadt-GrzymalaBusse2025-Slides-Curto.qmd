@@ -1,0 +1,141 @@
+---
+title: "Good Description (Versão Executiva)"
+subtitle: "O Papel da Descrição na Ciência Social Empírica"
+author: "Daniel de Kadt & Anna Grzymala-Busse (2025)"
+institute: "Apresentação: Tales Mançano"
+date: "9 de agosto de 2026"
+lang: pt-BR
+format:
+  beamer:
+    theme: Madrid
+    colortheme: default
+    fonttheme: professionalfonts
+    aspectratio: 169
+    slide-level: 2
+    section-titles: true
+    incremental: false
+    keep-tex: true
+    classoption: ["t", "10pt"]
+    include-in-header:
+      text: |
+        \useoutertheme{miniframes}
+        \useinnertheme{rounded}
+        \usepackage{booktabs}
+        \usepackage{tabularx}
+        \usepackage[most]{tcolorbox}
+        \author[T. Mançano | de Kadt \& Grzymala-Busse]{de Kadt \& Grzymala-Busse (2025)}
+        \AtBeginDocument{%
+          \institute[USP]{Universidade de São Paulo}%
+        }
+---
+
+# O Paradoxo e a Tese Central
+
+## O Paradoxo da Descrição nas Ciências Sociais
+
+### Tensão Disciplinar
+- **Desprezo Formal**: A descrição é frequentemente derribada como modo "inferior" frente à inferência causal (Gerring 2012; Holmes et al. 2024).
+- **Onipresença Prática**: Trabalhos descritivos continuam sendo os mais publicados e premiados na ciência política (Przeworski & Limongi 1997; Beissinger 2022).
+- **A Citação Chave (Grimmer 2015, p. 80)**:
+  \textit{"Muito do trabalho empírico dos cientistas políticos e das teorias que eles constroem é um produto direto da descrição."}
+
+### Origem do Problema
+- Falta de um **framework avaliativo coerente** para distinguir a "boa" da "mera" descrição.
+
+## A Tese Central: Unidade de Propósito Epistêmico
+
+\begin{block}{Tese Central do Artigo}
+Descrição e inferência causal \textbf{não são modos epistemologicamente distintos} de investigação. Ambas contribuem para o mesmo objetivo científico fundamental: o desenvolvimento incremental, o refinamento e a avaliação de teorias e explicações do mundo social.
+\end{block}
+
+### Princípio Fundamental
+- A boa descrição é **invariavelmente orientada pela teoria** (*theory-led*).
+- Uma boa pergunta descritiva busca revelar fatos que exigem explicação, construir novas teorias ou testar implicações de teorias existentes.
+
+
+# Fundamentação Teórica
+
+## O Critério de Holland: Manipulabilidade
+
+### Superando Definições de Linguagem Natural
+- Diferenciar por palavras ("o quê" vs. "por quê") é impreciso (Gerring 2012).
+
+### O Critério Formal (Holland 1986)
+- **Pergunta Causal**: Exige a manipulabilidade de pelo menos uma variável para ser respondida.
+- **Pergunta Descritiva**: A manipulabilidade **não** é necessária (pergunta sobre o estado real do mundo).
+
+\begin{exampleblock}{Exemplo: Raça vs. Discriminação (Sen \& Wasow 2016)}
+\begin{itemize}
+  \item \textbf{Descritiva}: \textit{Grupos raciais ganham salários diferentes?} (Raça não é manipulável).
+  \item \textbf{Causal}: \textit{A discriminação no mercado altera os salários?} (Intervenção manipulável).
+\end{itemize}
+\end{exampleblock}
+
+## A "Escada" de Perguntas de Pesquisa (DAG $A \to B$)
+
+\begin{block}{Seis Degraus da Investigação Científica}
+\begin{enumerate}
+  \item \textbf{Conceito}: O que são $A$ e $B$? (Estatuto ontológico).
+  \item \textbf{Característica}: Com que frequência ou magnitude $A$ e $B$ ocorrem?
+  \item \textbf{Associação}: $A$ e $B$ co-ocorrem na população?
+  \item \textbf{Associação Condicional}: $A$ e $B$ co-ocorrem \textit{ceteris paribus}?
+  \item \textbf{Efeito Causal}: $A$ causa uma mudança em $B$?
+  \item \textbf{Mecanismo Explicativo}: De que maneira $A$ produz o efeito em $B$?
+\end{enumerate}
+\end{block}
+
+* **Regra da Escada**: Não se pode responder a perguntas de degraus inferiores sem resolver os degraus superiores.
+
+
+# As Metas e os Critérios de Qualidade
+
+## As Três Metas Científicas da Descrição
+
+\begin{block}{Metas Fundamentais}
+\begin{enumerate}
+  \item \textbf{Refletir e Medir Teoria}: Garantir validade de construto na medição de "primitivos" sociais (riqueza, democracia, regime; Kuhn 1970; Hall 2003).
+  \item \textbf{Construir Teoria}: Revelar anomalias, \textit{outliers} e padrões inesperados via iteração abdutiva/recursiva (Tavory \& Timmermans 2014).
+  \item \textbf{Avaliar Teoria}: Testar implicações não-causais de teorias causais.
+\end{enumerate}
+\end{block}
+
+### O Poder Assimétrico da Desconfirmação
+Se a teoria prediz que $A$ e $B$ co-ocorrem e a descrição demonstra que essa co-ocorrência **não existe**, a teoria é imediatamente desconfirmada.
+
+## As Três Características da Boa Análise Descritiva
+
+\begin{block}{Triad Avaliativa (Seção 3)}
+Toda boa análise descritiva deve cumprir três critérios:
+\begin1. \textbf{Clareza} (\textit{Clear}): Conexão transparente entre teoria, pergunta e método.
+  \item \textbf{Comparabilidade} (\textit{Comparable}): Sensibilidade ao contexto e ao significado local dos dados (ex.: mortes de jornalistas na Hungria; CPJ 2025).
+  \item \textbf{Completude} (\textit{Complete}): Cobertura abrangente das perguntas, amostragem populacional adequada e equilíbrio entre profundidade e amplitude.
+\end{enumerate}
+\end{block}
+
+
+# Aplicações e Conclusão
+
+## O Alerta sobre Regressões Multivariadas
+
+### O Mau Uso de Regressões como "Apenas Descrição"
+- Regressões realizam projeções contrafactuais fora do suporte dos dados.
+
+\begin{quote}
+"A variável de controle é um dispositivo descritivo perfeitamente apropriado; o problema ocorre quando variáveis de controle são vistas como um procedimento analítico [...] Uma coisa é perguntar qual é a realização ocupacional de negros e brancos de dado nível educacional; outra é perguntar, controlando a educação, qual é o efeito da raça." --- Stanley Lieberson (1987)
+\end{quote}
+
+### Diretriz
+Para pura descrição de dados, prefira estatística não-paramétrica e estratificação direta.
+
+## Síntese Executiva e Implicações Práticas
+
+### Aportes Centrais de de Kadt \& Grzymala-Busse (2025)
+1. **Fim do Estigma**: A descrição é parceira de pleno direito da inferência causal.
+2. **Critério Formal**: Manipulabilidade de Holland como divisor de águas.
+3. **Padrão de Excelência**: Clareza, Comparabilidade e Completude.
+
+### Checklist Rápido para Pesquisadores
+- [ ] A pergunta descritiva deriva de uma teoria explícita?
+- [ ] Onde a pergunta se situa na escada ($1 \to 6$)?
+- [ ] Os dados são comparáveis e sensíveis ao contexto local?
+- [ ] O método evita inferências contrafactuais indevidas?

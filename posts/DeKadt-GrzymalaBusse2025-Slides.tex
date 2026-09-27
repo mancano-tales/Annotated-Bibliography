@@ -1,0 +1,746 @@
+% Options for packages loaded elsewhere
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+  ignorenonframetext,
+  aspectratio=169,
+  brazilian,
+  t,
+  10pt]{beamer}
+\newif\ifbibliography
+\usepackage{pgfpages}
+\setbeamertemplate{caption}[numbered]
+\setbeamertemplate{caption label separator}{: }
+\setbeamercolor{caption name}{fg=normal text.fg}
+\beamertemplatenavigationsymbolsempty
+% remove section numbering
+\setbeamertemplate{part page}{
+  \centering
+  \begin{beamercolorbox}[sep=16pt,center]{part title}
+    \usebeamerfont{part title}\insertpart\par
+  \end{beamercolorbox}
+}
+\setbeamertemplate{section page}{
+  \centering
+  \begin{beamercolorbox}[sep=12pt,center]{section title}
+    \usebeamerfont{section title}\insertsection\par
+  \end{beamercolorbox}
+}
+\setbeamertemplate{subsection page}{
+  \centering
+  \begin{beamercolorbox}[sep=8pt,center]{subsection title}
+    \usebeamerfont{subsection title}\insertsubsection\par
+  \end{beamercolorbox}
+}
+% Prevent slide breaks in the middle of a paragraph
+\widowpenalties 1 10000
+\raggedbottom
+\AtBeginPart{
+  \frame{\partpage}
+}
+\AtBeginSection{
+  \ifbibliography
+  \else
+    \frame{\sectionpage}
+  \fi
+}
+\AtBeginSubsection{
+  \frame{\subsectionpage}
+}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+
+\usetheme[]{Madrid}
+\usecolortheme[]{default}
+\usefonttheme[]{professionalfonts}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+
+
+\usepackage{longtable,booktabs,array}
+\newcounter{none} % for unnumbered tables
+\usepackage{calc} % for calculating minipage widths
+\usepackage{caption}
+% Make caption package work with longtable
+\makeatletter
+\def\fnum@table{\tablename~\thetable}
+\makeatother
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+
+
+
+\ifLuaTeX
+\usepackage[bidi=basic,shorthands=off]{babel}
+\else
+\usepackage[bidi=default,shorthands=off]{babel}
+\fi
+\ifLuaTeX
+  \usepackage{selnolig} % disable illegal ligatures
+\fi
+
+
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+ 
+
+
+\useoutertheme{miniframes}
+\useinnertheme{rounded}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage[most]{tcolorbox}
+\author[T. Mançano | de Kadt \& Grzymala-Busse]{Daniel de Kadt \& Anna Grzymala-Busse (2025)}
+\AtBeginDocument{%
+  \institute[PPGCP-USP]{Universidade de São Paulo --- PPGCP \\ Apresentação: Tales Mançano}%
+}
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Índice}
+\else
+  \newcommand\contentsname{Índice}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{Lista de Figuras}
+\else
+  \newcommand\listfigurename{Lista de Figuras}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{Lista de Tabelas}
+\else
+  \newcommand\listtablename{Lista de Tabelas}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figura}
+\else
+  \newcommand\figurename{Figura}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Tabela}
+\else
+  \newcommand\tablename{Tabela}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listagem}
+\newcommand*\listoflistings{\listof{codelisting}{Lista de Listagens}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={Good Description},
+  pdfauthor={Tales Mançano},
+  pdflang={pt-BR},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+
+\title{\texorpdfstring{Good Description}{Good Description}}
+\subtitle{\texorpdfstring{Uma Teoria da Descrição na Ciência Social
+Empírica}{Uma Teoria da Descrição na Ciência Social Empírica}}
+\author{Daniel de Kadt \& Anna Grzymala-Busse (2025)}
+\date{2026-01-01}
+\institute{Fichamento e Apresentação: Tales Mançano --- PPGCP-USP}
+
+\begin{document}
+\frame{\titlepage}
+
+
+\section{O Paradoxo e o Propósito da
+Descrição}\label{o-paradoxo-e-o-propuxf3sito-da-descriuxe7uxe3o}
+
+\begin{frame}{O Paradoxo da Descrição nas Ciências Sociais}
+\protect\phantomsection\label{o-paradoxo-da-descriuxe7uxe3o-nas-ciuxeancias-sociais}
+\begin{block}{A Tensão Disciplinar}
+\protect\phantomsection\label{a-tensuxe3o-disciplinar}
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Desprezo formal}: A descrição é frequentemente derribada ou
+  tratada como modo ``inferior'' de investigação em comparação à
+  inferência causal (Gerring 2012; Kreuzer 2019; Holmes et al.~2024).
+\item
+  \textbf{Prática empírica dominante}: Artigos e livros
+  predominantemente descritivos continuam sendo amplamente publicados
+  nos principais periódicos (\emph{APSR}, \emph{AJPS}, \emph{World
+  Politics}) e premiados pela disciplina (Przeworski \& Limongi 1997;
+  Beissinger 2022; Daly 2022; Stasavage 2020).
+\item
+  \textbf{A citação de Grimmer (2015, p.~80)}: \emph{``Muito do trabalho
+  empírico dos cientistas políticos e das teorias que eles constroem é
+  um produto direto da descrição.''}
+\end{itemize}
+\end{block}
+
+\begin{block}{A Origem do Paradoxo}
+\protect\phantomsection\label{a-origem-do-paradoxo}
+\begin{itemize}
+\tightlist
+\item
+  A ciência social carece de um \textbf{framework avaliativo coerente}
+  para a descrição.
+\item
+  Enquanto a inferência causal possui manuais, \emph{checklists} e
+  critérios formais maduros, a descrição padece de incerteza sobre o que
+  constitui uma \textbf{boa pergunta} e uma \textbf{boa análise}.
+\end{itemize}
+\end{block}
+\end{frame}
+
+\begin{frame}{O Objetivo do Artigo e a Tese Central}
+\protect\phantomsection\label{o-objetivo-do-artigo-e-a-tese-central}
+\begin{block}{Objetivos Principais}
+\protect\phantomsection\label{objetivos-principais}
+\begin{enumerate}
+\tightlist
+\item
+  \textbf{Articular o propósito científico da descrição}: O que torna
+  uma pergunta descritiva cientificamente relevante?
+\item
+  \textbf{Definir as características ideais da análise descritiva}:
+  Quais critérios permitem distinguir a ``boa'' da ``mera'' descrição?
+\end{enumerate}
+
+\begin{block}{Tese Central do Artigo}
+Descrição e inferência causal \textbf{não são modos epistemologicamente distintos} de investigação. Ambas contribuem para o mesmo objetivo científico fundamental: o desenvolvimento incremental, o refinamento e a avaliação de teorias e explicações do mundo social.
+\end{block}
+\end{block}
+
+\begin{block}{Unidade de Propósito Epistêmico}
+\protect\phantomsection\label{unidade-de-propuxf3sito-epistuxeamico}
+\begin{itemize}
+\tightlist
+\item
+  A descrição de excelência é \textbf{invariavelmente orientada pela
+  teoria} (\emph{theory-led}).
+\item
+  Uma boa pergunta descritiva busca descobrir fatos que exigem
+  explicação, construir novas teorias ou avaliar implicações de teorias
+  existentes.
+\end{itemize}
+\end{block}
+\end{frame}
+
+\section{Fundamentação Teórica e a ``Escada'' de
+Perguntas}\label{fundamentauxe7uxe3o-teuxf3rica-e-a-escada-de-perguntas}
+
+\begin{frame}{O Critério de Holland: Manipulabilidade}
+\protect\phantomsection\label{o-crituxe9rio-de-holland-manipulabilidade}
+\begin{block}{A Crítica às Definições Baseadas em Linguagem Natural}
+\protect\phantomsection\label{a-cruxedtica-uxe0s-definiuxe7uxf5es-baseadas-em-linguagem-natural}
+\begin{itemize}
+\tightlist
+\item
+  Definições tradicionais diferenciam descrição (``quem, o quê, onde,
+  quando'') de causação (``por quê'') (Gerring 2012; Holmes et
+  al.~2024).
+\item
+  \textbf{Problema de imprecisão}: Perguntas como \emph{``O que
+  aconteceu quando a intervenção X ocorreu?''} usam a linguagem de ``o
+  quê'', mas são puramente causais.
+\end{itemize}
+\end{block}
+
+\begin{block}{A Solução Formal (Holland 1986)}
+\protect\phantomsection\label{a-soluuxe7uxe3o-formal-holland-1986}
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Critério de Manipulabilidade}: Uma pergunta é \textbf{causal}
+  se exige a manipulabilidade de pelo menos uma variável para ser
+  respondida. Se a manipulabilidade \textbf{não} é necessária, a
+  pergunta é \textbf{descritiva}.
+\end{itemize}
+
+\begin{exampleblock}{Exemplo Substantivo: Raça vs. Discriminação Racial (Sen \& Wasow 2016)}
+\begin{itemize}
+  \item \textbf{Pergunta Descritiva}: \textit{Pessoas de diferentes grupos raciais ganham salários diferentes?} (Raça não é manipulável; pergunta sobre o estado real do mundo).
+  \item \textbf{Pergunta Causal}: \textit{A discriminação no mercado de trabalho ou uma política pública altera a lacuna salarial?} (Intervenção manipulável; raciocínio contrafactual).
+\end{itemize}
+\end{exampleblock}
+\end{block}
+\end{frame}
+
+\begin{frame}{A ``Escada'' de Perguntas de Pesquisa (DAG \(A \to B\))}
+\protect\phantomsection\label{a-escada-de-perguntas-de-pesquisa-dag-a-to-b}
+\begin{block}{Seis Degraus da Investigação Científica (Figura 1 do Artigo)}
+\begin{enumerate}
+  \item \textbf{Conceito}: O que são $A$ e $B$? (Estatuto ontológico e empírico).
+  \item \textbf{Característica}: Com que frequência ou magnitude $A$ e $B$ ocorrem?
+  \item \textbf{Associação}: $A$ e $B$ co-ocorrem na população?
+  \item \textbf{Associação Condicional}: $A$ e $B$ co-ocorrem \textit{ceteris paribus}?
+  \item \textbf{Efeito Causal}: $A$ causa uma mudança na probabilidade ou nível de $B$?
+  \item \textbf{Mecanismo Explicativo}: De que maneira $A$ produz o efeito em $B$?
+\end{enumerate}
+\end{block}
+
+\begin{block}{Propriedades da Escada}
+\protect\phantomsection\label{propriedades-da-escada}
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Hierarquia Lógica}: Não se pode responder de forma crível a
+  perguntas de degraus inferiores sem solucionar as perguntas dos
+  degraus superiores.
+\item
+  \textbf{Rungs 1 a 3}: Puramente descritivos.
+\item
+  \textbf{Rung 4 (Associação Condicional)}: Zona liminar ---
+  frequentemente usada como substituto euphemístico de causação (Hernán
+  2018).
+\end{itemize}
+\end{block}
+\end{frame}
+
+\begin{frame}{Teoria Causal vs.~Pergunta de Pesquisa}
+\protect\phantomsection\label{teoria-causal-vs.-pergunta-de-pesquisa}
+\begin{block}{Distinção Crucial de Níveis}
+\protect\phantomsection\label{distinuxe7uxe3o-crucial-de-nuxedveis}
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Teoria Subjacente}: Quase sempre causal (\(A \to B\)).
+\item
+  \textbf{Pergunta de Pesquisa Alvo}: Pode ser intermediária e
+  descritiva (ex.: medir a frequência de \(A\) ou a associação
+  condicional de \(A\) e \(B\)).
+\end{itemize}
+\end{block}
+
+\begin{block}{Evitando o Uso Eufemístico da Linguagem}
+\protect\phantomsection\label{evitando-o-uso-eufemuxedstico-da-linguagem}
+\begin{itemize}
+\tightlist
+\item
+  Pesquisadores frequentemente usam linguagem descritiva como
+  ``eufemismo'' por falta de identificação causal adequada (Hernán 2018;
+  Haber et al.~2022).
+\item
+  \textbf{Diretriz}: Se a evidência disponível só permite responder a
+  perguntas descritivas, deve-se formular abertamente \textbf{boas
+  perguntas descritivas}, em vez de fingir causalidade fraca.
+\end{itemize}
+\end{block}
+\end{frame}
+
+\section{As Três Metas Científicas da Boa
+Descrição}\label{as-truxeas-metas-cientuxedficas-da-boa-descriuxe7uxe3o}
+
+\begin{frame}{Meta 1: Refletir e Medir Teoria}
+\protect\phantomsection\label{meta-1-refletir-e-medir-teoria}
+\begin{block}{Medição e Validade de Construto}
+\protect\phantomsection\label{mediuxe7uxe3o-e-validade-de-construto}
+\begin{itemize}
+\tightlist
+\item
+  A medição é a função descritiva mais consensualmente aceita nas
+  ciências sociais.
+\item
+  \textbf{Orientação Teórica Necessária}: Observações não são
+  independentes da teoria (Kuhn 1970; Lakatos 1970; Hall 2003).
+\item
+  Exemplo: Índices de democracia (Przeworski \& Limongi 1997; V-Dem) ou
+  polarização urbano-rural (Huijsmans \& Rodden 2024).
+\end{itemize}
+\end{block}
+
+\begin{block}{Medição de ``Primitivos'' Sociais}
+\protect\phantomsection\label{mediuxe7uxe3o-de-primitivos-sociais}
+\begin{itemize}
+\tightlist
+\item
+  Conceitos fundamentais (\emph{primitivos}) como riqueza, tipo de
+  regime ou desigualdade exigem esforço descritivo intenso.
+\item
+  \textbf{Validade}: Medidas com baixa validade de construto comprometem
+  tanto a descrição quanto a inferência causal subsequente.
+\end{itemize}
+\end{block}
+\end{frame}
+
+\begin{frame}{Meta 2: Construir Teoria e Descobrir Padrões}
+\protect\phantomsection\label{meta-2-construir-teoria-e-descobrir-padruxf5es}
+\begin{block}{Revelando Anomalias e Quebra-Cabeças}
+\protect\phantomsection\label{revelando-anomalias-e-quebra-cabeuxe7as}
+\begin{itemize}
+\tightlist
+\item
+  A descrição abrangente permite identificar padrões, \emph{outliers} e
+  anomalias que a teoria vigente não previra.
+\item
+  Anomalias só existem contra o pano de fundo de expectativas teóricas
+  prévias.
+\end{itemize}
+\end{block}
+
+\begin{block}{Iteração Abdutiva / Recursiva}
+\protect\phantomsection\label{iterauxe7uxe3o-abdutiva-recursiva}
+\begin{itemize}
+\tightlist
+\item
+  Movimento contínuo e transparente entre dados empíricos e modelos
+  causais (Geddes 2003; Tavory \& Timmermans 2014; Humphreys \& Jacobs
+  2023).
+\item
+  A observação cuidadosa da realidade impulsiona a formulação de novas
+  hipóteses mecanísticas.
+\end{itemize}
+\end{block}
+\end{frame}
+
+\begin{frame}{Meta 3: Avaliar Teoria e Desconfirmar Implicações}
+\protect\phantomsection\label{meta-3-avaliar-teoria-e-desconfirmar-implicauxe7uxf5es}
+\begin{block}{Testando Implicações Não-Causais de Teorias Causais}
+\protect\phantomsection\label{testando-implicauxe7uxf5es-nuxe3o-causais-de-teorias-causais}
+\begin{itemize}
+\tightlist
+\item
+  Teorias causais formulam predições sobre correlações e estados do
+  mundo observáveis.
+\item
+  A descrição permite testar se essas implicações de fundo se sustentam
+  na realidade.
+\end{itemize}
+
+\begin{block}{O Poder Assimétrico da Desconfirmação}
+Se uma teoria prediz uma co-ocorrência entre $A$ e $B$ e a análise descritiva demonstra que tal co-ocorrência \textbf{não existe} (ou ocorre em direção oposta), a teoria é imediatamente falsificada ou revelada incompleta.
+\end{block}
+\end{block}
+
+\begin{block}{Avaliação de Premissas Metodológicas}
+\protect\phantomsection\label{avaliauxe7uxe3o-de-premissas-metodoluxf3gicas}
+\begin{itemize}
+\tightlist
+\item
+  A descrição histórica e contextual pode invalidar premissas de
+  identificação causal (ex.: \emph{spatial RDD} em fronteiras coloniais
+  na África; Kocher \& Monteiro 2016; Paine et al.~2025).
+\end{itemize}
+\end{block}
+\end{frame}
+
+\section{As Três Características da Boa Análise
+Descritiva}\label{as-truxeas-caracteruxedsticas-da-boa-anuxe1lise-descritiva}
+
+\begin{frame}{Os Três Critérios de Qualidade Analítica}
+\protect\phantomsection\label{os-truxeas-crituxe9rios-de-qualidade-analuxedtica}
+\begin{block}{Triad Avaliativa da Boa Descrição (Seção 3 do Artigo)}
+Para ser cientificamente valiosa, qualquer análise descritiva deve cumprir três critérios:
+\begin{enumerate}
+  \item \textbf{Clareza} (\textit{Clear}): Conexão transparente entre teoria, pergunta e método.
+  \item \textbf{Comparabilidade} (\textit{Comparable}): Sensibilidade ao contexto e significado dos dados.
+  \item \textbf{Completude} (\textit{Complete}): Abrangência populacional e analítica.
+\end{enumerate}
+\end{block}
+\end{frame}
+
+\begin{frame}{Clareza e Comparabilidade no Contexto}
+\protect\phantomsection\label{clareza-e-comparabilidade-no-contexto}
+\begin{block}{Clareza Analítica}
+\protect\phantomsection\label{clareza-analuxedtica}
+\begin{itemize}
+\tightlist
+\item
+  Alinhamento explícito: Por que descrever este fenômeno? Qual é a
+  pergunta exata? Como o método escolhido responde à pergunta?
+\end{itemize}
+\end{block}
+
+\begin{block}{Comparabilidade e Sensibilidade Contextual}
+\protect\phantomsection\label{comparabilidade-e-sensibilidade-contextual}
+\begin{itemize}
+\tightlist
+\item
+  Dados de contextos distintos (tempo, espaço, regime) nem sempre
+  possuem a mesma confiabilidade ou o mesmo significado.
+\item
+  \textbf{Exemplo de Produção de Dados}: Dados de violência contra
+  jornalistas na Hungria (CPJ 2025) mostram zero mortes, não por força
+  democrática, mas porque 80\% da mídia foi cooptada pelo estado (Carey
+  \& Gohdes 2021).
+\item
+  \textbf{O Trade-off}: Balanço entre generalização padronizada e
+  sensibilidade ao contexto local.
+\end{itemize}
+\end{block}
+\end{frame}
+
+\begin{frame}{Completude: População, Escopo e Profundidade}
+\protect\phantomsection\label{completude-populauxe7uxe3o-escopo-e-profundidade}
+\begin{block}{Três Dimensões da Completude}
+\protect\phantomsection\label{truxeas-dimensuxf5es-da-completude}
+\begin{enumerate}
+\tightlist
+\item
+  \textbf{Completude de Perguntas}: Responder a tantas perguntas
+  derivadas da teoria quanto possível.
+\item
+  \textbf{Completude Populacional}: Especificação rigorosa da população
+  inferencial e amostragem adequada.
+\item
+  \textbf{Trade-off Amplitude vs.~Profundidade}: Estudo profundo de caso
+  único ao longo do tempo vs.~estudo amplo de múltiplos casos.
+\end{enumerate}
+\end{block}
+\end{frame}
+
+\section{Mapeamento Pergunta-Método e o Uso de
+Regressão}\label{mapeamento-pergunta-muxe9todo-e-o-uso-de-regressuxe3o}
+
+\begin{frame}{Regressão Multivariada como ``Descrição''?}
+\protect\phantomsection\label{regressuxe3o-multivariada-como-descriuxe7uxe3o}
+\begin{block}{A Tensão Metodológica}
+\protect\phantomsection\label{a-tensuxe3o-metodoluxf3gica}
+\begin{itemize}
+\tightlist
+\item
+  Pesquisadores frequentemente usam regressões multivariadas com a
+  intenção declarada de ``apenas descrever os dados''.
+\item
+  \textbf{O Dilema}: A regressão por definição realiza projeções em
+  espaços contrafactuais e extrapolações fora do suporte dos dados.
+\end{itemize}
+\end{block}
+
+\begin{block}{A Advertência de Stanley Lieberson (1987, pp.~213--214)}
+\protect\phantomsection\label{a-advertuxeancia-de-stanley-lieberson-1987-pp.-213214}
+\begin{quote}
+"A variável de controle é um dispositivo descritivo perfeitamente apropriado; o problema ocorre quando variáveis de controle são vistas como um procedimento analítico. É uma coisa perguntar: qual é a realização ocupacional de negros e brancos de um dado nível educacional? É outra perguntar: controlando a educação, qual é a influência da raça na realização?"
+\end{quote}
+\end{block}
+\end{frame}
+
+\begin{frame}{Quando Condicionar Faz Sentido}
+\protect\phantomsection\label{quando-condicionar-faz-sentido}
+\begin{block}{Casos Legítimos de Condicionamento}
+\protect\phantomsection\label{casos-leguxedtimos-de-condicionamento}
+\begin{enumerate}
+\tightlist
+\item
+  \textbf{Reflexo de Teoria Condicional}: Quando a própria teoria prediz
+  que a associação é condicional a \(Z\).
+\item
+  \textbf{Evitando Conclusões Enganosas (Paradoxo de Simpson 1951)}:
+  Quando o sinal global da associação se inverte nos subgrupos.
+\item
+  \textbf{Desenhos Cavais Explicitos}: Seleção sobre observáveis /
+  \emph{matching}.
+\end{enumerate}
+\end{block}
+
+\begin{block}{Diretriz Prática}
+\protect\phantomsection\label{diretriz-pruxe1tica}
+\begin{itemize}
+\tightlist
+\item
+  Se o objetivo é puramente descrever os dados, ferramentas
+  não-paramétricas, estatísticas descritivas e estratificação direta
+  costumam ser superiores à regressão multivariada.
+\end{itemize}
+\end{block}
+\end{frame}
+
+\section{Boa Descrição na
+Prática}\label{boa-descriuxe7uxe3o-na-pruxe1tica}
+
+\begin{frame}{Diversidade de Contextos e Explicações Monocausais}
+\protect\phantomsection\label{diversidade-de-contextos-e-explicauxe7uxf5es-monocausais}
+\begin{block}{Testando Fatores Confundidores e Escopo}
+\protect\phantomsection\label{testando-fatores-confundidores-e-escopo}
+\begin{itemize}
+\tightlist
+\item
+  Comparar o mesmo fenômeno em contextos diversos permite desqualificar
+  explicações monocausais simplistas.
+\end{itemize}
+
+\begin{exampleblock}{Exemplos Empíricos da Literatura}
+\begin{itemize}
+  \item \textbf{Smartphones e Saúde Mental de Adolescentes} (Haidt 2024 vs. Sacco et al. 2024): Uso de celular é alto nos EUA e na Europa, mas depressão pré-adolescente é menor na Europa $\implies$ tese monocausal é incompleta.
+  \item \textbf{SUVs e Mortes no Trânsito} (Burn-Murdoch 2024): Vendas de SUVs dispararam em vários países ricos, mas mortes só cresceram nos EUA $\implies$ o veículo não é a causa única/independente.
+\end{itemize}
+\end{exampleblock}
+\end{block}
+\end{frame}
+
+\begin{frame}{Distribuições Estatísticas e Leis de Potência}
+\protect\phantomsection\label{distribuiuxe7uxf5es-estatuxedsticas-e-leis-de-potuxeancia}
+\begin{block}{A Informação embutida nas Distribuições}
+\protect\phantomsection\label{a-informauxe7uxe3o-embutida-nas-distribuiuxe7uxf5es}
+\begin{itemize}
+\tightlist
+\item
+  As ciências sociais assumem frequentemente distribuições normais
+  (curva de Gauss).
+\item
+  Fenômenos reais (guerras, riqueza, tamanho de cidades) seguem
+  frequentemente \textbf{Leis de Potência} (\(1/x\), Pareto, Zipf).
+\end{itemize}
+\end{block}
+
+\begin{block}{Implicações Teóricas das Power Laws}
+\protect\phantomsection\label{implicauxe7uxf5es-teuxf3ricas-das-power-laws}
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Caudas Longas}: Eventos extremos e raros ocorrem com
+  frequência muito maior que a prevista por Gauss.
+\item
+  \textbf{Natureza Fractal}: Conflitos pequenos são versões fractais de
+  grandes guerras.
+\item
+  \textbf{Interdependência}: Leis de potência resultam da
+  \emph{multiplicação} e \emph{corrupção/feedback} de variáveis,
+  violando premissas de independência (West 2017; Miller \& Page 2009).
+\end{itemize}
+\end{block}
+\end{frame}
+
+\begin{frame}{Desdobramento no Tempo e no Espaço (\emph{Process
+Tracing})}
+\protect\phantomsection\label{desdobramento-no-tempo-e-no-espauxe7o-process-tracing}
+\begin{block}{Descrição Temporal e Espacial}
+\protect\phantomsection\label{descriuxe7uxe3o-temporal-e-espacial}
+\begin{itemize}
+\tightlist
+\item
+  Rastrear a difusão, duração, ritmo e sequenciamento de fenômenos sem
+  necessariamente alegar identificação causal imediata.
+\end{itemize}
+\end{block}
+
+\begin{block}{Legados Históricos e Mecanismos}
+\protect\phantomsection\label{legados-histuxf3ricos-e-mecanismos}
+\begin{itemize}
+\tightlist
+\item
+  Argumentos de persistência histórica (Acemoglu et al.~2001; Nunn \&
+  Wantchekon 2011; Homola et al.~2020) frequentemente sofrem de
+  mecanismos de transmissão sub-especificados.
+\item
+  \textbf{Contribuição da Descrição}: Fornecer dados de resultados
+  intermediários (\emph{intermediate outcome data}) e medir a
+  ``meia-vida'' e atenuação dos legados (Cirone \& Pepinsky 2022).
+\item
+  \textbf{O Debate dos Länder Alemães} (Pepinsky et al.~2024): O
+  controle descritivo da variação estadual em educação cívica desafia
+  teses de persistência nazista direta.
+\end{itemize}
+\end{block}
+\end{frame}
+
+\section{Conclusão e Implicações
+Metodológicas}\label{conclusuxe3o-e-implicauxe7uxf5es-metodoluxf3gicas}
+
+\begin{frame}{Descrição como Parceira de Pleno Direito da Inferência
+Causal}
+\protect\phantomsection\label{descriuxe7uxe3o-como-parceira-de-pleno-direito-da-inferuxeancia-causal}
+\begin{block}{Síntese dos Aportes do Paper}
+\protect\phantomsection\label{suxedntese-dos-aportes-do-paper}
+\begin{enumerate}
+\tightlist
+\item
+  \textbf{Superação da Hierarquia Estigmatizante}: Descrição não é
+  inferência causal de segunda classe.
+\item
+  \textbf{Rigor Conceitual}: Aplicação do critério de manipulabilidade
+  (Holland 1986) e da escada de 6 degraus.
+\item
+  \textbf{Avaliação Tripartida}: Clareza, Comparabilidade e Completude
+  como padrão de excelência.
+\end{enumerate}
+
+\begin{block}{Conclusão Epistêmica}
+A boa descrição é uma arte científica teoricamente informada. Ela conecta teorias bem especificadas a métodos empíricos rigorosos, fundamentando e avaliando todo o empreendimento das ciências sociais.
+\end{block}
+\end{block}
+\end{frame}
+
+\begin{frame}{Guia de Avaliação para Pesquisadores e Teses}
+\protect\phantomsection\label{guia-de-avaliauxe7uxe3o-para-pesquisadores-e-teses}
+\begin{block}{Checklist para Leitura e Produção de Trabalhos
+Descritivos}
+\protect\phantomsection\label{checklist-para-leitura-e-produuxe7uxe3o-de-trabalhos-descritivos}
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  \textbf{Teoria}: A pergunta descritiva deriva de uma teoria
+  explicitamente declarada?
+\item[$\square$]
+  \textbf{Escada}: A análise está adequadamente posicionada na escada de
+  perguntas (\(1 \to 6\))?
+\item[$\square$]
+  \textbf{Manipulabilidade}: O texto evita ambiguidades eufemísticas
+  entre associação e causação?
+\item[$\square$]
+  \textbf{Contexto}: A mensuração considera o DGP local e a
+  comparabilidade de significado?
+\item[$\square$]
+  \textbf{Método}: O método estatístico/qualitativo é adequado para
+  descrever sem introduzir suposições contrafactuais indevidas?
+\end{itemize}
+\end{block}
+\end{frame}
+
+
+
+
+\end{document}

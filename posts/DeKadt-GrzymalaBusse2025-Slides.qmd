@@ -1,0 +1,254 @@
+---
+title: "Good Description"
+subtitle: "Uma Teoria da Descrição na Ciência Social Empírica"
+author: "Daniel de Kadt & Anna Grzymala-Busse (2025)"
+institute: "Apresentação: Tales Mançano"
+date: "9 de agosto de 2026"
+lang: pt-BR
+format:
+  beamer:
+    theme: Madrid
+    colortheme: default
+    fonttheme: professionalfonts
+    aspectratio: 169
+    slide-level: 2
+    section-titles: true
+    incremental: false
+    keep-tex: true
+    classoption: ["t", "10pt"]
+    include-in-header:
+      text: |
+        \useoutertheme{miniframes}
+        \useinnertheme{rounded}
+        \usepackage{booktabs}
+        \usepackage{tabularx}
+        \usepackage[most]{tcolorbox}
+        \author[T. Mançano | de Kadt \& Grzymala-Busse]{Daniel de Kadt \& Anna Grzymala-Busse (2025)}
+        \AtBeginDocument{%
+          \institute[USP]{Universidade de São Paulo}%
+        }
+---
+
+# O Paradoxo e o Propósito da Descrição
+
+## O Paradoxo da Descrição nas Ciências Sociais
+
+### A Tensão Disciplinar
+- **Desprezo formal**: A descrição é frequentemente derribada ou tratada como modo "inferior" de investigação em comparação à inferência causal (Gerring 2012; Kreuzer 2019; Holmes et al. 2024).
+- **Prática empírica dominante**: Artigos e livros predominantemente descritivos continuam sendo amplamente publicados nos principais periódicos (*APSR*, *AJPS*, *World Politics*) e premiados pela disciplina (Przeworski & Limongi 1997; Beissinger 2022; Daly 2022; Stasavage 2020).
+- **A citação de Grimmer (2015, p. 80)**: *"Muito do trabalho empírico dos cientistas políticos e das teorias que eles constroem é um produto direto da descrição."*
+
+### A Origem do Paradoxo
+- A ciência social carece de um **framework avaliativo coerente** para a descrição.
+- Enquanto a inferência causal possui manuais, *checklists* e critérios formais maduros, a descrição padece de incerteza sobre o que constitui uma **boa pergunta** e uma **boa análise**.
+
+## O Objetivo do Artigo e a Tese Central
+
+### Objetivos Principais
+1. **Articular o propósito científico da descrição**: O que torna uma pergunta descritiva cientificamente relevante?
+2. **Definir as características ideais da análise descritiva**: Quais critérios permitem distinguir a "boa" da "mera" descrição?
+
+\begin{block}{Tese Central do Artigo}
+Descrição e inferência causal \textbf{não são modos epistemologicamente distintos} de investigação. Ambas contribuem para o mesmo objetivo científico fundamental: o desenvolvimento incremental, o refinamento e a avaliação de teorias e explicações do mundo social.
+\end{block}
+
+### Unidade de Propósito Epistêmico
+- A descrição de excelência é **invariavelmente orientada pela teoria** (*theory-led*).
+- Uma boa pergunta descritiva busca descobrir fatos que exigem explicação, construir novas teorias ou avaliar implicações de teorias existentes.
+
+
+# Fundamentação Teórica e a "Escada" de Perguntas
+
+## O Critério de Holland: Manipulabilidade
+
+### A Crítica às Definições Baseadas em Linguagem Natural
+- Definições tradicionais diferenciam descrição ("quem, o quê, onde, quando") de causação ("por quê") (Gerring 2012; Holmes et al. 2024).
+- **Problema de imprecisão**: Perguntas como *"O que aconteceu quando a intervenção X ocorreu?"* usam a linguagem de "o quê", mas são puramente causais.
+
+### A Solução Formal (Holland 1986)
+- **Critério de Manipulabilidade**: Uma pergunta é **causal** se exige a manipulabilidade de pelo menos uma variável para ser respondida. Se a manipulabilidade **não** é necessária, a pergunta é **descritiva**.
+
+\begin{exampleblock}{Exemplo Substantivo: Raça vs. Discriminação Racial (Sen \& Wasow 2016)}
+\begin{itemize}
+  \item \textbf{Pergunta Descritiva}: \textit{Pessoas de diferentes grupos raciais ganham salários diferentes?} (Raça não é manipulável; pergunta sobre o estado real do mundo).
+  \item \textbf{Pergunta Causal}: \textit{A discriminação no mercado de trabalho ou uma política pública altera a lacuna salarial?} (Intervenção manipulável; raciocínio contrafactual).
+\end{itemize}
+\end{exampleblock}
+
+## A "Escada" de Perguntas de Pesquisa (DAG $A \to B$)
+
+\begin{block}{Seis Degraus da Investigação Científica (Figura 1 do Artigo)}
+\begin{enumerate}
+  \item \textbf{Conceito}: O que são $A$ e $B$? (Estatuto ontológico e empírico).
+  \item \textbf{Característica}: Com que frequência ou magnitude $A$ e $B$ ocorrem?
+  \item \textbf{Associação}: $A$ e $B$ co-ocorrem na população?
+  \item \textbf{Associação Condicional}: $A$ e $B$ co-ocorrem \textit{ceteris paribus}?
+  \item \textbf{Efeito Causal}: $A$ causa uma mudança na probabilidade ou nível de $B$?
+  \item \textbf{Mecanismo Explicativo}: De que maneira $A$ produz o efeito em $B$?
+\end{enumerate}
+\end{block}
+
+### Propriedades da Escada
+- **Hierarquia Lógica**: Não se pode responder de forma crível a perguntas de degraus inferiores sem solucionar as perguntas dos degraus superiores.
+- **Rungs 1 a 3**: Puramente descritivos.
+- **Rung 4 (Associação Condicional)**: Zona liminar — frequentemente usada como substituto euphemístico de causação (Hernán 2018).
+
+## Teoria Causal vs. Pergunta de Pesquisa
+
+### Distinção Crucial de Níveis
+- **Teoria Subjacente**: Quase sempre causal ($A \to B$).
+- **Pergunta de Pesquisa Alvo**: Pode ser intermediária e descritiva (ex.: medir a frequência de $A$ ou a associação condicional de $A$ e $B$).
+
+### Evitando o Uso Eufemístico da Linguagem
+- Pesquisadores frequentemente usam linguagem descritiva como "eufemismo" por falta de identificação causal adequada (Hernán 2018; Haber et al. 2022).
+- **Diretriz**: Se a evidência disponível só permite responder a perguntas descritivas, deve-se formular abertamente **boas perguntas descritivas**, em vez de fingir causalidade fraca.
+
+
+# As Três Metas Científicas da Boa Descrição
+
+## Meta 1: Refletir e Medir Teoria
+
+### Medição e Validade de Construto
+- A medição é a função descritiva mais consensualmente aceita nas ciências sociais.
+- **Orientação Teórica Necessária**: Observações não são independentes da teoria (Kuhn 1970; Lakatos 1970; Hall 2003).
+- Exemplo: Índices de democracia (Przeworski & Limongi 1997; V-Dem) ou polarização urbano-rural (Huijsmans & Rodden 2024).
+
+### Medição de "Primitivos" Sociais
+- Conceitos fundamentais (*primitivos*) como riqueza, tipo de regime ou desigualdade exigem esforço descritivo intenso.
+- **Validade**: Medidas com baixa validade de construto comprometem tanto a descrição quanto a inferência causal subsequente.
+
+## Meta 2: Construir Teoria e Descobrir Padrões
+
+### Revelando Anomalias e Quebra-Cabeças
+- A descrição abrangente permite identificar padrões, *outliers* e anomalias que a teoria vigente não previra.
+- Anomalias só existem contra o pano de fundo de expectativas teóricas prévias.
+
+### Iteração Abdutiva / Recursiva
+- Movimento contínuo e transparente entre dados empíricos e modelos causais (Geddes 2003; Tavory & Timmermans 2014; Humphreys & Jacobs 2023).
+- A observação cuidadosa da realidade impulsiona a formulação de novas hipóteses mecanísticas.
+
+## Meta 3: Avaliar Teoria e Desconfirmar Implicações
+
+### Testando Implicações Não-Causais de Teorias Causais
+- Teorias causais formulam predições sobre correlações e estados do mundo observáveis.
+- A descrição permite testar se essas implicações de fundo se sustentam na realidade.
+
+\begin{block}{O Poder Assimétrico da Desconfirmação}
+Se uma teoria prediz uma co-ocorrência entre $A$ e $B$ e a análise descritiva demonstra que tal co-ocorrência \textbf{não existe} (ou ocorre em direção oposta), a teoria é imediatamente falsificada ou revelada incompleta.
+\end{block}
+
+### Avaliação de Premissas Metodológicas
+- A descrição histórica e contextual pode invalidar premissas de identificação causal (ex.: *spatial RDD* em fronteiras coloniais na África; Kocher & Monteiro 2016; Paine et al. 2025).
+
+
+# As Três Características da Boa Análise Descritiva
+
+## Os Três Critérios de Qualidade Analítica
+
+\begin{block}{Triad Avaliativa da Boa Descrição (Seção 3 do Artigo)}
+Para ser cientificamente valiosa, qualquer análise descritiva deve cumprir três critérios:
+\begin{enumerate}
+  \item \textbf{Clareza} (\textit{Clear}): Conexão transparente entre teoria, pergunta e método.
+  \item \textbf{Comparabilidade} (\textit{Comparable}): Sensibilidade ao contexto e significado dos dados.
+  \item \textbf{Completude} (\textit{Complete}): Abrangência populacional e analítica.
+\end{enumerate}
+\end{block}
+
+## Clareza e Comparabilidade no Contexto
+
+### Clareza Analítica
+- Alinhamento explícito: Por que descrever este fenômeno? Qual é a pergunta exata? Como o método escolhido responde à pergunta?
+
+### Comparabilidade e Sensibilidade Contextual
+- Dados de contextos distintos (tempo, espaço, regime) nem sempre possuem a mesma confiabilidade ou o mesmo significado.
+- **Exemplo de Produção de Dados**: Dados de violência contra jornalistas na Hungria (CPJ 2025) mostram zero mortes, não por força democrática, mas porque 80\% da mídia foi cooptada pelo estado (Carey & Gohdes 2021).
+- **O Trade-off**: Balanço entre generalização padronizada e sensibilidade ao contexto local.
+
+## Completude: População, Escopo e Profundidade
+
+### Três Dimensões da Completude
+1. **Completude de Perguntas**: Responder a tantas perguntas derivadas da teoria quanto possível.
+2. **Completude Populacional**: Especificação rigorosa da população inferencial e amostragem adequada.
+3. **Trade-off Amplitude vs. Profundidade**: Estudo profundo de caso único ao longo do tempo vs. estudo amplo de múltiplos casos.
+
+# Mapeamento Pergunta-Método e o Uso de Regressão
+
+## Regressão Multivariada como "Descrição"?
+
+### A Tensão Metodológica
+- Pesquisadores frequentemente usam regressões multivariadas com a intenção declarada de "apenas descrever os dados".
+- **O Dilema**: A regressão por definição realiza projeções em espaços contrafactuais e extrapolações fora do suporte dos dados.
+
+### A Advertência de Stanley Lieberson (1987, pp. 213--214)
+\begin{quote}
+"A variável de controle é um dispositivo descritivo perfeitamente apropriado; o problema ocorre quando variáveis de controle são vistas como um procedimento analítico. É uma coisa perguntar: qual é a realização ocupacional de negros e brancos de um dado nível educacional? É outra perguntar: controlando a educação, qual é a influência da raça na realização?"
+\end{quote}
+
+## Quando Condicionar Faz Sentido
+
+### Casos Legítimos de Condicionamento
+1. **Reflexo de Teoria Condicional**: Quando a própria teoria prediz que a associação é condicional a $Z$.
+2. **Evitando Conclusões Enganosas (Paradoxo de Simpson 1951)**: Quando o sinal global da associação se inverte nos subgrupos.
+3. **Desenhos Cavais Explicitos**: Seleção sobre observáveis / *matching*.
+
+### Diretriz Prática
+- Se o objetivo é puramente descrever os dados, ferramentas não-paramétricas, estatísticas descritivas e estratificação direta costumam ser superiores à regressão multivariada.
+
+
+# Boa Descrição na Prática
+
+## Diversidade de Contextos e Explicações Monocausais
+
+### Testando Fatores Confundidores e Escopo
+- Comparar o mesmo fenômeno em contextos diversos permite desqualificar explicações monocausais simplistas.
+
+\begin{exampleblock}{Exemplos Empíricos da Literatura}
+\begin{itemize}
+  \item \textbf{Smartphones e Saúde Mental de Adolescentes} (Haidt 2024 vs. Sacco et al. 2024): Uso de celular é alto nos EUA e na Europa, mas depressão pré-adolescente é menor na Europa $\implies$ tese monocausal é incompleta.
+  \item \textbf{SUVs e Mortes no Trânsito} (Burn-Murdoch 2024): Vendas de SUVs dispararam em vários países ricos, mas mortes só cresceram nos EUA $\implies$ o veículo não é a causa única/independente.
+\end{itemize}
+\end{exampleblock}
+
+## Distribuições Estatísticas e Leis de Potência
+
+### A Informação embutida nas Distribuições
+- As ciências sociais assumem frequentemente distribuições normais (curva de Gauss).
+- Fenômenos reais (guerras, riqueza, tamanho de cidades) seguem frequentemente **Leis de Potência** ($1/x$, Pareto, Zipf).
+
+### Implicações Teóricas das Power Laws
+- **Caudas Longas**: Eventos extremos e raros ocorrem com frequência muito maior que a prevista por Gauss.
+- **Natureza Fractal**: Conflitos pequenos são versões fractais de grandes guerras.
+- **Interdependência**: Leis de potência resultam da *multiplicação* e *corrupção/feedback* de variáveis, violando premissas de independência (West 2017; Miller & Page 2009).
+
+## Desdobramento no Tempo e no Espaço (*Process Tracing*)
+
+### Descrição Temporal e Espacial
+- Rastrear a difusão, duração, ritmo e sequenciamento de fenômenos sem necessariamente alegar identificação causal imediata.
+
+### Legados Históricos e Mecanismos
+- Argumentos de persistência histórica (Acemoglu et al. 2001; Nunn & Wantchekon 2011; Homola et al. 2020) frequentemente sofrem de mecanismos de transmissão sub-especificados.
+- **Contribuição da Descrição**: Fornecer dados de resultados intermediários (*intermediate outcome data*) e medir a "meia-vida" e atenuação dos legados (Cirone & Pepinsky 2022).
+- **O Debate dos Länder Alemães** (Pepinsky et al. 2024): O controle descritivo da variação estadual em educação cívica desafia teses de persistência nazista direta.
+
+
+# Conclusão e Implicações Metodológicas
+
+## Descrição como Parceira de Pleno Direito da Inferência Causal
+
+### Síntese dos Aportes do Paper
+1. **Superação da Hierarquia Estigmatizante**: Descrição não é inferência causal de segunda classe.
+2. **Rigor Conceitual**: Aplicação do critério de manipulabilidade (Holland 1986) e da escada de 6 degraus.
+3. **Avaliação Tripartida**: Clareza, Comparabilidade e Completude como padrão de excelência.
+
+\begin{block}{Conclusão Epistêmica}
+A boa descrição é uma arte científica teoricamente informada. Ela conecta teorias bem especificadas a métodos empíricos rigorosos, fundamentando e avaliando todo o empreendimento das ciências sociais.
+\end{block}
+
+## Guia de Avaliação para Pesquisadores e Teses
+
+### Checklist para Leitura e Produção de Trabalhos Descritivos
+- [ ] **Teoria**: A pergunta descritiva deriva de uma teoria explicitamente declarada?
+- [ ] **Escada**: A análise está adequadamente posicionada na escada de perguntas ($1 \to 6$)?
+- [ ] **Manipulabilidade**: O texto evita ambiguidades eufemísticas entre associação e causação?
+- [ ] **Contexto**: A mensuração considera o DGP local e a comparabilidade de significado?
+- [ ] **Método**: O método estatístico/qualitativo é adequado para descrever sem introduzir suposições contrafactuais indevidas?
