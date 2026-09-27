@@ -1,5 +1,15 @@
 # NEWS — Decisões de Design e Evolução Metodológica (Annotated-Bibliography)
 
+## 2026-09-27 — Remove arquivos fora do escopo confirmado
+
+Os três arquivos excluídos do escopo confirmado foram retirados do índice do Git sem apagar as cópias locais: preferência de VS Code, saída Beamer em `.tex` e exportação de conversa. A exportação também permanece fora do render do site, conforme a lista explícita em `_quarto.yml`.
+
+**Metadados de Execução**:
+- **Data**: 2026-09-27
+- **Agente**: Codex / GPT-6 / Codex desktop
+- **Mensagem do Commit**: "chore: remove out-of-scope files refs mancano-tales/mancano-repo-hub#27"
+- **Arquivos afetados**: `NEWS.md`, `.vscode/settings.json`, `0-meta/llm-reviews/2026-08-09_1609_update-quarto-tts-reader-v230_conversa-antigravity.md`, `posts/DeKadt-GrzymalaBusse2025-Slides.tex`
+
 ## 2026-09-27 — Governança comum do ecossistema (v2026-09-26d)
 
 Aplicado o bloco de governança comum mantido no hub (`mancano-tales/mancano-repo-hub`, `tools/governanca-comum/`): planos com issue (`tools/plano_issue.py`), base do `NEWS.md` derivada do git (`tools/news_db.py`), aprovação só no chat e no plano, mensagens de agentes como pedido, cabeçalho de agente, branch/PR opcionais, `NEWS.md` junto com a mudança, **datas sem hora** e **exportar conversa só quando o autor pedir**. O bloco fica entre marcadores no `AGENTS.md`; o que é específico deste repositório foi preservado. Os READMEs também passam a listar a pasta `tools/` adicionada ao repositório.
