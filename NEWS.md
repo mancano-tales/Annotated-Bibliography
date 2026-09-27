@@ -1,5 +1,15 @@
 # NEWS — Decisões de Design e Evolução Metodológica (Annotated-Bibliography)
 
+## 2026-09-27 — Plano de revisão metodológica e editorial do site
+
+O autor aprovou a revisão automatizada do corpus e do site: inventariar e comparar fontes, preservar datas originais, remover apenas duplicatas comprovadas, reorganizar títulos e navegação, documentar a metodologia de fechamento analítico, controlar tags sistematicamente, renomear o repositório e atualizar os metadados públicos. O plano registra as exclusões e os critérios de validação; acompanhamento na issue #7 e no plano do hub, issue #33.
+
+**Metadados de Execução**:
+- **Data**: 2026-09-27
+- **Agente**: Codex / GPT-6 / Codex desktop (CobaltCanyon)
+- **Mensagem do Commit**: "docs(plan): auditoria metodologica do corpus refs #7"
+- **Arquivos afetados**: `0-governance/plan/README.md`, `0-governance/plan/2026-09-27_Plano_Revisao_Metodologica_Site_e_Corpus.md`, `TODO.md`, `NEWS.md`
+
 ## 2026-09-27 — Remove arquivos fora do escopo confirmado
 
 Os três arquivos excluídos do escopo confirmado foram retirados do índice do Git sem apagar as cópias locais: preferência de VS Code, saída Beamer em `.tex` e exportação de conversa. A exportação também permanece fora do render do site, conforme a lista explícita em `_quarto.yml`.

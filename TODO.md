@@ -4,6 +4,9 @@
 > Item novo entra no TOPO da seção correspondente.
 
 ## Pendente
+- [ ] Auditoria metodológica/editorial do corpus, reorganização do site, taxonomia de tags e renomeação do repositório/pasta local.
+  - Criado: 2026-09-27 por Codex / GPT-6 (CobaltCanyon), aprovado por Tales Mançano no chat
+  - Plano: `0-governance/plan/2026-09-27_Plano_Revisao_Metodologica_Site_e_Corpus.md` (issue #7; coordenação no hub issue #33)
 
 ## Prospectivo
 
