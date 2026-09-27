@@ -1,5 +1,15 @@
 # NEWS — Decisões de Design e Evolução Metodológica (annotated-bibliography)
 
+## 2026-09-27 — Adiciona seletor de idioma ao README
+
+O README em inglês agora apresenta um botão para abrir a versão em português.
+
+**Metadados de Execução**:
+- **Data**: 2026-09-27
+- **Agente**: Codex / GPT-6 / Codex desktop (CobaltCanyon)
+- **Mensagem do Commit**: "docs(readme): adiciona seletor de idioma"
+- **Arquivos afetados**: `README.md`, `NEWS.md`
+
 ## 2026-09-27 — Confirma o deploy da governança e do acervo reorganizado
 
 Após corrigir a biblioteca de pacotes R do runner, a run `Publish Quarto Site #64` ([36355598909](https://github.com/mancano-tales/annotated-bibliography/actions/runs/36355598909)) concluiu todas as etapas: instalação de R e `here`, verificação de caminhos locais absolutos, renderização integral do Quarto, upload do artifact e deploy para GitHub Pages. O plano #8 foi concluído.

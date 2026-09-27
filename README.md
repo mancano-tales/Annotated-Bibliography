@@ -2,6 +2,8 @@
 
 **A method-first collection of structured academic reading notes and critical analytical closures.**
 
+[![Leia em português](https://img.shields.io/badge/Leia_em_Portugu%C3%AAs-pt--BR-009739?style=for-the-badge)](README.pt-br.md)
+
 [![Publish site](https://github.com/mancano-tales/annotated-bibliography/actions/workflows/publish.yml/badge.svg)](https://github.com/mancano-tales/annotated-bibliography/actions/workflows/publish.yml)
 
 **Website:** <https://mancano-tales.github.io/annotated-bibliography/> · **Method:** [How the analytical closure works](method.qmd) · [RSS feed](https://mancano-tales.github.io/annotated-bibliography/bibliography.xml)
