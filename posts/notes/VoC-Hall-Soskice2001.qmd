@@ -5,7 +5,7 @@ author: "Tales Mançano"
 date: "2026-05-12"
 last-updated: "2026-05-12"
 categories: [Descriptive Note, Comparative Politics/Political Economy, Institutions]
-tags: [varieties-of-capitalism, hall-soskice, institutional-complementarities, comparative-institutional-advantage, LME, CME, HME, convergence-thesis, non-convergence, coordinated-market-economy, liberal-market-economy, incremental-innovation, radical-innovation]
+tags: [varieties-of-capitalism, hall-soskice, institutional-complementarities, comparative-institutional-advantage, liberal-market-economy, coordinated-market-economy, hierarchical-market-economy, convergence-thesis, non-convergence, incremental-innovation, radical-innovation]
 format:
   html:
     toc: true

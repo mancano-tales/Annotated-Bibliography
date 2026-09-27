@@ -1,5 +1,7 @@
 ---
 title: "Fichamento: Elites and the expansion of education in nineteenth-century Sweden"
+aliases:
+  - /posts/AnderssonBerger2019vLazy.html
 subtitle: "Andersson e Berger (2019)"
 author: "Tales Mançano"
 date: "2026-04-19"

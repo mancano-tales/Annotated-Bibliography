@@ -246,13 +246,13 @@ O livro oferece três contribuições principais. Primeiro, uma definição clar
 A tese central do livro é que o impacto das políticas de descentralização sobre a distribuição de poder entre executivos nacionais e subnacionais na América Latina não é uniforme nem predeterminado por estruturas partidárias ou constitucionais, mas depende crucialmente do **sequenciamento temporal** dos diferentes tipos de reforma (administrativa, fiscal, política). A autora demonstra, por meio de uma teoria sequencial e análise histórico-comparativa de quatro países, que trajetórias iniciadas com descentralização política e dominadas por interesses subnacionais (Brasil, Colômbia) produzem uma devolução significativa de poder, enquanto trajetórias iniciadas com descentralização administrativa imposta por interesses nacionais (Argentina) preservam o status quo centralizado. O caso do México ilustra uma trajetória reativa, onde a interação com a democratização inverteu uma trajetória inicialmente dominada pelo centro. A natureza do argumento é causal e processual (path-dependent). A contribuição fundamental para o debate mais amplo é demonstrar que a descentralização é um processo endógeno que gera seus próprios efeitos de feedback, e que a política territorial — os interesses dos níveis de governo — é um fator explicativo primário, frequentemente negligenciado em favor de clivagens partidárias ou de classe.
 :::
  
- ## Ficha Analítica Crítica {.unnumbered}
- 
- ::: {.callout-note}
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
 Esta seção segue o formato *IA Planilhando Textos v14.0*.
 :::
- 
- ::: {.callout-note collapse="true" icon=false}
+
+::: {.callout-note collapse="true" icon=false}
 ## Ficha Analítica — Tabela Markdown
 
 | Dimensão | Raciocínio analítico | Conteúdo |

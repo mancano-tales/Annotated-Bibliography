@@ -1,5 +1,7 @@
 ---
 title: "Fichamento: Affirmative Action and the Choice of Schools"
+aliases:
+  - /posts/Mello2023-v13.html
 subtitle: "Ursula Mello (2023)"
 author: "Tales Mançano"
 date: "2026-04-19"

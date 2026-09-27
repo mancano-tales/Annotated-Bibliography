@@ -1,0 +1,19 @@
+---
+title: "Concept notes"
+subtitle: "Cross-work syntheses that organize a concept, framework, or debate."
+listing:
+  contents: posts/notes
+  type: grid
+  fields: [title, subtitle, date, reading-time]
+  sort: "title"
+  page-size: 18
+  categories: false
+  sort-ui: false
+  filter-ui: [title, subtitle]
+page-navigation: false
+---
+
+These notes synthesize ideas across works. They are separate from fichamentos, which follow one source at a time.
+
+::: {#listing}
+:::

@@ -1,6 +1,6 @@
-# TODO — Log Transacional de Tarefas (Annotated-Bibliography)
+# TODO — Log Transacional de Tarefas (annotated-bibliography)
 
-> **Formato das entradas**: `[YYYY-MM-DD HH:MM Criado por ...] [YYYY-MM-DD HH:MM Concluído por ...] Descrição da tarefa`.
+> **Formato das entradas**: `[YYYY-MM-DD Criado por ...] [YYYY-MM-DD Concluído por ...] Descrição da tarefa`.
 > Item novo entra no TOPO da seção correspondente.
 
 ## Pendente

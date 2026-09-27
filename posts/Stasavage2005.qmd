@@ -119,7 +119,6 @@ A formalização deixa claro que o argumento depende de suposições sobre a cap
 O modelo formal produz três hipóteses: maior gasto total em educação sob competição multipartidária, maior gasto em ensino primário e nenhuma mudança no gasto universitário. O ponto decisivo é que a competição eleitoral reduz a possibilidade de gasto em rendas e obriga o governo a atender a demandas majoritárias. O autor separa, assim, dois efeitos: um efeito de volume agregado e um efeito distributivo interno ao orçamento educacional.
 
 Essa distinção é importante porque impede uma leitura simplista de “democracia gasta mais em tudo”. O argumento é mais específico: a democracia, quando opera de forma efetiva, reorienta prioridades. O texto, no entanto, deixa implícito que essa reorientação depende de que a educação seja politicamente saliente e de que as promessas eleitorais sejam críveis, condições que mais tarde aparecem como fatores contingentes e não universais.
-:::
 
 ## Evidência de casos (pp. 14–16)
 
@@ -138,7 +137,6 @@ O caso do Malawi serve como contraste e qualificação. A abolição de taxas e 
 O autor explicita que a argumentação depende de duas condições: a educação precisa ser uma questão saliente para os eleitores e os governantes precisam ter incentivos para cumprir promessas. Quando a votação se organiza sobretudo por clivagens regionais ou étnicas, a expectativa de efeito enfraquece. Isso é crucial porque impede a leitura do modelo como uma lei geral da democratização.
 
 Esse ponto também limita a generalização. Em contextos como Malawi, a polarização regional pode reduzir o retorno eleitoral de políticas nacionais, o que ajuda a explicar por que o efeito da competição sobre o gasto é menos estável. O caso sugere, portanto, que o mecanismo não é apenas “democracia” em abstrato, mas uma combinação específica de competição, saliência e estrutura de clivagens.
-:::
 
 ## Modelo e dados (pp. 16–20)
 
@@ -155,7 +153,6 @@ A medida principal de competição é um indicador de competição multipartidá
 Os controles incluem ano eleitoral, PIB per capita, proporção rural, proporção da população menor de 15 anos e ajuda externa. O autor justifica cada variável como tentativa de separar efeitos de ciclos eleitorais, riqueza, composição demográfica e pressão de doadores. Ao mesmo tempo, ele reconhece que não há boa medida da saliência da educação, o que é uma omissão substantiva para um argumento que depende justamente dessa saliência.
 
 A escolha por não usar modelo dinâmico na primeira rodada de estimativas é metodologicamente defensável diante de dados faltantes, mas também limita a capacidade de captar persistência do gasto. O autor compensa parcialmente isso com imputação múltipla e inclusão de lagged dependent variable no segundo bloco de estimativas. Ainda assim, a dependência de especificações alternativas mostra que a inferência se apoia em um conjunto de decisões técnicas que precisam ser lidas em conjunto, e não isoladamente.
-:::
 
 ## Resultados principais (pp. 20–26)
 
@@ -178,7 +175,6 @@ O resultado permanece central porque é justamente o esperado pela teoria: gover
 A ausência de efeito significativo sobre gasto universitário é um dos achados mais fortes do artigo porque coincide com a hipótese 2. O autor vai além e argumenta que intervalos de confiança permitem rejeitar aumentos substantivos, não apenas a ausência de significância. Isso fortalece a tese distributiva do argumento, já que indica priorização do primário sem expansão do terciário.
 
 Ainda assim, essa evidência depende da interpretação de que o gasto universitário é uma proxy suficientemente boa para o poder político de estudantes e elites urbanas. Como o próprio texto lembra que estudantes universitários foram atores centrais em protestos pró-democracia, o resultado também pode refletir que sua influência opera por canais não capturados pelo orçamento educacional. Em outras palavras, o “não efeito” é substantivo, mas não encerra o debate sobre poder universitário.
-:::
 
 > **Nota 2:** O texto trata a estabilidade do gasto universitário como evidência de que a competição multipartidária não reconfigura a alocação para esse setor; isso é plausível, mas não exclui influência política via outros canais.
 
@@ -197,7 +193,6 @@ Os resultados imputados mantêm o padrão geral: competição multipartidária s
 Na sequência, o autor aborda fraude eleitoral, competição de partido único, autocorrelação serial, endogeneidade da democracia e volatilidade macroeconômica. Em cada caso, os resultados permanecem majoritariamente robustos. Isso é um ponto forte do artigo: o autor não ignora ameaças conhecidas à inferência e tenta enfrentá-las de forma explícita.
 
 A fragilidade é que robustez não equivale a identificação definitiva. Alguns testes, como o uso de variável instrumental baseada no número de países africanos com multipartidarismo no ano anterior, aliviam preocupações mas também introduzem suas próprias hipóteses. O texto mostra muito bem que os resultados resistem a várias especificações, mas não prova que o mecanismo eleitoral é o único ou mesmo o principal canal.
-:::
 
 ## Conclusão (pp. 29–35)
 

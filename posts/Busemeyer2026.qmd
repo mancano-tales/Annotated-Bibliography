@@ -1,11 +1,13 @@
 ---
 title: "Fichamento: The comparative political economy of inequality: the maturation of an emerging field"
+aliases:
+  - /posts/Busemeyer2026-Sonnet-4.6.html
 subtitle: "Busemeyer, M. R. (2026). The comparative political economy of inequality: the maturation of an emerging field. *West European Politics*, 1–31. https://doi.org/10.1080/01402382.2026.2662882"
 author: "Tales Mançano"
 date: "2026-06-06"
 last-updated: "2026-06-06"
 coverage: "Obra completa"
-categories: [Annotated Bibliography, Political Economy, Inequality, Welfare State/Social Policy, Political Parties, 2026, 2020s]
+categories: [Annotated Bibliography, Comparative Politics/Political Economy, Inequality, Welfare State/Social Policy, Party Politics]
 format:
   html:
     toc: true

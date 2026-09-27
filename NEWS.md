@@ -1,4 +1,18 @@
-# NEWS — Decisões de Design e Evolução Metodológica (Annotated-Bibliography)
+# NEWS — Decisões de Design e Evolução Metodológica (annotated-bibliography)
+
+## 2026-09-27 — Revisão metodológica e racionalização do site
+
+O site foi reorganizado para apresentar um método transparente de reconstrução de argumentos e escrita de fechamentos analíticos críticos. A homepage agora direciona para páginas próprias da bibliografia, do método e das notas conceituais; os READMEs bilíngues, a navegação, os estilos e o `AGENTS.md` seguem a mesma estrutura. O guia metodológico distingue a conclusão da obra, o argumento sintético do leitor e a avaliação crítica.
+
+O inventário reproduzível compara 156 QMDs por datas, metadados, conteúdo e bibliografia. Uma duplicata idêntica foi removida após confirmação por hash e metadados; oito variantes substantivas foram preservadas no arquivo de governança. Cinco fichas incompletas ou corrompidas permanecem no repositório com suas datas e foram explicitamente retiradas do build público até recuperação ou revisão. Renomeações de fontes incluem aliases Quarto para preservar URLs antigos. Nenhuma data original foi substituída pela data desta revisão.
+
+`TAGS.md` passa a ser o registro canônico de 63 tags conceituais e `Rscript code/audit_tags.R` verifica IDs, aliases e uso. O relatório encontrou zero tags não canônicas e zero IDs registrados sem uso; tags continuam opcionais. A página da bibliografia agora oferece um feed RSS de metadados, sem duplicar o conteúdo integral das fichas. Os inventários e comparações ficam em `0-governance/audit/`. Os scripts de manutenção agora localizam o repositório relativamente ao próprio arquivo. O render completo foi validado pelo script seguro; `_quarto.yml` aponta para o caminho canônico em minúsculas e o workflow de Actions continua como mecanismo de publicação.
+
+**Metadados de Execução**:
+- **Data**: 2026-09-27
+- **Agente**: Codex / GPT-6 / Codex desktop (CobaltCanyon)
+- **Mensagem do Commit**: "feat(site): revisao metodologica e canoniza annotated-bibliography refs #7"
+- **Arquivos afetados**: `AGENTS.md`, `README.md`, `README.pt-br.md`, `NEWS.md`, `TODO.md`, `TAGS.md`, `0-governance/`, `_quarto.yml`, páginas Quarto, `styles.css`, `code/`, `tools/audit_content.R`, fichas QMD, prompts QMD
 
 ## 2026-09-27 — Plano de revisão metodológica e editorial do site
 

@@ -1,4 +1,4 @@
-# AGENTS.md — Annotated-Bibliography
+# AGENTS.md — annotated-bibliography
 
 <!-- BEGIN governanca-comum v2026-09-26d (fonte: hub, tools/governanca-comum; não editar aqui) -->
 ## Governança comum do ecossistema
@@ -52,147 +52,80 @@
   agentes"). Para conversa sobre um plano, prefira a issue.
 <!-- END governanca-comum -->
 
+# Repository-specific guidance
 
-> 🚨 **CRITICAL AGENT RULES (COVENANT) — READ FIRST:**
-> - **RULE 1:** You are operating under the **Agent Covenant** framework. Every commit is audited.
-> - **RULE 2:** Any modification in `posts/`, `_quarto.yml`, or governance files REQUIRES an update in the root `NEWS.md` file, in the same commit.
-> - **RULE 3:** Export a conversation only when the author asks; never export automatically at the end of a task.
-> - **RULE 4:** Never run `git add .`, `git add -A`, or `git add -u`. Stage only in-scope files by explicit path.
-> - **RULE 5:** Edit `AGENTS.md`; `CLAUDE.md` must contain only `@AGENTS.md`.
-> - **For humans:** see [README.md](README.md) for the human sitemap.
+For humans, start with `README.md`; for the change history, use `NEWS.md`.
 
----
+## Purpose and publication model
 
-This file provides guidance to AI Agents when working with code in this repository.
+This repository is a Quarto site for structured academic reading notes (*fichamentos*). Its public purpose is to show a traceable method for reconstructing arguments and writing critical analytical closures. The disciplines represented in the corpus are examples and context, not the site's organizing claim.
 
-## What this repository is
+- `posts/*.qmd`: source-based annotated reading notes.
+- `posts/notes/*.qmd`: cross-work concept notes, listed separately.
+- `Old_Website_Posts/`: historical source archive; do not add current work here.
+- `prompts/`: versioned drafting prompts; `code/`: maintenance and safe-render scripts.
+- `TAGS.md`: canonical tag registry, definitions, and maintenance rules.
+- `CATEGORIES.md`: canonical category taxonomy.
+- `0-governance/plan/`: active and historical plans; active plans have a GitHub issue.
+- `docs/`: local render output, ignored by git. GitHub Actions publishes the site to Pages.
 
-A Quarto website hosting Tales Mançano's annotated bibliography (*fichamentos*) — structured, paragraph-by-paragraph academic reading notes in political science, political economy, and historical sociology. Posts are generated with AI assistance using versioned prompts in `prompts/`, reviewed, and stored as `.qmd` files in `posts/`.
+`CLAUDE.md` must remain exactly `@AGENTS.md`. Edit `AGENTS.md`, not that pointer file.
 
-## Commands
+## Dates and content revisions
 
-**Rendering — use the script, not `quarto render`:**
+A QMD's `date` is the original record date. Its `last-updated` field records an original content revision when present. Editorial cleanup, file moves, metadata normalization, site redesign, and deployment do not reset either date to today. Change a date only with evidence that the existing value is wrong, and record the evidence in the plan and `NEWS.md`.
+
+When renaming or moving a published QMD, add a Quarto `aliases` entry for each previous `.html` URL and verify the generated redirect. Keep original content variants in the governance archive when they contain meaningful differences; remove a copy only after body and bibliographic metadata prove it is redundant.
+
+If a fiche ends mid-sentence, contains visibly corrupted analysis, or otherwise cannot be published reliably, preserve its source and original dates, mark `draft: true`, and add an explicit `_quarto.yml` render exclusion. Record the reason and path in `0-governance/audit/content-review.md`; do not rely on `draft-mode: unlinked` alone to hide it from direct URLs.
+
+## Authoring a reading note
+
+A source-based fiche should make the following sequence legible:
+
+1. source citation, DOI or stable reference, and page/paragraph anchors;
+2. research question or puzzle and the source's central claim;
+3. argument, mechanism, research design, evidence, and data-generation process;
+4. the source's own conclusion, kept distinct from the reader's assessment;
+5. a concise `Argumento Sintético` that states the claim, reasoning, support, and limits;
+6. a `Ficha Analítica Crítica` that evaluates the fit between question, design, evidence, inference, and scope.
+
+The synthetic argument represents the source; the critical card evaluates it. Neither should overstate what the evidence establishes. The format is adaptable when a chapter or conceptual work does not fit a causal template. The public explanation of this method lives in `method.qmd`.
+
+AI tools may assist with drafting. The author remains responsible for checking sources, citations, interpretations, and final wording. Preserve model and prompt-version details when the source records them; do not invent provenance.
+
+## Categories and tags
+
+- Assign exactly one Layer A category and use only the canonical values in `CATEGORIES.md`. Keep categories useful for broad browsing; put fine-grained concepts and methods in tags.
+- Tags are lowercase kebab-case IDs from `TAGS.md`. Do not create a new tag for a single wording variant; add or revise the registry entry first, with its definition and aliases.
+- Tags are optional when they do not improve retrieval. Do not assign them by simple keyword matching.
+- Run `Rscript code/audit_tags.R` before publishing a batch. It checks unregistered IDs, aliases, format, duplicates, and usage counts; resolve errors before commit.
+- Update `CATEGORIES.md` and the explicit alias map in `code/fix_categories.R` before adding a category. That script writes QMD metadata in place; review its mapping and the target files before running it.
+
+## Build and maintenance commands
+
+Use the safe renderer; never run bare `quarto render` because it can clean `docs/` before a failing build.
 
 ```powershell
-# Render whatever is out of date (QMD newer than its HTML), safely
+# Incremental render of changed sources
 .\code\render-posts.ps1
 
-# Render specific posts
-.\code\render-posts.ps1 -Posts Ergen-Kohl2019, DeKadt-GrzymalaBusse2025
+# Full local build, retaining output if a page fails
+.\code\render-posts.ps1 -All
 
-# Dry run
-.\code\render-posts.ps1 -WhatIf
+# Render selected source files
+.\code\render-posts.ps1 -Posts Ergen-Kohl2019,DeKadt-GrzymalaBusse2025
+
+# Validate the canonical tag registry and current QMD metadata
+Rscript code/audit_tags.R
 ```
 
-```bash
-# Preview with live reload (localhost)
-quarto preview
-```
+Quarto CLI and R are required. The GitHub workflow is `.github/workflows/publish.yml`; check its deployment status after pushing a site change.
 
-> ⚠️ **Do not run a bare `quarto render`.** A full project render **wipes `docs/` before it starts**. If it then fails partway — which happens here, because something on this machine holds brief locks on freshly written files (`os error 1224` / `os error 32` on `docs/search.json`) — you are left with a mutilated `docs/`: on 2026-07-21 this deleted 99 rendered posts plus the RSS feed and README outputs, ~246 spurious git changes. Recovery then was `git restore docs/`, because the HTML was committed.
->
-> **Since 2026-07-31 that recovery route no longer exists**: `docs/` is no longer tracked (see NEWS 2026-07-31), so `git restore docs/` recovers nothing. A damaged `docs/` is a local render problem. GitHub Actions builds from source and publishes to `gh-pages`, but the last verified Pages setting (2026-09-27) still pointed to `main:/docs`; the workflow output will not be served until the repository owner changes that setting. Rebuild local output with `.\code\render-posts.ps1 -All`.
->
-> [`code/render-posts.ps1`](code/render-posts.ps1) avoids this by always passing `--no-clean`, retrying with backoff on lock errors, cleaning up the temp files Quarto abandons when it aborts (`*.feed-full-staged`, `*-listing.json`, stray `.html` inside `posts/`), and verifying afterwards that nothing in `docs/` was lost. The project render allowlist includes `index.qmd` and `posts/**/*.qmd`, excluding the Beamer slide decks and other Markdown such as conversation exports. If you must render the whole project, use `-All` — it still passes `--no-clean`.
+## Change record and git
 
-Requirements: Quarto CLI ≥ 1.4 (tested on 1.9.37) and R (for the audit scripts).
-
-**R maintenance scripts** (edit the filename variable at the top of each script before running):
-
-```r
-# Fix LLM-generated formatting issues in a single post
-# Set `nome_do_qmd` inside the script, then:
-Rscript code/fix_spaces.R
-
-# Audit and normalize categories across all posts in posts/
-Rscript code/fix_categories.R   # writes category_audit.csv
-```
-
-## Architecture
-
-```
-_quarto.yml          # project config: output-dir=docs, bibliography, theme, navbar
-index.qmd            # homepage listing (reads from posts/)
-posts/               # Quarto sources; 131 use the Annotated Bibliography category
-  notes/             # Zettelkasten-style concept notes (Descriptive Note type)
-prompts/             # versioned LLM prompts (spreadsheets/, podcasts/, qmd-blog-posts/)
-code/                # safe Quarto renderer and R maintenance scripts
-references.bib       # master BibTeX file (~2.2 MB, managed via Zotero)
-CATEGORIES.md        # canonical category taxonomy — single source of truth
-code/fix_spaces.R         # cleans LLM formatting artefacts (stray leading spaces, *** → ---)
-code/fix_categories.R     # normalises legacy/Portuguese category names to canonical English
-category_audit.csv        # output of code/fix_categories.R
-files/includes/      # HTML includes injected site-wide (Academicons, badge CSS)
-_extensions/         # Quarto extensions (Font Awesome, Academicons, Iconify)
-docs/                # local render output — NOT tracked; Pages source configuration is described below
-Old_Website_Posts/   # archived legacy posts; do not add new content here
-```
-
-GitHub Actions ([`.github/workflows/publish.yml`](.github/workflows/publish.yml)) renders the site on every push to `main` and publishes to `gh-pages`. The last verified GitHub Pages setting (2026-09-27) still used legacy `main:/docs`; the repository owner must switch Pages to **GitHub Actions** (or `gh-pages`) before that workflow output is served.
-
-> ⚠️ This repository setting can only be changed by the owner in Settings → Pages. Until Pages is configured for **GitHub Actions** or the `gh-pages` branch, it may continue serving the legacy `main:/docs` source instead of the workflow output.
-
-## Post format
-
-### Annotated bibliographies (`posts/*.qmd`)
-
-Every annotated bibliography in `posts/` follows this structure:
-
-```yaml
----
-title: "Fichamento: [ARTICLE/CHAPTER TITLE]"
-subtitle: "[AUTHOR(S) (YEAR)]"
-author: "Tales Mançano"
-date: "YYYY-MM-DD"
-last-updated: "YYYY-MM-DD"
-categories: [Annotated Bibliography, THEME, OPTIONAL-THEME, OPTIONAL-GEOGRAPHY]
-tags: [kebab-case-concept, ...]
-format:
-  html:
-    toc: true
-    number-sections: true
-    theme: cosmo
-    highlight-style: github
-    execute: false
----
-```
-
-After the YAML, each post has:
-1. APA 7 citation
-2. Collapsible BibTeX callout (citekey pattern: `Author-etal2005`)
-3. Paragraph-by-paragraph summary organized by section (`##`) and subsection (`###`) with paragraph references `[§1–§5]`
-4. Synthetic Argument (`.callout-note` block)
-5. Critical Analytical Card — *Ficha Analítica Crítica* — a Markdown table evaluating research question, puzzle type, methods, DGP, findings, limitations, theoretical perspective, and key references
-
-### Zettelkasten / concept notes (`posts/notes/*.qmd`)
-
-The `posts/notes/` subfolder hosts **synthetic concept notes** — Zettelkasten-style entries about a single theoretical concept, debate, or analytical framework, rather than a single bibliographic work. These are different from annotated bibliographies:
-
-- **Layer A category:** always `Descriptive Note`
-- **Naming convention:** `ConceptOrDebate-MainAuthorYear.qmd` (e.g. `VoC-Hall-Soskice2001.qmd`)
-- **Structure:** free-form, but should include: (1) statement of the central puzzle or concept, (2) key mechanisms/pillars, (3) synthesis, (4) extensions/critiques, and (5) a reference list
-- **Tags:** use existing kebab-case tags; concept notes are a good place to synthesize tags that appear across many annotated bibliographies
-- **Purpose:** to distill cross-cutting theoretical knowledge that would otherwise be scattered across many individual fichamentos
-
-Do **not** apply `fix_spaces.R` to notes, as they are written directly (not LLM-generated from PDFs).
-
-## Category system
-
-Governed by [`CATEGORIES.md`](CATEGORIES.md). Three layers, ≤5 categories total per post:
-
-| Layer | Rule | Examples |
-|-------|------|---------|
-| **A — Post type** | Exactly 1, always first | `Annotated Bibliography`, `Essay` |
-| **B — Substantive theme** | 1–4 from the canonical list | `Political Economy`, `Higher Education`, `Inequality` |
-| **C — Geographic scope** | 0–1, only if the work is explicitly regional | `Brazil`, `Western Europe` |
-
-Fine-grained concepts go in `tags` (kebab-case), not categories. A tag may be promoted to a category only after appearing in 5+ posts. All changes to allowed categories must be made in `CATEGORIES.md` first, then reflected in `fix_categories.R`.
-
-## fix_spaces.R behaviour
-
-Runs 4 passes on a single `.qmd` to:
-- Replace `***` with `---` (LLM frontmatter delimiter artefact)
-- Strip content before the first `---` and after the last `::::`
-- Remove a single leading space from lines outside code blocks and indented YAML blocks
-- Normalise indentation of the `format:` block in the YAML to the canonical 2/4-space structure
-
+- Any change to `posts/`, `_quarto.yml`, the site pages, styles, or governance needs an entry in `NEWS.md` in the same commit.
+- New NEWS metadata and TODO entries use `YYYY-MM-DD` only; do not add a time.
+- Stage only explicit paths. Never use `git add .`, `git add -A`, or `git add -u`.
+- Commit messages cite the coordinating issue, for example `refs #7`; push commits soon after creating them.
+- Do not include `.vscode/`, conversation exports, generated `.tex`, local render output, or `tools/__pycache__/` unless the author explicitly expands the scope.

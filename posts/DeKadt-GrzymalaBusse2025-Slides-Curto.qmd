@@ -1,5 +1,5 @@
 ---
-title: "Good Description (Versão Executiva)"
+title: "Slides: Good Description (executive summary)"
 subtitle: "O Papel da Descrição na Ciência Social Empírica"
 author: "Daniel de Kadt & Anna Grzymala-Busse (2025)"
 institute: "Apresentação: Tales Mançano"

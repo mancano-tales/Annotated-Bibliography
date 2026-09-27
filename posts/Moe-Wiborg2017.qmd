@@ -4,6 +4,7 @@ subtitle: "Moe, T. M. & Wiborg, S. (2017)"
 author: "Tales Mançano"
 date: "2026-04-25"
 last-updated: "2026-04-25"
+draft: true
 categories: [Annotated Bibliography, Education Policy/Politics, Teacher Unionism, Vested Interests, Institutional Change, Path Dependence]
 format:
   html:
@@ -220,7 +221,7 @@ O §57 reafirma a modéstia da ambição declarada: o livro não busca prolifera
 ## Argumento Sintético
 
 ::: {.callout-note icon=false}
-## Síntese do argumento central
+## Argumento Sintético
 
 **Tese central:** Os sistemas educacionais públicos são moldados pela política em duas eras distintas — a era de formação institucional e a era de reforma baseada em desempenho — e os sindicatos de professores, como interesses criados enraizados nas instituições educacionais, comportam-se de forma previsível em ambas: buscando ampliar empregos e benefícios durante a formação, e opondo-se às reformas que ameaçam o *status quo* na era moderna. O fator que determina se os governos conseguem superar essa oposição não é o tipo de regime de bem-estar social, mas sim a presença ou ausência de veto points formais no sistema político.
 

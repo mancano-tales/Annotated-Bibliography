@@ -3,19 +3,27 @@ project:
   output-dir: docs
   render:
     - index.qmd
+    - bibliography.qmd
+    - method.qmd
+    - notes.qmd
     - posts/**/*.qmd
     - "!posts/DeKadt-GrzymalaBusse2025-Slides*.qmd"
+    - "!posts/Breen-Muller2020Incomplete.qmd"
+    - "!posts/Dobbin-Schoonhoven2010.qmd"
+    - "!posts/Gomes-etal2019.qmd"
+    - "!posts/Moe-Wiborg2017.qmd"
+    - "!posts/Sguissardi2008.qmd"
 
 execute:
   freeze: false
 
-description-meta: "Tales Mançano — Annotated Bibliography"
+description-meta: "A method-first collection of structured reading notes and critical analytical closures."
 author-meta: "Tales Mançano"
 
 website:
   title: "Annotated Bibliography"
-  description: "Fichamentos acadêmicos de Tales Mançano"
-  site-url: "https://mancano-tales.github.io/Annotated-Bibliography"
+  description: "Open-access annotated reading notes with a transparent method for reconstructing arguments and writing critical analytical closures."
+  site-url: "https://mancano-tales.github.io/annotated-bibliography/"
 
   navbar:
     background: light
@@ -24,11 +32,15 @@ website:
         href: https://mancano-tales.github.io
         target: _blank
       - text: Bibliography
-        href: index.qmd
+        href: bibliography.qmd
+      - text: Method
+        href: method.qmd
+      - text: Concept notes
+        href: notes.qmd
 
     right:
       - icon: github
-        href: https://github.com/mancano-tales/Annotated-Bibliography
+        href: https://github.com/mancano-tales/annotated-bibliography
         target: _blank
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app
@@ -37,10 +49,10 @@ website:
   page-navigation: true
 
   page-footer:
-    left: "[Tales Mançano](https://mancano-tales.github.io) &copy; <script>document.write(new Date().getFullYear())</script>"
+    left: "[Tales Mançano](https://mancano-tales.github.io) &copy; <script>document.write(new Date().getFullYear())</script> · Method-first reading notes"
     right:
       - icon: github
-        href: https://github.com/mancano-tales/Annotated-Bibliography
+        href: https://github.com/mancano-tales/annotated-bibliography
         target: _blank
 
   search:

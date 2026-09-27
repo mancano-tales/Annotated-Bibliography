@@ -1,1 +1,144 @@
-/* css styles */
+/* A calm editorial frame for the reading-note collection. */
+:root {
+  --bs-primary: #245a65;
+  --bs-primary-rgb: 36, 90, 101;
+  --reading-ink: #17252b;
+  --reading-muted: #52656d;
+  --reading-line: #dbe5e7;
+  --reading-paper: #fbfcfa;
+}
+
+body {
+  color: var(--reading-ink);
+  background: var(--reading-paper);
+  line-height: 1.72;
+}
+
+.navbar {
+  border-bottom: 1px solid var(--reading-line);
+  box-shadow: 0 2px 12px rgb(23 37 43 / 4%);
+}
+
+.navbar-brand,
+.navbar .nav-link {
+  font-weight: 600;
+}
+
+.quarto-title-block .title {
+  max-width: 20ch;
+  font-size: clamp(2.25rem, 5vw, 4rem);
+  line-height: 1.08;
+  letter-spacing: -0.035em;
+}
+
+.quarto-title-block .subtitle {
+  max-width: 64ch;
+  color: var(--reading-muted);
+  font-size: clamp(1.05rem, 2vw, 1.3rem);
+}
+
+#quarto-content {
+  padding-bottom: 3rem;
+}
+
+#quarto-content p,
+#quarto-content li {
+  max-width: 78ch;
+}
+
+#quarto-content h2 {
+  margin-top: 2.5rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--reading-line);
+  letter-spacing: -0.02em;
+}
+
+.page-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 1.5rem 0 2.5rem;
+}
+
+.page-actions .btn {
+  padding: 0.7rem 1rem;
+  border-radius: 0.55rem;
+  font-weight: 650;
+}
+
+.quarto-listing .quarto-grid-item {
+  overflow: hidden;
+  border: 1px solid var(--reading-line);
+  border-radius: 0.7rem;
+  box-shadow: 0 4px 16px rgb(23 37 43 / 5%);
+  transition: transform 150ms ease, box-shadow 150ms ease;
+}
+
+.quarto-listing .quarto-grid-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 9px 24px rgb(23 37 43 / 10%);
+}
+
+.quarto-listing .listing-title {
+  line-height: 1.35;
+}
+
+.quarto-listing .listing-subtitle,
+.quarto-listing .listing-date,
+.quarto-listing .listing-reading-time {
+  color: var(--reading-muted);
+}
+
+.quarto-listing .listing-category {
+  border: 1px solid var(--reading-line);
+  border-radius: 999px;
+  background: #f0f5f4;
+  color: #31545a;
+  font-size: 0.76rem;
+}
+
+.quarto-title-meta,
+.quarto-title-meta-heading {
+  color: var(--reading-muted);
+}
+
+table {
+  border-color: var(--reading-line);
+}
+
+blockquote {
+  border-left-color: var(--bs-primary);
+  color: var(--reading-muted);
+}
+
+@media (max-width: 575.98px) {
+  .page-actions {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .page-actions .btn {
+    width: 100%;
+  }
+}
+
+@media print {
+  .navbar,
+  .page-actions,
+  .quarto-listing,
+  #TOC,
+  .quarto-title-meta {
+    display: none !important;
+  }
+
+  body {
+    color: #000;
+    background: #fff;
+    font-size: 11pt;
+  }
+
+  #quarto-content p,
+  #quarto-content li {
+    max-width: none;
+  }
+}

@@ -1,0 +1,27 @@
+---
+title: "Browse the bibliography"
+subtitle: "Structured reading notes with searchable metadata and a consistent analytical framework."
+listing:
+  contents: posts
+  type: grid
+  fields: [title, subtitle, date, reading-time]
+  include:
+    categories: "Annotated Bibliography"
+  sort: "date desc"
+  page-size: 18
+  categories: false
+  sort-ui: [title, date]
+  filter-ui: [title, subtitle]
+  feed:
+    items: 20
+    type: metadata
+    title: "Annotated Bibliography — Recent Reading Notes"
+    description: "Open-access reading notes with a transparent method for reconstructing academic arguments and writing critical analytical closures."
+page-navigation: false
+---
+
+Use the search field to find a work by title or author. Dates are the original record dates stored with each reading note; they are not reset when the site is revised.
+
+::: {#listing}
+:::
+

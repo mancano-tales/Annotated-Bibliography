@@ -1,5 +1,8 @@
 ---
 title: "Fichamento: Late and unequal: measuring enrolments and retention in Brazilian education, 1933–2010"
+aliases:
+  - /posts/Kang-etal2021-Perplexity-Best.html
+  - /posts/Kang-etal2021-Perplexity-Sonnet.html
 subtitle: "Kang, Paese & Felix (2021)"
 author: "Tales Mançano"
 date: "2026-04-19"

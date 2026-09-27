@@ -1,5 +1,7 @@
 ---
 title: "Fichamento: Who polarises? Who targets? Parties' educational speech over the long run"
+aliases:
+  - /posts/Gingrich-Giudici2025%20Who%20Polarises.html
 subtitle: "Jane Gingrich & Anja Giudici (2025)"
 author: "Tales Mançano"
 date: "2026-04-19"

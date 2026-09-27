@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Fichamento: Education and Intergenerational Social Mobility in Europe and the United States"
 subtitle: "Breen, R. & Müller, W. (Eds.) (2020) — Stanford University Press"
 author: "Tales Mançano"

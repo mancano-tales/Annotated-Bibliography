@@ -166,7 +166,7 @@ onde $W_{it}$ é a participação do top 1% (com interpolação linear para dado
 ## Argumento Sintético
 
 ::: {.callout-note icon=false}
-## Síntese do argumento
+## Argumento Sintético
 
 **Tese central:** Democracia e desigualdade de riqueza são sustentáveis juntas — o argumento de que democracia produz igualdade de riqueza e de que desigualdade de riqueza leva ao fracasso democrático não é sustentado pelas evidências disponíveis.
 

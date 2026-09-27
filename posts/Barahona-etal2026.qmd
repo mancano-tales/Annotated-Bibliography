@@ -1,5 +1,8 @@
 ---
 title: "Fichamento: Equilibrium Price Responses to Targeted Student Financial Aid"
+aliases:
+  - /posts/Barahona-etal2026-Fies.html
+  - /posts/Barahona-etal2026-FIES-and-Tuittion-fees.html
 subtitle: "Barahona, Dobbin & Otero (2026)"
 author: "Tales Mançano"
 date: "2026-04-18"

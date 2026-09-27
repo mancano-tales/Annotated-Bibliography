@@ -144,7 +144,6 @@ A qualidade do ensino, identificada como "o maior problema do sistema educaciona
 
 A autora recorre ao conceito de **"pedagogia da repetência"**, cunhado por Sérgio Costa Ribeiro, para explicar a aparente contradição entre a expansão de matrículas e a queda na qualidade. Ela argumenta que o antigo sistema de ensino público, tido como de excelência, baseava-se em altíssimas taxas de reprovação e evasão, que funcionavam como um sistema de "peneiras cada vez mais finas". Esse processo seletivo excluía precocemente a maioria dos alunos de famílias menos escolarizadas, fazendo com que apenas os melhores — e socialmente mais favorecidos — sobrevivessem até o final do percurso escolar. A qualidade do sistema era, portanto, uma ilusão criada pela exclusão. Para ilustrar esse mecanismo, Durham apresenta a **Tabela 3**, que demonstra o alto grau de exclusão escolar em 1985: de cada 100 alunos que ingressavam na 1ª série em 1978, apenas 18 concluíam a 8ª série.
 
-:::
 | Ano | 1ª | 2ª | 3ª | 4ª | 5ª | 6ª | 7ª | 8ª |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1978 | 650,223 (100%) | | | | | | | |
@@ -155,7 +154,6 @@ A autora recorre ao conceito de **"pedagogia da repetência"**, cunhado por Sér
 | 1983 | | | | | | 188,603 (29%) | | |
 | 1984 | | | | | | | 150,988 (23,2%) | |
 | 1985 | | | | | | | | 119,091 (18,3%) |
-:::
 
 *Fonte: Goldemberg e Durham. “A educação no Brasil”, 1993.*
 

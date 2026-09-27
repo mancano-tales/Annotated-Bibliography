@@ -176,7 +176,7 @@ Dye fornece o caso da indústria açucareira cubana. De 1880 a 1920, as institui
 ## Argumento Sintético
 
 ::: {.callout-note icon=false}
-## Síntese Argumentativa
+## Argumento Sintético
 
 **Tese central:** As instituições econômicas são politicamente determinadas e não podem ser estudadas isoladamente das instituições políticas que as geram; portanto, testar o New Institutionalism exige casos históricos com mudança institucional dramática, dados quantitativos adequados e análise que articule história, economia e ciência política.
 

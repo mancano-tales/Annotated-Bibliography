@@ -1,6 +1,10 @@
 library(tidyverse)
 
-posts_dir <- "C:/Users/Mancano/Documents/MancanoSync/Annotated-Bibliography/posts"
+args <- commandArgs(trailingOnly = FALSE)
+script_arg <- sub("^--file=", "", args[grepl("^--file=", args)])
+script_path <- normalizePath(script_arg[[1]], winslash = "/", mustWork = TRUE)
+repo_root <- normalizePath(file.path(dirname(script_path), ".."), winslash = "/", mustWork = TRUE)
+posts_dir <- file.path(repo_root, "posts")
 
 # ── Canonical mapping ─────────────────────────────────────────────────────────
 # Keys   : raw/legacy category names (Portuguese or non-standard English)
@@ -256,7 +260,7 @@ fix_file_categories <- function(filepath, mapping, dry_run = FALSE) {
 }
 
 # ── Run ───────────────────────────────────────────────────────────────────────
-files   <- list.files(posts_dir, pattern = "\\.qmd$", full.names = TRUE)
+files   <- list.files(posts_dir, pattern = "\\.qmd$", recursive = TRUE, full.names = TRUE)
 results <- map_lgl(files, fix_file_categories, mapping = mapping, dry_run = FALSE)
 
 cat(sprintf("Updated %d / %d files.\n", sum(results), length(files)))

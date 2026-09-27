@@ -1,21 +1,39 @@
 ---
-title: "Annotated Bibliography"
-subtitle: "Fichamentos acadêmicos em ciência política, economia política e sociologia histórica"
+title: "A method-first library of reading notes"
+subtitle: "A transparent workflow for reconstructing arguments and writing critical analytical closures."
 page-layout: full
 listing:
+  contents: posts
+  type: grid
+  fields: [title, subtitle, date, reading-time]
+  include:
+    categories: "Annotated Bibliography"
   sort: "date desc"
-  type: default
-  page-size: 100
-  categories: true
-  sort-ui: true
-  filter-ui: true
-  feed: true
-  contents:
-    - posts
+  page-size: 6
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  feed: false
 draft-mode: unlinked
 page-navigation: false
 title-block-banner: false
 ---
 
-:::{#listing}
+## Read with a clear method
+
+This open collection turns academic works into structured reading notes. Each fiche makes its route visible: it identifies the question, reconstructs the author's argument, follows the evidence, and closes with a concise synthesis and a critical assessment of what the work can establish.
+
+The focus is the craft of careful reading and analytical writing. The notes complement the original works; they do not replace them.
+
+::: {.page-actions}
+[Browse the bibliography](bibliography.qmd){.btn .btn-primary}
+[How the analytical closure works](method.qmd){.btn .btn-outline-primary}
+[Explore concept notes](notes.qmd){.btn .btn-outline-secondary}
+:::
+
+## Recent reading notes
+
+The dates below are the dates recorded in each source file and are preserved when the site is revised.
+
+::: {#listing}
 :::

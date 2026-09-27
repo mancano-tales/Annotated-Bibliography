@@ -9,11 +9,12 @@
 
 nome_do_qmd <- "Palier-etal2022"   # ex: "Fernandes2005"
 
-path <- paste0(
-  "C:/Users/Mancano/Documents/MancanoSync/Annotated-Bibliography/posts/",
-  nome_do_qmd,
-  ".qmd"
-)
+args <- commandArgs(trailingOnly = FALSE)
+script_arg <- sub("^--file=", "", args[grepl("^--file=", args)])
+script_path <- normalizePath(script_arg[[1]], winslash = "/", mustWork = TRUE)
+repo_root <- normalizePath(file.path(dirname(script_path), ".."), winslash = "/", mustWork = TRUE)
+path <- file.path(repo_root, "posts", paste0(nome_do_qmd, ".qmd"))
+if (!file.exists(path)) stop("Arquivo não encontrado: ", nome_do_qmd, ".qmd")
 
 for (.pass in 1:4) {
 cat("\n── Passagem", .pass, "de 4 ──────────────────────────────────────────────\n")

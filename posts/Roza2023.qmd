@@ -6,7 +6,7 @@ date: "2026-05-08"
 last-updated: "2026-05-08"
 coverage: "Obra completa"
 categories: [Annotated Bibliography, Higher Education Policy, Inequality, Brazil]
-tags: [horizontal-stratification, affirmative-action, ENADE, cluster-analysis, MMI, EMI, PROUNI, FIES, Lei-de-Cotas, descriptive-analysis]
+tags: [horizontal-stratification, affirmative-action, enade, cluster-analysis, maximally-maintained-inequality, effectively-maintained-inequality, prouni, fies, lei-de-cotas, descriptive-analysis]
 format:
   html:
     toc: true

@@ -1,5 +1,7 @@
 ---
 title: "Fichamento: Latecomer State Formation — Political Geography and Capacity Failure in Latin America"
+aliases:
+  - /posts/Mazzuca2021%20DeepSeek%20v15.html
 subtitle: "Mazzuca (2021)"
 author: "Tales Mançano"
 date: "2026-04-19"

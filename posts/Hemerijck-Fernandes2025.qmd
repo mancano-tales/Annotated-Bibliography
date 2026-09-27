@@ -192,7 +192,7 @@ Os autores reconhecem, no entanto, que a eficácia do RRF em promover a reforma 
 ## Argumento Sintético
 
 ::: {.callout-note icon=false}
-## Síntese do argumento central
+## Argumento Sintético
 
 **Tese central:** A provisão de bem-estar orientada ao investimento social gera um "dividendo econômico" positivo — em termos de maior emprego, produtividade, equidade de gênero, sustentabilidade fiscal e redução da pobreza —, desde que as políticas de *stock*, *flow* e *buffer* sejam desenhadas de maneira complementar ao longo do curso de vida, refutando empiricamente o *trade-off* clássico entre equidade e eficiência.
 

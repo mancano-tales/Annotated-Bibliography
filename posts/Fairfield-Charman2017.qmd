@@ -259,7 +259,7 @@ Os autores estratificam os contextos de aplicação por valor esperado:
 ## Argumento Sintético
 
 ::: {.callout-note icon=false}
-## Síntese do Argumento
+## Argumento Sintético
 
 **Tese central:** O artigo argumenta que a análise bayesiana explícita, fundamentada no bayesianismo "lógico" das ciências físicas (Cox 1961; Jaynes 2003) e não no bayesianismo "psicológico" predominante na ciência política, oferece o arcabouço metodológico mais rigoroso para o *process tracing* qualitativo — mas somente se corretamente operacionalizada mediante comparação de hipóteses rivais concretas, avaliação de razões de verossimilhança condicionadas nas evidências previamente incorporadas, e uso de escalas logarítmicas (decibéis) para atribuição de valores.
 

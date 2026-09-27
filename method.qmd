@@ -1,0 +1,66 @@
+---
+title: "How the analytical closure works"
+subtitle: "A visible, repeatable sequence from source argument to critical assessment."
+toc: true
+page-navigation: true
+---
+
+The *fechamento analítico* (analytical closure) is the final act of a reading note: it states what the source argues, what its evidence supports, and where the inference stops. It is written after reconstructing the work, so evaluation follows the author's reasoning rather than replacing it with a verdict.
+
+## The sequence
+
+### 1. Establish the source record
+
+Record the full citation, publication details, DOI or stable link, and the source's own date. Keep quotations, page references, and paragraph markers close to the claims they support. If a detail is unavailable, mark it as unavailable instead of guessing.
+
+### 2. Reconstruct the argument
+
+Identify the research question or central problem, the puzzle that motivates the work, the main claim, and the mechanism or reasoning connecting them. Follow the text's own structure and preserve important distinctions between a hypothesis, an observed pattern, and a causal conclusion.
+
+### 3. Trace the evidence
+
+Describe the research design, cases or units, sources, measures, and data-generation process. Explain how the evidence bears on the claim. Note assumptions, rival explanations, missing observations, and the conditions under which the argument should apply.
+
+### 4. Write the synthetic argument
+
+The section titled **Synthetic Argument** (*Argumento Sintético*) compresses the reconstructed reasoning into one concise passage. It should make four things legible:
+
+- the claim and its mechanism;
+- the evidence that carries the claim;
+- what the work demonstrates, supports, or proposes;
+- what remains uncertain or outside its scope.
+
+This synthesis represents the source faithfully. It is not yet the reader's final evaluation.
+
+### 5. Complete the critical analytical card
+
+The **Critical Analytical Card** (*Ficha Analítica Crítica*) assesses whether the question, design, evidence, and conclusion fit together. It records methodological strengths and weaknesses, the research's data-generation process, alternative explanations, limitations, scope conditions, and the contribution to the debate. A criticism should identify its basis in the text or evidence and distinguish an author's own caveat from the reader's assessment.
+
+## Three statements that must stay distinct
+
+| Part | Question it answers |
+|---|---|
+| Source conclusion | What do the authors conclude, and what evidence do they cite? |
+| Synthetic argument | What is the shortest faithful reconstruction of the claim, reasoning, support, and limits? |
+| Critical assessment | How well does the design and evidence justify that claim, and under what conditions? |
+
+The note should not merge these into an unqualified endorsement or rejection. When evidence is thin, disagreement is real, or a chapter has a narrower purpose than the whole book, the closure should say so.
+
+## Quality check
+
+Before publication, check that the closure:
+
+1. answers the question introduced by the source;
+2. names the evidence and reasoning behind its main claim;
+3. distinguishes description, association, mechanism, and causal inference;
+4. identifies at least one material limitation or scope condition where applicable;
+5. does not claim more than the source or the fiche can support;
+6. keeps the source's conclusion separate from the reader's critical assessment.
+
+The analytical template is a guide, not a scoring rubric. It can be shortened for conceptual chapters, books, or works whose evidence does not fit a single causal template. The reason for any departure should be clear in the note.
+
+## Authorship and revision
+
+Language models may assist with extraction and drafting. The author remains responsible for checking the source, citations, interpretation, and final wording. Where recorded, the fiche retains the model and prompt version used; assistance does not establish that a claim is true. Corrections should improve fidelity and traceability, not make the analysis appear more certain than the source allows.
+
+Editorial revisions to the website preserve each entry's original `date` and `last-updated` values. Those fields describe the source record and are not reset to the date of a site redesign.

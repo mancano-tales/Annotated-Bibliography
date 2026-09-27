@@ -1,5 +1,7 @@
 ---
 title: "Fichamento: Welfare regimes in twenty-first-century Latin America"
+aliases:
+  - /posts/Ferre2023v13-DeepSeek.html
 subtitle: "Ferre (2023)"
 author: "Tales Mançano"
 date: "2026-04-19"
