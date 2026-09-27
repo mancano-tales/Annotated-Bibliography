@@ -1,5 +1,15 @@
 # NEWS — Decisões de Design e Evolução Metodológica (annotated-bibliography)
 
+## 2026-09-27 — Confirma a publicação pública da versão revisada
+
+O workflow nativo de Pages renderizou o site, enviou `docs/` como artifact e concluiu o deploy. O run [36333904382](https://github.com/mancano-tales/annotated-bibliography/actions/runs/36333904382) terminou com sucesso; a API de Pages passou a `built`. A homepage e a página de método responderam HTTP 200 e continham os títulos novos. As issues #7 e #33 podem ser encerradas com o plano validado.
+
+**Metadados de Execução**:
+- **Data**: 2026-09-27
+- **Agente**: Codex / GPT-6 / Codex desktop (CobaltCanyon)
+- **Mensagem do Commit**: "docs(plan): confirma publicação Pages e encerra revisão refs #7"
+- **Arquivos afetados**: `NEWS.md`, `TODO.md`, `0-governance/plan/README.md`, `0-governance/plan/2026-09-27_Plano_Revisao_Metodologica_Site_e_Corpus.md`
+
 ## 2026-09-27 — Corrige o workflow de publicação do GitHub Pages
 
 A verificação HTTP do domínio encontrou a homepage antiga mesmo após um job de build verde; a API do GitHub Pages mantinha `status: errored`. O log mostrou que `quarto-actions/publish` só atualizava a branch `gh-pages`, sem fazer um deployment de artifact compatível com a fonte configurada como GitHub Actions. O workflow foi alterado para renderizar o Quarto, enviar `docs/` como Pages artifact e publicar com `actions/deploy-pages`. O plano e as issues #7/#33 foram reabertos até confirmar o deploy no domínio.
