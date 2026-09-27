@@ -9,7 +9,7 @@ This file is the canonical registry for fine-grained concepts and methods used i
 3. Before adding an ID, search this registry for an existing concept or alias. Add a short definition and any retired spelling here first.
 4. Merge two IDs only when they name the same concept. Preserve distinctions between related methods, theories, and programs.
 5. Do not use years, model names, temporary prompt versions, or generic labels as tags.
-6. Run `Rscript code/audit_tags.R` before publishing a batch. The audit checks every `.qmd` under `posts/`, creates `0-governance/audit/tag-usage.csv`, and exits with an error for an unregistered, malformed, duplicated, or retired alias ID.
+6. Run `Rscript code/audit_tags.R` before publishing a batch. The audit checks every `.qmd` under `posts/`, creates `repo-governance/audit/tag-usage.csv`, and exits with an error for an unregistered, malformed, duplicated, or retired alias ID.
 7. Review one-off tags during the annual taxonomy review. Keep them when they provide a useful retrieval path; otherwise consolidate them into a registered broader concept.
 
 ## Canonical tags

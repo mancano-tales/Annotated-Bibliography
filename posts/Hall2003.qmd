@@ -1,9 +1,14 @@
 ---
 title: "Hall, P. A. (2003). Aligning Ontology and Methodology in Comparative Research."
+aliases:
+  - /Old_Website_Posts/Hall2003.html
+  - /Old_Website_Posts/2026-01-12-Hall1989/Hall1989.html
 description: "Reading notes"
+author: "Tales Mançano"
 date: "2026-01-12"
 date-modified: "2026-01-12"
-categories: [Methodology, Epistemology, Ontology, Comparative Politics, Reading notes] # Categorias sugeridas com base no tema
+categories: [Annotated Bibliography, Methodology, Comparative Politics/Political Economy, Comparative]
+draft: true
 ---
 
 _Full citation:_ Hall, P. A. (2003). Aligning Ontology and Methodology in Comparative Research. In J. Mahoney & D. Rueschemeyer (Eds.), Comparative Historical Analysis in the Social Sciences (1st ed., pp. 373–404). Cambridge University Press. https://doi.org/10.1017/CBO9780511803963.012

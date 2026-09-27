@@ -62,11 +62,13 @@ This repository is a Quarto site for structured academic reading notes (*fichame
 
 - `posts/*.qmd`: source-based annotated reading notes.
 - `posts/notes/*.qmd`: cross-work concept notes, listed separately.
-- `Old_Website_Posts/`: historical source archive; do not add current work here.
 - `prompts/`: versioned drafting prompts; `code/`: maintenance and safe-render scripts.
+- `repo-governance/triage/`: preserved legacy material awaiting review; do not publish or delete it without the author.
 - `TAGS.md`: canonical tag registry, definitions, and maintenance rules.
 - `CATEGORIES.md`: canonical category taxonomy.
-- `0-governance/plan/`: active and historical plans; active plans have a GitHub issue.
+- `repo-governance/plan/`: active and historical plans; active plans have a GitHub issue.
+- `repo-governance/audit/`: versioned content and tag audit reports.
+- `repo-governance/archive/`: retained content variants excluded from publication.
 - `docs/`: local render output, ignored by git. GitHub Actions publishes the site to Pages.
 
 `CLAUDE.md` must remain exactly `@AGENTS.md`. Edit `AGENTS.md`, not that pointer file.
@@ -77,7 +79,9 @@ A QMD's `date` is the original record date. Its `last-updated` field records an 
 
 When renaming or moving a published QMD, add a Quarto `aliases` entry for each previous `.html` URL and verify the generated redirect. Keep original content variants in the governance archive when they contain meaningful differences; remove a copy only after body and bibliographic metadata prove it is redundant.
 
-If a fiche ends mid-sentence, contains visibly corrupted analysis, or otherwise cannot be published reliably, preserve its source and original dates, mark `draft: true`, and add an explicit `_quarto.yml` render exclusion. Record the reason and path in `0-governance/audit/content-review.md`; do not rely on `draft-mode: unlinked` alone to hide it from direct URLs.
+If a fiche ends mid-sentence, contains visibly corrupted analysis, or otherwise cannot be published reliably, preserve its source and original dates, mark `draft: true`, and add an explicit `_quarto.yml` render exclusion. Record the reason and path in `repo-governance/audit/content-review.md`; do not rely on `draft-mode: unlinked` alone to hide it from direct URLs.
+
+Repository paths in R scripts must resolve from the repository root with `here::i_am()` and `here::here()`. Keep `here` installed in the CI workflow. Run `Rscript tools/check_paths.R` to reject machine-specific absolute paths in tracked text files before publishing.
 
 ## Authoring a reading note
 

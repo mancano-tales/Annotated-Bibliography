@@ -33,13 +33,13 @@ A [página de método](method.qmd) explica a sequência, os critérios de qualid
 ```text
 posts/                    fichamentos de obras específicas
 posts/notes/              notas conceituais que cruzam obras
-Old_Website_Posts/        arquivo histórico de fontes
 prompts/                  prompts versionados de elaboração
 code/                     renderização segura e scripts de manutenção
 tools/                    utilitários de planos e NEWS
-0-governance/plan/        planos aprovados e históricos
-0-governance/audit/       relatórios versionados de auditoria do corpus e tags
-0-governance/archive/     variantes preservadas fora da publicação
+repo-governance/plan/     planos aprovados e históricos
+repo-governance/audit/    relatórios versionados de auditoria do corpus e tags
+repo-governance/archive/  variantes preservadas fora da publicação
+repo-governance/triage/   material legado preservado para revisão
 _extensions/              extensões do Quarto
 files/includes/           includes HTML do site
 index.qmd                 página inicial
@@ -53,17 +53,20 @@ references.bib            bibliografia mestre em BibTeX
 
 `docs/` é a saída local de renderização e fica fora do Git. O GitHub Actions constrói o site e o publica no GitHub Pages.
 
+Alguns fichamentos recuperados em `posts/` continuam com `draft: true` e fora do site até que suas fontes e análises sejam revisadas. Outros materiais antigos foram preservados em `repo-governance/triage/`; o destino de cada grupo e as verificações de duplicidade estão documentados lá.
+
 ## Tags e categorias
 
 As categorias amplas seguem [`CATEGORIES.md`](CATEGORIES.md). Conceitos específicos usam identificadores em minúsculas e kebab-case documentados no registro canônico [`TAGS.md`](TAGS.md). Execute a auditoria antes de adicionar ou publicar tags:
 
 ```powershell
 Rscript code/audit_tags.R
+Rscript tools/check_paths.R
 ```
 
 ## Renderização local
 
-Requisitos: [Quarto CLI](https://quarto.org/docs/get-started/) e R.
+Requisitos: [Quarto CLI](https://quarto.org/docs/get-started/), R e o pacote R `here` para os scripts de manutenção.
 
 ```powershell
 git clone https://github.com/mancano-tales/annotated-bibliography.git

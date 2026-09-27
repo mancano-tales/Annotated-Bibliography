@@ -1,9 +1,13 @@
 ---
-title: "Notes for Carnoy 1984"
+title: "Notes for Carnoy's The State and Political Theory (1984)"
+aliases:
+  - /Old_Website_Posts/Carnoy1984/Carnoy1984.html
 description: "Text notes"
+author: "Tales Mançano"
 date: "2026-01-12"
 date-modified: "2026-01-12"
-categories: [Political Economy, Text notes] # Adicione suas categorias aqui
+categories: [Descriptive Note, Political Economy, State Formation]
+draft: true
 ---
 
 Aqui está um resumo abrangente e estruturado do texto fornecido:

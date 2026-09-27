@@ -21,8 +21,8 @@
 /posts/*_files/
 /posts/notes/*.html
 /posts/notes/*_files/
-/Old_Website_Posts/**/*.html
-/Old_Website_Posts/**/*_files/
+/repo-governance/triage/local-generated/
+/repo-governance/triage/local-history/
 /*.html
 /*_files/
 

@@ -1,9 +1,13 @@
 ---
 title: "Carnoy, M. (2024). The State and Education."
+aliases:
+  - /Old_Website_Posts/Carnoy2024Ch3.html
 description: "Reading notes"
+author: "Tales Mançano"
 date: "2026-01-04"
 date-modified: "2026-01-04"
-categories: [Courses, Reading notes] # Adicione suas categorias aqui
+categories: [Annotated Bibliography, Political Economy, Education Policy/Politics]
+draft: true
 ---
 
 _Full citation:_  Carnoy, M. (2024). The State and Education. In The political economy of education. Cambridge University Press. 

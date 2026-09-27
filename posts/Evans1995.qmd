@@ -1,9 +1,12 @@
 ---
-title: "The State and Industrial Transformation: Insights from Peter Evans () Embedded Autonomy: States and Industrial Transformation"
+title: "Peter Evans (1995) — Embedded Autonomy: States and Industrial Transformation"
+aliases:
+  - /Old_Website_Posts/Evans1995.html
 subtitle: "Reviewing 'Embedded Autonomy' for EDUC 306B"
 author: "Tales Mançano"
 date: "2026-01-03"
-categories: [Reading Notes, Courses, Political Economy, State Theory,]
+categories: [Annotated Bibliography, Comparative Politics/Political Economy, State Formation, Comparative]
+draft: true
 ---
 
 _Full citation:_  Evans, P. B. (1995). Embedded autonomy: States and industrial transformation. Princeton University Press.

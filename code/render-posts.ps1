@@ -142,7 +142,7 @@ $docsBefore = @(Get-ChildItem (Join-Path $Root 'docs') -Filter *.html -File -Rec
 $lockPattern = 'os error (32|1224)|being used by another process|user-mapped section'
 
 function Invoke-QuartoRender {
-    param([string[]]$Args, [string]$Label)
+    param([string[]]$RenderArgs, [string]$Label)
 
     # NOTA: nao usar `& quarto ... 2>&1` aqui. No PowerShell 5.1, redirecionar
     # o stderr de um executavel nativo faz cada linha virar um ErrorRecord e
@@ -158,7 +158,7 @@ function Invoke-QuartoRender {
 
         try {
             $proc = Start-Process -FilePath 'quarto' `
-                                  -ArgumentList (@('render') + $Args + @('--no-clean')) `
+                                  -ArgumentList (@('render') + $RenderArgs + @('--no-clean')) `
                                   -NoNewWindow -Wait -PassThru `
                                   -RedirectStandardOutput $outFile `
                                   -RedirectStandardError  $errFile
@@ -198,11 +198,11 @@ function Invoke-QuartoRender {
 $failed = @()
 
 if ($All) {
-    if (-not (Invoke-QuartoRender -Args @() -Label 'projeto inteiro')) { $failed += 'projeto' }
+    if (-not (Invoke-QuartoRender -RenderArgs @() -Label 'projeto inteiro')) { $failed += 'projeto' }
 } else {
     foreach ($t in $targets) {
         $rel = $t.Substring($Root.Length).TrimStart('\', '/')
-        if (-not (Invoke-QuartoRender -Args @($rel) -Label $rel)) { $failed += $rel }
+        if (-not (Invoke-QuartoRender -RenderArgs @($rel) -Label $rel)) { $failed += $rel }
     }
 }
 

@@ -1,9 +1,13 @@
 ---
 title: "Hay, C. (2019). Does capitalism (still) come in varieties?"
+aliases:
+  - /Old_Website_Posts/Hay2019.html
 description: "Reading notes on the evolution of the Varieties of Capitalism (VoC) framework."
+author: "Tales Mançano"
 date: "2026-01-13"
 date-modified: "2026-01-13"
-categories: [Political Economy, Varieties of Capitalism, Comparative Politics, Reading notes]
+categories: [Annotated Bibliography, Comparative Politics/Political Economy, Comparative]
+draft: true
 ---
 
 _Full citation:_ Hay, Colin (2019). Does capitalism (still) come in varieties?, Review of International Political Economy, 27:1, 1-19. https://doi.org/10.1080/09692290.2019.1633382

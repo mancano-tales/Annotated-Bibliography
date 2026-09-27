@@ -1,7 +1,10 @@
 # Corpus review and consolidation record
 
-**Audit date:** 2026-09-27  
-**Plan:** [`../plan/2026-09-27_Plano_Revisao_Metodologica_Site_e_Corpus.md`](../plan/2026-09-27_Plano_Revisao_Metodologica_Site_e_Corpus.md)
+**Audit date:** 2026-09-27
+
+**Prior audit plan:** [`../plan/2026-09-27_Plano_Revisao_Metodologica_Site_e_Corpus.md`](../plan/2026-09-27_Plano_Revisao_Metodologica_Site_e_Corpus.md) (issue #7)
+
+**Current repository plan:** [`../plan/2026-09-27_Plano_Repo_Governance_Caminhos_e_Acervo_Legado.md`](../plan/2026-09-27_Plano_Repo_Governance_Caminhos_e_Acervo_Legado.md) (issue #8)
 
 ## Inventory
 
@@ -53,3 +56,11 @@ This is reversible: restore a page to the render list only after reviewing and c
 - Renamed five equivalent synthesis headings to the standard `Argumento Sintético`; the source conclusions and prose were not rewritten.
 - Marked `Breen-Muller2020Incomplete.qmd` as a draft because its own filename marks it incomplete and its current text stops after chapter 3 of a ten-chapter book. It remains in the repository and is omitted from public listings.
 - Corrected titles for the two Good Description slide decks. Their source dates remain `9 de agosto de 2026`; the decks are not part of the bibliography listing.
+
+## Current disposition after legacy migration
+
+The inventory above is the snapshot from issue #7, before the legacy website tree was migrated. After the issue #8 review, the current inventory contains 155 QMDs: 137 under `posts/` (including eight recovered notes held as drafts), 8 archived alternatives, and 10 triage sources. The tag audit covers all 137 QMDs under `posts/`; it reports 63 registered tags in use, zero non-canonical tags, and zero unused registry IDs. The content inventory reports 11 metadata/title match candidates, none with identical normalized bodies, and one intentionally incomplete triage source without front matter: `repo-governance/triage/old-qmd/2026_01_20_Comment_on_Paglayan/Comment_on_Paglayan.qmd`.
+
+The old Hall 1993 template duplicate was removed after comparing its DOI, title, record date, and body length with `Hall1993.qmd` (2,905 versus 366 body characters). The Hall fiche is canonical; `/Old_Website_Posts/Template.html` is retained in its `aliases`. The separate `Text Template.qmd` is a generic prompt shell and remains in triage. The pre-existing exact Hall1989/Hall2003 duplicate decision remains as recorded above.
+
+Eight bibliographic notes moved into `posts/` with original dates and prior route aliases preserved in front matter. They remain marked `draft: true` and are explicitly excluded from the Quarto render list pending source and analysis review. The other ten old QMDs and the legacy support files are preserved in `repo-governance/triage/`; generated HTML and `.Rhistory` stay local and ignored. No content date was reset during migration.

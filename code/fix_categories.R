@@ -1,10 +1,7 @@
+here::i_am("code/fix_categories.R")
 library(tidyverse)
 
-args <- commandArgs(trailingOnly = FALSE)
-script_arg <- sub("^--file=", "", args[grepl("^--file=", args)])
-script_path <- normalizePath(script_arg[[1]], winslash = "/", mustWork = TRUE)
-repo_root <- normalizePath(file.path(dirname(script_path), ".."), winslash = "/", mustWork = TRUE)
-posts_dir <- file.path(repo_root, "posts")
+posts_dir <- here::here("posts")
 
 # ── Canonical mapping ─────────────────────────────────────────────────────────
 # Keys   : raw/legacy category names (Portuguese or non-standard English)

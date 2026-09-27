@@ -29,6 +29,10 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y r-base r-cran-knitr r-cran-rmarkdown
+          Rscript -e 'install.packages("here", repos = "https://cloud.r-project.org")'
+
+      - name: Check for machine-specific absolute paths
+        run: Rscript tools/check_paths.R
 
       - name: Render Quarto site
         run: quarto render

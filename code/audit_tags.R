@@ -1,12 +1,10 @@
 #!/usr/bin/env Rscript
 
-args <- commandArgs(trailingOnly = FALSE)
-script_arg <- sub("^--file=", "", args[grepl("^--file=", args)])
-script_path <- normalizePath(script_arg[[1]], winslash = "/", mustWork = TRUE)
-repo_root <- normalizePath(file.path(dirname(script_path), ".."), winslash = "/", mustWork = TRUE)
-registry_path <- file.path(repo_root, "TAGS.md")
-post_dir <- file.path(repo_root, "posts")
-output_dir <- file.path(repo_root, "0-governance", "audit")
+here::i_am("code/audit_tags.R")
+repo_root <- here::here()
+registry_path <- here::here("TAGS.md")
+post_dir <- here::here("posts")
+output_dir <- here::here("repo-governance", "audit")
 dir.create(output_dir, recursive = TRUE, showWarnings = FALSE)
 
 registry_lines <- readLines(registry_path, encoding = "UTF-8", warn = FALSE)
@@ -80,7 +78,7 @@ cat("Arquivos sem tags:", sum(vapply(files, function(p) !length(parse_tags(readL
 cat("Tags não canônicas:", nrow(errors), "\n")
 cat("IDs registrados sem uso:", length(unused), if (length(unused)) paste0(" (", paste(unused, collapse = ", "), ")") else "", "\n")
 if (length(frontmatter_errors)) cat("Front matter para revisar:\n", paste(frontmatter_errors, collapse = "\n"), "\n")
-cat("Relatório: 0-governance/audit/tag-usage.csv\n")
+cat("Relatório: repo-governance/audit/tag-usage.csv\n")
 if (nrow(errors)) {
   print(errors, row.names = FALSE)
   quit(status = 1L)

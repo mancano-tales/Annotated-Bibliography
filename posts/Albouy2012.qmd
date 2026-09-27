@@ -1,9 +1,13 @@
 ---
 title: "Albouy, D. Y. (2012). The Colonial Origins of Comparative Development: Comment."
+aliases:
+  - /Old_Website_Posts/Albouy2012.html
 description: "Reading notes on the empirical critique of the settler mortality IV."
+author: "Tales Mançano"
 date: "2026-01-13"
 date-modified: "2026-01-13"
-categories: [Development Economics, Institutions, Econometrics, Reading notes]
+categories: [Annotated Bibliography, Development Economics, Comparative]
+draft: true
 ---
 
 _Full citation:_ Albouy, David Y. (2012). The Colonial Origins of Comparative Development: An Empirical Investigation: Comment. American Economic Review, 102 (6): 3059–3076. https://doi.org/10.1257/aer.102.6.3059

@@ -33,13 +33,13 @@ The [method page](method.qmd) explains the sequence, quality checks, and cases w
 ```text
 posts/                    source-based fiches
 posts/notes/              cross-work concept notes
-Old_Website_Posts/        historical source archive
 prompts/                  versioned drafting prompts
 code/                     safe Quarto rendering and maintenance scripts
 tools/                    plan and NEWS utilities
-0-governance/plan/        approved and historical work plans
-0-governance/audit/       versioned corpus and tag audit reports
-0-governance/archive/     retained content variants excluded from publication
+repo-governance/plan/     approved and historical work plans
+repo-governance/audit/    versioned corpus and tag audit reports
+repo-governance/archive/  retained content variants excluded from publication
+repo-governance/triage/   preserved legacy material awaiting review
 _extensions/              Quarto extensions
 files/includes/           site-wide HTML includes
 index.qmd                 home page
@@ -53,17 +53,20 @@ references.bib            master BibTeX bibliography
 
 `docs/` is local render output and is ignored by git. GitHub Actions builds the site and publishes to GitHub Pages.
 
+Some recovered notes in `posts/` remain marked `draft: true` and are excluded from the site until their source and analysis are reviewed. Other legacy material is preserved in `repo-governance/triage/`; its disposition and duplicate checks are documented there.
+
 ## Tags and categories
 
 Broad browse categories follow [`CATEGORIES.md`](CATEGORIES.md). Fine-grained concepts use lowercase kebab-case identifiers documented in the canonical [`TAGS.md`](TAGS.md) registry. Run the tag audit before adding or publishing tags:
 
 ```powershell
 Rscript code/audit_tags.R
+Rscript tools/check_paths.R
 ```
 
 ## Build locally
 
-Requirements: [Quarto CLI](https://quarto.org/docs/get-started/) and R.
+Requirements: [Quarto CLI](https://quarto.org/docs/get-started/), R, and the R package `here` for maintenance scripts.
 
 ```powershell
 git clone https://github.com/mancano-tales/annotated-bibliography.git

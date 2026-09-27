@@ -1,9 +1,13 @@
 ---
 title: "Carnoy, M. (1989). Education, State, and Culture in American Society."
+aliases:
+  - /Old_Website_Posts/Carnoy1989/Carnoy1989.html
 description: "Reading notes"
+author: "Tales Mançano"
 date: "2026-01-03"
 date-modified: "2026-01-04"
-categories: [Courses, Reading notes] # Adicione suas categorias aqui
+categories: [Annotated Bibliography, Political Economy, Sociology of Education, United States]
+draft: true
 ---
 
 _Full citation:_  Carnoy, M. (1989). Education, State, and Culture in American Society. In H. A. Giroux & M. Carnoy (Eds.), Critical pedagogy, the state, and cultural struggle. State University of New York Press.

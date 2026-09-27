@@ -1,5 +1,19 @@
 # NEWS — Decisões de Design e Evolução Metodológica (annotated-bibliography)
 
+## 2026-09-27 — Racionaliza governança e acervo legado
+
+A estrutura de governança agora usa `repo-governance/`, e o bloco específico de `AGENTS.md`, os READMEs bilíngues e `TAGS.md` refletem o mapa atual. O inventário antigo foi incorporado: oito fichamentos recuperados estão em `posts/` como drafts explicitamente fora do render até revisão; dez QMDs e materiais auxiliares permanecem em triagem documentada. As datas de origem foram conferidas contra os arquivos anteriores. O duplicado vazio do Hall (1993) foi removido; o template genérico segue preservado para avaliação futura.
+
+Removi 1.837 campos BibTeX `file` que apontavam para anexos locais, sem alterar os dados de citação. O `.Rproj` foi removido a pedido; o `.Rhistory`, HTML gerado e outras saídas locais ficaram fora do commit. Scripts R resolvem arquivos com `here::i_am()`/`here::here()`, a CI instala `here` e executa o verificador de caminhos. O renderizador seguro também foi corrigido para encaminhar corretamente o QMD selecionado, em vez de iniciar um build integral.
+
+Verificação: 137 QMDs na auditoria de tags, 63 IDs em uso, nenhum ID não canônico ou sem uso; inventário de 155 QMDs e 11 pares candidatos sem corpos idênticos (um rascunho de triagem sem front matter é mantido intencionalmente). O verificador de caminhos passou e o render seguro direcionado concluiu 3/3 itens (ficha, índice e catálogo), preservando os 150 HTMLs locais. O render integral será confirmado pela CI após o push.
+
+**Metadados de Execução**:
+- **Data**: 2026-09-27
+- **Agente**: Codex / GPT-6 / Codex desktop (CobaltCanyon)
+- **Mensagem do Commit**: "chore(repo): migra acervo e elimina caminhos locais refs #8"
+- **Arquivos afetados**: `AGENTS.md`, `README.md`, `README.pt-br.md`, `TAGS.md`, `NEWS.md`, `TODO.md`, `.gitignore`, `.here`, `_quarto.yml`, `.github/workflows/publish.yml`, `references.bib`, `code/`, `tools/`, `posts/`, `repo-governance/`, `Old_Website_Posts/`, `Annotated-Bibliography.Rproj`
+
 ## 2026-09-27 — Confirma a publicação pública da versão revisada
 
 O workflow nativo de Pages renderizou o site, enviou `docs/` como artifact e concluiu o deploy. O run [36333904382](https://github.com/mancano-tales/annotated-bibliography/actions/runs/36333904382) terminou com sucesso; a API de Pages passou a `built`. A homepage e a página de método responderam HTTP 200 e continham os títulos novos. As issues #7 e #33 podem ser encerradas com o plano validado.

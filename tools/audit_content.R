@@ -1,10 +1,8 @@
 #!/usr/bin/env Rscript
 
-args <- commandArgs(trailingOnly = FALSE)
-script_arg <- sub("^--file=", "", args[grepl("^--file=", args)])
-script_dir <- dirname(normalizePath(script_arg[[1]], winslash = "/", mustWork = TRUE))
-repo_root <- normalizePath(file.path(script_dir, ".."), winslash = "/", mustWork = TRUE)
-output_dir <- file.path(repo_root, "0-governance", "audit")
+here::i_am("tools/audit_content.R")
+repo_root <- here::here()
+output_dir <- here::here("repo-governance", "audit")
 dir.create(output_dir, recursive = TRUE, showWarnings = FALSE)
 
 rel_path <- function(path) {
@@ -110,8 +108,8 @@ extract_citekey <- function(text) {
 
 source_files <- c(
   list.files(file.path(repo_root, "posts"), pattern = "\\.qmd$", recursive = TRUE, full.names = TRUE),
-  list.files(file.path(repo_root, "0-governance", "archive", "variants"), pattern = "\\.qmd$", recursive = TRUE, full.names = TRUE),
-  list.files(file.path(repo_root, "Old_Website_Posts"), pattern = "\\.qmd$", recursive = TRUE, full.names = TRUE)
+  list.files(file.path(repo_root, "repo-governance", "archive", "variants"), pattern = "\\.qmd$", recursive = TRUE, full.names = TRUE),
+  list.files(file.path(repo_root, "repo-governance", "triage", "old-qmd"), pattern = "\\.qmd$", recursive = TRUE, full.names = TRUE)
 )
 source_files <- sort(unique(source_files))
 
@@ -120,7 +118,7 @@ rows <- lapply(source_files, function(path) {
   fm <- parsed$metadata
   body <- parsed$body
   rel <- rel_path(path)
-  type <- if (grepl("^Old_Website_Posts/", rel)) "legacy" else if (grepl("^0-governance/archive/variants/", rel)) "archived-variant" else if (grepl("^posts/notes/", rel)) "concept-note" else if (grepl("Slides.*\\.qmd$", rel, ignore.case = TRUE)) "slides" else "bibliography"
+  type <- if (grepl("^repo-governance/triage/old-qmd/", rel)) "triage" else if (grepl("^repo-governance/archive/variants/", rel)) "archived-variant" else if (grepl("^posts/notes/", rel)) "concept-note" else if (grepl("Slides.*\\.qmd$", rel, ignore.case = TRUE)) "slides" else "bibliography"
   title <- scalar(fm$title)
   list(
     path = rel,
@@ -211,4 +209,4 @@ cat("Candidatos a duplicata:", nrow(candidates), "(corpo idêntico:", sum(candid
 cat("Tags distintas:", nrow(tag_report), "\n")
 cat("Arquivos sem tags:", sum(inventory$tag_count == 0L), "\n")
 cat("Erros de front matter:", sum(nzchar(inventory$frontmatter_error)), "\n")
-cat("Relatórios: 0-governance/audit/content-inventory.csv, duplicate-candidates.csv, tag-inventory.csv\n")
+cat("Relatórios: repo-governance/audit/content-inventory.csv, duplicate-candidates.csv, tag-inventory.csv\n")

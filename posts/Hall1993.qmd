@@ -1,9 +1,14 @@
 ---
 title: "Hall, P. A. (1993). Policy Paradigms, Social Learning, and the State."
+aliases:
+  - /Old_Website_Posts/Hall1993.html
+  - /Old_Website_Posts/Template.html
 description: "Reading notes"
+author: "Tales Mançano"
 date: "2026-01-12"
 date-modified: "2026-01-12"
-categories: [Public Policy, Reading notes]
+categories: [Annotated Bibliography, Political Economy, Public Policy, Western Europe]
+draft: true
 ---
 
 _Full citation:_ Hall, P. A. (1993). Policy Paradigms, Social Learning, and the State: The Case of Economic Policymaking in Britain. Comparative Politics, 25(3), 275–296. https://doi.org/10.2307/422246
