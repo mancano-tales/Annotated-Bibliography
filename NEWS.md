@@ -1,5 +1,15 @@
 # NEWS — Decisões de Design e Evolução Metodológica (annotated-bibliography)
 
+## 2026-09-27 — Conclui a renomeação e os metadados públicos
+
+O repositório no GitHub e a pasta local agora usam `annotated-bibliography`. O remote local acompanha o slug. A descrição pública apresenta o processo de leitura e escrita analítica; a homepage e os dez topics metodológicos foram cadastrados. GitHub Pages publica pelo workflow de Actions, que concluiu com sucesso após o render integral de 126/126 entradas. O plano foi concluído com inventário, datas preservadas, feed e sitemap verificados e arquivos locais excluídos mantidos fora do commit.
+
+**Metadados de Execução**:
+- **Data**: 2026-09-27
+- **Agente**: Codex / GPT-6 / Codex desktop (CobaltCanyon)
+- **Mensagem do Commit**: "chore(repo): conclui renomeação e metadados públicos refs #7"
+- **Arquivos afetados**: `NEWS.md`, `TODO.md`, `0-governance/plan/README.md`, `0-governance/plan/2026-09-27_Plano_Revisao_Metodologica_Site_e_Corpus.md`
+
 ## 2026-09-27 — Revisão metodológica e racionalização do site
 
 O site foi reorganizado para apresentar um método transparente de reconstrução de argumentos e escrita de fechamentos analíticos críticos. A homepage agora direciona para páginas próprias da bibliografia, do método e das notas conceituais; os READMEs bilíngues, a navegação, os estilos e o `AGENTS.md` seguem a mesma estrutura. O guia metodológico distingue a conclusão da obra, o argumento sintético do leitor e a avaliação crítica.

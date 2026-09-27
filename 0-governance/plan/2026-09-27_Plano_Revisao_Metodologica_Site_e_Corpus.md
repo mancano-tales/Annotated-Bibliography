@@ -1,9 +1,9 @@
 ---
 tipo: Plano
 titulo: "Auditoria metodológica, editorial e técnica da bibliografia anotada"
-status: EM EXECUÇÃO
+status: CONCLUÍDO
 criado: "2026-09-27"
-concluido: null
+concluido: "2026-09-27"
 issue: 7
 agentes:
   orquestrador: "Codex / GPT-6 / Codex desktop"
@@ -11,12 +11,12 @@ agentes:
   auditor: null
 autor_humano: "Tales Mançano"
 tarefas:
-  - { desc: "Inventariar QMDs, metadados, datas, nomes, links e variantes; confirmar duplicatas", status: pendente, data: null }
-  - { desc: "Recuperar publicação Pages e reorganizar homepage, navegação e páginas metodológicas", status: pendente, data: null }
-  - { desc: "Definir formato de fechamento e migrar conteúdo sem alterar datas originais", status: pendente, data: null }
-  - { desc: "Criar registro canônico, regra e auditoria sistemática de tags", status: pendente, data: null }
-  - { desc: "Renomear repositório; definir descrição, homepage, topics e novo URL canônico", status: pendente, data: null }
-  - { desc: "Atualizar READMEs, AGENTS.md, scripts, links e validar site e clone", status: pendente, data: null }
+  - { desc: "Inventariar QMDs, metadados, datas, nomes, links e variantes; confirmar duplicatas", status: concluída, data: "2026-09-27" }
+  - { desc: "Recuperar publicação Pages e reorganizar homepage, navegação e páginas metodológicas", status: concluída, data: "2026-09-27" }
+  - { desc: "Definir formato de fechamento e migrar conteúdo sem alterar datas originais", status: concluída, data: "2026-09-27" }
+  - { desc: "Criar registro canônico, regra e auditoria sistemática de tags", status: concluída, data: "2026-09-27" }
+  - { desc: "Renomear repositório; definir descrição, homepage, topics e novo URL canônico", status: concluída, data: "2026-09-27" }
+  - { desc: "Atualizar READMEs, AGENTS.md, scripts, links e validar site e clone", status: concluída, data: "2026-09-27" }
 relacionados:
   - "mancano-repo-hub: repo-governance/plan/2026-09-27_Plano_Revisao_Metodologica_Annotated_Bibliography.md (issue #33)"
 news: []
@@ -61,3 +61,12 @@ Ficam excluídos: `.vscode/`, exportações de conversa, saída Beamer `.tex`, H
 - Tags têm registro, definições, regra de manutenção e relatório de auditoria; aliases são resolvidos deliberadamente.
 - Repositório e pasta local estão em minúsculas; descrição, homepage, topics, READMEs, instruções e referências internas concordam.
 - Nenhum arquivo excluído do escopo é apagado, staged ou commitado.
+
+## Resultado e evidências
+
+- O repositório e a pasta local agora se chamam `annotated-bibliography`; `origin`, badges, clone commands, links e configuração do Quarto usam o slug minúsculo.
+- O GitHub exibe a descrição metodológica aprovada, homepage `https://mancano-tales.github.io/annotated-bibliography/` e dez topics relacionados a fichamento, leitura crítica, análise de argumentos e Quarto.
+- `code/render-posts.ps1 -All` compilou 126/126 entradas. O workflow Pages [36332351139](https://github.com/mancano-tales/annotated-bibliography/actions/runs/36332351139) terminou com sucesso.
+- Auditorias finais: 156 QMDs inventariados; uma duplicata idêntica confirmada e removida; oito alternativas substanciais preservadas; cinco rascunhos incompletos mantidos fora da publicação; 63 tags canônicas usadas e auditoria sem IDs inválidos ou registrados sem uso.
+- Sitemap de 126 URLs, feed RSS de 20 itens, aliases para os caminhos antigos e ausência dos cinco rascunhos na publicação foram verificados. As datas de origem foram preservadas.
+- `.vscode/`, `0-meta/`, `.tex` gerado e `tools/__pycache__/` permaneceram locais e fora do commit.
