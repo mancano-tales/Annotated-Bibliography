@@ -40,3 +40,8 @@
 .RData
 .Ruserdata
 .positai
+
+# Locais de maquina e de render (2026-09-29, mancano-tales/mancano-repo-hub#37)
+.vscode/
+__pycache__/
+/posts/*.tex
